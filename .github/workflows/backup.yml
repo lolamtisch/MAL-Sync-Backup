@@ -8,6 +8,7 @@ name: Backup
 jobs:
   backup:
     name: Backup
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
       with:
