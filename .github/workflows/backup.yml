@@ -16,6 +16,8 @@ jobs:
       run: npm install
     - name: Backup
       run: npm run backup
+      env:
+        FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
     - name: Commit files
       run: |
         git add firebase.json
