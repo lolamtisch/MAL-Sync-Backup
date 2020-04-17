@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const path = require('path');
 
-fetch('https://kissanimelist.firebaseio.com/Data2.json?auth=TOKEN')
+fetch('https://kissanimelist.firebaseio.com/Data2.json?auth='+process.env.FB_Tokken)
 .then(res => {
 	if(res.status !== 200) {
 		throw "response status not 200";
