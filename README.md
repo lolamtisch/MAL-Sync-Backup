@@ -4,56 +4,89 @@ The data is updated once a week. Wrong/missing mappings are not seldom, speciall
 
 ## Structure
 ### MAL -> Streaming Page Structure:
-`Data2/(Malanime|Malmanga)/[id]`  
+`mal.json -> /(anime|manga)/[id]`  
   
-Data2/Malanime/19815
+anime/19815
 ```json
 {
-  "Sites" : {
-    "9anime" : {
-      "4qkm" : "9anime",
-      "y2p0" : "9anime"
+  "altTitle": [
+    "No Game, No Life",
+    "NGNL",
+    "ノーゲーム・ノーライフ"
+  ],
+  "id": 19815,
+  "type": "anime",
+  "title": "No Game No Life",
+  "url": "https://myanimelist.net/anime/19815/No_Game_No_Life",
+  "image": "https://cdn.myanimelist.net/images/anime/5/65187.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T12:36:13.580Z",
+  "updatedAt": "2020-10-15T11:36:06.203Z",
+  "Pages": {
+    "Aniwatch": {
+      "350": {
+        "...": "..."
+      }
     },
-    "Anime4you" : {
-      "779" : "Anime4you",
-      "781" : "Anime4you"
+    "9anime": {
+      "4qkm": {
+        "...": "..."
+      },
+      "y2p0": {
+        "...": "..."
+      }
     },
-    "Crunchyroll" : {
-      "no%20game%20no%20life" : "Crunchyroll"
+    "Gogoanime": {
+      "no-game-no-life": {
+        "...": "..."
+      },
+      "no-game-no-life-dub": {
+        "...": "..."
+      }
     },
-    "Gogoanime" : {
-      "no-game-no-life" : "Gogoanime"
-    },
-    "Kissanime" : {
-      "no-game-no-life" : "Kissanime",
-      "no-game-no-life-dub" : "Kissanime"
-    },
-    "Netflix" : {
-      "80052669" : "Netflix"
-    },
-    "Twistmoe" : {
-      "no-game-no-life" : "Twistmoe"
+    "Twistmoe": {
+      "no-game-no-life": {
+        "...": "..."
+      }
     }
-  },
-  "image" : "https://cdn.myanimelist.net/images/anime/5/65187.jpg",
-  "title" : "No Game No Life",
-  "url" : "https://myanimelist.net/anime/19815/No_Game_No_Life"
+  }
 }
 
 ```
 
 ### Streaming Page -> MAL Structure:  
-`Data2/[streaming page key]/[id]`  
+`page.json -> [streaming page key]/[id]`  
   
-Data2/Netflix/80052669
+9anime/214
 ```json
 {
-  "Mal" : {
-    "19815" : "No_Game_No_Life"
-  },
-  "image" : "https://occ-0-2774-2773.1.nflxso.net/dnm/api/v5/rendition/8e167858e96558328f8ee56178face53f4345520/AAAABauzZX0uKYSRR7KcjTXdpJVXlK2u4fwcnYZNmjJYYdtM7qh_q4KfJSS_IMWfjmWBanad2gMNUScOADPviV72EFhQxpqrzZl7vLmLDIMo_SPeQjWsiPgQJ60nCMwbY8DbULuK9SLnMEVjrqnF8M04NTm814IwSs845Q.png",
-  "title" : "No Game No Life",
-  "url" : "https://www.netflix.com/title/80052669"
+  "identifier": "214",
+  "malUrl": "https://myanimelist.net/anime/9617/K-On_Movie",
+  "type": "anime",
+  "page": "9anime",
+  "title": "K-On! Movie",
+  "url": "...",
+  "image": "....",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 9617,
+  "createdAt": "...",
+  "updatedAt": "...",
+  "Mal": {
+    "altTitle": [],
+    "id": 9617,
+    "type": "anime",
+    "title": "K-On! Movie",
+    "url": "...",
+    "image": "...",
+    "category": "-",
+    "hentai": false,
+    "createdAt": "...",
+    "updatedAt": "..."
+  }
 }
 
 ```

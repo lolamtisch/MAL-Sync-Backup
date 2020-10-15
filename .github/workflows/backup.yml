@@ -25,7 +25,8 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
     - name: Commit files
       run: |
-        git add firebase.json
+        git add mal.json
+        git add page.json
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "weekly backup" -a
