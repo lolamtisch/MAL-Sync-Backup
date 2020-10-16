@@ -3,6 +3,10 @@ The main purppose of this repository is have a backup of the <a href="https://gi
 The data is updated once a week. Wrong/missing mappings are not seldom, specially mangas, but because they are generated throght all the users of MAL-Sync it should correct itself over time.
 
 ## Structure
+
+| :warning: WARNING: firebase.json has been deprecated! |
+| --- |
+
 ### MAL -> Streaming Page Structure:
 `mal.json -> /(anime|manga)/[id]`  
   
