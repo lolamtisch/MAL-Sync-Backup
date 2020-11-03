@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MALSync/MAL-Sync-Backup#readme",
   "dependencies": {
+    "markdown-table": "^2.0.0",
     "node-fetch": "^2.6.1"
   }
 }
