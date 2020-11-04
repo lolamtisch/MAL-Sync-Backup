@@ -27,6 +27,7 @@ jobs:
       run: |
         git add mal.json
         git add page.json
+        git add README.md
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m "weekly backup" -a

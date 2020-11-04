@@ -2,6 +2,11 @@
 The main purppose of this repository is have a backup of the <a href="https://github.com/MALSync/MALSync">MAL-Sync</a> MAL to Streaming page mapping database. But using the data for other uses is allowed. 
 The data is updated once a week. Wrong/missing mappings are not seldom, specially mangas, but because they are generated throght all the users of MAL-Sync it should correct itself over time.
 
+## Stats
+
+<!--statstable-->
+<!--/statstable-->
+
 ## Structure
 
 | :warning: WARNING: firebase.json has been deprecated! |
