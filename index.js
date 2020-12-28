@@ -3,11 +3,36 @@ const fs = require('fs');
 const path = require('path');
 const table = require('markdown-table');
 
-download('/mal/export', 'mal').then( () => download('/page/export', 'page').then( () => updateReadme()));
+async function start() {
+	const pageData = convertToPage(await getPaginatedData('/page/export'));
+	fs.writeFileSync(path.resolve('page' + ".json"),JSON.stringify(pageData, null, 2));
 
-async function download(url, filename) {
-	getData(url).then(json => fs.writeFileSync(path.resolve(filename + ".json"),JSON.stringify(json, null, 2)))
-	.catch(() => {throw "error"});
+	const malData = convertToMal(await getPaginatedData('/mal/export'));
+	fs.writeFileSync(path.resolve('mal' + ".json"),JSON.stringify(malData, null, 2));
+
+	await updateReadme();
+}
+
+function convertToMal(data) {
+	const malData = {};
+	for (const entry of data) {
+		if(!malData[entry.type]) {
+			malData[entry.type] = {};
+		}
+		malData[entry.type][entry.id] = entry;
+	}
+	return malData;
+}
+
+function convertToPage(data) {
+	const pageData = {};
+	for (const page of data) {
+		if(!pageData[page.page]) {
+			pageData[page.page] = {};
+		}
+		pageData[page.page][page.identifier] = page;
+	}
+	return pageData;
 }
 
 async function updateReadme() {
@@ -35,6 +60,26 @@ async function updateReadme() {
 	});
 }
 
+let data = {};
+async function getPaginatedData(url, type = 'anime', page = 0) {
+	return await getData(url + '/' + type + '/' + page).then(async (json) => {
+		if(data[url]) {
+			data[url] = [].concat(data[url], json.data);
+		} else {
+			data[url] = json.data;
+		}
+		if(json.next) {
+			return await getPaginatedData(url, type, page + 1);
+		} else {
+			if(type === 'anime') {
+				return await getPaginatedData(url, 'manga')
+			} else {
+				return data[url];
+			}
+		}
+	}).catch((e) => {throw "pagination error"});
+}
+
 async function getData(url) {
 	return fetch(process.env.DOMAIN + url, {
 		headers: {
@@ -52,3 +97,5 @@ process.on('unhandledRejection', err => {
 	console.error(err);
 	process.exit(1);
 });
+
+start();
