@@ -7,17 +7,17 @@ The data is updated once a week. Wrong/missing mappings are not seldom, speciall
 <!--statstable-->
 | Page        | Total | Malids | Empty |
 | ----------- | ----- | ------ | ----- |
-| 9anime      | 11784 | 11656  | 128   |
-| Anime4you   | 3601  | 3459   | 142   |
-| Aniwatch    | 2837  | 2829   | 8     |
-| Crunchyroll | 1111  | 1057   | 54    |
-| Gogoanime   | 6212  | 6154   | 58    |
-| Mangadex    | 43824 | 21702  | 22122 |
-| MangaNelo   | 10939 | 7509   | 3430  |
-| Twistmoe    | 1911  | 1899   | 12    |
-| animepahe   | 1561  | 1560   | 1     |
-| MangaFox    | 602   | 402    | 200   |
-| MangaSee    | 715   | 574    | 141   |
+| 9anime      | 11868 | 11732  | 136   |
+| Anime4you   | 3611  | 3470   | 141   |
+| Aniwatch    | 2912  | 2903   | 9     |
+| Crunchyroll | 1303  | 1246   | 57    |
+| Gogoanime   | 6248  | 6191   | 57    |
+| Mangadex    | 44017 | 21730  | 22287 |
+| MangaNelo   | 11037 | 7551   | 3486  |
+| Twistmoe    | 1917  | 1905   | 12    |
+| animepahe   | 1993  | 1992   | 1     |
+| MangaFox    | 853   | 534    | 319   |
+| MangaSee    | 956   | 781    | 175   |
 <!--/statstable-->
 
 ## Structure
