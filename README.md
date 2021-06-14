@@ -9,9 +9,6 @@ The data is updated once a week. Wrong/missing mappings are not seldom, speciall
 
 ## Structure
 
-| :warning: WARNING: firebase.json has been deprecated! |
-| --- |
-
 ### MAL -> Streaming Page Structure:
 `data/myanimelist/(anime|manga)/[id].json`  
   
