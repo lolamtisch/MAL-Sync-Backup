@@ -27,7 +27,7 @@ async function backup(url, name, type = 'anime', page = 0, ids = {}) {
 			return await backup(url, name, type, page + 1, ids);
 		} else {
 			for(item in ids) {
-				fs.outputFile(`data/${name}/${item}/_index.json`, JSON.stringify(ids[item]))
+				await fs.outputFile(`data/${name}/${item}/_index.json`, JSON.stringify(ids[item]))
 			}
 			if(type === 'anime') {
 				return await backup(url, name, 'manga')
