@@ -1,6 +1,6 @@
 # MAL-Sync Backup
 The main purppose of this repository is have a backup of the <a href="https://github.com/MALSync/MALSync">MAL-Sync</a> MAL to Streaming page mapping database. But using the data for other uses is allowed. 
-The data is updated once a week. Wrong/missing mappings are not seldom, specially mangas, but because they are generated throght all the users of MAL-Sync it should correct itself over time.
+The data is updated once a week. Wrong/missing mappings are not seldom, specially mangas, but because they are generated through all the users of MAL-Sync it should correct itself over time.
 
 ## Stats
 
@@ -18,6 +18,8 @@ The data is updated once a week. Wrong/missing mappings are not seldom, speciall
 <!--/statstable-->
 
 ## Structure
+
+An _index.json can be found in every folder containing an array of all ids
 
 ### MAL -> Streaming Page Structure:
 `data/myanimelist/(anime|manga)/[id].json`  
