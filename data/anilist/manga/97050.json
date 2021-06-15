@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "はじめての星栽",
+    "My First Planet"
+  ],
+  "authors": [
+    "Hirona Takahashi"
+  ],
+  "id": 97050,
+  "malId": 97588,
+  "type": "manga",
+  "title": "Hajimete no Seisai",
+  "url": "https://anilist.co/manga/97050",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97050-0Id8F2mDw08s.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:10.000Z",
+  "updatedAt": "2021-05-20T14:54:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b27cf20-2770-4c25-bf13-7db8349cd0d3": {
+        "authors": [
+          "Takahashi Hirona"
+        ],
+        "identifier": "8b27cf20-2770-4c25-bf13-7db8349cd0d3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My First Planet",
+        "url": "https://mangadex.org/title/8b27cf20-2770-4c25-bf13-7db8349cd0d3",
+        "image": "https://uploads.mangadex.org/covers/8b27cf20-2770-4c25-bf13-7db8349cd0d3/dbfcf891-025c-4207-914c-fdfad5fc70e9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97588,
+        "aniId": 97050,
+        "createdAt": "2020-10-12T16:09:38.000Z",
+        "updatedAt": "2021-06-04T18:58:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

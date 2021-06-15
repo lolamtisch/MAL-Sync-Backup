@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "金魚の恋",
+    "Love of golden fish",
+    "Goldfish’s Love"
+  ],
+  "authors": [
+    "Waka Sagami"
+  ],
+  "id": 99233,
+  "malId": 97313,
+  "type": "manga",
+  "title": "Kingyo no Koi",
+  "url": "https://anilist.co/manga/99233",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99233-uCNatGKmEJWG.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:09.000Z",
+  "updatedAt": "2021-05-20T14:54:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "85f670b3-819c-45b5-a9e4-dd2f872ae4af": {
+        "authors": [
+          "Sagami Waka"
+        ],
+        "identifier": "85f670b3-819c-45b5-a9e4-dd2f872ae4af",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kingyo no Koi",
+        "url": "https://mangadex.org/title/85f670b3-819c-45b5-a9e4-dd2f872ae4af",
+        "image": "https://uploads.mangadex.org/covers/85f670b3-819c-45b5-a9e4-dd2f872ae4af/3bb32d8a-d741-44d6-a0af-179dbf41cc3f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97313,
+        "aniId": 99233,
+        "createdAt": "2020-10-12T16:09:38.000Z",
+        "updatedAt": "2021-06-04T18:58:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "千と万"
+  ],
+  "authors": [
+    "Asami Sekiya"
+  ],
+  "id": 85232,
+  "malId": 57175,
+  "type": "manga",
+  "title": "Sen to Man",
+  "url": "https://anilist.co/manga/85232",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55232.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:30.000Z",
+  "updatedAt": "2021-05-20T14:50:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ad0e3186-34c9-40a3-af0b-c413e5f0a122": {
+        "authors": [
+          "Sekiya Asami"
+        ],
+        "identifier": "ad0e3186-34c9-40a3-af0b-c413e5f0a122",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sen to Man",
+        "url": "https://mangadex.org/title/ad0e3186-34c9-40a3-af0b-c413e5f0a122",
+        "image": "https://uploads.mangadex.org/covers/ad0e3186-34c9-40a3-af0b-c413e5f0a122/2bbc05a1-163e-471a-9000-92e6ef58473a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57175,
+        "aniId": 85232,
+        "createdAt": "2020-10-12T16:06:57.000Z",
+        "updatedAt": "2021-06-03T23:21:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sen_to_man": {
+        "authors": [
+          "Sekiya",
+          "Asami"
+        ],
+        "identifier": "sen_to_man",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sen To Man",
+        "url": "https://manganelo.com/manga/sen_to_man",
+        "image": "https://avt.mkklcdnv6temp.com/22/t/1-1583464591.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57175,
+        "aniId": 85232,
+        "createdAt": "2021-04-06T05:08:14.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sen-to-man": {
+        "authors": [
+          "SEKIYA Asami"
+        ],
+        "identifier": "sen-to-man",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sen to Man",
+        "url": "https://mangasee123.com/manga/Sen-To-Man",
+        "image": "https://cover.nep.li/cover/Sen-To-Man.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57175,
+        "aniId": 85232,
+        "createdAt": "2021-05-05T04:32:01.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

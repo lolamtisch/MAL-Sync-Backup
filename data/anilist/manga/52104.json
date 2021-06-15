@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "手をつないで恋を"
+  ],
+  "authors": [
+    "Nanaroku Takaoka"
+  ],
+  "id": 52104,
+  "malId": 22104,
+  "type": "manga",
+  "title": "Te wo Tsunaide Koi wo",
+  "url": "https://anilist.co/manga/52104",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52104-HEwP0B2AX4wk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:29.000Z",
+  "updatedAt": "2021-06-03T16:49:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e89e291-9c7e-43cd-a1f6-88bbc637954e": {
+        "authors": [
+          "Takaoka Nanaroku"
+        ],
+        "identifier": "3e89e291-9c7e-43cd-a1f6-88bbc637954e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Te wo Tsunai de Koi wo",
+        "url": "https://mangadex.org/title/3e89e291-9c7e-43cd-a1f6-88bbc637954e",
+        "image": "https://uploads.mangadex.org/covers/3e89e291-9c7e-43cd-a1f6-88bbc637954e/f7f600e0-3ae4-42e2-af72-3c3eb65f54cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22104,
+        "aniId": 52104,
+        "createdAt": "2020-10-12T16:06:02.000Z",
+        "updatedAt": "2021-06-03T17:03:35.000Z",
+        "deletedAt": null
+      },
+      "0298d204-5a11-4e06-ba18-12d9c1d5663e": {
+        "authors": [
+          "Nishida Satoko"
+        ],
+        "identifier": "0298d204-5a11-4e06-ba18-12d9c1d5663e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Te o Tsunaide Sanposhite",
+        "url": "https://mangadex.org/title/0298d204-5a11-4e06-ba18-12d9c1d5663e",
+        "image": "https://uploads.mangadex.org/covers/0298d204-5a11-4e06-ba18-12d9c1d5663e/4b4a709e-0495-489f-bed2-a6191cb43106.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22104,
+        "aniId": 52104,
+        "createdAt": "2020-10-12T16:17:40.000Z",
+        "updatedAt": "2021-06-07T09:38:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

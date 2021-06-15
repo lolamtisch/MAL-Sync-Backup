@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "Empress? Empress!",
+    "황비님? 황비님!",
+    "I Don't Want to Be Empress!"
+  ],
+  "authors": [
+    "Eun-Tae Seong",
+    "N'oah",
+    "Kkiming"
+  ],
+  "id": 117923,
+  "malId": null,
+  "type": "manga",
+  "title": "Hwangbinim? Hwangbinim!",
+  "url": "https://anilist.co/manga/117923",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117923-KjhCfBEHKSsT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T14:12:58.000Z",
+  "updatedAt": "2021-06-07T09:50:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "551c987c-fe56-41b1-98f8-fbc87f4048da": {
+        "authors": [
+          "Seong Eun-tae",
+          "N'oah",
+          "Kkiming"
+        ],
+        "identifier": "551c987c-fe56-41b1-98f8-fbc87f4048da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Don't Want to Be Empress!",
+        "url": "https://mangadex.org/title/551c987c-fe56-41b1-98f8-fbc87f4048da",
+        "image": "https://uploads.mangadex.org/covers/551c987c-fe56-41b1-98f8-fbc87f4048da/351d1b27-4b0b-47a1-8c0e-5c78d64ce624.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117923,
+        "createdAt": "2020-10-12T16:17:38.000Z",
+        "updatedAt": "2021-06-07T10:04:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gm984121": {
+        "authors": [
+          "Seong Euntae"
+        ],
+        "identifier": "manga-gm984121",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Don’T Want To Be Empress!",
+        "url": "https://readmanganato.com/manga-gm984121",
+        "image": "https://avt.mkklcdnv6temp.com/14/f/20-1583501573.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 117923,
+        "createdAt": "2021-05-31T09:47:53.000Z",
+        "updatedAt": "2021-05-31T09:47:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

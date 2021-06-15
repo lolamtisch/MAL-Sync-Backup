@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "表面关系男团",
+    "Surface Relations"
+  ],
+  "authors": [
+    "Bao Qing Manhua"
+  ],
+  "id": 128198,
+  "malId": null,
+  "type": "manga",
+  "title": "Biaomian Guanxi Nan Tuan",
+  "url": "https://anilist.co/manga/128198",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b128198-jITRfGS418WK.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T00:53:48.000Z",
+  "updatedAt": "2021-06-08T00:53:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "78c4a02e-5ea6-41dd-845c-f52c3fbbc6ad": {
+        "authors": [
+          "暴青漫画"
+        ],
+        "identifier": "78c4a02e-5ea6-41dd-845c-f52c3fbbc6ad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Surface Relations",
+        "url": "https://mangadex.org/title/78c4a02e-5ea6-41dd-845c-f52c3fbbc6ad",
+        "image": "https://uploads.mangadex.org/covers/78c4a02e-5ea6-41dd-845c-f52c3fbbc6ad/143502ac-8de6-429e-ba7d-170ee10fee7c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 128198,
+        "createdAt": "2020-10-12T16:20:31.000Z",
+        "updatedAt": "2021-06-08T00:55:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

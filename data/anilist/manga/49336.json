@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "사랑의 총알"
+  ],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 49336,
+  "malId": 19336,
+  "type": "manga",
+  "title": "Love Bullet",
+  "url": "https://anilist.co/manga/49336",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19336.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:18.000Z",
+  "updatedAt": "2021-05-20T14:45:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d13c22d7-3399-4e55-9f7e-bb24daa2dcc2": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "d13c22d7-3399-4e55-9f7e-bb24daa2dcc2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Bullet",
+        "url": "https://mangadex.org/title/d13c22d7-3399-4e55-9f7e-bb24daa2dcc2",
+        "image": "https://uploads.mangadex.org/covers/d13c22d7-3399-4e55-9f7e-bb24daa2dcc2/4864e164-acf2-4f8a-94f8-fcfea9f23660.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19336,
+        "aniId": 49336,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:25:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

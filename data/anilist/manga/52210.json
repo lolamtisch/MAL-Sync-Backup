@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "グランドール",
+    "Guran Douru"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 52210,
+  "malId": 22210,
+  "type": "manga",
+  "title": "Grand Dolls",
+  "url": "https://anilist.co/manga/52210",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22210.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T11:50:48.000Z",
+  "updatedAt": "2021-06-04T11:50:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9158f0fe-e78b-4781-a7a0-c894fe22a62b": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "9158f0fe-e78b-4781-a7a0-c894fe22a62b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Grand Doll",
+        "url": "https://mangadex.org/title/9158f0fe-e78b-4781-a7a0-c894fe22a62b",
+        "image": "https://uploads.mangadex.org/covers/9158f0fe-e78b-4781-a7a0-c894fe22a62b/763e9c4f-4ef7-4919-aa29-575b6f722419.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22210,
+        "aniId": 52210,
+        "createdAt": "2020-10-12T16:08:38.000Z",
+        "updatedAt": "2021-06-04T12:50:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

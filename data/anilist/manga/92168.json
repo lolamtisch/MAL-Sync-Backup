@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "玉响",
+    "เสี้ยวหนึ่งแห่งกาลเวลา",
+    "玉響"
+  ],
+  "authors": [
+    "Ringo Yuki"
+  ],
+  "id": 92168,
+  "malId": 75285,
+  "type": "manga",
+  "title": "Tamayura",
+  "url": "https://anilist.co/manga/92168",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92168-ABIJ13zLGKT8.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:51:44.000Z",
+  "updatedAt": "2021-05-20T14:51:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1816c634-66c5-4585-b5c4-77382482dae8": {
+        "authors": [
+          "Yuki Ringo"
+        ],
+        "identifier": "1816c634-66c5-4585-b5c4-77382482dae8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tamayura",
+        "url": "https://mangadex.org/title/1816c634-66c5-4585-b5c4-77382482dae8",
+        "image": "https://uploads.mangadex.org/covers/1816c634-66c5-4585-b5c4-77382482dae8/520867d8-e8a2-4850-81f6-63a81f65ef9f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75285,
+        "aniId": 92168,
+        "createdAt": "2020-10-12T16:09:40.000Z",
+        "updatedAt": "2021-06-04T19:09:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tamayura_yuki_ringo": {
+        "authors": [
+          "YUKI Ringo"
+        ],
+        "identifier": "tamayura_yuki_ringo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tamayura (YUKI Ringo)",
+        "url": "https://fanfox.net/manga/tamayura_yuki_ringo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19509/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75285,
+        "aniId": 92168,
+        "createdAt": "2021-04-01T12:31:53.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tamayura_yuki_ringo": {
+        "authors": [
+          "Yuki",
+          "Ringo"
+        ],
+        "identifier": "tamayura_yuki_ringo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tamayura (Yuki Ringo)",
+        "url": "https://manganelo.com/manga/tamayura_yuki_ringo",
+        "image": "https://avt.mkklcdnv6temp.com/34/o/13-1583488978.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75285,
+        "aniId": 92168,
+        "createdAt": "2021-04-14T09:46:02.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

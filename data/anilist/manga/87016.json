@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Last Waltz",
+    "ラストワルツ"
+  ],
+  "authors": [
+    "Ako Katakura"
+  ],
+  "id": 87016,
+  "malId": 87271,
+  "type": "manga",
+  "title": "Last Waltz",
+  "url": "https://anilist.co/manga/87016",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87016-MBfPJ9gC1hTB.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:47.000Z",
+  "updatedAt": "2021-05-20T14:52:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c8806f52-ce07-46b4-bbe1-cfe7e37b39ce": {
+        "authors": [
+          "Katakura Ako"
+        ],
+        "identifier": "c8806f52-ce07-46b4-bbe1-cfe7e37b39ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Last Waltz",
+        "url": "https://mangadex.org/title/c8806f52-ce07-46b4-bbe1-cfe7e37b39ce",
+        "image": "https://uploads.mangadex.org/covers/c8806f52-ce07-46b4-bbe1-cfe7e37b39ce/816beca0-b3d2-47b1-86db-7bdd4459d07f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87271,
+        "aniId": 87016,
+        "createdAt": "2020-10-12T16:15:02.000Z",
+        "updatedAt": "2021-06-06T10:08:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "Spicy Fever",
+    "スパイシー・フィーバー"
+  ],
+  "authors": [],
+  "id": 45210,
+  "malId": 15210,
+  "type": "manga",
+  "title": "Spicy Fever",
+  "url": "https://anilist.co/manga/45210",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15210.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "608f4cc3-a0e2-410a-a282-6b2ddfdf661a": {
+        "authors": [
+          "Komai Chima"
+        ],
+        "identifier": "608f4cc3-a0e2-410a-a282-6b2ddfdf661a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spicy Fever",
+        "url": "https://mangadex.org/title/608f4cc3-a0e2-410a-a282-6b2ddfdf661a",
+        "image": "https://uploads.mangadex.org/covers/608f4cc3-a0e2-410a-a282-6b2ddfdf661a/abce7dec-23b1-4c2c-8af5-0cd5d12de43a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15210,
+        "aniId": 45210,
+        "createdAt": "2020-10-12T16:04:10.000Z",
+        "updatedAt": "2021-06-02T19:11:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

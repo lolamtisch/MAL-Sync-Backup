@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "No Color",
+    "ノーカラー",
+    "No Colour",
+    "Noo Karaa"
+  ],
+  "authors": [
+    "Isaku Natsume"
+  ],
+  "id": 43382,
+  "malId": 13382,
+  "type": "manga",
+  "title": "No Color",
+  "url": "https://anilist.co/manga/43382",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43382-TTJs8HvvFg2y.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ce98921-792e-4c7c-8120-b97b8f958656": {
+        "authors": [
+          "Natsume Isaku"
+        ],
+        "identifier": "3ce98921-792e-4c7c-8120-b97b8f958656",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "No Color",
+        "url": "https://mangadex.org/title/3ce98921-792e-4c7c-8120-b97b8f958656",
+        "image": "https://uploads.mangadex.org/covers/3ce98921-792e-4c7c-8120-b97b8f958656/c6fe795c-5b27-4c95-8b6b-5dc378ef4623.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13382,
+        "aniId": 43382,
+        "createdAt": "2020-10-12T16:06:57.000Z",
+        "updatedAt": "2021-06-03T23:21:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "no_color": {
+        "authors": [
+          "NATSUME Isaku"
+        ],
+        "identifier": "no_color",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "No Color",
+        "url": "https://fanfox.net/manga/no_color/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7244/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13382,
+        "aniId": 43382,
+        "createdAt": "2021-04-25T07:27:32.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

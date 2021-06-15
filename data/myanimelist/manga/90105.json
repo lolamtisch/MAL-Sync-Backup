@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "A Stray Dog in the Night",
+    "寄越す犬、めくる夜"
+  ],
+  "authors": [
+    "Nobara, Aiko"
+  ],
+  "id": 90105,
+  "type": "manga",
+  "title": "Yokosu Inu, Mekuru Yoru",
+  "url": "https://myanimelist.net/manga/90105/Yokosu_Inu_Mekuru_Yoru",
+  "image": "https://cdn.myanimelist.net/images/manga/3/216086.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T00:19:17.000Z",
+  "updatedAt": "2021-06-05T00:19:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "baf5d83f-f876-4d40-b05b-9e6ed957b903": {
+        "authors": [
+          "Nobara Aiko"
+        ],
+        "identifier": "baf5d83f-f876-4d40-b05b-9e6ed957b903",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yokosu Inu, Mekuru Yoru",
+        "url": "https://mangadex.org/title/baf5d83f-f876-4d40-b05b-9e6ed957b903",
+        "image": "https://uploads.mangadex.org/covers/baf5d83f-f876-4d40-b05b-9e6ed957b903/b019ef92-7575-4706-abcf-c631e1229f82.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90105,
+        "aniId": 95200,
+        "createdAt": "2020-10-12T16:10:20.000Z",
+        "updatedAt": "2021-06-05T08:39:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

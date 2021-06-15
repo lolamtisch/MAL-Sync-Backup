@@ -1,0 +1,127 @@
+{
+  "altTitle": [
+    "마이언 전기",
+    "Mayan Chronicles"
+  ],
+  "authors": [
+    "Dal Young Im",
+    "Soo Cheol Jeong"
+  ],
+  "id": 39541,
+  "malId": 9541,
+  "type": "manga",
+  "title": "The Legend of Maian",
+  "url": "https://anilist.co/manga/39541",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx39541-4VN67gC8HKAr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:56.000Z",
+  "updatedAt": "2021-05-20T14:40:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "68b257db-f74b-47ff-946b-284f9fc47c17": {
+        "authors": [
+          "Jeong Soo Cheol",
+          "Im Dal-Young"
+        ],
+        "identifier": "68b257db-f74b-47ff-946b-284f9fc47c17",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Legend of Maian",
+        "url": "https://mangadex.org/title/68b257db-f74b-47ff-946b-284f9fc47c17",
+        "image": "https://uploads.mangadex.org/covers/68b257db-f74b-47ff-946b-284f9fc47c17/5ccca831-0a57-4c58-baa5-2f3dabef5433.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9541,
+        "aniId": 39541,
+        "createdAt": "2020-10-12T16:02:23.000Z",
+        "updatedAt": "2021-06-02T06:33:14.000Z",
+        "deletedAt": null
+      },
+      "f2980126-6be7-4b5e-88a7-eb2038dfe247": {
+        "authors": [
+          "MTJJ"
+        ],
+        "identifier": "f2980126-6be7-4b5e-88a7-eb2038dfe247",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Legend of Luoxiaohei",
+        "url": "https://mangadex.org/title/f2980126-6be7-4b5e-88a7-eb2038dfe247",
+        "image": "https://uploads.mangadex.org/covers/f2980126-6be7-4b5e-88a7-eb2038dfe247/96337b99-3f42-4928-9805-aa761ce6c8e1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9541,
+        "aniId": 39541,
+        "createdAt": "2020-10-12T16:17:49.000Z",
+        "updatedAt": "2021-06-07T11:18:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rt922636": {
+        "authors": [],
+        "identifier": "rt922636",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "A Legend Of The Wind",
+        "url": "https://manganelo.com/manga/rt922636",
+        "image": "https://avt.mkklcdnv6.com/1/q/20-1586235857.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9541,
+        "aniId": 39541,
+        "createdAt": "2020-10-12T16:25:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "the_legend_of_maian": {
+        "authors": [],
+        "identifier": "the_legend_of_maian",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Legend Of Maian",
+        "url": "https://manganelo.com/manga/the_legend_of_maian",
+        "image": "https://avt.mkklcdnv6.com/47/p/8-1583479990.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9541,
+        "aniId": 39541,
+        "createdAt": "2020-10-12T16:25:42.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-legend-of-maian": {
+        "authors": [
+          "JEONG Soo Cheol",
+          "LIM Dall-Young"
+        ],
+        "identifier": "the-legend-of-maian",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Legend of Maian",
+        "url": "https://mangasee123.com/manga/The-Legend-Of-Maian",
+        "image": "https://cover.nep.li/cover/The-Legend-Of-Maian.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9541,
+        "aniId": 39541,
+        "createdAt": "2020-12-17T12:26:04.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

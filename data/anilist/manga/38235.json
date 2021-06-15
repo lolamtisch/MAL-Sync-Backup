@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "マブラヴ・アンリミテッド",
+    "MuvLuv Unlimited"
+  ],
+  "authors": [
+    "Age",
+    "Tomo Hirokawa"
+  ],
+  "id": 38235,
+  "malId": 8235,
+  "type": "manga",
+  "title": "Muv-Luv Unlimited",
+  "url": "https://anilist.co/manga/38235",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38235-d8t7ODb0GYud.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "efabd1bf-c71f-4177-8c67-d95d29500943": {
+        "authors": [
+          "Hirokawa Tomo",
+          "Age"
+        ],
+        "identifier": "efabd1bf-c71f-4177-8c67-d95d29500943",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MuvLuv Unlimited",
+        "url": "https://mangadex.org/title/efabd1bf-c71f-4177-8c67-d95d29500943",
+        "image": "https://uploads.mangadex.org/covers/efabd1bf-c71f-4177-8c67-d95d29500943/2049f10a-c042-419b-ae8b-1778b0a63422.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8235,
+        "aniId": 38235,
+        "createdAt": "2020-10-12T16:04:35.000Z",
+        "updatedAt": "2021-06-02T22:02:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "muvluv_unlimited": {
+        "authors": [],
+        "identifier": "muvluv_unlimited",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Muvluv Unlimited",
+        "url": "https://manganelo.com/manga/muvluv_unlimited",
+        "image": "https://avt.mkklcdnv6.com/43/t/9-1583481935.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8235,
+        "aniId": 38235,
+        "createdAt": "2020-10-12T16:24:25.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "muvluv-unlimited": {
+        "authors": [
+          "Age",
+          "HIROKAWA Tomo"
+        ],
+        "identifier": "muvluv-unlimited",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Muvluv Unlimited",
+        "url": "https://mangasee123.com/manga/Muvluv-Unlimited",
+        "image": "https://cover.nep.li/cover/Muvluv-Unlimited.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8235,
+        "aniId": 38235,
+        "createdAt": "2021-01-09T18:21:33.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "muvluv_unlimited": {
+        "authors": [
+          "Age"
+        ],
+        "identifier": "muvluv_unlimited",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "MuvLuv Unlimited",
+        "url": "https://fanfox.net/manga/muvluv_unlimited/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1157/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8235,
+        "aniId": 38235,
+        "createdAt": "2021-04-18T14:44:27.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

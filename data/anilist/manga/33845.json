@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Because you are my friend it's nice to meet you!",
+    "友だちからよろしくです!"
+  ],
+  "authors": [
+    "Taeko Harada"
+  ],
+  "id": 33845,
+  "malId": 3845,
+  "type": "manga",
+  "title": "Tomodachi Kara Yoroshiku Desu",
+  "url": "https://anilist.co/manga/33845",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3845.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "de5f8916-d40f-410e-b8e6-14bb5b48c2a6": {
+        "authors": [
+          "Harada Taeko"
+        ],
+        "identifier": "de5f8916-d40f-410e-b8e6-14bb5b48c2a6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tomodachi Kara Yoroshiku Desu!",
+        "url": "https://mangadex.org/title/de5f8916-d40f-410e-b8e6-14bb5b48c2a6",
+        "image": "https://uploads.mangadex.org/covers/de5f8916-d40f-410e-b8e6-14bb5b48c2a6/0726ba9d-3aff-4584-bdca-15b8e8065df0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3845,
+        "aniId": 33845,
+        "createdAt": "2020-10-12T16:02:43.000Z",
+        "updatedAt": "2021-06-02T09:03:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tomodachi_kara_yoroshiku_desu": {
+        "authors": [
+          "HARADA Taeko"
+        ],
+        "identifier": "tomodachi_kara_yoroshiku_desu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tomodachi Kara Yoroshiku Desu",
+        "url": "https://fanfox.net/manga/tomodachi_kara_yoroshiku_desu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1518/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3845,
+        "aniId": 33845,
+        "createdAt": "2021-03-26T16:50:07.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

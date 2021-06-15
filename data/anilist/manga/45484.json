@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ネムルバカ",
+    "Nemuru Baka"
+  ],
+  "authors": [
+    "Masakazu Ishiguro"
+  ],
+  "id": 45484,
+  "malId": 15484,
+  "type": "manga",
+  "title": "Nemurubaka",
+  "url": "https://anilist.co/manga/45484",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15484.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:46.000Z",
+  "updatedAt": "2021-05-20T14:43:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c0628a39-a342-4f94-9e4c-6ee95d7193ad": {
+        "authors": [
+          "Ishiguro Masakazu"
+        ],
+        "identifier": "c0628a39-a342-4f94-9e4c-6ee95d7193ad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nemurubaka",
+        "url": "https://mangadex.org/title/c0628a39-a342-4f94-9e4c-6ee95d7193ad",
+        "image": "https://uploads.mangadex.org/covers/c0628a39-a342-4f94-9e4c-6ee95d7193ad/2dbb7756-a072-404c-a702-3bab05e672b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15484,
+        "aniId": 45484,
+        "createdAt": "2020-10-12T16:06:01.000Z",
+        "updatedAt": "2021-06-03T16:34:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

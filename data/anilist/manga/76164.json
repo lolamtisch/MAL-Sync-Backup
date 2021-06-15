@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ヨシナツ"
+  ],
+  "authors": [
+    "Sumomo Yumeka"
+  ],
+  "id": 76164,
+  "malId": 46164,
+  "type": "manga",
+  "title": "Yoshinatsu",
+  "url": "https://anilist.co/manga/76164",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46164.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:29.000Z",
+  "updatedAt": "2021-05-20T14:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d8696cf4-0de0-40b6-90ac-2030bbc2d37a": {
+        "authors": [
+          "Yumeka Sumomo"
+        ],
+        "identifier": "d8696cf4-0de0-40b6-90ac-2030bbc2d37a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoshinatsu",
+        "url": "https://mangadex.org/title/d8696cf4-0de0-40b6-90ac-2030bbc2d37a",
+        "image": "https://uploads.mangadex.org/covers/d8696cf4-0de0-40b6-90ac-2030bbc2d37a/16c8d83b-2562-4630-ad95-042a1603b2ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46164,
+        "aniId": 76164,
+        "createdAt": "2020-10-12T16:11:07.000Z",
+        "updatedAt": "2021-06-05T05:51:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

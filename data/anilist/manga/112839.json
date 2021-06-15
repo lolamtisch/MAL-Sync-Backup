@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "鬼市民",
+    "Citizen Ogre",
+    "Onishimin"
+  ],
+  "authors": [
+    "Takashi Wada"
+  ],
+  "id": 112839,
+  "malId": 97381,
+  "type": "manga",
+  "title": "Oni Shimin",
+  "url": "https://anilist.co/manga/112839",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112839-Gqd4gtzCjhon.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:09.000Z",
+  "updatedAt": "2021-05-20T14:54:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27e6c380-6582-41d3-a198-291b8bf768bf": {
+        "authors": [
+          "WADA Takashi"
+        ],
+        "identifier": "27e6c380-6582-41d3-a198-291b8bf768bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Citizen Ogre",
+        "url": "https://mangadex.org/title/27e6c380-6582-41d3-a198-291b8bf768bf",
+        "image": "https://uploads.mangadex.org/covers/27e6c380-6582-41d3-a198-291b8bf768bf/b3971514-0e9f-4e2c-b5f7-68aa6c609352.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97381,
+        "aniId": 112839,
+        "createdAt": "2020-10-12T16:09:37.000Z",
+        "updatedAt": "2021-06-04T18:55:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

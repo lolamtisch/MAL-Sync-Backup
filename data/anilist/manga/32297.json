@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "狼煙をあげろ!",
+    "Raise a beacon!"
+  ],
+  "authors": [
+    "Shushushu Sakurai"
+  ],
+  "id": 32297,
+  "malId": 2297,
+  "type": "manga",
+  "title": "Noroshi wo Agero!",
+  "url": "https://anilist.co/manga/32297",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32297-j2a6A78puyHs.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9a7e3c10-beff-4a58-8c67-9430f6ff88d4": {
+        "authors": [
+          "Sakurai Shushushu"
+        ],
+        "identifier": "9a7e3c10-beff-4a58-8c67-9430f6ff88d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Noroshi wo Agero!",
+        "url": "https://mangadex.org/title/9a7e3c10-beff-4a58-8c67-9430f6ff88d4",
+        "image": "https://uploads.mangadex.org/covers/9a7e3c10-beff-4a58-8c67-9430f6ff88d4/82db1942-95a4-47bd-9419-b4e82c55c370.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2297,
+        "aniId": 32297,
+        "createdAt": "2020-10-12T16:13:31.000Z",
+        "updatedAt": "2021-06-05T22:02:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "12ヶ月",
+    "Twelve Months",
+    "12 Months",
+    "12 Mois",
+    "12 Ka Getsu"
+  ],
+  "authors": [
+    "Mari Okazaki"
+  ],
+  "id": 39609,
+  "malId": 9609,
+  "type": "manga",
+  "title": "12 Kagetsu",
+  "url": "https://anilist.co/manga/39609",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39609-ZbXg2fiFvkU7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:58.000Z",
+  "updatedAt": "2021-05-20T14:40:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "36320572-a99d-4f8f-904e-630312cc963c": {
+        "authors": [
+          "OKAZAKI Mari"
+        ],
+        "identifier": "36320572-a99d-4f8f-904e-630312cc963c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "12 Months",
+        "url": "https://mangadex.org/title/36320572-a99d-4f8f-904e-630312cc963c",
+        "image": "https://uploads.mangadex.org/covers/36320572-a99d-4f8f-904e-630312cc963c/c20c8d54-cf3b-4549-bc4c-9e4e11175b55.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9609,
+        "aniId": 39609,
+        "createdAt": "2020-10-12T16:04:48.000Z",
+        "updatedAt": "2021-06-02T23:25:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "iz920524": {
+        "authors": [],
+        "identifier": "iz920524",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Three Months to Live",
+        "url": "https://manganelo.com/manga/iz920524",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1922-iz920524.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9609,
+        "aniId": 39609,
+        "createdAt": "2020-10-12T16:23:39.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "12-kagetsu": {
+        "authors": [
+          "OKAZAKI Mari"
+        ],
+        "identifier": "12-kagetsu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "12 Kagetsu",
+        "url": "https://mangasee123.com/manga/12-Kagetsu",
+        "image": "https://cover.nep.li/cover/12-Kagetsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 9609,
+        "aniId": 39609,
+        "createdAt": "2021-03-26T09:49:16.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

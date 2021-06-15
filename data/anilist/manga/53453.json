@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "デーモン72"
+  ],
+  "authors": [
+    "Yasunori Mitsunaga",
+    "Satoshi Ueda"
+  ],
+  "id": 53453,
+  "malId": 23453,
+  "type": "manga",
+  "title": "Demon 72",
+  "url": "https://anilist.co/manga/53453",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx53453-SyFXs74GH7h4.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:37.000Z",
+  "updatedAt": "2021-05-20T14:46:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "81b1b361-cdd8-4ce0-8381-1fbf77040726": {
+        "authors": [
+          "Mitsunaga Yasunori",
+          "Ueda Satoshi"
+        ],
+        "identifier": "81b1b361-cdd8-4ce0-8381-1fbf77040726",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Demon 72",
+        "url": "https://mangadex.org/title/81b1b361-cdd8-4ce0-8381-1fbf77040726",
+        "image": "https://uploads.mangadex.org/covers/81b1b361-cdd8-4ce0-8381-1fbf77040726/32116f5b-094c-4710-859c-2da4dbd70b6b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23453,
+        "aniId": 53453,
+        "createdAt": "2020-10-12T16:03:31.000Z",
+        "updatedAt": "2021-06-02T14:40:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "demon72": {
+        "authors": [
+          "MITSUNAGA Yasunori",
+          "UEDA Satoshi"
+        ],
+        "identifier": "demon72",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Demon 72",
+        "url": "https://mangasee123.com/manga/Demon72",
+        "image": "https://cover.nep.li/cover/Demon72.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23453,
+        "aniId": 53453,
+        "createdAt": "2020-11-10T16:14:14.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "demon_72": {
+        "authors": [
+          "MITSUNAGA Yasunori"
+        ],
+        "identifier": "demon_72",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Demon 72",
+        "url": "https://fanfox.net/manga/demon_72/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9008/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23453,
+        "aniId": 53453,
+        "createdAt": "2021-05-07T12:18:54.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

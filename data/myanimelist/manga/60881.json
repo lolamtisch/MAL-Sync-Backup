@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ハマトラ THE COMIC"
+  ],
+  "authors": [
+    "Kodama, Yuuki",
+    "Kitajima, Yukinori"
+  ],
+  "id": 60881,
+  "type": "manga",
+  "title": "Hamatora The Comic",
+  "url": "https://myanimelist.net/manga/60881/Hamatora_The_Comic",
+  "image": "https://cdn.myanimelist.net/images/manga/4/133589.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:56.000Z",
+  "updatedAt": "2021-04-18T05:14:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dfd85da5-86ff-4a60-8351-81c2fea65ce8": {
+        "authors": [
+          "Kodama Yuuki",
+          "Kitajima Yukinori"
+        ],
+        "identifier": "dfd85da5-86ff-4a60-8351-81c2fea65ce8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hamatora",
+        "url": "https://mangadex.org/title/dfd85da5-86ff-4a60-8351-81c2fea65ce8",
+        "image": "https://uploads.mangadex.org/covers/dfd85da5-86ff-4a60-8351-81c2fea65ce8/d888e30c-8004-4b18-8702-624a3676ecd8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60881,
+        "aniId": 85264,
+        "createdAt": "2020-10-12T16:06:57.000Z",
+        "updatedAt": "2021-06-03T23:22:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hamatora_the_comic": {
+        "authors": [],
+        "identifier": "hamatora_the_comic",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hamatora - The Comic",
+        "url": "https://manganelo.com/manga/hamatora_the_comic",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/8928-hamatora_the_comic.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60881,
+        "aniId": 85264,
+        "createdAt": "2020-10-12T16:23:14.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hamatora": {
+        "authors": [
+          "KITAJIMA Yukinori",
+          "KODAMA Yuuki"
+        ],
+        "identifier": "hamatora",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hamatora - The Comic",
+        "url": "https://mangasee123.com/manga/Hamatora",
+        "image": "https://cover.nep.li/cover/Hamatora.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60881,
+        "aniId": 85264,
+        "createdAt": "2021-04-18T05:14:39.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

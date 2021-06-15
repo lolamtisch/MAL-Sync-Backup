@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "放課後ていぼう日誌"
+  ],
+  "authors": [
+    "Kosaka, Yasuyuki"
+  ],
+  "id": 109941,
+  "type": "manga",
+  "title": "Houkago Teibou Nisshi",
+  "url": "https://myanimelist.net/manga/109941/Houkago_Teibou_Nisshi",
+  "image": "https://cdn.myanimelist.net/images/manga/2/202043.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:17.000Z",
+  "updatedAt": "2021-03-21T12:34:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a52fb557-f9c6-46fd-a460-0ccafa826f78": {
+        "authors": [
+          "Kosaka Yasuyuki"
+        ],
+        "identifier": "a52fb557-f9c6-46fd-a460-0ccafa826f78",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Houkago Teibou Nisshi",
+        "url": "https://mangadex.org/title/a52fb557-f9c6-46fd-a460-0ccafa826f78",
+        "image": "https://uploads.mangadex.org/covers/a52fb557-f9c6-46fd-a460-0ccafa826f78/aaf90feb-99d6-4dd6-acba-8642ecd3bfb3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109941,
+        "aniId": 107499,
+        "createdAt": "2020-10-12T16:15:39.000Z",
+        "updatedAt": "2021-06-06T15:38:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ab921098": {
+        "authors": [],
+        "identifier": "ab921098",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Afterschool Embankment Journal",
+        "url": "https://manganelo.com/manga/ab921098",
+        "image": "https://avt.mkklcdnv6.com/43/l/19-1583500761.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109941,
+        "aniId": 107499,
+        "createdAt": "2020-10-12T16:21:59.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "houkago_teibou_nisshi": {
+        "authors": [
+          "KOSAKA Yasuyuki"
+        ],
+        "identifier": "houkago_teibou_nisshi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Houkago Teibou Nisshi",
+        "url": "https://fanfox.net/manga/houkago_teibou_nisshi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31968/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109941,
+        "aniId": 107499,
+        "createdAt": "2021-03-21T12:34:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "アリス"
+  ],
+  "authors": [
+    "Nishikawa, Kou"
+  ],
+  "id": 20389,
+  "type": "manga",
+  "title": "Alice",
+  "url": "https://myanimelist.net/manga/20389/Alice",
+  "image": "https://cdn.myanimelist.net/images/manga/2/49389.jpg",
+  "category": "Manga",
+  "hentai": true,
+  "createdAt": "2020-10-12T15:42:51.000Z",
+  "updatedAt": "2021-05-03T03:02:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f3b76240-21c8-4ca6-8f05-413914c07b63": {
+        "authors": [
+          "Nishikawa Kou"
+        ],
+        "identifier": "f3b76240-21c8-4ca6-8f05-413914c07b63",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice",
+        "url": "https://mangadex.org/title/f3b76240-21c8-4ca6-8f05-413914c07b63",
+        "image": "https://uploads.mangadex.org/covers/f3b76240-21c8-4ca6-8f05-413914c07b63/5c1e0b2c-c98b-4d88-801a-21f5ed31265c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20389,
+        "aniId": 50389,
+        "createdAt": "2020-10-12T16:19:26.000Z",
+        "updatedAt": "2021-06-07T21:58:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

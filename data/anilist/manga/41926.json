@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ジャンプスーパースターズ"
+  ],
+  "authors": [
+    "Yuusuke Murata"
+  ],
+  "id": 41926,
+  "malId": 11926,
+  "type": "manga",
+  "title": "Jump Super Stars",
+  "url": "https://anilist.co/manga/41926",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41926-mygJvKgWqyvr.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:15.000Z",
+  "updatedAt": "2021-05-20T14:42:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a14176d9-9832-43d2-b98a-f16fa4e82021": {
+        "authors": [
+          "Murata Yuusuke"
+        ],
+        "identifier": "a14176d9-9832-43d2-b98a-f16fa4e82021",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jump Super Stars",
+        "url": "https://mangadex.org/title/a14176d9-9832-43d2-b98a-f16fa4e82021",
+        "image": "https://uploads.mangadex.org/covers/a14176d9-9832-43d2-b98a-f16fa4e82021/74ca091f-4fed-4c56-85de-af310e70c7f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11926,
+        "aniId": 41926,
+        "createdAt": "2020-10-12T16:04:57.000Z",
+        "updatedAt": "2021-06-03T00:36:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jump_super_stars": {
+        "authors": [],
+        "identifier": "jump_super_stars",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jump Super Stars",
+        "url": "https://manganelo.com/manga/jump_super_stars",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/6246-jump_super_stars.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11926,
+        "aniId": 41926,
+        "createdAt": "2020-10-12T16:23:46.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

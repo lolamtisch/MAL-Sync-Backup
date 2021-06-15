@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Promise Cinderella",
+    "プロミス・シンデレラ"
+  ],
+  "authors": [
+    "Tachibana, Oreko"
+  ],
+  "id": 112950,
+  "type": "manga",
+  "title": "Promise Cinderella",
+  "url": "https://myanimelist.net/manga/112950/Promise_Cinderella",
+  "image": "https://cdn.myanimelist.net/images/manga/2/225490.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:28.000Z",
+  "updatedAt": "2021-02-26T13:25:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "655716aa-3e62-4121-abb3-ee1dede684ec": {
+        "authors": [
+          "Tachibana Oreco"
+        ],
+        "identifier": "655716aa-3e62-4121-abb3-ee1dede684ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Promise Cinderella",
+        "url": "https://mangadex.org/title/655716aa-3e62-4121-abb3-ee1dede684ec",
+        "image": "https://uploads.mangadex.org/covers/655716aa-3e62-4121-abb3-ee1dede684ec/645fe8e7-b871-44d6-9dba-ea5c33658a42.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112950,
+        "aniId": 111283,
+        "createdAt": "2020-10-12T16:13:24.000Z",
+        "updatedAt": "2021-06-05T21:06:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "uu920100": {
+        "authors": [
+          "Oreco",
+          "Tachibana"
+        ],
+        "identifier": "uu920100",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Promise Cinderella",
+        "url": "https://manganelo.com/manga/uu920100",
+        "image": "https://avt.mkklcdnv6.com/6/n/19-1583499329.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 112950,
+        "aniId": 111283,
+        "createdAt": "2020-10-12T16:25:59.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "promise_cinderella": {
+        "authors": [
+          "TACHIBANA Oreco"
+        ],
+        "identifier": "promise_cinderella",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Promise Cinderella",
+        "url": "https://fanfox.net/manga/promise_cinderella/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31116/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112950,
+        "aniId": 111283,
+        "createdAt": "2021-02-26T13:25:43.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

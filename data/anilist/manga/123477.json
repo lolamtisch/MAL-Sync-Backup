@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "我的網紅男友",
+    "My Influencer Boyfriend"
+  ],
+  "authors": [
+    "Gui"
+  ],
+  "id": 123477,
+  "malId": null,
+  "type": "manga",
+  "title": "Wo de Wanghong Nanyou",
+  "url": "https://anilist.co/manga/123477",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123477-yBy2Tq6lOUL9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:52:49.000Z",
+  "updatedAt": "2021-06-08T01:52:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f51180b2-27f2-4ab7-987f-e508885449a3": {
+        "authors": [
+          "Gui"
+        ],
+        "identifier": "f51180b2-27f2-4ab7-987f-e508885449a3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Influencer Boyfriend",
+        "url": "https://mangadex.org/title/f51180b2-27f2-4ab7-987f-e508885449a3",
+        "image": "https://uploads.mangadex.org/covers/f51180b2-27f2-4ab7-987f-e508885449a3/7e3eeff7-5dda-405b-8f7e-60daac07dbd1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123477,
+        "createdAt": "2020-10-12T16:21:09.000Z",
+        "updatedAt": "2021-06-08T06:58:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

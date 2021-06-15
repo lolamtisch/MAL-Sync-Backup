@@ -1,0 +1,125 @@
+{
+  "altTitle": [
+    "シューピアリア"
+  ],
+  "authors": [
+    "Ichtys"
+  ],
+  "id": 31533,
+  "malId": 1533,
+  "type": "manga",
+  "title": "Superior",
+  "url": "https://anilist.co/manga/31533",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1533.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:47.000Z",
+  "updatedAt": "2021-05-20T14:36:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2b7795ce-36d7-4c5d-bf19-5578776c9145": {
+        "authors": [
+          "Ichtys"
+        ],
+        "identifier": "2b7795ce-36d7-4c5d-bf19-5578776c9145",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Superior",
+        "url": "https://mangadex.org/title/2b7795ce-36d7-4c5d-bf19-5578776c9145",
+        "image": "https://uploads.mangadex.org/covers/2b7795ce-36d7-4c5d-bf19-5578776c9145/84df3be7-afb4-4a0f-9923-ce703f4aefed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1533,
+        "aniId": 31533,
+        "createdAt": "2020-10-12T16:02:59.000Z",
+        "updatedAt": "2021-06-02T10:53:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "superior": {
+        "authors": [],
+        "identifier": "superior",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Superior",
+        "url": "https://manganelo.com/manga/superior",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/5028-superior.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1533,
+        "aniId": 31533,
+        "createdAt": "2020-10-12T16:25:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "superior_day": {
+        "authors": [],
+        "identifier": "superior_day",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Superior Day",
+        "url": "https://manganelo.com/manga/superior_day",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/12069-superior_day.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1533,
+        "aniId": 31533,
+        "createdAt": "2020-10-12T16:25:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "superior": {
+        "authors": [
+          "Ichtys"
+        ],
+        "identifier": "superior",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Superior",
+        "url": "https://mangasee123.com/manga/Superior",
+        "image": "https://cover.nep.li/cover/Superior.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1533,
+        "aniId": 31533,
+        "createdAt": "2021-01-28T18:52:49.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "superior": {
+        "authors": [
+          "Ichtys"
+        ],
+        "identifier": "superior",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Superior",
+        "url": "https://fanfox.net/manga/superior/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1642/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1533,
+        "aniId": 31533,
+        "createdAt": "2021-03-21T01:04:54.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

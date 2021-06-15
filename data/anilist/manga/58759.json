@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "カードファイト!! ヴァンガード"
+  ],
+  "authors": [
+    "Akira Itou"
+  ],
+  "id": 58759,
+  "malId": 28759,
+  "type": "manga",
+  "title": "Cardfight!! Vanguard",
+  "url": "https://anilist.co/manga/58759",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx58759-hqgQWRvNUyhV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:32.000Z",
+  "updatedAt": "2021-05-20T14:47:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "278956f5-4f37-404e-981d-46a171f23279": {
+        "authors": [
+          "Itou Akira"
+        ],
+        "identifier": "278956f5-4f37-404e-981d-46a171f23279",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cardfight!! Vanguard",
+        "url": "https://mangadex.org/title/278956f5-4f37-404e-981d-46a171f23279",
+        "image": "https://uploads.mangadex.org/covers/278956f5-4f37-404e-981d-46a171f23279/69b73ac3-e914-4a2d-bf5e-4bb0dac6d250.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28759,
+        "aniId": 58759,
+        "createdAt": "2020-10-12T16:04:51.000Z",
+        "updatedAt": "2021-06-02T23:53:12.000Z",
+        "deletedAt": null
+      },
+      "a99ee544-1186-4468-b904-267c70523f47": {
+        "authors": [
+          "Itou Akira"
+        ],
+        "identifier": "a99ee544-1186-4468-b904-267c70523f47",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cardfight!! Vanguard G: THE PROLOGUE",
+        "url": "https://mangadex.org/title/a99ee544-1186-4468-b904-267c70523f47",
+        "image": "https://uploads.mangadex.org/covers/a99ee544-1186-4468-b904-267c70523f47/dd962825-3619-4d25-b0b0-38f24ec21852.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28759,
+        "aniId": 58759,
+        "createdAt": "2020-10-12T16:20:47.000Z",
+        "updatedAt": "2021-06-08T00:56:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cardfight_vanguard": {
+        "authors": [
+          "Itou",
+          "Akira"
+        ],
+        "identifier": "cardfight_vanguard",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cardfight!! Vanguard",
+        "url": "https://manganelo.com/manga/cardfight_vanguard",
+        "image": "https://avt.mkklcdnv6temp.com/35/p/6-1583475569.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28759,
+        "aniId": 58759,
+        "createdAt": "2021-03-13T03:09:29.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      },
+      "kk923754": {
+        "authors": [
+          "Itou",
+          "Akira"
+        ],
+        "identifier": "kk923754",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cardfight!! Vanguard G: The Prologue",
+        "url": "https://manganelo.com/manga/kk923754",
+        "image": "https://avt.mkklcdnv6temp.com/48/f/21-1597310314.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 28759,
+        "aniId": 58759,
+        "createdAt": "2021-03-13T03:09:29.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

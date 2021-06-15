@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "One Summer in Italy",
+    "孤独な富豪"
+  ],
+  "authors": [
+    "Akino, Nanami",
+    "Gordon, Lucy"
+  ],
+  "id": 24500,
+  "type": "manga",
+  "title": "Kodoku na Fugou",
+  "url": "https://myanimelist.net/manga/24500/Kodoku_na_Fugou",
+  "image": "https://cdn.myanimelist.net/images/manga/3/73791.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-12-16T23:29:05.000Z",
+  "updatedAt": "2021-06-04T17:20:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b4f8178d-bed1-46fa-9a19-169eb266f4b0": {
+        "authors": [
+          "Lucy Gordon",
+          "Akino Nanami"
+        ],
+        "identifier": "b4f8178d-bed1-46fa-9a19-169eb266f4b0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kodoku na Fugou",
+        "url": "https://mangadex.org/title/b4f8178d-bed1-46fa-9a19-169eb266f4b0",
+        "image": "https://uploads.mangadex.org/covers/b4f8178d-bed1-46fa-9a19-169eb266f4b0/b94f5da6-97ae-4914-a8dd-002c80815d21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24500,
+        "aniId": 54500,
+        "createdAt": "2020-10-12T16:09:22.000Z",
+        "updatedAt": "2021-06-04T18:34:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kodoku_na_fugou": {
+        "authors": [
+          "Lucy Gordon"
+        ],
+        "identifier": "kodoku_na_fugou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kodoku na Fugou",
+        "url": "https://fanfox.net/manga/kodoku_na_fugou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8790/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24500,
+        "aniId": 54500,
+        "createdAt": "2020-12-16T23:29:05.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

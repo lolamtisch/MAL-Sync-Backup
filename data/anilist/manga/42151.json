@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "フィラメント～漆原友紀作品集～",
+    "Misaki de Bus wo Orita Hito",
+    "Bio Luminescence",
+    "Filamentos"
+  ],
+  "authors": [
+    "Yuki Urushibara"
+  ],
+  "id": 42151,
+  "malId": 12151,
+  "type": "manga",
+  "title": "Filament: Urushibara Yuki Sakuhinshuu",
+  "url": "https://anilist.co/manga/42151",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx42151-wpOU04jsfG6Q.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "62e116e4-859a-4360-884d-bd655557e826": {
+        "authors": [
+          "Urushibara Yuki"
+        ],
+        "identifier": "62e116e4-859a-4360-884d-bd655557e826",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Filament ~Urushibara Yuki Sakuhinshuu~",
+        "url": "https://mangadex.org/title/62e116e4-859a-4360-884d-bd655557e826",
+        "image": "https://uploads.mangadex.org/covers/62e116e4-859a-4360-884d-bd655557e826/4fec9f96-808a-43b3-8d3e-70e764a464c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12151,
+        "aniId": 42151,
+        "createdAt": "2020-10-12T16:04:58.000Z",
+        "updatedAt": "2021-06-03T09:24:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "filament": {
+        "authors": [],
+        "identifier": "filament",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Filament",
+        "url": "https://manganelo.com/manga/filament",
+        "image": "https://avt.mkklcdnv6.com/36/g/2-1583467091.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12151,
+        "aniId": 42151,
+        "createdAt": "2020-10-12T16:22:55.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Dreamin' Sun",
+    "Bambi no Tegami, Heart no Tomato",
+    "夢みる太陽"
+  ],
+  "authors": [
+    "Takano, Ichigo"
+  ],
+  "id": 9607,
+  "type": "manga",
+  "title": "Yumemiru Taiyou",
+  "url": "https://myanimelist.net/manga/9607/Yumemiru_Taiyou",
+  "image": "https://cdn.myanimelist.net/images/manga/1/170585.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:24.000Z",
+  "updatedAt": "2021-03-24T19:50:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64d554d2-1ae8-49ea-8136-896eff558ac1": {
+        "authors": [
+          "Takano Ichigo"
+        ],
+        "identifier": "64d554d2-1ae8-49ea-8136-896eff558ac1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yumemiru Taiyou",
+        "url": "https://mangadex.org/title/64d554d2-1ae8-49ea-8136-896eff558ac1",
+        "image": "https://uploads.mangadex.org/covers/64d554d2-1ae8-49ea-8136-896eff558ac1/acaaf029-46ef-4666-9b89-1af3f7db9fe6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9607,
+        "aniId": 39607,
+        "createdAt": "2020-10-12T16:03:05.000Z",
+        "updatedAt": "2021-06-02T11:42:32.000Z",
+        "deletedAt": null
+      },
+      "370d916c-6938-43bd-84da-1a3c5b031df6": {
+        "authors": [
+          "Takano Ichigo"
+        ],
+        "identifier": "370d916c-6938-43bd-84da-1a3c5b031df6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Orange x Dreamin' Sun",
+        "url": "https://mangadex.org/title/370d916c-6938-43bd-84da-1a3c5b031df6",
+        "image": "https://uploads.mangadex.org/covers/370d916c-6938-43bd-84da-1a3c5b031df6/ab4d6d76-b233-4628-8c0b-ea23e0abb084.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9607,
+        "aniId": 39607,
+        "createdAt": "2020-10-20T15:39:02.000Z",
+        "updatedAt": "2021-06-08T05:26:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yumemiru-taiyou": {
+        "authors": [
+          "TAKANO Ichigo"
+        ],
+        "identifier": "yumemiru-taiyou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yume Miru Taiyou",
+        "url": "https://mangasee123.com/manga/Yumemiru-Taiyou",
+        "image": "https://cover.nep.li/cover/Yumemiru-Taiyou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9607,
+        "aniId": 39607,
+        "createdAt": "2021-03-24T19:50:13.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

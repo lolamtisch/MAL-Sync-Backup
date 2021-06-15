@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Derby Queen",
+    "ダービークイーン"
+  ],
+  "authors": [
+    "Hinako Ashihara"
+  ],
+  "id": 40501,
+  "malId": 10501,
+  "type": "manga",
+  "title": "Derby Queen",
+  "url": "https://anilist.co/manga/40501",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10501.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:05.000Z",
+  "updatedAt": "2021-05-20T14:41:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cdf3cb5d-5fc2-4f69-924a-c933d2f23692": {
+        "authors": [
+          "Ashihara Hinako"
+        ],
+        "identifier": "cdf3cb5d-5fc2-4f69-924a-c933d2f23692",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Derby Queen",
+        "url": "https://mangadex.org/title/cdf3cb5d-5fc2-4f69-924a-c933d2f23692",
+        "image": "https://uploads.mangadex.org/covers/cdf3cb5d-5fc2-4f69-924a-c933d2f23692/0641753b-e417-453c-a7ab-61e05ebd22a7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10501,
+        "aniId": 40501,
+        "createdAt": "2020-10-12T16:03:19.000Z",
+        "updatedAt": "2021-06-02T13:11:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "How Far Have You Gone?",
+    "어디까지 해봤어?",
+    "どこまでやってみた？"
+  ],
+  "authors": [
+    "BiBi"
+  ],
+  "id": 97743,
+  "malId": null,
+  "type": "manga",
+  "title": "Eodikkaji Haebwasseo?",
+  "url": "https://anilist.co/manga/97743",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97743-GbrHJkEMORd5.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-05T20:19:17.000Z",
+  "updatedAt": "2021-06-05T20:19:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d7cf8ef4-3be9-4adc-a03e-cf82a213584e": {
+        "authors": [
+          "BiBi (II)"
+        ],
+        "identifier": "d7cf8ef4-3be9-4adc-a03e-cf82a213584e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "How Far Have You Gone?",
+        "url": "https://mangadex.org/title/d7cf8ef4-3be9-4adc-a03e-cf82a213584e",
+        "image": "https://uploads.mangadex.org/covers/d7cf8ef4-3be9-4adc-a03e-cf82a213584e/61010597-7d49-4146-bf46-4c7e0634daf6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 97743,
+        "createdAt": "2020-10-12T16:13:16.000Z",
+        "updatedAt": "2021-06-05T20:20:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

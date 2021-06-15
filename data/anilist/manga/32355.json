@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Ryuu Sugahara"
+  ],
+  "id": 32355,
+  "malId": 2355,
+  "type": "manga",
+  "title": "Ai no Houritsu",
+  "url": "https://anilist.co/manga/32355",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2355.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fdf90f15-c36f-4f5c-9176-2a9a420e383e": {
+        "authors": [
+          "Sugahara Ryu"
+        ],
+        "identifier": "fdf90f15-c36f-4f5c-9176-2a9a420e383e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai no Houritsu",
+        "url": "https://mangadex.org/title/fdf90f15-c36f-4f5c-9176-2a9a420e383e",
+        "image": "https://uploads.mangadex.org/covers/fdf90f15-c36f-4f5c-9176-2a9a420e383e/fec476a3-1312-496c-ab8b-6fb6d76fb5ef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2355,
+        "aniId": 32355,
+        "createdAt": "2020-10-12T16:21:08.000Z",
+        "updatedAt": "2021-06-08T01:34:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

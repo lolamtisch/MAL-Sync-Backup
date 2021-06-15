@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ラヴ・バズ"
+  ],
+  "authors": [
+    "Takako Shimura"
+  ],
+  "id": 39224,
+  "malId": 9224,
+  "type": "manga",
+  "title": "Love Buzz",
+  "url": "https://anilist.co/manga/39224",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39224-NksK7Vz7nzfn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:55.000Z",
+  "updatedAt": "2021-05-20T14:40:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52dcf9bc-5dc8-495e-835c-9377166d043d": {
+        "authors": [
+          "Shimura Takako"
+        ],
+        "identifier": "52dcf9bc-5dc8-495e-835c-9377166d043d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Buzz",
+        "url": "https://mangadex.org/title/52dcf9bc-5dc8-495e-835c-9377166d043d",
+        "image": "https://uploads.mangadex.org/covers/52dcf9bc-5dc8-495e-835c-9377166d043d/ef0e5078-8ad9-42bf-875b-80e65d586464.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9224,
+        "aniId": 39224,
+        "createdAt": "2020-10-12T16:09:49.000Z",
+        "updatedAt": "2021-06-04T20:09:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "love_buzz": {
+        "authors": [
+          "Shimura",
+          "Takako"
+        ],
+        "identifier": "love_buzz",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love Buzz",
+        "url": "https://manganelo.com/manga/love_buzz",
+        "image": "https://avt.mkklcdnv6temp.com/47/n/13-1583489500.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9224,
+        "aniId": 39224,
+        "createdAt": "2021-02-18T16:16:31.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

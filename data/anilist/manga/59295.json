@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ネコ★また",
+    "Catnip"
+  ],
+  "authors": [
+    "Saeko Kamon"
+  ],
+  "id": 59295,
+  "malId": 29295,
+  "type": "manga",
+  "title": "Neko Mata",
+  "url": "https://anilist.co/manga/59295",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59295-tt7szocnKaJS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:36.000Z",
+  "updatedAt": "2021-05-20T14:47:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e92ffc51-45aa-4836-8a39-ee0a96499cf9": {
+        "authors": [
+          "Kamon Saeko"
+        ],
+        "identifier": "e92ffc51-45aa-4836-8a39-ee0a96499cf9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko★Mata",
+        "url": "https://mangadex.org/title/e92ffc51-45aa-4836-8a39-ee0a96499cf9",
+        "image": "https://uploads.mangadex.org/covers/e92ffc51-45aa-4836-8a39-ee0a96499cf9/63854a78-289f-429f-b527-42843424ac65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29295,
+        "aniId": 59295,
+        "createdAt": "2020-10-12T16:13:01.000Z",
+        "updatedAt": "2021-06-05T18:11:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

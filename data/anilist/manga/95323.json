@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "tutti!"
+  ],
+  "authors": [
+    "Ryou Katagiri"
+  ],
+  "id": 95323,
+  "malId": 90564,
+  "type": "manga",
+  "title": "Tutti!",
+  "url": "https://anilist.co/manga/95323",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95323-PwZaoZtNo6Vw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T14:22:24.000Z",
+  "updatedAt": "2021-06-04T14:22:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "649eea62-757d-4c89-b9f5-e697206b9111": {
+        "authors": [
+          "Katagiri Ryo"
+        ],
+        "identifier": "649eea62-757d-4c89-b9f5-e697206b9111",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "tutti!",
+        "url": "https://mangadex.org/title/649eea62-757d-4c89-b9f5-e697206b9111",
+        "image": "https://uploads.mangadex.org/covers/649eea62-757d-4c89-b9f5-e697206b9111/6135f67f-7ad8-458f-bb46-b87e95fefedc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90564,
+        "aniId": 95323,
+        "createdAt": "2020-10-12T16:08:58.000Z",
+        "updatedAt": "2021-06-04T14:37:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

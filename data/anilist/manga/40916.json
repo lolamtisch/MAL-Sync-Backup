@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Happy Rush",
+    "ハッピーラッシュ"
+  ],
+  "authors": [
+    "Tomomi Nagae"
+  ],
+  "id": 40916,
+  "malId": 10916,
+  "type": "manga",
+  "title": "Happy Rush",
+  "url": "https://anilist.co/manga/40916",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10916.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac79d529-48d8-4843-82d4-c7c96ef5c997": {
+        "authors": [
+          "Nagae Tomomi"
+        ],
+        "identifier": "ac79d529-48d8-4843-82d4-c7c96ef5c997",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Happy Rush",
+        "url": "https://mangadex.org/title/ac79d529-48d8-4843-82d4-c7c96ef5c997",
+        "image": "https://uploads.mangadex.org/covers/ac79d529-48d8-4843-82d4-c7c96ef5c997/f3477c98-2926-4738-a763-f3cb6d4ade1c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10916,
+        "aniId": 40916,
+        "createdAt": "2020-10-12T16:03:28.000Z",
+        "updatedAt": "2021-06-02T14:13:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

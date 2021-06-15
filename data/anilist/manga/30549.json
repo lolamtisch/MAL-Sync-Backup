@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "The Queen's Knight",
+    "여왕의 기사",
+    "Queen's Knight",
+    "The Queens Knight"
+  ],
+  "authors": [
+    "Kang-Won Kim"
+  ],
+  "id": 30549,
+  "malId": 549,
+  "type": "manga",
+  "title": "Yeowang-ui Gisa",
+  "url": "https://anilist.co/manga/30549",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30549-yvfUpeCi0LgO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "01bced4a-4ce7-4309-8e98-a9fc1c89f5c6": {
+        "authors": [
+          "김강원"
+        ],
+        "identifier": "01bced4a-4ce7-4309-8e98-a9fc1c89f5c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Queen's Knight",
+        "url": "https://mangadex.org/title/01bced4a-4ce7-4309-8e98-a9fc1c89f5c6",
+        "image": "https://uploads.mangadex.org/covers/01bced4a-4ce7-4309-8e98-a9fc1c89f5c6/8f80254d-506b-473d-95fd-bc3d533eeaa1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 549,
+        "aniId": 30549,
+        "createdAt": "2020-10-12T16:03:23.000Z",
+        "updatedAt": "2021-06-02T14:03:44.000Z",
+        "deletedAt": null
+      },
+      "40b0ed7f-808d-4a64-9eb9-6fc8294297d9": {
+        "authors": [
+          "Tai hou",
+          "Ba Jiao Ding Bing Gan"
+        ],
+        "identifier": "40b0ed7f-808d-4a64-9eb9-6fc8294297d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Queen's Knights",
+        "url": "https://mangadex.org/title/40b0ed7f-808d-4a64-9eb9-6fc8294297d9",
+        "image": "https://uploads.mangadex.org/covers/40b0ed7f-808d-4a64-9eb9-6fc8294297d9/dd357544-f826-4091-935e-6b950ad89f8c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 549,
+        "aniId": 30549,
+        "createdAt": "2020-10-12T16:16:21.000Z",
+        "updatedAt": "2021-06-06T21:57:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

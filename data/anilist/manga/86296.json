@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "そんな目で見てくれ",
+    "Look at Me with Those Eyes"
+  ],
+  "authors": [
+    "Icchokusen Moukon"
+  ],
+  "id": 86296,
+  "malId": 90097,
+  "type": "manga",
+  "title": "Sonna Me de Mitekure",
+  "url": "https://anilist.co/manga/86296",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86296-wADt7JGGaZ3C.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:03.000Z",
+  "updatedAt": "2021-05-20T14:53:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dc8cc704-7f8e-4ccb-942a-f390c2871302": {
+        "authors": [
+          "Moudama Chokusen"
+        ],
+        "identifier": "dc8cc704-7f8e-4ccb-942a-f390c2871302",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sonna Me de Mitekure",
+        "url": "https://mangadex.org/title/dc8cc704-7f8e-4ccb-942a-f390c2871302",
+        "image": "https://uploads.mangadex.org/covers/dc8cc704-7f8e-4ccb-942a-f390c2871302/578825cb-6712-4316-9a65-e64396e8c0f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90097,
+        "aniId": 86296,
+        "createdAt": "2020-10-12T16:08:38.000Z",
+        "updatedAt": "2021-06-04T11:34:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

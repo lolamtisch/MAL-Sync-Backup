@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "あたしについてらっしゃい",
+    "Atashi ni Tsuite Rasshai"
+  ],
+  "authors": [
+    "Miki Aihara"
+  ],
+  "id": 37347,
+  "malId": 7347,
+  "type": "manga",
+  "title": "Atashi ni Tsuiterasshai",
+  "url": "https://anilist.co/manga/37347",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7347.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:52:09.000Z",
+  "updatedAt": "2021-06-04T16:52:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "46fed83f-b62c-4d06-a699-8afca4a63eff": {
+        "authors": [
+          "Aihara Miki"
+        ],
+        "identifier": "46fed83f-b62c-4d06-a699-8afca4a63eff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Atashi ni Tsuiterasshai",
+        "url": "https://mangadex.org/title/46fed83f-b62c-4d06-a699-8afca4a63eff",
+        "image": "https://uploads.mangadex.org/covers/46fed83f-b62c-4d06-a699-8afca4a63eff/c54242f6-4329-4af7-a160-a5971b0a30b9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7347,
+        "aniId": 37347,
+        "createdAt": "2020-10-12T16:09:19.000Z",
+        "updatedAt": "2021-06-04T18:35:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

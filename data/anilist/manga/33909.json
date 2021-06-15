@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "とかげ",
+    "Lizard"
+  ],
+  "authors": [
+    "Yaku Haibara"
+  ],
+  "id": 33909,
+  "malId": 3909,
+  "type": "manga",
+  "title": "Tokage",
+  "url": "https://anilist.co/manga/33909",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33909-LcEg0pXGveOA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e99cb7f4-cfb9-491c-9fe6-a429d4989432": {
+        "authors": [
+          "HAIBARA Yaku"
+        ],
+        "identifier": "e99cb7f4-cfb9-491c-9fe6-a429d4989432",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokage",
+        "url": "https://mangadex.org/title/e99cb7f4-cfb9-491c-9fe6-a429d4989432",
+        "image": "https://uploads.mangadex.org/covers/e99cb7f4-cfb9-491c-9fe6-a429d4989432/175eec8c-7cd2-4bd0-8fa1-72cf9d6a84b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3909,
+        "aniId": 33909,
+        "createdAt": "2020-10-12T16:03:23.000Z",
+        "updatedAt": "2021-06-02T13:42:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

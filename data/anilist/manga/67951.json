@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いじめて欲しいの?",
+    "You Want to Be Teased?"
+  ],
+  "authors": [
+    "Noriko Hakutou"
+  ],
+  "id": 67951,
+  "malId": 37951,
+  "type": "manga",
+  "title": "Ijimete Hoshii no?",
+  "url": "https://anilist.co/manga/67951",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37951.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T12:26:02.000Z",
+  "updatedAt": "2021-06-08T12:26:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b460c80c-ed56-4e5c-9237-c5de0ff580c6": {
+        "authors": [
+          "Hakutou Noriko"
+        ],
+        "identifier": "b460c80c-ed56-4e5c-9237-c5de0ff580c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ijimete Hoshii no?",
+        "url": "https://mangadex.org/title/b460c80c-ed56-4e5c-9237-c5de0ff580c6",
+        "image": "https://uploads.mangadex.org/covers/b460c80c-ed56-4e5c-9237-c5de0ff580c6/83762c86-0118-4027-9341-d0a075c348b4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37951,
+        "aniId": 67951,
+        "createdAt": "2021-02-28T16:15:15.000Z",
+        "updatedAt": "2021-06-08T15:05:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

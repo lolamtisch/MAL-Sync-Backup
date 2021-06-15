@@ -1,0 +1,39 @@
+{
+  "altTitle": [
+    "Crescent rise",
+    "IDOLiSH7",
+    "TRIGGER"
+  ],
+  "id": 114958,
+  "malId": 41167,
+  "type": "anime",
+  "title": "Crescent Rise",
+  "url": "https://anilist.co/anime/114958",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114958-uqvWlSdYhcni.jpg",
+  "category": "music",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:03.000Z",
+  "updatedAt": "2021-05-20T14:46:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "crescent-love": {
+        "identifier": "crescent-love",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Crescent Love",
+        "url": "https://www19.gogoanime.io/category/crescent-love",
+        "image": "https://gogocdn.net/images/anime/C/crescent-love.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41167,
+        "aniId": 114958,
+        "createdAt": "2020-10-12T16:00:10.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

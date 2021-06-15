@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Kamen Rider",
+    "仮面ライダー",
+    "Masked Rider"
+  ],
+  "authors": [
+    "Shoutarou Ishinomori"
+  ],
+  "id": 34751,
+  "malId": 4751,
+  "type": "manga",
+  "title": "Kamen Rider",
+  "url": "https://anilist.co/manga/34751",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b34751-nidQJ7LwOsyQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:36.000Z",
+  "updatedAt": "2021-05-20T14:38:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56f3f735-31c4-46a1-bc89-7260c9bade1e": {
+        "authors": [
+          "Ishinomori Shotaro"
+        ],
+        "identifier": "56f3f735-31c4-46a1-bc89-7260c9bade1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamen Rider",
+        "url": "https://mangadex.org/title/56f3f735-31c4-46a1-bc89-7260c9bade1e",
+        "image": "https://uploads.mangadex.org/covers/56f3f735-31c4-46a1-bc89-7260c9bade1e/06eccca1-995f-4ea6-8568-7b54bb3b81d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4751,
+        "aniId": 34751,
+        "createdAt": "2020-10-12T16:06:08.000Z",
+        "updatedAt": "2021-06-03T17:28:10.000Z",
+        "deletedAt": null
+      },
+      "9e822030-5ea6-40ed-9ccd-cdf4edc23617": {
+        "authors": [
+          "Inoue Toshiki and Murakami Kouhei",
+          "Shotaro Ishinomori"
+        ],
+        "identifier": "9e822030-5ea6-40ed-9ccd-cdf4edc23617",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamen Rider 913 (Kaixa)",
+        "url": "https://mangadex.org/title/9e822030-5ea6-40ed-9ccd-cdf4edc23617",
+        "image": "https://uploads.mangadex.org/covers/9e822030-5ea6-40ed-9ccd-cdf4edc23617/32b7473d-8617-4386-a22f-b3c34b7e8b03.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4751,
+        "aniId": 34751,
+        "createdAt": "2020-10-12T16:17:28.000Z",
+        "updatedAt": "2021-06-07T07:57:01.000Z",
+        "deletedAt": null
+      },
+      "462ca02c-3e97-455e-80ee-0dc71208288e": {
+        "authors": [
+          "Fuyizawa Naoyuki"
+        ],
+        "identifier": "462ca02c-3e97-455e-80ee-0dc71208288e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamen Rider Decade",
+        "url": "https://mangadex.org/title/462ca02c-3e97-455e-80ee-0dc71208288e",
+        "image": "https://uploads.mangadex.org/covers/462ca02c-3e97-455e-80ee-0dc71208288e/ec7f3349-edbd-4964-b0ab-af3559eaaa34.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4751,
+        "aniId": 34751,
+        "createdAt": "2020-10-12T16:18:35.000Z",
+        "updatedAt": "2021-06-07T18:18:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kamen_rider": {
+        "authors": [
+          "Ishinomori",
+          "Shotaro"
+        ],
+        "identifier": "kamen_rider",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kamen Rider",
+        "url": "https://manganelo.com/manga/kamen_rider",
+        "image": "https://avt.mkklcdnv6temp.com/48/y/10-1583483943.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4751,
+        "aniId": 34751,
+        "createdAt": "2021-04-23T17:26:59.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

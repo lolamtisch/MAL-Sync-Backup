@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "少年残像",
+    "Devil Inside",
+    "When A Heart Beats",
+    "Boy's Next Door",
+    "Boys Next Door",
+    "Twój obraz"
+  ],
+  "authors": [
+    "Kaori Yuki"
+  ],
+  "id": 30891,
+  "malId": 891,
+  "type": "manga",
+  "title": "Shounen Zanzou",
+  "url": "https://anilist.co/manga/30891",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30891-0PoKd3r0eXGA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7efd0c17-8599-4f67-ab78-d7c1d073c5cc": {
+        "authors": [
+          "Yuki Kaori"
+        ],
+        "identifier": "7efd0c17-8599-4f67-ab78-d7c1d073c5cc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boys Next Door",
+        "url": "https://mangadex.org/title/7efd0c17-8599-4f67-ab78-d7c1d073c5cc",
+        "image": "https://uploads.mangadex.org/covers/7efd0c17-8599-4f67-ab78-d7c1d073c5cc/9e30bead-ef3b-41de-94b9-8e30f769fcec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 891,
+        "aniId": 30891,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:34:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oq965773": {
+        "authors": [
+          "Yuki Kaori"
+        ],
+        "identifier": "manga-oq965773",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shounen Zanzou",
+        "url": "https://manganato.com/manga-oq965773",
+        "image": "https://avt.mkklcdnv6temp.com/19/f/10-1583482854.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 891,
+        "aniId": 30891,
+        "createdAt": "2021-05-31T09:36:03.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

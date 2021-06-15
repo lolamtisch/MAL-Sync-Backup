@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "El El",
+    "エレル"
+  ],
+  "authors": [
+    "Yuki Fujisawa"
+  ],
+  "id": 42114,
+  "malId": 12114,
+  "type": "manga",
+  "title": "El El",
+  "url": "https://anilist.co/manga/42114",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42114-Qt3UKcMmZMfN.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c5fbd24f-4125-4d0f-88c3-0a2d5cf6a95a": {
+        "authors": [
+          "Fujisawa Yuki"
+        ],
+        "identifier": "c5fbd24f-4125-4d0f-88c3-0a2d5cf6a95a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "El El",
+        "url": "https://mangadex.org/title/c5fbd24f-4125-4d0f-88c3-0a2d5cf6a95a",
+        "image": "https://uploads.mangadex.org/covers/c5fbd24f-4125-4d0f-88c3-0a2d5cf6a95a/ccd1f925-37c1-4c64-9e55-a651cb3f9fad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12114,
+        "aniId": 42114,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:21:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "el-el": {
+        "authors": [
+          "FUJISAWA Yuki"
+        ],
+        "identifier": "el-el",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "El El",
+        "url": "https://mangasee123.com/manga/El-El",
+        "image": "https://cover.nep.li/cover/El-El.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12114,
+        "aniId": 42114,
+        "createdAt": "2021-05-02T11:34:09.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

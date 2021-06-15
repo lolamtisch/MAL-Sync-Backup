@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "賭ケグルイ(仮)",
+    "Kakegurui Kakkokari",
+    "Kakegurui Temp"
+  ],
+  "authors": [
+    "Homura Kawamoto",
+    "Taku Kawamura"
+  ],
+  "id": 99271,
+  "malId": 103179,
+  "type": "manga",
+  "title": "Kakegurui (Kari)",
+  "url": "https://anilist.co/manga/99271",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99271-xoleWmUxz95d.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:02.000Z",
+  "updatedAt": "2021-05-20T14:55:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e99ac0b2-dee1-4bfb-934f-d23b2878177e": {
+        "authors": [
+          "Kawamura Taku",
+          "Kawamoto Homura"
+        ],
+        "identifier": "e99ac0b2-dee1-4bfb-934f-d23b2878177e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakegurui (Kari)",
+        "url": "https://mangadex.org/title/e99ac0b2-dee1-4bfb-934f-d23b2878177e",
+        "image": "https://uploads.mangadex.org/covers/e99ac0b2-dee1-4bfb-934f-d23b2878177e/cfc95cc1-7b87-4062-bed9-741aa7681865.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103179,
+        "aniId": 99271,
+        "createdAt": "2020-10-12T16:14:30.000Z",
+        "updatedAt": "2021-06-06T05:38:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jk918095": {
+        "authors": [],
+        "identifier": "jk918095",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kakegurui (Kari)",
+        "url": "https://manganelo.com/manga/jk918095",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21710-jk918095.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103179,
+        "aniId": 99271,
+        "createdAt": "2020-10-12T16:23:43.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

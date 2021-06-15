@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "ONE PIECE episode A"
+  ],
+  "authors": [
+    "Hamazaki, Tatsuya",
+    "Boichi",
+    "Hinata, Shou"
+  ],
+  "id": 128594,
+  "type": "manga",
+  "title": "One Piece: Episode A",
+  "url": "https://myanimelist.net/manga/128594/One_Piece__Episode_A",
+  "image": "https://cdn.myanimelist.net/images/manga/1/235920.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-11-03T10:54:21.000Z",
+  "updatedAt": "2021-06-02T08:31:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "470ac1ec-c3dd-4dc2-9e5d-0104600ed1a5": {
+        "authors": [
+          "Hinata Shou",
+          "Boichi",
+          "Hamazaki Tatsuya"
+        ],
+        "identifier": "470ac1ec-c3dd-4dc2-9e5d-0104600ed1a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One Piece Episode A",
+        "url": "https://mangadex.org/title/470ac1ec-c3dd-4dc2-9e5d-0104600ed1a5",
+        "image": "https://uploads.mangadex.org/covers/470ac1ec-c3dd-4dc2-9e5d-0104600ed1a5/bd2220e4-fa09-4a48-9c51-24cfba2ea80b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128594,
+        "aniId": 117802,
+        "createdAt": "2020-10-12T16:21:41.000Z",
+        "updatedAt": "2021-06-08T06:39:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "one_piece_episode_a": {
+        "authors": [
+          "HAMAZAKI Tatsuya",
+          "HINATA Shou",
+          "ODA Eiichiro"
+        ],
+        "identifier": "one_piece_episode_a",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "One Piece Episode A",
+        "url": "https://fanfox.net/manga/one_piece_episode_a/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36728/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128594,
+        "aniId": 117802,
+        "createdAt": "2020-12-13T12:49:43.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

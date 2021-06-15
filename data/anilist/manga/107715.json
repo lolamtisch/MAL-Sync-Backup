@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "鬼さんの所へ参りました",
+    "I Arrived at Ogre-san"
+  ],
+  "authors": [
+    "Mokke Amasawa"
+  ],
+  "id": 107715,
+  "malId": 118228,
+  "type": "manga",
+  "title": "Oni-san no Tokoro e Mairimashita",
+  "url": "https://anilist.co/manga/107715",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107715-RyMkIquQOLOZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:59.000Z",
+  "updatedAt": "2021-05-20T14:57:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0bedc5d1-61c4-43c1-8ea1-0c9256d1c48c": {
+        "authors": [
+          "Amezawa Mokke"
+        ],
+        "identifier": "0bedc5d1-61c4-43c1-8ea1-0c9256d1c48c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Arrived at Oni-san",
+        "url": "https://mangadex.org/title/0bedc5d1-61c4-43c1-8ea1-0c9256d1c48c",
+        "image": "https://uploads.mangadex.org/covers/0bedc5d1-61c4-43c1-8ea1-0c9256d1c48c/8e443630-3612-4ee6-a96c-5ddc984befb6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118228,
+        "aniId": 107715,
+        "createdAt": "2020-10-12T16:15:00.000Z",
+        "updatedAt": "2021-06-06T09:55:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "本屋さんでGO!",
+    "Honyasan de Go!"
+  ],
+  "authors": [
+    "Ryoku Tsunoda"
+  ],
+  "id": 41900,
+  "malId": 11900,
+  "type": "manga",
+  "title": "Honya-san de GO!",
+  "url": "https://anilist.co/manga/41900",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11900.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:15.000Z",
+  "updatedAt": "2021-05-20T14:42:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf5ab013-9f10-4105-9e40-3e3c1619d473": {
+        "authors": [
+          "Tsunoda Ryoku"
+        ],
+        "identifier": "bf5ab013-9f10-4105-9e40-3e3c1619d473",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honya-san de Go!",
+        "url": "https://mangadex.org/title/bf5ab013-9f10-4105-9e40-3e3c1619d473",
+        "image": "https://uploads.mangadex.org/covers/bf5ab013-9f10-4105-9e40-3e3c1619d473/71a11699-e5f9-4b72-8470-7ea95803464a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11900,
+        "aniId": 41900,
+        "createdAt": "2020-10-22T05:09:30.000Z",
+        "updatedAt": "2021-06-08T05:28:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

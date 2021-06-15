@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "BACK TO THE 母さん"
+  ],
+  "authors": [
+    "Takeru Furumoto"
+  ],
+  "id": 100763,
+  "malId": 109456,
+  "type": "manga",
+  "title": "BACK TO THE Kaasan",
+  "url": "https://anilist.co/manga/100763",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100763-wcgHvgRIarbx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:07.000Z",
+  "updatedAt": "2021-05-20T14:56:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8bdeda3b-907b-497f-a059-aa18c513b4aa": {
+        "authors": [
+          "Furumoto Takeru"
+        ],
+        "identifier": "8bdeda3b-907b-497f-a059-aa18c513b4aa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BACK TO THE Kaasan",
+        "url": "https://mangadex.org/title/8bdeda3b-907b-497f-a059-aa18c513b4aa",
+        "image": "https://uploads.mangadex.org/covers/8bdeda3b-907b-497f-a059-aa18c513b4aa/3478fc18-ab43-4d1b-bb91-873d6a84fade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109456,
+        "aniId": 100763,
+        "createdAt": "2020-10-12T16:11:12.000Z",
+        "updatedAt": "2021-06-05T06:30:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "back_to_the_kaasan": {
+        "authors": [
+          "Furumoto",
+          "Takeru"
+        ],
+        "identifier": "back_to_the_kaasan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Back To The Kaasan",
+        "url": "https://manganelo.com/manga/back_to_the_kaasan",
+        "image": "https://avt.mkklcdnv6.com/2/n/17-1583495351.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109456,
+        "aniId": 100763,
+        "createdAt": "2020-11-19T18:21:00.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "back_to_the_kaasan": {
+        "authors": [
+          "FURUMOTO Takeru"
+        ],
+        "identifier": "back_to_the_kaasan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Back to the Kaasan",
+        "url": "https://fanfox.net/manga/back_to_the_kaasan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26999/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109456,
+        "aniId": 100763,
+        "createdAt": "2020-12-23T16:26:04.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

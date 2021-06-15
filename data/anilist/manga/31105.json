@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "redEyes",
+    "レッドアイーズ"
+  ],
+  "authors": [
+    "Jun Shindo"
+  ],
+  "id": 31105,
+  "malId": 1105,
+  "type": "manga",
+  "title": "Red Eyes",
+  "url": "https://anilist.co/manga/31105",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31105-f4w0RfVa4gIt.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0a012ab6-294d-48c6-be4f-18c7102dc6dd": {
+        "authors": [
+          "Shindo Jun"
+        ],
+        "identifier": "0a012ab6-294d-48c6-be4f-18c7102dc6dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Red Eyes",
+        "url": "https://mangadex.org/title/0a012ab6-294d-48c6-be4f-18c7102dc6dd",
+        "image": "https://uploads.mangadex.org/covers/0a012ab6-294d-48c6-be4f-18c7102dc6dd/aa07a77e-8300-4a8b-bc92-2841261f7cdf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1105,
+        "aniId": 31105,
+        "createdAt": "2020-10-12T16:02:59.000Z",
+        "updatedAt": "2021-06-02T10:53:22.000Z",
+        "deletedAt": null
+      },
+      "d05211dc-8e09-499a-ba00-83f1e3ed971e": {
+        "authors": [
+          "Shirato Sanpei"
+        ],
+        "identifier": "d05211dc-8e09-499a-ba00-83f1e3ed971e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akame",
+        "url": "https://mangadex.org/title/d05211dc-8e09-499a-ba00-83f1e3ed971e",
+        "image": "https://uploads.mangadex.org/covers/d05211dc-8e09-499a-ba00-83f1e3ed971e/50cf47e7-4f8d-4224-b917-09b027c49bed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1105,
+        "aniId": 31105,
+        "createdAt": "2020-10-12T16:17:57.000Z",
+        "updatedAt": "2021-06-07T12:28:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "red_eyes": {
+        "authors": [],
+        "identifier": "red_eyes",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Red Eyes",
+        "url": "https://manganelo.com/manga/red_eyes",
+        "image": "https://avt.mkklcdnv6.com/48/w/7-1583478131.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1105,
+        "aniId": 31105,
+        "createdAt": "2020-10-12T16:25:09.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "魔剣X Another",
+    "Demon Blade X Another",
+    "Maken X"
+  ],
+  "authors": [
+    "Q Hayashida"
+  ],
+  "id": 31460,
+  "malId": 1460,
+  "type": "manga",
+  "title": "Maken X Another",
+  "url": "https://anilist.co/manga/31460",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31460-vjqlU08FitAO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:46.000Z",
+  "updatedAt": "2021-05-20T14:36:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f63381f-98be-406f-bfdb-52bd39bfa5e6": {
+        "authors": [
+          "HAYASHIDA Q"
+        ],
+        "identifier": "8f63381f-98be-406f-bfdb-52bd39bfa5e6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maken X Another",
+        "url": "https://mangadex.org/title/8f63381f-98be-406f-bfdb-52bd39bfa5e6",
+        "image": "https://uploads.mangadex.org/covers/8f63381f-98be-406f-bfdb-52bd39bfa5e6/3a932fbc-a564-479d-beec-282199db0c8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1460,
+        "aniId": 31460,
+        "createdAt": "2020-10-12T16:03:29.000Z",
+        "updatedAt": "2021-06-02T14:20:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "maken_x_another": {
+        "authors": [],
+        "identifier": "maken_x_another",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Maken X Another",
+        "url": "https://manganelo.com/manga/maken_x_another",
+        "image": "https://avt.mkklcdnv6.com/39/e/10-1583483589.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1460,
+        "aniId": 31460,
+        "createdAt": "2020-10-12T16:24:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "maken_x": {
+        "authors": [
+          "HAYASHIDA Q."
+        ],
+        "identifier": "maken_x",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Maken X",
+        "url": "https://fanfox.net/manga/maken_x/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3110/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1460,
+        "aniId": 31460,
+        "createdAt": "2021-03-27T02:19:48.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

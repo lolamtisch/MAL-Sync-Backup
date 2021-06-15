@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "홍가네"
+  ],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 30631,
+  "malId": 631,
+  "type": "manga",
+  "title": "Honggane",
+  "url": "https://anilist.co/manga/30631",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/631.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f43c48ed-fe0b-47fc-b16b-a721e83a889a": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "f43c48ed-fe0b-47fc-b16b-a721e83a889a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honggane",
+        "url": "https://mangadex.org/title/f43c48ed-fe0b-47fc-b16b-a721e83a889a",
+        "image": "https://uploads.mangadex.org/covers/f43c48ed-fe0b-47fc-b16b-a721e83a889a/83120359-2663-4d2c-a7be-008864ee42c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 631,
+        "aniId": 30631,
+        "createdAt": "2020-10-12T16:03:30.000Z",
+        "updatedAt": "2021-06-02T14:24:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "カブキブ！"
+  ],
+  "id": 87500,
+  "malId": 33840,
+  "type": "anime",
+  "title": "Kabukibu!",
+  "url": "https://anilist.co/anime/87500",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx87500-TReQh6wv4ZXt.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:13.000Z",
+  "updatedAt": "2021-05-20T14:43:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "r97p": {
+        "identifier": "r97p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kabuki-bu!",
+        "url": "https://9anime.ru/watch/kabuki-bu.r97p",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-B8rsvpwMd2w/WFZ3Iy5Cl4I/AAAAAAABTXs/vL6dmjh_olE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33840,
+        "aniId": 87500,
+        "createdAt": "2020-10-12T15:55:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kabukibu": {
+        "identifier": "kabukibu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kabukibu!",
+        "url": "https://www16.gogoanime.io/category/kabukibu",
+        "image": "https://gogocdn.net/cover/kabukibu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33840,
+        "aniId": 87500,
+        "createdAt": "2020-10-12T16:00:54.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2029": {
+        "identifier": "2029",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kabuki-bu!",
+        "url": "https://pahe.win/a/2029",
+        "image": "https://i.animepahe.com/posters/ff6477896b3ccc579b7221c9e37b4a46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33840,
+        "aniId": 87500,
+        "createdAt": "2021-04-17T22:44:29.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

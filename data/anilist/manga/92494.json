@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "鬼畜島",
+    "Freak Island"
+  ],
+  "authors": [
+    "Masaya Hokazono"
+  ],
+  "id": 92494,
+  "malId": 77247,
+  "type": "manga",
+  "title": "Kichikujima",
+  "url": "https://anilist.co/manga/92494",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92494-4Ika2gC0mrBT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:49.000Z",
+  "updatedAt": "2021-05-20T14:51:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ccd3cb6e-82ac-4ebd-9263-eec25cfafcc8": {
+        "authors": [
+          "Hokazono Masaya"
+        ],
+        "identifier": "ccd3cb6e-82ac-4ebd-9263-eec25cfafcc8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Freak Island",
+        "url": "https://mangadex.org/title/ccd3cb6e-82ac-4ebd-9263-eec25cfafcc8",
+        "image": "https://uploads.mangadex.org/covers/ccd3cb6e-82ac-4ebd-9263-eec25cfafcc8/3141a2be-b388-4ba5-a03b-c26f36bc6986.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77247,
+        "aniId": 92494,
+        "createdAt": "2020-10-12T16:10:15.000Z",
+        "updatedAt": "2021-06-04T23:28:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kichikujima": {
+        "authors": [
+          "Hokazono",
+          "Masaya"
+        ],
+        "identifier": "kichikujima",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kichikujima",
+        "url": "https://manganelo.com/manga/kichikujima",
+        "image": "https://avt.mkklcdnv6temp.com/35/u/13-1583489023.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77247,
+        "aniId": 92494,
+        "createdAt": "2020-10-12T16:23:53.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kichikujima": {
+        "authors": [
+          "HOKAZONO Masaya"
+        ],
+        "identifier": "kichikujima",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kichikujima",
+        "url": "https://mangasee123.com/manga/Kichikujima",
+        "image": "https://cover.nep.li/cover/Kichikujima.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77247,
+        "aniId": 92494,
+        "createdAt": "2021-03-05T05:21:25.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kichikujima": {
+        "authors": [
+          "HOKAZONO Masaya"
+        ],
+        "identifier": "kichikujima",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kichikujima",
+        "url": "https://fanfox.net/manga/kichikujima/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17669/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77247,
+        "aniId": 92494,
+        "createdAt": "2021-04-04T02:38:17.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

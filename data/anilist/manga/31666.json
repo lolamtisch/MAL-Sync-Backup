@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Blue Spice",
+    "青いスパイス"
+  ],
+  "authors": [
+    "Mimi Tajima"
+  ],
+  "id": 31666,
+  "malId": 1666,
+  "type": "manga",
+  "title": "Aoi Spice",
+  "url": "https://anilist.co/manga/31666",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1666.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T10:19:28.000Z",
+  "updatedAt": "2021-06-05T10:19:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7ad3e75c-7c76-42a9-bf2f-12291f2bc442": {
+        "authors": [
+          "TAJIMA Mimi"
+        ],
+        "identifier": "7ad3e75c-7c76-42a9-bf2f-12291f2bc442",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aoi Spice",
+        "url": "https://mangadex.org/title/7ad3e75c-7c76-42a9-bf2f-12291f2bc442",
+        "image": "https://uploads.mangadex.org/covers/7ad3e75c-7c76-42a9-bf2f-12291f2bc442/7a6628b4-5d36-4eb8-827a-1e010932b7bd.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1666,
+        "aniId": 31666,
+        "createdAt": "2020-10-12T16:11:39.000Z",
+        "updatedAt": "2021-06-05T12:43:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

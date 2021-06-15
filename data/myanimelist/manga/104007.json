@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "One More Eiji",
+    "ワンモア・エイジ"
+  ],
+  "authors": [
+    "Yoshikawa, Hideaki"
+  ],
+  "id": 104007,
+  "type": "manga",
+  "title": "One More Age",
+  "url": "https://myanimelist.net/manga/104007/One_More_Age",
+  "image": "https://cdn.myanimelist.net/images/manga/3/190454.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:56.000Z",
+  "updatedAt": "2021-03-26T22:19:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2539c5b3-ed91-4f52-9112-d59a271e9d99": {
+        "authors": [
+          "YOSHIKAWA Hideaki"
+        ],
+        "identifier": "2539c5b3-ed91-4f52-9112-d59a271e9d99",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One More Age",
+        "url": "https://mangadex.org/title/2539c5b3-ed91-4f52-9112-d59a271e9d99",
+        "image": "https://uploads.mangadex.org/covers/2539c5b3-ed91-4f52-9112-d59a271e9d99/a28ae050-c08a-4bb4-ab3d-a12e955f3390.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104007,
+        "aniId": 101836,
+        "createdAt": "2020-10-12T16:10:26.000Z",
+        "updatedAt": "2021-06-05T00:42:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "one_more_age": {
+        "authors": [],
+        "identifier": "one_more_age",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "One More Age",
+        "url": "https://manganelo.com/manga/one_more_age",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18236-one_more_age.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104007,
+        "aniId": 101836,
+        "createdAt": "2020-10-12T16:24:42.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "one_more_age": {
+        "authors": [
+          "YOSHIKAWA Hideaki"
+        ],
+        "identifier": "one_more_age",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "One More Age",
+        "url": "https://fanfox.net/manga/one_more_age/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29710/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104007,
+        "aniId": 101836,
+        "createdAt": "2021-03-26T22:19:58.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

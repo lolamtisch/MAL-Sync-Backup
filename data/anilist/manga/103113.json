@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "白ひなの冒険"
+  ],
+  "authors": [
+    "Kenichi Watanabe"
+  ],
+  "id": 103113,
+  "malId": null,
+  "type": "manga",
+  "title": "Shiro Hina no Bouken",
+  "url": "https://anilist.co/manga/103113",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103113-zP93dFx8D8DH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T06:51:09.000Z",
+  "updatedAt": "2021-06-05T06:51:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dcd8a042-eaab-4692-952b-5c9e178f7ee7": {
+        "authors": [
+          "Watanabe Kenichi"
+        ],
+        "identifier": "dcd8a042-eaab-4692-952b-5c9e178f7ee7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shiro Hina no Bouken",
+        "url": "https://mangadex.org/title/dcd8a042-eaab-4692-952b-5c9e178f7ee7",
+        "image": "https://uploads.mangadex.org/covers/dcd8a042-eaab-4692-952b-5c9e178f7ee7/2f4de9b7-0a95-4e8c-89a1-8bb2ee8630f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 103113,
+        "createdAt": "2020-10-12T16:11:11.000Z",
+        "updatedAt": "2021-06-05T09:07:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "The Servant's Master",
+    "Convincing Boss"
+  ],
+  "authors": [
+    "Ukiko Kiyota"
+  ],
+  "id": 33132,
+  "malId": 3132,
+  "type": "manga",
+  "title": "Servant's Master",
+  "url": "https://anilist.co/manga/33132",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3132.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1fe9366b-e896-493f-95d3-25f32da6c5d0": {
+        "authors": [
+          "Kyota Ukiko"
+        ],
+        "identifier": "1fe9366b-e896-493f-95d3-25f32da6c5d0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aka no Ori",
+        "url": "https://mangadex.org/title/1fe9366b-e896-493f-95d3-25f32da6c5d0",
+        "image": "https://uploads.mangadex.org/covers/1fe9366b-e896-493f-95d3-25f32da6c5d0/72b3e8f7-7495-47e3-a25e-141b0c959f61.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3132,
+        "aniId": 33132,
+        "createdAt": "2020-10-12T16:04:17.000Z",
+        "updatedAt": "2021-06-02T20:06:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "aka_no_ori": {
+        "authors": [],
+        "identifier": "aka_no_ori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Aka No Ori",
+        "url": "https://manganelo.com/manga/aka_no_ori",
+        "image": "https://avt.mkklcdnv6.com/14/v/7-1583476838.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3132,
+        "aniId": 33132,
+        "createdAt": "2020-10-12T16:22:03.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "rw919042": {
+        "authors": [],
+        "identifier": "rw919042",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yoshioka-san Is In A Bad Mood",
+        "url": "https://manganelo.com/manga/rw919042",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/442-rw919042.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3132,
+        "aniId": 33132,
+        "createdAt": "2020-10-12T16:25:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

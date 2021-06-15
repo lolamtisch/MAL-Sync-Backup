@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "－ヒトガタナ－"
+  ],
+  "authors": [
+    "Onigunsou"
+  ],
+  "id": 47931,
+  "malId": 17931,
+  "type": "manga",
+  "title": "-Hitogatana-",
+  "url": "https://anilist.co/manga/47931",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47931-rMafJKezAbGD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:14.000Z",
+  "updatedAt": "2021-05-20T14:44:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6fed5d7-9021-4ff5-be9d-74c4925152e7": {
+        "authors": [
+          "Onigunsou"
+        ],
+        "identifier": "b6fed5d7-9021-4ff5-be9d-74c4925152e7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "-Hitogatana-",
+        "url": "https://mangadex.org/title/b6fed5d7-9021-4ff5-be9d-74c4925152e7",
+        "image": "https://uploads.mangadex.org/covers/b6fed5d7-9021-4ff5-be9d-74c4925152e7/09180b60-a44b-4142-9375-b8829cde62af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17931,
+        "aniId": 47931,
+        "createdAt": "2020-10-12T16:02:37.000Z",
+        "updatedAt": "2021-06-02T08:17:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hitogatana": {
+        "authors": [
+          "Onigunsou"
+        ],
+        "identifier": "hitogatana",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hitogatana",
+        "url": "https://manganelo.com/manga/hitogatana",
+        "image": "https://avt.mkklcdnv6.com/29/z/2-1583466855.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17931,
+        "aniId": 47931,
+        "createdAt": "2020-11-08T20:42:14.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hitogatana": {
+        "authors": [
+          "Onigunsou"
+        ],
+        "identifier": "hitogatana",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hitogatana",
+        "url": "https://mangasee123.com/manga/Hitogatana",
+        "image": "https://cover.nep.li/cover/Hitogatana.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17931,
+        "aniId": 47931,
+        "createdAt": "2021-01-28T18:48:22.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

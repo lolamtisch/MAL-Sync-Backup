@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Cream Caramel",
+    "クリームキャラメル",
+    "White Summer",
+    "Sonna Hi mo Aru sa"
+  ],
+  "authors": [
+    "Ikumi Kudou"
+  ],
+  "id": 40553,
+  "malId": 10553,
+  "type": "manga",
+  "title": "Cream Caramel",
+  "url": "https://anilist.co/manga/40553",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10553.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "723bfec9-9112-4fe4-b8dd-0ea31ca161bb": {
+        "authors": [
+          "Kudou Ikumi"
+        ],
+        "identifier": "723bfec9-9112-4fe4-b8dd-0ea31ca161bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cream Caramel",
+        "url": "https://mangadex.org/title/723bfec9-9112-4fe4-b8dd-0ea31ca161bb",
+        "image": "https://uploads.mangadex.org/covers/723bfec9-9112-4fe4-b8dd-0ea31ca161bb/638726b1-ec6f-4f8e-afc5-29d79140674d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10553,
+        "aniId": 40553,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:28:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cream-caramel": {
+        "authors": [
+          "KUDOU Ikumi"
+        ],
+        "identifier": "cream-caramel",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cream Caramel",
+        "url": "https://mangasee123.com/manga/Cream-Caramel",
+        "image": "https://cover.nep.li/cover/Cream-Caramel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10553,
+        "aniId": 40553,
+        "createdAt": "2021-04-29T16:21:22.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

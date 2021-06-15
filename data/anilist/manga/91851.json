@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "ガンダム レガシー"
+  ],
+  "authors": [
+    "Natsumoto Masato",
+    "Koujirou Nakamura",
+    "Chiba Tomohiro"
+  ],
+  "id": 91851,
+  "malId": 73633,
+  "type": "manga",
+  "title": "GUNDAM LEGACY",
+  "url": "https://anilist.co/manga/91851",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91851-zKYoPOPBrPZe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:41.000Z",
+  "updatedAt": "2021-05-20T14:51:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "51d5d398-69bb-4938-85d4-90fab98e0562": {
+        "authors": [
+          "YATATE Hajime",
+          "TOMINO Yoshiyuki",
+          "NAKAMURA Koujirou",
+          "CHIBA Tomohiro",
+          "NATSUMOTO Masato"
+        ],
+        "identifier": "51d5d398-69bb-4938-85d4-90fab98e0562",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gundam Legacy",
+        "url": "https://mangadex.org/title/51d5d398-69bb-4938-85d4-90fab98e0562",
+        "image": "https://uploads.mangadex.org/covers/51d5d398-69bb-4938-85d4-90fab98e0562/117f6ab1-ae5d-4ab5-aa9a-e6d717ce886e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73633,
+        "aniId": 91851,
+        "createdAt": "2020-10-12T16:08:04.000Z",
+        "updatedAt": "2021-06-04T07:12:58.000Z",
+        "deletedAt": null
+      },
+      "df148d10-0c7e-4908-9be8-35c63c0190ef": {
+        "authors": [
+          "Soga Atsushi",
+          "TOMINO Yoshiyuki"
+        ],
+        "identifier": "df148d10-0c7e-4908-9be8-35c63c0190ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "∀ Gundam",
+        "url": "https://mangadex.org/title/df148d10-0c7e-4908-9be8-35c63c0190ef",
+        "image": "https://uploads.mangadex.org/covers/df148d10-0c7e-4908-9be8-35c63c0190ef/1fe61334-c7df-4da1-8f8e-3837226a9e1d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73633,
+        "aniId": 91851,
+        "createdAt": "2020-10-12T16:16:24.000Z",
+        "updatedAt": "2021-06-06T22:09:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gundam_legacy": {
+        "authors": [],
+        "identifier": "gundam_legacy",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gundam Legacy",
+        "url": "https://manganelo.com/manga/gundam_legacy",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/9576-gundam_legacy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73633,
+        "aniId": 91851,
+        "createdAt": "2020-10-12T16:23:11.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gundam-legacy": {
+        "authors": [
+          "NATSUMOTO Masato"
+        ],
+        "identifier": "gundam-legacy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gundam Legacy",
+        "url": "https://mangasee123.com/manga/Gundam-Legacy",
+        "image": "https://cover.nep.li/cover/Gundam-Legacy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73633,
+        "aniId": 91851,
+        "createdAt": "2021-05-20T07:01:06.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

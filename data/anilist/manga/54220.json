@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "劇場版ポケットモンスター ミュウツーの逆襲",
+    "Pokémon: Mewtwo Strikes Back!"
+  ],
+  "authors": [
+    "Toshihiro Ono",
+    "Satoshi Tajiri"
+  ],
+  "id": 54220,
+  "malId": 24220,
+  "type": "manga",
+  "title": "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu",
+  "url": "https://anilist.co/manga/54220",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx54220-VqYdzBoDeMyf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:43.000Z",
+  "updatedAt": "2021-05-20T14:46:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b009f62d-7a65-417d-990a-2e671b036069": {
+        "authors": [
+          "Ono Toshihiro"
+        ],
+        "identifier": "b009f62d-7a65-417d-990a-2e671b036069",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mewtwo no Gyakushuu",
+        "url": "https://mangadex.org/title/b009f62d-7a65-417d-990a-2e671b036069",
+        "image": "https://uploads.mangadex.org/covers/b009f62d-7a65-417d-990a-2e671b036069/ccb3c752-ffe2-4c21-ac6c-d7eeb811a821.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24220,
+        "aniId": 54220,
+        "createdAt": "2020-10-12T16:15:20.000Z",
+        "updatedAt": "2021-06-06T13:25:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

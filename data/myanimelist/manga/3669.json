@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Duck",
+    "The Duck",
+    "アヒル"
+  ],
+  "authors": [
+    "Ezuki, Himawari"
+  ],
+  "id": 3669,
+  "type": "manga",
+  "title": "Ahiru",
+  "url": "https://myanimelist.net/manga/3669/Ahiru",
+  "image": "https://cdn.myanimelist.net/images/manga/2/4085.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:53.000Z",
+  "updatedAt": "2021-04-28T07:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "732a5f96-1930-4d10-aa43-563c98c2bde9": {
+        "authors": [
+          "EZUKI Himawari"
+        ],
+        "identifier": "732a5f96-1930-4d10-aa43-563c98c2bde9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ahiru",
+        "url": "https://mangadex.org/title/732a5f96-1930-4d10-aa43-563c98c2bde9",
+        "image": "https://uploads.mangadex.org/covers/732a5f96-1930-4d10-aa43-563c98c2bde9/d1fb0c4c-8e3a-48dd-a4fa-9f94d71b4b2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3669,
+        "aniId": 33669,
+        "createdAt": "2020-10-12T16:03:46.000Z",
+        "updatedAt": "2021-06-02T16:23:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

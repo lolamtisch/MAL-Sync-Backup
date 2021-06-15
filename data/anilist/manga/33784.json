@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Black Sun",
+    "BLACK SUN 奴隷王"
+  ],
+  "authors": [
+    "Uki Ogasawara"
+  ],
+  "id": 33784,
+  "malId": 3784,
+  "type": "manga",
+  "title": "Black Sun Doreiou",
+  "url": "https://anilist.co/manga/33784",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3784.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6fab77fb-02cb-44fc-aa0a-1788455ac22f": {
+        "authors": [
+          "Ogasawara Uki"
+        ],
+        "identifier": "6fab77fb-02cb-44fc-aa0a-1788455ac22f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Sun Doreiou",
+        "url": "https://mangadex.org/title/6fab77fb-02cb-44fc-aa0a-1788455ac22f",
+        "image": "https://uploads.mangadex.org/covers/6fab77fb-02cb-44fc-aa0a-1788455ac22f/adebb759-4ca0-49fe-b25f-d0b4a95e6f40.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3784,
+        "aniId": 33784,
+        "createdAt": "2020-10-12T16:13:03.000Z",
+        "updatedAt": "2021-06-05T18:25:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "아이렌"
+  ],
+  "authors": [
+    "Aivan"
+  ],
+  "id": 54015,
+  "malId": 24015,
+  "type": "manga",
+  "title": "I-ren",
+  "url": "https://anilist.co/manga/54015",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b54015-molKDasjW6n9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:42.000Z",
+  "updatedAt": "2021-05-20T14:46:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b682821c-37e5-453a-a25c-a370a066f9cc": {
+        "authors": [
+          "Aivan"
+        ],
+        "identifier": "b682821c-37e5-453a-a25c-a370a066f9cc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I-ren",
+        "url": "https://mangadex.org/title/b682821c-37e5-453a-a25c-a370a066f9cc",
+        "image": "https://uploads.mangadex.org/covers/b682821c-37e5-453a-a25c-a370a066f9cc/475d8ea7-be25-4755-93b5-58f7cb0f2e53.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24015,
+        "aniId": 54015,
+        "createdAt": "2020-10-12T16:06:23.000Z",
+        "updatedAt": "2021-06-03T19:22:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

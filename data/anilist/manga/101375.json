@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ミッドナイトレイン"
+  ],
+  "authors": [
+    "Chongtak"
+  ],
+  "id": 101375,
+  "malId": 113836,
+  "type": "manga",
+  "title": "Midnight Rain",
+  "url": "https://anilist.co/manga/101375",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101375-vDJSbpCYj744.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T09:12:58.000Z",
+  "updatedAt": "2021-05-23T09:12:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9b9dc680-778c-4169-8799-9de40733a041": {
+        "authors": [
+          "CTK"
+        ],
+        "identifier": "9b9dc680-778c-4169-8799-9de40733a041",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Midnight Rain",
+        "url": "https://mangadex.org/title/9b9dc680-778c-4169-8799-9de40733a041",
+        "image": "https://uploads.mangadex.org/covers/9b9dc680-778c-4169-8799-9de40733a041/0f528f60-ef69-4848-b046-796de06be5f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 113836,
+        "aniId": 101375,
+        "createdAt": "2020-10-12T16:11:21.000Z",
+        "updatedAt": "2021-06-05T09:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

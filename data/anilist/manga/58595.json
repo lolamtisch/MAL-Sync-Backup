@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "花鳥風月",
+    "Kacho Fugetsu"
+  ],
+  "authors": [
+    "Yuki Shimizu"
+  ],
+  "id": 58595,
+  "malId": 28595,
+  "type": "manga",
+  "title": "Kachou Fuugetsu",
+  "url": "https://anilist.co/manga/58595",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx58595-m9OaAlHD0gmR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:32.000Z",
+  "updatedAt": "2021-05-20T14:47:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3a4f7145-b897-414e-bb60-87bb4ec61fd8": {
+        "authors": [
+          "Shimizu Yuki"
+        ],
+        "identifier": "3a4f7145-b897-414e-bb60-87bb4ec61fd8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kachou Fuugetsu",
+        "url": "https://mangadex.org/title/3a4f7145-b897-414e-bb60-87bb4ec61fd8",
+        "image": "https://uploads.mangadex.org/covers/3a4f7145-b897-414e-bb60-87bb4ec61fd8/65edbcc6-adc9-4e9a-a722-8458b57cce18.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28595,
+        "aniId": 58595,
+        "createdAt": "2020-10-12T16:06:50.000Z",
+        "updatedAt": "2021-06-03T22:30:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kachou_fuugetsu": {
+        "authors": [],
+        "identifier": "kachou_fuugetsu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kachou Fuugetsu",
+        "url": "https://manganelo.com/manga/kachou_fuugetsu",
+        "image": "https://avt.mkklcdnv6.com/14/i/1-1583464234.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28595,
+        "aniId": 58595,
+        "createdAt": "2020-10-12T16:23:48.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

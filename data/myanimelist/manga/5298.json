@@ -1,0 +1,40 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Hoshino, Masami"
+  ],
+  "id": 5298,
+  "type": "manga",
+  "title": "Shine",
+  "url": "https://myanimelist.net/manga/5298/Shine",
+  "image": "https://cdn.myanimelist.net/images/manga/2/6660.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:51:58.000Z",
+  "updatedAt": "2021-06-04T16:51:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "50e33a2a-0e80-48d7-a301-45e7001bcfea": {
+        "authors": [
+          "Hoshino Masami"
+        ],
+        "identifier": "50e33a2a-0e80-48d7-a301-45e7001bcfea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shine",
+        "url": "https://mangadex.org/title/50e33a2a-0e80-48d7-a301-45e7001bcfea",
+        "image": "https://uploads.mangadex.org/covers/50e33a2a-0e80-48d7-a301-45e7001bcfea/f811296d-9c21-4045-ad12-5858e12b1219.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5298,
+        "aniId": 35298,
+        "createdAt": "2020-10-12T16:09:18.000Z",
+        "updatedAt": "2021-06-04T18:35:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

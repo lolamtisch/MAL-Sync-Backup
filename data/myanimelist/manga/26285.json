@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Diamond Cut Diamond",
+    "DCD"
+  ],
+  "authors": [
+    "Taguchi, Kenji"
+  ],
+  "id": 26285,
+  "type": "manga",
+  "title": "DCD",
+  "url": "https://myanimelist.net/manga/26285/DCD",
+  "image": "https://cdn.myanimelist.net/images/manga/3/185998.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:25.000Z",
+  "updatedAt": "2021-02-26T20:26:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ca6261ee-82c1-464f-b8b8-0f15c315f805": {
+        "authors": [
+          "Taguchi Kenji"
+        ],
+        "identifier": "ca6261ee-82c1-464f-b8b8-0f15c315f805",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "DCD Diamond Cut Diamond",
+        "url": "https://mangadex.org/title/ca6261ee-82c1-464f-b8b8-0f15c315f805",
+        "image": "https://uploads.mangadex.org/covers/ca6261ee-82c1-464f-b8b8-0f15c315f805/eca61852-e1bd-4a61-bf07-7069fb117b2f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26285,
+        "aniId": 56285,
+        "createdAt": "2020-10-12T16:03:45.000Z",
+        "updatedAt": "2021-06-02T16:13:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dcd": {
+        "authors": [],
+        "identifier": "dcd",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dcd",
+        "url": "https://manganelo.com/manga/dcd",
+        "image": "https://avt.mkklcdnv6.com/24/a/3-1583468620.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26285,
+        "aniId": 56285,
+        "createdAt": "2020-10-12T16:22:36.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "diamond_cut_diamond": {
+        "authors": [
+          "TAGUCHI Kenji"
+        ],
+        "identifier": "diamond_cut_diamond",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "DCD",
+        "url": "https://fanfox.net/manga/diamond_cut_diamond/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9856/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26285,
+        "aniId": 56285,
+        "createdAt": "2021-02-26T20:26:08.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

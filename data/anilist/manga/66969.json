@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "夜明けの犬",
+    "A Dog at Daybreak"
+  ],
+  "authors": [
+    "Shimaji"
+  ],
+  "id": 66969,
+  "malId": 36969,
+  "type": "manga",
+  "title": "Yoake no Inu",
+  "url": "https://anilist.co/manga/66969",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66969-IyB97zFB8375.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:30.000Z",
+  "updatedAt": "2021-05-20T14:48:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9daff193-53b8-4ca1-8f47-900510c9b493": {
+        "authors": [
+          "Shimaji"
+        ],
+        "identifier": "9daff193-53b8-4ca1-8f47-900510c9b493",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoake no Inu",
+        "url": "https://mangadex.org/title/9daff193-53b8-4ca1-8f47-900510c9b493",
+        "image": "https://uploads.mangadex.org/covers/9daff193-53b8-4ca1-8f47-900510c9b493/77cee973-bbcc-4e67-b471-f8e0b0e38397.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36969,
+        "aniId": 66969,
+        "createdAt": "2020-10-12T16:16:56.000Z",
+        "updatedAt": "2021-06-07T03:12:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

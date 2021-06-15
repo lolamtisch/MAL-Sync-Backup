@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "月夜のとらつぐみ",
+    "The Witch of the Flower Forest",
+    "Hana no Mori no Majo-san"
+  ],
+  "authors": [
+    "Kasai Sui"
+  ],
+  "id": 41834,
+  "malId": 11834,
+  "type": "manga",
+  "title": "Tsukiyo no Toratsugumi",
+  "url": "https://anilist.co/manga/41834",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11834.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:14.000Z",
+  "updatedAt": "2021-05-20T14:42:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce39612f-800b-46f9-9e42-391acfe86d71": {
+        "authors": [
+          "Kasai Sui"
+        ],
+        "identifier": "ce39612f-800b-46f9-9e42-391acfe86d71",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukiyo no Toratsugumi",
+        "url": "https://mangadex.org/title/ce39612f-800b-46f9-9e42-391acfe86d71",
+        "image": "https://uploads.mangadex.org/covers/ce39612f-800b-46f9-9e42-391acfe86d71/64c74646-2a31-42b4-bef6-55fad99ddb18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11834,
+        "aniId": 41834,
+        "createdAt": "2020-10-12T16:06:47.000Z",
+        "updatedAt": "2021-06-03T22:06:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tsukiyo_no_toratsugumi": {
+        "authors": [],
+        "identifier": "tsukiyo_no_toratsugumi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsukiyo No Toratsugumi",
+        "url": "https://manganelo.com/manga/tsukiyo_no_toratsugumi",
+        "image": "https://avt.mkklcdnv6.com/5/x/8-1583478396.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11834,
+        "aniId": 41834,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

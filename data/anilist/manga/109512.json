@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ハイキュー部！！",
+    "ハイキュー部!!"
+  ],
+  "authors": [
+    "Kyouhei Miyajima ",
+    "Haruichi Furudate"
+  ],
+  "id": 109512,
+  "malId": 119852,
+  "type": "manga",
+  "title": "Haikyuu-bu!!",
+  "url": "https://anilist.co/manga/109512",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109512-QlaLgZmVD8vO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:09.000Z",
+  "updatedAt": "2021-05-20T14:58:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "67047cf9-9624-4b9d-903e-c82f4f58f973": {
+        "authors": [
+          "Miyajima Kyouhei"
+        ],
+        "identifier": "67047cf9-9624-4b9d-903e-c82f4f58f973",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haikyuu-bu!!",
+        "url": "https://mangadex.org/title/67047cf9-9624-4b9d-903e-c82f4f58f973",
+        "image": "https://uploads.mangadex.org/covers/67047cf9-9624-4b9d-903e-c82f4f58f973/476dcc89-e4a6-40c8-8a36-ca67fad8a923.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119852,
+        "aniId": 109512,
+        "createdAt": "2020-10-12T16:15:57.000Z",
+        "updatedAt": "2021-06-06T18:12:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pv919322": {
+        "authors": [],
+        "identifier": "pv919322",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Haikyuu-Bu!!",
+        "url": "https://manganelo.com/manga/pv919322",
+        "image": "https://avt.mkklcdnv6.com/28/a/18-1583498170.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119852,
+        "aniId": 109512,
+        "createdAt": "2020-10-12T16:24:55.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "haikyuu_bu": {
+        "authors": [
+          "Miyajima Kyouhei"
+        ],
+        "identifier": "haikyuu_bu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Haikyuu-bu!!",
+        "url": "https://fanfox.net/manga/haikyuu_bu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30567/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119852,
+        "aniId": 109512,
+        "createdAt": "2021-04-23T23:27:37.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

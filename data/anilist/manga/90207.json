@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "おとうとのともだち"
+  ],
+  "authors": [
+    "Tomekichi"
+  ],
+  "id": 90207,
+  "malId": 65513,
+  "type": "manga",
+  "title": "Otouto no Tomodachi",
+  "url": "https://anilist.co/manga/90207",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90207-TqYY9VSxUCIK.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:50:52.000Z",
+  "updatedAt": "2021-05-20T14:50:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8ca635da-e32e-4222-8d69-5435ca3b5504": {
+        "authors": [
+          "Tomekichi",
+          "Tottototomekichi"
+        ],
+        "identifier": "8ca635da-e32e-4222-8d69-5435ca3b5504",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otouto no Tomodachi",
+        "url": "https://mangadex.org/title/8ca635da-e32e-4222-8d69-5435ca3b5504",
+        "image": "https://uploads.mangadex.org/covers/8ca635da-e32e-4222-8d69-5435ca3b5504/761e6407-3d66-40c6-ae5c-41e0fcee6434.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65513,
+        "aniId": 90207,
+        "createdAt": "2020-10-12T16:12:05.000Z",
+        "updatedAt": "2021-06-05T13:14:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

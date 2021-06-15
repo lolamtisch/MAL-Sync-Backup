@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "魔法少女リリカルなのはＡ’ｓ",
+    "Magical Girl Lyrical Nanoha A's"
+  ],
+  "authors": [
+    "Kouji Hasegawa",
+    "Masaki Tsuzuki"
+  ],
+  "id": 33236,
+  "malId": 3236,
+  "type": "manga",
+  "title": "Mahou Shoujo Lyrical Nanoha A's",
+  "url": "https://anilist.co/manga/33236",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3236.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-06-05T18:20:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0ddc49c-e278-4315-bf7a-5761b4df6d39": {
+        "authors": [
+          "TSUZUKI Maki",
+          "HASEGAWA Kouji"
+        ],
+        "identifier": "a0ddc49c-e278-4315-bf7a-5761b4df6d39",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Shoujo Lyrical Nanoha A's",
+        "url": "https://mangadex.org/title/a0ddc49c-e278-4315-bf7a-5761b4df6d39",
+        "image": "https://uploads.mangadex.org/covers/a0ddc49c-e278-4315-bf7a-5761b4df6d39/6433231f-9e8c-448d-96c9-faec771f8922.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3236,
+        "aniId": 33236,
+        "createdAt": "2020-10-12T16:13:00.000Z",
+        "updatedAt": "2021-06-05T18:26:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mahou_shoujo_lyrical_nanoha_a_s": {
+        "authors": [
+          "TSUZUKI Maki"
+        ],
+        "identifier": "mahou_shoujo_lyrical_nanoha_a_s",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahou Shoujo Lyrical Nanoha A's",
+        "url": "https://fanfox.net/manga/mahou_shoujo_lyrical_nanoha_a_s/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4022/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3236,
+        "aniId": 33236,
+        "createdAt": "2021-04-10T20:51:57.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      },
+      "mahou_shoujo_lyrical_nanoha_comic_anthology": {
+        "authors": [
+          "AKIZUKI Wataru",
+          "HASEGAWA Kouji",
+          "MIKAGE Takashi"
+        ],
+        "identifier": "mahou_shoujo_lyrical_nanoha_comic_anthology",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahou Shoujo Lyrical Nanoha - Comic Anthology",
+        "url": "https://fanfox.net/manga/mahou_shoujo_lyrical_nanoha_comic_anthology/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14649/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 3236,
+        "aniId": 33236,
+        "createdAt": "2021-04-11T00:51:34.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

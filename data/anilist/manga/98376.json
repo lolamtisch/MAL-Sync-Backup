@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "We Don't Need a Prince",
+    "王子さまなんていらない"
+  ],
+  "authors": [
+    "Harushion"
+  ],
+  "id": 98376,
+  "malId": null,
+  "type": "manga",
+  "title": "Ouji-sama Nante Iranai",
+  "url": "https://anilist.co/manga/98376",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98376-ApQ4A87MUuLJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-25T14:08:18.000Z",
+  "updatedAt": "2021-05-25T14:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fb18b185-ed42-4d37-a99a-b16631ec0c44": {
+        "authors": [
+          "Harushion"
+        ],
+        "identifier": "fb18b185-ed42-4d37-a99a-b16631ec0c44",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ouji-sama Nante Iranai",
+        "url": "https://mangadex.org/title/fb18b185-ed42-4d37-a99a-b16631ec0c44",
+        "image": "https://uploads.mangadex.org/covers/fb18b185-ed42-4d37-a99a-b16631ec0c44/aa5542a5-82fc-49f0-8ab0-520056c2f010.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 98376,
+        "createdAt": "2020-10-12T16:09:59.000Z",
+        "updatedAt": "2021-06-04T22:05:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ouji_sama_nante_iranai": {
+        "authors": [
+          "Harushion"
+        ],
+        "identifier": "ouji_sama_nante_iranai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ouji-sama Nante Iranai",
+        "url": "https://fanfox.net/manga/ouji_sama_nante_iranai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21013/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 98376,
+        "createdAt": "2021-05-28T00:29:17.000Z",
+        "updatedAt": "2021-05-28T07:48:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

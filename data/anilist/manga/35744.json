@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "Ping Pong",
+    "ピンポン"
+  ],
+  "authors": [
+    "Taiyou Matsumoto",
+    "Michael Arias",
+    "Deron Bennett",
+    "Eric Montesinos",
+    "Julie Naruse",
+    "Yoshiaki Naruse",
+    "Juan Scassa"
+  ],
+  "id": 35744,
+  "malId": 5744,
+  "type": "manga",
+  "title": "Ping Pong",
+  "url": "https://anilist.co/manga/35744",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35744-vHOqO5WbElXa.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:33.000Z",
+  "updatedAt": "2021-06-12T03:08:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e435a27-b4fc-417d-94de-30cea79ab6f4": {
+        "authors": [
+          "Matsumoto Taiyou"
+        ],
+        "identifier": "7e435a27-b4fc-417d-94de-30cea79ab6f4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ping Pong",
+        "url": "https://mangadex.org/title/7e435a27-b4fc-417d-94de-30cea79ab6f4",
+        "image": "https://uploads.mangadex.org/covers/7e435a27-b4fc-417d-94de-30cea79ab6f4/47b7736c-9d5b-43b0-8995-0f24a27259f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5744,
+        "aniId": 35744,
+        "createdAt": "2020-10-12T16:03:18.000Z",
+        "updatedAt": "2021-06-02T13:07:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ping_pong": {
+        "authors": [],
+        "identifier": "ping_pong",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ping Pong",
+        "url": "https://manganelo.com/manga/ping_pong",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/6427-ping_pong.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5744,
+        "aniId": 35744,
+        "createdAt": "2020-10-12T16:24:51.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ping-pong": {
+        "authors": [
+          "MATSUMOTO Taiyou"
+        ],
+        "identifier": "ping-pong",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ping Pong",
+        "url": "https://mangasee123.com/manga/Ping-Pong",
+        "image": "https://cover.nep.li/cover/Ping-Pong.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5744,
+        "aniId": 35744,
+        "createdAt": "2021-01-17T12:32:59.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

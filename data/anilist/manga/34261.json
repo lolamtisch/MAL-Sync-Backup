@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "ナナコロビン",
+    "Nanaco Robin",
+    "Nanako Robin",
+    "Nanacorobin"
+  ],
+  "authors": [
+    "Aya Nakahara"
+  ],
+  "id": 34261,
+  "malId": 4261,
+  "type": "manga",
+  "title": "NanaKo Robin",
+  "url": "https://anilist.co/manga/34261",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4261.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:26.000Z",
+  "updatedAt": "2021-05-20T14:38:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1cd7d86c-833c-4878-82a0-cb48da52c3d4": {
+        "authors": [
+          "Nakahara Aya"
+        ],
+        "identifier": "1cd7d86c-833c-4878-82a0-cb48da52c3d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nanaco Robin",
+        "url": "https://mangadex.org/title/1cd7d86c-833c-4878-82a0-cb48da52c3d4",
+        "image": "https://uploads.mangadex.org/covers/1cd7d86c-833c-4878-82a0-cb48da52c3d4/fffbb6d8-c9a4-4c01-ba05-1cfd6637fc27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4261,
+        "aniId": 34261,
+        "createdAt": "2020-10-12T16:04:32.000Z",
+        "updatedAt": "2021-06-02T21:40:02.000Z",
+        "deletedAt": null
+      },
+      "eb9564f2-74c0-437e-a3f3-be20a3b4cce7": {
+        "authors": [
+          "Inoue Yoshihisa"
+        ],
+        "identifier": "eb9564f2-74c0-437e-a3f3-be20a3b4cce7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "00 Nanako",
+        "url": "https://mangadex.org/title/eb9564f2-74c0-437e-a3f3-be20a3b4cce7",
+        "image": "https://uploads.mangadex.org/covers/eb9564f2-74c0-437e-a3f3-be20a3b4cce7/634bf15b-10bb-4f52-aea2-8ce0626ed11b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4261,
+        "aniId": 34261,
+        "createdAt": "2020-10-12T16:19:47.000Z",
+        "updatedAt": "2021-06-07T22:35:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "nanaco-robin": {
+        "authors": [
+          "NAKAHARA Aya"
+        ],
+        "identifier": "nanaco-robin",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Nanaco Robin",
+        "url": "https://mangasee123.com/manga/Nanaco-Robin",
+        "image": "https://cover.nep.li/cover/Nanaco-Robin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4261,
+        "aniId": 34261,
+        "createdAt": "2021-01-28T23:19:26.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

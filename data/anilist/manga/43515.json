@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "Goggles",
+    "ゴーグル",
+    "Tonkatsu",
+    "Let's go see the Ocean",
+    "Tsuki no Ya's Sales and Purchases",
+    "Mister Bojangles",
+    "Slider"
+  ],
+  "authors": [
+    "Tetsuya Toyoda"
+  ],
+  "id": 43515,
+  "malId": 13515,
+  "type": "manga",
+  "title": "Goggles",
+  "url": "https://anilist.co/manga/43515",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43515-jveyyhbEwjWG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:35.000Z",
+  "updatedAt": "2021-05-20T14:42:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb0fdaa3-23b8-403a-865e-cb8f9e1dafe5": {
+        "authors": [
+          "Toyoda Tetsuya"
+        ],
+        "identifier": "cb0fdaa3-23b8-403a-865e-cb8f9e1dafe5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Goggle",
+        "url": "https://mangadex.org/title/cb0fdaa3-23b8-403a-865e-cb8f9e1dafe5",
+        "image": "https://uploads.mangadex.org/covers/cb0fdaa3-23b8-403a-865e-cb8f9e1dafe5/db89a6b4-3fff-4556-9366-99c1adf53e28.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13515,
+        "aniId": 43515,
+        "createdAt": "2020-10-12T16:02:54.000Z",
+        "updatedAt": "2021-06-02T10:17:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "goggle": {
+        "authors": [
+          "TOYODA Tetsuya"
+        ],
+        "identifier": "goggle",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Goggle",
+        "url": "https://mangasee123.com/manga/Goggle",
+        "image": "https://cover.nep.li/cover/Goggle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13515,
+        "aniId": 43515,
+        "createdAt": "2021-03-05T05:21:05.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

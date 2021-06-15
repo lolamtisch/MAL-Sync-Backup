@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "King of Cards",
+    "カードの王様",
+    "Card no Ou-sama"
+  ],
+  "authors": [
+    "Makoto Tateno"
+  ],
+  "id": 33163,
+  "malId": 3163,
+  "type": "manga",
+  "title": "Card no Ousama",
+  "url": "https://anilist.co/manga/33163",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33163-Laao1K7vgCmL.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9382ae21-fa1f-45ad-bc3b-b8fd81e6571e": {
+        "authors": [
+          "Tateno Makoto"
+        ],
+        "identifier": "9382ae21-fa1f-45ad-bc3b-b8fd81e6571e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Card no Ou-sama",
+        "url": "https://mangadex.org/title/9382ae21-fa1f-45ad-bc3b-b8fd81e6571e",
+        "image": "https://uploads.mangadex.org/covers/9382ae21-fa1f-45ad-bc3b-b8fd81e6571e/11840ec6-ccf3-4881-b3b3-0d576cc71708.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3163,
+        "aniId": 33163,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:39:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Dear Mine",
+    "ディア マイン",
+    "Karenai Hana",
+    "Undying Flower"
+  ],
+  "authors": [
+    "Shigeru Takao"
+  ],
+  "id": 31424,
+  "malId": 1424,
+  "type": "manga",
+  "title": "Dear Mine",
+  "url": "https://anilist.co/manga/31424",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1424.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:44.000Z",
+  "updatedAt": "2021-05-20T14:36:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f5d08bfb-2f6d-4b89-9150-7357aa8dffc8": {
+        "authors": [
+          "TAKAO Shigeru"
+        ],
+        "identifier": "f5d08bfb-2f6d-4b89-9150-7357aa8dffc8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dear Mine",
+        "url": "https://mangadex.org/title/f5d08bfb-2f6d-4b89-9150-7357aa8dffc8",
+        "image": "https://uploads.mangadex.org/covers/f5d08bfb-2f6d-4b89-9150-7357aa8dffc8/4298b77c-c98f-41b9-acc1-619be3cde9eb.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1424,
+        "aniId": 31424,
+        "createdAt": "2020-10-12T16:02:54.000Z",
+        "updatedAt": "2021-06-02T10:17:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dear-mine": {
+        "authors": [
+          "TAKAO Shigeru"
+        ],
+        "identifier": "dear-mine",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dear Mine",
+        "url": "https://mangasee123.com/manga/Dear-Mine",
+        "image": "https://cover.nep.li/cover/Dear-Mine.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1424,
+        "aniId": 31424,
+        "createdAt": "2021-03-27T15:19:08.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dear_mine": {
+        "authors": [
+          "Takao",
+          "Shigeru"
+        ],
+        "identifier": "dear_mine",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dear Mine",
+        "url": "https://manganelo.com/manga/dear_mine",
+        "image": "https://avt.mkklcdnv6temp.com/25/v/6-1583475200.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1424,
+        "aniId": 31424,
+        "createdAt": "2021-05-13T22:25:10.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

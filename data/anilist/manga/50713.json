@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ストレート"
+  ],
+  "authors": [
+    "Taiyou Matsumoto"
+  ],
+  "id": 50713,
+  "malId": 20713,
+  "type": "manga",
+  "title": "Straight",
+  "url": "https://anilist.co/manga/50713",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50713-iP43LyVrDBdC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:35.000Z",
+  "updatedAt": "2021-05-20T14:45:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e60bf329-f9f0-4f96-b24c-ee3b91b6477a": {
+        "authors": [
+          "Matsumoto Taiyou"
+        ],
+        "identifier": "e60bf329-f9f0-4f96-b24c-ee3b91b6477a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "STRAIGHT",
+        "url": "https://mangadex.org/title/e60bf329-f9f0-4f96-b24c-ee3b91b6477a",
+        "image": "https://uploads.mangadex.org/covers/e60bf329-f9f0-4f96-b24c-ee3b91b6477a/2f74c5c6-6840-4ca3-b1b0-95e4c800e1cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20713,
+        "aniId": 50713,
+        "createdAt": "2020-10-28T08:13:15.000Z",
+        "updatedAt": "2021-06-08T06:01:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

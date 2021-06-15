@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Lagoon Engine",
+    "ラグーンエンジン"
+  ],
+  "authors": [
+    "Yukiru Sugisaki",
+    "Alethea Nibley",
+    "Athena Nibley"
+  ],
+  "id": 30095,
+  "malId": 95,
+  "type": "manga",
+  "title": "Lagoon Engine",
+  "url": "https://anilist.co/manga/30095",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30095-4Z2hg0Ez4Zgn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:23.000Z",
+  "updatedAt": "2021-05-20T14:35:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a73146f6-82b8-4525-bf8b-300ff64f107c": {
+        "authors": [
+          "SUGISAKI Yukiru"
+        ],
+        "identifier": "a73146f6-82b8-4525-bf8b-300ff64f107c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lagoon Engine",
+        "url": "https://mangadex.org/title/a73146f6-82b8-4525-bf8b-300ff64f107c",
+        "image": "https://uploads.mangadex.org/covers/a73146f6-82b8-4525-bf8b-300ff64f107c/49eec31e-5e66-434a-824f-166c9ed7fe75.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95,
+        "aniId": 30095,
+        "createdAt": "2020-10-12T16:13:01.000Z",
+        "updatedAt": "2021-06-05T18:11:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

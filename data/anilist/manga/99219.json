@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "クロスアカウント",
+    "Haru yo",
+    " Koi!",
+    "Gachipin.",
+    "Gesu no Ongaeshi"
+  ],
+  "authors": [
+    "Tsunehiro Date"
+  ],
+  "id": 99219,
+  "malId": 107480,
+  "type": "manga",
+  "title": "Cross Account",
+  "url": "https://anilist.co/manga/99219",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99219-2JqyQlnSkJFR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:54.000Z",
+  "updatedAt": "2021-05-20T14:55:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "386485a3-a268-4859-b300-98b77bb1f481": {
+        "authors": [
+          "Date Tsunehiro"
+        ],
+        "identifier": "386485a3-a268-4859-b300-98b77bb1f481",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cross Account",
+        "url": "https://mangadex.org/title/386485a3-a268-4859-b300-98b77bb1f481",
+        "image": "https://uploads.mangadex.org/covers/386485a3-a268-4859-b300-98b77bb1f481/deac51eb-81d0-46bd-91c0-f3635d176434.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107480,
+        "aniId": 99219,
+        "createdAt": "2020-10-12T16:10:47.000Z",
+        "updatedAt": "2021-06-05T03:22:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cross_account": {
+        "authors": [],
+        "identifier": "cross_account",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cross account",
+        "url": "https://manganelo.com/manga/cross_account",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19259-cross_account.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107480,
+        "aniId": 99219,
+        "createdAt": "2020-10-12T16:22:32.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cross-account": {
+        "authors": [
+          "DATE Tsunehiro"
+        ],
+        "identifier": "cross-account",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cross Account",
+        "url": "https://mangasee123.com/manga/Cross-Account",
+        "image": "https://cover.nep.li/cover/Cross-Account.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107480,
+        "aniId": 99219,
+        "createdAt": "2021-02-12T16:05:47.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

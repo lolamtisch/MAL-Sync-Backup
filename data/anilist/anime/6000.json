@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "ハルヲ"
+  ],
+  "id": 6000,
+  "malId": 6000,
+  "type": "anime",
+  "title": "Haruwo",
+  "url": "https://anilist.co/anime/6000",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6000.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:53.000Z",
+  "updatedAt": "2021-05-20T14:37:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "mwz7": {
+        "identifier": "mwz7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haruwo",
+        "url": "https://9anime.ru/watch/haruwo.mwz7",
+        "image": "https://static.akacdn.ru/files/images/2018/04/8e9f1faad7d56db752eaf4acbb258d39.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6000,
+        "aniId": 6000,
+        "createdAt": "2020-10-12T15:53:38.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

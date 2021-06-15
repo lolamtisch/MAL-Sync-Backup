@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Momiji no Kisetsu",
+    "紅葉の棋節"
+  ],
+  "authors": [
+    "Masayoshi Satoshou"
+  ],
+  "id": 101979,
+  "malId": 114135,
+  "type": "manga",
+  "title": "Momiji no Kisetsu",
+  "url": "https://anilist.co/manga/101979",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b101979-aVgg39EbEfCq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-28T04:58:43.000Z",
+  "updatedAt": "2021-05-28T05:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86cd56af-8f41-4d67-8838-b5ab3cec5667": {
+        "authors": [
+          "Satoshou Masayoshi"
+        ],
+        "identifier": "86cd56af-8f41-4d67-8838-b5ab3cec5667",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Momiji no Kisetsu",
+        "url": "https://mangadex.org/title/86cd56af-8f41-4d67-8838-b5ab3cec5667",
+        "image": "https://uploads.mangadex.org/covers/86cd56af-8f41-4d67-8838-b5ab3cec5667/10eb69be-266a-457e-90ae-cad369e38d87.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114135,
+        "aniId": 101979,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:35:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "momiji_no_kisetsu": {
+        "authors": [],
+        "identifier": "momiji_no_kisetsu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Momiji no Kisetsu",
+        "url": "https://manganelo.com/manga/momiji_no_kisetsu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20517-momiji_no_kisetsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114135,
+        "aniId": 101979,
+        "createdAt": "2020-10-12T16:24:21.000Z",
+        "updatedAt": "2021-05-28T05:58:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

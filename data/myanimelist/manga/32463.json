@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Flutter",
+    "フラッター"
+  ],
+  "authors": [
+    "Tenzen, Momoko"
+  ],
+  "id": 32463,
+  "type": "manga",
+  "title": "Flutter",
+  "url": "https://myanimelist.net/manga/32463/Flutter",
+  "image": "https://cdn.myanimelist.net/images/manga/2/59529.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:45.000Z",
+  "updatedAt": "2021-05-05T06:02:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "864333b4-d0c8-4d67-a7ef-b0c5e8c147d9": {
+        "authors": [
+          "Tenzen Momoko"
+        ],
+        "identifier": "864333b4-d0c8-4d67-a7ef-b0c5e8c147d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flutter",
+        "url": "https://mangadex.org/title/864333b4-d0c8-4d67-a7ef-b0c5e8c147d9",
+        "image": "https://uploads.mangadex.org/covers/864333b4-d0c8-4d67-a7ef-b0c5e8c147d9/5d18296a-0a3f-4d25-9019-db5090cac5fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32463,
+        "aniId": 62463,
+        "createdAt": "2020-10-12T16:08:18.000Z",
+        "updatedAt": "2021-06-04T09:06:59.000Z",
+        "deletedAt": null
+      },
+      "f8a17939-6aef-41c8-a2a7-ce6b2f1535ae": {
+        "authors": [
+          "One Useless Dogggg"
+        ],
+        "identifier": "f8a17939-6aef-41c8-a2a7-ce6b2f1535ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gentle Flutters",
+        "url": "https://mangadex.org/title/f8a17939-6aef-41c8-a2a7-ce6b2f1535ae",
+        "image": "https://uploads.mangadex.org/covers/f8a17939-6aef-41c8-a2a7-ce6b2f1535ae/18ad24f0-fe31-479f-877c-619bd73801f7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32463,
+        "aniId": 62463,
+        "createdAt": "2020-10-12T16:20:00.000Z",
+        "updatedAt": "2021-06-07T23:04:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

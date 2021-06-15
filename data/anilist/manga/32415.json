@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Mako Toyama"
+  ],
+  "id": 32415,
+  "malId": 2415,
+  "type": "manga",
+  "title": "Amai Nukumori",
+  "url": "https://anilist.co/manga/32415",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2415.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d4c47865-39d2-4db8-b882-f02269989142": {
+        "authors": [
+          "Toyama Mako"
+        ],
+        "identifier": "d4c47865-39d2-4db8-b882-f02269989142",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Amai Nukumori",
+        "url": "https://mangadex.org/title/d4c47865-39d2-4db8-b882-f02269989142",
+        "image": "https://uploads.mangadex.org/covers/d4c47865-39d2-4db8-b882-f02269989142/91cd5f8f-acf2-45d9-99f6-e92d0841fa40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2415,
+        "aniId": 32415,
+        "createdAt": "2020-10-12T16:11:49.000Z",
+        "updatedAt": "2021-06-05T11:13:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

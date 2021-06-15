@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Tarako Kotobuki"
+  ],
+  "id": 32509,
+  "malId": 2509,
+  "type": "manga",
+  "title": "Koi no Sekken Hour",
+  "url": "https://anilist.co/manga/32509",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2509.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "47da1d01-e2c5-4a0a-9137-1e7556c44df8": {
+        "authors": [
+          "Kotobuki Tarako"
+        ],
+        "identifier": "47da1d01-e2c5-4a0a-9137-1e7556c44df8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi no Sekken Hour",
+        "url": "https://mangadex.org/title/47da1d01-e2c5-4a0a-9137-1e7556c44df8",
+        "image": "https://uploads.mangadex.org/covers/47da1d01-e2c5-4a0a-9137-1e7556c44df8/1065f1f2-62f3-4410-a0a3-53f4857d03f8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2509,
+        "aniId": 32509,
+        "createdAt": "2020-11-04T10:59:34.000Z",
+        "updatedAt": "2021-06-08T06:32:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

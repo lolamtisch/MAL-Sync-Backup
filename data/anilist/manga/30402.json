@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Broken Angels",
+    "壊れはじめた天使たち",
+    "Broken Angels",
+    "Koware hajimeta Tenshi Tachi"
+  ],
+  "authors": [
+    "Setsuri Tsuzuki"
+  ],
+  "id": 30402,
+  "malId": 402,
+  "type": "manga",
+  "title": "Kowarehajimeta Tenshi-tachi",
+  "url": "https://anilist.co/manga/30402",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30402-pDCRApax2oNA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-06-05T17:50:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1ea05384-e2b8-42e9-bd7b-840e36663e88": {
+        "authors": [
+          "TSUZUKI Setsuri"
+        ],
+        "identifier": "1ea05384-e2b8-42e9-bd7b-840e36663e88",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koware Hajimeta Tenshitachi",
+        "url": "https://mangadex.org/title/1ea05384-e2b8-42e9-bd7b-840e36663e88",
+        "image": "https://uploads.mangadex.org/covers/1ea05384-e2b8-42e9-bd7b-840e36663e88/0a33758f-8811-4cc7-bdcb-5f86e9ba8ba5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 402,
+        "aniId": 30402,
+        "createdAt": "2020-10-12T16:12:57.000Z",
+        "updatedAt": "2021-06-05T18:00:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "broken_angels": {
+        "authors": [
+          "TSUZUKI Setsuri"
+        ],
+        "identifier": "broken_angels",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Broken Angels",
+        "url": "https://fanfox.net/manga/broken_angels/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1140/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 402,
+        "aniId": 30402,
+        "createdAt": "2021-04-22T11:27:39.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

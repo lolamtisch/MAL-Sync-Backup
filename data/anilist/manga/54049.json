@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "真昼の恋"
+  ],
+  "authors": [
+    "Sakae Kusama"
+  ],
+  "id": 54049,
+  "malId": 24049,
+  "type": "manga",
+  "title": "Mahiru no Koi",
+  "url": "https://anilist.co/manga/54049",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24049.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:42.000Z",
+  "updatedAt": "2021-05-20T14:46:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "024d6623-92ea-4c19-bee5-65643689648a": {
+        "authors": [
+          "Watari 24"
+        ],
+        "identifier": "024d6623-92ea-4c19-bee5-65643689648a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahiru",
+        "url": "https://mangadex.org/title/024d6623-92ea-4c19-bee5-65643689648a",
+        "image": "https://uploads.mangadex.org/covers/024d6623-92ea-4c19-bee5-65643689648a/66498f8a-561d-4876-84aa-99b514e90db7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24049,
+        "aniId": 54049,
+        "createdAt": "2020-10-12T16:14:59.000Z",
+        "updatedAt": "2021-06-06T09:54:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

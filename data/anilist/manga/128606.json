@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "고소한 여자",
+    "The Savory Girl ",
+    "The Complaining Girl"
+  ],
+  "authors": [
+    "frog",
+    "Alien"
+  ],
+  "id": 128606,
+  "malId": null,
+  "type": "manga",
+  "title": " Gosohan Yeoja",
+  "url": "https://anilist.co/manga/128606",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b128606-KxBv9EcxDs1y.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-27T18:28:43.000Z",
+  "updatedAt": "2021-05-27T18:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "673df98c-fb28-44ef-bff6-43601be864d1": {
+        "authors": [
+          "Alien",
+          "Frog"
+        ],
+        "identifier": "673df98c-fb28-44ef-bff6-43601be864d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Savory Girl",
+        "url": "https://mangadex.org/title/673df98c-fb28-44ef-bff6-43601be864d1",
+        "image": "https://uploads.mangadex.org/covers/673df98c-fb28-44ef-bff6-43601be864d1/eaa2ce79-7556-4cf6-ad33-d450c502bc45.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 128606,
+        "createdAt": "2020-12-04T20:52:54.000Z",
+        "updatedAt": "2021-06-08T08:47:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

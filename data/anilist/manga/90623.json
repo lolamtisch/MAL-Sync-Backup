@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "新・桜通信",
+    "New Sakura Diaries"
+  ],
+  "authors": [
+    "U-jin"
+  ],
+  "id": 90623,
+  "malId": 67389,
+  "type": "manga",
+  "title": "Shin Sakura Tsuushin",
+  "url": "https://anilist.co/manga/90623",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90623-Ablb8WQZzofj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:59.000Z",
+  "updatedAt": "2021-05-20T14:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b3d1fa8-84ac-44e4-92f8-8708788b5f69": {
+        "authors": [
+          "U-jin"
+        ],
+        "identifier": "8b3d1fa8-84ac-44e4-92f8-8708788b5f69",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shin Sakura Tsuushin",
+        "url": "https://mangadex.org/title/8b3d1fa8-84ac-44e4-92f8-8708788b5f69",
+        "image": "https://uploads.mangadex.org/covers/8b3d1fa8-84ac-44e4-92f8-8708788b5f69/8b8a8b28-f220-433c-bc86-2c01fe33edf6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67389,
+        "aniId": 90623,
+        "createdAt": "2020-10-12T16:11:50.000Z",
+        "updatedAt": "2021-06-05T11:26:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

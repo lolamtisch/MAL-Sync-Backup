@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "君に恋するはずがない"
+  ],
+  "authors": [
+    "Shina Suzaka"
+  ],
+  "id": 117037,
+  "malId": 131920,
+  "type": "manga",
+  "title": "Kimi ni Koisuru Hazu ga Nai",
+  "url": "https://anilist.co/manga/117037",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117037-pU1RxOPTJBUT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-28T05:28:43.000Z",
+  "updatedAt": "2021-05-28T05:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80a3c0be-ed04-45df-b730-690763e5c4a1": {
+        "authors": [
+          "Suzaka Shina"
+        ],
+        "identifier": "80a3c0be-ed04-45df-b730-690763e5c4a1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi ni Koisuru Hazu ga Nai",
+        "url": "https://mangadex.org/title/80a3c0be-ed04-45df-b730-690763e5c4a1",
+        "image": "https://uploads.mangadex.org/covers/80a3c0be-ed04-45df-b730-690763e5c4a1/7087fa4c-54d3-4f71-a07d-be6c228900aa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131920,
+        "aniId": 117037,
+        "createdAt": "2020-10-12T16:18:38.000Z",
+        "updatedAt": "2021-06-07T19:33:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

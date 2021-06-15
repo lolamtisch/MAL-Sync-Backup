@@ -1,0 +1,55 @@
+{
+  "altTitle": [
+    "The Diary of Anne Frank",
+    "アンネの日記"
+  ],
+  "id": 3829,
+  "malId": 3829,
+  "type": "anime",
+  "title": "Anne no Nikki",
+  "url": "https://anilist.co/anime/3829",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3829-GOMKNkT4F6C8.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:29.000Z",
+  "updatedAt": "2021-05-20T14:37:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "vo07": {
+        "identifier": "vo07",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Diary of Anne Frank",
+        "url": "https://9anime.ru/watch/the-diary-of-anne-frank.vo07",
+        "image": "http://static.akacdn.ru/static/images/2018/04/b9d3f5ba63cce8a1e0b3e5f78aa656b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3829,
+        "aniId": 3829,
+        "createdAt": "2020-10-12T15:55:57.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "3j1r": {
+        "identifier": "3j1r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Anne no Nikki (Dub)",
+        "url": "https://www12.9anime.to/watch/the-diary-of-anne-frank-dub.3j1r",
+        "image": "//static.9anime.to/i/cache/images/b/b8/b8d1713804d7db8ac42790ea0f332575.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3829,
+        "aniId": 3829,
+        "createdAt": "2020-10-12T19:08:17.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

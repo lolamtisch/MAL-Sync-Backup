@@ -1,0 +1,113 @@
+{
+  "altTitle": [
+    "Platinum End",
+    "プラチナエンド",
+    "Platina End"
+  ],
+  "authors": [
+    "Takeshi Obata",
+    "Tsugumi Ooba",
+    "Thibaud Desbief"
+  ],
+  "id": 86526,
+  "malId": 93180,
+  "type": "manga",
+  "title": "Platinum End",
+  "url": "https://anilist.co/manga/86526",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86526-KEzZ1WkscsCy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:46.000Z",
+  "updatedAt": "2021-05-28T13:23:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dc34064e-3cd4-48c4-9ec5-550845b96ffb": {
+        "authors": [
+          "Ohba Tsugumi",
+          "Obata Takeshi"
+        ],
+        "identifier": "dc34064e-3cd4-48c4-9ec5-550845b96ffb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Platinum End",
+        "url": "https://mangadex.org/title/dc34064e-3cd4-48c4-9ec5-550845b96ffb",
+        "image": "https://uploads.mangadex.org/covers/dc34064e-3cd4-48c4-9ec5-550845b96ffb/f437064a-9fa0-44d5-91b3-e00749542515.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93180,
+        "aniId": 86526,
+        "createdAt": "2020-10-12T16:08:56.000Z",
+        "updatedAt": "2021-06-04T13:54:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "platina_end": {
+        "authors": [],
+        "identifier": "platina_end",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Platina End",
+        "url": "https://manganelo.com/manga/platina_end",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/974-platina_end.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93180,
+        "aniId": 86526,
+        "createdAt": "2020-10-12T16:24:52.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "platinum-end": {
+        "authors": [
+          "OBATA Takeshi",
+          "OHBA Tsugumi"
+        ],
+        "identifier": "platinum-end",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Platinum End",
+        "url": "https://mangasee123.com/manga/Platinum-End",
+        "image": "https://cover.nep.li/cover/Platinum-End.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93180,
+        "aniId": 86526,
+        "createdAt": "2020-12-19T14:56:06.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "platina_end": {
+        "authors": [
+          "OHBA Tsugumi"
+        ],
+        "identifier": "platina_end",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Platina End",
+        "url": "https://fanfox.net/manga/platina_end/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17123/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93180,
+        "aniId": 86526,
+        "createdAt": "2021-01-16T14:02:44.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

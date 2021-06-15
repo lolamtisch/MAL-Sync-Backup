@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ぼくは、おんなのこ",
+    "Boku wa",
+    "Onna no Ko",
+    "Sweet 16",
+    "Shounen no Musume"
+  ],
+  "authors": [
+    "Takako Shimura"
+  ],
+  "id": 37045,
+  "malId": 7045,
+  "type": "manga",
+  "title": "Boku wa, Onnanoko",
+  "url": "https://anilist.co/manga/37045",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx37045-o3ItyCz0Oho5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:45.000Z",
+  "updatedAt": "2021-05-20T14:39:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f9998a87-0274-42e9-81a0-b67963784ec8": {
+        "authors": [
+          "Shimura Takako"
+        ],
+        "identifier": "f9998a87-0274-42e9-81a0-b67963784ec8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku wa, Onnanoko",
+        "url": "https://mangadex.org/title/f9998a87-0274-42e9-81a0-b67963784ec8",
+        "image": "https://uploads.mangadex.org/covers/f9998a87-0274-42e9-81a0-b67963784ec8/8fb80703-2280-4e2c-8b91-3b84e3da645b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7045,
+        "aniId": 37045,
+        "createdAt": "2020-10-12T16:05:47.000Z",
+        "updatedAt": "2021-06-03T14:57:38.000Z",
+        "deletedAt": null
+      },
+      "a49c9e51-4737-4f8a-a5db-fa360d1aab0b": {
+        "authors": [
+          "OTONARI Afuro"
+        ],
+        "identifier": "a49c9e51-4737-4f8a-a5db-fa360d1aab0b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Onnanoko Jijou",
+        "url": "https://mangadex.org/title/a49c9e51-4737-4f8a-a5db-fa360d1aab0b",
+        "image": "https://uploads.mangadex.org/covers/a49c9e51-4737-4f8a-a5db-fa360d1aab0b/93c640ca-bb9d-4c2f-9023-4186a770d6b3.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7045,
+        "aniId": 37045,
+        "createdAt": "2020-10-12T16:16:55.000Z",
+        "updatedAt": "2021-06-07T03:04:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_wa_onnanoko": {
+        "authors": [],
+        "identifier": "boku_wa_onnanoko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku Wa, Onnanoko",
+        "url": "https://manganelo.com/manga/boku_wa_onnanoko",
+        "image": "https://avt.mkklcdnv6.com/39/f/6-1583475745.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7045,
+        "aniId": 37045,
+        "createdAt": "2020-10-12T16:22:20.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

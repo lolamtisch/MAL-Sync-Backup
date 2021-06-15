@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "メランコリア"
+  ],
+  "authors": [
+    "Sayman Dowman"
+  ],
+  "id": 98109,
+  "malId": 103803,
+  "type": "manga",
+  "title": "Melancholia",
+  "url": "https://anilist.co/manga/98109",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98109-5tKopuRIQXxf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:05.000Z",
+  "updatedAt": "2021-05-20T14:55:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd413470-2326-4da7-87c7-729675be0f18": {
+        "authors": [
+          "Dowman Sayman"
+        ],
+        "identifier": "bd413470-2326-4da7-87c7-729675be0f18",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Melancholia",
+        "url": "https://mangadex.org/title/bd413470-2326-4da7-87c7-729675be0f18",
+        "image": "https://uploads.mangadex.org/covers/bd413470-2326-4da7-87c7-729675be0f18/fdce838d-aebe-42aa-b4a4-3180837b1df4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103803,
+        "aniId": 98109,
+        "createdAt": "2020-10-12T16:10:24.000Z",
+        "updatedAt": "2021-06-05T00:32:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "melancholia": {
+        "authors": [],
+        "identifier": "melancholia",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Melancholia",
+        "url": "https://manganelo.com/manga/melancholia",
+        "image": "https://avt.mkklcdnv6.com/48/y/14-1583491439.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103803,
+        "aniId": 98109,
+        "createdAt": "2020-10-12T16:24:18.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

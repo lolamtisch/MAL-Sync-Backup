@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "I SPY",
+    "ISpy"
+  ],
+  "authors": [
+    "Tatsuya Endou"
+  ],
+  "id": 113163,
+  "malId": 122677,
+  "type": "manga",
+  "title": "I Spy",
+  "url": "https://anilist.co/manga/113163",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113163-SkIklSS8nt7X.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-23T02:13:00.000Z",
+  "updatedAt": "2021-06-07T15:34:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8ff5119a-1bd4-4f07-a34c-5a891356e009": {
+        "authors": [
+          "ENDOU Tatsuya"
+        ],
+        "identifier": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ISpy",
+        "url": "https://mangadex.org/title/8ff5119a-1bd4-4f07-a34c-5a891356e009",
+        "image": "https://uploads.mangadex.org/covers/8ff5119a-1bd4-4f07-a34c-5a891356e009/cb06bf09-f9b8-4f7e-b8c2-cc95b3f6bcd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 122677,
+        "aniId": 113163,
+        "createdAt": "2020-10-12T16:18:15.000Z",
+        "updatedAt": "2021-06-07T16:25:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

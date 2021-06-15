@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "りんりんたぬき"
+  ],
+  "authors": [
+    "Synecdoche"
+  ],
+  "id": 103151,
+  "malId": null,
+  "type": "manga",
+  "title": "Ring Ring Tanuki",
+  "url": "https://anilist.co/manga/103151",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103151-ypG5UebdkIfP.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T22:19:27.000Z",
+  "updatedAt": "2021-06-05T22:19:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "af4b84c5-1d2f-42f3-bc87-8239a7677fe2": {
+        "authors": [
+          "Synecdoche"
+        ],
+        "identifier": "af4b84c5-1d2f-42f3-bc87-8239a7677fe2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ring Ring Tanuki",
+        "url": "https://mangadex.org/title/af4b84c5-1d2f-42f3-bc87-8239a7677fe2",
+        "image": "https://uploads.mangadex.org/covers/af4b84c5-1d2f-42f3-bc87-8239a7677fe2/01838a0e-7c6d-4e6e-aa86-2594231f9b0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 103151,
+        "createdAt": "2020-10-12T16:13:30.000Z",
+        "updatedAt": "2021-06-05T22:33:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

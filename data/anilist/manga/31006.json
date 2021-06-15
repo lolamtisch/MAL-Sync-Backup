@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ミントな僕ら",
+    "We are Mint",
+    "Peppermint Twins"
+  ],
+  "authors": [
+    "Wataru Yoshizumi"
+  ],
+  "id": 31006,
+  "malId": 1006,
+  "type": "manga",
+  "title": "Mint na Bokura",
+  "url": "https://anilist.co/manga/31006",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31006-RpgTdB56CXem.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "87fde792-6c88-433e-954f-d0c5a54bd97b": {
+        "authors": [
+          "YOSHIZUMI Wataru"
+        ],
+        "identifier": "87fde792-6c88-433e-954f-d0c5a54bd97b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mint na Bokura",
+        "url": "https://mangadex.org/title/87fde792-6c88-433e-954f-d0c5a54bd97b",
+        "image": "https://uploads.mangadex.org/covers/87fde792-6c88-433e-954f-d0c5a54bd97b/a6b73997-0f5f-4b5c-b787-3699eb07d04d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1006,
+        "aniId": 31006,
+        "createdAt": "2020-10-12T16:04:43.000Z",
+        "updatedAt": "2021-06-02T22:53:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

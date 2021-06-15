@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "1초",
+    "1 Second"
+  ],
+  "authors": [
+    "Sini",
+    "Gwang Un"
+  ],
+  "id": 118598,
+  "malId": null,
+  "type": "manga",
+  "title": "1 Cho",
+  "url": "https://anilist.co/manga/118598",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118598-4Xoq9aFihvOt.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T21:23:55.000Z",
+  "updatedAt": "2021-06-07T21:23:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ebcad9db-8ee9-4ec8-a054-8a4b866c0e31": {
+        "authors": [
+          "GwangUn(광운)",
+          "SiNi(시니)"
+        ],
+        "identifier": "ebcad9db-8ee9-4ec8-a054-8a4b866c0e31",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "1 Second",
+        "url": "https://mangadex.org/title/ebcad9db-8ee9-4ec8-a054-8a4b866c0e31",
+        "image": "https://uploads.mangadex.org/covers/ebcad9db-8ee9-4ec8-a054-8a4b866c0e31/01d3f40b-23ed-4a6b-af4b-197899d2858a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 118598,
+        "createdAt": "2020-10-12T16:18:59.000Z",
+        "updatedAt": "2021-06-07T21:27:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

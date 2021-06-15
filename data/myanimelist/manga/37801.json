@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Sambong Ibalso",
+    "삼봉이발소"
+  ],
+  "authors": [
+    "Ha, Il-Kwon"
+  ],
+  "id": 37801,
+  "type": "manga",
+  "title": "Sambong Barber Shop",
+  "url": "https://myanimelist.net/manga/37801/Sambong_Barber_Shop",
+  "image": "https://cdn.myanimelist.net/images/manga/2/94285.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:03.000Z",
+  "updatedAt": "2021-05-06T00:33:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f1498cd-37ea-458c-a267-aa8ba19bbbda": {
+        "authors": [
+          "HA Il-kwon"
+        ],
+        "identifier": "8f1498cd-37ea-458c-a267-aa8ba19bbbda",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sambong Barber Shop",
+        "url": "https://mangadex.org/title/8f1498cd-37ea-458c-a267-aa8ba19bbbda",
+        "image": "https://uploads.mangadex.org/covers/8f1498cd-37ea-458c-a267-aa8ba19bbbda/3b3e2dad-ddd3-432a-a527-0fe1223bfce0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37801,
+        "aniId": 67801,
+        "createdAt": "2020-10-12T16:04:16.000Z",
+        "updatedAt": "2021-06-02T19:56:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sambong_barber_shop": {
+        "authors": [
+          "HA Il-Kwon"
+        ],
+        "identifier": "sambong_barber_shop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sambong Barber Shop",
+        "url": "https://fanfox.net/manga/sambong_barber_shop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10798/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37801,
+        "aniId": 67801,
+        "createdAt": "2021-05-11T13:12:14.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

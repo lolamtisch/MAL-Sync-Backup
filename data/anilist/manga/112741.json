@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "君に届け 番外編～運命の人～",
+    "Kimi ni Todoke Bangaihen - Unmei no Hito",
+    "Kimi ni Todoke Special: Soulmate"
+  ],
+  "authors": [
+    "Karuho Shiina"
+  ],
+  "id": 112741,
+  "malId": 128131,
+  "type": "manga",
+  "title": "Kimi ni Todoke Bangai-hen: Unmei no Hito",
+  "url": "https://anilist.co/manga/112741",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112741-YJn8BDEkHHta.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:21.000Z",
+  "updatedAt": "2021-05-20T14:59:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d87dd658-2741-493c-905b-fd3fae4fda0c": {
+        "authors": [
+          "Shiina Karuho"
+        ],
+        "identifier": "d87dd658-2741-493c-905b-fd3fae4fda0c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi ni Todoke Special ～Soulmate～",
+        "url": "https://mangadex.org/title/d87dd658-2741-493c-905b-fd3fae4fda0c",
+        "image": "https://uploads.mangadex.org/covers/d87dd658-2741-493c-905b-fd3fae4fda0c/65b7bf3b-546e-4720-ba4e-2fffbfc4abaa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128131,
+        "aniId": 112741,
+        "createdAt": "2020-10-12T16:20:24.000Z",
+        "updatedAt": "2021-06-08T00:01:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_ni_todoke_bangai_hen_unmei_no_hito": {
+        "authors": [
+          "SHIINA Karuho"
+        ],
+        "identifier": "kimi_ni_todoke_bangai_hen_unmei_no_hito",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi ni todoke bangai-hen - Unmei no hito",
+        "url": "https://fanfox.net/manga/kimi_ni_todoke_bangai_hen_unmei_no_hito/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34679/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128131,
+        "aniId": 112741,
+        "createdAt": "2021-03-22T13:05:13.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

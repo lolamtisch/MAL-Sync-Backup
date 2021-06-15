@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "にゃっと！"
+  ],
+  "authors": [
+    "Shigunyan"
+  ],
+  "id": 14776,
+  "type": "manga",
+  "title": "Nyatto!",
+  "url": "https://myanimelist.net/manga/14776/Nyatto",
+  "image": "https://cdn.myanimelist.net/images/manga/2/55699.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:08.000Z",
+  "updatedAt": "2021-06-02T22:01:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d9468601-89c0-4b53-aba6-09217f7c5467": {
+        "authors": [
+          "Shigunyan"
+        ],
+        "identifier": "d9468601-89c0-4b53-aba6-09217f7c5467",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nyatto!",
+        "url": "https://mangadex.org/title/d9468601-89c0-4b53-aba6-09217f7c5467",
+        "image": "https://uploads.mangadex.org/covers/d9468601-89c0-4b53-aba6-09217f7c5467/e52e562e-047b-4d79-b550-973318141dac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14776,
+        "aniId": 44776,
+        "createdAt": "2020-10-12T16:02:50.000Z",
+        "updatedAt": "2021-06-02T09:48:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nyatto": {
+        "authors": [],
+        "identifier": "nyatto",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nyatto!",
+        "url": "https://manganelo.com/manga/nyatto",
+        "image": "https://avt.mkklcdnv6.com/23/v/4-1583470663.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14776,
+        "aniId": 44776,
+        "createdAt": "2020-10-12T16:24:37.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bx956680": {
+        "authors": [
+          "Shigunyan"
+        ],
+        "identifier": "manga-bx956680",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Nyatto!",
+        "url": "https://manganato.com/manga-bx956680",
+        "image": "https://avt.mkklcdnv6temp.com/23/v/4-1583470663.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14776,
+        "aniId": 44776,
+        "createdAt": "2021-06-02T22:01:12.000Z",
+        "updatedAt": "2021-06-02T22:30:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

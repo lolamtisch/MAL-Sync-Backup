@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "チョコレート・コンフュージョン"
+  ],
+  "authors": [
+    "Romuco Miike",
+    "Natsume Seiso"
+  ],
+  "id": 105083,
+  "malId": 112354,
+  "type": "manga",
+  "title": "Chocolate Confusion",
+  "url": "https://anilist.co/manga/105083",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105083-LZcEENwsOeaf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:53.000Z",
+  "updatedAt": "2021-05-20T14:56:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5a53c714-060d-4394-a745-80bfecf76020": {
+        "authors": [
+          "Seisou Natsume",
+          "Miike Romuco"
+        ],
+        "identifier": "5a53c714-060d-4394-a745-80bfecf76020",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chocolate Confusion",
+        "url": "https://mangadex.org/title/5a53c714-060d-4394-a745-80bfecf76020",
+        "image": "https://uploads.mangadex.org/covers/5a53c714-060d-4394-a745-80bfecf76020/db1e3d18-0589-4268-8b8d-934e4b32089a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112354,
+        "aniId": 105083,
+        "createdAt": "2020-10-12T16:12:49.000Z",
+        "updatedAt": "2021-06-05T16:38:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chocolate_confusion": {
+        "authors": [],
+        "identifier": "chocolate_confusion",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chocolate Confusion",
+        "url": "https://manganelo.com/manga/chocolate_confusion",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20173-chocolate_confusion.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112354,
+        "aniId": 105083,
+        "createdAt": "2020-10-12T16:22:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

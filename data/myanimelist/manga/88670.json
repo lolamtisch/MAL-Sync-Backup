@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Under Twelve",
+    "U12"
+  ],
+  "authors": [
+    "Wakamiya, Hiroaki"
+  ],
+  "id": 88670,
+  "type": "manga",
+  "title": "U12",
+  "url": "https://myanimelist.net/manga/88670/U12",
+  "image": "https://cdn.myanimelist.net/images/manga/3/163667.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:58.000Z",
+  "updatedAt": "2021-03-24T17:49:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ae47330-e64d-4e4e-9d1e-433bd8b18937": {
+        "authors": [
+          "Yamikawa Kou"
+        ],
+        "identifier": "4ae47330-e64d-4e4e-9d1e-433bd8b18937",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "U12 (Under 12)",
+        "url": "https://mangadex.org/title/4ae47330-e64d-4e4e-9d1e-433bd8b18937",
+        "image": "https://uploads.mangadex.org/covers/4ae47330-e64d-4e4e-9d1e-433bd8b18937/33f8918b-f6c4-45b3-af4c-c3ae54d46c81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88670,
+        "aniId": 102310,
+        "createdAt": "2020-10-12T16:09:27.000Z",
+        "updatedAt": "2021-06-04T17:42:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ov924079": {
+        "authors": [
+          "Yamikawa",
+          "Kou"
+        ],
+        "identifier": "ov924079",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "U12 (Under 12)",
+        "url": "https://manganelo.com/manga/ov924079",
+        "image": "https://avt.mkklcdnv6.com/11/i/22-1599662295.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 88670,
+        "aniId": 102310,
+        "createdAt": "2020-10-12T16:24:47.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

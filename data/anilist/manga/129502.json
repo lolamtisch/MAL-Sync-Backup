@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ブランクスペース"
+  ],
+  "authors": [
+    "Kon Kumakura"
+  ],
+  "id": 129502,
+  "malId": null,
+  "type": "manga",
+  "title": "Blank Space",
+  "url": "https://anilist.co/manga/129502",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129502-XC9QKEfVfYwU.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T19:08:18.000Z",
+  "updatedAt": "2021-05-24T19:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f9d10319-3f0e-4f45-a551-ccd76276e7dd": {
+        "authors": [
+          "Kumakura Kon"
+        ],
+        "identifier": "f9d10319-3f0e-4f45-a551-ccd76276e7dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blank Space",
+        "url": "https://mangadex.org/title/f9d10319-3f0e-4f45-a551-ccd76276e7dd",
+        "image": "https://uploads.mangadex.org/covers/f9d10319-3f0e-4f45-a551-ccd76276e7dd/71d1eb40-659f-40b7-bb59-a59d9c9ee6e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 129502,
+        "createdAt": "2021-01-24T12:14:14.000Z",
+        "updatedAt": "2021-06-08T10:59:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

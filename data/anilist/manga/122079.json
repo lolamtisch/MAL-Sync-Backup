@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "先生パンチ!",
+    "Mondai no Aru Sensei"
+  ],
+  "authors": [
+    "Kazuhiko Mishima"
+  ],
+  "id": 122079,
+  "malId": 111756,
+  "type": "manga",
+  "title": "Sensei Punch!",
+  "url": "https://anilist.co/manga/122079",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122079-ZQngLT4A2PIl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:50.000Z",
+  "updatedAt": "2021-05-20T14:56:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "037f13da-c78e-452e-95b5-b492c4cf02ac": {
+        "authors": [
+          "Mishima Kazuhiko"
+        ],
+        "identifier": "037f13da-c78e-452e-95b5-b492c4cf02ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sensei Punch!",
+        "url": "https://mangadex.org/title/037f13da-c78e-452e-95b5-b492c4cf02ac",
+        "image": "https://uploads.mangadex.org/covers/037f13da-c78e-452e-95b5-b492c4cf02ac/026d590b-566e-4c0e-acce-bd8784922725.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111756,
+        "aniId": 122079,
+        "createdAt": "2020-10-12T16:14:57.000Z",
+        "updatedAt": "2021-06-06T09:31:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "桜庭さんは止まらないっ！"
+  ],
+  "authors": [
+    "Miko Senri"
+  ],
+  "id": 101603,
+  "malId": 114882,
+  "type": "manga",
+  "title": "Sakuraba-san wa Tomaranai!",
+  "url": "https://anilist.co/manga/101603",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101603-Rq9yaKh8UMAs.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:11.000Z",
+  "updatedAt": "2021-05-20T14:57:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "534380ba-3347-401b-8978-4cbcc62ffac0": {
+        "authors": [
+          "Senri Miko"
+        ],
+        "identifier": "534380ba-3347-401b-8978-4cbcc62ffac0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakuraba-san Can't Be Stopped!",
+        "url": "https://mangadex.org/title/534380ba-3347-401b-8978-4cbcc62ffac0",
+        "image": "https://uploads.mangadex.org/covers/534380ba-3347-401b-8978-4cbcc62ffac0/995a32b7-1368-456c-9b41-ca635f7fe8af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114882,
+        "aniId": 101603,
+        "createdAt": "2020-10-12T16:14:03.000Z",
+        "updatedAt": "2021-06-06T02:03:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "vf922653": {
+        "authors": [
+          "Senri",
+          "Miko"
+        ],
+        "identifier": "vf922653",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sakuraba-San Wa Tomaranai!",
+        "url": "https://manganelo.com/manga/vf922653",
+        "image": "https://avt.mkklcdnv6.com/2/i/21-1586577455.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114882,
+        "aniId": 101603,
+        "createdAt": "2020-12-12T03:46:31.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sakuraba_san_wa_tomaranai": {
+        "authors": [
+          "SENRI Miko"
+        ],
+        "identifier": "sakuraba_san_wa_tomaranai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sakuraba-san wa Tomaranai!",
+        "url": "https://fanfox.net/manga/sakuraba_san_wa_tomaranai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33518/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114882,
+        "aniId": 101603,
+        "createdAt": "2021-01-22T13:34:35.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

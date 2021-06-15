@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Red Prowling Devil",
+    "紅"
+  ],
+  "authors": [
+    "Toshimitsu Shimizu"
+  ],
+  "id": 44224,
+  "malId": 14224,
+  "type": "manga",
+  "title": "Kurenai",
+  "url": "https://anilist.co/manga/44224",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44224-JwnZl5dje4mF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:15:44.000Z",
+  "updatedAt": "2021-05-20T15:15:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "65b578ac-6fd3-4291-99b0-4a5a32a24605": {
+        "authors": [
+          "Shimizu Toshimitsu"
+        ],
+        "identifier": "65b578ac-6fd3-4291-99b0-4a5a32a24605",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Red Prowling Devil",
+        "url": "https://mangadex.org/title/65b578ac-6fd3-4291-99b0-4a5a32a24605",
+        "image": "https://uploads.mangadex.org/covers/65b578ac-6fd3-4291-99b0-4a5a32a24605/4fa489ff-117c-4d9b-b8d7-92858020630b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14224,
+        "aniId": 44224,
+        "createdAt": "2020-10-12T16:14:00.000Z",
+        "updatedAt": "2021-06-06T01:39:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

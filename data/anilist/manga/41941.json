@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Legend of Galactic Heroes",
+    "銀河英雄伝説; 銀英伝",
+    "LoGH",
+    "Gin'eiden"
+  ],
+  "authors": [
+    "Katsumi Michihara",
+    "Yoshiki Tanaka"
+  ],
+  "id": 41941,
+  "malId": 11941,
+  "type": "manga",
+  "title": "Ginga Eiyuu Densetsu",
+  "url": "https://anilist.co/manga/41941",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11941.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:16.000Z",
+  "updatedAt": "2021-05-20T14:42:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaSee": {
+      "ginga-eiyuu-densetsu-fujisaki-ryuu": {
+        "authors": [
+          "FUJISAKI Ryu",
+          "TANAKA Yoshiki"
+        ],
+        "identifier": "ginga-eiyuu-densetsu-fujisaki-ryuu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ginga Eiyuu Densetsu (FUJISAKI Ryuu)",
+        "url": "https://mangasee123.com/manga/Ginga-Eiyuu-Densetsu-fujisaki-Ryuu",
+        "image": "https://cover.nep.li/cover/Ginga-Eiyuu-Densetsu-fujisaki-Ryuu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11941,
+        "aniId": 41941,
+        "createdAt": "2021-02-18T16:41:37.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "altTitle": [
+    "Tsubasa RESERVoir CHRoNiCLE",
+    "ツバサ -RESERVoir CHRoNiCLE-",
+    "TRC",
+    "Tsubasa"
+  ],
+  "authors": [
+    "CLAMP",
+    "Fédoua Lamodière",
+    "Alex Pilot",
+    "Suzuka Asaoka",
+    "María Ferrer",
+    "Claudia Peter",
+    "Luiz Kobayashi"
+  ],
+  "id": 30009,
+  "malId": 9,
+  "type": "manga",
+  "title": "Tsubasa: RESERVoir CHRoNiCLE",
+  "url": "https://anilist.co/manga/30009",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30009-tchjOdFt5CeE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:21.000Z",
+  "updatedAt": "2021-05-20T14:35:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f830514d-f3e1-4b11-b18b-e5f7b6d9b861": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "f830514d-f3e1-4b11-b18b-e5f7b6d9b861",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsubasa -RESERVoir CHRoNiCLE-",
+        "url": "https://mangadex.org/title/f830514d-f3e1-4b11-b18b-e5f7b6d9b861",
+        "image": "https://uploads.mangadex.org/covers/f830514d-f3e1-4b11-b18b-e5f7b6d9b861/c921509e-7747-42ca-8a78-86a6ed0c9f44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9,
+        "aniId": 30009,
+        "createdAt": "2020-10-12T16:02:27.000Z",
+        "updatedAt": "2021-06-02T06:54:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "iat5253123": {
+        "authors": [],
+        "identifier": "iat5253123",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsubasa: Reservoir Chronicle",
+        "url": "https://manganelo.com/manga/iat5253123",
+        "image": "https://avt.mkklcdnv6.com/21/g/4-1583470540.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9,
+        "aniId": 30009,
+        "createdAt": "2020-10-12T16:23:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tsubasa-reservoir-chronicle": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "tsubasa-reservoir-chronicle",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tsubasa: Reservoir Chronicle",
+        "url": "https://mangasee123.com/manga/Tsubasa-Reservoir-Chronicle",
+        "image": "https://cover.nep.li/cover/Tsubasa-Reservoir-Chronicle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9,
+        "aniId": 30009,
+        "createdAt": "2021-01-28T18:57:41.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tsubasa_reservoir_chronicles": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "tsubasa_reservoir_chronicles",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsubasa: Reservoir Chronicle",
+        "url": "https://fanfox.net/manga/tsubasa_reservoir_chronicles/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/74/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9,
+        "aniId": 30009,
+        "createdAt": "2021-03-10T13:09:30.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      },
+      "tsubasa_reservoir_chronicle": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "tsubasa_reservoir_chronicle",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsubasa: Reservoir Chronicle",
+        "url": "https://fanfox.net/manga/tsubasa_reservoir_chronicle/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/74/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9,
+        "aniId": 30009,
+        "createdAt": "2021-03-26T22:20:20.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

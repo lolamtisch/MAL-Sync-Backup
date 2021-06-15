@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "元龙"
+  ],
+  "authors": [
+    "WenYuan Wenhua",
+    "Yuan Ren"
+  ],
+  "id": 120439,
+  "malId": null,
+  "type": "manga",
+  "title": "Yuan Long",
+  "url": "https://anilist.co/manga/120439",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120439-14FWP7iSP6LJ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T20:13:17.000Z",
+  "updatedAt": "2021-06-07T22:51:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7775a792-2067-4786-8168-d9f6f63a1a21": {
+        "authors": [
+          "Wen yuan wenhua",
+          "Ren yuan"
+        ],
+        "identifier": "7775a792-2067-4786-8168-d9f6f63a1a21",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuan Long",
+        "url": "https://mangadex.org/title/7775a792-2067-4786-8168-d9f6f63a1a21",
+        "image": "https://uploads.mangadex.org/covers/7775a792-2067-4786-8168-d9f6f63a1a21/2e1a4afe-079d-4c41-ad30-44b0135d8021.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120439,
+        "createdAt": "2020-10-12T16:19:46.000Z",
+        "updatedAt": "2021-06-08T00:37:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

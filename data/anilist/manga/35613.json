@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Ai Morinaga"
+  ],
+  "id": 35613,
+  "malId": 5613,
+  "type": "manga",
+  "title": "Emiri ni Omakase",
+  "url": "https://anilist.co/manga/35613",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5613.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:32.000Z",
+  "updatedAt": "2021-05-20T14:39:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "emiri_ni_omakase": {
+        "authors": [
+          "MORINAGA Ai"
+        ],
+        "identifier": "emiri_ni_omakase",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Emiri ni Omakase",
+        "url": "https://fanfox.net/manga/emiri_ni_omakase/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3364/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5613,
+        "aniId": 35613,
+        "createdAt": "2021-05-04T03:33:31.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

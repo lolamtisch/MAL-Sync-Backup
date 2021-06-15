@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Disney Stitch!",
+    "スティッチ!"
+  ],
+  "authors": [
+    "Yumi Tsukirino"
+  ],
+  "id": 48309,
+  "malId": 18309,
+  "type": "manga",
+  "title": "Stitch!",
+  "url": "https://anilist.co/manga/48309",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b48309-UtGP1lJSgtYX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:11.000Z",
+  "updatedAt": "2021-05-20T14:45:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "687ba88d-419f-4ae0-bd73-22d4b7cea847": {
+        "authors": [
+          "Wada Hiroto"
+        ],
+        "identifier": "687ba88d-419f-4ae0-bd73-22d4b7cea847",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tono-sama to Stitch",
+        "url": "https://mangadex.org/title/687ba88d-419f-4ae0-bd73-22d4b7cea847",
+        "image": "https://uploads.mangadex.org/covers/687ba88d-419f-4ae0-bd73-22d4b7cea847/d4587539-222e-4206-9f5a-b96fce61d050.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18309,
+        "aniId": 48309,
+        "createdAt": "2020-10-12T16:20:19.000Z",
+        "updatedAt": "2021-06-07T23:55:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

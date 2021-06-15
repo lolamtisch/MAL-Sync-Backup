@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "HOT"
+  ],
+  "authors": [
+    "Akira Amano"
+  ],
+  "id": 103627,
+  "malId": 114873,
+  "type": "manga",
+  "title": "HOT",
+  "url": "https://anilist.co/manga/103627",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103627-S4GpN7GEbbsB.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:11.000Z",
+  "updatedAt": "2021-05-20T14:57:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9a247f6f-09f0-4310-ac19-b186147042f8": {
+        "authors": [
+          "Amano Akira"
+        ],
+        "identifier": "9a247f6f-09f0-4310-ac19-b186147042f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HOT",
+        "url": "https://mangadex.org/title/9a247f6f-09f0-4310-ac19-b186147042f8",
+        "image": "https://uploads.mangadex.org/covers/9a247f6f-09f0-4310-ac19-b186147042f8/419ce2c4-2e1c-4b62-a5da-65d5897ab028.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114873,
+        "aniId": 103627,
+        "createdAt": "2020-10-12T16:13:40.000Z",
+        "updatedAt": "2021-06-05T23:06:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

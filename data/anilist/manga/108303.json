@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "スイート＆サワー",
+    "Sweet and Sour"
+  ],
+  "authors": [
+    "Yakiniku King"
+  ],
+  "id": 108303,
+  "malId": 87338,
+  "type": "manga",
+  "title": "Sweet & Sour",
+  "url": "https://anilist.co/manga/108303",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108303-E7mcV8U3uCU1.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:52:47.000Z",
+  "updatedAt": "2021-05-20T14:52:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9a6828c4-32fb-4b10-8e05-49d91e82e0e8": {
+        "authors": [
+          "Yakiniku King"
+        ],
+        "identifier": "9a6828c4-32fb-4b10-8e05-49d91e82e0e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sweet & Sour",
+        "url": "https://mangadex.org/title/9a6828c4-32fb-4b10-8e05-49d91e82e0e8",
+        "image": "https://uploads.mangadex.org/covers/9a6828c4-32fb-4b10-8e05-49d91e82e0e8/0b2da871-28f7-4d67-b5ad-31e314bd9691.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87338,
+        "aniId": 108303,
+        "createdAt": "2020-10-12T16:12:03.000Z",
+        "updatedAt": "2021-06-05T13:03:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

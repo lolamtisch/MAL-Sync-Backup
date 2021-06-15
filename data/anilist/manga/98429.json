@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "Yes, My Destiny",
+    "かしこまりました、デスティニー"
+  ],
+  "authors": [
+    "Sachimo"
+  ],
+  "id": 98429,
+  "malId": 102504,
+  "type": "manga",
+  "title": "Kashikomarimashita, Destiny",
+  "url": "https://anilist.co/manga/98429",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98429-NBUgrUH0BIvO.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:54:59.000Z",
+  "updatedAt": "2021-05-20T14:54:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9b79fe95-76d6-45ae-b8e3-ff4a75d6340c": {
+        "authors": [
+          "Sachimo"
+        ],
+        "identifier": "9b79fe95-76d6-45ae-b8e3-ff4a75d6340c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kashikomarimashita, Destiny",
+        "url": "https://mangadex.org/title/9b79fe95-76d6-45ae-b8e3-ff4a75d6340c",
+        "image": "https://uploads.mangadex.org/covers/9b79fe95-76d6-45ae-b8e3-ff4a75d6340c/eb30cd23-51f6-4c2a-956c-854d28a1bece.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102504,
+        "aniId": 98429,
+        "createdAt": "2020-10-12T16:10:15.000Z",
+        "updatedAt": "2021-06-04T23:25:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dolos_destiny_pill": {
+        "authors": [],
+        "identifier": "dolos_destiny_pill",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dolo's Destiny Pill",
+        "url": "https://manganelo.com/manga/dolos_destiny_pill",
+        "image": "https://avt.mkklcdnv6.com/24/o/16-1583494349.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102504,
+        "aniId": 98429,
+        "createdAt": "2020-10-12T16:22:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "kashikomarimashita_destiny": {
+        "authors": [],
+        "identifier": "kashikomarimashita_destiny",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kashikomarimashita, Destiny",
+        "url": "https://manganelo.com/manga/kashikomarimashita_destiny",
+        "image": "https://avt.mkklcdnv6.com/34/y/14-1583490966.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102504,
+        "aniId": 98429,
+        "createdAt": "2020-10-12T16:23:50.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

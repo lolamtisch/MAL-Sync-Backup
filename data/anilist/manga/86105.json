@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "First Love Monster",
+    "初恋モンスター"
+  ],
+  "authors": [
+    "Akira Hiyoshimaru",
+    "Alethea Nibley",
+    "Abigail Blackman",
+    "Athena Nibley"
+  ],
+  "id": 86105,
+  "malId": 65121,
+  "type": "manga",
+  "title": "Hatsukoi Monster",
+  "url": "https://anilist.co/manga/86105",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56105-vmptDniXR9P1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:52.000Z",
+  "updatedAt": "2021-05-20T14:50:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db57ba6f-7283-4e57-b695-166dd35dfcf2": {
+        "authors": [
+          "Hiyoshimaru Akira"
+        ],
+        "identifier": "db57ba6f-7283-4e57-b695-166dd35dfcf2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatsukoi Monster",
+        "url": "https://mangadex.org/title/db57ba6f-7283-4e57-b695-166dd35dfcf2",
+        "image": "https://uploads.mangadex.org/covers/db57ba6f-7283-4e57-b695-166dd35dfcf2/0ce2ed05-d3ca-4e2c-8078-6dbbb2b8c476.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65121,
+        "aniId": 86105,
+        "createdAt": "2020-10-12T16:07:41.000Z",
+        "updatedAt": "2021-06-04T04:32:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hatsukoi_monster": {
+        "authors": [
+          "Hiyoshimaru",
+          "Akira"
+        ],
+        "identifier": "hatsukoi_monster",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hatsukoi Monster",
+        "url": "https://manganelo.com/manga/hatsukoi_monster",
+        "image": "https://avt.mkklcdnv6.com/26/l/2-1583466721.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65121,
+        "aniId": 86105,
+        "createdAt": "2021-02-03T08:31:53.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

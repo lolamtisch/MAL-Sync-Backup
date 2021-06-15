@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Yubisaki Milk Tea",
+    "ゆびさきミルクティー"
+  ],
+  "authors": [
+    "Tomochika Miyano"
+  ],
+  "id": 30579,
+  "malId": 579,
+  "type": "manga",
+  "title": "Yubisaki Milk Tea",
+  "url": "https://anilist.co/manga/30579",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/579.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "633b7348-dd8f-402e-93fe-b0627356176a": {
+        "authors": [
+          "Miyano Tomochika"
+        ],
+        "identifier": "633b7348-dd8f-402e-93fe-b0627356176a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yubisaki Milk Tea",
+        "url": "https://mangadex.org/title/633b7348-dd8f-402e-93fe-b0627356176a",
+        "image": "https://uploads.mangadex.org/covers/633b7348-dd8f-402e-93fe-b0627356176a/b50fb21e-1746-415b-b627-bb36e1a6286f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 579,
+        "aniId": 30579,
+        "createdAt": "2020-10-12T16:04:08.000Z",
+        "updatedAt": "2021-06-02T19:03:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yubisaki_milk_tea": {
+        "authors": [],
+        "identifier": "yubisaki_milk_tea",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yubisaki Milk Tea",
+        "url": "https://manganelo.com/manga/yubisaki_milk_tea",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/13436-yubisaki_milk_tea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 579,
+        "aniId": 30579,
+        "createdAt": "2020-10-12T16:26:26.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

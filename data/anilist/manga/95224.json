@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ランド"
+  ],
+  "authors": [
+    "Kazumi Yamashita"
+  ],
+  "id": 95224,
+  "malId": 90182,
+  "type": "manga",
+  "title": "Land",
+  "url": "https://anilist.co/manga/95224",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95224-2SrAP3nPkCQq.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:03.000Z",
+  "updatedAt": "2021-05-20T14:53:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d844d406-7926-4b5f-8767-2a425faefe1e": {
+        "authors": [
+          "Yamashita Kazumi"
+        ],
+        "identifier": "d844d406-7926-4b5f-8767-2a425faefe1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Land",
+        "url": "https://mangadex.org/title/d844d406-7926-4b5f-8767-2a425faefe1e",
+        "image": "https://uploads.mangadex.org/covers/d844d406-7926-4b5f-8767-2a425faefe1e/cbb9455a-be34-45ac-b143-3431805727fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90182,
+        "aniId": 95224,
+        "createdAt": "2020-10-12T16:09:52.000Z",
+        "updatedAt": "2021-06-04T20:36:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

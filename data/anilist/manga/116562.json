@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Banana Scandal",
+    "빠나나 스캔들",
+    "Bbanana Scandal"
+  ],
+  "authors": [
+    "Dolsha"
+  ],
+  "id": 116562,
+  "malId": null,
+  "type": "manga",
+  "title": "Banana Scandal",
+  "url": "https://anilist.co/manga/116562",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116562-2qf7GNJpGZ0c.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-21T10:13:07.000Z",
+  "updatedAt": "2021-05-29T18:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9f4cbbe0-1664-45d4-8a99-ae187c8fbe6c": {
+        "authors": [
+          "Dolsha"
+        ],
+        "identifier": "9f4cbbe0-1664-45d4-8a99-ae187c8fbe6c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Banana Scandal",
+        "url": "https://mangadex.org/title/9f4cbbe0-1664-45d4-8a99-ae187c8fbe6c",
+        "image": "https://uploads.mangadex.org/covers/9f4cbbe0-1664-45d4-8a99-ae187c8fbe6c/a7b2b640-f543-46e4-8b3a-9a9a7b674cb2.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116562,
+        "createdAt": "2020-10-12T16:18:39.000Z",
+        "updatedAt": "2021-06-07T19:21:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

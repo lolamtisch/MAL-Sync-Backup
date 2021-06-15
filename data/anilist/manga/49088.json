@@ -1,0 +1,81 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Suehiro Maruo",
+    "Kazuichi Hanawa",
+    "Hideshi Hino",
+    "Nekojiru",
+    "Hanako Yamada",
+    "Takashi Nemoto",
+    "Yoshikazu Ebisu"
+  ],
+  "id": 49088,
+  "malId": 19088,
+  "type": "manga",
+  "title": "Comics Underground Japan",
+  "url": "https://anilist.co/manga/49088",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19088.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:15.000Z",
+  "updatedAt": "2021-05-20T14:45:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ffce4923-fc28-4d3f-88bc-3d61ec31944d": {
+        "authors": [
+          "Marou Suehiro",
+          "Yamada Hanako",
+          "Migiwa Pan",
+          "Tanioka Yasuji",
+          "Toma Masakazu",
+          "Hino Hideshi",
+          "Hanawa Kazuichi",
+          "Wehara Muddy",
+          "Shimoda Carol",
+          "Ebisu Yoshikazu",
+          "Nemoto Takashi",
+          "Yamano Hajime",
+          "Nekojiru"
+        ],
+        "identifier": "ffce4923-fc28-4d3f-88bc-3d61ec31944d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Comics Underground Japan",
+        "url": "https://mangadex.org/title/ffce4923-fc28-4d3f-88bc-3d61ec31944d",
+        "image": "https://uploads.mangadex.org/covers/ffce4923-fc28-4d3f-88bc-3d61ec31944d/c2bf3b2c-600c-4b6f-841a-5fa79b9549a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19088,
+        "aniId": 49088,
+        "createdAt": "2020-10-12T16:11:48.000Z",
+        "updatedAt": "2021-06-05T11:08:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cp917595": {
+        "authors": [
+          "Nekojiru"
+        ],
+        "identifier": "cp917595",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Comics Underground Japan",
+        "url": "https://manganelo.com/manga/cp917595",
+        "image": "https://avt.mkklcdnv6temp.com/14/s/17-1583495795.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19088,
+        "aniId": 49088,
+        "createdAt": "2021-04-28T16:20:52.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

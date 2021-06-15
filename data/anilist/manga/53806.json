@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "瞬きするたび、恋をする",
+    "Matataki suru Tabi",
+    "Koi o Suru",
+    "One More Time One More Chance"
+  ],
+  "authors": [
+    "Mea Sakisaka"
+  ],
+  "id": 53806,
+  "malId": 23806,
+  "type": "manga",
+  "title": "Matataki suru Tabi, Koi wo Suru",
+  "url": "https://anilist.co/manga/53806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23806.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:40.000Z",
+  "updatedAt": "2021-05-20T14:46:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90d4c5a1-a52e-4193-8bad-1c616b3c35ba": {
+        "authors": [
+          "SAKISAKA Mea"
+        ],
+        "identifier": "90d4c5a1-a52e-4193-8bad-1c616b3c35ba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Matataki suru Tabi, Koi o Suru",
+        "url": "https://mangadex.org/title/90d4c5a1-a52e-4193-8bad-1c616b3c35ba",
+        "image": "https://uploads.mangadex.org/covers/90d4c5a1-a52e-4193-8bad-1c616b3c35ba/2a77f8f4-582b-4271-ab8e-d1617de55328.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23806,
+        "aniId": 53806,
+        "createdAt": "2020-10-12T16:05:40.000Z",
+        "updatedAt": "2021-06-03T14:09:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "byjs205271576209259": {
+        "authors": [],
+        "identifier": "byjs205271576209259",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Do It One More Time",
+        "url": "https://manganelo.com/manga/byjs205271576209259",
+        "image": "https://avt.mkklcdnv6.com/3/s/14-1583489820.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23806,
+        "aniId": 53806,
+        "createdAt": "2020-10-12T16:22:24.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "do_it_one_more_time": {
+        "authors": [],
+        "identifier": "do_it_one_more_time",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Do It One More Time",
+        "url": "https://manganelo.com/manga/do_it_one_more_time",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16986-do_it_one_more_time.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23806,
+        "aniId": 53806,
+        "createdAt": "2020-10-12T16:22:41.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

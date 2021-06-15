@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "ハローアゲイン"
+  ],
+  "authors": [
+    "Ichikawa, Kei"
+  ],
+  "id": 88234,
+  "type": "manga",
+  "title": "Hello Again",
+  "url": "https://myanimelist.net/manga/88234/Hello_Again",
+  "image": "https://cdn.myanimelist.net/images/manga/3/171295.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:56.000Z",
+  "updatedAt": "2021-04-12T19:48:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "83d91f2a-4e67-4deb-88f4-728c44a3ec92": {
+        "authors": [
+          "Ichikawa Kei"
+        ],
+        "identifier": "83d91f2a-4e67-4deb-88f4-728c44a3ec92",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hello Again",
+        "url": "https://mangadex.org/title/83d91f2a-4e67-4deb-88f4-728c44a3ec92",
+        "image": "https://uploads.mangadex.org/covers/83d91f2a-4e67-4deb-88f4-728c44a3ec92/b6dc9599-e363-4ad6-8686-8820d9f29565.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88234,
+        "aniId": 86751,
+        "createdAt": "2020-10-12T16:08:59.000Z",
+        "updatedAt": "2021-06-04T14:20:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

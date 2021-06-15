@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Dear sir Hannibal",
+    "拝啓、ハンニバル"
+  ],
+  "authors": [
+    "Ryouma Kitada"
+  ],
+  "id": 98415,
+  "malId": 102164,
+  "type": "manga",
+  "title": "Haikei, Hannibal",
+  "url": "https://anilist.co/manga/98415",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98415-Ze5O4wt1k8FZ.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:55.000Z",
+  "updatedAt": "2021-05-20T14:54:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5f82a54f-d04e-4563-8ce8-7beceee9865b": {
+        "authors": [
+          "Kitada Ryouma"
+        ],
+        "identifier": "5f82a54f-d04e-4563-8ce8-7beceee9865b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dear Sir Hannibal",
+        "url": "https://mangadex.org/title/5f82a54f-d04e-4563-8ce8-7beceee9865b",
+        "image": "https://uploads.mangadex.org/covers/5f82a54f-d04e-4563-8ce8-7beceee9865b/7f71fec8-0076-49db-a4a4-08dda76543cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102164,
+        "aniId": 98415,
+        "createdAt": "2020-10-12T16:10:12.000Z",
+        "updatedAt": "2021-06-04T23:04:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dear_sir_hannibal": {
+        "authors": [],
+        "identifier": "dear_sir_hannibal",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dear Sir Hannibal",
+        "url": "https://manganelo.com/manga/dear_sir_hannibal",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17728-dear_sir_hannibal.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102164,
+        "aniId": 98415,
+        "createdAt": "2020-10-12T16:22:36.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

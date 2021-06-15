@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "タナトスの使者",
+    "Emissary of Thanatos"
+  ],
+  "authors": [
+    "Shuu Akana",
+    "Jou Yoshida"
+  ],
+  "id": 90810,
+  "malId": 68227,
+  "type": "manga",
+  "title": "Thanatos no Shisha",
+  "url": "https://anilist.co/manga/90810",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90810-SelCbWyiG0qE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:02.000Z",
+  "updatedAt": "2021-06-04T23:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5f51a3b1-aaf4-42f1-8785-91ba583c6a78": {
+        "authors": [
+          "Akana Shuu",
+          "Yoshida Jou"
+        ],
+        "identifier": "5f51a3b1-aaf4-42f1-8785-91ba583c6a78",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Thanatos no Shisha",
+        "url": "https://mangadex.org/title/5f51a3b1-aaf4-42f1-8785-91ba583c6a78",
+        "image": "https://uploads.mangadex.org/covers/5f51a3b1-aaf4-42f1-8785-91ba583c6a78/99145efb-5e87-41c2-86cd-6dc236f2319d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68227,
+        "aniId": 90810,
+        "createdAt": "2020-10-12T16:10:17.000Z",
+        "updatedAt": "2021-06-04T23:51:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "thanatos_no_shisha": {
+        "authors": [
+          "Yoshida",
+          "Jou"
+        ],
+        "identifier": "thanatos_no_shisha",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Thanatos No Shisha",
+        "url": "https://manganelo.com/manga/thanatos_no_shisha",
+        "image": "https://avt.mkklcdnv6temp.com/38/s/14-1583491095.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68227,
+        "aniId": 90810,
+        "createdAt": "2021-02-18T16:14:42.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

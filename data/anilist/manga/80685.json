@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "アクシデンツ",
+    "The Accidents"
+  ],
+  "authors": [
+    "Takatoshi Yamada"
+  ],
+  "id": 80685,
+  "malId": 50685,
+  "type": "manga",
+  "title": "Accidents",
+  "url": "https://anilist.co/manga/80685",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx80685-qZx4RZzXlMYm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-05-20T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "89268b08-1455-4287-a515-ed1d4080b55a": {
+        "authors": [
+          "Yamada Takatoshi"
+        ],
+        "identifier": "89268b08-1455-4287-a515-ed1d4080b55a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Accidents",
+        "url": "https://mangadex.org/title/89268b08-1455-4287-a515-ed1d4080b55a",
+        "image": "https://uploads.mangadex.org/covers/89268b08-1455-4287-a515-ed1d4080b55a/017dedb6-d973-4bc2-add4-e7d5c39d26e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50685,
+        "aniId": 80685,
+        "createdAt": "2020-10-12T16:16:36.000Z",
+        "updatedAt": "2021-06-07T00:08:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

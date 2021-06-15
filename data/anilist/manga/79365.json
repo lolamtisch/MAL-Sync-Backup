@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "アンチノミー",
+    "Antinomy"
+  ],
+  "authors": [
+    "Maro Sakura"
+  ],
+  "id": 79365,
+  "malId": 49365,
+  "type": "manga",
+  "title": "Antinomie",
+  "url": "https://anilist.co/manga/79365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49365.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:42.000Z",
+  "updatedAt": "2021-05-20T14:49:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "55c242b2-c07c-4665-b809-156b7575d44e": {
+        "authors": [
+          "Gyeol"
+        ],
+        "identifier": "55c242b2-c07c-4665-b809-156b7575d44e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Antinomy",
+        "url": "https://mangadex.org/title/55c242b2-c07c-4665-b809-156b7575d44e",
+        "image": "https://uploads.mangadex.org/covers/55c242b2-c07c-4665-b809-156b7575d44e/8674e189-be1e-4545-b4df-4a968544de6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49365,
+        "aniId": 79365,
+        "createdAt": "2020-10-12T16:13:53.000Z",
+        "updatedAt": "2021-06-06T00:43:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

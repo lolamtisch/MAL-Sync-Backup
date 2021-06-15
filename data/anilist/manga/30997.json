@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "パフェちっく!",
+    "Parfait Tic"
+  ],
+  "authors": [
+    "Nagamu Nanaji"
+  ],
+  "id": 30997,
+  "malId": 997,
+  "type": "manga",
+  "title": "Parfait Tic!",
+  "url": "https://anilist.co/manga/30997",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30997-WLilbbgW7rEM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3f893f2b-b86a-4c4f-b76f-e2e814b6991b": {
+        "authors": [
+          "NANAJI Nagamu"
+        ],
+        "identifier": "3f893f2b-b86a-4c4f-b76f-e2e814b6991b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Parfait Tic!",
+        "url": "https://mangadex.org/title/3f893f2b-b86a-4c4f-b76f-e2e814b6991b",
+        "image": "https://uploads.mangadex.org/covers/3f893f2b-b86a-4c4f-b76f-e2e814b6991b/cde0bf80-4f79-4358-ba3a-2fd9e52504d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 997,
+        "aniId": 30997,
+        "createdAt": "2020-10-12T16:05:13.000Z",
+        "updatedAt": "2021-06-03T10:59:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "parfait-tic": {
+        "authors": [
+          "NANAJI Nagamu"
+        ],
+        "identifier": "parfait-tic",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Parfait Tic!",
+        "url": "https://mangasee123.com/manga/Parfait-Tic",
+        "image": "https://cover.nep.li/cover/Parfait-Tic.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 997,
+        "aniId": 30997,
+        "createdAt": "2021-04-27T00:18:30.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

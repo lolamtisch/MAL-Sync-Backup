@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Lupin III: World's Most Wanted",
+    "新ルパン三世"
+  ],
+  "authors": [
+    "Monkey Punch"
+  ],
+  "id": 5733,
+  "type": "manga",
+  "title": "Shin Lupin III",
+  "url": "https://myanimelist.net/manga/5733/Shin_Lupin_III",
+  "image": "https://cdn.myanimelist.net/images/manga/2/162881.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:07.000Z",
+  "updatedAt": "2021-01-27T21:39:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c355cfa-d8a9-495c-a50b-8729102ab2b7": {
+        "authors": [
+          "Monkey Punch"
+        ],
+        "identifier": "3c355cfa-d8a9-495c-a50b-8729102ab2b7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shin Lupin III",
+        "url": "https://mangadex.org/title/3c355cfa-d8a9-495c-a50b-8729102ab2b7",
+        "image": "https://uploads.mangadex.org/covers/3c355cfa-d8a9-495c-a50b-8729102ab2b7/33549561-aa82-473c-9bc3-534b194a5a96.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5733,
+        "aniId": 35733,
+        "createdAt": "2020-10-12T16:18:02.000Z",
+        "updatedAt": "2021-06-07T13:15:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sc921586": {
+        "authors": [
+          "Monkey",
+          "Punch"
+        ],
+        "identifier": "sc921586",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Lupin Iii: World’S Most Wanted",
+        "url": "https://manganelo.com/manga/sc921586",
+        "image": "https://avt.mkklcdnv6.com/11/v/20-1583501488.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5733,
+        "aniId": 35733,
+        "createdAt": "2021-01-27T21:39:30.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "つくも神ポンポン"
+  ],
+  "authors": [
+    "Ikumi Nakada"
+  ],
+  "id": 108889,
+  "malId": 118659,
+  "type": "manga",
+  "title": "Tsukumogami Pompom",
+  "url": "https://anilist.co/manga/108889",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108889-t9RtQu7r7EJT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:05.000Z",
+  "updatedAt": "2021-05-20T14:58:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6fa4e986-29d4-408c-96cd-242440a469bb": {
+        "authors": [
+          "Nakada Ikumi"
+        ],
+        "identifier": "6fa4e986-29d4-408c-96cd-242440a469bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukumogami Pompom",
+        "url": "https://mangadex.org/title/6fa4e986-29d4-408c-96cd-242440a469bb",
+        "image": "https://uploads.mangadex.org/covers/6fa4e986-29d4-408c-96cd-242440a469bb/22feed47-6252-4e87-b66e-639ad9d04775.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118659,
+        "aniId": 108889,
+        "createdAt": "2020-10-12T16:13:45.000Z",
+        "updatedAt": "2021-06-05T23:41:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tsukumogami_pompom": {
+        "authors": [
+          "Ikumi",
+          "Nakada"
+        ],
+        "identifier": "tsukumogami_pompom",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsukumogami Pompom",
+        "url": "https://manganelo.com/manga/tsukumogami_pompom",
+        "image": "https://avt.mkklcdnv6temp.com/47/h/16-1583495167.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118659,
+        "aniId": 108889,
+        "createdAt": "2021-03-19T06:34:32.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

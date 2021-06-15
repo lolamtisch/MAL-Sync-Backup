@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ボクニヒツヨウナモノ"
+  ],
+  "authors": [
+    "Seiryou Hyuuga"
+  ],
+  "id": 58617,
+  "malId": 28617,
+  "type": "manga",
+  "title": "Boku ni Hitsuyou na Mono",
+  "url": "https://anilist.co/manga/58617",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28617.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:32.000Z",
+  "updatedAt": "2021-05-20T14:47:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "388cfaf7-54b8-4db0-8df4-af266a48d73b": {
+        "authors": [
+          "Hyuuga Seiryou"
+        ],
+        "identifier": "388cfaf7-54b8-4db0-8df4-af266a48d73b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku ni Hitsuyou na Mono",
+        "url": "https://mangadex.org/title/388cfaf7-54b8-4db0-8df4-af266a48d73b",
+        "image": "https://uploads.mangadex.org/covers/388cfaf7-54b8-4db0-8df4-af266a48d73b/f934fc54-117c-4061-9437-626ff8dcca7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28617,
+        "aniId": 58617,
+        "createdAt": "2020-10-12T16:20:15.000Z",
+        "updatedAt": "2021-06-07T23:36:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

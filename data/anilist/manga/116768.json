@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Dark Mortal",
+    "검은인간",
+    "Geom-eun In-gan",
+    "Kawan Kelam"
+  ],
+  "authors": [
+    "Jeo-Nyeok Lee"
+  ],
+  "id": 116768,
+  "malId": null,
+  "type": "manga",
+  "title": "Geomeun Ingan",
+  "url": "https://anilist.co/manga/116768",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116768-lYPIhbYUojSM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T14:12:58.000Z",
+  "updatedAt": "2021-06-06T15:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d97ab58d-88ba-4f75-adb2-c66b94be06e9": {
+        "authors": [
+          "Lee Jeo Nyeok"
+        ],
+        "identifier": "d97ab58d-88ba-4f75-adb2-c66b94be06e9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dark Mortal",
+        "url": "https://mangadex.org/title/d97ab58d-88ba-4f75-adb2-c66b94be06e9",
+        "image": "https://uploads.mangadex.org/covers/d97ab58d-88ba-4f75-adb2-c66b94be06e9/4c446956-7fc3-4459-a487-d0e20aa0ea07.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 116768,
+        "createdAt": "2020-10-12T16:15:38.000Z",
+        "updatedAt": "2021-06-06T15:54:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fy982507": {
+        "authors": [
+          "Lee Jeo Nyeok"
+        ],
+        "identifier": "manga-fy982507",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dark Mortal",
+        "url": "https://readmanganato.com/manga-fy982507",
+        "image": "https://avt.mkklcdnv6temp.com/4/i/19-1583499240.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 116768,
+        "createdAt": "2021-05-31T09:20:21.000Z",
+        "updatedAt": "2021-05-31T09:20:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

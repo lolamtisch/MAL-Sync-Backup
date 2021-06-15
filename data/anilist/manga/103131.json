@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "日常クライマックス"
+  ],
+  "authors": [
+    "Pariko London"
+  ],
+  "id": 103131,
+  "malId": 113051,
+  "type": "manga",
+  "title": "Nichijou Climax",
+  "url": "https://anilist.co/manga/103131",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b103131-FIQPSKrNNSyf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:00.000Z",
+  "updatedAt": "2021-06-05T14:51:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73c317f9-9701-447a-9e0b-4581800bbab0": {
+        "authors": [
+          "London Pariko"
+        ],
+        "identifier": "73c317f9-9701-447a-9e0b-4581800bbab0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nichijou Climax",
+        "url": "https://mangadex.org/title/73c317f9-9701-447a-9e0b-4581800bbab0",
+        "image": "https://uploads.mangadex.org/covers/73c317f9-9701-447a-9e0b-4581800bbab0/53498cb3-29d6-45af-9886-71879ada2dd9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113051,
+        "aniId": 103131,
+        "createdAt": "2020-10-12T16:12:24.000Z",
+        "updatedAt": "2021-06-05T15:31:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nichijou_climax": {
+        "authors": [],
+        "identifier": "nichijou_climax",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nichijou Climax",
+        "url": "https://manganelo.com/manga/nichijou_climax",
+        "image": "https://avt.mkklcdnv6.com/31/h/16-1583494594.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113051,
+        "aniId": 103131,
+        "createdAt": "2020-10-12T16:24:32.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

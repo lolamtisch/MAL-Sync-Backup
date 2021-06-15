@@ -1,0 +1,74 @@
+{
+  "altTitle": [
+    "Blue Seed Beyond",
+    "Blue Seed 2: Operation Mitama, Blue Seed OVA",
+    "ブルーシード 2"
+  ],
+  "id": 999,
+  "type": "anime",
+  "title": "Blue Seed 2",
+  "url": "https://myanimelist.net/anime/999/Blue_Seed_2",
+  "image": "https://cdn.myanimelist.net/images/anime/7/2871.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:11.000Z",
+  "updatedAt": "2021-03-13T20:39:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "08p5": {
+        "identifier": "08p5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blue Seed Beyond (Dub)",
+        "url": "https://9anime.ru/watch/blue-seed-beyond-dub.08p5",
+        "image": "http://static.akacdn.ru/static/images/2018/04/0c1fa74c810fe50c4ec3a2b6c896009f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 999,
+        "aniId": 999,
+        "createdAt": "2020-10-12T15:48:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "8x93": {
+        "identifier": "8x93",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blue Seed 2",
+        "url": "https://9anime.ru/watch/blue-seed-2.8x93",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-F6SSrJhIxD8/V7C02Dj8ZcI/AAAAAAAA3GU/AfsQg8C3vMw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 999,
+        "aniId": 999,
+        "createdAt": "2020-10-12T15:51:34.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "blue%20seed%202%20(dub)": {
+        "identifier": "blue%20seed%202%20(dub)",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Blue Seed 2 (Dub)",
+        "url": "https://www.crunchyroll.com/blue-seed?media_id=784072",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/5cf69834a7e296823514da1c6409a58f1557264849_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 999,
+        "aniId": 999,
+        "createdAt": "2021-03-13T20:39:52.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

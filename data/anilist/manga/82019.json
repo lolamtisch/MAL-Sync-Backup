@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ヤバイ目で見ンなよ!!"
+  ],
+  "authors": [
+    "Mika Sadahiro"
+  ],
+  "id": 82019,
+  "malId": 52019,
+  "type": "manga",
+  "title": "Yabai Me de Minna yo!!",
+  "url": "https://anilist.co/manga/82019",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx82019-XeiSTlekGx2z.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T21:18:58.000Z",
+  "updatedAt": "2021-06-03T21:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f59337d9-c0d6-4619-9e40-97148a3938f6": {
+        "authors": [
+          "Sadahiro Mika"
+        ],
+        "identifier": "f59337d9-c0d6-4619-9e40-97148a3938f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yabai Me de Minna yo!!",
+        "url": "https://mangadex.org/title/f59337d9-c0d6-4619-9e40-97148a3938f6",
+        "image": "https://uploads.mangadex.org/covers/f59337d9-c0d6-4619-9e40-97148a3938f6/96f6ed9d-66ba-4861-8d59-5b79300140fb.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52019,
+        "aniId": 82019,
+        "createdAt": "2020-10-12T16:06:39.000Z",
+        "updatedAt": "2021-06-03T21:40:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

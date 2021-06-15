@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "NEEDLESS ZERO",
+    "Needless 0",
+    "ニードレス ゼロ"
+  ],
+  "authors": [
+    "Kami Imai"
+  ],
+  "id": 53811,
+  "malId": 23811,
+  "type": "manga",
+  "title": "NEEDLESS ZERO",
+  "url": "https://anilist.co/manga/53811",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23811.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:40.000Z",
+  "updatedAt": "2021-05-20T14:46:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33a7683f-a2b3-4552-8e8c-b4bf5d8b781a": {
+        "authors": [
+          "Imai Kami"
+        ],
+        "identifier": "33a7683f-a2b3-4552-8e8c-b4bf5d8b781a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Needless 0",
+        "url": "https://mangadex.org/title/33a7683f-a2b3-4552-8e8c-b4bf5d8b781a",
+        "image": "https://uploads.mangadex.org/covers/33a7683f-a2b3-4552-8e8c-b4bf5d8b781a/8854b0dd-5236-48c9-a7a1-848d6d72b7f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23811,
+        "aniId": 53811,
+        "createdAt": "2020-10-12T16:05:23.000Z",
+        "updatedAt": "2021-06-03T12:11:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "虜囚",
+    "Prisoner",
+    "Ryoshuh"
+  ],
+  "authors": [
+    "Yoshitaka Tokumaru"
+  ],
+  "id": 48057,
+  "malId": 18057,
+  "type": "manga",
+  "title": "Ryoshuu",
+  "url": "https://anilist.co/manga/48057",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48057-2cUB6owUGAiF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:09.000Z",
+  "updatedAt": "2021-05-20T14:45:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3953533d-76fd-4021-b3c1-1bb9fbf1f107": {
+        "authors": [
+          "TOKUMARU Yoshitaka"
+        ],
+        "identifier": "3953533d-76fd-4021-b3c1-1bb9fbf1f107",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ryoshuu",
+        "url": "https://mangadex.org/title/3953533d-76fd-4021-b3c1-1bb9fbf1f107",
+        "image": "https://uploads.mangadex.org/covers/3953533d-76fd-4021-b3c1-1bb9fbf1f107/144a66ce-8958-4258-afe3-e838950b3ecb.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18057,
+        "aniId": 48057,
+        "createdAt": "2020-12-03T12:22:40.000Z",
+        "updatedAt": "2021-06-08T08:06:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

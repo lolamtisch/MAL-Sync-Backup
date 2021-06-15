@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "メイプルタウン物語",
+    "Maple Town Stories"
+  ],
+  "id": 2223,
+  "malId": 2223,
+  "type": "anime",
+  "title": "Maple Town Monogatari",
+  "url": "https://anilist.co/anime/2223",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2223.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:13.000Z",
+  "updatedAt": "2021-05-20T14:36:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "maple-town-monogatari": {
+        "identifier": "maple-town-monogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Maple Town Monogatari",
+        "url": "https://www16.gogoanime.io/category/maple-town-monogatari",
+        "image": "https://gogocdn.net/cover/maple-town-monogatari.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2223,
+        "aniId": 2223,
+        "createdAt": "2020-10-12T16:01:14.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "vro7": {
+        "identifier": "vro7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maple Town Monogatari",
+        "url": "https://www12.9anime.to/watch/maple-town.vro7",
+        "image": "//static.9anime.to/i/cache/images/2018/02/43aae2726901001949bf1da3731c480e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2223,
+        "aniId": 2223,
+        "createdAt": "2020-10-28T02:40:10.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

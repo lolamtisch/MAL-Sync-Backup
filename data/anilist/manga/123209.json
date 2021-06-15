@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "アンダーマイスキン"
+  ],
+  "authors": [
+    "Iroha Usui"
+  ],
+  "id": 123209,
+  "malId": 131265,
+  "type": "manga",
+  "title": "Under My Skin",
+  "url": "https://anilist.co/manga/123209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123209-swddOqZ6zhni.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-10T07:04:15.000Z",
+  "updatedAt": "2021-06-10T07:04:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "354c1848-6770-4129-961e-d497b70ff38c": {
+        "authors": [
+          "Usui Iroha"
+        ],
+        "identifier": "354c1848-6770-4129-961e-d497b70ff38c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Under My Skin",
+        "url": "https://mangadex.org/title/354c1848-6770-4129-961e-d497b70ff38c",
+        "image": "https://uploads.mangadex.org/covers/354c1848-6770-4129-961e-d497b70ff38c/4cfa2f75-b3e9-4650-91fb-6032bc223fdc.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131265,
+        "aniId": 123209,
+        "createdAt": "2020-10-12T16:21:15.000Z",
+        "updatedAt": "2021-06-10T07:34:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

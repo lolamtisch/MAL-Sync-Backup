@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "オルフィーナSAGA"
+  ],
+  "authors": [
+    "Kitsune Tennouji"
+  ],
+  "id": 75255,
+  "malId": 45255,
+  "type": "manga",
+  "title": "Orfina Saga",
+  "url": "https://anilist.co/manga/75255",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45255.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0da03c7-6b07-4e9f-84cf-d0187bf44a76": {
+        "authors": [
+          "Tennouji Kitsune"
+        ],
+        "identifier": "a0da03c7-6b07-4e9f-84cf-d0187bf44a76",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Orfina Saga",
+        "url": "https://mangadex.org/title/a0da03c7-6b07-4e9f-84cf-d0187bf44a76",
+        "image": "https://uploads.mangadex.org/covers/a0da03c7-6b07-4e9f-84cf-d0187bf44a76/72e033e7-0015-4f22-9342-936c449360f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45255,
+        "aniId": 75255,
+        "createdAt": "2020-10-12T16:13:15.000Z",
+        "updatedAt": "2021-06-05T19:58:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

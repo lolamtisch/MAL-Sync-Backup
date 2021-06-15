@@ -1,0 +1,106 @@
+{
+  "altTitle": [
+    "The Circle",
+    "サークル",
+    "The Box",
+    "Blood Hope",
+    "Blood Trap",
+    "Blood Chip"
+  ],
+  "authors": [
+    "Bohra Naono"
+  ],
+  "id": 41878,
+  "malId": 11878,
+  "type": "manga",
+  "title": "The Circle",
+  "url": "https://anilist.co/manga/41878",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11878.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:15.000Z",
+  "updatedAt": "2021-05-20T14:42:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c926501e-717a-4a5b-8253-e564a3512ea0": {
+        "authors": [
+          "Yodogawa Yuo"
+        ],
+        "identifier": "c926501e-717a-4a5b-8253-e564a3512ea0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Encirclement Love",
+        "url": "https://mangadex.org/title/c926501e-717a-4a5b-8253-e564a3512ea0",
+        "image": "https://uploads.mangadex.org/covers/c926501e-717a-4a5b-8253-e564a3512ea0/725b45d0-a1d2-464a-bc2f-2db4f68e01b9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11878,
+        "aniId": 41878,
+        "createdAt": "2020-10-12T16:18:07.000Z",
+        "updatedAt": "2021-06-07T14:00:22.000Z",
+        "deletedAt": null
+      },
+      "45b822e6-e8bd-43b0-8582-f054a37cd3f0": {
+        "authors": [
+          "르기"
+        ],
+        "identifier": "45b822e6-e8bd-43b0-8582-f054a37cd3f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Circle Trap",
+        "url": "https://mangadex.org/title/45b822e6-e8bd-43b0-8582-f054a37cd3f0",
+        "image": "https://uploads.mangadex.org/covers/45b822e6-e8bd-43b0-8582-f054a37cd3f0/08def9fb-9bcf-4a21-a338-f97d0c32ce2d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11878,
+        "aniId": 41878,
+        "createdAt": "2020-10-12T16:18:42.000Z",
+        "updatedAt": "2021-06-07T19:17:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akuma_to_issho": {
+        "authors": [],
+        "identifier": "akuma_to_issho",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akuma To Issho",
+        "url": "https://manganelo.com/manga/akuma_to_issho",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4186-akuma_to_issho.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11878,
+        "aniId": 41878,
+        "createdAt": "2020-10-12T16:22:03.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "circle": {
+        "authors": [],
+        "identifier": "circle",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Circle",
+        "url": "https://manganelo.com/manga/circle",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18683-circle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11878,
+        "aniId": 41878,
+        "createdAt": "2020-10-12T16:22:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

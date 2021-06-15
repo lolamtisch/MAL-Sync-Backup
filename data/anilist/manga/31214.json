@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Joan",
+    "ジャンヌ"
+  ],
+  "authors": [
+    "Yoshikazu Yasuhiko"
+  ],
+  "id": 31214,
+  "malId": 1214,
+  "type": "manga",
+  "title": "Joan",
+  "url": "https://anilist.co/manga/31214",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1214.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:56.000Z",
+  "updatedAt": "2021-05-20T14:35:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d1e95047-af53-4565-b19d-5c67b0d8841a": {
+        "authors": [
+          "YASUHIKO Yoshikazu"
+        ],
+        "identifier": "d1e95047-af53-4565-b19d-5c67b0d8841a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Joan",
+        "url": "https://mangadex.org/title/d1e95047-af53-4565-b19d-5c67b0d8841a",
+        "image": "https://uploads.mangadex.org/covers/d1e95047-af53-4565-b19d-5c67b0d8841a/58c58040-7a23-4db6-9d9e-66c8ca4dda1d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1214,
+        "aniId": 31214,
+        "createdAt": "2020-10-12T16:05:00.000Z",
+        "updatedAt": "2021-06-03T09:32:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

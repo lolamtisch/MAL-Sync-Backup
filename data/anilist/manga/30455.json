@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Model",
+    "모델"
+  ],
+  "authors": [
+    "So-Young Lee"
+  ],
+  "id": 30455,
+  "malId": 455,
+  "type": "manga",
+  "title": "Model",
+  "url": "https://anilist.co/manga/30455",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30455-EWzSNG9XwwgG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9f2e53be-6a29-459f-8a97-f0e945f1ab5a": {
+        "authors": [
+          "Lee So-Young"
+        ],
+        "identifier": "9f2e53be-6a29-459f-8a97-f0e945f1ab5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Model",
+        "url": "https://mangadex.org/title/9f2e53be-6a29-459f-8a97-f0e945f1ab5a",
+        "image": "https://uploads.mangadex.org/covers/9f2e53be-6a29-459f-8a97-f0e945f1ab5a/d6aa0d75-553c-42c5-ab97-75bf806e962e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 455,
+        "aniId": 30455,
+        "createdAt": "2020-10-12T16:03:12.000Z",
+        "updatedAt": "2021-06-02T12:20:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

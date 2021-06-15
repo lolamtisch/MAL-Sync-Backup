@@ -1,0 +1,77 @@
+{
+  "altTitle": [
+    "Angel of Legend",
+    "エンジェル伝説",
+    "Angel Legend"
+  ],
+  "id": 5251,
+  "malId": 5251,
+  "type": "anime",
+  "title": "Angel Densetsu",
+  "url": "https://anilist.co/anime/5251",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5251.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:44.000Z",
+  "updatedAt": "2021-05-20T14:37:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "0177": {
+        "identifier": "0177",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Angel Densetsu",
+        "url": "https://9anime.ru/watch/angel-densetsu.0177",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-hSDQCc-uXqU/WPmyKpf_UGI/AAAAAAAAjKo/aMJUFOuN8hU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5251,
+        "aniId": 5251,
+        "createdAt": "2020-10-12T15:48:36.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "angel-densetsu": {
+        "identifier": "angel-densetsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Angel Densetsu",
+        "url": "https://gogoanime.so/category/angel-densetsu",
+        "image": "https://gogocdn.net/cover/angel-densetsu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5251,
+        "aniId": 5251,
+        "createdAt": "2020-10-12T17:49:36.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "2080": {
+        "identifier": "2080",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Angel Densetsu (GerSub)",
+        "url": "https://www.anime4you.one/show/1/aid/2080",
+        "image": "https://cdn.anime4you.one/covers/15071810100707517.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5251,
+        "aniId": 5251,
+        "createdAt": "2020-10-15T12:17:13.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

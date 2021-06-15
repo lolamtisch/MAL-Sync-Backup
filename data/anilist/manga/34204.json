@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "みえるひと"
+  ],
+  "authors": [
+    "Toshiaki Iwashiro"
+  ],
+  "id": 34204,
+  "malId": 4204,
+  "type": "manga",
+  "title": "Mieru Hito",
+  "url": "https://anilist.co/manga/34204",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4204.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:26.000Z",
+  "updatedAt": "2021-05-20T14:38:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9a225533-d600-42b3-a8b9-43071e5c25db": {
+        "authors": [
+          "Iwashiro Toshiaki"
+        ],
+        "identifier": "9a225533-d600-42b3-a8b9-43071e5c25db",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mieru Hito",
+        "url": "https://mangadex.org/title/9a225533-d600-42b3-a8b9-43071e5c25db",
+        "image": "https://uploads.mangadex.org/covers/9a225533-d600-42b3-a8b9-43071e5c25db/be0921ba-9883-447b-bb37-2e54f09e5629.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4204,
+        "aniId": 34204,
+        "createdAt": "2020-10-12T16:05:39.000Z",
+        "updatedAt": "2021-06-03T14:05:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

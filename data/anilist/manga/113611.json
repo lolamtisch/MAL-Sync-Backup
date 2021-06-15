@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "アオハれ乙女",
+    "Aohare Girl"
+  ],
+  "authors": [
+    "Haru Hiwaki",
+    "Akari"
+  ],
+  "id": 113611,
+  "malId": null,
+  "type": "manga",
+  "title": "Aohare Otome",
+  "url": "https://anilist.co/manga/113611",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113611-LhkIRoVxzcR5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T03:50:41.000Z",
+  "updatedAt": "2021-06-08T03:50:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba3fd589-e12c-4b66-b713-c31ea86222ca": {
+        "authors": [
+          "Akari",
+          "Haru"
+        ],
+        "identifier": "ba3fd589-e12c-4b66-b713-c31ea86222ca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aohare Girl",
+        "url": "https://mangadex.org/title/ba3fd589-e12c-4b66-b713-c31ea86222ca",
+        "image": "https://uploads.mangadex.org/covers/ba3fd589-e12c-4b66-b713-c31ea86222ca/6e58d229-b511-444f-a389-86497db0e7d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113611,
+        "createdAt": "2020-10-12T16:21:55.000Z",
+        "updatedAt": "2021-06-08T06:42:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

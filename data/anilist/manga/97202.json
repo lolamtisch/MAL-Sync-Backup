@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "君が隣にいるなんて",
+    "Ano Natsu",
+    "Hatsukoi-eki de."
+  ],
+  "authors": [
+    "Umi Ishizawa"
+  ],
+  "id": 97202,
+  "malId": 98371,
+  "type": "manga",
+  "title": "Kimi ga Tonari ni Iru nante",
+  "url": "https://anilist.co/manga/97202",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97202-l1bjglbKdXKX.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:12.000Z",
+  "updatedAt": "2021-05-20T14:54:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0cc9fe54-8850-437e-8488-28921e26394e": {
+        "authors": [
+          "Ishizawa Umi"
+        ],
+        "identifier": "0cc9fe54-8850-437e-8488-28921e26394e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi ga Tonari ni Iru Nante",
+        "url": "https://mangadex.org/title/0cc9fe54-8850-437e-8488-28921e26394e",
+        "image": "https://uploads.mangadex.org/covers/0cc9fe54-8850-437e-8488-28921e26394e/2f60f9a0-d659-4651-96f5-623be73419b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98371,
+        "aniId": 97202,
+        "createdAt": "2020-10-12T16:10:14.000Z",
+        "updatedAt": "2021-06-04T23:15:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

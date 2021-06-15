@@ -1,0 +1,116 @@
+{
+  "altTitle": [
+    "5 Centimeters Per Second",
+    "秒速5センチメートル",
+    "5 cm per second - a chain of short stories about their distance",
+    "5 Centímetros por Segundo",
+    "5 cm na sekundę",
+    "Saniyede 5 Santimetre"
+  ],
+  "authors": [
+    "Makoto Shinkai",
+    "Yukiko Seike"
+  ],
+  "id": 53419,
+  "malId": 23419,
+  "type": "manga",
+  "title": "Byousoku 5 Centimeter",
+  "url": "https://anilist.co/manga/53419",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23419.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:37.000Z",
+  "updatedAt": "2021-06-12T12:38:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f62c51e-7185-4707-bddb-fa6887e99e97": {
+        "authors": [
+          "Seike Yukiko",
+          "Shinkai Makoto"
+        ],
+        "identifier": "8f62c51e-7185-4707-bddb-fa6887e99e97",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "5 Centimeters Per Second",
+        "url": "https://mangadex.org/title/8f62c51e-7185-4707-bddb-fa6887e99e97",
+        "image": "https://uploads.mangadex.org/covers/8f62c51e-7185-4707-bddb-fa6887e99e97/b8440caf-c06c-4a06-988c-b8be3f154989.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23419,
+        "aniId": 53419,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:39:16.000Z",
+        "deletedAt": null
+      },
+      "dd8217a2-bb2b-439b-a5e4-6876bc8bbd2c": {
+        "authors": [
+          "Unkown"
+        ],
+        "identifier": "dd8217a2-bb2b-439b-a5e4-6876bc8bbd2c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "15 Centimeter no Usotsuki",
+        "url": "https://mangadex.org/title/dd8217a2-bb2b-439b-a5e4-6876bc8bbd2c",
+        "image": "https://uploads.mangadex.org/covers/dd8217a2-bb2b-439b-a5e4-6876bc8bbd2c/a5daba20-d007-453d-9acc-f266033824f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23419,
+        "aniId": 53419,
+        "createdAt": "2020-10-12T16:16:26.000Z",
+        "updatedAt": "2021-06-06T22:36:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "byousoku_5_centimeter": {
+        "authors": [
+          "Shinkai",
+          "Makoto"
+        ],
+        "identifier": "byousoku_5_centimeter",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Byousoku 5 Centimeter",
+        "url": "https://manganelo.com/manga/byousoku_5_centimeter",
+        "image": "https://avt.mkklcdnv6.com/36/y/6-1583475632.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23419,
+        "aniId": 53419,
+        "createdAt": "2021-02-07T19:19:53.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "5-centimeters-per-second": {
+        "authors": [
+          "SEIKE Yukiko",
+          "SHINKAI Makoto"
+        ],
+        "identifier": "5-centimeters-per-second",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "5 Centimeters Per Second",
+        "url": "https://mangasee123.com/manga/5-Centimeters-Per-Second",
+        "image": "https://cover.nep.li/cover/5-Centimeters-Per-Second.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23419,
+        "aniId": 53419,
+        "createdAt": "2021-02-11T04:40:32.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

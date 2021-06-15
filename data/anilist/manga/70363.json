@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "カンピオーネ!",
+    "캄 피오 네!"
+  ],
+  "authors": [
+    "Jou Taketsuki",
+    "Tsugirou Sakamoto",
+    "Sikorsky"
+  ],
+  "id": 70363,
+  "malId": 40363,
+  "type": "manga",
+  "title": "Campione!",
+  "url": "https://anilist.co/manga/70363",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx70363-hfKGX8x1H64E.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:45.000Z",
+  "updatedAt": "2021-05-20T14:48:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "338f3cec-45bd-4aa7-8175-f051580a2b17": {
+        "authors": [
+          "Taketsuki Jou",
+          "Sakamoto Jirou"
+        ],
+        "identifier": "338f3cec-45bd-4aa7-8175-f051580a2b17",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Campione!",
+        "url": "https://mangadex.org/title/338f3cec-45bd-4aa7-8175-f051580a2b17",
+        "image": "https://uploads.mangadex.org/covers/338f3cec-45bd-4aa7-8175-f051580a2b17/cc9ccfa0-a541-44ec-ad52-8d2e80514da5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40363,
+        "aniId": 70363,
+        "createdAt": "2020-10-12T16:04:51.000Z",
+        "updatedAt": "2021-06-02T23:55:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hzon95581559095534": {
+        "authors": [],
+        "identifier": "hzon95581559095534",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Campione!",
+        "url": "https://manganelo.com/manga/hzon95581559095534",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/8253-campione.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40363,
+        "aniId": 70363,
+        "createdAt": "2020-10-12T16:23:28.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "campione": {
+        "authors": [
+          "TAKETSUKI Jou"
+        ],
+        "identifier": "campione",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Campione!",
+        "url": "https://fanfox.net/manga/campione/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11380/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40363,
+        "aniId": 70363,
+        "createdAt": "2021-01-27T09:08:46.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "campione": {
+        "authors": [
+          "SAKAMOTO Jirou",
+          "TAKETSUKI Jou"
+        ],
+        "identifier": "campione",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Campione!",
+        "url": "https://mangasee123.com/manga/Campione",
+        "image": "https://cover.nep.li/cover/Campione.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40363,
+        "aniId": 70363,
+        "createdAt": "2021-04-18T07:44:18.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

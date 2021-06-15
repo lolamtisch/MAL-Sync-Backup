@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "カヲルくんと花の森",
+    "Kaoru-kun to Hana no Mori"
+  ],
+  "authors": [
+    "Yuki Shiraishi"
+  ],
+  "id": 73567,
+  "malId": 43567,
+  "type": "manga",
+  "title": "Kaworu-kun to Hana no Mori",
+  "url": "https://anilist.co/manga/73567",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43567.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:57.000Z",
+  "updatedAt": "2021-05-20T14:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d186656d-1a6a-43ca-a609-073073055986": {
+        "authors": [
+          "Shiraishi Yuki"
+        ],
+        "identifier": "d186656d-1a6a-43ca-a609-073073055986",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaoru-kun to Hana no Mori",
+        "url": "https://mangadex.org/title/d186656d-1a6a-43ca-a609-073073055986",
+        "image": "https://uploads.mangadex.org/covers/d186656d-1a6a-43ca-a609-073073055986/ab7b83e8-862c-4a6f-953c-a4d77e52f3a6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43567,
+        "aniId": 73567,
+        "createdAt": "2020-10-12T16:05:38.000Z",
+        "updatedAt": "2021-06-03T13:56:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gyutte_shite_ii": {
+        "authors": [],
+        "identifier": "gyutte_shite_ii",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gyu...tte Shite Ii?",
+        "url": "https://manganelo.com/manga/gyutte_shite_ii",
+        "image": "https://avt.mkklcdnv6.com/46/n/5-1583473710.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43567,
+        "aniId": 73567,
+        "createdAt": "2020-10-12T16:23:12.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "kaorukun_to_hana_no_mori": {
+        "authors": [
+          "Shiraishi",
+          "Yuki"
+        ],
+        "identifier": "kaorukun_to_hana_no_mori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kaoru-Kun To Hana No Mori",
+        "url": "https://manganelo.com/manga/kaorukun_to_hana_no_mori",
+        "image": "https://avt.mkklcdnv6.com/35/d/8-1583479515.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43567,
+        "aniId": 73567,
+        "createdAt": "2021-01-17T14:03:37.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

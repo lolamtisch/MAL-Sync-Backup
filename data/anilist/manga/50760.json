@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "비 밀"
+  ],
+  "authors": [
+    "Yu-Rang Han"
+  ],
+  "id": 50760,
+  "malId": 20760,
+  "type": "manga",
+  "title": "Secret",
+  "url": "https://anilist.co/manga/50760",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20760.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:35.000Z",
+  "updatedAt": "2021-05-20T14:45:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b12b8aec-af62-4f5b-88e0-3f77d25c23cb": {
+        "authors": [
+          "HAN Yu-Rang"
+        ],
+        "identifier": "b12b8aec-af62-4f5b-88e0-3f77d25c23cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secret",
+        "url": "https://mangadex.org/title/b12b8aec-af62-4f5b-88e0-3f77d25c23cb",
+        "image": "https://uploads.mangadex.org/covers/b12b8aec-af62-4f5b-88e0-3f77d25c23cb/914a2c9c-e2fd-471a-9a16-8d9e005d0dcb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20760,
+        "aniId": 50760,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:24:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

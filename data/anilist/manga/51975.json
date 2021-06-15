@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "幼なじみ",
+    "Osananajimi"
+  ],
+  "authors": [
+    "Homare Mikokuno"
+  ],
+  "id": 51975,
+  "malId": 21975,
+  "type": "manga",
+  "title": "Osana-Najimi",
+  "url": "https://anilist.co/manga/51975",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21975.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:45.000Z",
+  "updatedAt": "2021-06-06T16:50:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "76b012ca-40aa-4b4f-b756-18008e03e007": {
+        "authors": [
+          "MIKOKUNO Homare"
+        ],
+        "identifier": "76b012ca-40aa-4b4f-b756-18008e03e007",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Osananajimi",
+        "url": "https://mangadex.org/title/76b012ca-40aa-4b4f-b756-18008e03e007",
+        "image": "https://uploads.mangadex.org/covers/76b012ca-40aa-4b4f-b756-18008e03e007/696bc7c6-a87a-4dfe-b1a9-affc6431bd99.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21975,
+        "aniId": 51975,
+        "createdAt": "2020-10-12T16:15:46.000Z",
+        "updatedAt": "2021-06-06T18:14:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "よしわら花おぼろ"
+  ],
+  "authors": [
+    "Sawaki Otonaka"
+  ],
+  "id": 57577,
+  "malId": 27577,
+  "type": "manga",
+  "title": "Yoshiwara Hana Oboro",
+  "url": "https://anilist.co/manga/57577",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx57577-3fgufGuGnZ0b.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:27.000Z",
+  "updatedAt": "2021-05-20T14:47:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "50439cb6-53ef-40bf-aa76-ea81c8d93a45": {
+        "authors": [
+          "Otonaka Sawaki"
+        ],
+        "identifier": "50439cb6-53ef-40bf-aa76-ea81c8d93a45",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoshiwara Hana Oboro",
+        "url": "https://mangadex.org/title/50439cb6-53ef-40bf-aa76-ea81c8d93a45",
+        "image": "https://uploads.mangadex.org/covers/50439cb6-53ef-40bf-aa76-ea81c8d93a45/61107896-786b-4787-86bb-de39943484bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27577,
+        "aniId": 57577,
+        "createdAt": "2020-10-12T16:03:40.000Z",
+        "updatedAt": "2021-06-02T15:42:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yoshiwara-hana-oboro": {
+        "authors": [
+          "OTONAKA Sawaki"
+        ],
+        "identifier": "yoshiwara-hana-oboro",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yoshiwara Hana Oboro",
+        "url": "https://mangasee123.com/manga/Yoshiwara-Hana-Oboro",
+        "image": "https://cover.nep.li/cover/Yoshiwara-Hana-Oboro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27577,
+        "aniId": 57577,
+        "createdAt": "2021-04-14T06:45:50.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

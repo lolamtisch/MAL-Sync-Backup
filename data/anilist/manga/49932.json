@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "인형歌;인형가",
+    "Dollhouse",
+    "Doll song"
+  ],
+  "authors": [
+    "Sun-Young Lee"
+  ],
+  "id": 49932,
+  "malId": 19932,
+  "type": "manga",
+  "title": "Song of the Doll",
+  "url": "https://anilist.co/manga/49932",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19932.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:25.000Z",
+  "updatedAt": "2021-05-20T14:45:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "587153b5-5f1f-431f-b945-cef27101df12": {
+        "authors": [
+          "Lee Sun-Young"
+        ],
+        "identifier": "587153b5-5f1f-431f-b945-cef27101df12",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Song of the Doll",
+        "url": "https://mangadex.org/title/587153b5-5f1f-431f-b945-cef27101df12",
+        "image": "https://uploads.mangadex.org/covers/587153b5-5f1f-431f-b945-cef27101df12/69b8b6d3-9122-4316-8f0a-55a5b5fdd037.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19932,
+        "aniId": 49932,
+        "createdAt": "2020-10-12T16:04:11.000Z",
+        "updatedAt": "2021-06-02T19:21:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "iw921901": {
+        "authors": [],
+        "identifier": "iw921901",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Song Of The Sky Pacers",
+        "url": "https://manganelo.com/manga/iw921901",
+        "image": "https://avt.mkklcdnv6.com/23/p/20-1583501930.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19932,
+        "aniId": 49932,
+        "createdAt": "2020-10-12T16:23:38.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

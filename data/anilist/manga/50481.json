@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "オレンジイエロー",
+    "Orange & Yellow",
+    "Orange and Yellow",
+    "Tear Potion",
+    "Katakoi Hime"
+  ],
+  "authors": [
+    "Hiyori Otsu"
+  ],
+  "id": 50481,
+  "malId": 20481,
+  "type": "manga",
+  "title": "Orange Yellow",
+  "url": "https://anilist.co/manga/50481",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50481-xEZg6VeUyHRK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:32.000Z",
+  "updatedAt": "2021-05-20T14:45:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6461cac-f5cd-4a2f-ab55-de125769f495": {
+        "authors": [
+          "OTSU Hiyori"
+        ],
+        "identifier": "d6461cac-f5cd-4a2f-ab55-de125769f495",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Orange Yellow",
+        "url": "https://mangadex.org/title/d6461cac-f5cd-4a2f-ab55-de125769f495",
+        "image": "https://uploads.mangadex.org/covers/d6461cac-f5cd-4a2f-ab55-de125769f495/161ffd05-a5fe-434b-bae7-2650339f0271.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20481,
+        "aniId": 50481,
+        "createdAt": "2020-10-12T16:05:47.000Z",
+        "updatedAt": "2021-06-03T14:57:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

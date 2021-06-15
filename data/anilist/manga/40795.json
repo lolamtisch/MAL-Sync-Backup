@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Study",
+    "S.t.u.d.y"
+  ],
+  "authors": [
+    "Yue Takasuka"
+  ],
+  "id": 40795,
+  "malId": 10795,
+  "type": "manga",
+  "title": "Study",
+  "url": "https://anilist.co/manga/40795",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10795.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T20:51:18.000Z",
+  "updatedAt": "2021-06-04T20:51:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f86572a-b84f-42ad-90f8-c988ded0edcd": {
+        "authors": [
+          "TAKASUKA Yue"
+        ],
+        "identifier": "2f86572a-b84f-42ad-90f8-c988ded0edcd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Study",
+        "url": "https://mangadex.org/title/2f86572a-b84f-42ad-90f8-c988ded0edcd",
+        "image": "https://uploads.mangadex.org/covers/2f86572a-b84f-42ad-90f8-c988ded0edcd/12550dc5-7613-4b60-b5e5-e1bc17a1297b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10795,
+        "aniId": 40795,
+        "createdAt": "2020-10-12T16:09:51.000Z",
+        "updatedAt": "2021-06-04T21:00:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

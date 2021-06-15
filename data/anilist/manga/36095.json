@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "坂本係"
+  ],
+  "authors": [
+    "Yoshitomo Watanabe"
+  ],
+  "id": 36095,
+  "malId": 6095,
+  "type": "manga",
+  "title": "Sakamoto Gakari",
+  "url": "https://anilist.co/manga/36095",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6095.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:38.000Z",
+  "updatedAt": "2021-05-20T14:39:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "03e11cfd-32c9-4873-a1d1-7f71fad05652": {
+        "authors": [
+          "Watanabe Yoshitomo"
+        ],
+        "identifier": "03e11cfd-32c9-4873-a1d1-7f71fad05652",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakamoto Gakari",
+        "url": "https://mangadex.org/title/03e11cfd-32c9-4873-a1d1-7f71fad05652",
+        "image": "https://uploads.mangadex.org/covers/03e11cfd-32c9-4873-a1d1-7f71fad05652/069f57da-0a40-49cd-9561-9025fac470c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6095,
+        "aniId": 36095,
+        "createdAt": "2020-10-12T16:05:16.000Z",
+        "updatedAt": "2021-06-03T11:24:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sakamoto_gakari": {
+        "authors": [],
+        "identifier": "sakamoto_gakari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sakamoto Gakari",
+        "url": "https://manganelo.com/manga/sakamoto_gakari",
+        "image": "https://avt.mkklcdnv6.com/6/v/5-1583472131.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6095,
+        "aniId": 36095,
+        "createdAt": "2020-10-12T16:25:17.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

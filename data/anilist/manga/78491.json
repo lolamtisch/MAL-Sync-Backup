@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "菜々ちゃんは俺のもの",
+    "Nana-chan is Mine!"
+  ],
+  "authors": [
+    "Sumiko Kamimura"
+  ],
+  "id": 78491,
+  "malId": 48491,
+  "type": "manga",
+  "title": "Nana-chan wa Ore no Mono",
+  "url": "https://anilist.co/manga/78491",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48491.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:39.000Z",
+  "updatedAt": "2021-05-20T14:49:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f6ceeef4-bd7f-41e3-81c3-0339a1917ab0": {
+        "authors": [
+          "Kamimura Sumiko"
+        ],
+        "identifier": "f6ceeef4-bd7f-41e3-81c3-0339a1917ab0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nana-chan wa Ore no Mono",
+        "url": "https://mangadex.org/title/f6ceeef4-bd7f-41e3-81c3-0339a1917ab0",
+        "image": "https://uploads.mangadex.org/covers/f6ceeef4-bd7f-41e3-81c3-0339a1917ab0/0a91b81e-840c-4dc9-845a-1770fa3ee042.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48491,
+        "aniId": 78491,
+        "createdAt": "2020-10-12T16:06:03.000Z",
+        "updatedAt": "2021-06-03T16:50:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

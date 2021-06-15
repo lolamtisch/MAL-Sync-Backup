@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "지금의 우리는",
+    "Now We Are ",
+    "Us, Right Now "
+  ],
+  "authors": [
+    "Bboong"
+  ],
+  "id": 107152,
+  "malId": null,
+  "type": "manga",
+  "title": "Jigeumui Urineun",
+  "url": "https://anilist.co/manga/107152",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107152-kQdZ9gIy6FRq.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-08T06:24:17.000Z",
+  "updatedAt": "2021-06-08T06:24:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d51fe56b-d777-45f1-8343-5bbe48732c0d": {
+        "authors": [
+          "뿡"
+        ],
+        "identifier": "d51fe56b-d777-45f1-8343-5bbe48732c0d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Us Right Now",
+        "url": "https://mangadex.org/title/d51fe56b-d777-45f1-8343-5bbe48732c0d",
+        "image": "https://uploads.mangadex.org/covers/d51fe56b-d777-45f1-8343-5bbe48732c0d/63849c37-1b13-4988-855f-a3966c6e3594.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 107152,
+        "createdAt": "2020-10-24T22:28:41.000Z",
+        "updatedAt": "2021-06-08T06:56:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

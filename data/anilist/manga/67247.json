@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ベツキス",
+    "Another Kiss",
+    "Betsu Kiss"
+  ],
+  "authors": [
+    "Aki Yurihara"
+  ],
+  "id": 67247,
+  "malId": 37247,
+  "type": "manga",
+  "title": "Betsukiss",
+  "url": "https://anilist.co/manga/67247",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx67247-jdDBgCkdoJ5N.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:31.000Z",
+  "updatedAt": "2021-05-20T14:48:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3078631c-c342-4bfd-b0b5-c9b1218f1dc8": {
+        "authors": [
+          "Yurihara Aki"
+        ],
+        "identifier": "3078631c-c342-4bfd-b0b5-c9b1218f1dc8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Betsukiss",
+        "url": "https://mangadex.org/title/3078631c-c342-4bfd-b0b5-c9b1218f1dc8",
+        "image": "https://uploads.mangadex.org/covers/3078631c-c342-4bfd-b0b5-c9b1218f1dc8/994de844-7cd4-48d8-8cac-c4bf3ccf5277.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37247,
+        "aniId": 67247,
+        "createdAt": "2020-10-12T16:04:38.000Z",
+        "updatedAt": "2021-06-02T22:18:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "betsukiss": {
+        "authors": [],
+        "identifier": "betsukiss",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Betsukiss",
+        "url": "https://manganelo.com/manga/betsukiss",
+        "image": "https://avt.mkklcdnv6.com/11/n/6-1583474573.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37247,
+        "aniId": 67247,
+        "createdAt": "2020-10-12T16:22:15.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

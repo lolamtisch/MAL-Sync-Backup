@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "My Favorite Carrera",
+    "Her Carrera",
+    "彼女のカレラ"
+  ],
+  "authors": [
+    "Asamiya, Kia"
+  ],
+  "id": 6911,
+  "type": "manga",
+  "title": "Kanojo no Carrera",
+  "url": "https://myanimelist.net/manga/6911/Kanojo_no_Carrera",
+  "image": "https://cdn.myanimelist.net/images/manga/3/170533.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:11.000Z",
+  "updatedAt": "2020-12-31T23:36:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "843ca1ad-371d-4112-a75c-6db0d86547bd": {
+        "authors": [
+          "Asamiya Kia"
+        ],
+        "identifier": "843ca1ad-371d-4112-a75c-6db0d86547bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanojo no Carrera",
+        "url": "https://mangadex.org/title/843ca1ad-371d-4112-a75c-6db0d86547bd",
+        "image": "https://uploads.mangadex.org/covers/843ca1ad-371d-4112-a75c-6db0d86547bd/db5e2e31-fec3-4046-b3a9-ea83ff2b567d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6911,
+        "aniId": 36911,
+        "createdAt": "2020-10-12T16:03:56.000Z",
+        "updatedAt": "2021-06-02T17:34:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kcox41931574942770": {
+        "authors": [],
+        "identifier": "kcox41931574942770",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kanojo No Carrera",
+        "url": "https://manganelo.com/manga/kcox41931574942770",
+        "image": "https://avt.mkklcdnv6.com/38/s/3-1583469199.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6911,
+        "aniId": 36911,
+        "createdAt": "2020-10-12T16:23:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kanojo_no_carrera": {
+        "authors": [
+          "ASAMIYA Kia"
+        ],
+        "identifier": "kanojo_no_carrera",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kanojo no Carrera",
+        "url": "https://fanfox.net/manga/kanojo_no_carrera/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5639/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6911,
+        "aniId": 36911,
+        "createdAt": "2020-12-31T23:31:19.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

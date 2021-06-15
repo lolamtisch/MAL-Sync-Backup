@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "こいわかば"
+  ],
+  "authors": [
+    "Kaname Hirama"
+  ],
+  "id": 55948,
+  "malId": 25948,
+  "type": "manga",
+  "title": "Koi Wakaba",
+  "url": "https://anilist.co/manga/55948",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25948.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T17:20:27.000Z",
+  "updatedAt": "2021-06-04T17:20:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "50d6f11a-967c-4aa1-8988-aa804213e5d5": {
+        "authors": [
+          "Hirama Kaname"
+        ],
+        "identifier": "50d6f11a-967c-4aa1-8988-aa804213e5d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi Wakaba",
+        "url": "https://mangadex.org/title/50d6f11a-967c-4aa1-8988-aa804213e5d5",
+        "image": "https://uploads.mangadex.org/covers/50d6f11a-967c-4aa1-8988-aa804213e5d5/b97c867a-fc9a-4039-b4c5-432a067c84c4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25948,
+        "aniId": 55948,
+        "createdAt": "2020-10-12T16:09:20.000Z",
+        "updatedAt": "2021-06-04T18:34:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

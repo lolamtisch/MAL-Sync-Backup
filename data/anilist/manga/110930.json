@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "BOYS OF THE DEAD"
+  ],
+  "authors": [
+    "Douji Tomita"
+  ],
+  "id": 110930,
+  "malId": 128886,
+  "type": "manga",
+  "title": "Boys of the Dead",
+  "url": "https://anilist.co/manga/110930",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110930-Fcx1wEXDmon7.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-07T02:49:29.000Z",
+  "updatedAt": "2021-06-07T02:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2951cc6c-592d-4064-a736-be2f931157ae": {
+        "authors": [
+          "Tomita Douji"
+        ],
+        "identifier": "2951cc6c-592d-4064-a736-be2f931157ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boys of the Dead",
+        "url": "https://mangadex.org/title/2951cc6c-592d-4064-a736-be2f931157ae",
+        "image": "https://uploads.mangadex.org/covers/2951cc6c-592d-4064-a736-be2f931157ae/89f3e684-00d0-4c7d-9162-020a2f999768.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 128886,
+        "aniId": 110930,
+        "createdAt": "2020-10-12T16:16:52.000Z",
+        "updatedAt": "2021-06-07T08:10:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

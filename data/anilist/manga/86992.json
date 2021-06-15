@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "やさしくおしえて"
+  ],
+  "authors": [
+    "Gihou Ido"
+  ],
+  "id": 86992,
+  "malId": 91747,
+  "type": "manga",
+  "title": "Yasashiku Oshiete",
+  "url": "https://anilist.co/manga/86992",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86992-qNuKqjzn8jMi.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:37.000Z",
+  "updatedAt": "2021-05-20T14:53:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f10d572c-1f77-4708-a7e4-fd1dd8e528e4": {
+        "authors": [
+          "Ido Gihou"
+        ],
+        "identifier": "f10d572c-1f77-4708-a7e4-fd1dd8e528e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yasashiku Oshiete",
+        "url": "https://mangadex.org/title/f10d572c-1f77-4708-a7e4-fd1dd8e528e4",
+        "image": "https://uploads.mangadex.org/covers/f10d572c-1f77-4708-a7e4-fd1dd8e528e4/52324db4-ca0d-4393-b1f1-b23c651738df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91747,
+        "aniId": 86992,
+        "createdAt": "2020-10-12T16:09:08.000Z",
+        "updatedAt": "2021-06-04T15:27:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

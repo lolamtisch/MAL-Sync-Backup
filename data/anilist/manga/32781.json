@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "大正夢幻奇譚",
+    "Taisho Dream Stories",
+    "Taisho Era Chronicles"
+  ],
+  "authors": [
+    "Yuu Higuri"
+  ],
+  "id": 32781,
+  "malId": 2781,
+  "type": "manga",
+  "title": "Taishou Mugen Kitan",
+  "url": "https://anilist.co/manga/32781",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32781-PJ6JOe5tasXX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "745e0257-dd6a-457c-bca1-ca25e077a5d1": {
+        "authors": [
+          "Higuri You"
+        ],
+        "identifier": "745e0257-dd6a-457c-bca1-ca25e077a5d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Taishou Mugen Kitan",
+        "url": "https://mangadex.org/title/745e0257-dd6a-457c-bca1-ca25e077a5d1",
+        "image": "https://uploads.mangadex.org/covers/745e0257-dd6a-457c-bca1-ca25e077a5d1/495c9843-0837-4854-b1d2-f2df896bafe4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2781,
+        "aniId": 32781,
+        "createdAt": "2020-10-12T16:03:34.000Z",
+        "updatedAt": "2021-06-02T14:55:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "taishou_mugen_kitan": {
+        "authors": [],
+        "identifier": "taishou_mugen_kitan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Taishou Mugen Kitan",
+        "url": "https://manganelo.com/manga/taishou_mugen_kitan",
+        "image": "https://avt.mkklcdnv6.com/15/c/10-1583482716.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2781,
+        "aniId": 32781,
+        "createdAt": "2020-10-12T16:25:37.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

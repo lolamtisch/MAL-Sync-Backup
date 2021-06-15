@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "麦の惑星",
+    "Planet of the Wheat"
+  ],
+  "authors": [
+    "Shino Torino"
+  ],
+  "id": 115831,
+  "malId": null,
+  "type": "manga",
+  "title": "Mugi no Wakusei",
+  "url": "https://anilist.co/manga/115831",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115831-r2MA6dyY4N6Y.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T22:20:26.000Z",
+  "updatedAt": "2021-06-07T22:20:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6d9b931-83fe-434f-b01d-60302ca3a353": {
+        "authors": [
+          "Torino Shino"
+        ],
+        "identifier": "b6d9b931-83fe-434f-b01d-60302ca3a353",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Planet of Wheat",
+        "url": "https://mangadex.org/title/b6d9b931-83fe-434f-b01d-60302ca3a353",
+        "image": "https://uploads.mangadex.org/covers/b6d9b931-83fe-434f-b01d-60302ca3a353/d4e2b2af-b9e0-4c6f-85ae-dee69dcdad55.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 115831,
+        "createdAt": "2020-10-12T16:19:30.000Z",
+        "updatedAt": "2021-06-08T00:25:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

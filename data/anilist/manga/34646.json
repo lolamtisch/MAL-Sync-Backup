@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "パンダのポム",
+    "Pom the Panda"
+  ],
+  "authors": [
+    "Junichi Saiki"
+  ],
+  "id": 34646,
+  "malId": 4646,
+  "type": "manga",
+  "title": "Panda no Pom",
+  "url": "https://anilist.co/manga/34646",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4646.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1d0068f1-c17c-4b82-bc2f-11e529898838": {
+        "authors": [
+          "Junichi Saeki"
+        ],
+        "identifier": "1d0068f1-c17c-4b82-bc2f-11e529898838",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pom the Panda",
+        "url": "https://mangadex.org/title/1d0068f1-c17c-4b82-bc2f-11e529898838",
+        "image": "https://uploads.mangadex.org/covers/1d0068f1-c17c-4b82-bc2f-11e529898838/88f1d79d-4a29-48ff-a73d-4f34653dd1d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4646,
+        "aniId": 34646,
+        "createdAt": "2020-10-12T16:06:46.000Z",
+        "updatedAt": "2021-06-03T21:59:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

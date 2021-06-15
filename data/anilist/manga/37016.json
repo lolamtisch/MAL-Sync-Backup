@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "泣かせちゃおーか",
+    "Nakase Chaooka",
+    "Nakase Chao-ka",
+    "Shall I Make Her Cry?"
+  ],
+  "authors": [
+    "Akane Kasuga"
+  ],
+  "id": 37016,
+  "malId": 7016,
+  "type": "manga",
+  "title": "Naka Secha Ooka",
+  "url": "https://anilist.co/manga/37016",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7016.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:45.000Z",
+  "updatedAt": "2021-06-04T20:49:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc24c33d-f44a-4175-90b4-bf9a677fcdd4": {
+        "authors": [
+          "KASUGA Akane"
+        ],
+        "identifier": "fc24c33d-f44a-4175-90b4-bf9a677fcdd4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nakasechao ka.",
+        "url": "https://mangadex.org/title/fc24c33d-f44a-4175-90b4-bf9a677fcdd4",
+        "image": "https://uploads.mangadex.org/covers/fc24c33d-f44a-4175-90b4-bf9a677fcdd4/6a8a5c8c-7161-4635-a361-85a0afa4c483.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7016,
+        "aniId": 37016,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:59:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "naka_secha_ooka": {
+        "authors": [],
+        "identifier": "naka_secha_ooka",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Naka Secha Ooka",
+        "url": "https://manganelo.com/manga/naka_secha_ooka",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/14755-naka_secha_ooka.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7016,
+        "aniId": 37016,
+        "createdAt": "2020-10-12T16:24:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

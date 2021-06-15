@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "シーラカンス",
+    "Shiirakansu"
+  ],
+  "authors": [
+    "Kayoko Shimotsuki"
+  ],
+  "id": 39777,
+  "malId": 9777,
+  "type": "manga",
+  "title": "Coelacanth",
+  "url": "https://anilist.co/manga/39777",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39777-bvPMdftowbzr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:58.000Z",
+  "updatedAt": "2021-05-20T14:40:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4e48f5bd-6c1b-4f40-8d09-5bbc3120b9ad": {
+        "authors": [
+          "Shimotsuki Kayoko"
+        ],
+        "identifier": "4e48f5bd-6c1b-4f40-8d09-5bbc3120b9ad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Coelacanth",
+        "url": "https://mangadex.org/title/4e48f5bd-6c1b-4f40-8d09-5bbc3120b9ad",
+        "image": "https://uploads.mangadex.org/covers/4e48f5bd-6c1b-4f40-8d09-5bbc3120b9ad/908e3545-65ac-457d-ab58-253aef88783a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9777,
+        "aniId": 39777,
+        "createdAt": "2020-10-12T16:03:19.000Z",
+        "updatedAt": "2021-06-02T13:09:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "coelacanth": {
+        "authors": [
+          "SHIMOTSUKI Kayoko"
+        ],
+        "identifier": "coelacanth",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Coelacanth",
+        "url": "https://mangasee123.com/manga/Coelacanth",
+        "image": "https://cover.nep.li/cover/Coelacanth.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9777,
+        "aniId": 39777,
+        "createdAt": "2021-03-24T01:45:44.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

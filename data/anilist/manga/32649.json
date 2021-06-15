@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Dog and Policeman",
+    "Inu to Omawarisan"
+  ],
+  "authors": [
+    "Tamaki Kirishima"
+  ],
+  "id": 32649,
+  "malId": 2649,
+  "type": "manga",
+  "title": "Inu to Omawari-san",
+  "url": "https://anilist.co/manga/32649",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2649.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a9f7ade2-d7ab-42d6-aac1-a40c3d9250c3": {
+        "authors": [
+          "Kirishima Tamaki"
+        ],
+        "identifier": "a9f7ade2-d7ab-42d6-aac1-a40c3d9250c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inu to Omawari-san",
+        "url": "https://mangadex.org/title/a9f7ade2-d7ab-42d6-aac1-a40c3d9250c3",
+        "image": "https://uploads.mangadex.org/covers/a9f7ade2-d7ab-42d6-aac1-a40c3d9250c3/ee161403-9cb0-4a78-a533-5fba5e328bb9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2649,
+        "aniId": 32649,
+        "createdAt": "2020-10-12T16:13:31.000Z",
+        "updatedAt": "2021-06-05T22:02:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "uv918221": {
+        "authors": [],
+        "identifier": "uv918221",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Pretty Policeman",
+        "url": "https://manganelo.com/manga/uv918221",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21859-uv918221.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2649,
+        "aniId": 32649,
+        "createdAt": "2020-10-12T16:25:59.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

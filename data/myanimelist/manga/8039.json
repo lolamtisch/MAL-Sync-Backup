@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "The Name of the Flower",
+    "花の名前"
+  ],
+  "authors": [
+    "Saitou, Ken"
+  ],
+  "id": 8039,
+  "type": "manga",
+  "title": "Hana no Namae",
+  "url": "https://myanimelist.net/manga/8039/Hana_no_Namae",
+  "image": "https://cdn.myanimelist.net/images/manga/1/178420.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:17.000Z",
+  "updatedAt": "2021-04-23T16:26:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "76cff121-36ce-408f-88c0-415e4a69999b": {
+        "authors": [
+          "Saitou Ken"
+        ],
+        "identifier": "76cff121-36ce-408f-88c0-415e4a69999b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana no Namae",
+        "url": "https://mangadex.org/title/76cff121-36ce-408f-88c0-415e4a69999b",
+        "image": "https://uploads.mangadex.org/covers/76cff121-36ce-408f-88c0-415e4a69999b/1f730c81-8f11-4347-8640-68d3863dac37.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8039,
+        "aniId": 38039,
+        "createdAt": "2020-10-12T16:09:22.000Z",
+        "updatedAt": "2021-06-04T17:06:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hana_no_namae": {
+        "authors": [],
+        "identifier": "hana_no_namae",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hana No Namae",
+        "url": "https://manganelo.com/manga/hana_no_namae",
+        "image": "https://avt.mkklcdnv6.com/1/b/9-1583482211.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8039,
+        "aniId": 38039,
+        "createdAt": "2020-10-12T16:23:15.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

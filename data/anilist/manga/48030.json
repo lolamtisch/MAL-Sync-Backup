@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "暫定、恋人"
+  ],
+  "authors": [
+    "Touko Akiba"
+  ],
+  "id": 48030,
+  "malId": 18030,
+  "type": "manga",
+  "title": "Zantei, Koibito",
+  "url": "https://anilist.co/manga/48030",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18030.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:09.000Z",
+  "updatedAt": "2021-05-20T14:45:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d752b139-feae-4d8f-b9eb-7d9cd13486fe": {
+        "authors": [
+          "Akiba Touko"
+        ],
+        "identifier": "d752b139-feae-4d8f-b9eb-7d9cd13486fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zantei, Koibito",
+        "url": "https://mangadex.org/title/d752b139-feae-4d8f-b9eb-7d9cd13486fe",
+        "image": "https://uploads.mangadex.org/covers/d752b139-feae-4d8f-b9eb-7d9cd13486fe/3c54cffc-bada-497d-a33b-1ace23e61ebc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18030,
+        "aniId": 48030,
+        "createdAt": "2020-10-12T16:04:23.000Z",
+        "updatedAt": "2021-06-02T20:42:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

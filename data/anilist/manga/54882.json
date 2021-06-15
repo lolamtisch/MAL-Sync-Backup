@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Masami Kurumada"
+  ],
+  "id": 54882,
+  "malId": 24882,
+  "type": "manga",
+  "title": "Evil Crusher Maya",
+  "url": "https://anilist.co/manga/54882",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24882.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:48.000Z",
+  "updatedAt": "2021-05-20T14:46:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d60b39e0-3972-4c47-969b-9191f6944f38": {
+        "authors": [
+          "Kurumada Masami"
+        ],
+        "identifier": "d60b39e0-3972-4c47-969b-9191f6944f38",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Evil Crusher Maya",
+        "url": "https://mangadex.org/title/d60b39e0-3972-4c47-969b-9191f6944f38",
+        "image": "https://uploads.mangadex.org/covers/d60b39e0-3972-4c47-969b-9191f6944f38/fb86ccc2-e295-4407-b7e7-fa568f3ec67f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24882,
+        "aniId": 54882,
+        "createdAt": "2020-10-12T16:10:03.000Z",
+        "updatedAt": "2021-06-04T21:58:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

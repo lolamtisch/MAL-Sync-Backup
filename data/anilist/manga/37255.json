@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Love Songs",
+    "ラブソングス",
+    "From the Right",
+    "Sacrifice Zipper"
+  ],
+  "authors": [
+    "Mika Sadahiro"
+  ],
+  "id": 37255,
+  "malId": 7255,
+  "type": "manga",
+  "title": "Love Songs",
+  "url": "https://anilist.co/manga/37255",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37255-CjFYZiHlnrjm.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:39:46.000Z",
+  "updatedAt": "2021-05-20T14:39:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "07d69599-62a9-4461-ad2e-acf3aa6244b9": {
+        "authors": [
+          "San Qing",
+          "Xin Bu"
+        ],
+        "identifier": "07d69599-62a9-4461-ad2e-acf3aa6244b9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nine Songs",
+        "url": "https://mangadex.org/title/07d69599-62a9-4461-ad2e-acf3aa6244b9",
+        "image": "https://uploads.mangadex.org/covers/07d69599-62a9-4461-ad2e-acf3aa6244b9/9e2e135d-b130-4d1a-b497-bfd7b18a57f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7255,
+        "aniId": 37255,
+        "createdAt": "2020-10-12T16:18:47.000Z",
+        "updatedAt": "2021-06-07T20:12:28.000Z",
+        "deletedAt": null
+      },
+      "ac74d4cd-3956-490b-8172-c2c7fe2d27c6": {
+        "authors": [
+          "Sadahiro Mika"
+        ],
+        "identifier": "ac74d4cd-3956-490b-8172-c2c7fe2d27c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Songs",
+        "url": "https://mangadex.org/title/ac74d4cd-3956-490b-8172-c2c7fe2d27c6",
+        "image": "https://uploads.mangadex.org/covers/ac74d4cd-3956-490b-8172-c2c7fe2d27c6/7d87c27e-d19a-4e09-a02c-7158131c4435.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7255,
+        "aniId": 37255,
+        "createdAt": "2020-11-17T10:15:06.000Z",
+        "updatedAt": "2021-06-08T07:28:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hr922431": {
+        "authors": [],
+        "identifier": "hr922431",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nine Songs",
+        "url": "https://manganelo.com/manga/hr922431",
+        "image": "https://avt.mkklcdnv6.com/43/q/20-1584006491.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7255,
+        "aniId": 37255,
+        "createdAt": "2020-10-12T16:23:25.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

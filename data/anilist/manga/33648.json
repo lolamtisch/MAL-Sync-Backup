@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "七人のナナ",
+    "Seven of Seven"
+  ],
+  "authors": [
+    "Yasuhiro Imagawa",
+    "Asuza Kunihiro"
+  ],
+  "id": 33648,
+  "malId": 3648,
+  "type": "manga",
+  "title": "Shichinin no Nana",
+  "url": "https://anilist.co/manga/33648",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3648.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:15.000Z",
+  "updatedAt": "2021-05-20T14:38:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd5ca3ed-b379-44af-b8ab-66b851933351": {
+        "authors": [
+          "Kunihiro Azusa",
+          "Imagawa Yasuhiro"
+        ],
+        "identifier": "cd5ca3ed-b379-44af-b8ab-66b851933351",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shichinin no Nana",
+        "url": "https://mangadex.org/title/cd5ca3ed-b379-44af-b8ab-66b851933351",
+        "image": "https://uploads.mangadex.org/covers/cd5ca3ed-b379-44af-b8ab-66b851933351/86724f6a-5907-4fb5-89f3-13630e769a23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3648,
+        "aniId": 33648,
+        "createdAt": "2020-10-12T16:16:39.000Z",
+        "updatedAt": "2021-06-07T00:35:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

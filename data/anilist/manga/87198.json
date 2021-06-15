@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Trinity Wonder",
+    "트리니티 원더"
+  ],
+  "authors": [
+    "Geuk-Jin Jeon",
+    "Jin-Hwan Park"
+  ],
+  "id": 87198,
+  "malId": null,
+  "type": "manga",
+  "title": "Trinity Wonder",
+  "url": "https://anilist.co/manga/87198",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57198-qJiAKVyk4SvD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T00:13:08.000Z",
+  "updatedAt": "2021-05-23T00:13:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1fe1f35-1144-4aac-910f-9e2ce92dccf4": {
+        "authors": [
+          "Jeon Geuk-jin",
+          "Park Jin-hwan"
+        ],
+        "identifier": "e1fe1f35-1144-4aac-910f-9e2ce92dccf4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trinity Wonder",
+        "url": "https://mangadex.org/title/e1fe1f35-1144-4aac-910f-9e2ce92dccf4",
+        "image": "https://uploads.mangadex.org/covers/e1fe1f35-1144-4aac-910f-9e2ce92dccf4/84da2647-8ea4-4cf1-b975-a6a1bf45b10b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 87198,
+        "createdAt": "2020-10-12T16:09:41.000Z",
+        "updatedAt": "2021-06-04T19:27:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "피노키오"
+  ],
+  "authors": [
+    "Maru"
+  ],
+  "id": 85431,
+  "malId": 58145,
+  "type": "manga",
+  "title": "Pinocchio",
+  "url": "https://anilist.co/manga/85431",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55431.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:32.000Z",
+  "updatedAt": "2021-05-20T14:50:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "21617ea8-30cc-4ba4-935f-5c5560fecb64": {
+        "authors": [
+          "Maru (마루)"
+        ],
+        "identifier": "21617ea8-30cc-4ba4-935f-5c5560fecb64",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pinocchio",
+        "url": "https://mangadex.org/title/21617ea8-30cc-4ba4-935f-5c5560fecb64",
+        "image": "https://uploads.mangadex.org/covers/21617ea8-30cc-4ba4-935f-5c5560fecb64/c65c4d7c-e4f8-4346-91a2-5669c1c2e677.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58145,
+        "aniId": 85431,
+        "createdAt": "2020-10-12T16:03:27.000Z",
+        "updatedAt": "2021-06-02T14:08:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "pinocchio": {
+        "authors": [
+          "Maru"
+        ],
+        "identifier": "pinocchio",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Pinocchio",
+        "url": "https://mangasee123.com/manga/Pinocchio",
+        "image": "https://cover.nep.li/cover/Pinocchio.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58145,
+        "aniId": 85431,
+        "createdAt": "2021-04-13T00:15:51.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

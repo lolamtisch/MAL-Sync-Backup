@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Fire of Love",
+    "恋火",
+    "Koi I Bi",
+    "Ko-i-bi"
+  ],
+  "authors": [
+    "Ryou Sakurai"
+  ],
+  "id": 35127,
+  "malId": 5127,
+  "type": "manga",
+  "title": "Koibi",
+  "url": "https://anilist.co/manga/35127",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5127.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc712335-a969-4251-ba07-b8b9d5d2c2e7": {
+        "authors": [
+          "Sakurai Ryou"
+        ],
+        "identifier": "cc712335-a969-4251-ba07-b8b9d5d2c2e7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koibi",
+        "url": "https://mangadex.org/title/cc712335-a969-4251-ba07-b8b9d5d2c2e7",
+        "image": "https://uploads.mangadex.org/covers/cc712335-a969-4251-ba07-b8b9d5d2c2e7/542a8c8b-0d63-4e2d-838c-07400af0bf5c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5127,
+        "aniId": 35127,
+        "createdAt": "2020-10-12T16:12:00.000Z",
+        "updatedAt": "2021-06-05T12:35:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koibi": {
+        "authors": [
+          "Sakurai",
+          "Ryou"
+        ],
+        "identifier": "koibi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koibi",
+        "url": "https://manganelo.com/manga/koibi",
+        "image": "https://avt.mkklcdnv6temp.com/48/h/12-1583487654.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5127,
+        "aniId": 35127,
+        "createdAt": "2021-04-17T07:15:20.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

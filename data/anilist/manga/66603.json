@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "DEADLOCK"
+  ],
+  "authors": [
+    "Saki Aida",
+    "Yuu Takashina"
+  ],
+  "id": 66603,
+  "malId": 36603,
+  "type": "manga",
+  "title": "Deadlock",
+  "url": "https://anilist.co/manga/66603",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36603.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f9f0c729-c149-45c5-a635-1315eb72b9a4": {
+        "authors": [
+          "Aida Saki",
+          "Takashina Yuu"
+        ],
+        "identifier": "f9f0c729-c149-45c5-a635-1315eb72b9a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Deadlock",
+        "url": "https://mangadex.org/title/f9f0c729-c149-45c5-a635-1315eb72b9a4",
+        "image": "https://uploads.mangadex.org/covers/f9f0c729-c149-45c5-a635-1315eb72b9a4/71a8bdb3-194c-4505-ad3f-19b43ec2242c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36603,
+        "aniId": 66603,
+        "createdAt": "2020-10-12T16:05:08.000Z",
+        "updatedAt": "2021-06-03T10:30:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

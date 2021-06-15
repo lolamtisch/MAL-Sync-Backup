@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "月夜草子",
+    "Tsukiyo Soushi",
+    "Tsukiyo Zoushi",
+    "TsukiyoZoushi"
+  ],
+  "authors": [
+    "Hiro Himegami"
+  ],
+  "id": 50003,
+  "malId": 20003,
+  "type": "manga",
+  "title": "Tsukiyo-Zoushi",
+  "url": "https://anilist.co/manga/50003",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20003.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:25.000Z",
+  "updatedAt": "2021-05-20T14:45:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c5f2a5af-8390-468d-a347-5a0a01fe7a44": {
+        "authors": [
+          "HIMEGAMI Hiro"
+        ],
+        "identifier": "c5f2a5af-8390-468d-a347-5a0a01fe7a44",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukiyo-Zoushi",
+        "url": "https://mangadex.org/title/c5f2a5af-8390-468d-a347-5a0a01fe7a44",
+        "image": "https://uploads.mangadex.org/covers/c5f2a5af-8390-468d-a347-5a0a01fe7a44/77292aed-6347-4a7f-a9a6-4f2cc1d52cbf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20003,
+        "aniId": 50003,
+        "createdAt": "2020-10-12T16:02:55.000Z",
+        "updatedAt": "2021-06-02T10:24:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "どうも、好きな人に惚れ薬を依頼された魔女です。",
+    " Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!"
+  ],
+  "authors": [
+    "Eiko Mutsuhana",
+    "Misato Kamada",
+    "vient"
+  ],
+  "id": 123545,
+  "malId": 130498,
+  "type": "manga",
+  "title": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+  "url": "https://anilist.co/manga/123545",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123545-ectxmSwkWrLN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:32.000Z",
+  "updatedAt": "2021-05-20T14:59:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9c756e83-1032-4338-82ca-47ae9d7f999a": {
+        "authors": [
+          "Kamada",
+          "Eiko Mutsuhana"
+        ],
+        "identifier": "9c756e83-1032-4338-82ca-47ae9d7f999a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion!",
+        "url": "https://mangadex.org/title/9c756e83-1032-4338-82ca-47ae9d7f999a",
+        "image": "https://uploads.mangadex.org/covers/9c756e83-1032-4338-82ca-47ae9d7f999a/ef45cfc6-2d7f-430e-895c-89314246eda4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130498,
+        "aniId": 123545,
+        "createdAt": "2020-10-12T16:21:19.000Z",
+        "updatedAt": "2021-06-08T02:01:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "vx924495": {
+        "authors": [
+          "Kamada"
+        ],
+        "identifier": "vx924495",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hello, I Am A Witch, And My Crush Wants Me To Make A Love Potion!",
+        "url": "https://manganelo.com/manga/vx924495",
+        "image": "https://avt.mkklcdnv6.com/28/e/22-1602906658.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130498,
+        "aniId": 123545,
+        "createdAt": "2021-01-03T21:56:42.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hello_i_am_a_witch_and_my_crush_wants_me_to_make_a_love_potion": {
+        "authors": [
+          "Eiko Mutsuhana"
+        ],
+        "identifier": "hello_i_am_a_witch_and_my_crush_wants_me_to_make_a_love_potion",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+        "url": "https://fanfox.net/manga/hello_i_am_a_witch_and_my_crush_wants_me_to_make_a_love_potion/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35372/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130498,
+        "aniId": 123545,
+        "createdAt": "2021-02-26T12:29:43.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

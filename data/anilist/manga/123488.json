@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Just Between Lovers",
+    "쇼윈도 커플",
+    "쇼윈도 커플"
+  ],
+  "authors": [
+    "Ine"
+  ],
+  "id": 123488,
+  "malId": null,
+  "type": "manga",
+  "title": "Show Window Couple",
+  "url": "https://anilist.co/manga/123488",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123488-qj8eIJAIqRvI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:52:58.000Z",
+  "updatedAt": "2021-06-08T01:52:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8df062e3-45bb-49bd-9cd9-34fd174a44b3": {
+        "authors": [
+          "이네"
+        ],
+        "identifier": "8df062e3-45bb-49bd-9cd9-34fd174a44b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Show Window Couple",
+        "url": "https://mangadex.org/title/8df062e3-45bb-49bd-9cd9-34fd174a44b3",
+        "image": "https://uploads.mangadex.org/covers/8df062e3-45bb-49bd-9cd9-34fd174a44b3/3dbffcf2-bc7c-4c63-944d-1cf406d85bba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123488,
+        "createdAt": "2020-10-12T16:21:03.000Z",
+        "updatedAt": "2021-06-08T06:59:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

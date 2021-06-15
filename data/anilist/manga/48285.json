@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Mio Tennouji"
+  ],
+  "id": 48285,
+  "malId": 18285,
+  "type": "manga",
+  "title": "Taiyou to Tsuki no Ingaritsu",
+  "url": "https://anilist.co/manga/48285",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18285.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:11.000Z",
+  "updatedAt": "2021-05-20T14:45:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "08011336-d9b5-4d9d-a328-fa5da91cd705": {
+        "authors": [
+          "Tennouji Mio"
+        ],
+        "identifier": "08011336-d9b5-4d9d-a328-fa5da91cd705",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Taiyou to Tsuki no Ingaritsu",
+        "url": "https://mangadex.org/title/08011336-d9b5-4d9d-a328-fa5da91cd705",
+        "image": "https://uploads.mangadex.org/covers/08011336-d9b5-4d9d-a328-fa5da91cd705/a83127e9-2ad4-4731-91bc-78576d9deb79.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18285,
+        "aniId": 48285,
+        "createdAt": "2020-10-12T16:13:33.000Z",
+        "updatedAt": "2021-06-05T22:12:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

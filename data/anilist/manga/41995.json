@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "[zion]"
+  ],
+  "authors": [
+    "Shiki Kayase"
+  ],
+  "id": 41995,
+  "malId": 11995,
+  "type": "manga",
+  "title": "[zion]",
+  "url": "https://anilist.co/manga/41995",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11995.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:16.000Z",
+  "updatedAt": "2021-05-20T14:42:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "99127ba3-1e4d-47f5-96cd-607e8f17f0ae": {
+        "authors": [
+          "KAYASE Shiki"
+        ],
+        "identifier": "99127ba3-1e4d-47f5-96cd-607e8f17f0ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "[zion]",
+        "url": "https://mangadex.org/title/99127ba3-1e4d-47f5-96cd-607e8f17f0ae",
+        "image": "https://uploads.mangadex.org/covers/99127ba3-1e4d-47f5-96cd-607e8f17f0ae/cfae67d3-61ff-4069-8032-c95abdc20549.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11995,
+        "aniId": 41995,
+        "createdAt": "2020-10-12T16:03:19.000Z",
+        "updatedAt": "2021-06-02T13:08:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

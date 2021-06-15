@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Nase Yamato"
+  ],
+  "id": 32249,
+  "malId": 2249,
+  "type": "manga",
+  "title": "Pretty Scoop - Haretara ii na dj - Boy, Fish on Wave",
+  "url": "https://anilist.co/manga/32249",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2249.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ab7c237-b50c-4fcf-bfc4-67f2122ece1f": {
+        "authors": [
+          "Yamato Nase"
+        ],
+        "identifier": "0ab7c237-b50c-4fcf-bfc4-67f2122ece1f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pretty Scoop! - Boy, Fish On Wave (Doujinshi)",
+        "url": "https://mangadex.org/title/0ab7c237-b50c-4fcf-bfc4-67f2122ece1f",
+        "image": "https://uploads.mangadex.org/covers/0ab7c237-b50c-4fcf-bfc4-67f2122ece1f/49bf8416-a4f5-4de4-b69b-da1799747c78.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2249,
+        "aniId": 32249,
+        "createdAt": "2020-10-12T16:16:38.000Z",
+        "updatedAt": "2021-06-07T00:32:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

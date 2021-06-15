@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "草食系イズム",
+    "Soushokukeiism",
+    "Soushokukei-ism"
+  ],
+  "authors": [
+    "Nana Watanabe"
+  ],
+  "id": 70393,
+  "malId": 40393,
+  "type": "manga",
+  "title": "Soushokukei Ism",
+  "url": "https://anilist.co/manga/70393",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40393.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:45.000Z",
+  "updatedAt": "2021-05-20T14:48:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e81be550-d505-47b4-adff-96bf1a34c788": {
+        "authors": [
+          "Watanabe Nana"
+        ],
+        "identifier": "e81be550-d505-47b4-adff-96bf1a34c788",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Soushokukei Ism",
+        "url": "https://mangadex.org/title/e81be550-d505-47b4-adff-96bf1a34c788",
+        "image": "https://uploads.mangadex.org/covers/e81be550-d505-47b4-adff-96bf1a34c788/25036baf-003c-4a29-a705-57d9035c3067.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40393,
+        "aniId": 70393,
+        "createdAt": "2020-10-12T16:04:51.000Z",
+        "updatedAt": "2021-06-02T23:54:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "soushokukei_ism": {
+        "authors": [
+          "WATANABE Nana"
+        ],
+        "identifier": "soushokukei_ism",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Soushokukei Ism",
+        "url": "https://fanfox.net/manga/soushokukei_ism/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10773/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40393,
+        "aniId": 70393,
+        "createdAt": "2021-03-26T16:22:16.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Ode to Kirihito",
+    "きりひと讃歌",
+    "Eulogy to Kirihito"
+  ],
+  "authors": [
+    "Osamu Tezuka",
+    "Camellia Nieh"
+  ],
+  "id": 31344,
+  "malId": 1344,
+  "type": "manga",
+  "title": "Kirihito Sanka",
+  "url": "https://anilist.co/manga/31344",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31344-jMGxC8aFhH9r.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-05-20T14:36:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2025f8a-b267-45be-a41f-db7defd216fb": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "d2025f8a-b267-45be-a41f-db7defd216fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kirihito Sanka",
+        "url": "https://mangadex.org/title/d2025f8a-b267-45be-a41f-db7defd216fb",
+        "image": "https://uploads.mangadex.org/covers/d2025f8a-b267-45be-a41f-db7defd216fb/e7930cbe-4a78-4668-8b80-8adc0438457c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1344,
+        "aniId": 31344,
+        "createdAt": "2020-10-12T16:13:06.000Z",
+        "updatedAt": "2021-06-05T18:53:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kirihito_sanka": {
+        "authors": [],
+        "identifier": "kirihito_sanka",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kirihito Sanka",
+        "url": "https://manganelo.com/manga/kirihito_sanka",
+        "image": "https://avt.mkklcdnv6.com/50/w/12-1583487745.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1344,
+        "aniId": 31344,
+        "createdAt": "2020-10-12T16:23:55.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ode-to-kirihito": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "ode-to-kirihito",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ode to Kirihito",
+        "url": "https://mangasee123.com/manga/Ode-To-Kirihito",
+        "image": "https://cover.nep.li/cover/Ode-To-Kirihito.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1344,
+        "aniId": 31344,
+        "createdAt": "2021-05-04T12:32:08.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

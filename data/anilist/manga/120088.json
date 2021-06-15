@@ -1,0 +1,76 @@
+{
+  "altTitle": [
+    "Just Leave Me Be",
+    "나를 버려주세요",
+    "I Want You to Throw Me Away",
+    "Please Leave Me Behind",
+    "Please Throw Me Away",
+    "私を捨ててください",
+    "请拋弃我",
+    "Throw Me Away"
+  ],
+  "authors": [
+    "Eun Hyang Ja",
+    "Chero",
+    "Kotavi"
+  ],
+  "id": 120088,
+  "malId": null,
+  "type": "manga",
+  "title": "Nareul Beoryeojuseyo",
+  "url": "https://anilist.co/manga/120088",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120088-mtk6tyI00u7a.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T19:13:07.000Z",
+  "updatedAt": "2021-06-07T23:53:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4": {
+        "authors": [
+          "Kotavi",
+          "Ja Eunhang",
+          "Chero"
+        ],
+        "identifier": "25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Please Throw Me Away",
+        "url": "https://mangadex.org/title/25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4",
+        "image": "https://uploads.mangadex.org/covers/25c7badb-1c8c-4b96-a7dc-cb55f2ad86e4/18ec280c-58e5-445e-91b7-03b801205fc6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120088,
+        "createdAt": "2020-10-12T16:20:10.000Z",
+        "updatedAt": "2021-06-08T00:36:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lp988672": {
+        "authors": [
+          "Jaeunhyang / Chero / Kotavi"
+        ],
+        "identifier": "manga-lp988672",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Just Leave Me Be",
+        "url": "https://readmanganato.com/manga-lp988672",
+        "image": "https://avt.mkklcdnv6temp.com/48/p/23-1617247768.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 120088,
+        "createdAt": "2021-06-04T02:20:18.000Z",
+        "updatedAt": "2021-06-04T02:20:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

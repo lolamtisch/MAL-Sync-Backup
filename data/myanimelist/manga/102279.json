@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "BEGIN"
+  ],
+  "authors": [
+    "Ikegami, Ryoichi",
+    "Buronson"
+  ],
+  "id": 102279,
+  "type": "manga",
+  "title": "Begin",
+  "url": "https://myanimelist.net/manga/102279/Begin",
+  "image": "https://cdn.myanimelist.net/images/manga/1/199335.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-29T22:12:15.000Z",
+  "updatedAt": "2021-03-15T22:33:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3cb4a15a-79bf-4dad-8872-6a9398a32839": {
+        "authors": [
+          "Ikegami Ryoichi",
+          "Buronson"
+        ],
+        "identifier": "3cb4a15a-79bf-4dad-8872-6a9398a32839",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BEGIN",
+        "url": "https://mangadex.org/title/3cb4a15a-79bf-4dad-8872-6a9398a32839",
+        "image": "https://uploads.mangadex.org/covers/3cb4a15a-79bf-4dad-8872-6a9398a32839/0a25b532-3607-4629-a180-53d81fa810e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102279,
+        "aniId": 101835,
+        "createdAt": "2020-10-29T22:12:19.000Z",
+        "updatedAt": "2021-06-08T06:04:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dc925708": {
+        "authors": [
+          "Buronson"
+        ],
+        "identifier": "dc925708",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Begin",
+        "url": "https://manganelo.com/manga/dc925708",
+        "image": "https://avt.mkklcdnv6temp.com/28/a/23-1613794698.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102279,
+        "aniId": 101835,
+        "createdAt": "2021-02-20T06:03:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Oteuchi Kakugo"
+  ],
+  "authors": [
+    "Hisami Shimada"
+  ],
+  "id": 32371,
+  "malId": 2371,
+  "type": "manga",
+  "title": "Oteuchi Kakugo!",
+  "url": "https://anilist.co/manga/32371",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2371.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f3ab1290-d58a-4bfe-a604-194d9597453b": {
+        "authors": [
+          "Shimada Hisami"
+        ],
+        "identifier": "f3ab1290-d58a-4bfe-a604-194d9597453b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oteuchi Kakugo!",
+        "url": "https://mangadex.org/title/f3ab1290-d58a-4bfe-a604-194d9597453b",
+        "image": "https://uploads.mangadex.org/covers/f3ab1290-d58a-4bfe-a604-194d9597453b/acf5cec5-af37-47b6-9079-11042aad3965.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2371,
+        "aniId": 32371,
+        "createdAt": "2020-10-12T16:20:38.000Z",
+        "updatedAt": "2021-06-08T00:31:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

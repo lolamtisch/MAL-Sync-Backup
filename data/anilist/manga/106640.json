@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "アリス"
+  ],
+  "authors": [
+    "Ayumi Komura"
+  ],
+  "id": 106640,
+  "malId": 102888,
+  "type": "manga",
+  "title": "Alice",
+  "url": "https://anilist.co/manga/106640",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106640-1ChjexB3aNtM.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:01.000Z",
+  "updatedAt": "2021-05-20T14:55:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "89bf2017-0be7-4bdd-b83d-66cc146b04fd": {
+        "authors": [
+          "Komura Ayumi"
+        ],
+        "identifier": "89bf2017-0be7-4bdd-b83d-66cc146b04fd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice",
+        "url": "https://mangadex.org/title/89bf2017-0be7-4bdd-b83d-66cc146b04fd",
+        "image": "https://uploads.mangadex.org/covers/89bf2017-0be7-4bdd-b83d-66cc146b04fd/9a4a744c-b04b-46e5-867e-ddf1f0f266f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102888,
+        "aniId": 106640,
+        "createdAt": "2020-10-12T16:10:23.000Z",
+        "updatedAt": "2021-06-05T00:26:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

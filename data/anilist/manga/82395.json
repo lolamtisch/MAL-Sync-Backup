@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Black Detective",
+    "黒の探偵"
+  ],
+  "authors": [
+    "Yen Hioka",
+    "Kevin Gifford",
+    "Rochelle Gancio"
+  ],
+  "id": 82395,
+  "malId": 52395,
+  "type": "manga",
+  "title": "Kuro no Tantei",
+  "url": "https://anilist.co/manga/82395",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/52395.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:56.000Z",
+  "updatedAt": "2021-05-23T22:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d1275d67-00ae-4acc-9094-37ae9d31ee67": {
+        "authors": [
+          "Yen Hioka"
+        ],
+        "identifier": "d1275d67-00ae-4acc-9094-37ae9d31ee67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuro no Tantei",
+        "url": "https://mangadex.org/title/d1275d67-00ae-4acc-9094-37ae9d31ee67",
+        "image": "https://uploads.mangadex.org/covers/d1275d67-00ae-4acc-9094-37ae9d31ee67/b7ccc4fd-9e67-4a89-ba8d-490297e5635e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52395,
+        "aniId": 82395,
+        "createdAt": "2020-10-12T16:07:42.000Z",
+        "updatedAt": "2021-06-04T04:39:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kuro_no_tantei": {
+        "authors": [
+          "Hioka",
+          "Yen"
+        ],
+        "identifier": "kuro_no_tantei",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kuro No Tantei",
+        "url": "https://manganelo.com/manga/kuro_no_tantei",
+        "image": "https://avt.mkklcdnv6.com/33/f/2-1583466981.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52395,
+        "aniId": 82395,
+        "createdAt": "2020-11-13T11:51:59.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kuro-no-tantei": {
+        "authors": [
+          "HIOKA Yen"
+        ],
+        "identifier": "kuro-no-tantei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kuro no Tantei",
+        "url": "https://mangasee123.com/manga/Kuro-No-Tantei",
+        "image": "https://cover.nep.li/cover/Kuro-No-Tantei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52395,
+        "aniId": 82395,
+        "createdAt": "2021-05-08T11:18:47.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

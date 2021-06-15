@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "King's Maker",
+    "킹스메이커",
+    "Kingseu Meikeo"
+  ],
+  "authors": [
+    "Haga",
+    "Ji-Young Kang"
+  ],
+  "id": 98689,
+  "malId": 113555,
+  "type": "manga",
+  "title": "King's Maker",
+  "url": "https://anilist.co/manga/98689",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98689-9wJyiqicaHlD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:01.000Z",
+  "updatedAt": "2021-06-05T05:20:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3dd349b3-a61e-427f-becf-32941c0d3ba5": {
+        "authors": [
+          "Kang Jiyoung",
+          "Haga"
+        ],
+        "identifier": "3dd349b3-a61e-427f-becf-32941c0d3ba5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "King's Maker",
+        "url": "https://mangadex.org/title/3dd349b3-a61e-427f-becf-32941c0d3ba5",
+        "image": "https://uploads.mangadex.org/covers/3dd349b3-a61e-427f-becf-32941c0d3ba5/276ea7ef-eb31-4fba-aa8d-641cfecb5ea3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113555,
+        "aniId": 98689,
+        "createdAt": "2020-10-12T16:10:59.000Z",
+        "updatedAt": "2021-06-05T08:55:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "king_s_maker": {
+        "authors": [
+          "Haga",
+          "KANG Ji Young"
+        ],
+        "identifier": "king_s_maker",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "King's Maker",
+        "url": "https://fanfox.net/manga/king_s_maker/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26947/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113555,
+        "aniId": 98689,
+        "createdAt": "2021-03-23T17:15:53.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eb982084": {
+        "authors": [
+          "Haga"
+        ],
+        "identifier": "manga-eb982084",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "King's Maker",
+        "url": "https://readmanganato.com/manga-eb982084",
+        "image": "https://avt.mkklcdnv6temp.com/38/n/18-1583498589.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113555,
+        "aniId": 98689,
+        "createdAt": "2021-06-14T06:38:33.000Z",
+        "updatedAt": "2021-06-14T06:57:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

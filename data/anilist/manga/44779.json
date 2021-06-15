@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "ロイヤル・フィアンセ",
+    "Royal Fiance",
+    "The Royal Fiance"
+  ],
+  "authors": [
+    "Saeko Kamon",
+    "Risai Asuma"
+  ],
+  "id": 44779,
+  "malId": 14779,
+  "type": "manga",
+  "title": "Royal Fiancé",
+  "url": "https://anilist.co/manga/44779",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14779.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:40.000Z",
+  "updatedAt": "2021-05-20T14:43:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "51c0570f-04f2-4470-aaea-1aca54428c12": {
+        "authors": [
+          "Kamon Saeko",
+          "Asuma Risai"
+        ],
+        "identifier": "51c0570f-04f2-4470-aaea-1aca54428c12",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Royal Fiance &ndash;Kuro no Ouji&ndash;",
+        "url": "https://mangadex.org/title/51c0570f-04f2-4470-aaea-1aca54428c12",
+        "image": "https://uploads.mangadex.org/covers/51c0570f-04f2-4470-aaea-1aca54428c12/3dc1d2d9-4ba6-4ab5-a474-12bbb84c741d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14779,
+        "aniId": 44779,
+        "createdAt": "2020-10-12T16:07:36.000Z",
+        "updatedAt": "2021-06-04T04:04:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

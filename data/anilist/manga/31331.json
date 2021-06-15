@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "恋風",
+    "こいかぜ"
+  ],
+  "authors": [
+    "Motoi Yoshida"
+  ],
+  "id": 31331,
+  "malId": 1331,
+  "type": "manga",
+  "title": "Koi Kaze",
+  "url": "https://anilist.co/manga/31331",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31331-8loVIV7of0Fe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-05-20T14:36:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "feacda5c-6fc6-4ae1-a994-24d9be1dde5a": {
+        "authors": [
+          "Yoshida Motoi"
+        ],
+        "identifier": "feacda5c-6fc6-4ae1-a994-24d9be1dde5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi Kaze",
+        "url": "https://mangadex.org/title/feacda5c-6fc6-4ae1-a994-24d9be1dde5a",
+        "image": "https://uploads.mangadex.org/covers/feacda5c-6fc6-4ae1-a994-24d9be1dde5a/7dc4e23d-ca6e-450a-880e-6f5a8c19111d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1331,
+        "aniId": 31331,
+        "createdAt": "2020-10-12T16:02:41.000Z",
+        "updatedAt": "2021-06-02T08:46:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koi_kaze": {
+        "authors": [],
+        "identifier": "koi_kaze",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koi Kaze",
+        "url": "https://manganelo.com/manga/koi_kaze",
+        "image": "https://avt.mkklcdnv6.com/45/a/10-1583483790.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1331,
+        "aniId": 31331,
+        "createdAt": "2020-10-12T16:23:58.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "koi-kaze": {
+        "authors": [
+          "YOSHIDA Motoi"
+        ],
+        "identifier": "koi-kaze",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Koi Kaze",
+        "url": "https://mangasee123.com/manga/Koi-Kaze",
+        "image": "https://cover.nep.li/cover/Koi-Kaze.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1331,
+        "aniId": 31331,
+        "createdAt": "2021-05-31T09:32:23.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

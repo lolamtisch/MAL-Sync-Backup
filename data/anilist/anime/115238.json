@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "ちょこっとアニメ けものフレンズ３"
+  ],
+  "id": 115238,
+  "malId": 39653,
+  "type": "anime",
+  "title": "Chokotto Anime Kemono Friends 3",
+  "url": "https://anilist.co/anime/115238",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115238-1nK7TTco0HC4.png",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:57.000Z",
+  "updatedAt": "2021-05-20T14:44:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Aniwatch": {
+      "2004": {
+        "identifier": "2004",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Chokotto Anime Kemono Friends 3",
+        "url": "https://aniwatch.me/anime/2004",
+        "image": "https://img.aniwatch.me/35E221C775878DA3CC59E0F93D2526B1",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39653,
+        "aniId": 115238,
+        "createdAt": "2020-10-12T15:58:13.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chokotto-anime-kemono-friends-3": {
+        "identifier": "chokotto-anime-kemono-friends-3",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chokotto Anime Kemono Friends 3",
+        "url": "https://www2.gogoanime.io/category/chokotto-anime-kemono-friends-3",
+        "image": "https://cdnimg.xyz/cover/chokotto-anime-kemono-friends-3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39653,
+        "aniId": 115238,
+        "createdAt": "2020-10-12T16:00:07.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

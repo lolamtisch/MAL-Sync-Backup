@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Someday My Prince Will Come",
+    "王子さま、どちらさま？"
+  ],
+  "authors": [
+    "Hiroto Kujirada "
+  ],
+  "id": 108126,
+  "malId": 118703,
+  "type": "manga",
+  "title": "Ouji-sama, Dochira-sama?",
+  "url": "https://anilist.co/manga/108126",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108126-w7lQCNn1Cy9f.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-08T08:26:22.000Z",
+  "updatedAt": "2021-06-08T08:26:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac7e5bb1-3822-486b-b5ce-c924d4c2a689": {
+        "authors": [
+          "Kujirada Hiroto"
+        ],
+        "identifier": "ac7e5bb1-3822-486b-b5ce-c924d4c2a689",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Someday My Prince Will Come",
+        "url": "https://mangadex.org/title/ac7e5bb1-3822-486b-b5ce-c924d4c2a689",
+        "image": "https://uploads.mangadex.org/covers/ac7e5bb1-3822-486b-b5ce-c924d4c2a689/e85d0f69-9fac-4a52-98d6-7f4374604bfc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118703,
+        "aniId": 108126,
+        "createdAt": "2020-12-05T01:11:11.000Z",
+        "updatedAt": "2021-06-08T08:47:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

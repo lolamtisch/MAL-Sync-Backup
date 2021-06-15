@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "僕が僕であるために。",
+    "For Me to Remain Myself"
+  ],
+  "authors": [
+    "Maccha Hazuki"
+  ],
+  "id": 86191,
+  "malId": 88901,
+  "type": "manga",
+  "title": "Boku ga Boku de Aru Tame ni",
+  "url": "https://anilist.co/manga/86191",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86191-BHArDfYB1ThM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:56.000Z",
+  "updatedAt": "2021-05-20T14:52:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "71b8f96b-c34d-4e09-8086-d2d409d4e75d": {
+        "authors": [
+          "Hazuki Matcha"
+        ],
+        "identifier": "71b8f96b-c34d-4e09-8086-d2d409d4e75d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku ga Boku de Aru Tame ni",
+        "url": "https://mangadex.org/title/71b8f96b-c34d-4e09-8086-d2d409d4e75d",
+        "image": "https://uploads.mangadex.org/covers/71b8f96b-c34d-4e09-8086-d2d409d4e75d/65a3ec3a-395b-4257-b3f5-c4d8ebbf88de.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88901,
+        "aniId": 86191,
+        "createdAt": "2020-10-12T16:08:56.000Z",
+        "updatedAt": "2021-06-04T13:56:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nr919466": {
+        "authors": [],
+        "identifier": "nr919466",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku Ga Boku De Aru Tame Ni.",
+        "url": "https://manganelo.com/manga/nr919466",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/871-nr919466.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88901,
+        "aniId": 86191,
+        "createdAt": "2020-10-12T16:24:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

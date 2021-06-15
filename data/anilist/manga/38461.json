@@ -1,0 +1,43 @@
+{
+  "altTitle": [],
+  "authors": [
+    "A-Bao",
+    "Neko Kreuz"
+  ],
+  "id": 38461,
+  "malId": 8461,
+  "type": "manga",
+  "title": "F.O.X.",
+  "url": "https://anilist.co/manga/38461",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8461.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:47.000Z",
+  "updatedAt": "2021-05-20T14:40:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bab61f82-9257-400a-80e3-62e45306b59c": {
+        "authors": [
+          "A-Bao",
+          "Os Rabbit Cat"
+        ],
+        "identifier": "bab61f82-9257-400a-80e3-62e45306b59c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "F.O.X",
+        "url": "https://mangadex.org/title/bab61f82-9257-400a-80e3-62e45306b59c",
+        "image": "https://uploads.mangadex.org/covers/bab61f82-9257-400a-80e3-62e45306b59c/77cc04d9-3475-4f4f-915e-cb9c744e6cc8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8461,
+        "aniId": 38461,
+        "createdAt": "2020-10-12T16:04:11.000Z",
+        "updatedAt": "2021-06-02T19:19:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

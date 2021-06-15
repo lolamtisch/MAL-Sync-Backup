@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "RiN リン"
+  ],
+  "authors": [
+    "Harold Sakuishi"
+  ],
+  "id": 76894,
+  "malId": 46894,
+  "type": "manga",
+  "title": "Rin",
+  "url": "https://anilist.co/manga/76894",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx76894-Pb3y5Lm05Xau.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:32.000Z",
+  "updatedAt": "2021-05-20T14:49:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6fbe7c57-d4d0-41c8-a2d2-7d93f41eab9a": {
+        "authors": [
+          "Harold Sakuishi"
+        ],
+        "identifier": "6fbe7c57-d4d0-41c8-a2d2-7d93f41eab9a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RiN (HAROLD Sakuishi)",
+        "url": "https://mangadex.org/title/6fbe7c57-d4d0-41c8-a2d2-7d93f41eab9a",
+        "image": "https://uploads.mangadex.org/covers/6fbe7c57-d4d0-41c8-a2d2-7d93f41eab9a/29403df9-ece2-4358-8c5b-3948dbbd0307.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46894,
+        "aniId": 76894,
+        "createdAt": "2020-10-12T16:05:52.000Z",
+        "updatedAt": "2021-06-03T15:35:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

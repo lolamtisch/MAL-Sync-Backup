@@ -1,0 +1,55 @@
+{
+  "altTitle": [
+    "Ｏｈ！ファミリー"
+  ],
+  "id": 7575,
+  "type": "anime",
+  "title": "Oh! Family",
+  "url": "https://myanimelist.net/anime/7575/Oh_Family",
+  "image": "https://cdn.myanimelist.net/images/anime/10/61193.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:56.000Z",
+  "updatedAt": "2021-04-28T19:48:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "mk1x": {
+        "identifier": "mk1x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oh! Family",
+        "url": "https://www.9anime.to/watch/oh-family.mk1x",
+        "image": "https://static.akacdn.ru/files/images/2019/10/b2eaa226bdcbe24b5b8d02a58864e40d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7575,
+        "aniId": 7575,
+        "createdAt": "2020-10-12T15:53:31.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oh-family": {
+        "identifier": "oh-family",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oh! Family",
+        "url": "https://www9.gogoanime.io/category/oh-family",
+        "image": "https://cdnimg.xyz/cover/oh-family.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7575,
+        "aniId": 7575,
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

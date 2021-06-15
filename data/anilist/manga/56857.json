@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Creature!",
+    "ハカイジュウ",
+    "Hakaiju"
+  ],
+  "authors": [
+    "Shingo Honda"
+  ],
+  "id": 56857,
+  "malId": 26857,
+  "type": "manga",
+  "title": "Hakaijuu",
+  "url": "https://anilist.co/manga/56857",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56857-vCIamkgK6pSr.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:26.000Z",
+  "updatedAt": "2021-05-20T14:47:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9b570ac3-4294-49cb-a863-915b845018f4": {
+        "authors": [
+          "Honda Shingo"
+        ],
+        "identifier": "9b570ac3-4294-49cb-a863-915b845018f4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakaijuu",
+        "url": "https://mangadex.org/title/9b570ac3-4294-49cb-a863-915b845018f4",
+        "image": "https://uploads.mangadex.org/covers/9b570ac3-4294-49cb-a863-915b845018f4/bddd0519-be7f-4090-b40d-1e8b62adaa16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26857,
+        "aniId": 56857,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:50:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hakaijuu": {
+        "authors": [],
+        "identifier": "hakaijuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hakaijuu",
+        "url": "https://manganelo.com/manga/hakaijuu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/6536-hakaijuu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26857,
+        "aniId": 56857,
+        "createdAt": "2020-10-12T16:23:14.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hakaijuu": {
+        "authors": [
+          "HONDA Shingo"
+        ],
+        "identifier": "hakaijuu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hakaijuu",
+        "url": "https://mangasee123.com/manga/Hakaijuu",
+        "image": "https://cover.nep.li/cover/Hakaijuu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26857,
+        "aniId": 56857,
+        "createdAt": "2020-12-26T17:26:16.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-aa959157": {
+        "authors": [
+          "Honda Shingo"
+        ],
+        "identifier": "manga-aa959157",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hakaijuu",
+        "url": "https://manganato.com/manga-aa959157",
+        "image": "https://avt.mkklcdnv6temp.com/3/p/6-1583474232.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26857,
+        "aniId": 56857,
+        "createdAt": "2021-06-08T18:55:52.000Z",
+        "updatedAt": "2021-06-08T19:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

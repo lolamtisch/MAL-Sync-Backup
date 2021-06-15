@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ボクと僕"
+  ],
+  "authors": [
+    "Futago Minazuki"
+  ],
+  "id": 65865,
+  "malId": 35865,
+  "type": "manga",
+  "title": "Boku to Boku",
+  "url": "https://anilist.co/manga/65865",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35865.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c184e253-d966-4220-8b2c-a265ab8e1817": {
+        "authors": [
+          "Minazuki Futago"
+        ],
+        "identifier": "c184e253-d966-4220-8b2c-a265ab8e1817",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku to Boku",
+        "url": "https://mangadex.org/title/c184e253-d966-4220-8b2c-a265ab8e1817",
+        "image": "https://uploads.mangadex.org/covers/c184e253-d966-4220-8b2c-a265ab8e1817/4b05d299-9e94-45b6-ab59-7de72b85a811.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35865,
+        "aniId": 65865,
+        "createdAt": "2020-10-12T16:04:12.000Z",
+        "updatedAt": "2021-06-02T19:24:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_to_boku": {
+        "authors": [],
+        "identifier": "boku_to_boku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku To Boku",
+        "url": "https://manganelo.com/manga/boku_to_boku",
+        "image": "https://avt.mkklcdnv6.com/39/r/6-1583475769.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35865,
+        "aniId": 65865,
+        "createdAt": "2020-10-12T16:22:19.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_to_boku": {
+        "authors": [
+          "MINAZUKI Futago"
+        ],
+        "identifier": "boku_to_boku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku to Boku",
+        "url": "https://fanfox.net/manga/boku_to_boku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11273/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35865,
+        "aniId": 65865,
+        "createdAt": "2021-03-29T12:18:45.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

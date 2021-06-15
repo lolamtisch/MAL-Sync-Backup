@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "フリージングZERO",
+    "프리징 ZERO"
+  ],
+  "authors": [
+    "Dal Young Im",
+    "Soo Cheol Jeong"
+  ],
+  "id": 65879,
+  "malId": 35879,
+  "type": "manga",
+  "title": "Freezing: Zero",
+  "url": "https://anilist.co/manga/65879",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35879.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0272f671-0a04-4236-9852-7eddce55ed1b": {
+        "authors": [
+          "Jeong Soo Cheol",
+          "Im Dal-Young"
+        ],
+        "identifier": "0272f671-0a04-4236-9852-7eddce55ed1b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Freezing Zero",
+        "url": "https://mangadex.org/title/0272f671-0a04-4236-9852-7eddce55ed1b",
+        "image": "https://uploads.mangadex.org/covers/0272f671-0a04-4236-9852-7eddce55ed1b/b384283c-fae4-4d79-894e-d06dac56ff26.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35879,
+        "aniId": 65879,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:04:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "freezing-zero": {
+        "authors": [
+          "JEONG Soo Cheol",
+          "LIM Dall-Young"
+        ],
+        "identifier": "freezing-zero",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Freezing: Zero",
+        "url": "https://mangasee123.com/manga/Freezing-Zero",
+        "image": "https://cover.nep.li/cover/Freezing-Zero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35879,
+        "aniId": 65879,
+        "createdAt": "2021-03-27T02:20:01.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

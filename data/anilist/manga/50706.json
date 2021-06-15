@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "男の子ずかん",
+    "An Illustrated Book of Boys",
+    "Otoko no Ko Zukan"
+  ],
+  "authors": [
+    "Mayumi Yokoyama"
+  ],
+  "id": 50706,
+  "malId": 20706,
+  "type": "manga",
+  "title": "Otokonoko Zukan",
+  "url": "https://anilist.co/manga/50706",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50706-247OyHm8H0yt.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:35.000Z",
+  "updatedAt": "2021-05-20T14:45:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e61d468f-f1c6-447a-9f52-01a7c92783fb": {
+        "authors": [
+          "YOKOYAMA Mayumi"
+        ],
+        "identifier": "e61d468f-f1c6-447a-9f52-01a7c92783fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otokonoko Zukan",
+        "url": "https://mangadex.org/title/e61d468f-f1c6-447a-9f52-01a7c92783fb",
+        "image": "https://uploads.mangadex.org/covers/e61d468f-f1c6-447a-9f52-01a7c92783fb/11589a89-55a9-4b70-87e3-6bd5f195cc4e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20706,
+        "aniId": 50706,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T13:36:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

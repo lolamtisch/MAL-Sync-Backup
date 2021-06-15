@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "鐵劍春秋之八月十五"
+  ],
+  "authors": [
+    "Xu Ci",
+    "Yi Wang"
+  ],
+  "id": 55309,
+  "malId": 25309,
+  "type": "manga",
+  "title": "August 15th",
+  "url": "https://anilist.co/manga/55309",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25309.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:53.000Z",
+  "updatedAt": "2021-05-20T14:46:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9c991de-9d9b-4fd0-aa4b-059fc6bba6d3": {
+        "authors": [
+          "Wang Yi",
+          "Xu Ci"
+        ],
+        "identifier": "e9c991de-9d9b-4fd0-aa4b-059fc6bba6d3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "August 15th",
+        "url": "https://mangadex.org/title/e9c991de-9d9b-4fd0-aa4b-059fc6bba6d3",
+        "image": "https://uploads.mangadex.org/covers/e9c991de-9d9b-4fd0-aa4b-059fc6bba6d3/59e249bd-6991-41c3-b750-176d1a0de60e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25309,
+        "aniId": 55309,
+        "createdAt": "2020-10-12T16:07:46.000Z",
+        "updatedAt": "2021-06-04T05:09:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

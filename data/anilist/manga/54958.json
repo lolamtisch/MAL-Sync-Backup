@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "I fell in love for the first time.",
+    "初めて恋をした。",
+    "Distant Evening Mist",
+    "Yuugiri Haruka",
+    "Harukaze ga Kikoeru",
+    "Hakui wa Tenshi no Amai Sayaki",
+    "Piano to Sensei",
+    "Giniro no Yuki"
+  ],
+  "authors": [
+    "Ryuu Asagi"
+  ],
+  "id": 54958,
+  "malId": 24958,
+  "type": "manga",
+  "title": "Hajimete Koi wo Shita.",
+  "url": "https://anilist.co/manga/54958",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx54958-T6D1RnYZeJRf.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:48.000Z",
+  "updatedAt": "2021-05-20T14:46:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc78af75-12c1-4215-ad2f-fc9b43cad0b0": {
+        "authors": [
+          "Asagi Ryuu"
+        ],
+        "identifier": "bc78af75-12c1-4215-ad2f-fc9b43cad0b0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajimete Koi o Shita",
+        "url": "https://mangadex.org/title/bc78af75-12c1-4215-ad2f-fc9b43cad0b0",
+        "image": "https://uploads.mangadex.org/covers/bc78af75-12c1-4215-ad2f-fc9b43cad0b0/a2e72714-5a72-4a81-b2b8-2c5280125549.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24958,
+        "aniId": 54958,
+        "createdAt": "2020-10-12T16:04:57.000Z",
+        "updatedAt": "2021-06-03T00:38:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "i_fell_in_love_for_the_first_time": {
+        "authors": [],
+        "identifier": "i_fell_in_love_for_the_first_time",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "I Fell In Love For The First Time",
+        "url": "https://manganelo.com/manga/i_fell_in_love_for_the_first_time",
+        "image": "https://avt.mkklcdnv6.com/13/k/13-1583488231.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24958,
+        "aniId": 54958,
+        "createdAt": "2020-10-12T16:23:28.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

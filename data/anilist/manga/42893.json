@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "リーマンギャンブラー マウス"
+  ],
+  "authors": [
+    "Noboru Takahashi"
+  ],
+  "id": 42893,
+  "malId": 12893,
+  "type": "manga",
+  "title": "Riman Gambler Mouse",
+  "url": "https://anilist.co/manga/42893",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n42893-zDcKCUDu6gd5.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:26.000Z",
+  "updatedAt": "2021-05-20T14:42:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "970cf604-b773-47fb-8cf1-75b8f1513b19": {
+        "authors": [
+          "TAKAHASHI Noboru"
+        ],
+        "identifier": "970cf604-b773-47fb-8cf1-75b8f1513b19",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Riman Gambler Mouse",
+        "url": "https://mangadex.org/title/970cf604-b773-47fb-8cf1-75b8f1513b19",
+        "image": "https://uploads.mangadex.org/covers/970cf604-b773-47fb-8cf1-75b8f1513b19/c5066f19-d750-4063-8f5e-99d6d1a734ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12893,
+        "aniId": 42893,
+        "createdAt": "2020-10-12T16:07:54.000Z",
+        "updatedAt": "2021-06-04T06:08:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "riman_gambler_mouse": {
+        "authors": [],
+        "identifier": "riman_gambler_mouse",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Riman Gambler Mouse",
+        "url": "https://manganelo.com/manga/riman_gambler_mouse",
+        "image": "https://avt.mkklcdnv6.com/26/f/8-1583479175.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12893,
+        "aniId": 42893,
+        "createdAt": "2020-10-12T16:25:12.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

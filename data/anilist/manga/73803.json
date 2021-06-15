@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "リメンバー"
+  ],
+  "authors": [
+    "Gonta King"
+  ],
+  "id": 73803,
+  "malId": 43803,
+  "type": "manga",
+  "title": "ReMember",
+  "url": "https://anilist.co/manga/73803",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx73803-Y4B5dBhyBWl5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T14:51:40.000Z",
+  "updatedAt": "2021-06-03T14:51:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "83beb81f-22a4-4fd9-9dc5-1d3e52ad7bef": {
+        "authors": [
+          "King Gonta"
+        ],
+        "identifier": "83beb81f-22a4-4fd9-9dc5-1d3e52ad7bef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ReMember",
+        "url": "https://mangadex.org/title/83beb81f-22a4-4fd9-9dc5-1d3e52ad7bef",
+        "image": "https://uploads.mangadex.org/covers/83beb81f-22a4-4fd9-9dc5-1d3e52ad7bef/eb2f59b5-5718-4e66-bf64-0c5c864109f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43803,
+        "aniId": 73803,
+        "createdAt": "2020-10-12T16:05:45.000Z",
+        "updatedAt": "2021-06-03T15:31:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

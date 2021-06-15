@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "わかってください",
+    "Can't You Take a Hint?"
+  ],
+  "authors": [
+    "Yoshimoto"
+  ],
+  "id": 106630,
+  "malId": 97571,
+  "type": "manga",
+  "title": "Wakatte Kudasai",
+  "url": "https://anilist.co/manga/106630",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106630-s1y6ojYCCW7E.jpg",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:54:10.000Z",
+  "updatedAt": "2021-05-20T14:54:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "178813e2-b85d-4cdc-85e8-9b107d7d39f9": {
+        "authors": [
+          "Yoshimoto"
+        ],
+        "identifier": "178813e2-b85d-4cdc-85e8-9b107d7d39f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wakatte Kudasai",
+        "url": "https://mangadex.org/title/178813e2-b85d-4cdc-85e8-9b107d7d39f9",
+        "image": "https://uploads.mangadex.org/covers/178813e2-b85d-4cdc-85e8-9b107d7d39f9/e994a59d-4bc9-4cff-af58-81f071324bf1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97571,
+        "aniId": 106630,
+        "createdAt": "2020-10-12T16:09:36.000Z",
+        "updatedAt": "2021-06-04T18:44:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

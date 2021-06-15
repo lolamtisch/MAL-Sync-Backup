@@ -1,0 +1,117 @@
+{
+  "altTitle": [
+    "The Yagyu Ninja Scrolls: Revenge of the Hori Clan",
+    "Ｙ十Ｍ　柳生忍法帖",
+    "Ｙ十Ｍ",
+    "Y+M",
+    "Y10M",
+    "Yagyuu Ninja Arts Scroll"
+  ],
+  "authors": [
+    "Fuutarou Yamada",
+    "Masaki Segawa",
+    "Gemma Collinge"
+  ],
+  "id": 30432,
+  "malId": 432,
+  "type": "manga",
+  "title": "Y十M: Yagyuu Ninpouchou",
+  "url": "https://anilist.co/manga/30432",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30432-ksnxPafXkbzP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5712fb3-e3b2-4f57-8006-7a5e8819bb24": {
+        "authors": [
+          "Yamada Fuutarou",
+          "Segawa Masaki"
+        ],
+        "identifier": "b5712fb3-e3b2-4f57-8006-7a5e8819bb24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Y十M",
+        "url": "https://mangadex.org/title/b5712fb3-e3b2-4f57-8006-7a5e8819bb24",
+        "image": "https://uploads.mangadex.org/covers/b5712fb3-e3b2-4f57-8006-7a5e8819bb24/cdd15b6b-b9d1-4067-92fa-d26f6c3b7a48.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 432,
+        "aniId": 30432,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:24:52.000Z",
+        "deletedAt": null
+      },
+      "596bc9c8-a825-45f7-9d63-dc32aa9bba69": {
+        "authors": [
+          "NANAJIMA Kana"
+        ],
+        "identifier": "596bc9c8-a825-45f7-9d63-dc32aa9bba69",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi no Ninpou Chou",
+        "url": "https://mangadex.org/title/596bc9c8-a825-45f7-9d63-dc32aa9bba69",
+        "image": "https://uploads.mangadex.org/covers/596bc9c8-a825-45f7-9d63-dc32aa9bba69/97438668-59e4-4ae5-a0bf-df57707b879b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 432,
+        "aniId": 30432,
+        "createdAt": "2020-10-12T16:18:00.000Z",
+        "updatedAt": "2021-06-07T12:56:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ym": {
+        "authors": [
+          "Yamada",
+          "Fuutarou"
+        ],
+        "identifier": "ym",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Y+M",
+        "url": "https://manganelo.com/manga/ym",
+        "image": "https://avt.mkklcdnv6temp.com/20/y/11-1583484773.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 432,
+        "aniId": 30432,
+        "createdAt": "2021-05-06T17:18:59.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "y10-m": {
+        "authors": [
+          "SEGAWA Masaki",
+          "YAMADA Fuutarou"
+        ],
+        "identifier": "y10-m",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yagyu Ninja Scrolls",
+        "url": "https://mangasee123.com/manga/Y10-M",
+        "image": "https://cover.nep.li/cover/Y10-M.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 432,
+        "aniId": 30432,
+        "createdAt": "2021-05-27T14:28:54.000Z",
+        "updatedAt": "2021-05-27T15:58:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

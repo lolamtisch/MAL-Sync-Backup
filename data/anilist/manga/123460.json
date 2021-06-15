@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "きみは皮肉なキラキラ星",
+    "Sarcastic Kira Kira Star",
+    "Kimi wa Hiniku na KiraKira Boshi"
+  ],
+  "authors": [
+    "Riko Sakura"
+  ],
+  "id": 123460,
+  "malId": 120004,
+  "type": "manga",
+  "title": "Kimi wa Hiniku na Kirakira Hoshi",
+  "url": "https://anilist.co/manga/123460",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123460-evIfkPqt0zTQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T19:12:57.000Z",
+  "updatedAt": "2021-06-07T16:35:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "adb9c060-3ac1-4937-b220-0f1176c08450": {
+        "authors": [
+          "Sakura Rico"
+        ],
+        "identifier": "adb9c060-3ac1-4937-b220-0f1176c08450",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi wa Hiniku na KiraKira Boshi",
+        "url": "https://mangadex.org/title/adb9c060-3ac1-4937-b220-0f1176c08450",
+        "image": "https://uploads.mangadex.org/covers/adb9c060-3ac1-4937-b220-0f1176c08450/869d4129-781e-46c1-94c2-be2bfdf658e5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120004,
+        "aniId": 123460,
+        "createdAt": "2020-10-12T16:18:20.000Z",
+        "updatedAt": "2021-06-07T16:35:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "海虎",
+    "Sea Tiger",
+    "Tiger Shark"
+  ],
+  "authors": [
+    "Yat Leung Wan",
+    "Zhihui Deng"
+  ],
+  "id": 57949,
+  "malId": 27949,
+  "type": "manga",
+  "title": "Hai Hu",
+  "url": "https://anilist.co/manga/57949",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27949.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:29.000Z",
+  "updatedAt": "2021-05-20T14:47:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8d949788-03db-4303-973e-296878160a03": {
+        "authors": [
+          "Tang Chi Fai",
+          "Wen Ri Liang"
+        ],
+        "identifier": "8d949788-03db-4303-973e-296878160a03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sea Tiger",
+        "url": "https://mangadex.org/title/8d949788-03db-4303-973e-296878160a03",
+        "image": "https://uploads.mangadex.org/covers/8d949788-03db-4303-973e-296878160a03/435c9612-9c14-4460-9d0c-6de81fb38da1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27949,
+        "aniId": 57949,
+        "createdAt": "2020-10-12T16:03:26.000Z",
+        "updatedAt": "2021-06-02T14:03:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

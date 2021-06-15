@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "エンブリヲ"
+  ],
+  "authors": [
+    "Koushin Ogawa"
+  ],
+  "id": 70711,
+  "malId": 40711,
+  "type": "manga",
+  "title": "Embryo",
+  "url": "https://anilist.co/manga/70711",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40711.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:45.000Z",
+  "updatedAt": "2021-05-20T14:48:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f04427ab-2049-460a-bb63-1a39a183485e": {
+        "authors": [
+          "OGAWA Koushin"
+        ],
+        "identifier": "f04427ab-2049-460a-bb63-1a39a183485e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Embryo",
+        "url": "https://mangadex.org/title/f04427ab-2049-460a-bb63-1a39a183485e",
+        "image": "https://uploads.mangadex.org/covers/f04427ab-2049-460a-bb63-1a39a183485e/aaa1562e-6781-41ac-870e-c38066599094.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40711,
+        "aniId": 70711,
+        "createdAt": "2020-10-12T16:15:46.000Z",
+        "updatedAt": "2021-06-06T16:39:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

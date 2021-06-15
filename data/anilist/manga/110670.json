@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "私をひとりじめにして"
+  ],
+  "authors": [
+    "Aru Kaneko"
+  ],
+  "id": 110670,
+  "malId": null,
+  "type": "manga",
+  "title": "Watashi wo Hitorijime ni Shite",
+  "url": "https://anilist.co/manga/110670",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110670-J2MJV5ILDdil.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T00:49:14.000Z",
+  "updatedAt": "2021-06-07T00:49:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5d59d37-2836-4d5c-a094-223ee83c4774": {
+        "authors": [
+          "Kaneko Aru"
+        ],
+        "identifier": "b5d59d37-2836-4d5c-a094-223ee83c4774",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi  wo Hitorijime ni Shite",
+        "url": "https://mangadex.org/title/b5d59d37-2836-4d5c-a094-223ee83c4774",
+        "image": "https://uploads.mangadex.org/covers/b5d59d37-2836-4d5c-a094-223ee83c4774/4f7c2555-8867-46f4-b2c2-1dce00caf00c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110670,
+        "createdAt": "2020-10-12T16:16:38.000Z",
+        "updatedAt": "2021-06-07T07:19:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

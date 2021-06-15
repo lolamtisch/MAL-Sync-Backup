@@ -1,0 +1,110 @@
+{
+  "altTitle": [
+    "Hybrid Child",
+    "Hybrid Child",
+    "ハイブリッド チャイルド"
+  ],
+  "authors": [
+    "Shungiku Nakamura"
+  ],
+  "id": 30257,
+  "malId": 257,
+  "type": "manga",
+  "title": "Hybrid Child",
+  "url": "https://anilist.co/manga/30257",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30257-zZ2kpIMfMi3N.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "868c77e6-0829-432d-a02c-954e1a9c0335": {
+        "authors": [
+          "Nakamura Shungiku"
+        ],
+        "identifier": "868c77e6-0829-432d-a02c-954e1a9c0335",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hybrid Child",
+        "url": "https://mangadex.org/title/868c77e6-0829-432d-a02c-954e1a9c0335",
+        "image": "https://uploads.mangadex.org/covers/868c77e6-0829-432d-a02c-954e1a9c0335/fc457f41-2ad0-4d38-a5b7-47dad38f8d4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 257,
+        "aniId": 30257,
+        "createdAt": "2020-10-12T16:05:04.000Z",
+        "updatedAt": "2021-06-03T09:59:08.000Z",
+        "deletedAt": null
+      },
+      "4276df64-7a0c-4079-bcc0-f65537ebcecd": {
+        "authors": [
+          "Yang Kyung-Il",
+          "Hyung-Min Kim"
+        ],
+        "identifier": "4276df64-7a0c-4079-bcc0-f65537ebcecd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sword Sheath's Child",
+        "url": "https://mangadex.org/title/4276df64-7a0c-4079-bcc0-f65537ebcecd",
+        "image": "https://uploads.mangadex.org/covers/4276df64-7a0c-4079-bcc0-f65537ebcecd/9e4ceff4-0353-4c6d-975b-d29a782b1009.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 257,
+        "aniId": 30257,
+        "createdAt": "2020-10-12T16:18:26.000Z",
+        "updatedAt": "2021-06-07T16:57:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hybrid_child": {
+        "authors": [
+          "NAKAMURA Shungiku"
+        ],
+        "identifier": "hybrid_child",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hybrid Child",
+        "url": "https://fanfox.net/manga/hybrid_child/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2445/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 257,
+        "aniId": 30257,
+        "createdAt": "2021-05-20T23:13:49.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bh978642": {
+        "authors": [
+          "Nakamura Shungiku"
+        ],
+        "identifier": "manga-bh978642",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hybrid Child",
+        "url": "https://manganato.com/manga-bh978642",
+        "image": "https://avt.mkklcdnv6temp.com/12/q/16-1583493928.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 257,
+        "aniId": 30257,
+        "createdAt": "2021-05-30T18:13:03.000Z",
+        "updatedAt": "2021-05-30T18:42:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

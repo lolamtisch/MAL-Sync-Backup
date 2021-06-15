@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "月下夢幻譚 - 神無シ夜ノヲトギ"
+  ],
+  "authors": [
+    "Mashin Osakabe"
+  ],
+  "id": 51401,
+  "malId": 21401,
+  "type": "manga",
+  "title": "Gekka Mugentan",
+  "url": "https://anilist.co/manga/51401",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21401.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T10:51:29.000Z",
+  "updatedAt": "2021-06-04T10:51:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6f6aa8d9-3f0c-435f-9405-ad90d75cb80d": {
+        "authors": [
+          "Osakabe Mashin"
+        ],
+        "identifier": "6f6aa8d9-3f0c-435f-9405-ad90d75cb80d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gekka Mugentan - Kaminashi Yoru no Otogibanashi",
+        "url": "https://mangadex.org/title/6f6aa8d9-3f0c-435f-9405-ad90d75cb80d",
+        "image": "https://uploads.mangadex.org/covers/6f6aa8d9-3f0c-435f-9405-ad90d75cb80d/d75263cc-607f-48c8-9c41-771a38f56eea.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21401,
+        "aniId": 51401,
+        "createdAt": "2020-10-12T16:08:29.000Z",
+        "updatedAt": "2021-06-04T12:52:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

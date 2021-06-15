@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Aki Miyamoto"
+  ],
+  "id": 50496,
+  "malId": 20496,
+  "type": "manga",
+  "title": "Haru no E ni wa Shinjuu wo",
+  "url": "https://anilist.co/manga/50496",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20496.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:32.000Z",
+  "updatedAt": "2021-05-20T14:45:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8470bc3a-16ef-4efc-8fa0-c82722d83ac3": {
+        "authors": [
+          "Miyamoto Aki"
+        ],
+        "identifier": "8470bc3a-16ef-4efc-8fa0-c82722d83ac3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haru no E ni wa Shinjuu wo",
+        "url": "https://mangadex.org/title/8470bc3a-16ef-4efc-8fa0-c82722d83ac3",
+        "image": "https://uploads.mangadex.org/covers/8470bc3a-16ef-4efc-8fa0-c82722d83ac3/473ae457-c92e-444b-910c-6dc219b1034f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20496,
+        "aniId": 50496,
+        "createdAt": "2020-10-12T16:16:02.000Z",
+        "updatedAt": "2021-06-06T19:02:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

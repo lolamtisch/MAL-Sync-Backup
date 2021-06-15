@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ハッピーアイスクリーム！"
+  ],
+  "authors": [
+    "Kawamura, Mika"
+  ],
+  "id": 3670,
+  "type": "manga",
+  "title": "Happy Ice Cream!",
+  "url": "https://myanimelist.net/manga/3670/Happy_Ice_Cream",
+  "image": "https://cdn.myanimelist.net/images/manga/3/85605.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:53.000Z",
+  "updatedAt": "2021-04-28T07:51:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "683d24fd-d6f6-4e4e-b4ae-6672af79adf7": {
+        "authors": [
+          "KAWAMURA Mika"
+        ],
+        "identifier": "683d24fd-d6f6-4e4e-b4ae-6672af79adf7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Happy Ice Cream!",
+        "url": "https://mangadex.org/title/683d24fd-d6f6-4e4e-b4ae-6672af79adf7",
+        "image": "https://uploads.mangadex.org/covers/683d24fd-d6f6-4e4e-b4ae-6672af79adf7/ba200e53-9e7a-472e-939a-670e5c2402cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3670,
+        "aniId": 33670,
+        "createdAt": "2020-10-12T16:06:16.000Z",
+        "updatedAt": "2021-06-03T18:27:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "happy-ice-cream": {
+        "authors": [
+          "KAWAMURA Mika"
+        ],
+        "identifier": "happy-ice-cream",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Happy Ice Cream!",
+        "url": "https://mangasee123.com/manga/Happy-Ice-Cream",
+        "image": "https://cover.nep.li/cover/Happy-Ice-Cream.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3670,
+        "aniId": 33670,
+        "createdAt": "2021-05-08T22:48:24.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

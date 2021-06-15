@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Hybrid Berry",
+    "ハイブリッドベリー"
+  ],
+  "authors": [
+    "Ayumi Komura"
+  ],
+  "id": 40636,
+  "malId": 10636,
+  "type": "manga",
+  "title": "Hybrid Berry",
+  "url": "https://anilist.co/manga/40636",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10636-slrEjHCFEqYW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1f9fc3d2-964b-42f6-be27-be0b8c489875": {
+        "authors": [
+          "Komura Ayumi"
+        ],
+        "identifier": "1f9fc3d2-964b-42f6-be27-be0b8c489875",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hybrid Berry",
+        "url": "https://mangadex.org/title/1f9fc3d2-964b-42f6-be27-be0b8c489875",
+        "image": "https://uploads.mangadex.org/covers/1f9fc3d2-964b-42f6-be27-be0b8c489875/4402faa5-2bce-464f-b644-5ca8c9f2bbb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10636,
+        "aniId": 40636,
+        "createdAt": "2020-10-12T16:04:09.000Z",
+        "updatedAt": "2021-06-02T19:04:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

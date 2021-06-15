@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "望むべくもない",
+    "Nozomu Bekumonai",
+    "Nozomubeku mo Nai"
+  ],
+  "authors": [
+    "Sangatsu Masao"
+  ],
+  "id": 84935,
+  "malId": 54935,
+  "type": "manga",
+  "title": "Nozomu beku mo Nai",
+  "url": "https://anilist.co/manga/84935",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/54935.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-30T00:12:13.000Z",
+  "updatedAt": "2021-05-30T00:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e5650968-fe0d-4fbb-a96a-b64602d91c17": {
+        "authors": [
+          "Masao Sangatsu"
+        ],
+        "identifier": "e5650968-fe0d-4fbb-a96a-b64602d91c17",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nozomu Bekumonai",
+        "url": "https://mangadex.org/title/e5650968-fe0d-4fbb-a96a-b64602d91c17",
+        "image": "https://uploads.mangadex.org/covers/e5650968-fe0d-4fbb-a96a-b64602d91c17/003c17bb-02ef-4b80-b2ba-650e5715853c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54935,
+        "aniId": 84935,
+        "createdAt": "2020-10-12T16:09:49.000Z",
+        "updatedAt": "2021-06-04T20:41:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

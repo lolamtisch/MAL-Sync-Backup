@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ジャンク -レコード・オブ・ザ・ラスト・ヒーロー-",
+    "Junk - Cronache dell'ultimo eroe"
+  ],
+  "authors": [
+    "Kia Asamiya",
+    "Giacomo Calorio"
+  ],
+  "id": 31036,
+  "malId": 1036,
+  "type": "manga",
+  "title": "Junk: Record of the Last Hero",
+  "url": "https://anilist.co/manga/31036",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1036.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "77e56fca-b10c-4067-8013-0a29259f0889": {
+        "authors": [
+          "Asamiya Kia"
+        ],
+        "identifier": "77e56fca-b10c-4067-8013-0a29259f0889",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Junk - Record of the Last Hero",
+        "url": "https://mangadex.org/title/77e56fca-b10c-4067-8013-0a29259f0889",
+        "image": "https://uploads.mangadex.org/covers/77e56fca-b10c-4067-8013-0a29259f0889/e98fd7a4-5cf8-4b86-a258-35f146e40199.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1036,
+        "aniId": 31036,
+        "createdAt": "2020-10-12T16:02:50.000Z",
+        "updatedAt": "2021-06-02T09:46:22.000Z",
+        "deletedAt": null
+      },
+      "e9571041-4804-47f1-a6df-77eca5d0843a": {
+        "authors": [
+          "Tamura Yumi"
+        ],
+        "identifier": "e9571041-4804-47f1-a6df-77eca5d0843a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Record of the Dead",
+        "url": "https://mangadex.org/title/e9571041-4804-47f1-a6df-77eca5d0843a",
+        "image": "https://uploads.mangadex.org/covers/e9571041-4804-47f1-a6df-77eca5d0843a/79d1f6b7-e552-473d-88de-0bcd1a8c1172.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1036,
+        "aniId": 31036,
+        "createdAt": "2020-10-12T16:17:10.000Z",
+        "updatedAt": "2021-06-07T05:27:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "junk-record-of-the-last-hero": {
+        "authors": [
+          "ASAMIYA Kia"
+        ],
+        "identifier": "junk-record-of-the-last-hero",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Junk - Record of the Last Hero",
+        "url": "https://mangasee123.com/manga/Junk-Record-Of-The-Last-Hero",
+        "image": "https://cover.nep.li/cover/Junk-Record-Of-The-Last-Hero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1036,
+        "aniId": 31036,
+        "createdAt": "2021-06-14T01:39:34.000Z",
+        "updatedAt": "2021-06-14T02:08:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

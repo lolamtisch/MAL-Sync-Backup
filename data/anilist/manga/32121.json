@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "眠れる君の薔薇色の唇"
+  ],
+  "authors": [
+    "Sakurako Gokurakuin"
+  ],
+  "id": 32121,
+  "malId": 2121,
+  "type": "manga",
+  "title": "Nemureru Kimi no Barairo no Kuchibiru",
+  "url": "https://anilist.co/manga/32121",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2121.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T11:25:51.000Z",
+  "updatedAt": "2021-06-08T11:25:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56b7d477-84fb-482a-83b7-f4e65bb5ccf9": {
+        "authors": [
+          "Sakura Ashika"
+        ],
+        "identifier": "56b7d477-84fb-482a-83b7-f4e65bb5ccf9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nemureru Kimi no Barairo no Kuchibiru",
+        "url": "https://mangadex.org/title/56b7d477-84fb-482a-83b7-f4e65bb5ccf9",
+        "image": "https://uploads.mangadex.org/covers/56b7d477-84fb-482a-83b7-f4e65bb5ccf9/5d3669d1-c106-4882-9ebe-251f88607a03.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2121,
+        "aniId": 32121,
+        "createdAt": "2021-02-03T07:32:21.000Z",
+        "updatedAt": "2021-06-08T12:05:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

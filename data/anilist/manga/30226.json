@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "水温む",
+    "Spring Fever",
+    "Mizu Numuru"
+  ],
+  "authors": [
+    "Yugi Yamada"
+  ],
+  "id": 30226,
+  "malId": 226,
+  "type": "manga",
+  "title": "Mizu Nurumu",
+  "url": "https://anilist.co/manga/30226",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30226-DWItk8rv1rTi.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "550d20da-0a74-41c2-8dfe-f8e6014b5b43": {
+        "authors": [
+          "Han Yu-Rang"
+        ],
+        "identifier": "550d20da-0a74-41c2-8dfe-f8e6014b5b43",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Never Cry",
+        "url": "https://mangadex.org/title/550d20da-0a74-41c2-8dfe-f8e6014b5b43",
+        "image": "https://uploads.mangadex.org/covers/550d20da-0a74-41c2-8dfe-f8e6014b5b43/78536496-823f-4d5a-9873-0b1c05ddb4e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 226,
+        "aniId": 30226,
+        "createdAt": "2020-10-12T16:03:30.000Z",
+        "updatedAt": "2021-06-02T14:24:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

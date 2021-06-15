@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "コーリング シリーズ",
+    "Night Call",
+    "Stray Sheep",
+    "Ougon no Ame",
+    "Golden Rain"
+  ],
+  "authors": [
+    "Kano Miyamoto"
+  ],
+  "id": 37070,
+  "malId": 7070,
+  "type": "manga",
+  "title": "Calling Series",
+  "url": "https://anilist.co/manga/37070",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7070.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:45.000Z",
+  "updatedAt": "2021-05-20T14:39:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d62fc90-7dfc-461c-a3a7-39a4219ac59d": {
+        "authors": [
+          "Miyamoto Kano"
+        ],
+        "identifier": "0d62fc90-7dfc-461c-a3a7-39a4219ac59d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Calling",
+        "url": "https://mangadex.org/title/0d62fc90-7dfc-461c-a3a7-39a4219ac59d",
+        "image": "https://uploads.mangadex.org/covers/0d62fc90-7dfc-461c-a3a7-39a4219ac59d/4579c0af-71d3-45e9-8b7f-d307055a9eb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7070,
+        "aniId": 37070,
+        "createdAt": "2020-10-12T16:05:28.000Z",
+        "updatedAt": "2021-06-03T12:51:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

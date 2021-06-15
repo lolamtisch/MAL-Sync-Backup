@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "In Passing",
+    "アンパッサン"
+  ],
+  "authors": [
+    "Tarou Yuzunoki"
+  ],
+  "id": 47360,
+  "malId": 17360,
+  "type": "manga",
+  "title": "En Passant",
+  "url": "https://anilist.co/manga/47360",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47360-CnPF5UDXdUGy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:05.000Z",
+  "updatedAt": "2021-05-20T14:44:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09ffee50-f5ad-4997-86a6-ac797b94b3e4": {
+        "authors": [
+          "YUZUNOKI Taro"
+        ],
+        "identifier": "09ffee50-f5ad-4997-86a6-ac797b94b3e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "En Passant",
+        "url": "https://mangadex.org/title/09ffee50-f5ad-4997-86a6-ac797b94b3e4",
+        "image": "https://uploads.mangadex.org/covers/09ffee50-f5ad-4997-86a6-ac797b94b3e4/a4fc9aa3-d6bc-402f-8c30-dc98d3cff317.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17360,
+        "aniId": 47360,
+        "createdAt": "2020-10-12T16:02:52.000Z",
+        "updatedAt": "2021-06-02T10:05:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "en_passant": {
+        "authors": [
+          "Yuzunoki",
+          "Taro"
+        ],
+        "identifier": "en_passant",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "En Passant",
+        "url": "https://manganelo.com/manga/en_passant",
+        "image": "https://avt.mkklcdnv6.com/49/s/3-1583469634.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17360,
+        "aniId": 47360,
+        "createdAt": "2020-12-03T14:23:13.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "en-passant": {
+        "authors": [
+          "YUZUNOKI Taro"
+        ],
+        "identifier": "en-passant",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "En Passant",
+        "url": "https://mangasee123.com/manga/En-Passant",
+        "image": "https://cover.nep.li/cover/En-Passant.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17360,
+        "aniId": 47360,
+        "createdAt": "2021-04-25T18:27:45.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

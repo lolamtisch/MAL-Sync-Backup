@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "이중첩자",
+    "A Double Agent",
+    "The Double Agent"
+  ],
+  "authors": [
+    "Sukhye Pi",
+    "Yeopjipchalseu"
+  ],
+  "id": 126396,
+  "malId": null,
+  "type": "manga",
+  "title": "Ijungcheopja",
+  "url": "https://anilist.co/manga/126396",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126396-77bLXlm03jiF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T03:50:41.000Z",
+  "updatedAt": "2021-06-08T03:50:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5e33ecd-a76c-4ad7-9afa-e26bf2fcb0ea": {
+        "authors": [
+          "Charles Next Door",
+          "Pi Sook-hae"
+        ],
+        "identifier": "b5e33ecd-a76c-4ad7-9afa-e26bf2fcb0ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Double Agent",
+        "url": "https://mangadex.org/title/b5e33ecd-a76c-4ad7-9afa-e26bf2fcb0ea",
+        "image": "https://uploads.mangadex.org/covers/b5e33ecd-a76c-4ad7-9afa-e26bf2fcb0ea/81fb3137-afb4-4a3a-81af-1e24be5cff6d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126396,
+        "createdAt": "2020-10-12T16:21:54.000Z",
+        "updatedAt": "2021-06-08T06:41:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Blue seed",
+    "碧奇魂ブルーシード "
+  ],
+  "authors": [
+    "Yuuzou Takada"
+  ],
+  "id": 31540,
+  "malId": 1540,
+  "type": "manga",
+  "title": "Aokushimitama Blue Seed",
+  "url": "https://anilist.co/manga/31540",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1540.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:47.000Z",
+  "updatedAt": "2021-06-14T05:08:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e81230d9-c3b1-4b6b-b2cd-83342c1c58d9": {
+        "authors": [
+          "Takada Yuuzou"
+        ],
+        "identifier": "e81230d9-c3b1-4b6b-b2cd-83342c1c58d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aokushimitama Blue Seed",
+        "url": "https://mangadex.org/title/e81230d9-c3b1-4b6b-b2cd-83342c1c58d9",
+        "image": "https://uploads.mangadex.org/covers/e81230d9-c3b1-4b6b-b2cd-83342c1c58d9/ac160b29-f449-4306-b208-0adaea3e2b07.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1540,
+        "aniId": 31540,
+        "createdAt": "2020-10-12T16:04:36.000Z",
+        "updatedAt": "2021-06-02T22:11:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

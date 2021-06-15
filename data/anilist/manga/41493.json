@@ -1,0 +1,123 @@
+{
+  "altTitle": [
+    "仁"
+  ],
+  "authors": [
+    "Motoka Murakami"
+  ],
+  "id": 41493,
+  "malId": 11493,
+  "type": "manga",
+  "title": "Jin",
+  "url": "https://anilist.co/manga/41493",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41493-mAdWjbBnHEPd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:18.000Z",
+  "updatedAt": "2021-05-20T14:41:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec86fe52-2294-4244-99ce-1981cfc950ad": {
+        "authors": [
+          "MURAKAMI Motoka"
+        ],
+        "identifier": "ec86fe52-2294-4244-99ce-1981cfc950ad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jin",
+        "url": "https://mangadex.org/title/ec86fe52-2294-4244-99ce-1981cfc950ad",
+        "image": "https://uploads.mangadex.org/covers/ec86fe52-2294-4244-99ce-1981cfc950ad/898b7824-15f7-435b-8b7b-bc2dd94ad7b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11493,
+        "aniId": 41493,
+        "createdAt": "2020-10-12T16:04:34.000Z",
+        "updatedAt": "2021-06-02T21:52:42.000Z",
+        "deletedAt": null
+      },
+      "772bc42a-7a83-4ba5-9ec9-54290c83043b": {
+        "authors": [
+          "바른꽃"
+        ],
+        "identifier": "772bc42a-7a83-4ba5-9ec9-54290c83043b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Goryu Jin",
+        "url": "https://mangadex.org/title/772bc42a-7a83-4ba5-9ec9-54290c83043b",
+        "image": "https://uploads.mangadex.org/covers/772bc42a-7a83-4ba5-9ec9-54290c83043b/9139f56b-e415-4795-8705-ad00bc9de3bb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11493,
+        "aniId": 41493,
+        "createdAt": "2020-10-12T16:16:19.000Z",
+        "updatedAt": "2021-06-06T21:34:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jin": {
+        "authors": [],
+        "identifier": "jin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jin",
+        "url": "https://manganelo.com/manga/jin",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/849-jin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11493,
+        "aniId": 41493,
+        "createdAt": "2020-10-12T16:23:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "jinx_yeonin": {
+        "authors": [],
+        "identifier": "jinx_yeonin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jinx Yeon-In",
+        "url": "https://manganelo.com/manga/jinx_yeonin",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18443-jinx_yeonin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11493,
+        "aniId": 41493,
+        "createdAt": "2020-10-12T16:23:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "jin": {
+        "authors": [
+          "MURAKAMI Motoka"
+        ],
+        "identifier": "jin",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Jin",
+        "url": "https://mangasee123.com/manga/Jin",
+        "image": "https://cover.nep.li/cover/Jin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11493,
+        "aniId": 41493,
+        "createdAt": "2021-03-27T02:19:36.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

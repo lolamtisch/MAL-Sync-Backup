@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ハニービター"
+  ],
+  "authors": [
+    "Miho Obana"
+  ],
+  "id": 32144,
+  "malId": 2144,
+  "type": "manga",
+  "title": "Honey Bitter",
+  "url": "https://anilist.co/manga/32144",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32144-NPx8UNcC0Mni.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "36bb0f7d-3002-41c5-abe9-8389588578bb": {
+        "authors": [
+          "OBANA Miho"
+        ],
+        "identifier": "36bb0f7d-3002-41c5-abe9-8389588578bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honey Bitter",
+        "url": "https://mangadex.org/title/36bb0f7d-3002-41c5-abe9-8389588578bb",
+        "image": "https://uploads.mangadex.org/covers/36bb0f7d-3002-41c5-abe9-8389588578bb/a29ee31e-722d-41ef-8705-7ce280429ef0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2144,
+        "aniId": 32144,
+        "createdAt": "2020-10-12T16:03:28.000Z",
+        "updatedAt": "2021-06-02T14:14:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "honey-bitter": {
+        "authors": [
+          "OBANA Miho"
+        ],
+        "identifier": "honey-bitter",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Honey Bitter",
+        "url": "https://mangasee123.com/manga/Honey-Bitter",
+        "image": "https://cover.nep.li/cover/Honey-Bitter.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2144,
+        "aniId": 32144,
+        "createdAt": "2021-05-17T04:25:36.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

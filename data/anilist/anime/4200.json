@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "ダーティペア (1987)",
+    "Original Dirty Pair",
+    "Dirty Pair (1987)"
+  ],
+  "id": 4200,
+  "malId": 4200,
+  "type": "anime",
+  "title": "Dirty Pair OVA",
+  "url": "https://anilist.co/anime/4200",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4200-9x7l994VJk2N.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:33.000Z",
+  "updatedAt": "2021-05-20T14:37:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "lqmz": {
+        "identifier": "lqmz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dirty Pair OVA",
+        "url": "https://9anime.ru/watch/dirty-pair-ova.lqmz",
+        "image": "https://static.akacdn.ru/files/images/2018/07/5fea8301988958ee3f6849a2e8ac436e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4200,
+        "aniId": 4200,
+        "createdAt": "2020-10-12T15:53:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "mrnx": {
+        "identifier": "mrnx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dirty Pair OVA (Dub)",
+        "url": "https://9anime.to/watch/dirty-pair-ova-dub.mrnx",
+        "image": "https://static.akacdn.ru/files/images/2018/07/cdf4be043975e916a7abbddcc8353781.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4200,
+        "aniId": 4200,
+        "createdAt": "2020-10-12T15:53:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dirty-pair-ova": {
+        "identifier": "dirty-pair-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dirty Pair OVA",
+        "url": "https://www9.gogoanime.io/category/dirty-pair-ova",
+        "image": "https://cdnimg.xyz/cover/dirty-pair-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4200,
+        "aniId": 4200,
+        "createdAt": "2020-10-12T16:00:16.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

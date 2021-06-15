@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "トーキョーバベル"
+  ],
+  "authors": [
+    "Sora Karin",
+    "Ran Kuze"
+  ],
+  "id": 118228,
+  "malId": 126291,
+  "type": "manga",
+  "title": "Tokyo Babel",
+  "url": "https://anilist.co/manga/118228",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118228-wCjaMmCfDLmr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:13.000Z",
+  "updatedAt": "2021-06-07T22:20:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "456c5d9c-5951-4262-83f9-97e10da3b62a": {
+        "authors": [
+          "Karin Sora",
+          "Kuze Ran"
+        ],
+        "identifier": "456c5d9c-5951-4262-83f9-97e10da3b62a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Babel",
+        "url": "https://mangadex.org/title/456c5d9c-5951-4262-83f9-97e10da3b62a",
+        "image": "https://uploads.mangadex.org/covers/456c5d9c-5951-4262-83f9-97e10da3b62a/99bd18d2-5333-401c-bf01-8274c54300fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126291,
+        "aniId": 118228,
+        "createdAt": "2020-10-12T16:19:23.000Z",
+        "updatedAt": "2021-06-08T00:30:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "po924478": {
+        "authors": [
+          "Karin",
+          "Sora"
+        ],
+        "identifier": "po924478",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tokyo Babel",
+        "url": "https://manganelo.com/manga/po924478",
+        "image": "https://avt.mkklcdnv6.com/27/n/22-1602823792.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126291,
+        "aniId": 118228,
+        "createdAt": "2021-01-07T20:51:01.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Honey Mustard",
+    "허니 머스타드"
+  ],
+  "authors": [
+    "Ho-Kyoung Yeo"
+  ],
+  "id": 30365,
+  "malId": 365,
+  "type": "manga",
+  "title": "Honey Mustard",
+  "url": "https://anilist.co/manga/30365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30365-Afkls965GlbE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:31.000Z",
+  "updatedAt": "2021-05-20T14:35:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d1c0ee70-0f98-4810-921c-00c642531a03": {
+        "authors": [
+          "YEO Ho-Kyoung"
+        ],
+        "identifier": "d1c0ee70-0f98-4810-921c-00c642531a03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honey Mustard",
+        "url": "https://mangadex.org/title/d1c0ee70-0f98-4810-921c-00c642531a03",
+        "image": "https://uploads.mangadex.org/covers/d1c0ee70-0f98-4810-921c-00c642531a03/29e1c89b-2792-4a7f-b565-da37acdf3a4b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 365,
+        "aniId": 30365,
+        "createdAt": "2020-10-12T16:13:04.000Z",
+        "updatedAt": "2021-06-05T18:32:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "honey_mustard": {
+        "authors": [
+          "Yeo",
+          "Ho",
+          "Kyoung"
+        ],
+        "identifier": "honey_mustard",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Honey Mustard",
+        "url": "https://manganelo.com/manga/honey_mustard",
+        "image": "https://avt.mkklcdnv6temp.com/44/r/5-1583473636.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 365,
+        "aniId": 30365,
+        "createdAt": "2021-04-05T14:39:24.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

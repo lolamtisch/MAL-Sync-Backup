@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "The Amazing 3",
+    "W3, Wonder Three, Amazing Three, Wondering Three",
+    "ワンダー３"
+  ],
+  "id": 4088,
+  "type": "anime",
+  "title": "Wonder 3",
+  "url": "https://myanimelist.net/anime/4088/Wonder_3",
+  "image": "https://cdn.myanimelist.net/images/anime/5/33155.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:41.000Z",
+  "updatedAt": "2021-03-26T06:49:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "68x4": {
+        "identifier": "68x4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wonder 3",
+        "url": "https://9anime.ru/watch/wonder-3.68x4",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-eXTiE2BzQg8/WNzrkPaeBlI/AAAAAAAAeac/NOewADCGWy8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4088,
+        "aniId": 4088,
+        "createdAt": "2020-10-12T15:50:42.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "jr22": {
+        "identifier": "jr22",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wonder 3 (Dub)",
+        "url": "https://www12.9anime.to/watch/the-amazing-3-dub.jr22",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2020/02/f264c287504dbf352f3b68d73d072a89.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 4088,
+        "aniId": 4088,
+        "createdAt": "2020-10-12T19:15:28.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wonder-3": {
+        "identifier": "wonder-3",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wonder 3",
+        "url": "https://gogoanime.ai/category/wonder-3",
+        "image": "https://gogocdn.net/cover/wonder-3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4088,
+        "aniId": 4088,
+        "createdAt": "2021-03-26T06:49:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "wonder-3-dub": {
+        "identifier": "wonder-3-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wonder 3 (Dub)",
+        "url": "https://gogoanime.ai/category/wonder-3-dub",
+        "image": "https://gogocdn.net/cover/wonder-3-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4088,
+        "aniId": 4088,
+        "createdAt": "2021-03-26T10:19:07.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "こっちむいて!みい子",
+    "A Call from that Day",
+    "Ano Hi kara no Denwa",
+    "Hai, Miiko!"
+  ],
+  "authors": [
+    "Eriko Ono"
+  ],
+  "id": 50554,
+  "malId": 20554,
+  "type": "manga",
+  "title": "Kocchi Muite! Miiko",
+  "url": "https://anilist.co/manga/50554",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50554-CkgSpFaC6FMV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:32.000Z",
+  "updatedAt": "2021-05-20T14:45:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31f08f69-f21c-4572-9ead-25e808d59c90": {
+        "authors": [
+          "Ono Eriko"
+        ],
+        "identifier": "31f08f69-f21c-4572-9ead-25e808d59c90",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kocchi Muite! Miiko",
+        "url": "https://mangadex.org/title/31f08f69-f21c-4572-9ead-25e808d59c90",
+        "image": "https://uploads.mangadex.org/covers/31f08f69-f21c-4572-9ead-25e808d59c90/d8a90b15-f656-49df-8db6-fe5d7653e0bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20554,
+        "aniId": 50554,
+        "createdAt": "2020-10-12T16:12:04.000Z",
+        "updatedAt": "2021-06-05T13:09:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

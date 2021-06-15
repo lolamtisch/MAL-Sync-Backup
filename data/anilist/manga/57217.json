@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "シューティング　スター"
+  ],
+  "authors": [
+    "Ichigo Takano"
+  ],
+  "id": 57217,
+  "malId": 27217,
+  "type": "manga",
+  "title": "Shooting Star",
+  "url": "https://anilist.co/manga/57217",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27217.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:26.000Z",
+  "updatedAt": "2021-05-20T14:47:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "ir922108": {
+        "authors": [],
+        "identifier": "ir922108",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Idolish7: Wish Upon A Shooting Star",
+        "url": "https://manganelo.com/manga/ir922108",
+        "image": "https://avt.mkklcdnv6.com/31/j/20-1583502233.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27217,
+        "aniId": 57217,
+        "createdAt": "2020-10-12T16:23:35.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shooting-star": {
+        "authors": [
+          "TAKANO Ichigo"
+        ],
+        "identifier": "shooting-star",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shooting Star (TAKANO Ichigo)",
+        "url": "https://mangasee123.com/manga/Shooting-Star",
+        "image": "https://cover.nep.li/cover/Shooting-Star.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27217,
+        "aniId": 57217,
+        "createdAt": "2021-06-06T00:19:39.000Z",
+        "updatedAt": "2021-06-06T00:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

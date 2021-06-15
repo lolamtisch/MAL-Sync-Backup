@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "魔喰のリース",
+    "Rease the Magic Eater"
+  ],
+  "authors": [
+    "Ai Odahara"
+  ],
+  "id": 104136,
+  "malId": 104567,
+  "type": "manga",
+  "title": "Makui no Rease",
+  "url": "https://anilist.co/manga/104136",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104136-lAcVslfTZQ5c.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:11.000Z",
+  "updatedAt": "2021-05-20T14:55:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4a1c7278-9be1-4a34-88b5-5d5754c5f71f": {
+        "authors": [
+          "Odahara Ai"
+        ],
+        "identifier": "4a1c7278-9be1-4a34-88b5-5d5754c5f71f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Makui no Risu",
+        "url": "https://mangadex.org/title/4a1c7278-9be1-4a34-88b5-5d5754c5f71f",
+        "image": "https://uploads.mangadex.org/covers/4a1c7278-9be1-4a34-88b5-5d5754c5f71f/fe20e0c2-abec-4b4e-ae36-a5a65b120fbf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104567,
+        "aniId": 104136,
+        "createdAt": "2020-10-12T16:11:09.000Z",
+        "updatedAt": "2021-06-05T06:07:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "makui_no_rease": {
+        "authors": [],
+        "identifier": "makui_no_rease",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Makui no Rease",
+        "url": "https://manganelo.com/manga/makui_no_rease",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20628-makui_no_rease.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104567,
+        "aniId": 104136,
+        "createdAt": "2020-10-12T16:24:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "makui_no_rease": {
+        "authors": [
+          "ODAHARA Ai"
+        ],
+        "identifier": "makui_no_rease",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Makui no Rease",
+        "url": "https://fanfox.net/manga/makui_no_rease/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28129/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104567,
+        "aniId": 104136,
+        "createdAt": "2021-01-10T09:51:31.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

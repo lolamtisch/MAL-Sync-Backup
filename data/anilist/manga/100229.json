@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ちょっといっぱい！"
+  ],
+  "authors": [
+    "Kayou"
+  ],
+  "id": 100229,
+  "malId": 107920,
+  "type": "manga",
+  "title": "Chotto Ippai!",
+  "url": "https://anilist.co/manga/100229",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100229-cp8h2EUBZzvD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:55.000Z",
+  "updatedAt": "2021-05-20T14:55:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fabfd1d5-6ddb-464f-a9dc-8a694ff464ab": {
+        "authors": [
+          "Kayou"
+        ],
+        "identifier": "fabfd1d5-6ddb-464f-a9dc-8a694ff464ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chotto Ippai!",
+        "url": "https://mangadex.org/title/fabfd1d5-6ddb-464f-a9dc-8a694ff464ab",
+        "image": "https://uploads.mangadex.org/covers/fabfd1d5-6ddb-464f-a9dc-8a694ff464ab/ae57a55a-d823-4e2b-9549-2cc214c57e48.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107920,
+        "aniId": 100229,
+        "createdAt": "2020-10-12T16:11:01.000Z",
+        "updatedAt": "2021-06-05T05:07:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chotto_ippai": {
+        "authors": [],
+        "identifier": "chotto_ippai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chotto Ippai!",
+        "url": "https://manganelo.com/manga/chotto_ippai",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20470-chotto_ippai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107920,
+        "aniId": 100229,
+        "createdAt": "2020-10-12T16:22:28.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "chotto-ippai": {
+        "authors": [
+          "Kayou"
+        ],
+        "identifier": "chotto-ippai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Chotto Ippai!",
+        "url": "https://mangasee123.com/manga/Chotto-Ippai",
+        "image": "https://cover.nep.li/cover/Chotto-Ippai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107920,
+        "aniId": 100229,
+        "createdAt": "2021-04-29T11:20:33.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

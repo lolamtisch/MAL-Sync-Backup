@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "It Begins with Goodbye",
+    "はじまりはさよなら"
+  ],
+  "authors": [
+    "Kichi Uekawa"
+  ],
+  "id": 96549,
+  "malId": 95087,
+  "type": "manga",
+  "title": "Hajimari wa Sayonara",
+  "url": "https://anilist.co/manga/96549",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96549-8T3tp6q7I59G.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:53:57.000Z",
+  "updatedAt": "2021-05-20T14:53:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cf57a1e1-7fab-4ab5-b62d-a5f2d48f2a5c": {
+        "authors": [
+          "Uekawa Kichi"
+        ],
+        "identifier": "cf57a1e1-7fab-4ab5-b62d-a5f2d48f2a5c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajimari wa Sayonara",
+        "url": "https://mangadex.org/title/cf57a1e1-7fab-4ab5-b62d-a5f2d48f2a5c",
+        "image": "https://uploads.mangadex.org/covers/cf57a1e1-7fab-4ab5-b62d-a5f2d48f2a5c/3a744986-03a1-43c3-8f2f-a5de2517b2dd.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95087,
+        "aniId": 96549,
+        "createdAt": "2020-10-12T16:09:20.000Z",
+        "updatedAt": "2021-06-04T16:50:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

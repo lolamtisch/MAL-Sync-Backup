@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "君と僕のアシアト",
+    "Your and My Footprints"
+  ],
+  "authors": [
+    "Kumichi Yoshizuki"
+  ],
+  "id": 54900,
+  "malId": 24900,
+  "type": "manga",
+  "title": "Kimi to Boku no Ashiato",
+  "url": "https://anilist.co/manga/54900",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24900.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T22:20:19.000Z",
+  "updatedAt": "2021-06-03T22:20:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "902b0ec2-9707-4a7f-828d-1b91788909ed": {
+        "authors": [
+          "Yoshizuki Kumichi"
+        ],
+        "identifier": "902b0ec2-9707-4a7f-828d-1b91788909ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoshizuki Kumichi Tanpenshuu - Kimi to Boku no Ashiato",
+        "url": "https://mangadex.org/title/902b0ec2-9707-4a7f-828d-1b91788909ed",
+        "image": "https://uploads.mangadex.org/covers/902b0ec2-9707-4a7f-828d-1b91788909ed/faacbb6e-5836-4c15-93c0-be04e6477a38.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24900,
+        "aniId": 54900,
+        "createdAt": "2020-10-12T16:06:44.000Z",
+        "updatedAt": "2021-06-03T22:40:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

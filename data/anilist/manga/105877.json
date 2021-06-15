@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "琅寰书院",
+    "Lang Huan Library",
+    "Jade World Academy",
+    "Lang Huan Academy"
+  ],
+  "authors": [],
+  "id": 105877,
+  "malId": null,
+  "type": "manga",
+  "title": "Lang Huan Shuyuan",
+  "url": "https://anilist.co/manga/105877",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105877-Ba1B0qEF3jVP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T18:08:17.000Z",
+  "updatedAt": "2021-05-26T18:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fdf91fb3-2e2d-4812-b3b6-e73728a7c397": {
+        "authors": [
+          "Sheng Ling Studios"
+        ],
+        "identifier": "fdf91fb3-2e2d-4812-b3b6-e73728a7c397",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lang Huan Academy",
+        "url": "https://mangadex.org/title/fdf91fb3-2e2d-4812-b3b6-e73728a7c397",
+        "image": "https://uploads.mangadex.org/covers/fdf91fb3-2e2d-4812-b3b6-e73728a7c397/34b6807b-723e-41a5-be38-27ffb4768160.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 105877,
+        "createdAt": "2020-10-12T16:13:38.000Z",
+        "updatedAt": "2021-06-06T00:17:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

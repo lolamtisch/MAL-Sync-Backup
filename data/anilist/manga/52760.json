@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "弾アモウ"
+  ],
+  "authors": [
+    "Atsuji Yamamoto"
+  ],
+  "id": 52760,
+  "malId": 22760,
+  "type": "manga",
+  "title": "Ammo",
+  "url": "https://anilist.co/manga/52760",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52760-JvPaLGISdYlG.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:32.000Z",
+  "updatedAt": "2021-05-20T14:46:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d9f4b069-2c8a-4c7f-a2d0-2659672e1527": {
+        "authors": [
+          "YAMAMOTO Atsuji"
+        ],
+        "identifier": "d9f4b069-2c8a-4c7f-a2d0-2659672e1527",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ammo",
+        "url": "https://mangadex.org/title/d9f4b069-2c8a-4c7f-a2d0-2659672e1527",
+        "image": "https://uploads.mangadex.org/covers/d9f4b069-2c8a-4c7f-a2d0-2659672e1527/9b399b01-fa90-48a5-bc91-868be2f590b3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22760,
+        "aniId": 52760,
+        "createdAt": "2020-10-12T16:17:24.000Z",
+        "updatedAt": "2021-06-07T07:11:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "花は桜よりも華のごとく"
+  ],
+  "authors": [
+    "Yuumi Kawai",
+    "Keiko Sakano"
+  ],
+  "id": 59675,
+  "malId": 29675,
+  "type": "manga",
+  "title": "Hana wa Sakura Yori mo Hana no Gotoku",
+  "url": "https://anilist.co/manga/59675",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59675-W9xyZo3E4ERE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:37.000Z",
+  "updatedAt": "2021-05-20T14:47:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "067413bf-32ae-4fa7-be91-c9e52102e1ef": {
+        "authors": [
+          "KAWAI Yuumi",
+          "Sakano Keiko"
+        ],
+        "identifier": "067413bf-32ae-4fa7-be91-c9e52102e1ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana wa Sakura yori mo Hana no Gotoku",
+        "url": "https://mangadex.org/title/067413bf-32ae-4fa7-be91-c9e52102e1ef",
+        "image": "https://uploads.mangadex.org/covers/067413bf-32ae-4fa7-be91-c9e52102e1ef/a103b69b-c4e6-463b-bfb4-534674e5ee0f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 29675,
+        "aniId": 59675,
+        "createdAt": "2020-10-12T16:04:13.000Z",
+        "updatedAt": "2021-06-02T20:30:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

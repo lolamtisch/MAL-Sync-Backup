@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "彼は、あの子のモノ"
+  ],
+  "authors": [
+    "Kayoru"
+  ],
+  "id": 53904,
+  "malId": 23904,
+  "type": "manga",
+  "title": "Kare wa, Ano Ko no Mono",
+  "url": "https://anilist.co/manga/53904",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53904-1yVinBW3dmaA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:40.000Z",
+  "updatedAt": "2021-05-20T14:46:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "af54d2db-ee64-4f77-afd2-90ed23334dc2": {
+        "authors": [
+          "Kayoru"
+        ],
+        "identifier": "af54d2db-ee64-4f77-afd2-90ed23334dc2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kare wa, Ano Ko no Mono",
+        "url": "https://mangadex.org/title/af54d2db-ee64-4f77-afd2-90ed23334dc2",
+        "image": "https://uploads.mangadex.org/covers/af54d2db-ee64-4f77-afd2-90ed23334dc2/be478ee3-64e6-48c8-997b-695988a7765b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23904,
+        "aniId": 53904,
+        "createdAt": "2020-10-12T16:12:37.000Z",
+        "updatedAt": "2021-06-05T15:32:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

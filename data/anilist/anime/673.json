@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "My-Hime Specials",
+    "舞-HiME",
+    "My-HiME",
+    "My Princess"
+  ],
+  "id": 673,
+  "malId": 673,
+  "type": "anime",
+  "title": "Mai-HiME Specials",
+  "url": "https://anilist.co/anime/673",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/673.jpg",
+  "category": "special",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:43.000Z",
+  "updatedAt": "2021-05-20T14:34:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "49mk": {
+        "identifier": "49mk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mai-HiME Specials",
+        "url": "https://9anime.ru/watch/mai-hime-specials.49mk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MKRAPI6pX88/WEKXh0XLo0I/AAAAAAABRVk/arguAxjeNyE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 673,
+        "aniId": 673,
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "5yn0": {
+        "identifier": "5yn0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mai-HiME Specials (Dub)",
+        "url": "https://9anime.ru/watch/mai-hime-specials-dub.5yn0",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-i4lUa19WWLs/WEKXkqzeILI/AAAAAAABRVo/ilQsZR-KaQM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 673,
+        "aniId": 673,
+        "createdAt": "2020-10-12T15:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "2380": {
+        "identifier": "2380",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Mai-HiME (GerDub)",
+        "url": "https://www.anime4you.one/show/1/aid/2380",
+        "image": "https://cdn.anime4you.one/covers/170918040409092162.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 673,
+        "aniId": 673,
+        "createdAt": "2020-10-15T12:38:12.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      },
+      "2386": {
+        "identifier": "2386",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Mai-HiME (GerSub)",
+        "url": "https://www.anime4you.one/show/1/aid/2386",
+        "image": "https://cdn.anime4you.one/covers/170918050509092162.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 673,
+        "aniId": 673,
+        "createdAt": "2020-10-15T12:38:33.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

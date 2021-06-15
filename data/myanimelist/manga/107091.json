@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Blanket Journey",
+    "瞬間グラデーション"
+  ],
+  "authors": [
+    "Hiro, Chihiro"
+  ],
+  "id": 107091,
+  "type": "manga",
+  "title": "Shunkan Gradation",
+  "url": "https://myanimelist.net/manga/107091/Shunkan_Gradation",
+  "image": "https://cdn.myanimelist.net/images/manga/3/199905.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:05.000Z",
+  "updatedAt": "2021-03-28T12:19:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "38e8b637-181c-41c2-830a-a8cf1b378a36": {
+        "authors": [
+          "Hiro Chihiro"
+        ],
+        "identifier": "38e8b637-181c-41c2-830a-a8cf1b378a36",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shunkan Gradation",
+        "url": "https://mangadex.org/title/38e8b637-181c-41c2-830a-a8cf1b378a36",
+        "image": "https://uploads.mangadex.org/covers/38e8b637-181c-41c2-830a-a8cf1b378a36/cef7062b-f070-4d04-8aaa-6d392d803dce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107091,
+        "aniId": 99744,
+        "createdAt": "2020-10-12T16:10:40.000Z",
+        "updatedAt": "2021-06-05T02:32:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shunkan_gradation": {
+        "authors": [],
+        "identifier": "shunkan_gradation",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shunkan Gradation",
+        "url": "https://manganelo.com/manga/shunkan_gradation",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19642-shunkan_gradation.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107091,
+        "aniId": 99744,
+        "createdAt": "2020-10-12T16:25:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shunkan_gradation": {
+        "authors": [
+          "HIRO Chihiro"
+        ],
+        "identifier": "shunkan_gradation",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shunkan Gradation",
+        "url": "https://fanfox.net/manga/shunkan_gradation/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26899/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107091,
+        "aniId": 99744,
+        "createdAt": "2021-03-28T12:19:46.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

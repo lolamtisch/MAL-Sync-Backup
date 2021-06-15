@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "アリス イン デッドリースクール"
+  ],
+  "authors": [
+    "Ajiko Kojima",
+    "Kaworu Asakura"
+  ],
+  "id": 100266,
+  "malId": 100503,
+  "type": "manga",
+  "title": "Alice in Deadly School",
+  "url": "https://anilist.co/manga/100266",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100266-P0ISyOZixEB7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:49.000Z",
+  "updatedAt": "2021-05-20T14:54:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c0a75478-0176-46b7-8b57-a45194186613": {
+        "authors": [
+          "Ajiko Kojima",
+          "Kaworu Asaku"
+        ],
+        "identifier": "c0a75478-0176-46b7-8b57-a45194186613",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice in Deadly School",
+        "url": "https://mangadex.org/title/c0a75478-0176-46b7-8b57-a45194186613",
+        "image": "https://uploads.mangadex.org/covers/c0a75478-0176-46b7-8b57-a45194186613/d8a874ef-0321-4c83-86b8-a480a003b9b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100503,
+        "aniId": 100266,
+        "createdAt": "2021-02-28T03:44:02.000Z",
+        "updatedAt": "2021-06-08T12:01:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

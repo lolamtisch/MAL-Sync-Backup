@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "カオル・マニアック"
+  ],
+  "authors": [
+    "Dr. Ten"
+  ],
+  "id": 50129,
+  "malId": 20129,
+  "type": "manga",
+  "title": "Kaoru Maniac",
+  "url": "https://anilist.co/manga/50129",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20129.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "873ca5e5-68a0-4142-919c-cfe4a06dd988": {
+        "authors": [
+          "Dr. Ten"
+        ],
+        "identifier": "873ca5e5-68a0-4142-919c-cfe4a06dd988",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaoru Maniac",
+        "url": "https://mangadex.org/title/873ca5e5-68a0-4142-919c-cfe4a06dd988",
+        "image": "https://uploads.mangadex.org/covers/873ca5e5-68a0-4142-919c-cfe4a06dd988/93027c76-220d-451a-bec6-0cc6c6d24f26.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20129,
+        "aniId": 50129,
+        "createdAt": "2020-10-12T16:05:40.000Z",
+        "updatedAt": "2021-06-03T14:10:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "イチカ日記",
+    "Ichika's Diary"
+  ],
+  "authors": [
+    "Takaaki Kusaka"
+  ],
+  "id": 49051,
+  "malId": 19051,
+  "type": "manga",
+  "title": "Ichika Nikki",
+  "url": "https://anilist.co/manga/49051",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19051.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:15.000Z",
+  "updatedAt": "2021-05-20T14:45:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c2965428-9a81-41d1-a379-c12a20ffaf45": {
+        "authors": [
+          "Kusaka Takaaki"
+        ],
+        "identifier": "c2965428-9a81-41d1-a379-c12a20ffaf45",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichika Nikki",
+        "url": "https://mangadex.org/title/c2965428-9a81-41d1-a379-c12a20ffaf45",
+        "image": "https://uploads.mangadex.org/covers/c2965428-9a81-41d1-a379-c12a20ffaf45/061790d5-e5e4-4632-b471-edde48fe43b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19051,
+        "aniId": 49051,
+        "createdAt": "2020-10-12T16:21:43.000Z",
+        "updatedAt": "2021-06-08T02:58:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

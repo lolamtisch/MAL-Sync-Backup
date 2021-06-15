@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "Barefoot Waltz",
+    "裸足でワルツを",
+    "With Naked Foot Waltz",
+    "Good Sky",
+    "Sunny Day",
+    "Goodbye"
+  ],
+  "authors": [
+    "Romuco Miike",
+    "Melanie Schoen",
+    "Eva Han"
+  ],
+  "id": 35571,
+  "malId": 5571,
+  "type": "manga",
+  "title": "Hadashi de Waltz wo",
+  "url": "https://anilist.co/manga/35571",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5571.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-06-04T17:52:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "059ffae5-0db5-47d4-b2a8-9910ea448083": {
+        "authors": [
+          "Romuco Miike"
+        ],
+        "identifier": "059ffae5-0db5-47d4-b2a8-9910ea448083",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hadashi de Walz wo",
+        "url": "https://mangadex.org/title/059ffae5-0db5-47d4-b2a8-9910ea448083",
+        "image": "https://uploads.mangadex.org/covers/059ffae5-0db5-47d4-b2a8-9910ea448083/8dff18bf-e619-4f50-96db-138310f4e231.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5571,
+        "aniId": 35571,
+        "createdAt": "2020-10-12T16:11:37.000Z",
+        "updatedAt": "2021-06-05T09:42:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hadashi_de_waltz_wo": {
+        "authors": [
+          "MIIKE Romuko"
+        ],
+        "identifier": "hadashi_de_waltz_wo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hadashi de Waltz wo",
+        "url": "https://fanfox.net/manga/hadashi_de_waltz_wo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5374/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5571,
+        "aniId": 35571,
+        "createdAt": "2021-05-20T23:15:49.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

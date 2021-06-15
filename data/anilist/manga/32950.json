@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "HEN",
+    "Hen: Strange Love",
+    "Strange Love"
+  ],
+  "authors": [
+    "Hiroya Oku"
+  ],
+  "id": 32950,
+  "malId": 2950,
+  "type": "manga",
+  "title": "Hen",
+  "url": "https://anilist.co/manga/32950",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2950.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-05-20T14:37:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "91bbcc02-bc0f-4492-bf5d-e42cfe03dfe5": {
+        "authors": [
+          "Oku Hiroya"
+        ],
+        "identifier": "91bbcc02-bc0f-4492-bf5d-e42cfe03dfe5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HEN",
+        "url": "https://mangadex.org/title/91bbcc02-bc0f-4492-bf5d-e42cfe03dfe5",
+        "image": "https://uploads.mangadex.org/covers/91bbcc02-bc0f-4492-bf5d-e42cfe03dfe5/9cb7c981-a4d6-4b50-bafe-65e20ba46449.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2950,
+        "aniId": 32950,
+        "createdAt": "2020-10-12T16:05:13.000Z",
+        "updatedAt": "2021-06-03T11:03:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hen": {
+        "authors": [],
+        "identifier": "hen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hen",
+        "url": "https://manganelo.com/manga/hen",
+        "image": "https://avt.mkklcdnv6.com/22/u/2-1583466586.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2950,
+        "aniId": 32950,
+        "createdAt": "2020-10-12T16:23:18.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "h-e-n": {
+        "authors": [
+          "OKU Hiroya"
+        ],
+        "identifier": "h-e-n",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "HEN",
+        "url": "https://mangasee123.com/manga/H-E-N",
+        "image": "https://cover.nep.li/cover/H-E-N.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2950,
+        "aniId": 32950,
+        "createdAt": "2021-02-19T07:34:20.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

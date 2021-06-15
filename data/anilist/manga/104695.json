@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "白い巨塔"
+  ],
+  "authors": [
+    "Jiro Ando"
+  ],
+  "id": 104695,
+  "malId": 118797,
+  "type": "manga",
+  "title": "Shiroi Kyotou",
+  "url": "https://anilist.co/manga/104695",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104695-qs7OCzQiWx2q.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:05.000Z",
+  "updatedAt": "2021-05-20T14:58:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "01d9b8e6-542a-42d6-8115-b0401f86d0e8": {
+        "authors": [
+          "Andou Jirou",
+          "Yamazaki Toyoko"
+        ],
+        "identifier": "01d9b8e6-542a-42d6-8115-b0401f86d0e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shiroi Kyotou",
+        "url": "https://mangadex.org/title/01d9b8e6-542a-42d6-8115-b0401f86d0e8",
+        "image": "https://uploads.mangadex.org/covers/01d9b8e6-542a-42d6-8115-b0401f86d0e8/c3bc63e2-8665-418a-84fb-e82abbb697b4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118797,
+        "aniId": 104695,
+        "createdAt": "2020-10-12T16:16:13.000Z",
+        "updatedAt": "2021-06-06T20:38:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

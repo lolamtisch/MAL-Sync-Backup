@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Hana no Migoro ni",
+    "花のみやこで"
+  ],
+  "authors": [
+    "Takarai, Rihito"
+  ],
+  "id": 44677,
+  "type": "manga",
+  "title": "Hana no Miyako de",
+  "url": "https://myanimelist.net/manga/44677/Hana_no_Miyako_de",
+  "image": "https://cdn.myanimelist.net/images/manga/3/85993.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:19.000Z",
+  "updatedAt": "2021-04-24T04:27:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f622d831-793d-4a79-b26a-5763bd0d86d0": {
+        "authors": [
+          "Takarai Rihito"
+        ],
+        "identifier": "f622d831-793d-4a79-b26a-5763bd0d86d0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana no Miyako de",
+        "url": "https://mangadex.org/title/f622d831-793d-4a79-b26a-5763bd0d86d0",
+        "image": "https://uploads.mangadex.org/covers/f622d831-793d-4a79-b26a-5763bd0d86d0/596bd2e5-cfb0-48f3-827d-4420efbff3d4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44677,
+        "aniId": 74677,
+        "createdAt": "2020-10-12T16:06:18.000Z",
+        "updatedAt": "2021-06-03T18:40:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hana_no_migoro_ni": {
+        "authors": [
+          "TAKARAI Rihito"
+        ],
+        "identifier": "hana_no_migoro_ni",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hana no Migoro ni",
+        "url": "https://fanfox.net/manga/hana_no_migoro_ni/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12471/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44677,
+        "aniId": 74677,
+        "createdAt": "2021-04-24T04:27:12.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

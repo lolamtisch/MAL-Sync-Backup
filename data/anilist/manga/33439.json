@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "純愛ストリップ",
+    "Doting Love Strip",
+    "Ren'ai Strip",
+    "Chou Ai Strip",
+    "Deki Ai Strip"
+  ],
+  "authors": [
+    "Mayu Shinjou"
+  ],
+  "id": 33439,
+  "malId": 3439,
+  "type": "manga",
+  "title": "Junai Strip",
+  "url": "https://anilist.co/manga/33439",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33439-6peqsAAejdLo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:12.000Z",
+  "updatedAt": "2021-05-20T14:38:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "82c3bac3-1eb7-4bf6-b213-0bfd48c4d117": {
+        "authors": [
+          "Shinjo Mayu"
+        ],
+        "identifier": "82c3bac3-1eb7-4bf6-b213-0bfd48c4d117",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Poisonous Flower",
+        "url": "https://mangadex.org/title/82c3bac3-1eb7-4bf6-b213-0bfd48c4d117",
+        "image": "https://uploads.mangadex.org/covers/82c3bac3-1eb7-4bf6-b213-0bfd48c4d117/d8c8c461-6255-4632-806c-3e42db1c2c7d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3439,
+        "aniId": 33439,
+        "createdAt": "2020-10-12T16:09:10.000Z",
+        "updatedAt": "2021-06-04T15:35:28.000Z",
+        "deletedAt": null
+      },
+      "82b76e9d-43b7-49aa-97b2-53fb364aeaaa": {
+        "authors": [
+          "SHINJO Mayu"
+        ],
+        "identifier": "82b76e9d-43b7-49aa-97b2-53fb364aeaaa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Junai Strip",
+        "url": "https://mangadex.org/title/82b76e9d-43b7-49aa-97b2-53fb364aeaaa",
+        "image": "https://uploads.mangadex.org/covers/82b76e9d-43b7-49aa-97b2-53fb364aeaaa/fd52e590-fbd3-45a8-a8b9-800ea783e9c2.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3439,
+        "aniId": 33439,
+        "createdAt": "2020-10-12T16:13:17.000Z",
+        "updatedAt": "2021-06-05T20:07:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

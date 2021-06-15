@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "女の子は余裕",
+    "Onna no Ko wa Yoyuu!",
+    "Girls Need To Be Self-Composed"
+  ],
+  "authors": [
+    "Kyouko Hikawa"
+  ],
+  "id": 37256,
+  "malId": 7256,
+  "type": "manga",
+  "title": "Onnanoko wa Yoyuu!",
+  "url": "https://anilist.co/manga/37256",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7256.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:46.000Z",
+  "updatedAt": "2021-05-20T14:39:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2cd7c920-5e1b-433c-9e08-adf8f6baf706": {
+        "authors": [
+          "Hikawa Kyouko"
+        ],
+        "identifier": "2cd7c920-5e1b-433c-9e08-adf8f6baf706",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onnanoko wa Yoyuu!",
+        "url": "https://mangadex.org/title/2cd7c920-5e1b-433c-9e08-adf8f6baf706",
+        "image": "https://uploads.mangadex.org/covers/2cd7c920-5e1b-433c-9e08-adf8f6baf706/ca3396d3-005e-42cf-8ce5-cab0f662b41c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7256,
+        "aniId": 37256,
+        "createdAt": "2020-10-12T16:05:47.000Z",
+        "updatedAt": "2021-06-03T14:56:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "onnanoko_wa_yoyuu": {
+        "authors": [],
+        "identifier": "onnanoko_wa_yoyuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Onnanoko Wa Yoyuu!",
+        "url": "https://manganelo.com/manga/onnanoko_wa_yoyuu",
+        "image": "https://avt.mkklcdnv6.com/31/k/10-1583483302.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7256,
+        "aniId": 37256,
+        "createdAt": "2020-10-12T16:24:43.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

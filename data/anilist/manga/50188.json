@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "さざなみチェリー"
+  ],
+  "authors": [
+    "Kamiyoshi"
+  ],
+  "id": 50188,
+  "malId": 20188,
+  "type": "manga",
+  "title": "Sazanami Cherry",
+  "url": "https://anilist.co/manga/50188",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20188.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c9a23d3e-9f20-4695-9315-2173a0e8b46f": {
+        "authors": [
+          "Kamiyoshi"
+        ],
+        "identifier": "c9a23d3e-9f20-4695-9315-2173a0e8b46f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sazanami Cherry",
+        "url": "https://mangadex.org/title/c9a23d3e-9f20-4695-9315-2173a0e8b46f",
+        "image": "https://uploads.mangadex.org/covers/c9a23d3e-9f20-4695-9315-2173a0e8b46f/cc9ca22b-921c-4938-bb1a-b697a52f2b0c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20188,
+        "aniId": 50188,
+        "createdAt": "2020-10-12T16:02:23.000Z",
+        "updatedAt": "2021-06-02T06:34:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

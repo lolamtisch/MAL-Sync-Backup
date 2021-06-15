@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Boy x Cat?",
+    "ボク×ネコ?",
+    "Boy x Cat?",
+    "BokuNeko"
+  ],
+  "authors": [
+    "Yuki Kiriga"
+  ],
+  "id": 41147,
+  "malId": 11147,
+  "type": "manga",
+  "title": "Boku x Neko?",
+  "url": "https://anilist.co/manga/41147",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11147.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:15.000Z",
+  "updatedAt": "2021-05-20T14:41:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e94f42aa-559b-4524-b793-38cf05974ede": {
+        "authors": [
+          "KIRIGA Yuki"
+        ],
+        "identifier": "e94f42aa-559b-4524-b793-38cf05974ede",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku x Neko?",
+        "url": "https://mangadex.org/title/e94f42aa-559b-4524-b793-38cf05974ede",
+        "image": "https://uploads.mangadex.org/covers/e94f42aa-559b-4524-b793-38cf05974ede/97b39442-b31e-4476-9b18-c9e239f838ab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11147,
+        "aniId": 41147,
+        "createdAt": "2020-10-12T16:03:44.000Z",
+        "updatedAt": "2021-06-02T16:09:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_x_neko": {
+        "authors": [
+          "KIRIGA Yuki"
+        ],
+        "identifier": "boku_x_neko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku x Neko?",
+        "url": "https://fanfox.net/manga/boku_x_neko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6282/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11147,
+        "aniId": 41147,
+        "createdAt": "2021-05-20T22:15:49.000Z",
+        "updatedAt": "2021-05-20T22:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

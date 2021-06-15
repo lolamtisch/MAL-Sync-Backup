@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "沧元图",
+    "Azure Legacy"
+  ],
+  "authors": [
+    "Wo Chi Xihongshi",
+    "Bart.D"
+  ],
+  "id": 126834,
+  "malId": null,
+  "type": "manga",
+  "title": "Cang Yuantu",
+  "url": "https://anilist.co/manga/126834",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b126834-fp5tIXzFmnYc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-30T03:12:13.000Z",
+  "updatedAt": "2021-05-30T03:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0e0d657c-342f-4282-b9c6-d7baaf47dbfd": {
+        "authors": [
+          "I Eat Tomatoes",
+          "Bart.D"
+        ],
+        "identifier": "0e0d657c-342f-4282-b9c6-d7baaf47dbfd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Azure Legacy",
+        "url": "https://mangadex.org/title/0e0d657c-342f-4282-b9c6-d7baaf47dbfd",
+        "image": "https://uploads.mangadex.org/covers/0e0d657c-342f-4282-b9c6-d7baaf47dbfd/fd048c20-76f7-4f78-8a7d-9420da43a88d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126834,
+        "createdAt": "2020-10-12T16:18:30.000Z",
+        "updatedAt": "2021-06-07T19:15:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

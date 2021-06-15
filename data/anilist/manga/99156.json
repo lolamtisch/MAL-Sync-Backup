@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Futago Yuri",
+    "ふたごゆり",
+    "Twin Sisters"
+  ],
+  "authors": [
+    "Mochi Au Lait"
+  ],
+  "id": 99156,
+  "malId": null,
+  "type": "manga",
+  "title": "Futago Yuri",
+  "url": "https://anilist.co/manga/99156",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99156-wux8eziSzrVo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T03:19:07.000Z",
+  "updatedAt": "2021-06-05T03:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6aad09ae-66e6-49d7-a265-2d96a124c2e3": {
+        "authors": [
+          "Mochi Au Lait"
+        ],
+        "identifier": "6aad09ae-66e6-49d7-a265-2d96a124c2e3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Twin Sisters",
+        "url": "https://mangadex.org/title/6aad09ae-66e6-49d7-a265-2d96a124c2e3",
+        "image": "https://uploads.mangadex.org/covers/6aad09ae-66e6-49d7-a265-2d96a124c2e3/48ee0ae4-2f2c-4484-9d84-973a494cd799.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99156,
+        "createdAt": "2020-10-12T16:10:46.000Z",
+        "updatedAt": "2021-06-05T08:37:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "Striker",
+    "SPRIGGAN",
+    "スプリガン"
+  ],
+  "authors": [
+    "Ryouji Minagawa",
+    "Hiroshi Takashige"
+  ],
+  "id": 31705,
+  "malId": 1705,
+  "type": "manga",
+  "title": "Spriggan",
+  "url": "https://anilist.co/manga/31705",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31705-4aueCg2Zwe8K.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "142cd9b7-0763-494f-ac59-0bc9e7081813": {
+        "authors": [
+          "Takashige Hiroshi",
+          "Minagawa Ryoji"
+        ],
+        "identifier": "142cd9b7-0763-494f-ac59-0bc9e7081813",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spriggan",
+        "url": "https://mangadex.org/title/142cd9b7-0763-494f-ac59-0bc9e7081813",
+        "image": "https://uploads.mangadex.org/covers/142cd9b7-0763-494f-ac59-0bc9e7081813/1482505e-dbe3-4513-a192-5936f56dfce4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1705,
+        "aniId": 31705,
+        "createdAt": "2020-10-12T16:07:54.000Z",
+        "updatedAt": "2021-06-04T06:03:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "spriggan": {
+        "authors": [
+          "MINAGAWA Ryoji",
+          "TAKASHIGE Hiroshi"
+        ],
+        "identifier": "spriggan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Spriggan",
+        "url": "https://mangasee123.com/manga/Spriggan",
+        "image": "https://cover.nep.li/cover/Spriggan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1705,
+        "aniId": 31705,
+        "createdAt": "2021-03-16T12:03:52.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "spriggan": {
+        "authors": [
+          "Takashige",
+          "Hiroshi"
+        ],
+        "identifier": "spriggan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Spriggan",
+        "url": "https://manganelo.com/manga/spriggan",
+        "image": "https://avt.mkklcdnv6temp.com/26/r/8-1583479194.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1705,
+        "aniId": 31705,
+        "createdAt": "2021-04-04T11:08:07.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

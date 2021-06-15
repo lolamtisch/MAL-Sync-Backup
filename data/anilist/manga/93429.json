@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "乾いて候"
+  ],
+  "authors": [
+    "Goseki Kojima",
+    "Kazuo Koike"
+  ],
+  "id": 93429,
+  "malId": 83605,
+  "type": "manga",
+  "title": "Kawaite Sourou",
+  "url": "https://anilist.co/manga/93429",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93429-ViLCyPwXCM61.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:32.000Z",
+  "updatedAt": "2021-05-20T14:52:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "310b528b-4e78-4c07-9e85-ed959a92d9ee": {
+        "authors": [
+          "Koike Kazuo",
+          "Kojima Goseki"
+        ],
+        "identifier": "310b528b-4e78-4c07-9e85-ed959a92d9ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kawaite Sourou",
+        "url": "https://mangadex.org/title/310b528b-4e78-4c07-9e85-ed959a92d9ee",
+        "image": "https://uploads.mangadex.org/covers/310b528b-4e78-4c07-9e85-ed959a92d9ee/2ba661c2-a978-435d-ae18-a229067bbe4d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83605,
+        "aniId": 93429,
+        "createdAt": "2020-10-12T16:12:31.000Z",
+        "updatedAt": "2021-06-05T15:03:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

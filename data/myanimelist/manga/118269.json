@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "スローループ"
+  ],
+  "authors": [
+    "Uchino, Maiko"
+  ],
+  "id": 118269,
+  "type": "manga",
+  "title": "Slow Loop",
+  "url": "https://myanimelist.net/manga/118269/Slow_Loop",
+  "image": "https://cdn.myanimelist.net/images/manga/1/221723.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:53.000Z",
+  "updatedAt": "2021-03-22T13:34:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4c05b1b4-7da6-4e7a-ae39-5cc2363093f0": {
+        "authors": [
+          "Uchino Maiko"
+        ],
+        "identifier": "4c05b1b4-7da6-4e7a-ae39-5cc2363093f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Slow Loop",
+        "url": "https://mangadex.org/title/4c05b1b4-7da6-4e7a-ae39-5cc2363093f0",
+        "image": "https://uploads.mangadex.org/covers/4c05b1b4-7da6-4e7a-ae39-5cc2363093f0/e8b6d9b5-15f1-4824-b8d1-c453637b7901.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118269,
+        "aniId": 108633,
+        "createdAt": "2020-10-12T16:13:47.000Z",
+        "updatedAt": "2021-06-06T00:01:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "on918685": {
+        "authors": [
+          "Maiko",
+          "Uchino"
+        ],
+        "identifier": "on918685",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Slow Loop",
+        "url": "https://manganelo.com/manga/on918685",
+        "image": "https://avt.mkklcdnv6.com/4/r/18-1583497260.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118269,
+        "aniId": 108633,
+        "createdAt": "2020-11-27T21:31:32.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "slow_loop": {
+        "authors": [
+          "Uchino Maiko"
+        ],
+        "identifier": "slow_loop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Slow Loop",
+        "url": "https://fanfox.net/manga/slow_loop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28357/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118269,
+        "aniId": 108633,
+        "createdAt": "2021-03-22T13:34:55.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

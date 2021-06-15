@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "Animation Store Manager",
+    "アニメ店長"
+  ],
+  "id": 3080,
+  "type": "anime",
+  "title": "Anime Tenchou",
+  "url": "https://myanimelist.net/anime/3080/Anime_Tenchou",
+  "image": "https://cdn.myanimelist.net/images/anime/9/4635.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:35.000Z",
+  "updatedAt": "2021-05-31T09:02:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "qykj": {
+        "identifier": "qykj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Animation Store Manager",
+        "url": "https://9anime.ru/watch/animation-store-manager.qykj",
+        "image": "http://static.akacdn.ru/static/images/2018/05/69cb595595fe90a4baf0e7667713c363.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3080,
+        "aniId": 3080,
+        "createdAt": "2020-10-12T15:55:18.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

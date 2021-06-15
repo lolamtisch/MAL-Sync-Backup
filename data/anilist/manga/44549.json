@@ -1,0 +1,50 @@
+{
+  "altTitle": [
+    "しなの川",
+    "Shinano Gawa",
+    "Le Fleuve Shinano",
+    "Shina no Kawa",
+    "Shinano River",
+    "il fiume di shinano"
+  ],
+  "authors": [
+    "Kazuo Kamimura",
+    "Hideo Okazaki"
+  ],
+  "id": 44549,
+  "malId": 14549,
+  "type": "manga",
+  "title": "Shinanogawa",
+  "url": "https://anilist.co/manga/44549",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44549-Zzct61mnDH81.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:38.000Z",
+  "updatedAt": "2021-05-31T11:00:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6646ba6a-1a79-4d2e-ad74-680123271b5a": {
+        "authors": [
+          "Okazaki Hideo",
+          "Kamimura Kazuo"
+        ],
+        "identifier": "6646ba6a-1a79-4d2e-ad74-680123271b5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinano River",
+        "url": "https://mangadex.org/title/6646ba6a-1a79-4d2e-ad74-680123271b5a",
+        "image": "https://uploads.mangadex.org/covers/6646ba6a-1a79-4d2e-ad74-680123271b5a/73240933-04a5-498e-bf33-45c4f52c6073.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14549,
+        "aniId": 44549,
+        "createdAt": "2020-10-12T16:09:06.000Z",
+        "updatedAt": "2021-06-04T15:03:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

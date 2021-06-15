@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Tatsuya Egawa"
+  ],
+  "id": 33034,
+  "malId": 3034,
+  "type": "manga",
+  "title": "Deadman",
+  "url": "https://anilist.co/manga/33034",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3034.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:02.000Z",
+  "updatedAt": "2021-05-20T14:38:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b7245590-0c41-42db-a41d-176322af6fc4": {
+        "authors": [
+          "EGAWA Tatsuya"
+        ],
+        "identifier": "b7245590-0c41-42db-a41d-176322af6fc4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Deadman",
+        "url": "https://mangadex.org/title/b7245590-0c41-42db-a41d-176322af6fc4",
+        "image": "https://uploads.mangadex.org/covers/b7245590-0c41-42db-a41d-176322af6fc4/5911cabf-2a2f-42d7-b65f-914ddc8c6970.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3034,
+        "aniId": 33034,
+        "createdAt": "2020-10-12T16:05:04.000Z",
+        "updatedAt": "2021-06-03T10:03:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

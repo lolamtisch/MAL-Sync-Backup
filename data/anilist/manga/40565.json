@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "極上の夜をあげる",
+    "Paradise Cafe"
+  ],
+  "authors": [
+    "Fuji Morita"
+  ],
+  "id": 40565,
+  "malId": 10565,
+  "type": "manga",
+  "title": "Gokujou no Yoru wo Ageru",
+  "url": "https://anilist.co/manga/40565",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10565.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "23c8fcb2-4f13-4d4c-a28a-0a03c11ce842": {
+        "authors": [
+          "Morita Fuji"
+        ],
+        "identifier": "23c8fcb2-4f13-4d4c-a28a-0a03c11ce842",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gokujou no Yoru wo Ageru",
+        "url": "https://mangadex.org/title/23c8fcb2-4f13-4d4c-a28a-0a03c11ce842",
+        "image": "https://uploads.mangadex.org/covers/23c8fcb2-4f13-4d4c-a28a-0a03c11ce842/d05847ac-e60d-4909-bf94-864bf82ca403.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10565,
+        "aniId": 40565,
+        "createdAt": "2020-10-12T16:03:48.000Z",
+        "updatedAt": "2021-06-02T16:39:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

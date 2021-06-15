@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "天上の果実",
+    "The Angel's Fruit"
+  ],
+  "authors": [
+    "Michi Awa"
+  ],
+  "id": 33840,
+  "malId": 3840,
+  "type": "manga",
+  "title": "Tenjou no Kajitsu",
+  "url": "https://anilist.co/manga/33840",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3840.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "04d899da-c6ae-4bc5-b73b-7f621a48d32e": {
+        "authors": [
+          "Awa Michi"
+        ],
+        "identifier": "04d899da-c6ae-4bc5-b73b-7f621a48d32e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenjou no Kajitsu",
+        "url": "https://mangadex.org/title/04d899da-c6ae-4bc5-b73b-7f621a48d32e",
+        "image": "https://uploads.mangadex.org/covers/04d899da-c6ae-4bc5-b73b-7f621a48d32e/7d10acfb-57aa-4ce6-9d66-88ff23503972.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3840,
+        "aniId": 33840,
+        "createdAt": "2020-10-12T16:03:57.000Z",
+        "updatedAt": "2021-06-02T17:36:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

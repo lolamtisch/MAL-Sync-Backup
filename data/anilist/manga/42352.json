@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "来自于雪国",
+    "From the Snow Country"
+  ],
+  "authors": [
+    "Asuka Shibata"
+  ],
+  "id": 42352,
+  "malId": 12352,
+  "type": "manga",
+  "title": "Yuki no Kuni kara",
+  "url": "https://anilist.co/manga/42352",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12352.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:22.000Z",
+  "updatedAt": "2021-05-20T14:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "00a3a20d-adbd-402c-a7fc-8d672ee2d3a0": {
+        "authors": [
+          "SHIBATA Asuka"
+        ],
+        "identifier": "00a3a20d-adbd-402c-a7fc-8d672ee2d3a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuki no Kuni kara",
+        "url": "https://mangadex.org/title/00a3a20d-adbd-402c-a7fc-8d672ee2d3a0",
+        "image": "https://uploads.mangadex.org/covers/00a3a20d-adbd-402c-a7fc-8d672ee2d3a0/028849d0-0ee3-4be0-bae5-9c72f2eec73a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12352,
+        "aniId": 42352,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-02T22:39:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Trickster",
+    "トリックスター",
+    "Trick Ster"
+  ],
+  "authors": [
+    "Hiroshi Aro"
+  ],
+  "id": 40414,
+  "malId": 10414,
+  "type": "manga",
+  "title": "Trickster",
+  "url": "https://anilist.co/manga/40414",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10414.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:05.000Z",
+  "updatedAt": "2021-05-20T14:41:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0f95c021-db64-4460-8aa2-2caf762704f9": {
+        "authors": [
+          "Aro Hiroshi"
+        ],
+        "identifier": "0f95c021-db64-4460-8aa2-2caf762704f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trick Ster",
+        "url": "https://mangadex.org/title/0f95c021-db64-4460-8aa2-2caf762704f9",
+        "image": "https://uploads.mangadex.org/covers/0f95c021-db64-4460-8aa2-2caf762704f9/58e91d90-7c53-4ba6-ad6a-5797b97fa981.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10414,
+        "aniId": 40414,
+        "createdAt": "2020-10-12T16:03:45.000Z",
+        "updatedAt": "2021-06-02T16:17:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

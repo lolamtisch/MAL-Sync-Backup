@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "PRODUCTS",
+    "プロダクツ"
+  ],
+  "authors": [
+    "ZENOSHIN",
+    "Tamano Minami"
+  ],
+  "id": 128180,
+  "malId": null,
+  "type": "manga",
+  "title": "Products",
+  "url": "https://anilist.co/manga/128180",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128180-bInvsrPKCBtJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T09:28:19.000Z",
+  "updatedAt": "2021-06-08T09:28:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c899967e-8b6c-4f57-9845-25e3838d071a": {
+        "authors": [
+          "ZENOSHIN",
+          "Minami Tamano"
+        ],
+        "identifier": "c899967e-8b6c-4f57-9845-25e3838d071a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Products",
+        "url": "https://mangadex.org/title/c899967e-8b6c-4f57-9845-25e3838d071a",
+        "image": "https://uploads.mangadex.org/covers/c899967e-8b6c-4f57-9845-25e3838d071a/9210e312-d23c-483a-97f5-c46779ad5133.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 128180,
+        "createdAt": "2020-12-31T18:22:29.000Z",
+        "updatedAt": "2021-06-08T10:45:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

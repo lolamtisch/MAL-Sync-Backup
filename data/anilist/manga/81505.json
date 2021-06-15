@@ -1,0 +1,42 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Ume Aoki"
+  ],
+  "id": 81505,
+  "malId": 51505,
+  "type": "manga",
+  "title": "Square",
+  "url": "https://anilist.co/manga/81505",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/51505.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T15:18:58.000Z",
+  "updatedAt": "2021-06-03T15:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b95e7634-5cde-449f-bf7e-a9d82c92344b": {
+        "authors": [
+          "Aoki Ume",
+          "Apricot Plus (Circle)"
+        ],
+        "identifier": "b95e7634-5cde-449f-bf7e-a9d82c92344b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Square (apricot+)",
+        "url": "https://mangadex.org/title/b95e7634-5cde-449f-bf7e-a9d82c92344b",
+        "image": "https://uploads.mangadex.org/covers/b95e7634-5cde-449f-bf7e-a9d82c92344b/a4d98c1e-c292-47e1-8e1d-06a4f2b0213e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51505,
+        "aniId": 81505,
+        "createdAt": "2020-10-12T16:05:48.000Z",
+        "updatedAt": "2021-06-03T15:25:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

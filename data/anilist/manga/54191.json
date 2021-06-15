@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "魚の夢"
+  ],
+  "authors": [
+    "Yuki Andou"
+  ],
+  "id": 54191,
+  "malId": 24191,
+  "type": "manga",
+  "title": "Sakana no Yume",
+  "url": "https://anilist.co/manga/54191",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24191.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:43.000Z",
+  "updatedAt": "2021-05-20T14:46:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e47322f1-f3c6-4005-9a8a-fd8a6902e0f2": {
+        "authors": [
+          "ANDO Yuki"
+        ],
+        "identifier": "e47322f1-f3c6-4005-9a8a-fd8a6902e0f2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakana no Yume",
+        "url": "https://mangadex.org/title/e47322f1-f3c6-4005-9a8a-fd8a6902e0f2",
+        "image": "https://uploads.mangadex.org/covers/e47322f1-f3c6-4005-9a8a-fd8a6902e0f2/21d17b91-28e9-4b0d-85df-e33baa186a1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24191,
+        "aniId": 54191,
+        "createdAt": "2020-10-12T16:03:33.000Z",
+        "updatedAt": "2021-06-02T14:48:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

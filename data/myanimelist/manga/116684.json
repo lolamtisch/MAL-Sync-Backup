@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Mint Chocolate",
+    "ミントチョコレート"
+  ],
+  "authors": [
+    "Orikasa, Mami"
+  ],
+  "id": 116684,
+  "type": "manga",
+  "title": "Mint Chocolate",
+  "url": "https://myanimelist.net/manga/116684/Mint_Chocolate",
+  "image": "https://cdn.myanimelist.net/images/manga/1/233482.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T18:02:29.000Z",
+  "updatedAt": "2021-06-06T04:18:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "829d9d9f-579f-4e0a-b24d-aec0b2fb5051": {
+        "authors": [
+          "ORIKASA Mami"
+        ],
+        "identifier": "829d9d9f-579f-4e0a-b24d-aec0b2fb5051",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mint Chocolate",
+        "url": "https://mangadex.org/title/829d9d9f-579f-4e0a-b24d-aec0b2fb5051",
+        "image": "https://uploads.mangadex.org/covers/829d9d9f-579f-4e0a-b24d-aec0b2fb5051/eaed8e53-154c-4c69-b0d6-fe3a1cd299b3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116684,
+        "aniId": 106719,
+        "createdAt": "2020-10-12T16:14:19.000Z",
+        "updatedAt": "2021-06-06T10:10:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mint-chocolate": {
+        "authors": [
+          "ORIKASA Mami"
+        ],
+        "identifier": "mint-chocolate",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mint Chocolate",
+        "url": "https://mangasee123.com/manga/Mint-Chocolate",
+        "image": "https://cover.nep.li/cover/Mint-Chocolate.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116684,
+        "aniId": 106719,
+        "createdAt": "2021-04-15T18:44:17.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

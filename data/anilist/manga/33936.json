@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "CRASH",
+    "クラシュ"
+  ],
+  "authors": [
+    "Erica Sakurazawa"
+  ],
+  "id": 33936,
+  "malId": 3936,
+  "type": "manga",
+  "title": "CRASH",
+  "url": "https://anilist.co/manga/33936",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33936-UJQDyAadaSmp.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:22.000Z",
+  "updatedAt": "2021-05-20T14:38:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a6b47e30-4ff4-4c31-83bb-465c0201d9cd": {
+        "authors": [
+          "Sakurazawa Erica"
+        ],
+        "identifier": "a6b47e30-4ff4-4c31-83bb-465c0201d9cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crash",
+        "url": "https://mangadex.org/title/a6b47e30-4ff4-4c31-83bb-465c0201d9cd",
+        "image": "https://uploads.mangadex.org/covers/a6b47e30-4ff4-4c31-83bb-465c0201d9cd/3b215a4e-0885-4df0-bbab-dc73a1fc0014.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3936,
+        "aniId": 33936,
+        "createdAt": "2020-10-12T16:09:29.000Z",
+        "updatedAt": "2021-06-04T17:55:08.000Z",
+        "deletedAt": null
+      },
+      "0356403f-a121-4e9a-a20c-32f8145d7d2f": {
+        "authors": [
+          "Mukaide Masaichi",
+          "Grant Steven"
+        ],
+        "identifier": "0356403f-a121-4e9a-a20c-32f8145d7d2f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crashing",
+        "url": "https://mangadex.org/title/0356403f-a121-4e9a-a20c-32f8145d7d2f",
+        "image": "https://uploads.mangadex.org/covers/0356403f-a121-4e9a-a20c-32f8145d7d2f/79cad3b3-3990-4a7b-9ae2-d89a063d61bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3936,
+        "aniId": 33936,
+        "createdAt": "2020-10-12T16:19:50.000Z",
+        "updatedAt": "2021-06-07T22:54:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

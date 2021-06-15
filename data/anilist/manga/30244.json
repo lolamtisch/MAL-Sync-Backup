@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "機工魔術士-enchanter-",
+    "Kikou Majutsushi Enchanter"
+  ],
+  "authors": [
+    "Izumi Kawachi"
+  ],
+  "id": 30244,
+  "malId": 244,
+  "type": "manga",
+  "title": "Enchanter",
+  "url": "https://anilist.co/manga/30244",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30244-HGwYlp8Cb7V3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acd7cf51-8af4-4712-b942-82d2f654bcc9": {
+        "authors": [
+          "Kawachi Izumi"
+        ],
+        "identifier": "acd7cf51-8af4-4712-b942-82d2f654bcc9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Enchanter",
+        "url": "https://mangadex.org/title/acd7cf51-8af4-4712-b942-82d2f654bcc9",
+        "image": "https://uploads.mangadex.org/covers/acd7cf51-8af4-4712-b942-82d2f654bcc9/ecba08c9-044f-4248-98af-439a8a953934.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 244,
+        "aniId": 30244,
+        "createdAt": "2020-10-12T16:02:24.000Z",
+        "updatedAt": "2021-06-02T06:40:45.000Z",
+        "deletedAt": null
+      },
+      "58093aa5-7af7-45dc-a9d1-c507381a50c3": {
+        "authors": [
+          "",
+          "Amber"
+        ],
+        "identifier": "58093aa5-7af7-45dc-a9d1-c507381a50c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Need for Enchanting",
+        "url": "https://mangadex.org/title/58093aa5-7af7-45dc-a9d1-c507381a50c3",
+        "image": "https://uploads.mangadex.org/covers/58093aa5-7af7-45dc-a9d1-c507381a50c3/d8dbe398-5e32-4c2d-b09a-cecf00cc7d14.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 244,
+        "aniId": 30244,
+        "createdAt": "2020-10-12T16:19:14.000Z",
+        "updatedAt": "2021-06-07T21:31:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "enchanter": {
+        "authors": [
+          "KAWACHI Izumi"
+        ],
+        "identifier": "enchanter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Enchanter",
+        "url": "https://fanfox.net/manga/enchanter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/867/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 244,
+        "aniId": 30244,
+        "createdAt": "2021-03-23T02:04:45.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

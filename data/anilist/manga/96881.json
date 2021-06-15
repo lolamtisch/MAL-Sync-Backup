@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Jumping -ジャンピング-"
+  ],
+  "authors": [
+    "Asahi Tsutsui"
+  ],
+  "id": 96881,
+  "malId": 96749,
+  "type": "manga",
+  "title": "Jumping",
+  "url": "https://anilist.co/manga/96881",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96881-VFpkHUakJpEA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:07.000Z",
+  "updatedAt": "2021-05-20T14:54:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "225a6b0b-506a-4b26-9a43-549b96d96d6e": {
+        "authors": [
+          "서사야",
+          "조니조"
+        ],
+        "identifier": "225a6b0b-506a-4b26-9a43-549b96d96d6e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jumping Over",
+        "url": "https://mangadex.org/title/225a6b0b-506a-4b26-9a43-549b96d96d6e",
+        "image": "https://uploads.mangadex.org/covers/225a6b0b-506a-4b26-9a43-549b96d96d6e/9d715b80-8c14-4783-bd40-b354394ec921.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96749,
+        "aniId": 96881,
+        "createdAt": "2020-10-12T16:13:35.000Z",
+        "updatedAt": "2021-06-05T22:34:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

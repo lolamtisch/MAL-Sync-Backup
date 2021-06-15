@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "わすれ雪",
+    "Forget-it-All Snow"
+  ],
+  "authors": [
+    "Shinobu Amano"
+  ],
+  "id": 67231,
+  "malId": 37231,
+  "type": "manga",
+  "title": "Wasure Yuki",
+  "url": "https://anilist.co/manga/67231",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37231.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:30.000Z",
+  "updatedAt": "2021-05-20T14:48:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69e7f0e4-b43a-410f-b8a3-e36f69510ad4": {
+        "authors": [
+          "Amano Shinobu"
+        ],
+        "identifier": "69e7f0e4-b43a-410f-b8a3-e36f69510ad4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wasureyuki",
+        "url": "https://mangadex.org/title/69e7f0e4-b43a-410f-b8a3-e36f69510ad4",
+        "image": "https://uploads.mangadex.org/covers/69e7f0e4-b43a-410f-b8a3-e36f69510ad4/9908f92b-89fa-4c91-a552-20207641405b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37231,
+        "aniId": 67231,
+        "createdAt": "2020-10-12T16:04:25.000Z",
+        "updatedAt": "2021-06-02T20:55:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Astro Boy",
+    "Mighty Atom, Captain Atom, Atom Taishi",
+    "鉄腕アトム"
+  ],
+  "authors": [
+    "Tezuka, Osamu"
+  ],
+  "id": 728,
+  "type": "manga",
+  "title": "Tetsuwan Atom",
+  "url": "https://myanimelist.net/manga/728/Tetsuwan_Atom",
+  "image": "https://cdn.myanimelist.net/images/manga/2/186337.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:25.000Z",
+  "updatedAt": "2021-01-19T13:33:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ca4c84bb-7272-45aa-a22d-dc1282b52372": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "ca4c84bb-7272-45aa-a22d-dc1282b52372",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tetsuwan Atom",
+        "url": "https://mangadex.org/title/ca4c84bb-7272-45aa-a22d-dc1282b52372",
+        "image": "https://uploads.mangadex.org/covers/ca4c84bb-7272-45aa-a22d-dc1282b52372/7a2537f5-365f-4406-842e-c7ef2c106e37.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 728,
+        "aniId": 30728,
+        "createdAt": "2020-10-12T16:05:01.000Z",
+        "updatedAt": "2021-06-03T09:38:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "astro_boy": {
+        "authors": [
+          "Tezuka",
+          "Osamu"
+        ],
+        "identifier": "astro_boy",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Astro Boy",
+        "url": "https://manganelo.com/manga/astro_boy",
+        "image": "https://avt.mkklcdnv6.com/19/v/4-1583470486.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 728,
+        "aniId": 30728,
+        "createdAt": "2020-10-12T16:22:09.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

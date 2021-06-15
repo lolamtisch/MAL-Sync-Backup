@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Deltora Quest",
+    "デルトラクエスト"
+  ],
+  "id": 1826,
+  "type": "anime",
+  "title": "Deltora Quest",
+  "url": "https://myanimelist.net/anime/1826/Deltora_Quest",
+  "image": "https://cdn.myanimelist.net/images/anime/12/88164.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:22.000Z",
+  "updatedAt": "2021-04-26T23:19:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "nlwm": {
+        "identifier": "nlwm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Deltora Quest",
+        "url": "https://9anime.ru/watch/deltora-quest.nlwm",
+        "image": "https://static.akacdn.ru/files/images/2019/06/1cde28c49829b44ab4666622dee8b5a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1826,
+        "aniId": 1826,
+        "createdAt": "2020-10-12T15:53:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "qno5": {
+        "identifier": "qno5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Deltora Quest (Dub)",
+        "url": "https://9anime.ru/watch/deltora-quest-dub.qno5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-kIowBD5l5AY/V7LEqt3tw9I/AAAAAAAA3e4/QUFtBO7EYAU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1826,
+        "aniId": 1826,
+        "createdAt": "2020-10-12T15:55:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "deltora-quest": {
+        "identifier": "deltora-quest",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Deltora Quest",
+        "url": "https://www2.gogoanime.io/category/deltora-quest",
+        "image": "https://cdnimg.xyz/images/anime/D/deltora-quest.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1826,
+        "aniId": 1826,
+        "createdAt": "2020-10-12T16:00:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "deltora-quest-dub": {
+        "identifier": "deltora-quest-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Deltora Quest (Dub)",
+        "url": "https://www19.gogoanime.io/category/deltora-quest-dub",
+        "image": "https://gogocdn.net/cover/deltora-quest-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1826,
+        "aniId": 1826,
+        "createdAt": "2020-10-12T16:00:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

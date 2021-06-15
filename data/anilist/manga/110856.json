@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "聴けない夜は亡い"
+  ],
+  "authors": [
+    "Ryouko Fukuyama"
+  ],
+  "id": 110856,
+  "malId": 121036,
+  "type": "manga",
+  "title": "Kikenai Yoru wa Nai",
+  "url": "https://anilist.co/manga/110856",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110856-jUPo789GBrC1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:19.000Z",
+  "updatedAt": "2021-05-20T14:58:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "81e440d1-8b48-4b15-a030-4b376ba26b6c": {
+        "authors": [
+          "Fukuyama Ryoko"
+        ],
+        "identifier": "81e440d1-8b48-4b15-a030-4b376ba26b6c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kikenai Yoru wa Nai",
+        "url": "https://mangadex.org/title/81e440d1-8b48-4b15-a030-4b376ba26b6c",
+        "image": "https://uploads.mangadex.org/covers/81e440d1-8b48-4b15-a030-4b376ba26b6c/0ac85b3b-5e06-4948-8ffc-f706d3cfadf3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121036,
+        "aniId": 110856,
+        "createdAt": "2020-10-12T16:16:50.000Z",
+        "updatedAt": "2021-06-07T02:27:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

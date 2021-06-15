@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "お姉ちゃんが守ってあげる!",
+    "Oneechan ga Mamotte Ageru!",
+    "Big Sis Will Protect You!"
+  ],
+  "authors": [
+    "Sora Yoshino"
+  ],
+  "id": 75249,
+  "malId": 45249,
+  "type": "manga",
+  "title": "Onee-chan ga Mamotte Ageru!",
+  "url": "https://anilist.co/manga/75249",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75249-gjhte0FcBnkx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f5db8c49-11e9-4bea-ad9a-7ba6c2167b4e": {
+        "authors": [
+          "YOSHINO Sora"
+        ],
+        "identifier": "f5db8c49-11e9-4bea-ad9a-7ba6c2167b4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onee-chan ga Mamotte Ageru!",
+        "url": "https://mangadex.org/title/f5db8c49-11e9-4bea-ad9a-7ba6c2167b4e",
+        "image": "https://uploads.mangadex.org/covers/f5db8c49-11e9-4bea-ad9a-7ba6c2167b4e/0e3d0442-4214-4934-89ae-fdc19fbad09c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45249,
+        "aniId": 75249,
+        "createdAt": "2020-10-12T16:05:39.000Z",
+        "updatedAt": "2021-06-03T14:02:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "oneechan_ga_mamotte_ageru": {
+        "authors": [
+          "YOSHINO Sora"
+        ],
+        "identifier": "oneechan_ga_mamotte_ageru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Oneechan ga Mamotte Ageru!",
+        "url": "https://fanfox.net/manga/oneechan_ga_mamotte_ageru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11437/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45249,
+        "aniId": 75249,
+        "createdAt": "2021-03-26T16:21:15.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

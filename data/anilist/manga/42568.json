@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "All My Darling Daughters",
+    "愛すべき娘たち"
+  ],
+  "authors": [
+    "Fumi Yoshinaga"
+  ],
+  "id": 42568,
+  "malId": 12568,
+  "type": "manga",
+  "title": "Aisubeki Musumetachi",
+  "url": "https://anilist.co/manga/42568",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42568-HHClK2wXMEd8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:23.000Z",
+  "updatedAt": "2021-05-20T14:42:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dcd976e5-ae13-40dd-9e6d-20026272808f": {
+        "authors": [
+          "Yoshinaga Fumi"
+        ],
+        "identifier": "dcd976e5-ae13-40dd-9e6d-20026272808f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai Subeki Musume-tachi",
+        "url": "https://mangadex.org/title/dcd976e5-ae13-40dd-9e6d-20026272808f",
+        "image": "https://uploads.mangadex.org/covers/dcd976e5-ae13-40dd-9e6d-20026272808f/85b16831-c2f2-4d57-a683-b3239a9eec6c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12568,
+        "aniId": 42568,
+        "createdAt": "2020-10-12T16:14:14.000Z",
+        "updatedAt": "2021-06-06T03:34:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

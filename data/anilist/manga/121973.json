@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "なつめとなつめ",
+    "Natsume and Natsume"
+  ],
+  "authors": [
+    "Shunsuke Sorato"
+  ],
+  "id": 121973,
+  "malId": 130493,
+  "type": "manga",
+  "title": "Natsume to Natsume",
+  "url": "https://anilist.co/manga/121973",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121973-MgiZYxklQyLF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:30.000Z",
+  "updatedAt": "2021-05-20T14:59:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a": {
+        "authors": [
+          "Sorato Shunsuke"
+        ],
+        "identifier": "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Natsume to Natsume",
+        "url": "https://mangadex.org/title/3aa6cd45-a36e-4abd-ab1c-f60f1db0014a",
+        "image": "https://uploads.mangadex.org/covers/3aa6cd45-a36e-4abd-ab1c-f60f1db0014a/b2b6c3d3-5214-4f3b-bed2-78af4fc97c30.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130493,
+        "aniId": 121973,
+        "createdAt": "2020-10-12T16:20:47.000Z",
+        "updatedAt": "2021-06-08T00:56:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-il985546": {
+        "authors": [
+          "Sorato Shunsuke"
+        ],
+        "identifier": "manga-il985546",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Natsume And Natsume",
+        "url": "https://manganato.com/manga-il985546",
+        "image": "https://avt.mkklcdnv6temp.com/20/p/21-1590648481.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130493,
+        "aniId": 121973,
+        "createdAt": "2021-06-13T03:08:32.000Z",
+        "updatedAt": "2021-06-13T03:38:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

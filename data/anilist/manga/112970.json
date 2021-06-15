@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "TAMATA",
+    "タマタ"
+  ],
+  "authors": [
+    "Asa Kayagasaki"
+  ],
+  "id": 112970,
+  "malId": 110147,
+  "type": "manga",
+  "title": "Tamata",
+  "url": "https://anilist.co/manga/112970",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112970-LiDliHyWeFQH.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:10.000Z",
+  "updatedAt": "2021-05-20T14:56:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "17_sai_kamata_youji": {
+        "authors": [],
+        "identifier": "17_sai_kamata_youji",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "17 Sai (Kamata Youji)",
+        "url": "https://manganelo.com/manga/17_sai_kamata_youji",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/8030-17_sai_kamata_youji.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110147,
+        "aniId": 112970,
+        "createdAt": "2020-10-12T16:21:57.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

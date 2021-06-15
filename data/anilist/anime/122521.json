@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "绝世武魂"
+  ],
+  "id": 122521,
+  "malId": 43626,
+  "type": "anime",
+  "title": "Jueshi Wu Hun",
+  "url": "https://anilist.co/anime/122521",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122521-X1G88FEG4oyP.png",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:13.000Z",
+  "updatedAt": "2021-05-20T14:46:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "peerless-martial-spirit": {
+        "identifier": "peerless-martial-spirit",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Peerless Martial Spirit",
+        "url": "https://gogoanime.so/category/peerless-martial-spirit",
+        "image": "https://gogocdn.net/cover/peerless-martial-spirit.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 43626,
+        "aniId": 122521,
+        "createdAt": "2020-10-27T19:42:52.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "p91x": {
+        "identifier": "p91x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jue Shi Wu Hun",
+        "url": "https://www12.9anime.to/watch/jue-shi-wu-hun.p91x",
+        "image": "//static.9anime.to/i/cache/images/d/de/de429c1d5a1f6c6989c553e51ed38f22.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43626,
+        "aniId": 122521,
+        "createdAt": "2020-10-28T05:41:51.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

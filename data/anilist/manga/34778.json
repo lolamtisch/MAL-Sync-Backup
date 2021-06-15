@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "La Vie en Rose",
+    "人生はバラ色だ。",
+    "La bien rose.",
+    "La Vie en Rose"
+  ],
+  "authors": [
+    "Yukari Hashida"
+  ],
+  "id": 34778,
+  "malId": 4778,
+  "type": "manga",
+  "title": "Jinsei wa Barairo Da",
+  "url": "https://anilist.co/manga/34778",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4778.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T13:01:13.000Z",
+  "updatedAt": "2021-06-02T13:01:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c4bb411-704c-4b17-b254-f19c0c97218a": {
+        "authors": [
+          "Hashida Yukari"
+        ],
+        "identifier": "8c4bb411-704c-4b17-b254-f19c0c97218a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jinsei wa Barairo da",
+        "url": "https://mangadex.org/title/8c4bb411-704c-4b17-b254-f19c0c97218a",
+        "image": "https://uploads.mangadex.org/covers/8c4bb411-704c-4b17-b254-f19c0c97218a/9d00241d-438e-4341-b814-591677b3b2ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4778,
+        "aniId": 34778,
+        "createdAt": "2020-10-12T16:03:13.000Z",
+        "updatedAt": "2021-06-02T13:04:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

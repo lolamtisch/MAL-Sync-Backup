@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "メランジェ!!"
+  ],
+  "authors": [
+    "Keiko Nigushi"
+  ],
+  "id": 53672,
+  "malId": 23672,
+  "type": "manga",
+  "title": "Melange!",
+  "url": "https://anilist.co/manga/53672",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23672.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:38.000Z",
+  "updatedAt": "2021-05-20T14:46:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d37ee149-e0cf-401e-829d-394f459753e1": {
+        "authors": [
+          "NIGUSHI Keiko"
+        ],
+        "identifier": "d37ee149-e0cf-401e-829d-394f459753e1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Melange!",
+        "url": "https://mangadex.org/title/d37ee149-e0cf-401e-829d-394f459753e1",
+        "image": "https://uploads.mangadex.org/covers/d37ee149-e0cf-401e-829d-394f459753e1/44fb117e-c50d-4812-ad3f-198fd96b5274.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23672,
+        "aniId": 53672,
+        "createdAt": "2020-10-12T16:06:17.000Z",
+        "updatedAt": "2021-06-03T18:33:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

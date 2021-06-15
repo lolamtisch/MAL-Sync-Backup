@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "悪魔ちゃんはももいろ",
+    "Devil-chan is Pink"
+  ],
+  "authors": [
+    "Pesotarou"
+  ],
+  "id": 100875,
+  "malId": 108208,
+  "type": "manga",
+  "title": "Akuma-chan wa Momoiro",
+  "url": "https://anilist.co/manga/100875",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100875-MvYqLusQfAeb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:57.000Z",
+  "updatedAt": "2021-06-05T14:20:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4c6cc551-406f-4095-80a5-7e611b1685b1": {
+        "authors": [
+          "Pesotarou"
+        ],
+        "identifier": "4c6cc551-406f-4095-80a5-7e611b1685b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akuma-chan wa Momoiro",
+        "url": "https://mangadex.org/title/4c6cc551-406f-4095-80a5-7e611b1685b1",
+        "image": "https://uploads.mangadex.org/covers/4c6cc551-406f-4095-80a5-7e611b1685b1/d74471d8-b5ba-465e-aab0-2e133f64007a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108208,
+        "aniId": 100875,
+        "createdAt": "2020-10-12T16:12:20.000Z",
+        "updatedAt": "2021-06-05T15:29:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akumachan_wa_momoiro": {
+        "authors": [
+          "Pesotarou"
+        ],
+        "identifier": "akumachan_wa_momoiro",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akuma-Chan Wa Momoiro",
+        "url": "https://manganelo.com/manga/akumachan_wa_momoiro",
+        "image": "https://avt.mkklcdnv6temp.com/36/h/15-1583492879.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108208,
+        "aniId": 100875,
+        "createdAt": "2021-04-30T19:21:32.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

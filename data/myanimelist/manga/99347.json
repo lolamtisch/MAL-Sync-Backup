@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Animator!",
+    "アニメタ！"
+  ],
+  "authors": [
+    "Hanamura, Yaso"
+  ],
+  "id": 99347,
+  "type": "manga",
+  "title": "Animeta!",
+  "url": "https://myanimelist.net/manga/99347/Animeta",
+  "image": "https://cdn.myanimelist.net/images/manga/1/179107.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:32.000Z",
+  "updatedAt": "2021-01-28T18:52:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "918fbd19-8973-49de-bb86-96596960375e": {
+        "authors": [
+          "HANAMURA Yaso"
+        ],
+        "identifier": "918fbd19-8973-49de-bb86-96596960375e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Animeta!",
+        "url": "https://mangadex.org/title/918fbd19-8973-49de-bb86-96596960375e",
+        "image": "https://uploads.mangadex.org/covers/918fbd19-8973-49de-bb86-96596960375e/22b0ac2c-8ded-43ef-9bd0-c6ee0f1a9a75.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99347,
+        "aniId": 103245,
+        "createdAt": "2020-10-12T16:14:46.000Z",
+        "updatedAt": "2021-06-06T08:01:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "animeta": {
+        "authors": [
+          "HANAMURA Yaso"
+        ],
+        "identifier": "animeta",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Animeta",
+        "url": "https://mangasee123.com/manga/Animeta",
+        "image": "https://cover.nep.li/cover/Animeta.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99347,
+        "aniId": 103245,
+        "createdAt": "2021-01-28T18:52:19.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

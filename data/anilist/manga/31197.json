@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "By The Sword",
+    "妖",
+    "Yo-u",
+    "Yô",
+    "Yo-u - The Moegi",
+    "妖 -YO U-"
+  ],
+  "authors": [
+    "Sanami Matou"
+  ],
+  "id": 31197,
+  "malId": 1197,
+  "type": "manga",
+  "title": "By The Sword",
+  "url": "https://anilist.co/manga/31197",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1197.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:56.000Z",
+  "updatedAt": "2021-06-05T17:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7f28e16f-87f3-4c92-968e-9de3e174f63d": {
+        "authors": [
+          "Matoh Sanami"
+        ],
+        "identifier": "7f28e16f-87f3-4c92-968e-9de3e174f63d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yo-u",
+        "url": "https://mangadex.org/title/7f28e16f-87f3-4c92-968e-9de3e174f63d",
+        "image": "https://uploads.mangadex.org/covers/7f28e16f-87f3-4c92-968e-9de3e174f63d/d182aaef-4cd5-4386-8a70-11450ed8f7ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1197,
+        "aniId": 31197,
+        "createdAt": "2020-10-12T16:12:56.000Z",
+        "updatedAt": "2021-06-05T17:58:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ee921540": {
+        "authors": [
+          "Sheng",
+          "Ling",
+          "Studios"
+        ],
+        "identifier": "ee921540",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Path Of The Sword",
+        "url": "https://manganelo.com/manga/ee921540",
+        "image": "https://avt.mkklcdnv6temp.com/10/d/20-1583501417.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1197,
+        "aniId": 31197,
+        "createdAt": "2020-10-12T16:22:47.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "you": {
+        "authors": [
+          "Matoh",
+          "Sanami"
+        ],
+        "identifier": "you",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yo-U",
+        "url": "https://manganelo.com/manga/you",
+        "image": "https://avt.mkklcdnv6temp.com/19/j/11-1583484714.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1197,
+        "aniId": 31197,
+        "createdAt": "2021-05-22T19:13:29.000Z",
+        "updatedAt": "2021-05-22T19:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

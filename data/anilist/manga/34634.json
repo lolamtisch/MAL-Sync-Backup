@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "渇愛―抱かれたい―",
+    "Katsuai -Dakaretai-"
+  ],
+  "authors": [
+    "Noriko Kanou"
+  ],
+  "id": 34634,
+  "malId": 4634,
+  "type": "manga",
+  "title": "Katsuai: Dakaretai",
+  "url": "https://anilist.co/manga/34634",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34634-2BcTWYkCNcPV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5b89baa6-4097-4052-965e-0c520028fe1d": {
+        "authors": [
+          "KANOU Noriko"
+        ],
+        "identifier": "5b89baa6-4097-4052-965e-0c520028fe1d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Katsuai - Dakaretai",
+        "url": "https://mangadex.org/title/5b89baa6-4097-4052-965e-0c520028fe1d",
+        "image": "https://uploads.mangadex.org/covers/5b89baa6-4097-4052-965e-0c520028fe1d/ea7e8cc7-beda-4bfb-b244-80fc5aaf1d75.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4634,
+        "aniId": 34634,
+        "createdAt": "2020-10-12T16:06:31.000Z",
+        "updatedAt": "2021-06-03T20:13:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "U Don't Know Me",
+    "You Don't Know Me"
+  ],
+  "authors": [
+    "Yeri Na"
+  ],
+  "id": 38790,
+  "malId": 8790,
+  "type": "manga",
+  "title": "U Don't Know Me",
+  "url": "https://anilist.co/manga/38790",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8790.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "25423b92-f9ca-45d5-9266-4c9a2a1243f1": {
+        "authors": [
+          "Na Yeri"
+        ],
+        "identifier": "25423b92-f9ca-45d5-9266-4c9a2a1243f1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "U Don't Know Me",
+        "url": "https://mangadex.org/title/25423b92-f9ca-45d5-9266-4c9a2a1243f1",
+        "image": "https://uploads.mangadex.org/covers/25423b92-f9ca-45d5-9266-4c9a2a1243f1/c12573c3-9ff2-4933-bd28-70b795312f0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8790,
+        "aniId": 38790,
+        "createdAt": "2020-10-12T16:13:10.000Z",
+        "updatedAt": "2021-06-05T19:12:45.000Z",
+        "deletedAt": null
+      },
+      "f04f23ad-9716-4f63-a185-ba652fac44b2": {
+        "authors": [
+          "Na Yeri"
+        ],
+        "identifier": "f04f23ad-9716-4f63-a185-ba652fac44b2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "You Don't Know Me",
+        "url": "https://mangadex.org/title/f04f23ad-9716-4f63-a185-ba652fac44b2",
+        "image": "https://uploads.mangadex.org/covers/f04f23ad-9716-4f63-a185-ba652fac44b2/c425ac90-ad6e-4986-bda1-01d63ec61052.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8790,
+        "aniId": 38790,
+        "createdAt": "2020-10-12T16:19:38.000Z",
+        "updatedAt": "2021-06-07T22:25:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hskq161371559708266": {
+        "authors": [],
+        "identifier": "hskq161371559708266",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "U Don't Know Me",
+        "url": "https://manganelo.com/manga/hskq161371559708266",
+        "image": "https://avt.mkklcdnv6.com/27/p/11-1583485011.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8790,
+        "aniId": 38790,
+        "createdAt": "2020-10-12T16:23:26.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

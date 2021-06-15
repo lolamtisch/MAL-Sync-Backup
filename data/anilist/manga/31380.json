@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "朝倉家の人々",
+    "Asakura Ke no Hitobito"
+  ],
+  "authors": [
+    "Kaoruko Shinagawa"
+  ],
+  "id": 31380,
+  "malId": 1380,
+  "type": "manga",
+  "title": "Asakura-ke no Hitobito",
+  "url": "https://anilist.co/manga/31380",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1380.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-05-20T14:36:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1dd5e59b-127f-4010-8eb2-e6101b7a2728": {
+        "authors": [
+          "Shinagawa Kaoruko"
+        ],
+        "identifier": "1dd5e59b-127f-4010-8eb2-e6101b7a2728",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Asakura Ke no Hitobito",
+        "url": "https://mangadex.org/title/1dd5e59b-127f-4010-8eb2-e6101b7a2728",
+        "image": "https://uploads.mangadex.org/covers/1dd5e59b-127f-4010-8eb2-e6101b7a2728/b8bfd309-740d-4d9f-92bd-e83c7ef3da8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1380,
+        "aniId": 31380,
+        "createdAt": "2020-10-12T16:11:33.000Z",
+        "updatedAt": "2021-06-05T09:12:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

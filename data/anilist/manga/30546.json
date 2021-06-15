@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Trash",
+    "TRASH",
+    "トラッシュ"
+  ],
+  "authors": [
+    "Sanami Matou"
+  ],
+  "id": 30546,
+  "malId": 546,
+  "type": "manga",
+  "title": "Trash",
+  "url": "https://anilist.co/manga/30546",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30546-sVv9wQb7Man1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ee833b07-e75e-4158-81a5-dd2337d0a2f0": {
+        "authors": [
+          "Matoh Sanami"
+        ],
+        "identifier": "ee833b07-e75e-4158-81a5-dd2337d0a2f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trash",
+        "url": "https://mangadex.org/title/ee833b07-e75e-4158-81a5-dd2337d0a2f0",
+        "image": "https://uploads.mangadex.org/covers/ee833b07-e75e-4158-81a5-dd2337d0a2f0/3c275e66-becd-47f4-99bb-1e448a648b0c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 546,
+        "aniId": 30546,
+        "createdAt": "2020-10-12T16:16:29.000Z",
+        "updatedAt": "2021-06-06T23:04:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

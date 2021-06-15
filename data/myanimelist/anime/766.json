@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "Demonbane OVA",
+    "機神咆吼デモンベイン"
+  ],
+  "id": 766,
+  "type": "anime",
+  "title": "Kishin Houkou Demonbane",
+  "url": "https://myanimelist.net/anime/766/Kishin_Houkou_Demonbane",
+  "image": "https://cdn.myanimelist.net/images/anime/1/766.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:08.000Z",
+  "updatedAt": "2021-05-18T12:30:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "demonbane": {
+        "identifier": "demonbane",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Demonbane",
+        "url": "https://www.gogoanime.movie/category/demonbane",
+        "image": "https://gogocdn.net/images/anime/D/demonbane.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 766,
+        "aniId": 766,
+        "createdAt": "2020-10-12T16:00:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "demonbane": {
+        "identifier": "demonbane",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Demonbane",
+        "url": "https://www.crunchyroll.com/demonbane?media_id=568214",
+        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/22e0a4639ba18fca9a7faec6016e30b71292990702_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 766,
+        "aniId": 766,
+        "createdAt": "2020-10-20T20:40:11.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "敵は王サマ",
+    "Kataki wa Ousama",
+    "Teki wa Ou-sama",
+    "Keisan desu kara",
+    "Midori no Me"
+  ],
+  "authors": [
+    "Keiko Ishihara"
+  ],
+  "id": 77441,
+  "malId": 47441,
+  "type": "manga",
+  "title": "Teki wa Ousama",
+  "url": "https://anilist.co/manga/77441",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47441-LJY7mbqRAX8p.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:36.000Z",
+  "updatedAt": "2021-06-03T16:19:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "315d9ba1-374f-4b9a-8817-b42d8d9540b1": {
+        "authors": [
+          "Ishihara Keiko"
+        ],
+        "identifier": "315d9ba1-374f-4b9a-8817-b42d8d9540b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Midori no Me",
+        "url": "https://mangadex.org/title/315d9ba1-374f-4b9a-8817-b42d8d9540b1",
+        "image": "https://uploads.mangadex.org/covers/315d9ba1-374f-4b9a-8817-b42d8d9540b1/47d3aee9-7a30-4d6f-b2ab-5ddf6514375b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47441,
+        "aniId": 77441,
+        "createdAt": "2020-10-12T16:03:19.000Z",
+        "updatedAt": "2021-06-02T13:12:52.000Z",
+        "deletedAt": null
+      },
+      "c468d304-ffe4-4afe-84a3-baa6792046e8": {
+        "authors": [
+          "ISHIHARA Keiko"
+        ],
+        "identifier": "c468d304-ffe4-4afe-84a3-baa6792046e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Teki wa Ousama",
+        "url": "https://mangadex.org/title/c468d304-ffe4-4afe-84a3-baa6792046e8",
+        "image": "https://uploads.mangadex.org/covers/c468d304-ffe4-4afe-84a3-baa6792046e8/b7910203-bb46-42df-ac2b-30791680fe8e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47441,
+        "aniId": 77441,
+        "createdAt": "2020-10-12T16:05:58.000Z",
+        "updatedAt": "2021-06-03T16:21:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "midori_no_me": {
+        "authors": [
+          "Ishihara",
+          "Keiko"
+        ],
+        "identifier": "midori_no_me",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Midori No Me",
+        "url": "https://manganelo.com/manga/midori_no_me",
+        "image": "https://avt.mkklcdnv6temp.com/37/f/10-1583483517.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47441,
+        "aniId": 77441,
+        "createdAt": "2021-05-20T17:13:27.000Z",
+        "updatedAt": "2021-05-20T17:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

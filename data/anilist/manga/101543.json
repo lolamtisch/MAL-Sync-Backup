@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "おこってないならこっちむいて",
+    "If you're not angry",
+    " please look at me"
+  ],
+  "authors": [
+    "Chiaki Kasai"
+  ],
+  "id": 101543,
+  "malId": 114188,
+  "type": "manga",
+  "title": "Okottenai Nara Kocchi Muite",
+  "url": "https://anilist.co/manga/101543",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101543-yYyiJcnDsP3K.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:08.000Z",
+  "updatedAt": "2021-05-20T14:57:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb0aa397-a014-4af8-a248-0d1507405ee9": {
+        "authors": [
+          "Kasai Chiaki"
+        ],
+        "identifier": "cb0aa397-a014-4af8-a248-0d1507405ee9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Okottenai Nara Kocchi Muite",
+        "url": "https://mangadex.org/title/cb0aa397-a014-4af8-a248-0d1507405ee9",
+        "image": "https://uploads.mangadex.org/covers/cb0aa397-a014-4af8-a248-0d1507405ee9/3f938cf8-3db0-4d3e-9a0d-3b4c1d96ff5e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114188,
+        "aniId": 101543,
+        "createdAt": "2020-10-12T16:15:19.000Z",
+        "updatedAt": "2021-06-06T12:38:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

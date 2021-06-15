@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "liar"
+  ],
+  "authors": [
+    "Moarasu",
+    "Juri Hakamada"
+  ],
+  "id": 103239,
+  "malId": 106866,
+  "type": "manga",
+  "title": "Liar",
+  "url": "https://anilist.co/manga/103239",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103239-ow8IYBU983wY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:48.000Z",
+  "updatedAt": "2021-05-20T14:55:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac47d75c-d4e5-4000-af55-47dfde215da0": {
+        "authors": [
+          "HAKAMADA Juri",
+          "Moarasu"
+        ],
+        "identifier": "ac47d75c-d4e5-4000-af55-47dfde215da0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Liar",
+        "url": "https://mangadex.org/title/ac47d75c-d4e5-4000-af55-47dfde215da0",
+        "image": "https://uploads.mangadex.org/covers/ac47d75c-d4e5-4000-af55-47dfde215da0/f82f94f0-5fd0-47fb-9503-f16a3402190c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106866,
+        "aniId": 103239,
+        "createdAt": "2020-10-12T16:11:44.000Z",
+        "updatedAt": "2021-06-05T10:37:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

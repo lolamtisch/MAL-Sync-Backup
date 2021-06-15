@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "アウター・ゾーン",
+    "The Outer Zone"
+  ],
+  "authors": [
+    "Shin Mitsuhara"
+  ],
+  "id": 104753,
+  "malId": 73373,
+  "type": "manga",
+  "title": "Outer Zone",
+  "url": "https://anilist.co/manga/104753",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n104753-pNflxxL1b5z5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:41.000Z",
+  "updatedAt": "2021-05-20T14:51:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd9cab11-fa1a-4871-8d46-882b8182a0f5": {
+        "authors": [
+          "Mitsuhara Shin"
+        ],
+        "identifier": "bd9cab11-fa1a-4871-8d46-882b8182a0f5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Outer Zone",
+        "url": "https://mangadex.org/title/bd9cab11-fa1a-4871-8d46-882b8182a0f5",
+        "image": "https://uploads.mangadex.org/covers/bd9cab11-fa1a-4871-8d46-882b8182a0f5/0eb37b04-0fb1-40df-8396-a4d4662bbc36.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73373,
+        "aniId": 104753,
+        "createdAt": "2020-10-12T16:08:14.000Z",
+        "updatedAt": "2021-06-04T08:35:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "outer_zone": {
+        "authors": [],
+        "identifier": "outer_zone",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Outer Zone",
+        "url": "https://manganelo.com/manga/outer_zone",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1120-outer_zone.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73373,
+        "aniId": 104753,
+        "createdAt": "2020-10-12T16:24:47.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "outer-zone": {
+        "authors": [
+          "MITSUHARA Shin"
+        ],
+        "identifier": "outer-zone",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Outer Zone",
+        "url": "https://mangasee123.com/manga/Outer-Zone",
+        "image": "https://cover.nep.li/cover/Outer-Zone.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73373,
+        "aniId": 104753,
+        "createdAt": "2021-05-21T14:12:57.000Z",
+        "updatedAt": "2021-05-21T14:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "타이밍"
+  ],
+  "authors": [
+    "Kang Full"
+  ],
+  "id": 127190,
+  "malId": 125037,
+  "type": "manga",
+  "title": "Timing",
+  "url": "https://anilist.co/manga/127190",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127190-mX0fF1bZslRx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:08.000Z",
+  "updatedAt": "2021-05-20T14:59:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9452d414-b488-4602-bf80-f907183ee151": {
+        "authors": [
+          "Kang Full"
+        ],
+        "identifier": "9452d414-b488-4602-bf80-f907183ee151",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Timing",
+        "url": "https://mangadex.org/title/9452d414-b488-4602-bf80-f907183ee151",
+        "image": "https://uploads.mangadex.org/covers/9452d414-b488-4602-bf80-f907183ee151/a61910a8-8bfc-4f44-a734-e0d90dc3719f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125037,
+        "aniId": 127190,
+        "createdAt": "2020-10-12T16:14:00.000Z",
+        "updatedAt": "2021-06-06T01:40:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

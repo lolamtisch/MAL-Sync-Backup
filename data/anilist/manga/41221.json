@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "A Bird Cage Classroom",
+    "鳥籠学級",
+    "A Bird Cage Classroom"
+  ],
+  "authors": [
+    "Shin Mashiba"
+  ],
+  "id": 41221,
+  "malId": 11221,
+  "type": "manga",
+  "title": "Torikago Gakkyuu",
+  "url": "https://anilist.co/manga/41221",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx41221-yJXmbNrESbvc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:16.000Z",
+  "updatedAt": "2021-05-20T14:41:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31db3ae1-3f3d-4127-a240-d560590f795b": {
+        "authors": [
+          "MASHIBA Shin"
+        ],
+        "identifier": "31db3ae1-3f3d-4127-a240-d560590f795b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Torikago Gakkyuu",
+        "url": "https://mangadex.org/title/31db3ae1-3f3d-4127-a240-d560590f795b",
+        "image": "https://uploads.mangadex.org/covers/31db3ae1-3f3d-4127-a240-d560590f795b/35de6d32-ba22-4d17-9dc6-5bd5d1647c04.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11221,
+        "aniId": 41221,
+        "createdAt": "2020-10-12T16:03:20.000Z",
+        "updatedAt": "2021-06-02T13:15:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "torikago_gakkyuu": {
+        "authors": [
+          "MASHIBA Shin"
+        ],
+        "identifier": "torikago_gakkyuu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Torikago Gakkyuu",
+        "url": "https://fanfox.net/manga/torikago_gakkyuu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4297/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11221,
+        "aniId": 41221,
+        "createdAt": "2021-05-20T22:15:48.000Z",
+        "updatedAt": "2021-05-20T22:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

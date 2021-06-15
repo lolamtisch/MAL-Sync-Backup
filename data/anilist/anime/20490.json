@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "ストレンジ・プラス",
+    "Strange Plus"
+  ],
+  "id": 20490,
+  "malId": 21067,
+  "type": "anime",
+  "title": "Strange+",
+  "url": "https://anilist.co/anime/20490",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20490.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:27.000Z",
+  "updatedAt": "2021-05-20T14:41:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "k5yw": {
+        "identifier": "k5yw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fate/strange Fake",
+        "url": "https://9anime.to/watch/fatestrange-fake.k5yw",
+        "image": "https://static.akacdn.ru/files/images/2020/01/860fe17aee2a0fe04e18e3c0d6218a2d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21067,
+        "aniId": 20490,
+        "createdAt": "2020-10-12T15:52:32.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "mv77": {
+        "identifier": "mv77",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Strange+",
+        "url": "https://9anime.ru/watch/strange.mv77",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-opcdcFZzB1w/V7B1THE_-4I/AAAAAAAA3BY/pR0m41OX_50/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21067,
+        "aniId": 20490,
+        "createdAt": "2020-10-12T15:53:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "strange": {
+        "identifier": "strange",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Strange+ ",
+        "url": "https://www.gogoanime.movie/category/strange",
+        "image": "https://gogocdn.net/images/Strange.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21067,
+        "aniId": 20490,
+        "createdAt": "2020-10-12T16:01:58.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "strange%2b": {
+        "identifier": "strange%2b",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Strange+",
+        "url": "https://www.crunchyroll.com/strange?media_id=648805",
+        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/acda08d99c9a6fd8ad14eff5bc16e3801389261114_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21067,
+        "aniId": 20490,
+        "createdAt": "2020-11-10T03:42:32.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

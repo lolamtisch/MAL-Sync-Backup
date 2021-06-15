@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "달콤한 피"
+  ],
+  "authors": [
+    "Se-Young Kim"
+  ],
+  "id": 55083,
+  "malId": 25083,
+  "type": "manga",
+  "title": "Sweet Blood",
+  "url": "https://anilist.co/manga/55083",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25083.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3548e4a-3c76-40d2-af15-5b3b5b071cab": {
+        "authors": [
+          "Kim Se-Young"
+        ],
+        "identifier": "c3548e4a-3c76-40d2-af15-5b3b5b071cab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sweet Blood",
+        "url": "https://mangadex.org/title/c3548e4a-3c76-40d2-af15-5b3b5b071cab",
+        "image": "https://uploads.mangadex.org/covers/c3548e4a-3c76-40d2-af15-5b3b5b071cab/21d9ce97-a8ef-425c-a988-6ac8397731d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25083,
+        "aniId": 55083,
+        "createdAt": "2020-10-12T16:03:40.000Z",
+        "updatedAt": "2021-06-02T15:41:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

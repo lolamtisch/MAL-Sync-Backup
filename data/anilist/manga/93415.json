@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ゴリプリ！"
+  ],
+  "authors": [
+    "Vega Nakashima"
+  ],
+  "id": 93415,
+  "malId": 83503,
+  "type": "manga",
+  "title": "Goripuri!",
+  "url": "https://anilist.co/manga/93415",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93415-eJtXCtByxMHn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:32.000Z",
+  "updatedAt": "2021-05-20T14:52:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e4ff3c2a-70d7-4815-88f3-f2b12d6c0bf8": {
+        "authors": [
+          "Nakashima Vega"
+        ],
+        "identifier": "e4ff3c2a-70d7-4815-88f3-f2b12d6c0bf8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Goripuri!",
+        "url": "https://mangadex.org/title/e4ff3c2a-70d7-4815-88f3-f2b12d6c0bf8",
+        "image": "https://uploads.mangadex.org/covers/e4ff3c2a-70d7-4815-88f3-f2b12d6c0bf8/7f0fa16f-533c-4967-ba99-279c00d97489.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83503,
+        "aniId": 93415,
+        "createdAt": "2020-10-12T16:08:14.000Z",
+        "updatedAt": "2021-06-04T08:33:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

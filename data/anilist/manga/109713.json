@@ -1,0 +1,105 @@
+{
+  "altTitle": [
+    "ヌけない聖剣ちゃん"
+  ],
+  "authors": [
+    "Yuuki Kumagai"
+  ],
+  "id": 109713,
+  "malId": 119965,
+  "type": "manga",
+  "title": "Nukenai Seiken-chan",
+  "url": "https://anilist.co/manga/109713",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109713-2wQaFsFsim6n.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:13.000Z",
+  "updatedAt": "2021-05-20T14:58:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb668d75-86ec-47e3-84ba-f41382f779b1": {
+        "authors": [
+          "Kumano Kyu"
+        ],
+        "identifier": "eb668d75-86ec-47e3-84ba-f41382f779b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nukenai Seiken-chan",
+        "url": "https://mangadex.org/title/eb668d75-86ec-47e3-84ba-f41382f779b1",
+        "image": "https://uploads.mangadex.org/covers/eb668d75-86ec-47e3-84ba-f41382f779b1/7d55916c-9a38-4c6c-962c-12b5f4f70ce4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119965,
+        "aniId": 109713,
+        "createdAt": "2020-10-12T16:15:57.000Z",
+        "updatedAt": "2021-06-06T18:13:24.000Z",
+        "deletedAt": null
+      },
+      "05b8157f-b9fb-4919-8b29-4582c0736ef6": {
+        "authors": [
+          "Akatsuka Fujio"
+        ],
+        "identifier": "05b8157f-b9fb-4919-8b29-4582c0736ef6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ken-chan",
+        "url": "https://mangadex.org/title/05b8157f-b9fb-4919-8b29-4582c0736ef6",
+        "image": "https://uploads.mangadex.org/covers/05b8157f-b9fb-4919-8b29-4582c0736ef6/cc91cab7-1144-4b4f-a7ae-fd3be45b6545.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119965,
+        "aniId": 109713,
+        "createdAt": "2020-10-12T16:19:12.000Z",
+        "updatedAt": "2021-06-07T21:29:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "iw919337": {
+        "authors": [],
+        "identifier": "iw919337",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nukenai Seiken-chan",
+        "url": "https://manganelo.com/manga/iw919337",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/743-iw919337.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119965,
+        "aniId": 109713,
+        "createdAt": "2020-10-12T16:23:38.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nukenai_seiken_chan": {
+        "authors": [
+          "KUMANO Kyu"
+        ],
+        "identifier": "nukenai_seiken_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nukenai Seiken-chan",
+        "url": "https://fanfox.net/manga/nukenai_seiken_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30490/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 119965,
+        "aniId": 109713,
+        "createdAt": "2021-02-08T03:50:11.000Z",
+        "updatedAt": "2021-05-20T15:51:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

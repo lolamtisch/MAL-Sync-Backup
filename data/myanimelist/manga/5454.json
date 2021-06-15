@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ゴールデン・デイズ"
+  ],
+  "authors": [
+    "Takao, Shigeru"
+  ],
+  "id": 5454,
+  "type": "manga",
+  "title": "Golden Days",
+  "url": "https://myanimelist.net/manga/5454/Golden_Days",
+  "image": "https://cdn.myanimelist.net/images/manga/2/175483.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:05.000Z",
+  "updatedAt": "2021-03-25T06:49:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5db46caf-5ca3-436f-892d-12ed51b1ba02": {
+        "authors": [
+          "Takao Shigeru"
+        ],
+        "identifier": "5db46caf-5ca3-436f-892d-12ed51b1ba02",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Golden Days",
+        "url": "https://mangadex.org/title/5db46caf-5ca3-436f-892d-12ed51b1ba02",
+        "image": "https://uploads.mangadex.org/covers/5db46caf-5ca3-436f-892d-12ed51b1ba02/ea5f3cc6-47b8-439d-bb6e-75f74e3cdfe1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5454,
+        "aniId": 35454,
+        "createdAt": "2020-10-12T16:03:42.000Z",
+        "updatedAt": "2021-06-02T15:51:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "golden_days": {
+        "authors": [
+          "Takao",
+          "Shigeru"
+        ],
+        "identifier": "golden_days",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Golden Days",
+        "url": "https://manganelo.com/manga/golden_days",
+        "image": "https://avt.mkklcdnv6temp.com/27/b/1-1583464755.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5454,
+        "aniId": 35454,
+        "createdAt": "2021-03-25T06:49:14.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "golden_days": {
+        "authors": [
+          "TAKAO Shigeru"
+        ],
+        "identifier": "golden_days",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Golden Days",
+        "url": "https://fanfox.net/manga/golden_days/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2851/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5454,
+        "aniId": 35454,
+        "createdAt": "2021-04-01T12:31:42.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

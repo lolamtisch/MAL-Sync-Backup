@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "レディー！！",
+    "Moeru Bara",
+    "Gwendoline",
+    "Roses de feu"
+  ],
+  "authors": [
+    "Youko Hanabusa"
+  ],
+  "id": 39393,
+  "malId": 9393,
+  "type": "manga",
+  "title": "Lady!!",
+  "url": "https://anilist.co/manga/39393",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39393-8qxMxodg0Ebj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T20:12:57.000Z",
+  "updatedAt": "2021-05-23T18:38:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fee91278-24f6-4566-abd4-6f9c13552d9e": {
+        "authors": [
+          "HANABUSA Youko"
+        ],
+        "identifier": "fee91278-24f6-4566-abd4-6f9c13552d9e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lady!!",
+        "url": "https://mangadex.org/title/fee91278-24f6-4566-abd4-6f9c13552d9e",
+        "image": "https://uploads.mangadex.org/covers/fee91278-24f6-4566-abd4-6f9c13552d9e/dfd89cd9-37d1-4424-a633-b0a8ac34b26f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9393,
+        "aniId": 39393,
+        "createdAt": "2020-10-12T16:12:25.000Z",
+        "updatedAt": "2021-06-05T15:28:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "lady": {
+        "authors": [
+          "HANABUSA Youko"
+        ],
+        "identifier": "lady",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lady!!",
+        "url": "https://fanfox.net/manga/lady/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8062/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9393,
+        "aniId": 39393,
+        "createdAt": "2021-06-12T09:08:42.000Z",
+        "updatedAt": "2021-06-12T09:38:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

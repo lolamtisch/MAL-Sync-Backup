@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "花めぐりあわせ",
+    "Hana Meguri Awase"
+  ],
+  "authors": [
+    "Aki Mochida"
+  ],
+  "id": 77170,
+  "malId": 47170,
+  "type": "manga",
+  "title": "Hanameguri Awase",
+  "url": "https://anilist.co/manga/77170",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx77170-sR2pMrd23uHl.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:32.000Z",
+  "updatedAt": "2021-05-20T14:49:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "15a15de0-9acc-46e7-816f-1f328311c700": {
+        "authors": [
+          "Mochida Aki"
+        ],
+        "identifier": "15a15de0-9acc-46e7-816f-1f328311c700",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanameguri Awase",
+        "url": "https://mangadex.org/title/15a15de0-9acc-46e7-816f-1f328311c700",
+        "image": "https://uploads.mangadex.org/covers/15a15de0-9acc-46e7-816f-1f328311c700/2514043c-a8a8-4ffd-a8fe-4097e5bcf44c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47170,
+        "aniId": 77170,
+        "createdAt": "2020-10-12T16:05:55.000Z",
+        "updatedAt": "2021-06-03T15:57:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

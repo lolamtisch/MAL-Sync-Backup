@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Sugar Sugar Rune",
+    "シュガシュガルーン",
+    "Chocolat et Vanilla",
+    "Sugar² Rune"
+  ],
+  "authors": [
+    "Moyoco Anno"
+  ],
+  "id": 30429,
+  "malId": 429,
+  "type": "manga",
+  "title": "Sugar Sugar Rune",
+  "url": "https://anilist.co/manga/30429",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30429-ZlNyuIqu5750.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "465a2298-ec58-40cb-8b14-887c7604a884": {
+        "authors": [
+          "Anno Moyoco"
+        ],
+        "identifier": "465a2298-ec58-40cb-8b14-887c7604a884",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sugar Sugar Rune",
+        "url": "https://mangadex.org/title/465a2298-ec58-40cb-8b14-887c7604a884",
+        "image": "https://uploads.mangadex.org/covers/465a2298-ec58-40cb-8b14-887c7604a884/216ddbd6-be9e-49df-9c8c-01d5ffe8f8f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 429,
+        "aniId": 30429,
+        "createdAt": "2020-10-12T16:08:09.000Z",
+        "updatedAt": "2021-06-04T07:59:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fl920682": {
+        "authors": [],
+        "identifier": "fl920682",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sugar Daddy",
+        "url": "https://manganelo.com/manga/fl920682",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2079-fl920682.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 429,
+        "aniId": 30429,
+        "createdAt": "2020-10-12T16:22:56.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "sugar_sugar_rune": {
+        "authors": [
+          "Anno",
+          "Moyoco"
+        ],
+        "identifier": "sugar_sugar_rune",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sugar Sugar Rune",
+        "url": "https://manganelo.com/manga/sugar_sugar_rune",
+        "image": "https://avt.mkklcdnv6.com/48/w/5-1583473799.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 429,
+        "aniId": 30429,
+        "createdAt": "2020-10-12T18:25:25.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

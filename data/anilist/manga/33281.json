@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "Barefoot Gen",
+    "はだしのゲン",
+    "Barefoot Gen - Bomb on Hiroshima",
+    "Gen: Gutten fra Hiroshima",
+    "Gen Pés Descalços",
+    "Gen di Hiroshima",
+    "Yalınayak Gen"
+  ],
+  "authors": [
+    "Keiji Nakazawa",
+    "Drik Sada",
+    "Evandro Pimentel"
+  ],
+  "id": 33281,
+  "malId": 3281,
+  "type": "manga",
+  "title": "Hadashi no Gen",
+  "url": "https://anilist.co/manga/33281",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33281-2NXB8uHRxpI3.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-06-12T12:38:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6e89c386-a263-4c5c-8e3b-30f44e71b9f9": {
+        "authors": [
+          "Nakazawa Keiji"
+        ],
+        "identifier": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hadashi no Gen",
+        "url": "https://mangadex.org/title/6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
+        "image": "https://uploads.mangadex.org/covers/6e89c386-a263-4c5c-8e3b-30f44e71b9f9/8805d539-8d75-4f0d-a814-28c5f9e7d10a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3281,
+        "aniId": 33281,
+        "createdAt": "2020-10-12T16:10:31.000Z",
+        "updatedAt": "2021-06-05T01:26:49.000Z",
+        "deletedAt": null
+      },
+      "eadd2e4d-fa74-476f-8852-460862ef760d": {
+        "authors": [
+          "BigoteM",
+          "Forerunner Fox"
+        ],
+        "identifier": "eadd2e4d-fa74-476f-8852-460862ef760d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Foot Gun",
+        "url": "https://mangadex.org/title/eadd2e4d-fa74-476f-8852-460862ef760d",
+        "image": "https://uploads.mangadex.org/covers/eadd2e4d-fa74-476f-8852-460862ef760d/27f95378-efe8-4533-a9d9-b0c8a148e18a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3281,
+        "aniId": 33281,
+        "createdAt": "2020-10-12T16:19:56.000Z",
+        "updatedAt": "2021-06-07T22:59:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hadashi_no_gen": {
+        "authors": [],
+        "identifier": "hadashi_no_gen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hadashi No Gen",
+        "url": "https://manganelo.com/manga/hadashi_no_gen",
+        "image": "https://avt.mkklcdnv6.com/20/a/15-1583492181.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3281,
+        "aniId": 33281,
+        "createdAt": "2020-10-12T16:23:13.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

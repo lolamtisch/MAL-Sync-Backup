@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "coda",
+    "coda [コーダ]",
+    "コーダ"
+  ],
+  "authors": [
+    "Hitoshi Ichimura"
+  ],
+  "id": 54183,
+  "malId": 24183,
+  "type": "manga",
+  "title": "Coda",
+  "url": "https://anilist.co/manga/54183",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54183-JoWvwpyamDKu.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:43.000Z",
+  "updatedAt": "2021-05-20T14:46:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b3d10c9-eebf-4fe3-9ba0-2904e1381dbf": {
+        "authors": [
+          "Ichimura Hitoshi"
+        ],
+        "identifier": "7b3d10c9-eebf-4fe3-9ba0-2904e1381dbf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Coda",
+        "url": "https://mangadex.org/title/7b3d10c9-eebf-4fe3-9ba0-2904e1381dbf",
+        "image": "https://uploads.mangadex.org/covers/7b3d10c9-eebf-4fe3-9ba0-2904e1381dbf/717f0b16-89fb-4127-80da-b5b2caa2a86f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24183,
+        "aniId": 54183,
+        "createdAt": "2020-10-12T16:04:10.000Z",
+        "updatedAt": "2021-06-02T19:16:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

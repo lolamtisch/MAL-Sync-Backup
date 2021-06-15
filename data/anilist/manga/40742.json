@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Puzzle+",
+    "绝命拼图"
+  ],
+  "authors": [
+    "Manami Sugano"
+  ],
+  "id": 40742,
+  "malId": 10742,
+  "type": "manga",
+  "title": "Puzzle+",
+  "url": "https://anilist.co/manga/40742",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10742.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:08.000Z",
+  "updatedAt": "2021-05-20T14:41:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ed48357b-e7e8-4d06-9f88-f5db24ef9b6d": {
+        "authors": [
+          "Sugano Manami"
+        ],
+        "identifier": "ed48357b-e7e8-4d06-9f88-f5db24ef9b6d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Puzzle+",
+        "url": "https://mangadex.org/title/ed48357b-e7e8-4d06-9f88-f5db24ef9b6d",
+        "image": "https://uploads.mangadex.org/covers/ed48357b-e7e8-4d06-9f88-f5db24ef9b6d/06fd2bbd-8689-4a45-9ede-cc4b2edd62b6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10742,
+        "aniId": 40742,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:21:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

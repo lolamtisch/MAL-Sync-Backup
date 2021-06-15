@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "The Superior Made of Honey",
+    "蜜の詰まった上司"
+  ],
+  "authors": [
+    "Saeko Kamon"
+  ],
+  "id": 43327,
+  "malId": 13327,
+  "type": "manga",
+  "title": "Mitsu no Tsumatta Joushi",
+  "url": "https://anilist.co/manga/43327",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13327.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c02f4d68-989f-4f90-8231-bfc6c0edee01": {
+        "authors": [
+          "Kamon Saeko"
+        ],
+        "identifier": "c02f4d68-989f-4f90-8231-bfc6c0edee01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mitsu no Tsumatta Joushi",
+        "url": "https://mangadex.org/title/c02f4d68-989f-4f90-8231-bfc6c0edee01",
+        "image": "https://uploads.mangadex.org/covers/c02f4d68-989f-4f90-8231-bfc6c0edee01/8a858ca1-ad83-4f7c-83dd-dba665132c71.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13327,
+        "aniId": 43327,
+        "createdAt": "2020-10-12T16:13:32.000Z",
+        "updatedAt": "2021-06-05T22:07:20.000Z",
+        "deletedAt": null
+      },
+      "e45fcb5e-fe15-4b14-87be-81ab6832f76b": {
+        "authors": [
+          "KATSUMOTO Kasane"
+        ],
+        "identifier": "e45fcb5e-fe15-4b14-87be-81ab6832f76b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "8-tsu no Kao o Motsu Joushi",
+        "url": "https://mangadex.org/title/e45fcb5e-fe15-4b14-87be-81ab6832f76b",
+        "image": "https://uploads.mangadex.org/covers/e45fcb5e-fe15-4b14-87be-81ab6832f76b/de45fa0c-7de9-49cd-be76-9530add1341b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13327,
+        "aniId": 43327,
+        "createdAt": "2020-10-12T16:14:42.000Z",
+        "updatedAt": "2021-06-06T07:24:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

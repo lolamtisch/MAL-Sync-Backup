@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "我不是教主",
+    "I Am Not the Leader",
+    "I'm Not The Cult Leader"
+  ],
+  "authors": [
+    "Yu Mo Ling"
+  ],
+  "id": 123555,
+  "malId": null,
+  "type": "manga",
+  "title": "Wo Bu Shi Jiao Zhu",
+  "url": "https://anilist.co/manga/123555",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123555-3gy5azCe0noW.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T11:37:30.000Z",
+  "updatedAt": "2021-06-07T11:37:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b9bcd5a5-23cc-47f4-a79d-752897cf3305": {
+        "authors": [
+          "Ling Yumo"
+        ],
+        "identifier": "b9bcd5a5-23cc-47f4-a79d-752897cf3305",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I'm Not The Cult Leader",
+        "url": "https://mangadex.org/title/b9bcd5a5-23cc-47f4-a79d-752897cf3305",
+        "image": "https://uploads.mangadex.org/covers/b9bcd5a5-23cc-47f4-a79d-752897cf3305/f93fc8e3-c712-40b4-ae87-cd5965fc139e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123555,
+        "createdAt": "2020-10-12T16:17:50.000Z",
+        "updatedAt": "2021-06-07T12:00:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

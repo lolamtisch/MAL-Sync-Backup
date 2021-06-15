@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ゴーストライター"
+  ],
+  "authors": [
+    "Reika Ootsuka"
+  ],
+  "id": 95437,
+  "malId": 91140,
+  "type": "manga",
+  "title": "Ghost Writer",
+  "url": "https://anilist.co/manga/95437",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95437-OF36E4QBzUm8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:08.000Z",
+  "updatedAt": "2021-05-20T14:53:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f81bb526-be0d-4188-aa66-1208e9202059": {
+        "authors": [
+          "Mikage Natsu"
+        ],
+        "identifier": "f81bb526-be0d-4188-aa66-1208e9202059",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ghost Writer",
+        "url": "https://mangadex.org/title/f81bb526-be0d-4188-aa66-1208e9202059",
+        "image": "https://uploads.mangadex.org/covers/f81bb526-be0d-4188-aa66-1208e9202059/fd2fbbbf-bec5-4bb8-8b82-29ede20748c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91140,
+        "aniId": 95437,
+        "createdAt": "2020-10-12T16:08:49.000Z",
+        "updatedAt": "2021-06-04T13:00:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

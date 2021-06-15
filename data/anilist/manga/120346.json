@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "兄貴が恋を拾ってきました",
+    "Big Brother Picked Up Love"
+  ],
+  "authors": [
+    "Mitsunaga Hirama"
+  ],
+  "id": 120346,
+  "malId": 120265,
+  "type": "manga",
+  "title": "Aniki ga Koi wo Hirottekimashita",
+  "url": "https://anilist.co/manga/120346",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120346-XNOhIjmGDT1k.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:15.000Z",
+  "updatedAt": "2021-05-20T14:58:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ade06a97-d3e0-4c5b-84e2-f0fcc9aedecc": {
+        "authors": [
+          "Hirama Mitsunaga"
+        ],
+        "identifier": "ade06a97-d3e0-4c5b-84e2-f0fcc9aedecc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aniki ga Koi wo Hirotte Kimashita",
+        "url": "https://mangadex.org/title/ade06a97-d3e0-4c5b-84e2-f0fcc9aedecc",
+        "image": "https://uploads.mangadex.org/covers/ade06a97-d3e0-4c5b-84e2-f0fcc9aedecc/9ad138cc-3941-45b9-bf04-c84e48a10e71.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120265,
+        "aniId": 120346,
+        "createdAt": "2020-10-12T16:16:23.000Z",
+        "updatedAt": "2021-06-06T22:05:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aniki_ga_koi_wo_hirotte_kimashita": {
+        "authors": [
+          "HIRAMA Mitsunaga"
+        ],
+        "identifier": "aniki_ga_koi_wo_hirotte_kimashita",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aniki ga Koi wo Hirotte Kimashita",
+        "url": "https://fanfox.net/manga/aniki_ga_koi_wo_hirotte_kimashita/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34297/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120265,
+        "aniId": 120346,
+        "createdAt": "2021-03-28T21:49:19.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

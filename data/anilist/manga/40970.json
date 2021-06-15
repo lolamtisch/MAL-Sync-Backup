@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "エマージング"
+  ],
+  "authors": [
+    "Masaya Hokazono"
+  ],
+  "id": 40970,
+  "malId": 10970,
+  "type": "manga",
+  "title": "Emerging",
+  "url": "https://anilist.co/manga/40970",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40970-ZSiVgH6vDE7S.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5b8c43c8-b3dd-44e6-bd6f-814ce4beca39": {
+        "authors": [
+          "Hokazono Masaya"
+        ],
+        "identifier": "5b8c43c8-b3dd-44e6-bd6f-814ce4beca39",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Emerging",
+        "url": "https://mangadex.org/title/5b8c43c8-b3dd-44e6-bd6f-814ce4beca39",
+        "image": "https://uploads.mangadex.org/covers/5b8c43c8-b3dd-44e6-bd6f-814ce4beca39/edc0da2f-f8f4-45f0-8cb4-a78ef071fcff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10970,
+        "aniId": 40970,
+        "createdAt": "2020-10-12T16:02:39.000Z",
+        "updatedAt": "2021-06-02T08:35:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "emerging": {
+        "authors": [],
+        "identifier": "emerging",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Emerging",
+        "url": "https://manganelo.com/manga/emerging",
+        "image": "https://avt.mkklcdnv6.com/18/p/6-1583474896.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10970,
+        "aniId": 40970,
+        "createdAt": "2020-10-12T16:22:49.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-en959570": {
+        "authors": [
+          "Hokazono Masaya"
+        ],
+        "identifier": "manga-en959570",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Emerging",
+        "url": "https://manganato.com/manga-en959570",
+        "image": "https://avt.mkklcdnv6temp.com/18/p/6-1583474896.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10970,
+        "aniId": 40970,
+        "createdAt": "2021-06-07T19:11:09.000Z",
+        "updatedAt": "2021-06-07T19:33:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

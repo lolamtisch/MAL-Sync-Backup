@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "エアマスター"
+  ],
+  "authors": [
+    "Yokusaru Shibata"
+  ],
+  "id": 33533,
+  "malId": 3533,
+  "type": "manga",
+  "title": "Air Master",
+  "url": "https://anilist.co/manga/33533",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33533-H8zMLIv5UqKV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:12.000Z",
+  "updatedAt": "2021-05-20T14:38:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0c1c4edc-c5e9-4815-8ed0-0153642fd4d7": {
+        "authors": [
+          "Shibata Yokusaru"
+        ],
+        "identifier": "0c1c4edc-c5e9-4815-8ed0-0153642fd4d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Air Master",
+        "url": "https://mangadex.org/title/0c1c4edc-c5e9-4815-8ed0-0153642fd4d7",
+        "image": "https://uploads.mangadex.org/covers/0c1c4edc-c5e9-4815-8ed0-0153642fd4d7/c061cbf4-221a-417f-8cd2-c4273cbf6f26.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3533,
+        "aniId": 33533,
+        "createdAt": "2020-10-12T16:05:02.000Z",
+        "updatedAt": "2021-06-03T09:50:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "air_master": {
+        "authors": [],
+        "identifier": "air_master",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Air Master",
+        "url": "https://manganelo.com/manga/air_master",
+        "image": "https://avt.mkklcdnv6.com/1/c/5-1583474137.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3533,
+        "aniId": 33533,
+        "createdAt": "2020-10-12T16:22:02.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "air_master": {
+        "authors": [
+          "SHIBATA Yokusaru"
+        ],
+        "identifier": "air_master",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Air Master",
+        "url": "https://fanfox.net/manga/air_master/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/420/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3533,
+        "aniId": 33533,
+        "createdAt": "2020-12-24T22:56:07.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

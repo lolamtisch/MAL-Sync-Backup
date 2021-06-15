@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "兎の森",
+    "Forest of Rabbits",
+    "La forêt aux lapins"
+  ],
+  "authors": [
+    "Enjo"
+  ],
+  "id": 107477,
+  "malId": 123886,
+  "type": "manga",
+  "title": "Usagi no Mori",
+  "url": "https://anilist.co/manga/107477",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107477-ykW5Lbqqzh7b.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:01.000Z",
+  "updatedAt": "2021-05-20T14:59:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7ddb90cc-b690-4ba4-b674-91d20bc66b03": {
+        "authors": [
+          "Enjo"
+        ],
+        "identifier": "7ddb90cc-b690-4ba4-b674-91d20bc66b03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Usagi no Mori",
+        "url": "https://mangadex.org/title/7ddb90cc-b690-4ba4-b674-91d20bc66b03",
+        "image": "https://uploads.mangadex.org/covers/7ddb90cc-b690-4ba4-b674-91d20bc66b03/5213126c-c676-494b-a9be-de7d656c3c32.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123886,
+        "aniId": 107477,
+        "createdAt": "2020-10-12T16:17:50.000Z",
+        "updatedAt": "2021-06-07T11:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ic921997": {
+        "authors": [],
+        "identifier": "ic921997",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Usagi No Mori",
+        "url": "https://manganelo.com/manga/ic921997",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3411-ic921997.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123886,
+        "aniId": 107477,
+        "createdAt": "2020-10-12T16:23:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

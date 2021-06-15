@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Knights",
+    "ナイツ"
+  ],
+  "authors": [
+    "Minoru Murao"
+  ],
+  "id": 36916,
+  "malId": 6916,
+  "type": "manga",
+  "title": "Knights",
+  "url": "https://anilist.co/manga/36916",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6916.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:43.000Z",
+  "updatedAt": "2021-05-20T14:39:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "05218715-dbc7-44f2-ae3a-1447695bdd03": {
+        "authors": [
+          "MURAO Minoru"
+        ],
+        "identifier": "05218715-dbc7-44f2-ae3a-1447695bdd03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Knights",
+        "url": "https://mangadex.org/title/05218715-dbc7-44f2-ae3a-1447695bdd03",
+        "image": "https://uploads.mangadex.org/covers/05218715-dbc7-44f2-ae3a-1447695bdd03/74eb8c5d-0b4a-4cc1-8deb-af3804246d61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6916,
+        "aniId": 36916,
+        "createdAt": "2020-10-12T16:05:09.000Z",
+        "updatedAt": "2021-06-03T10:35:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "knights": {
+        "authors": [],
+        "identifier": "knights",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Knights",
+        "url": "https://manganelo.com/manga/knights",
+        "image": "https://avt.mkklcdnv6.com/45/j/10-1583483802.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6916,
+        "aniId": 36916,
+        "createdAt": "2020-10-12T16:23:57.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

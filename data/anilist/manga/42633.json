@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "새비지 가든"
+  ],
+  "authors": [
+    "Hyeon-Sook Lee"
+  ],
+  "id": 42633,
+  "malId": 12633,
+  "type": "manga",
+  "title": "Savage Garden",
+  "url": "https://anilist.co/manga/42633",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42633-NKO84coVKlsz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:23.000Z",
+  "updatedAt": "2021-05-20T14:42:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "76c86af3-b968-42c8-a541-a3211723d7bf": {
+        "authors": [
+          "Lee Hyeon-Sook"
+        ],
+        "identifier": "76c86af3-b968-42c8-a541-a3211723d7bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Savage Garden",
+        "url": "https://mangadex.org/title/76c86af3-b968-42c8-a541-a3211723d7bf",
+        "image": "https://uploads.mangadex.org/covers/76c86af3-b968-42c8-a541-a3211723d7bf/2dffd829-d94e-471f-aa4f-08808e3d3d99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12633,
+        "aniId": 42633,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:25:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "savage_garden": {
+        "authors": [
+          "Lee",
+          "Hyeon-Sook"
+        ],
+        "identifier": "savage_garden",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Savage Garden",
+        "url": "https://manganelo.com/manga/savage_garden",
+        "image": "https://avt.mkklcdnv6temp.com/49/v/11-1583485818.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12633,
+        "aniId": 42633,
+        "createdAt": "2021-03-15T08:00:38.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qz968108": {
+        "authors": [
+          "Lee Hyeon-Sook"
+        ],
+        "identifier": "manga-qz968108",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Savage Garden",
+        "url": "https://manganato.com/manga-qz968108",
+        "image": "https://avt.mkklcdnv6temp.com/49/v/11-1583485818.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12633,
+        "aniId": 42633,
+        "createdAt": "2021-06-09T06:31:46.000Z",
+        "updatedAt": "2021-06-09T06:35:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

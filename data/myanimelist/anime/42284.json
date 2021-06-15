@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Carp Reborn",
+    "First Dragon",
+    "元龙"
+  ],
+  "id": 42284,
+  "type": "anime",
+  "title": "Yuan Long",
+  "url": "https://myanimelist.net/anime/42284/Yuan_Long",
+  "image": "https://cdn.myanimelist.net/images/anime/1430/108208.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:16.000Z",
+  "updatedAt": "2021-04-12T07:21:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "xk38": {
+        "identifier": "xk38",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuan Long",
+        "url": "https://9anime.ru/watch/yuan-long.xk38",
+        "image": "https://static.akacdn.ru/files/images/5/5a/5a036aa8fc0c583af25f44b6fa134aa3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42284,
+        "aniId": 120320,
+        "createdAt": "2020-10-12T15:56:28.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yuan-long": {
+        "identifier": "yuan-long",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yuan Long",
+        "url": "https://www19.gogoanime.io/category/yuan-long",
+        "image": "https://gogocdn.net/cover/yuan-long.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42284,
+        "aniId": 120320,
+        "createdAt": "2020-10-12T16:02:20.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

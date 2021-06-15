@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "もっけ"
+  ],
+  "authors": [
+    "Takatoshi Kumakura"
+  ],
+  "id": 34561,
+  "malId": 4561,
+  "type": "manga",
+  "title": "Mokke",
+  "url": "https://anilist.co/manga/34561",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4561.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:33.000Z",
+  "updatedAt": "2021-05-20T14:38:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a05a4650-b465-4ff4-a3d2-8020edaa8f5c": {
+        "authors": [
+          "Kumakura Takatoshi"
+        ],
+        "identifier": "a05a4650-b465-4ff4-a3d2-8020edaa8f5c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mokke",
+        "url": "https://mangadex.org/title/a05a4650-b465-4ff4-a3d2-8020edaa8f5c",
+        "image": "https://uploads.mangadex.org/covers/a05a4650-b465-4ff4-a3d2-8020edaa8f5c/cc5155a6-80cf-4214-b11b-b17b52f4feec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4561,
+        "aniId": 34561,
+        "createdAt": "2020-10-12T16:05:19.000Z",
+        "updatedAt": "2021-06-03T11:40:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

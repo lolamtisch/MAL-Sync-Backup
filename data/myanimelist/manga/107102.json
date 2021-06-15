@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "悪童文庫"
+  ],
+  "authors": [
+    "Tanaka, Motoi"
+  ],
+  "id": 107102,
+  "type": "manga",
+  "title": "Akudou Bunko",
+  "url": "https://myanimelist.net/manga/107102/Akudou_Bunko",
+  "image": "https://cdn.myanimelist.net/images/manga/2/196084.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:05.000Z",
+  "updatedAt": "2021-05-19T08:01:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "814f530a-65ad-47fa-a0df-2385eaf8346b": {
+        "authors": [
+          "Shinasaka Kouji"
+        ],
+        "identifier": "814f530a-65ad-47fa-a0df-2385eaf8346b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akudou Warugaki",
+        "url": "https://mangadex.org/title/814f530a-65ad-47fa-a0df-2385eaf8346b",
+        "image": "https://uploads.mangadex.org/covers/814f530a-65ad-47fa-a0df-2385eaf8346b/e7175648-f74a-45da-8d9c-104923bca786.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107102,
+        "aniId": 105590,
+        "createdAt": "2020-10-12T16:14:14.000Z",
+        "updatedAt": "2021-06-06T03:35:30.000Z",
+        "deletedAt": null
+      },
+      "633504db-13e3-46e4-940f-cea4bcd9edc7": {
+        "authors": [
+          "Tanaka Motoi"
+        ],
+        "identifier": "633504db-13e3-46e4-940f-cea4bcd9edc7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akudou Bunko",
+        "url": "https://mangadex.org/title/633504db-13e3-46e4-940f-cea4bcd9edc7",
+        "image": "https://uploads.mangadex.org/covers/633504db-13e3-46e4-940f-cea4bcd9edc7/62cfcbd8-bfd5-4a50-9e90-c1606981dbec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107102,
+        "aniId": 105590,
+        "createdAt": "2020-10-12T16:19:50.000Z",
+        "updatedAt": "2021-06-07T22:54:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

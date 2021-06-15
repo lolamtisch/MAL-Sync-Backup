@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "黒猫DANCE",
+    "Black Cat Dance"
+  ],
+  "authors": [
+    "Tsuyoshi Yasuda"
+  ],
+  "id": 94562,
+  "malId": 88101,
+  "type": "manga",
+  "title": "Kuroneko Dance",
+  "url": "https://anilist.co/manga/94562",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94562-p330xiY1X3jZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:52.000Z",
+  "updatedAt": "2021-05-20T14:52:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "625fff5a-ad03-4b33-8c72-a8dcab4d1365": {
+        "authors": [
+          "Yasuda Tsuyoshi"
+        ],
+        "identifier": "625fff5a-ad03-4b33-8c72-a8dcab4d1365",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuroneko Dance",
+        "url": "https://mangadex.org/title/625fff5a-ad03-4b33-8c72-a8dcab4d1365",
+        "image": "https://uploads.mangadex.org/covers/625fff5a-ad03-4b33-8c72-a8dcab4d1365/c5fe5b6a-688a-4869-939e-4ebb2fd8fb8b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88101,
+        "aniId": 94562,
+        "createdAt": "2020-10-12T16:13:17.000Z",
+        "updatedAt": "2021-06-05T20:10:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

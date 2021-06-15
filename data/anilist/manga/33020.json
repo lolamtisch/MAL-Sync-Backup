@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Everything for the Sake of Love",
+    "If Someone like Me will do",
+    "Chocolate Contest"
+  ],
+  "authors": [
+    "Kazune Kawahara"
+  ],
+  "id": 33020,
+  "malId": 3020,
+  "type": "manga",
+  "title": "Ai no Tame ni",
+  "url": "https://anilist.co/manga/33020",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3020.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:02.000Z",
+  "updatedAt": "2021-05-20T14:38:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27785e58-e873-45b5-98e8-27806b7f08d3": {
+        "authors": [
+          "KAWAHARA Kazune"
+        ],
+        "identifier": "27785e58-e873-45b5-98e8-27806b7f08d3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai no Tame ni",
+        "url": "https://mangadex.org/title/27785e58-e873-45b5-98e8-27806b7f08d3",
+        "image": "https://uploads.mangadex.org/covers/27785e58-e873-45b5-98e8-27806b7f08d3/9d6ddada-ced3-4b5f-bf62-f2621b892b0b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3020,
+        "aniId": 33020,
+        "createdAt": "2020-10-12T16:05:45.000Z",
+        "updatedAt": "2021-06-03T14:41:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

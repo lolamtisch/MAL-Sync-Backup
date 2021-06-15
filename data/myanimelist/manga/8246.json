@@ -1,0 +1,40 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Dr. Ten"
+  ],
+  "id": 8246,
+  "type": "manga",
+  "title": "Kagome",
+  "url": "https://myanimelist.net/manga/8246/Kagome",
+  "image": "https://cdn.myanimelist.net/images/manga/2/11273.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2021-06-06T19:20:40.000Z",
+  "updatedAt": "2021-06-06T19:20:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "281bb6a5-0aee-4cb4-ac39-dbdcd7dbe3fc": {
+        "authors": [
+          "Dr. Ten"
+        ],
+        "identifier": "281bb6a5-0aee-4cb4-ac39-dbdcd7dbe3fc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kagome",
+        "url": "https://mangadex.org/title/281bb6a5-0aee-4cb4-ac39-dbdcd7dbe3fc",
+        "image": "https://uploads.mangadex.org/covers/281bb6a5-0aee-4cb4-ac39-dbdcd7dbe3fc/23348b22-1faf-4842-9ceb-8962f108ea87.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 8246,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:16:02.000Z",
+        "updatedAt": "2021-06-07T07:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

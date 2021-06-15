@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "ファンタジーワールド ジュン",
+    "Fantasy World Jun",
+    "Shotaro's Fantasy World Jun"
+  ],
+  "authors": [
+    "Shoutarou Ishinomori"
+  ],
+  "id": 82343,
+  "malId": 52343,
+  "type": "manga",
+  "title": "Jun: Shotaro no Fantasy World",
+  "url": "https://anilist.co/manga/82343",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx82343-hLdWHOiLfbJv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:56.000Z",
+  "updatedAt": "2021-06-03T20:19:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c7a47226-5e2a-47b8-9b35-728683d70faf": {
+        "authors": [
+          "Ishinomori Shotaro"
+        ],
+        "identifier": "c7a47226-5e2a-47b8-9b35-728683d70faf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fantasy World Jun",
+        "url": "https://mangadex.org/title/c7a47226-5e2a-47b8-9b35-728683d70faf",
+        "image": "https://uploads.mangadex.org/covers/c7a47226-5e2a-47b8-9b35-728683d70faf/5e6af116-86ee-47ce-852c-6d78f73480e1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52343,
+        "aniId": 82343,
+        "createdAt": "2020-10-12T16:06:29.000Z",
+        "updatedAt": "2021-06-03T20:23:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fantasy-world-jun": {
+        "authors": [
+          "ISHINOMORI Shotaro"
+        ],
+        "identifier": "fantasy-world-jun",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fantasy World Jun",
+        "url": "https://mangasee123.com/manga/Fantasy-World-Jun",
+        "image": "https://cover.nep.li/cover/Fantasy-World-Jun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 52343,
+        "aniId": 82343,
+        "createdAt": "2021-04-26T00:28:56.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

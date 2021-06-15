@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "つまさきだちのアリス",
+    "Alice stands on tiptoe."
+  ],
+  "authors": [
+    "Mutsumi Yoshida"
+  ],
+  "id": 104268,
+  "malId": 113748,
+  "type": "manga",
+  "title": "Tsumasakidachi no Alice",
+  "url": "https://anilist.co/manga/104268",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104268-LxZEgRGVcoKv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:03.000Z",
+  "updatedAt": "2021-05-20T14:57:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c1e6f7a-3024-4971-a7be-24492c5a3207": {
+        "authors": [
+          "Yoshida Mutsumi"
+        ],
+        "identifier": "6c1e6f7a-3024-4971-a7be-24492c5a3207",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsumasakidachi no Alice",
+        "url": "https://mangadex.org/title/6c1e6f7a-3024-4971-a7be-24492c5a3207",
+        "image": "https://uploads.mangadex.org/covers/6c1e6f7a-3024-4971-a7be-24492c5a3207/d7030238-0488-47fa-b00e-681bca7acb41.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113748,
+        "aniId": 104268,
+        "createdAt": "2020-10-12T16:12:00.000Z",
+        "updatedAt": "2021-06-05T12:38:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tsumasakidachi_no_alice": {
+        "authors": [],
+        "identifier": "tsumasakidachi_no_alice",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsumasakidachi No Alice",
+        "url": "https://manganelo.com/manga/tsumasakidachi_no_alice",
+        "image": "https://avt.mkklcdnv6.com/34/j/16-1583494706.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113748,
+        "aniId": 104268,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

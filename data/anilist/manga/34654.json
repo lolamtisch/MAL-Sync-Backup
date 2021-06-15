@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "守ってあげます",
+    "I'll Give You My Protection",
+    "I Will Protect You"
+  ],
+  "authors": [
+    "Ayano Saijou"
+  ],
+  "id": 34654,
+  "malId": 4654,
+  "type": "manga",
+  "title": "Mamotte Agemasu",
+  "url": "https://anilist.co/manga/34654",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34654-xcBRWcNr4Ql0.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2fdbab94-684a-41f2-b3d5-c75eeff925c0": {
+        "authors": [
+          "Saijou Ayano"
+        ],
+        "identifier": "2fdbab94-684a-41f2-b3d5-c75eeff925c0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mamotte Agemasu",
+        "url": "https://mangadex.org/title/2fdbab94-684a-41f2-b3d5-c75eeff925c0",
+        "image": "https://uploads.mangadex.org/covers/2fdbab94-684a-41f2-b3d5-c75eeff925c0/0f03b4ec-b86c-4aba-b538-613030ff29d8.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4654,
+        "aniId": 34654,
+        "createdAt": "2020-10-12T16:03:08.000Z",
+        "updatedAt": "2021-06-02T11:55:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

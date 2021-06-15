@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Ping Pong Dash!",
+    "卓球Dash!!",
+    "Ping Pong Dash!!",
+    "Ping-Pong Dash!!"
+  ],
+  "authors": [
+    "Shingo Honda"
+  ],
+  "id": 65251,
+  "malId": 35251,
+  "type": "manga",
+  "title": "Takkyuu Dash!!",
+  "url": "https://anilist.co/manga/65251",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65251-usuu5uWLz671.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:02.000Z",
+  "updatedAt": "2021-05-20T14:48:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e83dfbfc-8043-4bcf-811b-ac3f0c886d45": {
+        "authors": [
+          "Honda Shingo"
+        ],
+        "identifier": "e83dfbfc-8043-4bcf-811b-ac3f0c886d45",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ping Pong Dash",
+        "url": "https://mangadex.org/title/e83dfbfc-8043-4bcf-811b-ac3f0c886d45",
+        "image": "https://uploads.mangadex.org/covers/e83dfbfc-8043-4bcf-811b-ac3f0c886d45/7b2a3aeb-7c19-43c6-b26c-ac4c8b03e0f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35251,
+        "aniId": 65251,
+        "createdAt": "2020-10-12T16:06:55.000Z",
+        "updatedAt": "2021-06-03T23:02:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ping-pong-dash": {
+        "authors": [
+          "HONDA Shingo"
+        ],
+        "identifier": "ping-pong-dash",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ping Pong Dash",
+        "url": "https://mangasee123.com/manga/Ping-Pong-Dash",
+        "image": "https://cover.nep.li/cover/Ping-Pong-Dash.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35251,
+        "aniId": 65251,
+        "createdAt": "2021-04-13T14:46:10.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

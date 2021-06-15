@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "Spriggan",
+    "スプリガン",
+    "Striker"
+  ],
+  "id": 420,
+  "malId": 420,
+  "type": "anime",
+  "title": "Spriggan",
+  "url": "https://anilist.co/anime/420",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx420-KIPJO7uFQ9cR.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:40.000Z",
+  "updatedAt": "2021-05-20T14:33:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "y350": {
+        "identifier": "y350",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spriggan",
+        "url": "https://9anime.ru/watch/spriggan.y350",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-2F4_cQKMB2w/WPmvXr_IocI/AAAAAAAAjKE/EWL1Kn-qZ-w/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 420,
+        "aniId": 420,
+        "createdAt": "2020-10-12T15:56:42.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "yxkz": {
+        "identifier": "yxkz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spriggan (Dub)",
+        "url": "https://9anime.ru/watch/spriggan-dub.yxkz",
+        "image": "https://static.akacdn.ru/files/images/2018/04/b13c25673b38b3d3c5c86e590d4b90c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 420,
+        "aniId": 420,
+        "createdAt": "2020-10-12T15:56:59.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "spriggan-dub": {
+        "identifier": "spriggan-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Spriggan (Dub)",
+        "url": "https://gogoanime.ai/category/spriggan-dub",
+        "image": "https://gogocdn.net/cover/spriggan-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 420,
+        "aniId": 420,
+        "createdAt": "2021-06-05T21:20:18.000Z",
+        "updatedAt": "2021-06-05T21:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

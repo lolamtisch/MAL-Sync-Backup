@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Gold",
+    "ゴールド",
+    "Gold (FUJITA Kazuko)"
+  ],
+  "authors": [
+    "Kazuko Fujita",
+    "Ann Major"
+  ],
+  "id": 48717,
+  "malId": 18717,
+  "type": "manga",
+  "title": "Gold",
+  "url": "https://anilist.co/manga/48717",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48717-lSCo129oymPX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:14.000Z",
+  "updatedAt": "2021-05-20T14:45:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "21c80fea-5f7b-472d-ac28-2cb211c1a74b": {
+        "authors": [
+          "FUJITA Kazuko",
+          "Ann Major"
+        ],
+        "identifier": "21c80fea-5f7b-472d-ac28-2cb211c1a74b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gold",
+        "url": "https://mangadex.org/title/21c80fea-5f7b-472d-ac28-2cb211c1a74b",
+        "image": "https://uploads.mangadex.org/covers/21c80fea-5f7b-472d-ac28-2cb211c1a74b/652416fc-3128-4e9a-81d1-de87cd571299.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18717,
+        "aniId": 48717,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T13:36:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gold": {
+        "authors": [
+          "Ann Major",
+          "FUJITA Kazuko"
+        ],
+        "identifier": "gold",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gold (FUJITA Kazuko)",
+        "url": "https://mangasee123.com/manga/Gold",
+        "image": "https://cover.nep.li/cover/Gold.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18717,
+        "aniId": 48717,
+        "createdAt": "2021-01-09T04:52:33.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

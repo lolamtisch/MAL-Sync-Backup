@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "鈴木さん"
+  ],
+  "authors": [
+    "Yamada"
+  ],
+  "id": 93018,
+  "malId": 80449,
+  "type": "manga",
+  "title": "Suzuki-san",
+  "url": "https://anilist.co/manga/93018",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93018-qlbtD3qWwcqM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T05:48:59.000Z",
+  "updatedAt": "2021-06-04T05:48:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fca2f739-dda0-4497-b3fb-9dae069c980c": {
+        "authors": [
+          "Yamada"
+        ],
+        "identifier": "fca2f739-dda0-4497-b3fb-9dae069c980c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suzuki-san",
+        "url": "https://mangadex.org/title/fca2f739-dda0-4497-b3fb-9dae069c980c",
+        "image": "https://uploads.mangadex.org/covers/fca2f739-dda0-4497-b3fb-9dae069c980c/a3ec5562-7980-4fcd-a053-6eb9f8f46ec5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80449,
+        "aniId": 93018,
+        "createdAt": "2020-10-12T16:07:48.000Z",
+        "updatedAt": "2021-06-04T08:38:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Dr.クマひげ",
+    "流氓俠醫"
+  ],
+  "authors": [
+    "Takumi Nagayasu",
+    "Yoshiyuki Okamura"
+  ],
+  "id": 116280,
+  "malId": 112440,
+  "type": "manga",
+  "title": "Dr. Kumahige",
+  "url": "https://anilist.co/manga/116280",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116280-FsAilJRn7dgi.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:55.000Z",
+  "updatedAt": "2021-05-20T14:56:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec7ed18c-37db-4fd3-8472-0b4dad8e0e39": {
+        "authors": [
+          "Nagayasu Takumi",
+          "Fumimura Sho"
+        ],
+        "identifier": "ec7ed18c-37db-4fd3-8472-0b4dad8e0e39",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dr. Kumahige",
+        "url": "https://mangadex.org/title/ec7ed18c-37db-4fd3-8472-0b4dad8e0e39",
+        "image": "https://uploads.mangadex.org/covers/ec7ed18c-37db-4fd3-8472-0b4dad8e0e39/d2c7b22d-807d-44f9-bed4-afff6c8dd47b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112440,
+        "aniId": 116280,
+        "createdAt": "2020-10-12T16:18:05.000Z",
+        "updatedAt": "2021-06-07T13:49:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kj921970": {
+        "authors": [],
+        "identifier": "kj921970",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dr. Kumahige",
+        "url": "https://manganelo.com/manga/kj921970",
+        "image": "https://avt.mkklcdnv6.com/26/f/20-1583502039.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112440,
+        "aniId": 116280,
+        "createdAt": "2020-10-12T16:23:56.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

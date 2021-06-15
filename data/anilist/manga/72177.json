@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "チンプイ",
+    "Chimpui"
+  ],
+  "authors": [
+    "F. Fujio Fujiko"
+  ],
+  "id": 72177,
+  "malId": 42177,
+  "type": "manga",
+  "title": "Chinpui",
+  "url": "https://anilist.co/manga/72177",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42177.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T01:50:11.000Z",
+  "updatedAt": "2021-06-05T01:50:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "47da2943-8471-4c2d-9cf9-84aac1c80c11": {
+        "authors": [
+          "Fujiko F. Fujio"
+        ],
+        "identifier": "47da2943-8471-4c2d-9cf9-84aac1c80c11",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chinpui",
+        "url": "https://mangadex.org/title/47da2943-8471-4c2d-9cf9-84aac1c80c11",
+        "image": "https://uploads.mangadex.org/covers/47da2943-8471-4c2d-9cf9-84aac1c80c11/5a9f3517-e46c-48f7-ac41-7646f94f2c0a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42177,
+        "aniId": 72177,
+        "createdAt": "2020-10-12T16:10:32.000Z",
+        "updatedAt": "2021-06-05T08:48:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

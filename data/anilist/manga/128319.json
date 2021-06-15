@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "姫騎士は蛮族の嫁",
+    "The Bride of Babaroi",
+    "姬騎士是蠻族的新娘"
+  ],
+  "authors": [
+    "Noriaki Kotoba"
+  ],
+  "id": 128319,
+  "malId": null,
+  "type": "manga",
+  "title": "Hime Kishi wa Barbaroi no Yome",
+  "url": "https://anilist.co/manga/128319",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128319-wU1faB4jFmMN.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T21:08:17.000Z",
+  "updatedAt": "2021-05-24T21:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "178d3cd8-4624-4afc-81b0-b2f260a1b28b": {
+        "authors": [
+          "Kotoba Noriaki"
+        ],
+        "identifier": "178d3cd8-4624-4afc-81b0-b2f260a1b28b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Bride of Barbaroi",
+        "url": "https://mangadex.org/title/178d3cd8-4624-4afc-81b0-b2f260a1b28b",
+        "image": "https://uploads.mangadex.org/covers/178d3cd8-4624-4afc-81b0-b2f260a1b28b/f071888e-0cb9-4b96-873e-1abd4ed54d03.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134599,
+        "aniId": 128319,
+        "createdAt": "2021-01-08T22:51:30.000Z",
+        "updatedAt": "2021-06-08T10:42:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

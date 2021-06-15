@@ -1,0 +1,61 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Makoto Yumeno"
+  ],
+  "id": 37709,
+  "malId": 7709,
+  "type": "manga",
+  "title": "The Boy Next Door",
+  "url": "https://anilist.co/manga/37709",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7709.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:53.000Z",
+  "updatedAt": "2021-05-20T14:39:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94": {
+        "authors": [
+          "Yumeno Makoto"
+        ],
+        "identifier": "dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Boy Next Door",
+        "url": "https://mangadex.org/title/dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94",
+        "image": "https://uploads.mangadex.org/covers/dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94/71ea833c-3eb4-4693-980e-922c30d97cb9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7709,
+        "aniId": 37709,
+        "createdAt": "2020-10-12T16:09:21.000Z",
+        "updatedAt": "2021-06-04T16:57:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nt922299": {
+        "authors": [],
+        "identifier": "nt922299",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mr. Darcy Next Door",
+        "url": "https://manganelo.com/manga/nt922299",
+        "image": "https://avt.mkklcdnv6.com/38/r/20-1583502534.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7709,
+        "aniId": 37709,
+        "createdAt": "2020-10-12T16:24:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

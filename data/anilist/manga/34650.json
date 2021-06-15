@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "クロスブレイド",
+    "Cross Blade"
+  ],
+  "authors": [
+    "Satoshi Shiki",
+    "Tatsuhiko Ida"
+  ],
+  "id": 34650,
+  "malId": 4650,
+  "type": "manga",
+  "title": "XBlade",
+  "url": "https://anilist.co/manga/34650",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx34650-gTf0n5ntCgt0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "caddfaef-9f94-49e2-9fb6-7514b3d2e2ca": {
+        "authors": [
+          "SHIKI Satoshi",
+          "IDA Tatsuhiko"
+        ],
+        "identifier": "caddfaef-9f94-49e2-9fb6-7514b3d2e2ca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "XBlade",
+        "url": "https://mangadex.org/title/caddfaef-9f94-49e2-9fb6-7514b3d2e2ca",
+        "image": "https://uploads.mangadex.org/covers/caddfaef-9f94-49e2-9fb6-7514b3d2e2ca/cd0cfb42-0e5e-4df0-979a-820a2fd56efc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4650,
+        "aniId": 34650,
+        "createdAt": "2020-10-12T16:02:44.000Z",
+        "updatedAt": "2021-06-02T09:06:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "xblade": {
+        "authors": [],
+        "identifier": "xblade",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Xblade",
+        "url": "https://manganelo.com/manga/xblade",
+        "image": "https://avt.mkklcdnv6.com/32/s/9-1583481413.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4650,
+        "aniId": 34650,
+        "createdAt": "2020-10-12T16:26:13.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "xblade": {
+        "authors": [
+          "IDA Tatsuhiko"
+        ],
+        "identifier": "xblade",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "XBlade",
+        "url": "https://fanfox.net/manga/xblade/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1316/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4650,
+        "aniId": 34650,
+        "createdAt": "2021-03-29T02:19:09.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

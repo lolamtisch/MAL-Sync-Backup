@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Blue",
+    "ブルー"
+  ],
+  "authors": [
+    "Kiriko Nananan",
+    "Shizuka Shimoyama",
+    "Elizabeth Tiernan"
+  ],
+  "id": 31459,
+  "malId": 1459,
+  "type": "manga",
+  "title": "Blue",
+  "url": "https://anilist.co/manga/31459",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31459-B7b85x21DxQg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:46.000Z",
+  "updatedAt": "2021-05-20T14:36:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6735724-3b57-40dd-8ad4-a30fd123f885": {
+        "authors": [
+          "Nananan Kiriko"
+        ],
+        "identifier": "d6735724-3b57-40dd-8ad4-a30fd123f885",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blue",
+        "url": "https://mangadex.org/title/d6735724-3b57-40dd-8ad4-a30fd123f885",
+        "image": "https://uploads.mangadex.org/covers/d6735724-3b57-40dd-8ad4-a30fd123f885/f1c13edd-8341-42d6-b419-2f95cd5934b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1459,
+        "aniId": 31459,
+        "createdAt": "2020-10-12T16:05:12.000Z",
+        "updatedAt": "2021-06-03T10:56:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "blue": {
+        "authors": [],
+        "identifier": "blue",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Blue",
+        "url": "https://manganelo.com/manga/blue",
+        "image": "https://avt.mkklcdnv6.com/41/a/6-1583475852.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1459,
+        "aniId": 31459,
+        "createdAt": "2020-10-12T16:22:18.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

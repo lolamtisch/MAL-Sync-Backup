@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "氷の魔物の物語",
+    "KnMnM",
+    "The Ice-Cold Demon's Tale"
+  ],
+  "authors": [
+    "Shiho Sugiura"
+  ],
+  "id": 31982,
+  "malId": 1982,
+  "type": "manga",
+  "title": "Koori no Mamono no Monogatari",
+  "url": "https://anilist.co/manga/31982",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31982-CP1KPDWMmZRC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:58.000Z",
+  "updatedAt": "2021-05-20T14:36:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bfd3d154-4544-4343-a690-fb4160bf986a": {
+        "authors": [
+          "Sugiura Shiho"
+        ],
+        "identifier": "bfd3d154-4544-4343-a690-fb4160bf986a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koori no Mamono no Monogatari",
+        "url": "https://mangadex.org/title/bfd3d154-4544-4343-a690-fb4160bf986a",
+        "image": "https://uploads.mangadex.org/covers/bfd3d154-4544-4343-a690-fb4160bf986a/74b2ce3b-371e-4b44-8075-6b0c586fe5e6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1982,
+        "aniId": 31982,
+        "createdAt": "2020-10-12T16:04:09.000Z",
+        "updatedAt": "2021-06-02T19:08:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koori_no_mamono_no_monogatari": {
+        "authors": [
+          "Sugiura",
+          "Shiho"
+        ],
+        "identifier": "koori_no_mamono_no_monogatari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koori No Mamono No Monogatari",
+        "url": "https://manganelo.com/manga/koori_no_mamono_no_monogatari",
+        "image": "https://avt.mkklcdnv6.com/49/k/1-1583465655.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1982,
+        "aniId": 31982,
+        "createdAt": "2021-02-04T06:10:46.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koori_no_mamono_no_monogatari": {
+        "authors": [
+          "SUGIURA Shiho"
+        ],
+        "identifier": "koori_no_mamono_no_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koori no Mamono no Monogatari",
+        "url": "https://fanfox.net/manga/koori_no_mamono_no_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7653/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1982,
+        "aniId": 31982,
+        "createdAt": "2021-04-01T12:33:02.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Mask",
+    "マスク"
+  ],
+  "authors": [
+    "Megumu Minami"
+  ],
+  "id": 43560,
+  "malId": 13560,
+  "type": "manga",
+  "title": "Mask",
+  "url": "https://anilist.co/manga/43560",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13560.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:35.000Z",
+  "updatedAt": "2021-05-20T14:42:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "578c856d-f1f1-429a-ac38-268dfacd0538": {
+        "authors": [
+          "Minami Megumu"
+        ],
+        "identifier": "578c856d-f1f1-429a-ac38-268dfacd0538",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mask",
+        "url": "https://mangadex.org/title/578c856d-f1f1-429a-ac38-268dfacd0538",
+        "image": "https://uploads.mangadex.org/covers/578c856d-f1f1-429a-ac38-268dfacd0538/24de5186-4e2e-43f5-8ac9-8b15c23b2080.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13560,
+        "aniId": 43560,
+        "createdAt": "2020-12-01T15:22:42.000Z",
+        "updatedAt": "2021-06-08T08:04:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

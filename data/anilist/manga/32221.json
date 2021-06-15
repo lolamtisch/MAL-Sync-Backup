@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Oresama na Pet"
+  ],
+  "authors": [
+    "Haiji Sakura"
+  ],
+  "id": 32221,
+  "malId": 2221,
+  "type": "manga",
+  "title": "Pet of Love",
+  "url": "https://anilist.co/manga/32221",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2221.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a7ee92f4-3d7d-413b-8a5e-5396d93e9834": {
+        "authors": [
+          "Sakura Haiji"
+        ],
+        "identifier": "a7ee92f4-3d7d-413b-8a5e-5396d93e9834",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ore-sama na Pet",
+        "url": "https://mangadex.org/title/a7ee92f4-3d7d-413b-8a5e-5396d93e9834",
+        "image": "https://uploads.mangadex.org/covers/a7ee92f4-3d7d-413b-8a5e-5396d93e9834/31ca45eb-7e55-4896-9024-4f21de503a2f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2221,
+        "aniId": 32221,
+        "createdAt": "2020-10-12T16:21:47.000Z",
+        "updatedAt": "2021-06-08T03:03:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

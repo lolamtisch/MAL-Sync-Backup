@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Center of the Sky",
+    "空のまんなか",
+    "Sora no Mannaka ~Spring Storm~",
+    "Sora no Mannaka ~Autumn Drama~"
+  ],
+  "authors": [
+    "Yoko Kamura"
+  ],
+  "id": 37130,
+  "malId": 7130,
+  "type": "manga",
+  "title": "Sora no Mannaka",
+  "url": "https://anilist.co/manga/37130",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7130.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:45.000Z",
+  "updatedAt": "2021-05-20T14:39:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9ce8c233-9b33-4dde-9710-7c613a714a7a": {
+        "authors": [
+          "Kamura Yoko"
+        ],
+        "identifier": "9ce8c233-9b33-4dde-9710-7c613a714a7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sora no Mannaka",
+        "url": "https://mangadex.org/title/9ce8c233-9b33-4dde-9710-7c613a714a7a",
+        "image": "https://uploads.mangadex.org/covers/9ce8c233-9b33-4dde-9710-7c613a714a7a/b0c834dc-2edc-40ba-986b-85f102840c5e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7130,
+        "aniId": 37130,
+        "createdAt": "2020-10-12T16:02:43.000Z",
+        "updatedAt": "2021-06-02T09:03:02.000Z",
+        "deletedAt": null
+      },
+      "d740d6d6-d88b-40e2-af7b-29ca2e94d1ef": {
+        "authors": [
+          "Minamoto Keisuke"
+        ],
+        "identifier": "d740d6d6-d88b-40e2-af7b-29ca2e94d1ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maigo Center",
+        "url": "https://mangadex.org/title/d740d6d6-d88b-40e2-af7b-29ca2e94d1ef",
+        "image": "https://uploads.mangadex.org/covers/d740d6d6-d88b-40e2-af7b-29ca2e94d1ef/7f8716cd-0e71-4c18-a9b0-9fb437ac72c5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7130,
+        "aniId": 37130,
+        "createdAt": "2020-10-12T16:15:24.000Z",
+        "updatedAt": "2021-06-06T13:32:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

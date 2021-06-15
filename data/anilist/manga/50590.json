@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "魔女の騎士",
+    "Majo no Kishi (Hekusen=Litta)",
+    "Witches Knight",
+    "Witch's Knight"
+  ],
+  "authors": [
+    "Yasunori Ninose"
+  ],
+  "id": 50590,
+  "malId": 20590,
+  "type": "manga",
+  "title": "Majo no Kishi",
+  "url": "https://anilist.co/manga/50590",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20590.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fef4ab35-8ff4-4480-b8d0-b3defa99727b": {
+        "authors": [
+          "Ninose Yasunori"
+        ],
+        "identifier": "fef4ab35-8ff4-4480-b8d0-b3defa99727b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Majo no Kishi - Hexen Ritter",
+        "url": "https://mangadex.org/title/fef4ab35-8ff4-4480-b8d0-b3defa99727b",
+        "image": "https://uploads.mangadex.org/covers/fef4ab35-8ff4-4480-b8d0-b3defa99727b/fed0fe8c-7506-44d7-9ee9-c0c905a5a896.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20590,
+        "aniId": 50590,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-03T08:42:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "majo_no_kishi": {
+        "authors": [
+          "Ninose",
+          "Yasunori"
+        ],
+        "identifier": "majo_no_kishi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Majo No Kishi",
+        "url": "https://manganelo.com/manga/majo_no_kishi",
+        "image": "https://avt.mkklcdnv6.com/27/d/12-1583486836.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20590,
+        "aniId": 50590,
+        "createdAt": "2021-01-25T15:43:10.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

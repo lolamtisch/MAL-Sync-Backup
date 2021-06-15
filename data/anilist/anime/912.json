@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "忍空"
+  ],
+  "id": 912,
+  "malId": 912,
+  "type": "anime",
+  "title": "Ninku",
+  "url": "https://anilist.co/anime/912",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx912-3uK0m0NF29Br.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:51.000Z",
+  "updatedAt": "2021-05-20T14:34:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "1o2v": {
+        "identifier": "1o2v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ninku",
+        "url": "https://9anime.ru/watch/ninku.1o2v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Zx4IWT9YTEk/V9fUsc0LnlI/AAAAAAAA90k/AzHj5Z7tI7c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 912,
+        "aniId": 912,
+        "createdAt": "2020-10-12T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ninku": {
+        "identifier": "ninku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ninku",
+        "url": "https://gogoanime.so/category/ninku",
+        "image": "https://cdnimg.xyz/images/anime/N/ninku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 912,
+        "aniId": 912,
+        "createdAt": "2020-10-12T16:01:26.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

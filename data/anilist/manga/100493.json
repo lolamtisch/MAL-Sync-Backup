@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "となりの国から",
+    "From the Neighboring Land"
+  ],
+  "authors": [
+    "Saori Matsuura"
+  ],
+  "id": 100493,
+  "malId": null,
+  "type": "manga",
+  "title": "Tonari no Kuni kara",
+  "url": "https://anilist.co/manga/100493",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100493-ag4QAQR1wwpT.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T05:48:57.000Z",
+  "updatedAt": "2021-06-05T05:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c39b045-caf2-4f37-80d7-b2f308304b92": {
+        "authors": [
+          "Matsuura Saori"
+        ],
+        "identifier": "3c39b045-caf2-4f37-80d7-b2f308304b92",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tonari no Kuni kara",
+        "url": "https://mangadex.org/title/3c39b045-caf2-4f37-80d7-b2f308304b92",
+        "image": "https://uploads.mangadex.org/covers/3c39b045-caf2-4f37-80d7-b2f308304b92/7d0a9a06-217a-4b5a-a2c9-1036ad1c1b3e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100493,
+        "createdAt": "2020-10-12T16:11:05.000Z",
+        "updatedAt": "2021-06-05T08:33:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

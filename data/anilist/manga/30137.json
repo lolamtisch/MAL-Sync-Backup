@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Read or Die",
+    "R.O.D -READ OR DIE-",
+    "RoD",
+    "R.O.D."
+  ],
+  "authors": [
+    "Hideyuki Kurata",
+    "Shutaro Yamada"
+  ],
+  "id": 30137,
+  "malId": 137,
+  "type": "manga",
+  "title": "R.O.D: Read or Die",
+  "url": "https://anilist.co/manga/30137",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30137-3SKTR5um6PbM.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9c285d3-44b7-4c5e-b948-9e766f183b22": {
+        "authors": [
+          "KURATA Hideyuki",
+          "YAMADA Shutaro"
+        ],
+        "identifier": "e9c285d3-44b7-4c5e-b948-9e766f183b22",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "R.O.D - Read or Die",
+        "url": "https://mangadex.org/title/e9c285d3-44b7-4c5e-b948-9e766f183b22",
+        "image": "https://uploads.mangadex.org/covers/e9c285d3-44b7-4c5e-b948-9e766f183b22/6badcf9a-b3f3-4f27-9e39-5439f5adfdee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137,
+        "aniId": 30137,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:22:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_or_die": {
+        "authors": [],
+        "identifier": "read_or_die",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Read Or Die",
+        "url": "https://manganelo.com/manga/read_or_die",
+        "image": "https://avt.mkklcdnv6.com/4/v/12-1583486006.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137,
+        "aniId": 30137,
+        "createdAt": "2020-10-12T16:25:06.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "reader": {
+        "authors": [
+          "Ruen",
+          "Rouga"
+        ],
+        "identifier": "reader",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Reader",
+        "url": "https://manganelo.com/manga/reader",
+        "image": "https://avt.mkklcdnv6.com/27/z/8-1583479243.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137,
+        "aniId": 30137,
+        "createdAt": "2020-10-12T16:25:08.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

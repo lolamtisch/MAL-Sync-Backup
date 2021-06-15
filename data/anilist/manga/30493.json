@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Ra-i",
+    "ライ"
+  ],
+  "authors": [
+    "Sanami Matou"
+  ],
+  "id": 30493,
+  "malId": 493,
+  "type": "manga",
+  "title": "Ra-i",
+  "url": "https://anilist.co/manga/30493",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/493.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b54eb491-4b38-4cfc-9510-2ad7be7c5e5e": {
+        "authors": [
+          "Matoh Sanami"
+        ],
+        "identifier": "b54eb491-4b38-4cfc-9510-2ad7be7c5e5e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ra-i",
+        "url": "https://mangadex.org/title/b54eb491-4b38-4cfc-9510-2ad7be7c5e5e",
+        "image": "https://uploads.mangadex.org/covers/b54eb491-4b38-4cfc-9510-2ad7be7c5e5e/6dd6dd13-eaa8-4b5b-b03e-3682c1ac83fb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 493,
+        "aniId": 30493,
+        "createdAt": "2020-10-12T16:11:33.000Z",
+        "updatedAt": "2021-06-05T09:22:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

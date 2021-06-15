@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Phoenix",
+    "Hi no Tori: Reimei-hen, Phoneix: Dawn",
+    "火の鳥"
+  ],
+  "authors": [
+    "Tezuka, Osamu"
+  ],
+  "id": 1325,
+  "type": "manga",
+  "title": "Hi no Tori (1967)",
+  "url": "https://myanimelist.net/manga/1325/Hi_no_Tori_1967",
+  "image": "https://cdn.myanimelist.net/images/manga/3/159419.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:32.000Z",
+  "updatedAt": "2021-06-04T02:21:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc647d62-3a2c-474b-ac4e-844256ab185d": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "cc647d62-3a2c-474b-ac4e-844256ab185d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hi no Tori",
+        "url": "https://mangadex.org/title/cc647d62-3a2c-474b-ac4e-844256ab185d",
+        "image": "https://uploads.mangadex.org/covers/cc647d62-3a2c-474b-ac4e-844256ab185d/183a57e9-a1dd-402a-b56e-c327e6690565.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1325,
+        "aniId": 31325,
+        "createdAt": "2020-10-12T16:15:21.000Z",
+        "updatedAt": "2021-06-06T13:01:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hi_no_tori": {
+        "authors": [],
+        "identifier": "hi_no_tori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hi no Tori",
+        "url": "https://manganelo.com/manga/hi_no_tori",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4343-hi_no_tori.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1325,
+        "aniId": 31325,
+        "createdAt": "2020-10-12T16:23:20.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

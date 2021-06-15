@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Double Casting",
+    "더블 캐스팅"
+  ],
+  "authors": [
+    "Yeong-Woo Shin"
+  ],
+  "id": 87181,
+  "malId": 101443,
+  "type": "manga",
+  "title": "Double Casting",
+  "url": "https://anilist.co/manga/87181",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87181-sPBR4RYYzd0n.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:52.000Z",
+  "updatedAt": "2021-05-20T14:54:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "double_casting": {
+        "authors": [
+          "Shin",
+          "Yeong",
+          "Woo"
+        ],
+        "identifier": "double_casting",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Double Casting",
+        "url": "https://manganelo.com/manga/double_casting",
+        "image": "https://avt.mkklcdnv6.com/16/k/1-1583464331.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101443,
+        "aniId": 87181,
+        "createdAt": "2021-01-13T05:58:21.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "1771af28-c6c1-432f-87e2-3198bb23ddb0": {
+        "authors": [
+          "Shin Yeong Woo"
+        ],
+        "identifier": "1771af28-c6c1-432f-87e2-3198bb23ddb0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Double Casting",
+        "url": "https://mangadex.org/title/1771af28-c6c1-432f-87e2-3198bb23ddb0",
+        "image": "https://uploads.mangadex.org/covers/1771af28-c6c1-432f-87e2-3198bb23ddb0/a72bcb09-cf0f-4827-8c05-5e69df0afbe9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101443,
+        "aniId": 87181,
+        "createdAt": "2021-01-27T18:39:47.000Z",
+        "updatedAt": "2021-06-08T10:34:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

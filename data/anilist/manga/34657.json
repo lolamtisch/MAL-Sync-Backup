@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Shiho Watanabe"
+  ],
+  "id": 34657,
+  "malId": 4657,
+  "type": "manga",
+  "title": "Winter Flowers",
+  "url": "https://anilist.co/manga/34657",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4657.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac975a3f-b951-4cfe-aa74-47d0852884ec": {
+        "authors": [
+          "WATANABE Shiho"
+        ],
+        "identifier": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Winter Flowers",
+        "url": "https://mangadex.org/title/ac975a3f-b951-4cfe-aa74-47d0852884ec",
+        "image": "https://uploads.mangadex.org/covers/ac975a3f-b951-4cfe-aa74-47d0852884ec/95e1a400-a912-42db-b875-181caa32d5dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4657,
+        "aniId": 34657,
+        "createdAt": "2020-10-12T16:09:09.000Z",
+        "updatedAt": "2021-06-04T15:33:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

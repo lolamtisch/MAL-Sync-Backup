@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ア ガールズ"
+  ],
+  "authors": [
+    "Hiroyuki Tamakoshi",
+    "Masahiro Itabashi"
+  ],
+  "id": 36920,
+  "malId": 6920,
+  "type": "manga",
+  "title": "A Girls",
+  "url": "https://anilist.co/manga/36920",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b36920-Uvlx4WnvcdsB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:43.000Z",
+  "updatedAt": "2021-05-20T14:39:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "10de2ac8-9207-4bbf-8dfe-d7c425f95598": {
+        "authors": [
+          "Tamakoshi Hiroyuki",
+          "Itabashi Masahiro"
+        ],
+        "identifier": "10de2ac8-9207-4bbf-8dfe-d7c425f95598",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Girls",
+        "url": "https://mangadex.org/title/10de2ac8-9207-4bbf-8dfe-d7c425f95598",
+        "image": "https://uploads.mangadex.org/covers/10de2ac8-9207-4bbf-8dfe-d7c425f95598/fc43def8-77c3-4d3d-8a0a-64c8ab39c1a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6920,
+        "aniId": 36920,
+        "createdAt": "2020-10-12T16:04:31.000Z",
+        "updatedAt": "2021-06-02T21:35:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

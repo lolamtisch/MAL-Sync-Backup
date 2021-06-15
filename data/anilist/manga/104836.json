@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "アステロイド"
+  ],
+  "authors": [
+    "Keiichi Koike"
+  ],
+  "id": 104836,
+  "malId": 102752,
+  "type": "manga",
+  "title": "Asteroid",
+  "url": "https://anilist.co/manga/104836",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n104836-faR6d4ldjLTf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:01.000Z",
+  "updatedAt": "2021-05-20T14:55:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb865fee-cf21-4c4e-b931-334033553b22": {
+        "authors": [
+          "KOIKE Keiichi"
+        ],
+        "identifier": "bb865fee-cf21-4c4e-b931-334033553b22",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ASTROID",
+        "url": "https://mangadex.org/title/bb865fee-cf21-4c4e-b931-334033553b22",
+        "image": "https://uploads.mangadex.org/covers/bb865fee-cf21-4c4e-b931-334033553b22/300387d7-479f-418b-ba84-f9ef321e54e2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102752,
+        "aniId": 104836,
+        "createdAt": "2020-10-12T16:09:47.000Z",
+        "updatedAt": "2021-06-04T20:01:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

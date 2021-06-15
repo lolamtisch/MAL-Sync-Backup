@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "冬の浪漫民宿",
+    "Winter Romantic B&B",
+    "Winter at a Romantic Guest House"
+  ],
+  "authors": [
+    "Nami Akimoto"
+  ],
+  "id": 55542,
+  "malId": 25542,
+  "type": "manga",
+  "title": "Fuyu no Roman Minshuku",
+  "url": "https://anilist.co/manga/55542",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b55542-K4ULQwxLJJ9B.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:55.000Z",
+  "updatedAt": "2021-05-20T14:46:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f13603d1-2ce6-44d2-96be-fd9902bd04b3": {
+        "authors": [
+          "Akimoto Nami"
+        ],
+        "identifier": "f13603d1-2ce6-44d2-96be-fd9902bd04b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Winter Romantic B&B",
+        "url": "https://mangadex.org/title/f13603d1-2ce6-44d2-96be-fd9902bd04b3",
+        "image": "https://uploads.mangadex.org/covers/f13603d1-2ce6-44d2-96be-fd9902bd04b3/a45d9708-a448-4302-b58f-497019b9f4e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25542,
+        "aniId": 55542,
+        "createdAt": "2020-10-12T16:04:29.000Z",
+        "updatedAt": "2021-06-02T21:22:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "guest_house": {
+        "authors": [],
+        "identifier": "guest_house",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Guest House",
+        "url": "https://manganelo.com/manga/guest_house",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17260-guest_house.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25542,
+        "aniId": 55542,
+        "createdAt": "2020-10-12T16:23:11.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

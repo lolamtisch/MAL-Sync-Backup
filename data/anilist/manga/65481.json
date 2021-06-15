@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "NOAH!（ノア）"
+  ],
+  "authors": [
+    "Yuka Shibano"
+  ],
+  "id": 65481,
+  "malId": 35481,
+  "type": "manga",
+  "title": "Noah!",
+  "url": "https://anilist.co/manga/65481",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35481.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:25.000Z",
+  "updatedAt": "2021-05-20T14:48:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a8d73a02-1d0e-42f6-89f9-e95b18543204": {
+        "authors": [
+          "Shibano Yuka"
+        ],
+        "identifier": "a8d73a02-1d0e-42f6-89f9-e95b18543204",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Noah!",
+        "url": "https://mangadex.org/title/a8d73a02-1d0e-42f6-89f9-e95b18543204",
+        "image": "https://uploads.mangadex.org/covers/a8d73a02-1d0e-42f6-89f9-e95b18543204/be402b79-7953-4340-801c-115cd580376f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35481,
+        "aniId": 65481,
+        "createdAt": "2020-10-12T16:04:08.000Z",
+        "updatedAt": "2021-06-02T18:53:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

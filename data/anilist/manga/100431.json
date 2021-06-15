@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "わたしびと",
+    "The Traveler"
+  ],
+  "authors": [
+    "Nao Matsukawa"
+  ],
+  "id": 100431,
+  "malId": 103940,
+  "type": "manga",
+  "title": "Watashibito",
+  "url": "https://anilist.co/manga/100431",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n100431-Xhl0zHloQ8Lt.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:05.000Z",
+  "updatedAt": "2021-05-20T14:55:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "36f25dcf-e75e-4f37-9a7b-7639a3a1f227": {
+        "authors": [
+          "MATSUKAWA Nao"
+        ],
+        "identifier": "36f25dcf-e75e-4f37-9a7b-7639a3a1f227",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Traveler",
+        "url": "https://mangadex.org/title/36f25dcf-e75e-4f37-9a7b-7639a3a1f227",
+        "image": "https://uploads.mangadex.org/covers/36f25dcf-e75e-4f37-9a7b-7639a3a1f227/70bc6d9b-3062-4753-b2ac-48a8b7e0ecc9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103940,
+        "aniId": 100431,
+        "createdAt": "2020-10-12T16:10:26.000Z",
+        "updatedAt": "2021-06-05T00:40:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

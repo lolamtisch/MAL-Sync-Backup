@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "더 게이머"
+  ],
+  "authors": [
+    "Sung San-Young",
+    "Sang-Ah"
+  ],
+  "id": 85155,
+  "malId": null,
+  "type": "manga",
+  "title": "The Gamer",
+  "url": "https://anilist.co/manga/85155",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b85155-HtYBpaLAa9E7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T21:47:43.000Z",
+  "updatedAt": "2021-06-03T21:50:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e499ff53-68d3-4c1a-8dbf-3cea42fca501": {
+        "authors": [
+          "Sang-Ah",
+          "Sung Sang-Young"
+        ],
+        "identifier": "e499ff53-68d3-4c1a-8dbf-3cea42fca501",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Gamer",
+        "url": "https://mangadex.org/title/e499ff53-68d3-4c1a-8dbf-3cea42fca501",
+        "image": "https://uploads.mangadex.org/covers/e499ff53-68d3-4c1a-8dbf-3cea42fca501/3d8ed27b-e38a-4cc3-aa3a-54e13af1f60d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 85155,
+        "createdAt": "2020-10-12T16:06:44.000Z",
+        "updatedAt": "2021-06-03T22:40:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_gamer": {
+        "authors": [
+          "Sung San-Young"
+        ],
+        "identifier": "the_gamer",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Gamer",
+        "url": "https://fanfox.net/manga/the_gamer/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13088/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 85155,
+        "createdAt": "2020-12-21T09:53:33.000Z",
+        "updatedAt": "2021-05-26T23:28:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-gamer": {
+        "authors": [
+          "Sang-Ah",
+          "Sung San-Young"
+        ],
+        "identifier": "the-gamer",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Gamer",
+        "url": "https://mangasee123.com/manga/The-Gamer",
+        "image": "https://cover.nep.li/cover/The-Gamer.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 85155,
+        "createdAt": "2020-12-21T15:26:13.000Z",
+        "updatedAt": "2021-05-27T20:28:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Steal Moon",
+    "ステールムーン"
+  ],
+  "authors": [
+    "Makoto Tateno"
+  ],
+  "id": 31973,
+  "malId": 1973,
+  "type": "manga",
+  "title": "Steal Moon",
+  "url": "https://anilist.co/manga/31973",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31973-ekhknyVkWUGy.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:58.000Z",
+  "updatedAt": "2021-05-20T14:36:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1313d714-f381-4e05-b7c8-1262b799aa7c": {
+        "authors": [
+          "Mareu"
+        ],
+        "identifier": "1313d714-f381-4e05-b7c8-1262b799aa7c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Leaf Moon",
+        "url": "https://mangadex.org/title/1313d714-f381-4e05-b7c8-1262b799aa7c",
+        "image": "https://uploads.mangadex.org/covers/1313d714-f381-4e05-b7c8-1262b799aa7c/354d6a06-f3ba-43fa-88ea-6aa8ce93c63c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1973,
+        "aniId": 31973,
+        "createdAt": "2020-10-12T16:16:00.000Z",
+        "updatedAt": "2021-06-06T18:39:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

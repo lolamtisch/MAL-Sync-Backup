@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "先生は俺のもの"
+  ],
+  "authors": [
+    "Mie",
+    "Chika"
+  ],
+  "id": 13082,
+  "type": "manga",
+  "title": "Sensei wa Ore no Mono",
+  "url": "https://myanimelist.net/manga/13082/Sensei_wa_Ore_no_Mono",
+  "image": "https://cdn.myanimelist.net/images/manga/3/174480.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:50.000Z",
+  "updatedAt": "2021-02-03T20:40:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f6f1a3ea-6507-4c2f-a569-293999b234a5": {
+        "authors": [
+          "Mie",
+          "Chika"
+        ],
+        "identifier": "f6f1a3ea-6507-4c2f-a569-293999b234a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sensei wa Ore no Mono",
+        "url": "https://mangadex.org/title/f6f1a3ea-6507-4c2f-a569-293999b234a5",
+        "image": "https://uploads.mangadex.org/covers/f6f1a3ea-6507-4c2f-a569-293999b234a5/90f362f7-8928-4fc1-8f93-22a1b1b40258.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13082,
+        "aniId": 43082,
+        "createdAt": "2020-10-12T16:04:01.000Z",
+        "updatedAt": "2021-06-02T18:07:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sensei_wa_ore_no_mono": {
+        "authors": [
+          "Mie"
+        ],
+        "identifier": "sensei_wa_ore_no_mono",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sensei Wa Ore No Mono",
+        "url": "https://manganelo.com/manga/sensei_wa_ore_no_mono",
+        "image": "https://avt.mkklcdnv6.com/40/x/9-1583481786.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13082,
+        "aniId": 43082,
+        "createdAt": "2021-02-03T20:40:36.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "シャーリー",
+    "Shirley Madison",
+    "シャーリー・メディスン",
+    "Shirley Medison"
+  ],
+  "authors": [
+    "Kaoru Mori"
+  ],
+  "id": 31440,
+  "malId": 1440,
+  "type": "manga",
+  "title": "Shirley",
+  "url": "https://anilist.co/manga/31440",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31440-ub9X6mNW3BfZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:44.000Z",
+  "updatedAt": "2021-05-20T14:36:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9863c55e-6809-42cc-8ee4-09f00e4f1bec": {
+        "authors": [
+          "Mori Kaoru"
+        ],
+        "identifier": "9863c55e-6809-42cc-8ee4-09f00e4f1bec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shirley",
+        "url": "https://mangadex.org/title/9863c55e-6809-42cc-8ee4-09f00e4f1bec",
+        "image": "https://uploads.mangadex.org/covers/9863c55e-6809-42cc-8ee4-09f00e4f1bec/cc8a6f75-27f0-4e6d-8c6b-cd3ad0af0d8a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1440,
+        "aniId": 31440,
+        "createdAt": "2020-10-12T16:06:46.000Z",
+        "updatedAt": "2021-06-03T22:02:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shirley": {
+        "authors": [
+          "Mori",
+          "Kaoru"
+        ],
+        "identifier": "shirley",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shirley",
+        "url": "https://manganelo.com/manga/shirley",
+        "image": "https://avt.mkklcdnv6temp.com/19/v/9-1583480860.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1440,
+        "aniId": 31440,
+        "createdAt": "2021-04-25T05:57:24.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

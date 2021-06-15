@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ナンバーコール"
+  ],
+  "authors": [
+    "Furuya, Nagisa"
+  ],
+  "id": 87469,
+  "type": "manga",
+  "title": "Number Call",
+  "url": "https://myanimelist.net/manga/87469/Number_Call",
+  "image": "https://cdn.myanimelist.net/images/manga/3/152091.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:55.000Z",
+  "updatedAt": "2021-06-08T06:24:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9791be3c-3b7a-4111-a576-120fc89e5358": {
+        "authors": [
+          "Furuya Nagisa"
+        ],
+        "identifier": "9791be3c-3b7a-4111-a576-120fc89e5358",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Number Call",
+        "url": "https://mangadex.org/title/9791be3c-3b7a-4111-a576-120fc89e5358",
+        "image": "https://uploads.mangadex.org/covers/9791be3c-3b7a-4111-a576-120fc89e5358/2cc5960e-46c7-40ba-844a-54573a6891fa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87469,
+        "aniId": 87431,
+        "createdAt": "2020-10-12T16:08:25.000Z",
+        "updatedAt": "2021-06-04T10:00:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "number_call": {
+        "authors": [
+          "FURUYA Nagisa"
+        ],
+        "identifier": "number_call",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Number Call",
+        "url": "https://fanfox.net/manga/number_call/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15357/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87469,
+        "aniId": 87431,
+        "createdAt": "2021-06-08T06:24:17.000Z",
+        "updatedAt": "2021-06-08T06:50:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

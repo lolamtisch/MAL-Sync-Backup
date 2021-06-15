@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ビンゾー"
+  ],
+  "authors": [
+    "Koyano Takao"
+  ],
+  "id": 105598,
+  "malId": 99513,
+  "type": "manga",
+  "title": "Binzo",
+  "url": "https://anilist.co/manga/105598",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105598-sFj1qNuaDnGj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:42.000Z",
+  "updatedAt": "2021-05-20T14:54:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6517d1d-d35a-435e-bdde-876a98caec7a": {
+        "authors": [
+          "KAIBARA Shijimi"
+        ],
+        "identifier": "b6517d1d-d35a-435e-bdde-876a98caec7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bishounen",
+        "url": "https://mangadex.org/title/b6517d1d-d35a-435e-bdde-876a98caec7a",
+        "image": "https://uploads.mangadex.org/covers/b6517d1d-d35a-435e-bdde-876a98caec7a/14929c4e-43f0-4117-bf9b-68e08eb18fa1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99513,
+        "aniId": 105598,
+        "createdAt": "2020-10-12T16:13:19.000Z",
+        "updatedAt": "2021-06-05T20:26:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

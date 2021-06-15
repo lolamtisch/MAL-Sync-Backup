@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "新聞委員",
+    "Newspaper Committee Member"
+  ],
+  "authors": [
+    "Kazuhiko Sadakiyo"
+  ],
+  "id": 128618,
+  "malId": null,
+  "type": "manga",
+  "title": "Shinbun Iin",
+  "url": "https://anilist.co/manga/128618",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128618-gLADAjMlUDq7.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T19:11:10.000Z",
+  "updatedAt": "2021-06-07T19:11:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c437ff4-e67f-4ddf-8878-49bc3707dbc8": {
+        "authors": [
+          "Sadakiyo Kazuhiko"
+        ],
+        "identifier": "7c437ff4-e67f-4ddf-8878-49bc3707dbc8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Newspaper Committee Member",
+        "url": "https://mangadex.org/title/7c437ff4-e67f-4ddf-8878-49bc3707dbc8",
+        "image": "https://uploads.mangadex.org/covers/7c437ff4-e67f-4ddf-8878-49bc3707dbc8/68d59f2d-2666-48bd-a975-b541628d8a99.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 128618,
+        "createdAt": "2020-10-12T16:18:40.000Z",
+        "updatedAt": "2021-06-07T19:19:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

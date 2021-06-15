@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "グリザイアの果実 ～L'Oiseau bleu～"
+  ],
+  "authors": [
+    "Front Wing",
+    "Taka Himeno"
+  ],
+  "id": 86542,
+  "malId": 69141,
+  "type": "manga",
+  "title": "Grisaia no Kajitsu: L'Oiseau bleu",
+  "url": "https://anilist.co/manga/86542",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56542-foiXOihs5Hil.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:03.000Z",
+  "updatedAt": "2021-05-20T14:51:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "646759c8-5828-4bef-b1ce-665a8b03c86e": {
+        "authors": [
+          "FUJISAKU Junichi",
+          "HIMENO Taka",
+          "Front Wing"
+        ],
+        "identifier": "646759c8-5828-4bef-b1ce-665a8b03c86e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Grisaia no Kajitsu - L'oiseau bleu",
+        "url": "https://mangadex.org/title/646759c8-5828-4bef-b1ce-665a8b03c86e",
+        "image": "https://uploads.mangadex.org/covers/646759c8-5828-4bef-b1ce-665a8b03c86e/a987343e-b386-4d80-a866-08419e589b95.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69141,
+        "aniId": 86542,
+        "createdAt": "2020-10-12T16:08:13.000Z",
+        "updatedAt": "2021-06-04T08:31:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "grisaia-no-kajitsu-loiseau-bleu": {
+        "authors": [
+          "Frontwing",
+          "FUJISAKU Junichi",
+          "HIMENO Taka"
+        ],
+        "identifier": "grisaia-no-kajitsu-loiseau-bleu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Grisaia no Kajitsu - L'oiseau bleu",
+        "url": "https://mangasee123.com/manga/Grisaia-No-Kajitsu-Loiseau-Bleu",
+        "image": "https://cover.nep.li/cover/Grisaia-No-Kajitsu-Loiseau-Bleu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69141,
+        "aniId": 86542,
+        "createdAt": "2021-05-13T21:54:43.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

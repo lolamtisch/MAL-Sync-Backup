@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "The Forest of Shimmer"
+  ],
+  "authors": [
+    "Takaaki Kusaka"
+  ],
+  "id": 38521,
+  "malId": 8521,
+  "type": "manga",
+  "title": "Kagerou no Mori",
+  "url": "https://anilist.co/manga/38521",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8521.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:47.000Z",
+  "updatedAt": "2021-05-20T14:40:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "352e208e-aa9f-4e7b-a9ea-a29812e738af": {
+        "authors": [
+          "Kusaka Takaaki"
+        ],
+        "identifier": "352e208e-aa9f-4e7b-a9ea-a29812e738af",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kagerou no Mori",
+        "url": "https://mangadex.org/title/352e208e-aa9f-4e7b-a9ea-a29812e738af",
+        "image": "https://uploads.mangadex.org/covers/352e208e-aa9f-4e7b-a9ea-a29812e738af/f82b2ae2-e21a-4a66-9408-2fb1b908f48e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8521,
+        "aniId": 38521,
+        "createdAt": "2020-10-12T16:21:46.000Z",
+        "updatedAt": "2021-06-08T03:02:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kagerou_no_mori": {
+        "authors": [
+          "Kusaka",
+          "Takaaki"
+        ],
+        "identifier": "kagerou_no_mori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kagerou No Mori",
+        "url": "https://manganelo.com/manga/kagerou_no_mori",
+        "image": "https://avt.mkklcdnv6.com/7/v/13-1583488028.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8521,
+        "aniId": 38521,
+        "createdAt": "2021-02-07T00:19:54.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

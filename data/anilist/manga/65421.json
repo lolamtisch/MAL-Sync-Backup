@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "いとへん"
+  ],
+  "authors": [
+    "Yumi Unita"
+  ],
+  "id": 65421,
+  "malId": 35421,
+  "type": "manga",
+  "title": "Itohen",
+  "url": "https://anilist.co/manga/65421",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35421.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:02.000Z",
+  "updatedAt": "2021-05-20T14:48:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "10cdd115-97dc-4c5f-b637-36e40a64c2b1": {
+        "authors": [
+          "Unita Yumi"
+        ],
+        "identifier": "10cdd115-97dc-4c5f-b637-36e40a64c2b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itohen",
+        "url": "https://mangadex.org/title/10cdd115-97dc-4c5f-b637-36e40a64c2b1",
+        "image": "https://uploads.mangadex.org/covers/10cdd115-97dc-4c5f-b637-36e40a64c2b1/749f965a-c4c7-4b1f-8f96-b5b82f3eeaeb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35421,
+        "aniId": 65421,
+        "createdAt": "2020-10-12T16:08:50.000Z",
+        "updatedAt": "2021-06-04T13:03:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

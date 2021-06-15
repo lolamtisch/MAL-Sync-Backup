@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "ただ、君を愛してる",
+    "Tada",
+    "Kimi wa Aishiteru",
+    "Tada",
+    "Kimi o Aishiteru"
+  ],
+  "authors": [
+    "Aki Yoshino",
+    "Takuji Ichikawa"
+  ],
+  "id": 39288,
+  "malId": 9288,
+  "type": "manga",
+  "title": "Tada, Kimi wo Aishiteru",
+  "url": "https://anilist.co/manga/39288",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9288.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:56.000Z",
+  "updatedAt": "2021-05-20T14:40:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8d0c70bc-54df-4308-b971-f1ebadd1d1c2": {
+        "authors": [
+          "Ichikawa Takuji",
+          "Yoshino Aki"
+        ],
+        "identifier": "8d0c70bc-54df-4308-b971-f1ebadd1d1c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tada, Kimi wo aishiteru",
+        "url": "https://mangadex.org/title/8d0c70bc-54df-4308-b971-f1ebadd1d1c2",
+        "image": "https://uploads.mangadex.org/covers/8d0c70bc-54df-4308-b971-f1ebadd1d1c2/86344b01-c9d2-4fa3-9529-d314c54de0e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9288,
+        "aniId": 39288,
+        "createdAt": "2020-10-12T16:09:08.000Z",
+        "updatedAt": "2021-06-04T15:24:18.000Z",
+        "deletedAt": null
+      },
+      "a7d6df30-7954-406d-8a16-1c2c3c7e2ecd": {
+        "authors": [
+          "Nitako"
+        ],
+        "identifier": "a7d6df30-7954-406d-8a16-1c2c3c7e2ecd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shouta, Kimi wo Aishiteru",
+        "url": "https://mangadex.org/title/a7d6df30-7954-406d-8a16-1c2c3c7e2ecd",
+        "image": "https://uploads.mangadex.org/covers/a7d6df30-7954-406d-8a16-1c2c3c7e2ecd/85b46b9c-3387-467a-b146-d5b5e7e793e3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9288,
+        "aniId": 39288,
+        "createdAt": "2020-10-12T16:20:12.000Z",
+        "updatedAt": "2021-06-07T23:33:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tada_kimi_o_aishiteru": {
+        "authors": [],
+        "identifier": "tada_kimi_o_aishiteru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tada, Kimi O Aishiteru",
+        "url": "https://manganelo.com/manga/tada_kimi_o_aishiteru",
+        "image": "https://avt.mkklcdnv6.com/8/x/9-1583480435.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9288,
+        "aniId": 39288,
+        "createdAt": "2020-10-12T16:25:37.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "tada_kimi_wo_aishiteru": {
+        "authors": [],
+        "identifier": "tada_kimi_wo_aishiteru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tada, Kimi Wo Aishiteru",
+        "url": "https://manganelo.com/manga/tada_kimi_wo_aishiteru",
+        "image": "https://avt.mkklcdnv6.com/36/y/11-1583485343.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9288,
+        "aniId": 39288,
+        "createdAt": "2020-10-12T16:25:37.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

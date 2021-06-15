@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Rock 'n' Roll Ricky",
+    "RRR ロックンロールリッキー"
+  ],
+  "authors": [
+    "Watanabe, Jun"
+  ],
+  "id": 25300,
+  "type": "manga",
+  "title": "RRR",
+  "url": "https://myanimelist.net/manga/25300/RRR",
+  "image": "https://cdn.myanimelist.net/images/manga/5/137911.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:17.000Z",
+  "updatedAt": "2021-04-09T17:51:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eed04871-01be-4c8c-828a-125c3f42d915": {
+        "authors": [
+          "Watanabe Jun"
+        ],
+        "identifier": "eed04871-01be-4c8c-828a-125c3f42d915",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RRR",
+        "url": "https://mangadex.org/title/eed04871-01be-4c8c-828a-125c3f42d915",
+        "image": "https://uploads.mangadex.org/covers/eed04871-01be-4c8c-828a-125c3f42d915/1b18c185-af61-4b82-9b1e-0e0f0248cbe8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25300,
+        "aniId": 55300,
+        "createdAt": "2020-10-12T16:02:31.000Z",
+        "updatedAt": "2021-06-02T07:33:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "r-r-r": {
+        "authors": [
+          "WATANABE Jun"
+        ],
+        "identifier": "r-r-r",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "RRR",
+        "url": "https://mangasee123.com/manga/R-R-R",
+        "image": "https://cover.nep.li/cover/R-R-R.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25300,
+        "aniId": 55300,
+        "createdAt": "2021-01-27T09:11:46.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rrr": {
+        "authors": [
+          "Watanabe",
+          "Jun"
+        ],
+        "identifier": "rrr",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rrr",
+        "url": "https://manganelo.com/manga/rrr",
+        "image": "https://avt.mkklcdnv6temp.com/45/u/4-1583471614.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25300,
+        "aniId": 55300,
+        "createdAt": "2021-04-09T17:51:39.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

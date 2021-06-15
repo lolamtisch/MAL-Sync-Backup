@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "개밥도토리",
+    "Dog Food Acorn "
+  ],
+  "authors": [
+    "Hyeong Ho",
+    "Manggi"
+  ],
+  "id": 123026,
+  "malId": null,
+  "type": "manga",
+  "title": "Gae Bapdotori",
+  "url": "https://anilist.co/manga/123026",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123026-Wj2tFWuYNfWh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:51:28.000Z",
+  "updatedAt": "2021-06-08T01:51:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d493f760-957a-489f-97f3-c24cedc2cf21": {
+        "authors": [
+          "망기",
+          "호형"
+        ],
+        "identifier": "d493f760-957a-489f-97f3-c24cedc2cf21",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dog Food Acorn",
+        "url": "https://mangadex.org/title/d493f760-957a-489f-97f3-c24cedc2cf21",
+        "image": "https://uploads.mangadex.org/covers/d493f760-957a-489f-97f3-c24cedc2cf21/caaaff5d-ae71-42ac-9340-898307db0be4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123026,
+        "createdAt": "2020-10-12T16:21:00.000Z",
+        "updatedAt": "2021-06-08T06:43:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

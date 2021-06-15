@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ねじの回転"
+  ],
+  "authors": [
+    "Mika Sadahiro"
+  ],
+  "id": 31998,
+  "malId": 1998,
+  "type": "manga",
+  "title": "Neji no Kaiten",
+  "url": "https://anilist.co/manga/31998",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31998-m2shYJct93gx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:58.000Z",
+  "updatedAt": "2021-05-20T14:36:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "38277bd6-6e40-4bab-9aad-10ad24955ad9": {
+        "authors": [
+          "Sadahiro Mika"
+        ],
+        "identifier": "38277bd6-6e40-4bab-9aad-10ad24955ad9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neji no Kaiten",
+        "url": "https://mangadex.org/title/38277bd6-6e40-4bab-9aad-10ad24955ad9",
+        "image": "https://uploads.mangadex.org/covers/38277bd6-6e40-4bab-9aad-10ad24955ad9/f054b18b-a5e4-4f0a-9b77-a6110e812e3b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1998,
+        "aniId": 31998,
+        "createdAt": "2020-10-12T16:21:24.000Z",
+        "updatedAt": "2021-06-08T02:07:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "neji_no_kaiten": {
+        "authors": [
+          "SADAHIRO Mika"
+        ],
+        "identifier": "neji_no_kaiten",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Neji no Kaiten",
+        "url": "https://fanfox.net/manga/neji_no_kaiten/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3527/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1998,
+        "aniId": 31998,
+        "createdAt": "2021-05-20T22:14:48.000Z",
+        "updatedAt": "2021-05-20T22:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

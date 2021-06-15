@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "Othello",
+    "Othello",
+    "Snow White in Summer",
+    "Night's Fragrance",
+    "Night's Abyss",
+    "Haruka no Fuchi",
+    "オセロ"
+  ],
+  "authors": [
+    "Toui Hasumi"
+  ],
+  "id": 30288,
+  "malId": 288,
+  "type": "manga",
+  "title": "Othello",
+  "url": "https://anilist.co/manga/30288",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30288-kCM7dWWVxW6N.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c51b68fa-39a2-4670-bd35-928268328a22": {
+        "authors": [
+          "Area-S (Circle)",
+          "Dra"
+        ],
+        "identifier": "c51b68fa-39a2-4670-bd35-928268328a22",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou - Hello Hello I'm Here (Doujinshi)",
+        "url": "https://mangadex.org/title/c51b68fa-39a2-4670-bd35-928268328a22",
+        "image": "https://uploads.mangadex.org/covers/c51b68fa-39a2-4670-bd35-928268328a22/f1a9f43d-a8f3-4f84-a606-8cd977137ae1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 288,
+        "aniId": 30288,
+        "createdAt": "2020-10-12T16:16:11.000Z",
+        "updatedAt": "2021-06-06T20:11:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "othello_yaoi": {
+        "authors": [
+          "HASUMI Toui"
+        ],
+        "identifier": "othello_yaoi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Othello (Yaoi)",
+        "url": "https://fanfox.net/manga/othello_yaoi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/290/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 288,
+        "aniId": 30288,
+        "createdAt": "2021-01-23T18:52:07.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

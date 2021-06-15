@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "유어 마이 데스티니"
+  ],
+  "authors": [
+    "CQ"
+  ],
+  "id": 111104,
+  "malId": null,
+  "type": "manga",
+  "title": "You're My Destiny",
+  "url": "https://anilist.co/manga/111104",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111104-r76cfN4znONA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-30T04:12:13.000Z",
+  "updatedAt": "2021-05-30T04:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "881d3673-f101-4848-a56d-f2dd08a3383d": {
+        "authors": [
+          "CQ"
+        ],
+        "identifier": "881d3673-f101-4848-a56d-f2dd08a3383d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "You Are My Destiny",
+        "url": "https://mangadex.org/title/881d3673-f101-4848-a56d-f2dd08a3383d",
+        "image": "https://uploads.mangadex.org/covers/881d3673-f101-4848-a56d-f2dd08a3383d/fb5c3fed-f856-46a4-bf6e-947cb7adbdfa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111104,
+        "createdAt": "2020-10-12T16:17:18.000Z",
+        "updatedAt": "2021-06-07T07:24:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "デメキン"
+  ],
+  "authors": [],
+  "id": 90258,
+  "malId": 65739,
+  "type": "manga",
+  "title": "Demekin",
+  "url": "https://anilist.co/manga/90258",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90258-uS5NPmKgHE2W.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:53.000Z",
+  "updatedAt": "2021-05-20T14:50:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12a10a6f-2689-4fd2-a11a-4ae68c37ad1c": {
+        "authors": [
+          "Sata Masaki",
+          "Yuu Hajime"
+        ],
+        "identifier": "12a10a6f-2689-4fd2-a11a-4ae68c37ad1c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Demekin",
+        "url": "https://mangadex.org/title/12a10a6f-2689-4fd2-a11a-4ae68c37ad1c",
+        "image": "https://uploads.mangadex.org/covers/12a10a6f-2689-4fd2-a11a-4ae68c37ad1c/c2370dd7-39a8-4ef7-9fd9-8edbac856848.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65739,
+        "aniId": 90258,
+        "createdAt": "2020-10-12T16:11:13.000Z",
+        "updatedAt": "2021-06-05T06:36:38.000Z",
+        "deletedAt": null
+      },
+      "b607f657-180a-4909-89bc-1ed42925f3a6": {
+        "authors": [
+          "masaki sata",
+          "yuu hajime"
+        ],
+        "identifier": "b607f657-180a-4909-89bc-1ed42925f3a6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "demekin",
+        "url": "https://mangadex.org/title/b607f657-180a-4909-89bc-1ed42925f3a6",
+        "image": "https://uploads.mangadex.org/covers/b607f657-180a-4909-89bc-1ed42925f3a6/1d44ea54-cf24-464b-a3aa-7390c4f2a1e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65739,
+        "aniId": 90258,
+        "createdAt": "2020-10-12T16:17:47.000Z",
+        "updatedAt": "2021-06-07T10:54:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

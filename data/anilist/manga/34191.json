@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "Red",
+    "Red"
+  ],
+  "authors": [
+    "Sanae Rokuya"
+  ],
+  "id": 34191,
+  "malId": 4191,
+  "type": "manga",
+  "title": "Red",
+  "url": "https://anilist.co/manga/34191",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4191.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:25.000Z",
+  "updatedAt": "2021-05-20T14:38:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "ggpi18491554197148": {
+        "authors": [],
+        "identifier": "ggpi18491554197148",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Red",
+        "url": "https://manganelo.com/manga/ggpi18491554197148",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/277-ggpi18491554197148.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4191,
+        "aniId": 34191,
+        "createdAt": "2020-10-12T16:23:05.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

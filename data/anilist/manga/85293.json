@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "こもりクインテット"
+  ],
+  "authors": [
+    "Hikaru Sugii",
+    "Tiv"
+  ],
+  "id": 85293,
+  "malId": 67379,
+  "type": "manga",
+  "title": "Komori Quintet!",
+  "url": "https://anilist.co/manga/85293",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85293-Yhzqcmr98xqE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:59.000Z",
+  "updatedAt": "2021-05-20T14:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3da7d29-36ad-47f2-b62c-6c953fe840bd": {
+        "authors": [
+          "Tiv",
+          "Sugii Hikaru"
+        ],
+        "identifier": "c3da7d29-36ad-47f2-b62c-6c953fe840bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Komori Quintet!",
+        "url": "https://mangadex.org/title/c3da7d29-36ad-47f2-b62c-6c953fe840bd",
+        "image": "https://uploads.mangadex.org/covers/c3da7d29-36ad-47f2-b62c-6c953fe840bd/ad8dd6a6-5262-47fe-a7de-15aa94328127.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67379,
+        "aniId": 85293,
+        "createdAt": "2020-10-12T16:07:10.000Z",
+        "updatedAt": "2021-06-04T00:51:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "komori_quintet": {
+        "authors": [],
+        "identifier": "komori_quintet",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Komori Quintet!",
+        "url": "https://manganelo.com/manga/komori_quintet",
+        "image": "https://avt.mkklcdnv6.com/30/i/7-1583477411.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67379,
+        "aniId": 85293,
+        "createdAt": "2020-10-12T16:23:59.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "komori-quintet": {
+        "authors": [
+          "SUGII Hikaru",
+          "Tiv"
+        ],
+        "identifier": "komori-quintet",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Komori Quintet!",
+        "url": "https://mangasee123.com/manga/Komori-Quintet",
+        "image": "https://cover.nep.li/cover/Komori-Quintet.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67379,
+        "aniId": 85293,
+        "createdAt": "2021-04-03T16:38:39.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

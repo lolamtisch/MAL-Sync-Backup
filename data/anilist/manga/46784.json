@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ドラゴンクエスト 天空物語",
+    "Dragon Quest: Tenkû Monogatari"
+  ],
+  "authors": [
+    "Chino Yukimiya"
+  ],
+  "id": 46784,
+  "malId": 16784,
+  "type": "manga",
+  "title": "Dragon Quest: Tenkuu Monogatari",
+  "url": "https://anilist.co/manga/46784",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16784.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "60a00615-d1cb-480b-aec1-83019e00eb76": {
+        "authors": [
+          "Yukimiya Chino"
+        ],
+        "identifier": "60a00615-d1cb-480b-aec1-83019e00eb76",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dragon Quest - Tenkuu Monogatari",
+        "url": "https://mangadex.org/title/60a00615-d1cb-480b-aec1-83019e00eb76",
+        "image": "https://uploads.mangadex.org/covers/60a00615-d1cb-480b-aec1-83019e00eb76/7baf42a0-d7a2-4cf6-98bc-abcaff1cf119.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16784,
+        "aniId": 46784,
+        "createdAt": "2020-11-22T23:26:21.000Z",
+        "updatedAt": "2021-06-08T07:35:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

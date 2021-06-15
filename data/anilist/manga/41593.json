@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Yuru Yuri",
+    "ゆるゆり",
+    "Yuruyuri"
+  ],
+  "authors": [
+    "Namori",
+    "Carlo Vanstiphout",
+    "Elina Ishikawa"
+  ],
+  "id": 41593,
+  "malId": 11593,
+  "type": "manga",
+  "title": "Yuru Yuri",
+  "url": "https://anilist.co/manga/41593",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41593-F0bPs2QLOuzL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:11.000Z",
+  "updatedAt": "2021-05-20T14:42:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6306c976-d776-48c3-b29f-d345e65f272b": {
+        "authors": [
+          "Namori"
+        ],
+        "identifier": "6306c976-d776-48c3-b29f-d345e65f272b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "YuruYuri",
+        "url": "https://mangadex.org/title/6306c976-d776-48c3-b29f-d345e65f272b",
+        "image": "https://uploads.mangadex.org/covers/6306c976-d776-48c3-b29f-d345e65f272b/89372580-9a7b-4c94-8d3f-426418a12410.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11593,
+        "aniId": 41593,
+        "createdAt": "2020-10-12T16:04:53.000Z",
+        "updatedAt": "2021-06-03T00:07:13.000Z",
+        "deletedAt": null
+      },
+      "1234a8d2-9f59-4168-996c-54b0352cf112": {
+        "authors": [
+          "Namori"
+        ],
+        "identifier": "1234a8d2-9f59-4168-996c-54b0352cf112",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "YuruYuri (Fan-Colored)",
+        "url": "https://mangadex.org/title/1234a8d2-9f59-4168-996c-54b0352cf112",
+        "image": "https://uploads.mangadex.org/covers/1234a8d2-9f59-4168-996c-54b0352cf112/4dc831e8-12b7-4b27-93f1-ba920dc199ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11593,
+        "aniId": 41593,
+        "createdAt": "2021-01-17T00:33:47.000Z",
+        "updatedAt": "2021-06-08T10:03:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yuru_yuri": {
+        "authors": [],
+        "identifier": "yuru_yuri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yuru Yuri",
+        "url": "https://manganelo.com/manga/yuru_yuri",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2598-yuru_yuri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11593,
+        "aniId": 41593,
+        "createdAt": "2020-10-12T16:26:27.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dd954260": {
+        "authors": [
+          "Namori"
+        ],
+        "identifier": "manga-dd954260",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yuru Yuri",
+        "url": "https://manganato.com/manga-dd954260",
+        "image": "https://avt.mkklcdnv6temp.com/1/z/2-1583467701.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11593,
+        "aniId": 41593,
+        "createdAt": "2021-05-31T09:01:57.000Z",
+        "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

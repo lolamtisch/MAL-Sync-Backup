@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "はじけて!ザック",
+    "Hajikete! Zakku",
+    "Meikyuu Shinwa",
+    "Pulverize 'Em Zack!"
+  ],
+  "authors": [
+    "Daisuke Inoue"
+  ],
+  "id": 72489,
+  "malId": 42489,
+  "type": "manga",
+  "title": "Meikyuu Shinwa: Hajikete! Zack",
+  "url": "https://anilist.co/manga/72489",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx72489-RCcxSi2deQBv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:51.000Z",
+  "updatedAt": "2021-05-20T14:48:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1494f314-ab51-4b40-9bae-c8e447726a1d": {
+        "authors": [
+          "Inoue Daisuke"
+        ],
+        "identifier": "1494f314-ab51-4b40-9bae-c8e447726a1d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pulverize 'Em Zack!",
+        "url": "https://mangadex.org/title/1494f314-ab51-4b40-9bae-c8e447726a1d",
+        "image": "https://uploads.mangadex.org/covers/1494f314-ab51-4b40-9bae-c8e447726a1d/59bafbd4-15a4-42cc-98b2-0dafe50a48b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42489,
+        "aniId": 72489,
+        "createdAt": "2020-10-12T16:14:06.000Z",
+        "updatedAt": "2021-06-06T02:30:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

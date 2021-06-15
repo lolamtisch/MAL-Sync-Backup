@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "モドキドモ"
+  ],
+  "authors": [
+    "Nana Aokawa"
+  ],
+  "id": 100386,
+  "malId": 100166,
+  "type": "manga",
+  "title": "Modokidomo",
+  "url": "https://anilist.co/manga/100386",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b100386-g6eQ4FryqVrl.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:45.000Z",
+  "updatedAt": "2021-05-20T14:54:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d24d0d72-77a7-4e4d-bce3-aba5c9eb3162": {
+        "authors": [
+          "Aokawa Nana"
+        ],
+        "identifier": "d24d0d72-77a7-4e4d-bce3-aba5c9eb3162",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Modokidomo",
+        "url": "https://mangadex.org/title/d24d0d72-77a7-4e4d-bce3-aba5c9eb3162",
+        "image": "https://uploads.mangadex.org/covers/d24d0d72-77a7-4e4d-bce3-aba5c9eb3162/2ded79e4-f3ca-4e50-b6a3-bc7863961ad4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100166,
+        "aniId": 100386,
+        "createdAt": "2020-10-12T16:11:04.000Z",
+        "updatedAt": "2021-06-05T05:28:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "modokidomo": {
+        "authors": [],
+        "identifier": "modokidomo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Modokidomo",
+        "url": "https://manganelo.com/manga/modokidomo",
+        "image": "https://avt.mkklcdnv6.com/50/h/16-1583495275.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100166,
+        "aniId": 100386,
+        "createdAt": "2020-10-12T16:24:21.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

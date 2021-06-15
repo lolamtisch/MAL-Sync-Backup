@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "やろうぜ!",
+    "Let's Do It!",
+    "Yarouze"
+  ],
+  "authors": [
+    "Satoru Ishihara"
+  ],
+  "id": 49410,
+  "malId": 19410,
+  "type": "manga",
+  "title": "Yarouze!",
+  "url": "https://anilist.co/manga/49410",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19410.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:18.000Z",
+  "updatedAt": "2021-05-20T14:45:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "541704e8-387e-4102-b60b-03e024e24a86": {
+        "authors": [
+          "Ishihara Satoru"
+        ],
+        "identifier": "541704e8-387e-4102-b60b-03e024e24a86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yarouze!",
+        "url": "https://mangadex.org/title/541704e8-387e-4102-b60b-03e024e24a86",
+        "image": "https://uploads.mangadex.org/covers/541704e8-387e-4102-b60b-03e024e24a86/b0854268-98f2-418c-af14-cb34b0532924.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19410,
+        "aniId": 49410,
+        "createdAt": "2020-10-12T16:13:06.000Z",
+        "updatedAt": "2021-06-05T18:42:30.000Z",
+        "deletedAt": null
+      },
+      "8db880d5-a6ba-40fb-a56c-11f19c08d176": {
+        "authors": [
+          "",
+          "Satou Masashi"
+        ],
+        "identifier": "8db880d5-a6ba-40fb-a56c-11f19c08d176",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!",
+        "url": "https://mangadex.org/title/8db880d5-a6ba-40fb-a56c-11f19c08d176",
+        "image": "https://uploads.mangadex.org/covers/8db880d5-a6ba-40fb-a56c-11f19c08d176/945486ab-3073-4493-a6ad-26109def2a82.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19410,
+        "aniId": 49410,
+        "createdAt": "2020-10-12T16:19:02.000Z",
+        "updatedAt": "2021-06-07T21:06:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

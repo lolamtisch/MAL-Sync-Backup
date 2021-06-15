@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "GO!ヒロミGO!",
+    "Go Hiromi Go"
+  ],
+  "authors": [
+    "Mikoto Asou"
+  ],
+  "id": 35925,
+  "malId": 5925,
+  "type": "manga",
+  "title": "Go! Hiromi Go!",
+  "url": "https://anilist.co/manga/35925",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35925-KE7qVBfRZ5Dw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:35.000Z",
+  "updatedAt": "2021-06-03T22:52:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "966bbfdd-641b-4ac0-9f8c-79c4a067ca62": {
+        "authors": [
+          "ASOU Mikoto"
+        ],
+        "identifier": "966bbfdd-641b-4ac0-9f8c-79c4a067ca62",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Go, Hiromi Go!",
+        "url": "https://mangadex.org/title/966bbfdd-641b-4ac0-9f8c-79c4a067ca62",
+        "image": "https://uploads.mangadex.org/covers/966bbfdd-641b-4ac0-9f8c-79c4a067ca62/b482bc99-535f-4107-bb77-ba10692cf806.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5925,
+        "aniId": 35925,
+        "createdAt": "2020-10-12T16:06:52.000Z",
+        "updatedAt": "2021-06-03T23:08:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "go_hiromi_go": {
+        "authors": [],
+        "identifier": "go_hiromi_go",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Go! Hiromi, Go!",
+        "url": "https://manganelo.com/manga/go_hiromi_go",
+        "image": "https://avt.mkklcdnv6.com/15/q/9-1583480688.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5925,
+        "aniId": 35925,
+        "createdAt": "2020-10-12T16:23:08.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "go_hiromi_go": {
+        "authors": [
+          "ASOU Mikoto"
+        ],
+        "identifier": "go_hiromi_go",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Go! Hiromi, Go!",
+        "url": "https://fanfox.net/manga/go_hiromi_go/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3028/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5925,
+        "aniId": 35925,
+        "createdAt": "2021-02-10T00:40:32.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

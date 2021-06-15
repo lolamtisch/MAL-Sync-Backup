@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Iketeru Police",
+    "イケてる刑事"
+  ],
+  "authors": [
+    "Takashi Sano"
+  ],
+  "id": 86909,
+  "malId": 8841,
+  "type": "manga",
+  "title": "Iketeru Keiji",
+  "url": "https://anilist.co/manga/86909",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56909-qGcz7XDaCLTe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:52.000Z",
+  "updatedAt": "2021-05-20T14:40:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "351c8e15-4cba-4ce5-a3c3-fe3ecb2aea40": {
+        "authors": [
+          "Sano Takashi"
+        ],
+        "identifier": "351c8e15-4cba-4ce5-a3c3-fe3ecb2aea40",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Iketeru Keiji",
+        "url": "https://mangadex.org/title/351c8e15-4cba-4ce5-a3c3-fe3ecb2aea40",
+        "image": "https://uploads.mangadex.org/covers/351c8e15-4cba-4ce5-a3c3-fe3ecb2aea40/d83b99bd-92a7-498c-a8af-f3d6f78b0371.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8841,
+        "aniId": 86909,
+        "createdAt": "2020-10-12T16:04:23.000Z",
+        "updatedAt": "2021-06-02T20:40:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

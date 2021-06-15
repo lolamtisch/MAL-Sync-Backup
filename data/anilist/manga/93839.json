@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "アイツとカノジョと魔法の手",
+    "Last Wish"
+  ],
+  "authors": [
+    "Yuka Shibano"
+  ],
+  "id": 93839,
+  "malId": 86059,
+  "type": "manga",
+  "title": "Aitsu to Kanojo to Mahou no Te",
+  "url": "https://anilist.co/manga/93839",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93839-KPAAPEU8Ac5w.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:42.000Z",
+  "updatedAt": "2021-06-04T05:22:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fae8811d-320a-4cbe-bbc6-8adcf9db2a1e": {
+        "authors": [
+          "Shibano Yuka"
+        ],
+        "identifier": "fae8811d-320a-4cbe-bbc6-8adcf9db2a1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Last Wish",
+        "url": "https://mangadex.org/title/fae8811d-320a-4cbe-bbc6-8adcf9db2a1e",
+        "image": "https://uploads.mangadex.org/covers/fae8811d-320a-4cbe-bbc6-8adcf9db2a1e/42e076da-44d6-46ae-9112-cb2232fde939.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86059,
+        "aniId": 93839,
+        "createdAt": "2020-10-12T16:07:43.000Z",
+        "updatedAt": "2021-06-04T09:02:20.000Z",
+        "deletedAt": null
+      },
+      "ffb108cd-4b0e-43b7-bac2-6a8f17ceb13c": {
+        "authors": [
+          "SHIBANO Yuka"
+        ],
+        "identifier": "ffb108cd-4b0e-43b7-bac2-6a8f17ceb13c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aitsu to Kanojo to Mahou no Te",
+        "url": "https://mangadex.org/title/ffb108cd-4b0e-43b7-bac2-6a8f17ceb13c",
+        "image": "https://uploads.mangadex.org/covers/ffb108cd-4b0e-43b7-bac2-6a8f17ceb13c/afea16cd-a210-49ac-b8c3-d968e26577a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86059,
+        "aniId": 93839,
+        "createdAt": "2020-10-12T16:07:59.000Z",
+        "updatedAt": "2021-06-04T06:42:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

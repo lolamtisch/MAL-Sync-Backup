@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "君は恋を知らない",
+    "You don't know what love is"
+  ],
+  "authors": [
+    "Rin Narusaka"
+  ],
+  "id": 121937,
+  "malId": 118058,
+  "type": "manga",
+  "title": "Kimi wa Koi wo Shiranai",
+  "url": "https://anilist.co/manga/121937",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121937-HqtlhLp3TQt5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:58.000Z",
+  "updatedAt": "2021-05-20T14:57:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fb98d9a0-3013-4d15-8ce6-0ea133f8e1c8": {
+        "authors": [
+          "Narusaka Rin"
+        ],
+        "identifier": "fb98d9a0-3013-4d15-8ce6-0ea133f8e1c8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi wa Koi o Shiranai",
+        "url": "https://mangadex.org/title/fb98d9a0-3013-4d15-8ce6-0ea133f8e1c8",
+        "image": "https://uploads.mangadex.org/covers/fb98d9a0-3013-4d15-8ce6-0ea133f8e1c8/41efc423-3415-4c04-a907-9582af633eae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118058,
+        "aniId": 121937,
+        "createdAt": "2020-10-12T16:20:45.000Z",
+        "updatedAt": "2021-06-08T00:53:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

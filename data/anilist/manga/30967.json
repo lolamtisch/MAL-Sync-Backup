@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "KUROZUKA―黒塚―"
+  ],
+  "authors": [
+    "Baku Yumemakura",
+    "Takashi Noguchi"
+  ],
+  "id": 30967,
+  "malId": 967,
+  "type": "manga",
+  "title": "Kurozuka",
+  "url": "https://anilist.co/manga/30967",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30967-rRCM5a79en7r.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "265b53b5-f9dc-489d-b0ac-d3fd14584b8e": {
+        "authors": [
+          "Noguchi Takashi",
+          "Yumemakura Baku"
+        ],
+        "identifier": "265b53b5-f9dc-489d-b0ac-d3fd14584b8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kurozuka",
+        "url": "https://mangadex.org/title/265b53b5-f9dc-489d-b0ac-d3fd14584b8e",
+        "image": "https://uploads.mangadex.org/covers/265b53b5-f9dc-489d-b0ac-d3fd14584b8e/3843ad59-aff6-40a5-8e46-8c377601ac7f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 967,
+        "aniId": 30967,
+        "createdAt": "2020-10-12T16:04:27.000Z",
+        "updatedAt": "2021-06-02T21:08:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nl964946": {
+        "authors": [
+          "Yumemakura Baku"
+        ],
+        "identifier": "manga-nl964946",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kurozuka",
+        "url": "https://manganato.com/manga-nl964946",
+        "image": "https://avt.mkklcdnv6temp.com/46/f/9-1583482039.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 967,
+        "aniId": 30967,
+        "createdAt": "2021-06-01T17:01:29.000Z",
+        "updatedAt": "2021-06-01T17:31:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "AWOL: Absent Without Leave",
+    "エイウォール"
+  ],
+  "id": 12951,
+  "type": "anime",
+  "title": "AWOL",
+  "url": "https://myanimelist.net/anime/12951/AWOL",
+  "image": "https://cdn.myanimelist.net/images/anime/1042/94209.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2021-04-29T12:49:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "7q98": {
+        "identifier": "7q98",
+        "type": "anime",
+        "page": "9anime",
+        "title": "AWOL",
+        "url": "https://9anime.ru/watch/awol.7q98",
+        "image": "https://static.akacdn.ru/files/images/2019/09/fd25de949a50f29ab695bfe3baec722b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12951,
+        "aniId": 12951,
+        "createdAt": "2020-10-12T15:51:13.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "lvv3": {
+        "identifier": "lvv3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "AWOL (Dub)",
+        "url": "https://www12.9anime.to/watch/awol-dub.lvv3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/84/84d943ce937b8c64bac3bc5dd605282a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12951,
+        "aniId": 12951,
+        "createdAt": "2021-05-07T18:18:52.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2028": {
+        "identifier": "2028",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "AWOL",
+        "url": "https://aniwatch.me/anime/2028",
+        "image": "https://img.aniwatch.me/8B4D1E6CE588EBA881F386386B6BCD2E",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12951,
+        "aniId": 12951,
+        "createdAt": "2020-10-12T15:58:14.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "awol": {
+        "identifier": "awol",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "AWOL",
+        "url": "https://www10.gogoanime.io/category/awol",
+        "image": "https://cdnimg.xyz/cover/awol.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12951,
+        "aniId": 12951,
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

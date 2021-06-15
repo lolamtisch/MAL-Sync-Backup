@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "人間失格",
+    "No Longer Human"
+  ],
+  "authors": [
+    "Variety Art Works",
+    "Osamu Dazai"
+  ],
+  "id": 93328,
+  "malId": 82927,
+  "type": "manga",
+  "title": "Ningen Shikkaku",
+  "url": "https://anilist.co/manga/93328",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93328-Uqi8OrOiJkHf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:05.000Z",
+  "updatedAt": "2021-06-05T06:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "805e26e0-da4f-4c1d-9771-6beab114cd0b": {
+        "authors": [
+          "Dazai Osamu",
+          "Variety Art Works"
+        ],
+        "identifier": "805e26e0-da4f-4c1d-9771-6beab114cd0b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ningen Shikkaku (Variety Art Works)",
+        "url": "https://mangadex.org/title/805e26e0-da4f-4c1d-9771-6beab114cd0b",
+        "image": "https://uploads.mangadex.org/covers/805e26e0-da4f-4c1d-9771-6beab114cd0b/76ac3d15-9c53-4281-9b54-7fc103d43e9c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82927,
+        "aniId": 93328,
+        "createdAt": "2020-10-12T16:11:10.000Z",
+        "updatedAt": "2021-06-05T08:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ningen_shikkaku": {
+        "authors": [],
+        "identifier": "ningen_shikkaku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ningen Shikkaku",
+        "url": "https://manganelo.com/manga/ningen_shikkaku",
+        "image": "https://avt.mkklcdnv6.com/43/e/9-1583481912.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82927,
+        "aniId": 93328,
+        "createdAt": "2020-10-12T16:24:32.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nj964866": {
+        "authors": [
+          "Furuya",
+          "Usamaru",
+          "Dazai",
+          "Osamu"
+        ],
+        "identifier": "manga-nj964866",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ningen Shikkaku",
+        "url": "https://readmanganato.com/manga-nj964866",
+        "image": "https://avt.mkklcdnv6temp.com/43/e/9-1583481912.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82927,
+        "aniId": 93328,
+        "createdAt": "2021-06-06T18:19:10.000Z",
+        "updatedAt": "2021-06-06T18:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

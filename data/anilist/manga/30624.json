@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Cipher",
+    "CIPHER",
+    "サイファ"
+  ],
+  "authors": [
+    "Minako Narita"
+  ],
+  "id": 30624,
+  "malId": 624,
+  "type": "manga",
+  "title": "Cipher",
+  "url": "https://anilist.co/manga/30624",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30624-g3SAm3Hc9Y4o.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-06-05T15:49:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ae386377-b0e6-4096-92cd-1a2d60864400": {
+        "authors": [
+          "NARITA Minako"
+        ],
+        "identifier": "ae386377-b0e6-4096-92cd-1a2d60864400",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cipher",
+        "url": "https://mangadex.org/title/ae386377-b0e6-4096-92cd-1a2d60864400",
+        "image": "https://uploads.mangadex.org/covers/ae386377-b0e6-4096-92cd-1a2d60864400/2374b0b9-388d-44e9-a5e3-cbe4eb9293c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 624,
+        "aniId": 30624,
+        "createdAt": "2020-10-12T16:12:39.000Z",
+        "updatedAt": "2021-06-05T16:10:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cipher": {
+        "authors": [],
+        "identifier": "cipher",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cipher",
+        "url": "https://manganelo.com/manga/cipher",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3965-cipher.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 624,
+        "aniId": 30624,
+        "createdAt": "2020-10-12T16:22:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Princess Recipe",
+    "お姫様のレシピ",
+    "Angel Falling",
+    "The Light of the Moon",
+    "the Shimmer of Love",
+    "A Program that Loves"
+  ],
+  "authors": [
+    "Satoru Takamiya"
+  ],
+  "id": 31632,
+  "malId": 1632,
+  "type": "manga",
+  "title": "Princess Recipe",
+  "url": "https://anilist.co/manga/31632",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1632.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:49.000Z",
+  "updatedAt": "2021-06-03T17:49:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d4c0a4c8-48f9-4318-b9b1-1929860dc6f9": {
+        "authors": [
+          "TAKAMIYA Satoru"
+        ],
+        "identifier": "d4c0a4c8-48f9-4318-b9b1-1929860dc6f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ohimesama no Recipe",
+        "url": "https://mangadex.org/title/d4c0a4c8-48f9-4318-b9b1-1929860dc6f9",
+        "image": "https://uploads.mangadex.org/covers/d4c0a4c8-48f9-4318-b9b1-1929860dc6f9/9fc73062-312d-42be-9c92-262471f2eceb.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1632,
+        "aniId": 31632,
+        "createdAt": "2020-10-12T16:06:09.000Z",
+        "updatedAt": "2021-06-03T17:55:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "princess_recipe": {
+        "authors": [],
+        "identifier": "princess_recipe",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Princess Recipe",
+        "url": "https://manganelo.com/manga/princess_recipe",
+        "image": "https://avt.mkklcdnv6.com/6/x/12-1583486079.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1632,
+        "aniId": 31632,
+        "createdAt": "2020-10-12T16:24:54.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

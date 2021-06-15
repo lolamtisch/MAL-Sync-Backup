@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "都市枭雄系统",
+    "Metropolitan System"
+  ],
+  "authors": [
+    "Shanjun Tu"
+  ],
+  "id": 111735,
+  "malId": null,
+  "type": "manga",
+  "title": "Dushi Xiaoxiong Xitong",
+  "url": "https://anilist.co/manga/111735",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111735-56yTltuAI8gV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T10:08:18.000Z",
+  "updatedAt": "2021-05-24T10:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b9f8de37-18bc-4932-8793-7313cc3061c1": {
+        "authors": [
+          "Tu Jun"
+        ],
+        "identifier": "b9f8de37-18bc-4932-8793-7313cc3061c1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Metropolitan System",
+        "url": "https://mangadex.org/title/b9f8de37-18bc-4932-8793-7313cc3061c1",
+        "image": "https://uploads.mangadex.org/covers/b9f8de37-18bc-4932-8793-7313cc3061c1/222d92e6-2abe-457d-9d42-48a0112e033a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 111735,
+        "createdAt": "2020-10-12T16:15:36.000Z",
+        "updatedAt": "2021-06-06T15:51:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eo981471": {
+        "authors": [
+          "Tu Jun"
+        ],
+        "identifier": "manga-eo981471",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Metropolitan System",
+        "url": "https://manganato.com/manga-eo981471",
+        "image": "https://avt.mkklcdnv6temp.com/16/a/18-1583497713.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 111735,
+        "createdAt": "2021-06-02T06:01:31.000Z",
+        "updatedAt": "2021-06-02T06:01:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "altTitle": [
+    "エデン"
+  ],
+  "id": 19137,
+  "type": "anime",
+  "title": "EDEN",
+  "url": "https://myanimelist.net/anime/19137/EDEN",
+  "image": "https://cdn.myanimelist.net/images/anime/5/51349.jpg",
+  "category": "Music",
+  "hentai": false,
+  "createdAt": "2021-05-27T15:58:55.000Z",
+  "updatedAt": "2021-05-27T15:58:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "eden": {
+        "identifier": "eden",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eden",
+        "url": "https://gogoanime.ai/category/eden",
+        "image": "https://gogocdn.net/cover/eden.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19137,
+        "aniId": null,
+        "createdAt": "2021-05-27T15:58:56.000Z",
+        "updatedAt": "2021-05-27T15:58:56.000Z",
+        "deletedAt": null
+      },
+      "eden-dub": {
+        "identifier": "eden-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eden (Dub)",
+        "url": "https://gogoanime.ai/category/eden-dub",
+        "image": "https://gogocdn.net/cover/eden-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19137,
+        "aniId": null,
+        "createdAt": "2021-05-28T04:58:46.000Z",
+        "updatedAt": "2021-05-28T04:58:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

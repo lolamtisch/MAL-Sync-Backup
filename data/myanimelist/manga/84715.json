@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "息をとめて、うごかないで"
+  ],
+  "authors": [
+    "Arai, Yoshimi"
+  ],
+  "id": 84715,
+  "type": "manga",
+  "title": "Iki wo Tomete, Ugokanaide",
+  "url": "https://myanimelist.net/manga/84715/Iki_wo_Tomete_Ugokanaide",
+  "image": "https://cdn.myanimelist.net/images/manga/3/189740.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:42.000Z",
+  "updatedAt": "2021-06-05T10:49:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "824a2719-2f97-4577-8402-e053cb09f3a0": {
+        "authors": [
+          "Arai Yoshimi"
+        ],
+        "identifier": "824a2719-2f97-4577-8402-e053cb09f3a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Iki o Tomete, Ugokanai de",
+        "url": "https://mangadex.org/title/824a2719-2f97-4577-8402-e053cb09f3a0",
+        "image": "https://uploads.mangadex.org/covers/824a2719-2f97-4577-8402-e053cb09f3a0/7b1952d4-d34c-4ceb-b58b-4f88332c6b8a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84715,
+        "aniId": 100219,
+        "createdAt": "2020-10-12T16:11:44.000Z",
+        "updatedAt": "2021-06-05T12:43:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "iki_o_tomete_ugokanai_de": {
+        "authors": [
+          "Arai",
+          "Yoshimi"
+        ],
+        "identifier": "iki_o_tomete_ugokanai_de",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Iki O Tomete, Ugokanai De",
+        "url": "https://manganelo.com/manga/iki_o_tomete_ugokanai_de",
+        "image": "https://avt.mkklcdnv6temp.com/4/m/16-1583493624.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84715,
+        "aniId": 100219,
+        "createdAt": "2021-04-15T19:15:08.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

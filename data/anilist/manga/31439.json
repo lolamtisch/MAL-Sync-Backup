@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Love Pistols",
+    "SEX PISTOLS"
+  ],
+  "authors": [
+    "Tarako Kotobuki"
+  ],
+  "id": 31439,
+  "malId": 1439,
+  "type": "manga",
+  "title": "Sex Pistols",
+  "url": "https://anilist.co/manga/31439",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31439-jUnDJAxVTlfL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:44.000Z",
+  "updatedAt": "2021-05-20T14:36:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd74265a-5968-40b7-a3f6-b30b8bec6b70": {
+        "authors": [
+          "Kotobuki Tarako"
+        ],
+        "identifier": "bd74265a-5968-40b7-a3f6-b30b8bec6b70",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sex Pistols",
+        "url": "https://mangadex.org/title/bd74265a-5968-40b7-a3f6-b30b8bec6b70",
+        "image": "https://uploads.mangadex.org/covers/bd74265a-5968-40b7-a3f6-b30b8bec6b70/8a2c414b-f486-4da7-83c4-92ac6bf7c7c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1439,
+        "aniId": 31439,
+        "createdAt": "2020-10-12T16:05:05.000Z",
+        "updatedAt": "2021-06-03T10:07:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sex_pistols": {
+        "authors": [],
+        "identifier": "sex_pistols",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sex Pistols",
+        "url": "https://manganelo.com/manga/sex_pistols",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3347-sex_pistols.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1439,
+        "aniId": 31439,
+        "createdAt": "2020-10-12T16:25:23.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

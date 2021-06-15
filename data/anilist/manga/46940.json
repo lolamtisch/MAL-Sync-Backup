@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "バラバンバ 2"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 46940,
+  "malId": 16940,
+  "type": "manga",
+  "title": "Barabanba 2",
+  "url": "https://anilist.co/manga/46940",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16940.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:02.000Z",
+  "updatedAt": "2021-05-20T14:44:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86df704f-f6e9-4477-9492-15ffc8456a8b": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "86df704f-f6e9-4477-9492-15ffc8456a8b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Barabanba 2",
+        "url": "https://mangadex.org/title/86df704f-f6e9-4477-9492-15ffc8456a8b",
+        "image": "https://uploads.mangadex.org/covers/86df704f-f6e9-4477-9492-15ffc8456a8b/64c571e3-7704-42af-9e22-45a8e9b48392.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16940,
+        "aniId": 46940,
+        "createdAt": "2020-10-12T16:17:13.000Z",
+        "updatedAt": "2021-06-07T05:43:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

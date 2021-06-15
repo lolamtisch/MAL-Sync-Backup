@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Momoko Sakura",
+    "ちびまる子ちゃん"
+  ],
+  "authors": [
+    "Sakura, Momoko"
+  ],
+  "id": 15530,
+  "type": "manga",
+  "title": "Chibi Maruko-chan",
+  "url": "https://myanimelist.net/manga/15530/Chibi_Maruko-chan",
+  "image": "https://cdn.myanimelist.net/images/manga/3/22607.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:12.000Z",
+  "updatedAt": "2021-03-23T10:05:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "21a8efa7-8b64-41de-b61c-b4f94e2aed62": {
+        "authors": [
+          "Sakura Momoko"
+        ],
+        "identifier": "21a8efa7-8b64-41de-b61c-b4f94e2aed62",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chibi Maruko-chan",
+        "url": "https://mangadex.org/title/21a8efa7-8b64-41de-b61c-b4f94e2aed62",
+        "image": "https://uploads.mangadex.org/covers/21a8efa7-8b64-41de-b61c-b4f94e2aed62/b49e49c1-fe84-4f26-aae2-676ae5f907d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15530,
+        "aniId": 45530,
+        "createdAt": "2020-10-12T16:06:49.000Z",
+        "updatedAt": "2021-06-03T22:23:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "chibi-maruko-chan": {
+        "authors": [
+          "SAKURA Momoko"
+        ],
+        "identifier": "chibi-maruko-chan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Chibi Maruko-chan",
+        "url": "https://mangasee123.com/manga/Chibi-Maruko-Chan",
+        "image": "https://cover.nep.li/cover/Chibi-Maruko-Chan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15530,
+        "aniId": 45530,
+        "createdAt": "2021-03-23T10:05:12.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

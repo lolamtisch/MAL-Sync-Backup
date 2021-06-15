@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Jewel of Midnight",
+    "Jewelry at Midnight"
+  ],
+  "authors": [
+    "Miyabi Asami"
+  ],
+  "id": 32163,
+  "malId": 2163,
+  "type": "manga",
+  "title": "Mayonaka no Jewel",
+  "url": "https://anilist.co/manga/32163",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2163.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2b9d854d-a7f9-442a-a314-b69602dbc255": {
+        "authors": [
+          "Asami Miyabi"
+        ],
+        "identifier": "2b9d854d-a7f9-442a-a314-b69602dbc255",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayonaka no Jewel",
+        "url": "https://mangadex.org/title/2b9d854d-a7f9-442a-a314-b69602dbc255",
+        "image": "https://uploads.mangadex.org/covers/2b9d854d-a7f9-442a-a314-b69602dbc255/e12b943f-821d-412b-bef2-37f4e2d31680.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2163,
+        "aniId": 32163,
+        "createdAt": "2020-10-12T16:04:58.000Z",
+        "updatedAt": "2021-06-03T09:23:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

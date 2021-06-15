@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yuki Hiama"
+  ],
+  "id": 32519,
+  "malId": 2519,
+  "type": "manga",
+  "title": "Bokudake no Peach Sapuri",
+  "url": "https://anilist.co/manga/32519",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2519.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e54b454c-cef0-4a71-a445-9e94b693875f": {
+        "authors": [
+          "Hiama Yuki"
+        ],
+        "identifier": "e54b454c-cef0-4a71-a445-9e94b693875f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bokudake no Peach Sapuri",
+        "url": "https://mangadex.org/title/e54b454c-cef0-4a71-a445-9e94b693875f",
+        "image": "https://uploads.mangadex.org/covers/e54b454c-cef0-4a71-a445-9e94b693875f/6a59421b-23e6-4ead-9d0d-672e9d75512b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2519,
+        "aniId": 32519,
+        "createdAt": "2020-10-12T16:13:06.000Z",
+        "updatedAt": "2021-06-05T18:53:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

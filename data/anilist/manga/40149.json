@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "少年ドールズ",
+    "Boy Dolls"
+  ],
+  "authors": [
+    "Wataru Hibiki"
+  ],
+  "id": 40149,
+  "malId": 10149,
+  "type": "manga",
+  "title": "Shounen Dolls",
+  "url": "https://anilist.co/manga/40149",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40149-np25PYotovns.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "63e7e1ea-6515-4fec-9db3-64f16d0f4465": {
+        "authors": [
+          "HIBIKI Wataru"
+        ],
+        "identifier": "63e7e1ea-6515-4fec-9db3-64f16d0f4465",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shounen Dolls",
+        "url": "https://mangadex.org/title/63e7e1ea-6515-4fec-9db3-64f16d0f4465",
+        "image": "https://uploads.mangadex.org/covers/63e7e1ea-6515-4fec-9db3-64f16d0f4465/7b97ff12-48a9-4c04-8db4-377288e8cb2d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10149,
+        "aniId": 40149,
+        "createdAt": "2020-10-12T16:03:16.000Z",
+        "updatedAt": "2021-06-02T12:48:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

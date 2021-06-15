@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "PINK GOLD ピンクゴールド"
+  ],
+  "authors": [
+    "Kyouko Aiba",
+    "Hinako",
+    "Sakira",
+    "Kaname Ishida",
+    "Mano Sakamoto",
+    "Hatoko Machiya",
+    "Sera",
+    "Asumiko Nakamura",
+    "Reibun Ike",
+    "Youka Nitta",
+    "Rin Narusaka",
+    "Gou Sasamura",
+    "Youko Toriumi",
+    "Yuu Higashino",
+    "Mio Tennouji",
+    "Shouko Takaku",
+    "Haruka Minami",
+    "Ayano Yamane",
+    "Miz Hashiba",
+    "Ranmaru Zaria",
+    "Megumi Kitano",
+    "Hideyoshico",
+    "Saeko Kamon",
+    "Asia Watanabe",
+    "Ryou Sakurai"
+  ],
+  "id": 89610,
+  "malId": 62877,
+  "type": "manga",
+  "title": "Pink Gold",
+  "url": "https://anilist.co/manga/89610",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89610-Z9Ah5wg59j7n.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:50:47.000Z",
+  "updatedAt": "2021-06-06T18:49:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6d38380-85bb-4b35-99c3-6e2742798ae9": {
+        "authors": [
+          "Sasamura Gou"
+        ],
+        "identifier": "d6d38380-85bb-4b35-99c3-6e2742798ae9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Abakareru Yoru",
+        "url": "https://mangadex.org/title/d6d38380-85bb-4b35-99c3-6e2742798ae9",
+        "image": "https://uploads.mangadex.org/covers/d6d38380-85bb-4b35-99c3-6e2742798ae9/33c38e6a-aca1-493b-8506-3c063ee3555c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 62877,
+        "aniId": 89610,
+        "createdAt": "2020-10-12T16:11:31.000Z",
+        "updatedAt": "2021-06-05T09:00:50.000Z",
+        "deletedAt": null
+      },
+      "417ddbc2-9e6b-4c9c-bdeb-24d47e9a6357": {
+        "authors": [
+          "Aiba Kyoko"
+        ],
+        "identifier": "417ddbc2-9e6b-4c9c-bdeb-24d47e9a6357",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pick Up",
+        "url": "https://mangadex.org/title/417ddbc2-9e6b-4c9c-bdeb-24d47e9a6357",
+        "image": "https://uploads.mangadex.org/covers/417ddbc2-9e6b-4c9c-bdeb-24d47e9a6357/9e288096-a4f6-462d-a216-0b105a3f97d6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 62877,
+        "aniId": 89610,
+        "createdAt": "2020-10-12T16:15:58.000Z",
+        "updatedAt": "2021-06-06T18:58:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

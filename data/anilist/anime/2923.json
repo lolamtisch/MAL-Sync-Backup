@@ -1,0 +1,77 @@
+{
+  "altTitle": [
+    "Shugo Chara!",
+    "しゅごキャラ！",
+    "Guardian Character!"
+  ],
+  "id": 2923,
+  "malId": 2923,
+  "type": "anime",
+  "title": "Shugo Chara!",
+  "url": "https://anilist.co/anime/2923",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2923-4gO5g4PBcoxy.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:31.000Z",
+  "updatedAt": "2021-05-20T14:36:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "1nqx": {
+        "identifier": "1nqx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shugo Chara!",
+        "url": "https://9anime.ru/watch/shugo-chara.1nqx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-avjFajTgcyQ/V45iXVE-UPI/AAAAAAAAweE/owntymq18g8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 2923,
+        "createdAt": "2020-10-12T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2188": {
+        "identifier": "2188",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Shugo Chara!",
+        "url": "https://aniwatch.me/anime/2188",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 2923,
+        "createdAt": "2020-10-12T15:58:18.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "shugo%20chara!": {
+        "identifier": "shugo%20chara!",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Shugo Chara!",
+        "url": "https://www.crunchyroll.com/shugo-chara?media_id=509988",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/e65e3ed84ffe277efa96a5e8d20771661230018456_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 2923,
+        "createdAt": "2020-10-25T08:28:49.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

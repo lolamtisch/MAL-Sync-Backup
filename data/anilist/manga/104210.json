@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "I'm From Japan",
+    "ジモトがジャパン"
+  ],
+  "authors": [
+    "Seiji Hayashi"
+  ],
+  "id": 104210,
+  "malId": 115523,
+  "type": "manga",
+  "title": "Jimoto ga Japan",
+  "url": "https://anilist.co/manga/104210",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104210-I2RFmkZV9Z8L.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:18.000Z",
+  "updatedAt": "2021-05-20T14:57:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "35b7de88-7e9c-49e2-b62c-2da174fa111b": {
+        "authors": [
+          "Hayashi Seiji"
+        ],
+        "identifier": "35b7de88-7e9c-49e2-b62c-2da174fa111b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jimoto ga Japan",
+        "url": "https://mangadex.org/title/35b7de88-7e9c-49e2-b62c-2da174fa111b",
+        "image": "https://uploads.mangadex.org/covers/35b7de88-7e9c-49e2-b62c-2da174fa111b/aeb1cba9-49b8-42a5-b4e8-2a3c986bbbcb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115523,
+        "aniId": 104210,
+        "createdAt": "2020-10-12T16:15:26.000Z",
+        "updatedAt": "2021-06-06T13:41:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

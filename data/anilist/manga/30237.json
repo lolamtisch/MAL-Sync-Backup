@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Dear Myself",
+    "ディア・マイセルフ"
+  ],
+  "authors": [
+    "Mikiyo Tsuda",
+    "Eiki Eiki"
+  ],
+  "id": 30237,
+  "malId": 237,
+  "type": "manga",
+  "title": "Dear Myself",
+  "url": "https://anilist.co/manga/30237",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30237-JajbcnWt75ff.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2937a8cd-e8e8-4c2a-9ba7-634357434b60": {
+        "authors": [
+          "Tsuge Amayo"
+        ],
+        "identifier": "2937a8cd-e8e8-4c2a-9ba7-634357434b60",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kawaii Beast",
+        "url": "https://mangadex.org/title/2937a8cd-e8e8-4c2a-9ba7-634357434b60",
+        "image": "https://uploads.mangadex.org/covers/2937a8cd-e8e8-4c2a-9ba7-634357434b60/e04abe87-9037-40b2-9654-89bfbb4388a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 237,
+        "aniId": 30237,
+        "createdAt": "2020-10-12T16:09:10.000Z",
+        "updatedAt": "2021-06-04T15:35:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "me920792": {
+        "authors": [],
+        "identifier": "me920792",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "By Myself",
+        "url": "https://manganelo.com/manga/me920792",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2189-me920792.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 237,
+        "aniId": 30237,
+        "createdAt": "2020-10-12T16:24:17.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

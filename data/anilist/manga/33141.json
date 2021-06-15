@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Tears of a Lamb",
+    "ひつじの涙"
+  ],
+  "authors": [
+    "Banri Hidaka"
+  ],
+  "id": 33141,
+  "malId": 3141,
+  "type": "manga",
+  "title": "Hitsuji no Namida",
+  "url": "https://anilist.co/manga/33141",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33141-hz72eZJM4awM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c58f0898-084c-492c-9c86-eed7809f12bb": {
+        "authors": [
+          "Hidaka Banri"
+        ],
+        "identifier": "c58f0898-084c-492c-9c86-eed7809f12bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hitsuji no Namida",
+        "url": "https://mangadex.org/title/c58f0898-084c-492c-9c86-eed7809f12bb",
+        "image": "https://uploads.mangadex.org/covers/c58f0898-084c-492c-9c86-eed7809f12bb/65593ea9-deb7-4ecf-a71c-5293b684959d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3141,
+        "aniId": 33141,
+        "createdAt": "2020-10-12T16:05:14.000Z",
+        "updatedAt": "2021-06-03T11:09:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

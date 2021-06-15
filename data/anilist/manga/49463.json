@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "回游の森",
+    "Paseos por el Bosque"
+  ],
+  "authors": [
+    "Yaku Haibara"
+  ],
+  "id": 49463,
+  "malId": 19463,
+  "type": "manga",
+  "title": "Kaiyuu no Mori",
+  "url": "https://anilist.co/manga/49463",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19463.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:22.000Z",
+  "updatedAt": "2021-05-20T14:45:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f9fc84f7-d2ee-40d4-9a53-83d770acc8fe": {
+        "authors": [
+          "Haibara Yaku"
+        ],
+        "identifier": "f9fc84f7-d2ee-40d4-9a53-83d770acc8fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Migratory Forest &ndash; A Collection of Walks",
+        "url": "https://mangadex.org/title/f9fc84f7-d2ee-40d4-9a53-83d770acc8fe",
+        "image": "https://uploads.mangadex.org/covers/f9fc84f7-d2ee-40d4-9a53-83d770acc8fe/e71110cb-5495-4706-9f65-85edf6a59a2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19463,
+        "aniId": 49463,
+        "createdAt": "2020-10-12T16:10:56.000Z",
+        "updatedAt": "2021-06-05T04:26:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

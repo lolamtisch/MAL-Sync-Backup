@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "ばくおん!!"
+  ],
+  "authors": [
+    "Orimoto, Mimana"
+  ],
+  "id": 31337,
+  "type": "manga",
+  "title": "Bakuon!!",
+  "url": "https://myanimelist.net/manga/31337/Bakuon",
+  "image": "https://cdn.myanimelist.net/images/manga/2/114503.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:43.000Z",
+  "updatedAt": "2021-05-09T18:18:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d20c0f5-5ded-4799-b753-2ef852faee8d": {
+        "authors": [
+          "Orimoto Mimana"
+        ],
+        "identifier": "7d20c0f5-5ded-4799-b753-2ef852faee8d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bakuon!!",
+        "url": "https://mangadex.org/title/7d20c0f5-5ded-4799-b753-2ef852faee8d",
+        "image": "https://uploads.mangadex.org/covers/7d20c0f5-5ded-4799-b753-2ef852faee8d/1e986547-f2e9-4401-84bc-eb9c3a8a8e61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31337,
+        "aniId": 61337,
+        "createdAt": "2020-10-12T16:07:07.000Z",
+        "updatedAt": "2021-06-04T00:33:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "uzfn321573917210": {
+        "authors": [],
+        "identifier": "uzfn321573917210",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bakuon!!",
+        "url": "https://manganelo.com/manga/uzfn321573917210",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/27-bakuon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31337,
+        "aniId": 61337,
+        "createdAt": "2020-10-12T16:26:00.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bakuon": {
+        "authors": [
+          "ORIMOTO Mimana"
+        ],
+        "identifier": "bakuon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bakuon!!",
+        "url": "https://fanfox.net/manga/bakuon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13649/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31337,
+        "aniId": 61337,
+        "createdAt": "2021-05-09T18:18:57.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

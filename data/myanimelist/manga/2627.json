@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "missing children",
+    "Lost Children",
+    "迷仔"
+  ],
+  "authors": [
+    "Homerun Ken"
+  ],
+  "id": 2627,
+  "type": "manga",
+  "title": "Maigo",
+  "url": "https://myanimelist.net/manga/2627/Maigo",
+  "image": "https://cdn.myanimelist.net/images/manga/1/129961.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:44.000Z",
+  "updatedAt": "2021-04-27T16:50:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f0f10e6-b2dc-43a4-b17a-e69174be0054": {
+        "authors": [
+          "Homerun Ken"
+        ],
+        "identifier": "4f0f10e6-b2dc-43a4-b17a-e69174be0054",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maigo",
+        "url": "https://mangadex.org/title/4f0f10e6-b2dc-43a4-b17a-e69174be0054",
+        "image": "https://uploads.mangadex.org/covers/4f0f10e6-b2dc-43a4-b17a-e69174be0054/1a603b29-c9bd-4761-aa48-5dbfd591d0d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2627,
+        "aniId": 32627,
+        "createdAt": "2020-10-12T16:03:01.000Z",
+        "updatedAt": "2021-06-02T11:13:01.000Z",
+        "deletedAt": null
+      },
+      "164a76b2-8b50-4500-808a-150ed327877a": {
+        "authors": [
+          "Fujitani Youko"
+        ],
+        "identifier": "164a76b2-8b50-4500-808a-150ed327877a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Unmei wa Maigo",
+        "url": "https://mangadex.org/title/164a76b2-8b50-4500-808a-150ed327877a",
+        "image": "https://uploads.mangadex.org/covers/164a76b2-8b50-4500-808a-150ed327877a/a76b224d-7453-482b-8034-507f525f41a4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2627,
+        "aniId": 32627,
+        "createdAt": "2020-10-12T16:15:38.000Z",
+        "updatedAt": "2021-06-06T15:30:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

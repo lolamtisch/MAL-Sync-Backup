@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Ｄ‐ＡＳＨ ダッシュ",
+    "대시"
+  ],
+  "authors": [
+    "Manabu Akishige",
+    "Miya Kitazawa"
+  ],
+  "id": 31640,
+  "malId": 1640,
+  "type": "manga",
+  "title": "D-Ash",
+  "url": "https://anilist.co/manga/31640",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31640-LNoC8zenpEPl.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:49.000Z",
+  "updatedAt": "2021-05-20T14:36:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a07a82d-c2b1-4c2f-b50e-a231099188e2": {
+        "authors": [
+          "Kitazawa Miya",
+          "Akishige Manabu"
+        ],
+        "identifier": "8a07a82d-c2b1-4c2f-b50e-a231099188e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "D-ASH",
+        "url": "https://mangadex.org/title/8a07a82d-c2b1-4c2f-b50e-a231099188e2",
+        "image": "https://uploads.mangadex.org/covers/8a07a82d-c2b1-4c2f-b50e-a231099188e2/1c17621a-ad81-461f-b456-9a1f92ff7a48.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1640,
+        "aniId": 31640,
+        "createdAt": "2020-10-12T16:03:33.000Z",
+        "updatedAt": "2021-06-02T14:50:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

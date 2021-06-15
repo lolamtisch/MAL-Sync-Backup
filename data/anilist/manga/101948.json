@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Struck with Desire",
+    "性癖ストライク",
+    "False Strike"
+  ],
+  "authors": [
+    "Kazuhiko Mishima"
+  ],
+  "id": 101948,
+  "malId": 115862,
+  "type": "manga",
+  "title": "Seiheki Strike",
+  "url": "https://anilist.co/manga/101948",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101948-eQcIJqWz7Xwp.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:20.000Z",
+  "updatedAt": "2021-06-05T17:49:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "563799e2-a0ee-44db-a7fc-33bb6d5c51ae": {
+        "authors": [
+          "Mishima Kazuhiko"
+        ],
+        "identifier": "563799e2-a0ee-44db-a7fc-33bb6d5c51ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seiheki Strike",
+        "url": "https://mangadex.org/title/563799e2-a0ee-44db-a7fc-33bb6d5c51ae",
+        "image": "https://uploads.mangadex.org/covers/563799e2-a0ee-44db-a7fc-33bb6d5c51ae/79c68b5f-4891-4a6f-8646-3aa35ead5430.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115862,
+        "aniId": 101948,
+        "createdAt": "2020-10-12T16:12:55.000Z",
+        "updatedAt": "2021-06-05T17:58:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tz918880": {
+        "authors": [],
+        "identifier": "tz918880",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Truck-Kun",
+        "url": "https://manganelo.com/manga/tz918880",
+        "image": "https://avt.mkklcdnv6.com/11/n/18-1583497528.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115862,
+        "aniId": 101948,
+        "createdAt": "2020-10-12T16:25:52.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

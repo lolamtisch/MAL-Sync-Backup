@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "Alice & Zoroku",
+    "アリスと蔵六"
+  ],
+  "authors": [
+    "Tetsuya Imai"
+  ],
+  "id": 93660,
+  "malId": 84911,
+  "type": "manga",
+  "title": "Alice to Zouroku",
+  "url": "https://anilist.co/manga/93660",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93660-1QxCxrG8pPm0.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:36.000Z",
+  "updatedAt": "2021-05-20T14:52:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3cdc35ec-4146-415b-925f-20b8082d4c01": {
+        "authors": [
+          "Imai Tetsuya"
+        ],
+        "identifier": "3cdc35ec-4146-415b-925f-20b8082d4c01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice to Zouroku",
+        "url": "https://mangadex.org/title/3cdc35ec-4146-415b-925f-20b8082d4c01",
+        "image": "https://uploads.mangadex.org/covers/3cdc35ec-4146-415b-925f-20b8082d4c01/6ae369bf-dd7b-4b26-a172-0bf561bc2f7a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84911,
+        "aniId": 93660,
+        "createdAt": "2020-10-12T16:11:04.000Z",
+        "updatedAt": "2021-06-05T05:26:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ed917551": {
+        "authors": [
+          "Imai",
+          "Tetsuya"
+        ],
+        "identifier": "ed917551",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Alice & Zoroku",
+        "url": "https://manganelo.com/manga/ed917551",
+        "image": "https://avt.mkklcdnv6.com/13/a/17-1583495734.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 84911,
+        "aniId": 93660,
+        "createdAt": "2020-10-26T01:42:56.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "alice-to-zouroku": {
+        "authors": [
+          "IMAI Tetsuya"
+        ],
+        "identifier": "alice-to-zouroku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Alice to Zouroku",
+        "url": "https://mangasee123.com/manga/Alice-To-Zouroku",
+        "image": "https://cover.nep.li/cover/Alice-To-Zouroku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84911,
+        "aniId": 93660,
+        "createdAt": "2021-03-25T18:19:28.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cl980020": {
+        "authors": [
+          "Imai Tetsuya"
+        ],
+        "identifier": "manga-cl980020",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Alice & Zoroku",
+        "url": "https://manganato.com/manga-cl980020",
+        "image": "https://avt.mkklcdnv6temp.com/13/a/17-1583495734.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84911,
+        "aniId": 93660,
+        "createdAt": "2021-06-09T06:30:46.000Z",
+        "updatedAt": "2021-06-09T06:35:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "authors": [
+    "MORI Kaoru"
+  ],
+  "identifier": "emma",
+  "type": "manga",
+  "page": "MangaFox",
+  "title": "Emma",
+  "url": "https://fanfox.net/manga/emma/",
+  "image": "https://fmcdn.mfcdn.net/store/manga/543/cover.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 729,
+  "aniId": 30729,
+  "createdAt": "2021-04-27T15:21:24.000Z",
+  "updatedAt": "2021-05-20T15:39:24.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Emma",
+      "Emma Bangaihen, Emma Bangai-hen, Emma Further Tales, Victorian Romance Emma",
+      "エマ"
+    ],
+    "authors": [
+      "Mori, Kaoru"
+    ],
+    "id": 729,
+    "type": "manga",
+    "title": "Emma",
+    "url": "https://myanimelist.net/manga/729/Emma",
+    "image": "https://cdn.myanimelist.net/images/manga/1/161059.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2021-06-02T17:01:03.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Emma",
+      "エマ",
+      "Emma Bangaihen",
+      "Emma Bangai hen",
+      "Emma Further Tales",
+      "Victorian Romance Emma"
+    ],
+    "authors": [
+      "Kaoru Mori",
+      "Abigail Blackman",
+      "Sheldon Drzka",
+      "Eve Chauviré",
+      "Marta Gallego",
+      "Janice Chiang",
+      "Tatsuji Ohikata",
+      "Nacha Medrano",
+      "Cora Hartwig"
+    ],
+    "id": 30729,
+    "malId": 729,
+    "type": "manga",
+    "title": "Emma",
+    "url": "https://anilist.co/manga/30729",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30729-oBQFQX1m4QXK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:43.000Z",
+    "updatedAt": "2021-05-20T14:35:43.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/729/Emma"
+}

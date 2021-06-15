@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "9, Nine",
+    "NeuN"
+  ],
+  "authors": [
+    "Takahashi, Tsutomu"
+  ],
+  "id": 103622,
+  "type": "manga",
+  "title": "NeuN",
+  "url": "https://myanimelist.net/manga/103622/NeuN",
+  "image": "https://cdn.myanimelist.net/images/manga/2/200227.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:49.000Z",
+  "updatedAt": "2021-04-20T13:44:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7a9e7e02-0ac1-4130-b097-4c495e523db0": {
+        "authors": [
+          "Hwang Youngchan",
+          "Jung Jae-han"
+        ],
+        "identifier": "7a9e7e02-0ac1-4130-b097-4c495e523db0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Be Heun",
+        "url": "https://mangadex.org/title/7a9e7e02-0ac1-4130-b097-4c495e523db0",
+        "image": "https://uploads.mangadex.org/covers/7a9e7e02-0ac1-4130-b097-4c495e523db0/d1300125-b519-46af-8e4a-b6e4a7122804.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103622,
+        "aniId": 98835,
+        "createdAt": "2020-10-12T16:02:24.000Z",
+        "updatedAt": "2021-06-02T06:36:34.000Z",
+        "deletedAt": null
+      },
+      "91137421-8b28-4500-86aa-ef22e838262b": {
+        "authors": [
+          "Takahashi Tsutomu"
+        ],
+        "identifier": "91137421-8b28-4500-86aa-ef22e838262b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "NeuN",
+        "url": "https://mangadex.org/title/91137421-8b28-4500-86aa-ef22e838262b",
+        "image": "https://uploads.mangadex.org/covers/91137421-8b28-4500-86aa-ef22e838262b/15632c15-9cb3-4511-93f1-4f4b943fec5e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103622,
+        "aniId": 98835,
+        "createdAt": "2020-10-12T16:10:36.000Z",
+        "updatedAt": "2021-06-05T02:00:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "neun": {
+        "authors": [],
+        "identifier": "neun",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Neun",
+        "url": "https://manganelo.com/manga/neun",
+        "image": "https://avt.mkklcdnv6.com/16/o/15-1583492057.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103622,
+        "aniId": 98835,
+        "createdAt": "2020-10-12T16:24:31.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

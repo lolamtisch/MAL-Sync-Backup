@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Million Tears",
+    "ひゃくまんつぶの涙",
+    "A Million Tear Drops",
+    "Des milliers de larmes"
+  ],
+  "authors": [
+    "Yuana Kazumi",
+    "Alethea Nibley",
+    "Athena Nibley"
+  ],
+  "id": 31724,
+  "malId": 1724,
+  "type": "manga",
+  "title": "Hyakuman Tsubu no Namida",
+  "url": "https://anilist.co/manga/31724",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31724-yJVdPe7pXA1H.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f6540971-019c-4ad8-8318-570cba2d99c3": {
+        "authors": [
+          "Kazumi Yuana"
+        ],
+        "identifier": "f6540971-019c-4ad8-8318-570cba2d99c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hyakuman Tsubu no Namida",
+        "url": "https://mangadex.org/title/f6540971-019c-4ad8-8318-570cba2d99c3",
+        "image": "https://uploads.mangadex.org/covers/f6540971-019c-4ad8-8318-570cba2d99c3/ed9204b6-c024-4b59-8735-45f638bc7aa6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1724,
+        "aniId": 31724,
+        "createdAt": "2020-10-12T16:04:47.000Z",
+        "updatedAt": "2021-06-02T23:20:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hyakuman-tsubu-no-namida": {
+        "authors": [
+          "KAZUMI Yuana"
+        ],
+        "identifier": "hyakuman-tsubu-no-namida",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Million Tears",
+        "url": "https://mangasee123.com/manga/Hyakuman-Tsubu-No-Namida",
+        "image": "https://cover.nep.li/cover/Hyakuman-Tsubu-No-Namida.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1724,
+        "aniId": 31724,
+        "createdAt": "2021-05-23T06:13:49.000Z",
+        "updatedAt": "2021-05-23T06:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

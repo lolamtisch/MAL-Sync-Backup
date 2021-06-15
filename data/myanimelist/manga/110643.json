@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "僕を悪い子にして"
+  ],
+  "authors": [
+    "Haida, Nanako"
+  ],
+  "id": 110643,
+  "type": "manga",
+  "title": "Boku wo Warui Ko ni Shite",
+  "url": "https://myanimelist.net/manga/110643/Boku_wo_Warui_Ko_ni_Shite",
+  "image": "https://cdn.myanimelist.net/images/manga/1/206373.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:19.000Z",
+  "updatedAt": "2021-01-26T18:38:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "770f91fe-acaf-48c8-9d21-3aaf4af5ec7e": {
+        "authors": [
+          "Haida Nanako"
+        ],
+        "identifier": "770f91fe-acaf-48c8-9d21-3aaf4af5ec7e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku o Warui Ko ni Shite",
+        "url": "https://mangadex.org/title/770f91fe-acaf-48c8-9d21-3aaf4af5ec7e",
+        "image": "https://uploads.mangadex.org/covers/770f91fe-acaf-48c8-9d21-3aaf4af5ec7e/fa0fe9e7-17c0-4232-9dd9-c4d186c5cdc8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110643,
+        "aniId": 108531,
+        "createdAt": "2020-10-12T16:13:33.000Z",
+        "updatedAt": "2021-06-05T22:10:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_o_warui_ko_ni_shite": {
+        "authors": [],
+        "identifier": "boku_o_warui_ko_ni_shite",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku O Warui Ko Ni Shite",
+        "url": "https://manganelo.com/manga/boku_o_warui_ko_ni_shite",
+        "image": "https://avt.mkklcdnv6.com/38/h/16-1583494842.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110643,
+        "aniId": 108531,
+        "createdAt": "2020-10-12T16:22:19.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_o_warui_ko_ni_shite": {
+        "authors": [
+          "HAIDA Nanako"
+        ],
+        "identifier": "boku_o_warui_ko_ni_shite",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku o Warui Ko ni Shite",
+        "url": "https://fanfox.net/manga/boku_o_warui_ko_ni_shite/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26930/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110643,
+        "aniId": 108531,
+        "createdAt": "2021-01-26T18:38:20.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

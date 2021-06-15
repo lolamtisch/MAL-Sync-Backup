@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "煙と蜜",
+    "Smoke and Honey"
+  ],
+  "authors": [
+    "Hiroko Nagakura"
+  ],
+  "id": 105339,
+  "malId": null,
+  "type": "manga",
+  "title": "Kemuri to Mitsu",
+  "url": "https://anilist.co/manga/105339",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105339-IY6AlicruVb1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T14:06:19.000Z",
+  "updatedAt": "2021-06-07T14:06:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8fc4ca0a-3346-4e99-a6f1-63747029c109": {
+        "authors": [
+          "Nagakura Hiroko"
+        ],
+        "identifier": "8fc4ca0a-3346-4e99-a6f1-63747029c109",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Smoke & Honey",
+        "url": "https://mangadex.org/title/8fc4ca0a-3346-4e99-a6f1-63747029c109",
+        "image": "https://uploads.mangadex.org/covers/8fc4ca0a-3346-4e99-a6f1-63747029c109/7f191cd0-6807-4dde-be3a-9ef2952c0b86.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 105339,
+        "createdAt": "2020-10-12T16:18:05.000Z",
+        "updatedAt": "2021-06-07T14:14:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "Shinjuku DxD",
+    "新宿D×D"
+  ],
+  "authors": [
+    "Shin Kibayashi",
+    "Takanori Yasaka",
+    "Pon Jea"
+  ],
+  "id": 85507,
+  "malId": 67237,
+  "type": "manga",
+  "title": "Shinjuku DxD",
+  "url": "https://anilist.co/manga/85507",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55507.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:59.000Z",
+  "updatedAt": "2021-05-20T14:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3652687-2e2c-44d0-8a6f-074fe8b956a7": {
+        "authors": [
+          "Ponjea",
+          "Ando Yuma",
+          "Yasaka Takanori"
+        ],
+        "identifier": "c3652687-2e2c-44d0-8a6f-074fe8b956a7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinjuku DxD",
+        "url": "https://mangadex.org/title/c3652687-2e2c-44d0-8a6f-074fe8b956a7",
+        "image": "https://uploads.mangadex.org/covers/c3652687-2e2c-44d0-8a6f-074fe8b956a7/71ec0c3b-0d78-42f9-9f99-49fbeffe0802.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67237,
+        "aniId": 85507,
+        "createdAt": "2020-10-12T16:08:10.000Z",
+        "updatedAt": "2021-06-04T08:01:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shinjuku-dx-d": {
+        "authors": [
+          "ANDO Yuma",
+          "PONJEA",
+          "YASAKA Takanori"
+        ],
+        "identifier": "shinjuku-dx-d",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shinjuku DxD",
+        "url": "https://mangasee123.com/manga/Shinjuku-Dx-D",
+        "image": "https://cover.nep.li/cover/Shinjuku-Dx-D.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67237,
+        "aniId": 85507,
+        "createdAt": "2021-02-24T16:26:38.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

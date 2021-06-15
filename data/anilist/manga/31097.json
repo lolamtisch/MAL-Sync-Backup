@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "最遊記外伝",
+    "Saiyuki Gaiden"
+  ],
+  "authors": [
+    "Kazuya Minekura"
+  ],
+  "id": 31097,
+  "malId": 1097,
+  "type": "manga",
+  "title": "Saiyuuki Gaiden",
+  "url": "https://anilist.co/manga/31097",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31097-WKlOGL4Mj1gH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dc0174cc-33a0-4792-aa03-78d155179d27": {
+        "authors": [
+          "Minekura Kazuya"
+        ],
+        "identifier": "dc0174cc-33a0-4792-aa03-78d155179d27",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saiyuki Gaiden",
+        "url": "https://mangadex.org/title/dc0174cc-33a0-4792-aa03-78d155179d27",
+        "image": "https://uploads.mangadex.org/covers/dc0174cc-33a0-4792-aa03-78d155179d27/4d59fd5c-61e2-405a-8fe1-61dc204f0efd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1097,
+        "aniId": 31097,
+        "createdAt": "2020-10-12T16:07:40.000Z",
+        "updatedAt": "2021-06-04T04:29:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "daisaiyuuki_bokuhi_seiden_the_story_of_a_very_handsome_man": {
+        "authors": [],
+        "identifier": "daisaiyuuki_bokuhi_seiden_the_story_of_a_very_handsome_man",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Daisaiyuuki Bokuhi Seiden - The Story of a Very Handsome Man",
+        "url": "https://manganelo.com/manga/daisaiyuuki_bokuhi_seiden_the_story_of_a_very_handsome_man",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16093-daisaiyuuki_bokuhi_seiden_the_story_of_a_very_handsome_man.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1097,
+        "aniId": 31097,
+        "createdAt": "2020-10-12T16:22:34.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "hauy5165095": {
+        "authors": [],
+        "identifier": "hauy5165095",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Saiyuki Gaiden",
+        "url": "https://manganelo.com/manga/hauy5165095",
+        "image": "https://avt.mkklcdnv6.com/18/n/4-1583470428.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1097,
+        "aniId": 31097,
+        "createdAt": "2020-10-12T16:23:17.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

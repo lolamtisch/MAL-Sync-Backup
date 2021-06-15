@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "伝える吐息",
+    "The Sighs I Convey",
+    "Shino met Tuzuki, and fell in love.",
+    "愛的呢喃"
+  ],
+  "authors": [
+    "Izumi Miyazono"
+  ],
+  "id": 46884,
+  "malId": 16884,
+  "type": "manga",
+  "title": "Tsutaeru Toiki",
+  "url": "https://anilist.co/manga/46884",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46884-hxPllmZZMEP5.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "32152a5b-2b62-4341-98a5-7483e26408a9": {
+        "authors": [
+          "Miyazono Izumi"
+        ],
+        "identifier": "32152a5b-2b62-4341-98a5-7483e26408a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsutaeru Toiki",
+        "url": "https://mangadex.org/title/32152a5b-2b62-4341-98a5-7483e26408a9",
+        "image": "https://uploads.mangadex.org/covers/32152a5b-2b62-4341-98a5-7483e26408a9/465c2f52-bd72-4b0e-8303-45e169fc3a6a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16884,
+        "aniId": 46884,
+        "createdAt": "2020-10-12T16:04:14.000Z",
+        "updatedAt": "2021-06-02T19:46:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tsutaeru_toiki": {
+        "authors": [],
+        "identifier": "tsutaeru_toiki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsutaeru Toiki",
+        "url": "https://manganelo.com/manga/tsutaeru_toiki",
+        "image": "https://avt.mkklcdnv6.com/9/a/10-1583482497.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16884,
+        "aniId": 46884,
+        "createdAt": "2020-10-12T16:25:51.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

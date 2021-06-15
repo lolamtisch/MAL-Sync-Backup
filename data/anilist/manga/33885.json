@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Zero",
+    "제로 - 시작의관",
+    "Zero - The Beginning",
+    "Zero - The Beginning of The Coffin"
+  ],
+  "authors": [
+    "Sung-Woo Park",
+    "Dal Young Im"
+  ],
+  "id": 33885,
+  "malId": 3885,
+  "type": "manga",
+  "title": "Zero",
+  "url": "https://anilist.co/manga/33885",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3885.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "65798184-ec66-498b-8726-95d7a778664a": {
+        "authors": [
+          "Im Dal-Young",
+          "Park Sung-Woo"
+        ],
+        "identifier": "65798184-ec66-498b-8726-95d7a778664a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zero",
+        "url": "https://mangadex.org/title/65798184-ec66-498b-8726-95d7a778664a",
+        "image": "https://uploads.mangadex.org/covers/65798184-ec66-498b-8726-95d7a778664a/2af2a159-df35-4e27-ad09-3a1633d7c615.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3885,
+        "aniId": 33885,
+        "createdAt": "2020-10-12T16:03:55.000Z",
+        "updatedAt": "2021-06-02T17:18:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

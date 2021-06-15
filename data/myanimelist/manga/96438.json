@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "戦国ヴァンプ"
+  ],
+  "authors": [
+    "Hoonoki, Sora"
+  ],
+  "id": 96438,
+  "type": "manga",
+  "title": "Sengoku Vamp",
+  "url": "https://myanimelist.net/manga/96438/Sengoku_Vamp",
+  "image": "https://cdn.myanimelist.net/images/manga/2/182274.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:25.000Z",
+  "updatedAt": "2021-03-26T16:50:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "346b980a-999e-45d5-8f85-cf22b9ff6ac1": {
+        "authors": [
+          "Hoonoki Sora"
+        ],
+        "identifier": "346b980a-999e-45d5-8f85-cf22b9ff6ac1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sengoku Vampire",
+        "url": "https://mangadex.org/title/346b980a-999e-45d5-8f85-cf22b9ff6ac1",
+        "image": "https://uploads.mangadex.org/covers/346b980a-999e-45d5-8f85-cf22b9ff6ac1/3c1efbe9-777e-489c-b32e-27ad60afb662.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96438,
+        "aniId": 96817,
+        "createdAt": "2020-10-12T16:09:32.000Z",
+        "updatedAt": "2021-06-04T18:13:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sengoku_vamp": {
+        "authors": [],
+        "identifier": "sengoku_vamp",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sengoku Vamp",
+        "url": "https://manganelo.com/manga/sengoku_vamp",
+        "image": "https://avt.mkklcdnv6.com/48/u/15-1583493420.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96438,
+        "aniId": 96817,
+        "createdAt": "2020-10-12T16:25:22.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sengoku_vamp": {
+        "authors": [
+          "HOONOKI Sora"
+        ],
+        "identifier": "sengoku_vamp",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sengoku Vamp",
+        "url": "https://fanfox.net/manga/sengoku_vamp/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26583/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96438,
+        "aniId": 96817,
+        "createdAt": "2021-03-26T16:50:55.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

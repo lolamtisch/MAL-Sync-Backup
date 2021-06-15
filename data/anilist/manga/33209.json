@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Saki Aikawa"
+  ],
+  "id": 33209,
+  "malId": 3209,
+  "type": "manga",
+  "title": "Zenbu Kimi no Mono",
+  "url": "https://anilist.co/manga/33209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3209.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c6f7fdb5-8b9c-4f07-a895-474837001744": {
+        "authors": [
+          "AIKAWA Saki"
+        ],
+        "identifier": "c6f7fdb5-8b9c-4f07-a895-474837001744",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zenbu Kimi no Mono",
+        "url": "https://mangadex.org/title/c6f7fdb5-8b9c-4f07-a895-474837001744",
+        "image": "https://uploads.mangadex.org/covers/c6f7fdb5-8b9c-4f07-a895-474837001744/53b3f192-645c-4b64-873b-50964aef7aa2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3209,
+        "aniId": 33209,
+        "createdAt": "2020-10-12T16:05:44.000Z",
+        "updatedAt": "2021-06-03T14:37:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

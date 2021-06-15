@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "ひめゴト コミックアンソロジー"
+  ],
+  "authors": [
+    "Neko Mint",
+    "Norio Tsukudani",
+    "Reku Hayase",
+    "Borupikka",
+    "Sakuya Yuuki",
+    "Hitsujibako",
+    "Kenta Ishizaka",
+    "Emiri"
+  ],
+  "id": 96027,
+  "malId": 93120,
+  "type": "manga",
+  "title": "Himegoto Comic Anthology",
+  "url": "https://anilist.co/manga/96027",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b96027-QNtDl9XbiZ8k.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:46.000Z",
+  "updatedAt": "2021-06-04T13:49:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "05ebe01d-172b-4a17-af60-9e7184feb4a1": {
+        "authors": [
+          "Sakaguchi",
+          "Yuuki Sakuya",
+          "Ishizaka Kenta",
+          "Chacha",
+          "Hitsujibako",
+          "Arikawa Kinu",
+          "Nekomint",
+          "Kaname Nagi",
+          "Bkub",
+          "Tsuchinoko",
+          "Ichimi",
+          "Ashida Yuri",
+          "Naharu",
+          "Bokupikka",
+          "Emiri"
+        ],
+        "identifier": "05ebe01d-172b-4a17-af60-9e7184feb4a1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himegoto Comic Anthology",
+        "url": "https://mangadex.org/title/05ebe01d-172b-4a17-af60-9e7184feb4a1",
+        "image": "https://uploads.mangadex.org/covers/05ebe01d-172b-4a17-af60-9e7184feb4a1/bb52079c-af73-490e-82e0-029da4cb9e14.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93120,
+        "aniId": 96027,
+        "createdAt": "2020-10-12T16:08:54.000Z",
+        "updatedAt": "2021-06-04T14:34:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "himegoto_comic_anthology": {
+        "authors": [],
+        "identifier": "himegoto_comic_anthology",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Himegoto Comic Anthology",
+        "url": "https://manganelo.com/manga/himegoto_comic_anthology",
+        "image": "https://avt.mkklcdnv6.com/30/n/2-1583466876.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93120,
+        "aniId": 96027,
+        "createdAt": "2020-10-12T16:23:20.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

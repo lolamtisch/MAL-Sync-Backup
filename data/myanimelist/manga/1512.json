@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "エンジェル・ハート"
+  ],
+  "authors": [
+    "Hojo, Tsukasa"
+  ],
+  "id": 1512,
+  "type": "manga",
+  "title": "Angel Heart",
+  "url": "https://myanimelist.net/manga/1512/Angel_Heart",
+  "image": "https://cdn.myanimelist.net/images/manga/2/195179.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:34.000Z",
+  "updatedAt": "2021-04-17T23:44:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31be4cc4-d7c8-47d7-9d80-4f1b2db7979e": {
+        "authors": [
+          "Hojo Tsukasa"
+        ],
+        "identifier": "31be4cc4-d7c8-47d7-9d80-4f1b2db7979e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Angel Heart",
+        "url": "https://mangadex.org/title/31be4cc4-d7c8-47d7-9d80-4f1b2db7979e",
+        "image": "https://uploads.mangadex.org/covers/31be4cc4-d7c8-47d7-9d80-4f1b2db7979e/f204111c-d683-4109-802c-170eda11d7ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1512,
+        "aniId": 31512,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:43:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "angel-heart": {
+        "authors": [
+          "HOJO Tsukasa"
+        ],
+        "identifier": "angel-heart",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Angel Heart",
+        "url": "https://mangasee123.com/manga/Angel-Heart",
+        "image": "https://cover.nep.li/cover/Angel-Heart.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1512,
+        "aniId": 31512,
+        "createdAt": "2021-04-17T23:44:41.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

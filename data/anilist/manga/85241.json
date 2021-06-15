@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "트레이스 1.5",
+    "Trace 1.5: Communicator",
+    "Exchange Party: Trace 1.5"
+  ],
+  "authors": [
+    "Yeong-Hun Go"
+  ],
+  "id": 85241,
+  "malId": 83577,
+  "type": "manga",
+  "title": "Trace 1.5",
+  "url": "https://anilist.co/manga/85241",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85241-zTpflOrpfJOr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:32.000Z",
+  "updatedAt": "2021-05-20T14:52:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4d082dd0-2246-4d13-be7c-94df8a126289": {
+        "authors": [
+          "Nasty Cat"
+        ],
+        "identifier": "4d082dd0-2246-4d13-be7c-94df8a126289",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trace 1.5",
+        "url": "https://mangadex.org/title/4d082dd0-2246-4d13-be7c-94df8a126289",
+        "image": "https://uploads.mangadex.org/covers/4d082dd0-2246-4d13-be7c-94df8a126289/b85f5fff-502f-4fd4-9582-44641454047a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83577,
+        "aniId": 85241,
+        "createdAt": "2020-10-12T16:03:40.000Z",
+        "updatedAt": "2021-06-02T15:38:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

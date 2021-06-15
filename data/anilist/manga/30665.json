@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "MeruPuri",
+    "めるぷり メルヘン☆プリンス",
+    "Meru Puri",
+    "Merupuri der Märchenprinz",
+    "MeruPuri: Maruhen Purinsu",
+    "Meru Puri - The Marchen Prince"
+  ],
+  "authors": [
+    "Matsuri Hino"
+  ],
+  "id": 30665,
+  "malId": 665,
+  "type": "manga",
+  "title": "MeruPuri: Märchen☆Prince",
+  "url": "https://anilist.co/manga/30665",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30665-eAiSHgzay2Iw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:41.000Z",
+  "updatedAt": "2021-05-20T14:35:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe4f8d88-ea0e-4a77-814f-95d9f66bb37c": {
+        "authors": [
+          "Hino Matsuri"
+        ],
+        "identifier": "fe4f8d88-ea0e-4a77-814f-95d9f66bb37c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Merupuri",
+        "url": "https://mangadex.org/title/fe4f8d88-ea0e-4a77-814f-95d9f66bb37c",
+        "image": "https://uploads.mangadex.org/covers/fe4f8d88-ea0e-4a77-814f-95d9f66bb37c/d8f1ce50-f418-425d-9775-a51b7ab85652.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 665,
+        "aniId": 30665,
+        "createdAt": "2020-10-12T16:04:51.000Z",
+        "updatedAt": "2021-06-02T23:52:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_merupuri_manga": {
+        "authors": [],
+        "identifier": "read_merupuri_manga",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Merupuri",
+        "url": "https://manganelo.com/manga/read_merupuri_manga",
+        "image": "https://avt.mkklcdnv6.com/26/p/4-1583470778.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 665,
+        "aniId": 30665,
+        "createdAt": "2020-10-12T16:25:06.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

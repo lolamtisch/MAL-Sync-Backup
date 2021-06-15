@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Jia Li Huang"
+  ],
+  "id": 50693,
+  "malId": 20693,
+  "type": "manga",
+  "title": "A Midsummer Night's Dream",
+  "url": "https://anilist.co/manga/50693",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20693.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "13c56f24-9ce5-42ee-a0ad-8797d82881c5": {
+        "authors": [
+          "Huang Jia Li"
+        ],
+        "identifier": "13c56f24-9ce5-42ee-a0ad-8797d82881c5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Midsummer Night's Dream",
+        "url": "https://mangadex.org/title/13c56f24-9ce5-42ee-a0ad-8797d82881c5",
+        "image": "https://uploads.mangadex.org/covers/13c56f24-9ce5-42ee-a0ad-8797d82881c5/04a1aafa-63bd-4c8d-96e8-7a81c1fb2bc5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20693,
+        "aniId": 50693,
+        "createdAt": "2020-10-12T16:04:29.000Z",
+        "updatedAt": "2021-06-02T21:17:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

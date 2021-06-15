@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "이차원 용병",
+    "Two-Dimensional Mercenary",
+    "Dimensional Mercenary"
+  ],
+  "authors": [
+    "Jae-Hwan Kim"
+  ],
+  "id": 111590,
+  "malId": null,
+  "type": "manga",
+  "title": "Ichawon Yongbyeong",
+  "url": "https://anilist.co/manga/111590",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111590-eZtxpwtbuOq2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T15:08:18.000Z",
+  "updatedAt": "2021-05-26T15:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "47c46dcc-7266-4cd6-852b-d8619ca1dd6b": {
+        "authors": [
+          "Jae-Hwan Kim",
+          "Keum Ho",
+          "Balo"
+        ],
+        "identifier": "47c46dcc-7266-4cd6-852b-d8619ca1dd6b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dimensional Mercenary",
+        "url": "https://mangadex.org/title/47c46dcc-7266-4cd6-852b-d8619ca1dd6b",
+        "image": "https://uploads.mangadex.org/covers/47c46dcc-7266-4cd6-852b-d8619ca1dd6b/bb11026f-a238-44ea-9dee-574402ab8823.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111590,
+        "createdAt": "2020-10-12T16:16:22.000Z",
+        "updatedAt": "2021-06-07T07:36:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

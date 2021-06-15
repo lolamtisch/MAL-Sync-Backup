@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "沉鱼",
+    "Sunken Fish"
+  ],
+  "authors": [
+    "Xingji Hu Yu"
+  ],
+  "id": 126851,
+  "malId": null,
+  "type": "manga",
+  "title": "Chen Yu",
+  "url": "https://anilist.co/manga/126851",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126851-tUacJdJA6Tw9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:25:32.000Z",
+  "updatedAt": "2021-06-08T07:25:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc255b3a-a9fa-4d64-b11b-1c5e60597b36": {
+        "authors": [
+          "Interstellar Entertainment ( 星际互娱 )"
+        ],
+        "identifier": "fc255b3a-a9fa-4d64-b11b-1c5e60597b36",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sunken Fish",
+        "url": "https://mangadex.org/title/fc255b3a-a9fa-4d64-b11b-1c5e60597b36",
+        "image": "https://uploads.mangadex.org/covers/fc255b3a-a9fa-4d64-b11b-1c5e60597b36/30d5d12d-669d-42fd-9332-56cc8d5742aa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126851,
+        "createdAt": "2020-11-15T04:43:28.000Z",
+        "updatedAt": "2021-06-08T07:25:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

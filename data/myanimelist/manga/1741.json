@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Worst",
+    "WORST ワースト"
+  ],
+  "authors": [
+    "Takahashi, Hiroshi"
+  ],
+  "id": 1741,
+  "type": "manga",
+  "title": "Worst",
+  "url": "https://myanimelist.net/manga/1741/Worst",
+  "image": "https://cdn.myanimelist.net/images/manga/3/167039.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:37.000Z",
+  "updatedAt": "2021-01-01T04:00:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a95f521e-b307-487c-83c9-311c7cf953c3": {
+        "authors": [
+          "Takahashi Hiroshi"
+        ],
+        "identifier": "a95f521e-b307-487c-83c9-311c7cf953c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Worst",
+        "url": "https://mangadex.org/title/a95f521e-b307-487c-83c9-311c7cf953c3",
+        "image": "https://uploads.mangadex.org/covers/a95f521e-b307-487c-83c9-311c7cf953c3/cd946c10-021b-4304-b8ea-cac77c13a6f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1741,
+        "aniId": 31741,
+        "createdAt": "2020-10-12T16:03:00.000Z",
+        "updatedAt": "2021-06-02T11:07:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "worst": {
+        "authors": [
+          "TAKAHASHI Hiroshi"
+        ],
+        "identifier": "worst",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Worst",
+        "url": "https://mangasee123.com/manga/Worst",
+        "image": "https://cover.nep.li/cover/Worst.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1741,
+        "aniId": 31741,
+        "createdAt": "2021-01-01T04:00:56.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

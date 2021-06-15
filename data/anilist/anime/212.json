@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "Project A-ko",
+    "プロジェクトＡ子",
+    "Projecte A-ko"
+  ],
+  "id": 212,
+  "malId": 212,
+  "type": "anime",
+  "title": "Project A-Ko",
+  "url": "https://anilist.co/anime/212",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx212-SSB2S3cbIumn.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:34.000Z",
+  "updatedAt": "2021-05-20T14:33:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "vx7v": {
+        "identifier": "vx7v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Project A-Ko",
+        "url": "https://9anime.ru/watch/project-a-ko.vx7v",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8yErMw_MTRg/WKgG7w_1pgI/AAAAAAABdOs/N3-MgUKl1EU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 212,
+        "aniId": 212,
+        "createdAt": "2020-10-12T15:56:01.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "w0wo": {
+        "identifier": "w0wo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Project A-Ko (Dub)",
+        "url": "https://9anime.ru/watch/project-a-ko-dub.w0wo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cPn5MP0ykRo/WKgHA1PsIbI/AAAAAAABdOw/KcMILc5ohJ4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 212,
+        "aniId": 212,
+        "createdAt": "2020-10-12T15:56:04.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "project-a-ko-dub": {
+        "identifier": "project-a-ko-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Project A-Ko (Dub)",
+        "url": "https://gogoanime.ai/category/project-a-ko-dub",
+        "image": "https://gogocdn.net/cover/project-a-ko-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 212,
+        "aniId": 212,
+        "createdAt": "2021-05-16T19:55:25.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

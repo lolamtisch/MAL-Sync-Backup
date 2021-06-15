@@ -1,0 +1,64 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Minamikawa Peto"
+  ],
+  "id": 38399,
+  "malId": 8399,
+  "type": "manga",
+  "title": "Otenki Oniisan",
+  "url": "https://anilist.co/manga/38399",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8399.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2d7c0abb-ac92-47a8-ba7f-6b4a5a7b62a7": {
+        "authors": [
+          "Minamikawa Peto"
+        ],
+        "identifier": "2d7c0abb-ac92-47a8-ba7f-6b4a5a7b62a7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otenki Oniisan",
+        "url": "https://mangadex.org/title/2d7c0abb-ac92-47a8-ba7f-6b4a5a7b62a7",
+        "image": "https://uploads.mangadex.org/covers/2d7c0abb-ac92-47a8-ba7f-6b4a5a7b62a7/05c0dd86-b27b-4aa1-8787-efaa7bb5a3ad.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8399,
+        "aniId": 38399,
+        "createdAt": "2020-10-12T16:13:07.000Z",
+        "updatedAt": "2021-06-05T18:56:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "otenki_oniisan": {
+        "authors": [
+          "Minamikawa",
+          "Peto"
+        ],
+        "identifier": "otenki_oniisan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Otenki Oniisan",
+        "url": "https://manganelo.com/manga/otenki_oniisan",
+        "image": "https://avt.mkklcdnv6temp.com/12/m/12-1583486274.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8399,
+        "aniId": 38399,
+        "createdAt": "2021-05-16T12:25:24.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

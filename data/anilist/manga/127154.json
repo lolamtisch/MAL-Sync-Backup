@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "우리 사이",
+    "Between Us"
+  ],
+  "authors": [
+    "Don-Heon Lee",
+    "Swani"
+  ],
+  "id": 127154,
+  "malId": null,
+  "type": "manga",
+  "title": "Uri Sai",
+  "url": "https://anilist.co/manga/127154",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b127154-9kNSW6OiOQSY.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-23T02:12:58.000Z",
+  "updatedAt": "2021-06-08T03:21:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "728f965a-a0c1-4b10-b598-289d5f94131a": {
+        "authors": [
+          "Lee Dong Heon",
+          "Swani"
+        ],
+        "identifier": "728f965a-a0c1-4b10-b598-289d5f94131a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Between Us",
+        "url": "https://mangadex.org/title/728f965a-a0c1-4b10-b598-289d5f94131a",
+        "image": "https://uploads.mangadex.org/covers/728f965a-a0c1-4b10-b598-289d5f94131a/a9ec63a2-b581-4760-ad57-1538c8149f5b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127154,
+        "createdAt": "2020-10-12T16:21:37.000Z",
+        "updatedAt": "2021-06-08T06:56:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "YUI SHOP"
+  ],
+  "authors": [
+    "Yui, Toshiki"
+  ],
+  "id": 12923,
+  "type": "manga",
+  "title": "Yui Shop",
+  "url": "https://myanimelist.net/manga/12923/Yui_Shop",
+  "image": "https://cdn.myanimelist.net/images/manga/1/135935.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:49.000Z",
+  "updatedAt": "2021-05-01T13:35:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a12ee052-9bf3-4178-9039-d1c68c137628": {
+        "authors": [
+          "Yui Toshiki"
+        ],
+        "identifier": "a12ee052-9bf3-4178-9039-d1c68c137628",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yui Shop",
+        "url": "https://mangadex.org/title/a12ee052-9bf3-4178-9039-d1c68c137628",
+        "image": "https://uploads.mangadex.org/covers/a12ee052-9bf3-4178-9039-d1c68c137628/1d326494-388c-4745-88a1-9458f389bd92.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12923,
+        "aniId": 42923,
+        "createdAt": "2020-10-12T16:11:32.000Z",
+        "updatedAt": "2021-06-05T09:07:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

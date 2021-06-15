@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Ayako",
+    "奇子"
+  ],
+  "authors": [
+    "Tezuka, Osamu"
+  ],
+  "id": 5401,
+  "type": "manga",
+  "title": "Ayako",
+  "url": "https://myanimelist.net/manga/5401/Ayako",
+  "image": "https://cdn.myanimelist.net/images/manga/5/175748.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:05.000Z",
+  "updatedAt": "2021-06-14T01:40:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df64232c-cc30-4e9c-92e1-7ccba2b743b0": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "df64232c-cc30-4e9c-92e1-7ccba2b743b0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ayako",
+        "url": "https://mangadex.org/title/df64232c-cc30-4e9c-92e1-7ccba2b743b0",
+        "image": "https://uploads.mangadex.org/covers/df64232c-cc30-4e9c-92e1-7ccba2b743b0/3cd66046-8b43-47a8-94ce-b34e9e483307.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5401,
+        "aniId": 35401,
+        "createdAt": "2020-10-12T16:13:02.000Z",
+        "updatedAt": "2021-06-05T18:23:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ayako": {
+        "authors": [],
+        "identifier": "ayako",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ayako",
+        "url": "https://manganelo.com/manga/ayako",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/9103-ayako.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5401,
+        "aniId": 35401,
+        "createdAt": "2020-10-12T16:22:11.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ayako": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "ayako",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ayako",
+        "url": "https://mangasee123.com/manga/Ayako",
+        "image": "https://cover.nep.li/cover/Ayako.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5401,
+        "aniId": 35401,
+        "createdAt": "2021-06-14T01:40:05.000Z",
+        "updatedAt": "2021-06-14T02:08:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "キャンディ・フラワー",
+    "Candy ・Flower"
+  ],
+  "authors": [
+    "Daisy Yamada"
+  ],
+  "id": 37276,
+  "malId": 7276,
+  "type": "manga",
+  "title": "Candy Flower",
+  "url": "https://anilist.co/manga/37276",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37276-Fs88qCYkbgKx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:48.000Z",
+  "updatedAt": "2021-05-20T14:39:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b2f0cee1-7764-45e7-9b92-a9cbcef0b23c": {
+        "authors": [
+          "YAMADA Daisy"
+        ],
+        "identifier": "b2f0cee1-7764-45e7-9b92-a9cbcef0b23c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Candy Flower",
+        "url": "https://mangadex.org/title/b2f0cee1-7764-45e7-9b92-a9cbcef0b23c",
+        "image": "https://uploads.mangadex.org/covers/b2f0cee1-7764-45e7-9b92-a9cbcef0b23c/71aba80e-9860-42c2-94b8-a21b48f8cf06.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7276,
+        "aniId": 37276,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:39:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

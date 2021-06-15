@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "The Antique Cat Shop",
+    "骨董猫屋"
+  ],
+  "authors": [
+    "Hisa Takano"
+  ],
+  "id": 99946,
+  "malId": 110349,
+  "type": "manga",
+  "title": "Kottou Nekoya",
+  "url": "https://anilist.co/manga/99946",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99946-W8Io6elkH8Dz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:14.000Z",
+  "updatedAt": "2021-05-20T14:56:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d85feab6-2862-4406-bf61-3ec4b9964803": {
+        "authors": [
+          "TAKANO Hisa"
+        ],
+        "identifier": "d85feab6-2862-4406-bf61-3ec4b9964803",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kottou Nekoya",
+        "url": "https://mangadex.org/title/d85feab6-2862-4406-bf61-3ec4b9964803",
+        "image": "https://uploads.mangadex.org/covers/d85feab6-2862-4406-bf61-3ec4b9964803/46e5deb2-39e6-4710-9aaa-228a45500894.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110349,
+        "aniId": 99946,
+        "createdAt": "2020-10-12T16:11:04.000Z",
+        "updatedAt": "2021-06-05T05:27:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

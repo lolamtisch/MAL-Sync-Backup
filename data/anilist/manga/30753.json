@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Earthian",
+    "アーシアン"
+  ],
+  "authors": [
+    "Yun Kouga"
+  ],
+  "id": 30753,
+  "malId": 753,
+  "type": "manga",
+  "title": "Earthian",
+  "url": "https://anilist.co/manga/30753",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30753-aH1ByzbYuGXu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:43.000Z",
+  "updatedAt": "2021-05-20T14:35:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b4be1d2e-097e-4b64-9c4b-2fd16b5394a8": {
+        "authors": [
+          "Kouga Yun"
+        ],
+        "identifier": "b4be1d2e-097e-4b64-9c4b-2fd16b5394a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Earthian",
+        "url": "https://mangadex.org/title/b4be1d2e-097e-4b64-9c4b-2fd16b5394a8",
+        "image": "https://uploads.mangadex.org/covers/b4be1d2e-097e-4b64-9c4b-2fd16b5394a8/cac34cb3-0250-450b-ae39-4f8ab50f171c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 753,
+        "aniId": 30753,
+        "createdAt": "2020-10-12T16:09:35.000Z",
+        "updatedAt": "2021-06-04T18:41:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

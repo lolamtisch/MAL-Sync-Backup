@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "紅い霧の中から",
+    "From the Red Fog",
+    "From the Red Mist"
+  ],
+  "authors": [
+    "Mosae Nohara"
+  ],
+  "id": 123687,
+  "malId": 129984,
+  "type": "manga",
+  "title": "Akai Kiri no Naka kara",
+  "url": "https://anilist.co/manga/123687",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123687-uzkfUrZZo2gK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:29.000Z",
+  "updatedAt": "2021-05-20T14:59:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8fbb7940-7343-430d-a06f-694b5f226b6a": {
+        "authors": [
+          "Nohara Mosae"
+        ],
+        "identifier": "8fbb7940-7343-430d-a06f-694b5f226b6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "From the Red Fog",
+        "url": "https://mangadex.org/title/8fbb7940-7343-430d-a06f-694b5f226b6a",
+        "image": "https://uploads.mangadex.org/covers/8fbb7940-7343-430d-a06f-694b5f226b6a/410d83e5-66f5-4020-8654-5cc956bd55b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129984,
+        "aniId": 123687,
+        "createdAt": "2020-10-12T16:21:23.000Z",
+        "updatedAt": "2021-06-08T02:06:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bu924312": {
+        "authors": [],
+        "identifier": "bu924312",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "From The Red Fog",
+        "url": "https://manganelo.com/manga/bu924312",
+        "image": "https://avt.mkklcdnv6.com/20/q/22-1601270602.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129984,
+        "aniId": 123687,
+        "createdAt": "2020-10-12T16:22:22.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "from-the-red-fog": {
+        "authors": [
+          "NOHARA Mosae"
+        ],
+        "identifier": "from-the-red-fog",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "From the Red Fog",
+        "url": "https://mangasee123.com/manga/From-the-Red-Fog",
+        "image": "https://cover.nep.li/cover/From-the-Red-Fog.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129984,
+        "aniId": 123687,
+        "createdAt": "2021-01-22T21:34:07.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "akai_kiri_no_naka_kara": {
+        "authors": [
+          "NOHARA Mosae"
+        ],
+        "identifier": "akai_kiri_no_naka_kara",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akai Kiri no Naka kara",
+        "url": "https://fanfox.net/manga/akai_kiri_no_naka_kara/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35445/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129984,
+        "aniId": 123687,
+        "createdAt": "2021-02-01T16:02:36.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

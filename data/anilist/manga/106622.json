@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いばらのこい",
+    "いばらの恋"
+  ],
+  "authors": [
+    "Aya Mitsui"
+  ],
+  "id": 106622,
+  "malId": 93583,
+  "type": "manga",
+  "title": "Ibara no Koi",
+  "url": "https://anilist.co/manga/106622",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106622-f6Zaj2hy7VeL.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:47.000Z",
+  "updatedAt": "2021-05-20T14:53:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "07b4a097-811c-4d35-b435-64aecba360f8": {
+        "authors": [
+          "Mitsui Aya"
+        ],
+        "identifier": "07b4a097-811c-4d35-b435-64aecba360f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ibara no Koi",
+        "url": "https://mangadex.org/title/07b4a097-811c-4d35-b435-64aecba360f8",
+        "image": "https://uploads.mangadex.org/covers/07b4a097-811c-4d35-b435-64aecba360f8/cdc85cf7-c7e7-4d43-8246-fd1c154571a1.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93583,
+        "aniId": 106622,
+        "createdAt": "2020-10-12T16:09:08.000Z",
+        "updatedAt": "2021-06-04T15:21:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

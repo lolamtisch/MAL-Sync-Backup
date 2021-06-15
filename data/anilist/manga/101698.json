@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ミクとネオ",
+    "Mic And Neo"
+  ],
+  "authors": [
+    "Yuiji Aniya"
+  ],
+  "id": 101698,
+  "malId": 95456,
+  "type": "manga",
+  "title": "Miku to Neo",
+  "url": "https://anilist.co/manga/101698",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101698-zPq1bIIAc8ET.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-04T17:52:28.000Z",
+  "updatedAt": "2021-06-04T17:52:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c2dc9dd-04e5-4fb2-8673-c3bfcfe63bb4": {
+        "authors": [
+          "Aniya Yuiji"
+        ],
+        "identifier": "3c2dc9dd-04e5-4fb2-8673-c3bfcfe63bb4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Miku to Neo",
+        "url": "https://mangadex.org/title/3c2dc9dd-04e5-4fb2-8673-c3bfcfe63bb4",
+        "image": "https://uploads.mangadex.org/covers/3c2dc9dd-04e5-4fb2-8673-c3bfcfe63bb4/087ad8ed-2bc0-4fb2-a1e7-ee6e8a6cc785.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95456,
+        "aniId": 101698,
+        "createdAt": "2020-10-12T16:09:24.000Z",
+        "updatedAt": "2021-06-04T18:38:09.000Z",
+        "deletedAt": null
+      },
+      "49306b52-ad5e-4f66-abc4-3e8bfddcacfd": {
+        "authors": [
+          "Kobato Mebaru"
+        ],
+        "identifier": "49306b52-ad5e-4f66-abc4-3e8bfddcacfd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sureta Hoshi to Raspberry",
+        "url": "https://mangadex.org/title/49306b52-ad5e-4f66-abc4-3e8bfddcacfd",
+        "image": "https://uploads.mangadex.org/covers/49306b52-ad5e-4f66-abc4-3e8bfddcacfd/f1b85b24-abc8-4e05-80d4-b710c491dbd9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95456,
+        "aniId": 101698,
+        "createdAt": "2020-10-12T16:09:24.000Z",
+        "updatedAt": "2021-06-04T22:10:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

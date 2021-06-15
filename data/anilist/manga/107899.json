@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "手紙物語",
+    "The Story of Letters"
+  ],
+  "authors": [
+    "Shino Torino"
+  ],
+  "id": 107899,
+  "malId": 102624,
+  "type": "manga",
+  "title": "Tegami Monogatari",
+  "url": "https://anilist.co/manga/107899",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107899-y5WsC6eThiCv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:59.000Z",
+  "updatedAt": "2021-05-20T14:54:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6ef36fa9-c074-48e4-8a1d-4ef157893b8b": {
+        "authors": [
+          "Torino Shino"
+        ],
+        "identifier": "6ef36fa9-c074-48e4-8a1d-4ef157893b8b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tegami Monogatari",
+        "url": "https://mangadex.org/title/6ef36fa9-c074-48e4-8a1d-4ef157893b8b",
+        "image": "https://uploads.mangadex.org/covers/6ef36fa9-c074-48e4-8a1d-4ef157893b8b/076a164c-d6ce-4708-bfae-471020221c5c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102624,
+        "aniId": 107899,
+        "createdAt": "2020-10-12T16:15:12.000Z",
+        "updatedAt": "2021-06-06T11:36:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

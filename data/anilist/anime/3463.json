@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "A.LI.CE",
+    "Ａ・ＬＩ・ＣＥ",
+    "alice"
+  ],
+  "id": 3463,
+  "malId": 3463,
+  "type": "anime",
+  "title": "A.LI.CE",
+  "url": "https://anilist.co/anime/3463",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3463-8r8IutdGFKMk.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:25.000Z",
+  "updatedAt": "2021-05-20T14:37:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "vrw4": {
+        "identifier": "vrw4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A.LI.CE (Dub)",
+        "url": "https://www12.9anime.to/watch/alice-dub.vrw4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/9b09ad9f9650d1baba054d8cf1cae8f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 3463,
+        "aniId": 3463,
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "wvx4": {
+        "identifier": "wvx4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A.LI.CE",
+        "url": "https://9anime.ru/watch/alice.wvx4",
+        "image": "https://static.akacdn.ru/files/images/2018/03/e5f4be9800cfa423c390cba855110ef7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3463,
+        "aniId": 3463,
+        "createdAt": "2020-10-12T15:56:16.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

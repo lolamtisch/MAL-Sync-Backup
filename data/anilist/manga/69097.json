@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Asia Watanabe"
+  ],
+  "id": 69097,
+  "malId": 39097,
+  "type": "manga",
+  "title": "Fallintrash",
+  "url": "https://anilist.co/manga/69097",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39097.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:20:47.000Z",
+  "updatedAt": "2021-06-08T07:20:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3f79b431-05be-4c3f-8283-d6bf099d9058": {
+        "authors": [
+          "Watanabe Asia"
+        ],
+        "identifier": "3f79b431-05be-4c3f-8283-d6bf099d9058",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fallintrash",
+        "url": "https://mangadex.org/title/3f79b431-05be-4c3f-8283-d6bf099d9058",
+        "image": "https://uploads.mangadex.org/covers/3f79b431-05be-4c3f-8283-d6bf099d9058/905a66e0-3099-4533-a803-acc7ee5fc5d4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39097,
+        "aniId": 69097,
+        "createdAt": "2020-11-12T09:15:04.000Z",
+        "updatedAt": "2021-06-08T07:25:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

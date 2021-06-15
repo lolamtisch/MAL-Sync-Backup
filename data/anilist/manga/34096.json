@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "アニマル横町",
+    "アニ横",
+    "AniYoko",
+    "Animal Yokochou"
+  ],
+  "authors": [
+    "Ryo Maekawa"
+  ],
+  "id": 34096,
+  "malId": 4096,
+  "type": "manga",
+  "title": "Animal Yokocho",
+  "url": "https://anilist.co/manga/34096",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34096-XRKfIgXUeC9D.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:25.000Z",
+  "updatedAt": "2021-05-20T14:38:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "089c7fb5-aa32-4f5d-89eb-69d90ea0188d": {
+        "authors": [
+          "Maekawa Ryo"
+        ],
+        "identifier": "089c7fb5-aa32-4f5d-89eb-69d90ea0188d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Animal Yokochou",
+        "url": "https://mangadex.org/title/089c7fb5-aa32-4f5d-89eb-69d90ea0188d",
+        "image": "https://uploads.mangadex.org/covers/089c7fb5-aa32-4f5d-89eb-69d90ea0188d/e8e6d82f-7c95-46d8-a4ca-e5805bb94eb7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4096,
+        "aniId": 34096,
+        "createdAt": "2020-10-12T16:11:37.000Z",
+        "updatedAt": "2021-06-05T09:53:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

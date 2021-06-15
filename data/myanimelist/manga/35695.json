@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Shirokuma Cafe, Polar Bear's Cafe",
+    "しろくまカフェ"
+  ],
+  "authors": [
+    "Higa, Aloha"
+  ],
+  "id": 35695,
+  "type": "manga",
+  "title": "Shirokuma Café",
+  "url": "https://myanimelist.net/manga/35695/Shirokuma_Café",
+  "image": "https://cdn.myanimelist.net/images/manga/3/64713.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:59.000Z",
+  "updatedAt": "2021-04-24T06:27:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86afee37-175b-46ba-b488-932a96c9d48b": {
+        "authors": [
+          "Higa Aloha"
+        ],
+        "identifier": "86afee37-175b-46ba-b488-932a96c9d48b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shirokuma Café",
+        "url": "https://mangadex.org/title/86afee37-175b-46ba-b488-932a96c9d48b",
+        "image": "https://uploads.mangadex.org/covers/86afee37-175b-46ba-b488-932a96c9d48b/e6d95cb8-26e1-4e79-9863-4b723f4079f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35695,
+        "aniId": 65695,
+        "createdAt": "2020-10-12T16:07:12.000Z",
+        "updatedAt": "2021-06-04T01:04:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shirokuma_cafe": {
+        "authors": [
+          "HIGA Aloha"
+        ],
+        "identifier": "shirokuma_cafe",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shirokuma Cafe",
+        "url": "https://fanfox.net/manga/shirokuma_cafe/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14713/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35695,
+        "aniId": 65695,
+        "createdAt": "2021-04-24T06:27:11.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shirokuma_cafe": {
+        "authors": [
+          "Higa",
+          "Aloha"
+        ],
+        "identifier": "shirokuma_cafe",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shirokuma Cafe",
+        "url": "https://manganelo.com/manga/shirokuma_cafe",
+        "image": "https://avt.mkklcdnv6temp.com/24/d/1-1583464646.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35695,
+        "aniId": 65695,
+        "createdAt": "2021-04-24T16:27:01.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

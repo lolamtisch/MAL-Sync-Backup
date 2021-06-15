@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "陰陽大戦記",
+    "Onmyō Taisenki"
+  ],
+  "authors": [
+    "Yoshihiko Tomisawa",
+    "Hiroyuki Kaidou"
+  ],
+  "id": 31212,
+  "malId": 1212,
+  "type": "manga",
+  "title": "Onmyou Taisenki",
+  "url": "https://anilist.co/manga/31212",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1212.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:56.000Z",
+  "updatedAt": "2021-05-20T14:35:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0a544768-b23c-4ef5-ad65-980c36c7b985": {
+        "authors": [
+          "TOMIZAWA Yoshihiko",
+          "KAIDOU Hiroyuki"
+        ],
+        "identifier": "0a544768-b23c-4ef5-ad65-980c36c7b985",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onmyou Taisenki",
+        "url": "https://mangadex.org/title/0a544768-b23c-4ef5-ad65-980c36c7b985",
+        "image": "https://uploads.mangadex.org/covers/0a544768-b23c-4ef5-ad65-980c36c7b985/4f976492-abe3-4865-a78d-8484bf444309.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1212,
+        "aniId": 31212,
+        "createdAt": "2020-10-12T16:05:06.000Z",
+        "updatedAt": "2021-06-03T10:11:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "onmyou_taisenki": {
+        "authors": [
+          "KAIDOU Hiroyuki"
+        ],
+        "identifier": "onmyou_taisenki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Onmyou Taisenki",
+        "url": "https://fanfox.net/manga/onmyou_taisenki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4238/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1212,
+        "aniId": 31212,
+        "createdAt": "2021-05-20T23:14:38.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

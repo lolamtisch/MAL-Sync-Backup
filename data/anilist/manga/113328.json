@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "The Girl Downstairs",
+    "이두나!"
+  ],
+  "authors": [
+    "Song-A Min"
+  ],
+  "id": 113328,
+  "malId": null,
+  "type": "manga",
+  "title": "Lee Doona!",
+  "url": "https://anilist.co/manga/113328",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113328-mhzkTt26ODLk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T20:29:25.000Z",
+  "updatedAt": "2021-06-09T18:04:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1dee26e0-011c-458b-a62f-32112a96cef0": {
+        "authors": [
+          "Min Song Ah"
+        ],
+        "identifier": "1dee26e0-011c-458b-a62f-32112a96cef0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lee Doona!",
+        "url": "https://mangadex.org/title/1dee26e0-011c-458b-a62f-32112a96cef0",
+        "image": "https://uploads.mangadex.org/covers/1dee26e0-011c-458b-a62f-32112a96cef0/d0528727-646d-4378-8bc1-9e0a1e4ce464.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113328,
+        "createdAt": "2020-10-12T16:16:58.000Z",
+        "updatedAt": "2021-06-07T07:15:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-girl-downstairs": {
+        "authors": [
+          "Min Song Ah"
+        ],
+        "identifier": "the-girl-downstairs",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Girl Downstairs",
+        "url": "https://mangasee123.com/manga/The-Girl-Downstairs",
+        "image": "https://cover.nep.li/cover/The-Girl-Downstairs.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 113328,
+        "createdAt": "2021-01-17T05:02:52.000Z",
+        "updatedAt": "2021-05-26T20:29:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

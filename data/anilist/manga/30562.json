@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Vampire Game",
+    "吸血遊戯",
+    "Kyuuketsu Yuugi",
+    "Vampire Gamez"
+  ],
+  "authors": [
+    "JUDAL"
+  ],
+  "id": 30562,
+  "malId": 562,
+  "type": "manga",
+  "title": "Vampire Game",
+  "url": "https://anilist.co/manga/30562",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30562-1I7XePDmnkrI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "849c9251-01ad-4088-bc71-b85c722822bb": {
+        "authors": [
+          "Judal"
+        ],
+        "identifier": "849c9251-01ad-4088-bc71-b85c722822bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyuuketsu Yuugi",
+        "url": "https://mangadex.org/title/849c9251-01ad-4088-bc71-b85c722822bb",
+        "image": "https://uploads.mangadex.org/covers/849c9251-01ad-4088-bc71-b85c722822bb/c0db1a77-41fa-44cf-8eb0-bcba663ff757.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 562,
+        "aniId": 30562,
+        "createdAt": "2020-10-12T16:03:12.000Z",
+        "updatedAt": "2021-06-02T13:06:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "vampire_game": {
+        "authors": [],
+        "identifier": "vampire_game",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Vampire Game",
+        "url": "https://manganelo.com/manga/vampire_game",
+        "image": "https://avt.mkklcdnv6.com/19/b/4-1583470450.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 562,
+        "aniId": 30562,
+        "createdAt": "2020-10-12T16:26:00.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

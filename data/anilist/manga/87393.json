@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "A Fine Day",
+    "ハレの日"
+  ],
+  "authors": [
+    "Nemui Asada"
+  ],
+  "id": 87393,
+  "malId": 99983,
+  "type": "manga",
+  "title": "Hare no Hi",
+  "url": "https://anilist.co/manga/87393",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57393-erSsPxYpxDNO.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:45.000Z",
+  "updatedAt": "2021-05-20T14:54:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9567b527-8867-40a1-bca6-7f4fccfcbe30": {
+        "authors": [
+          "Asada Nemui"
+        ],
+        "identifier": "9567b527-8867-40a1-bca6-7f4fccfcbe30",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hare no Hi",
+        "url": "https://mangadex.org/title/9567b527-8867-40a1-bca6-7f4fccfcbe30",
+        "image": "https://uploads.mangadex.org/covers/9567b527-8867-40a1-bca6-7f4fccfcbe30/8bba40df-2f64-4d56-85cf-16c6321f6fb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99983,
+        "aniId": 87393,
+        "createdAt": "2020-10-12T16:10:19.000Z",
+        "updatedAt": "2021-06-04T23:57:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

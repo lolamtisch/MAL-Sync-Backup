@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "青年は愛を乞う",
+    "The Youth Yearns Love"
+  ],
+  "authors": [
+    "Garasu Hino"
+  ],
+  "id": 55557,
+  "malId": 25557,
+  "type": "manga",
+  "title": "Seinen wa Ai wo Kou",
+  "url": "https://anilist.co/manga/55557",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25557.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:55.000Z",
+  "updatedAt": "2021-05-20T14:46:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e88b1107-f39c-4c8d-87d3-9718d578e07c": {
+        "authors": [
+          "Hino Garasu"
+        ],
+        "identifier": "e88b1107-f39c-4c8d-87d3-9718d578e07c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seinen wa Ai o Kou",
+        "url": "https://mangadex.org/title/e88b1107-f39c-4c8d-87d3-9718d578e07c",
+        "image": "https://uploads.mangadex.org/covers/e88b1107-f39c-4c8d-87d3-9718d578e07c/de742d7d-60ec-4c4f-9da7-635642c46b1e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25557,
+        "aniId": 55557,
+        "createdAt": "2020-10-12T16:06:25.000Z",
+        "updatedAt": "2021-06-03T19:34:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

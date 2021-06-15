@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "月曜日の友達"
+  ],
+  "authors": [
+    "Tomomi Abe"
+  ],
+  "id": 99020,
+  "malId": 110548,
+  "type": "manga",
+  "title": "Getsuyoubi no Tomodachi",
+  "url": "https://anilist.co/manga/99020",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99020-kSGo0jLBDPgC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:15.000Z",
+  "updatedAt": "2021-05-20T14:56:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "468ddb55-9da6-44ca-bc1e-b0720cc41b65": {
+        "authors": [
+          "Abe Tomomi"
+        ],
+        "identifier": "468ddb55-9da6-44ca-bc1e-b0720cc41b65",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Getsuyoubi no Tomodachi",
+        "url": "https://mangadex.org/title/468ddb55-9da6-44ca-bc1e-b0720cc41b65",
+        "image": "https://uploads.mangadex.org/covers/468ddb55-9da6-44ca-bc1e-b0720cc41b65/630db694-6daf-483a-bbe1-d5df5b0624c0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110548,
+        "aniId": 99020,
+        "createdAt": "2020-10-12T16:15:53.000Z",
+        "updatedAt": "2021-06-06T17:39:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yh919283": {
+        "authors": [],
+        "identifier": "yh919283",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Getsuyoubi no Tomodachi",
+        "url": "https://manganelo.com/manga/yh919283",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/686-yh919283.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110548,
+        "aniId": 99020,
+        "createdAt": "2020-10-12T16:26:22.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

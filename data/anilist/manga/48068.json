@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "ジャバウォッキー",
+    "Jabber Wocky"
+  ],
+  "authors": [
+    "Masato Hisa"
+  ],
+  "id": 48068,
+  "malId": 18068,
+  "type": "manga",
+  "title": "Jabberwocky",
+  "url": "https://anilist.co/manga/48068",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48068-VIRCL6cXHfSk.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:09.000Z",
+  "updatedAt": "2021-05-20T14:45:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d167ec5d-d8b4-4b39-aff6-e5970f577727": {
+        "authors": [
+          "Hisa Masato"
+        ],
+        "identifier": "d167ec5d-d8b4-4b39-aff6-e5970f577727",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jabberwocky",
+        "url": "https://mangadex.org/title/d167ec5d-d8b4-4b39-aff6-e5970f577727",
+        "image": "https://uploads.mangadex.org/covers/d167ec5d-d8b4-4b39-aff6-e5970f577727/c2bcdb50-de43-444b-b743-f53fa4076cb3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18068,
+        "aniId": 48068,
+        "createdAt": "2020-10-12T16:03:00.000Z",
+        "updatedAt": "2021-06-02T10:55:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jabberwocky": {
+        "authors": [],
+        "identifier": "jabberwocky",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jabberwocky",
+        "url": "https://manganelo.com/manga/jabberwocky",
+        "image": "https://avt.mkklcdnv6.com/25/j/8-1583479143.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18068,
+        "aniId": 48068,
+        "createdAt": "2020-10-12T16:23:39.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "jabberwocky": {
+        "authors": [
+          "HISA Masato"
+        ],
+        "identifier": "jabberwocky",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Jabberwocky",
+        "url": "https://mangasee123.com/manga/Jabberwocky",
+        "image": "https://cover.nep.li/cover/Jabberwocky.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18068,
+        "aniId": 48068,
+        "createdAt": "2021-04-10T01:21:08.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

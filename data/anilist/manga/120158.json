@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "리더(Reader)-읽는자",
+    "Reader",
+    "Читатель"
+  ],
+  "authors": [
+    "Cheol-Min Kang",
+    "Han-Wool Jung"
+  ],
+  "id": 120158,
+  "malId": null,
+  "type": "manga",
+  "title": "Reader: Ingneunja",
+  "url": "https://anilist.co/manga/120158",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120158-tWIfyYzUX57d.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T06:08:17.000Z",
+  "updatedAt": "2021-06-07T22:22:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44bb6cb5-7c19-4fc0-8e83-b895c41b12a5": {
+        "authors": [
+          "정한울",
+          "강철민"
+        ],
+        "identifier": "44bb6cb5-7c19-4fc0-8e83-b895c41b12a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Reader",
+        "url": "https://mangadex.org/title/44bb6cb5-7c19-4fc0-8e83-b895c41b12a5",
+        "image": "https://uploads.mangadex.org/covers/44bb6cb5-7c19-4fc0-8e83-b895c41b12a5/665b452d-a1bd-4c4b-85c8-59a8be62ba8a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120158,
+        "createdAt": "2020-10-12T16:19:27.000Z",
+        "updatedAt": "2021-06-08T00:46:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

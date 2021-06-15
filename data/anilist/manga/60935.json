@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "マーズ"
+  ],
+  "authors": [
+    "Mitsuteru Yokoyama"
+  ],
+  "id": 60935,
+  "malId": 30935,
+  "type": "manga",
+  "title": "Mars",
+  "url": "https://anilist.co/manga/60935",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60935-gAOoJGf7v68x.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:42.000Z",
+  "updatedAt": "2021-05-20T14:47:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a068e4bf-26ec-4d5f-b6a9-7999913e91bd": {
+        "authors": [
+          "Yokoyama Mitsuteru"
+        ],
+        "identifier": "a068e4bf-26ec-4d5f-b6a9-7999913e91bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mars",
+        "url": "https://mangadex.org/title/a068e4bf-26ec-4d5f-b6a9-7999913e91bd",
+        "image": "https://uploads.mangadex.org/covers/a068e4bf-26ec-4d5f-b6a9-7999913e91bd/00ac4f5b-2a4b-4548-a151-084606b0c390.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30935,
+        "aniId": 60935,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:23:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

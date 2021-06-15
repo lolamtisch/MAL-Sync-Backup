@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Blood Link",
+    "블러드 링크"
+  ],
+  "authors": [
+    "Oneulman Saneun Hyeongje"
+  ],
+  "id": 107392,
+  "malId": null,
+  "type": "manga",
+  "title": "Blood Link",
+  "url": "https://anilist.co/manga/107392",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107392-Zac5Gx9C05Dm.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-03T19:18:58.000Z",
+  "updatedAt": "2021-06-03T19:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dbbdbb2f-0022-4807-8399-bb7410f53d3e": {
+        "authors": [
+          "Brothers Without A Tomorrow"
+        ],
+        "identifier": "dbbdbb2f-0022-4807-8399-bb7410f53d3e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blood Link",
+        "url": "https://mangadex.org/title/dbbdbb2f-0022-4807-8399-bb7410f53d3e",
+        "image": "https://uploads.mangadex.org/covers/dbbdbb2f-0022-4807-8399-bb7410f53d3e/fd3e6abd-a321-4b45-ba9c-c2a00008534d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 107392,
+        "createdAt": "2020-10-12T16:14:11.000Z",
+        "updatedAt": "2021-06-06T10:20:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

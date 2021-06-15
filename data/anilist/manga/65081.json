@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "僕のあの子",
+    "She is mine",
+    "That Girl of Mine",
+    "Unexpected Love"
+  ],
+  "authors": [
+    "Haruhi Yuzuya"
+  ],
+  "id": 65081,
+  "malId": 35081,
+  "type": "manga",
+  "title": "Boku no Ano Ko",
+  "url": "https://anilist.co/manga/65081",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65081-gVPgzu5nbZnA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:00.000Z",
+  "updatedAt": "2021-05-20T14:48:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4b675786-73f6-4dc0-aff5-8c145a76f782": {
+        "authors": [
+          "Yuzuya Haruhi"
+        ],
+        "identifier": "4b675786-73f6-4dc0-aff5-8c145a76f782",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Ano Ko",
+        "url": "https://mangadex.org/title/4b675786-73f6-4dc0-aff5-8c145a76f782",
+        "image": "https://uploads.mangadex.org/covers/4b675786-73f6-4dc0-aff5-8c145a76f782/fb69c26f-29c9-4f3e-ab2a-0e30ecb5240e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35081,
+        "aniId": 65081,
+        "createdAt": "2020-10-12T16:04:17.000Z",
+        "updatedAt": "2021-06-02T20:06:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_no_ano_ko": {
+        "authors": [
+          "Yuzuya",
+          "Haruhi"
+        ],
+        "identifier": "boku_no_ano_ko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku No Ano Ko",
+        "url": "https://manganelo.com/manga/boku_no_ano_ko",
+        "image": "https://avt.mkklcdnv6.com/37/j/3-1583469143.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35081,
+        "aniId": 65081,
+        "createdAt": "2020-12-09T05:09:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pa955483": {
+        "authors": [
+          "Yuzuya Haruhi"
+        ],
+        "identifier": "manga-pa955483",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Boku No Ano Ko",
+        "url": "https://manganato.com/manga-pa955483",
+        "image": "https://avt.mkklcdnv6temp.com/37/j/3-1583469143.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35081,
+        "aniId": 65081,
+        "createdAt": "2021-05-31T13:27:46.000Z",
+        "updatedAt": "2021-05-31T13:52:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

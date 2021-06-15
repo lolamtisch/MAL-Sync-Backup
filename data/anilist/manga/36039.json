@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Saseum",
+    "나는 사슴이다"
+  ],
+  "authors": [
+    "Eun-Ha Jo",
+    "Ahn-Na Chae"
+  ],
+  "id": 36039,
+  "malId": 6039,
+  "type": "manga",
+  "title": "Saseum, I'm a Deer",
+  "url": "https://anilist.co/manga/36039",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36039-h3rMZLjtqV5F.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:36.000Z",
+  "updatedAt": "2021-05-20T14:39:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3bc5875a-f05b-4132-bc5d-ac258afd0f70": {
+        "authors": [
+          "CHAI Ahn Na",
+          "JO Eun Ha"
+        ],
+        "identifier": "3bc5875a-f05b-4132-bc5d-ac258afd0f70",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saseum, I'm a Deer",
+        "url": "https://mangadex.org/title/3bc5875a-f05b-4132-bc5d-ac258afd0f70",
+        "image": "https://uploads.mangadex.org/covers/3bc5875a-f05b-4132-bc5d-ac258afd0f70/31347da7-be00-489f-b2be-a4e98da14c2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6039,
+        "aniId": 36039,
+        "createdAt": "2020-10-12T16:13:11.000Z",
+        "updatedAt": "2021-06-05T19:29:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Haruka Minami"
+  ],
+  "id": 32043,
+  "malId": 2043,
+  "type": "manga",
+  "title": "Love Cure",
+  "url": "https://anilist.co/manga/32043",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2043.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1b23dfc2-0ec5-490c-ba86-6cc7a502bfb2": {
+        "authors": [
+          "MECCA (Minami Haruka)",
+          "Minami Haruka"
+        ],
+        "identifier": "1b23dfc2-0ec5-490c-ba86-6cc7a502bfb2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Cure",
+        "url": "https://mangadex.org/title/1b23dfc2-0ec5-490c-ba86-6cc7a502bfb2",
+        "image": "https://uploads.mangadex.org/covers/1b23dfc2-0ec5-490c-ba86-6cc7a502bfb2/ec522c71-edeb-4947-89a0-11e56b1a0258.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2043,
+        "aniId": 32043,
+        "createdAt": "2020-10-12T16:20:39.000Z",
+        "updatedAt": "2021-06-08T00:32:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

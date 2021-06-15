@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "キミと、ハジメテ",
+    "Kimi to Hajimete"
+  ],
+  "authors": [
+    "Shin Yumachi"
+  ],
+  "id": 51548,
+  "malId": 21548,
+  "type": "manga",
+  "title": "Kimi to, Hajimete",
+  "url": "https://anilist.co/manga/51548",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21548.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:43.000Z",
+  "updatedAt": "2021-05-20T14:45:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fb5cbb52-7865-4cc8-9c15-f4a6fc335744": {
+        "authors": [
+          "YUMACHI Shin"
+        ],
+        "identifier": "fb5cbb52-7865-4cc8-9c15-f4a6fc335744",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi to, Hajimete",
+        "url": "https://mangadex.org/title/fb5cbb52-7865-4cc8-9c15-f4a6fc335744",
+        "image": "https://uploads.mangadex.org/covers/fb5cbb52-7865-4cc8-9c15-f4a6fc335744/2805fc17-0d90-4c2c-8651-ddebc2ac7c75.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21548,
+        "aniId": 51548,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:37:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kimi-to-hajimete": {
+        "authors": [
+          "YUMACHI Shin"
+        ],
+        "identifier": "kimi-to-hajimete",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi to Hajimete",
+        "url": "https://mangasee123.com/manga/Kimi-To-Hajimete",
+        "image": "https://cover.nep.li/cover/Kimi-To-Hajimete.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21548,
+        "aniId": 51548,
+        "createdAt": "2021-02-16T12:06:27.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

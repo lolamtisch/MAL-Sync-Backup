@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "A Memory of Lovely Days",
+    "さくら前線",
+    "A Memory of Lovely Days"
+  ],
+  "authors": [
+    "Miyuki Oobayashi"
+  ],
+  "id": 40281,
+  "malId": 10281,
+  "type": "manga",
+  "title": "Sakura Zensen",
+  "url": "https://anilist.co/manga/40281",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10281.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:03.000Z",
+  "updatedAt": "2021-05-20T14:41:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e407d217-13e4-47a7-a4fe-ef5a9e1f570c": {
+        "authors": [
+          "OBAYASHI Miyuki"
+        ],
+        "identifier": "e407d217-13e4-47a7-a4fe-ef5a9e1f570c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakura Zensen",
+        "url": "https://mangadex.org/title/e407d217-13e4-47a7-a4fe-ef5a9e1f570c",
+        "image": "https://uploads.mangadex.org/covers/e407d217-13e4-47a7-a4fe-ef5a9e1f570c/9912f50e-041a-431e-9f1b-4069b481891c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10281,
+        "aniId": 40281,
+        "createdAt": "2020-10-12T16:03:45.000Z",
+        "updatedAt": "2021-06-02T16:15:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

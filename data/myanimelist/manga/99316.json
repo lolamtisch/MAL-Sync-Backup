@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "もういちど、なんどでも。"
+  ],
+  "authors": [
+    "Aniya, Yuiji"
+  ],
+  "id": 99316,
+  "type": "manga",
+  "title": "Mou Ichido, Nandodemo.",
+  "url": "https://myanimelist.net/manga/99316/Mou_Ichido_Nandodemo",
+  "image": "https://cdn.myanimelist.net/images/manga/2/179361.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:32.000Z",
+  "updatedAt": "2021-04-01T12:31:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "846f6257-7809-464e-bbb7-8414cd61ab75": {
+        "authors": [
+          "Aniya Yuiji"
+        ],
+        "identifier": "846f6257-7809-464e-bbb7-8414cd61ab75",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mou Ichido, Nando Demo.",
+        "url": "https://mangadex.org/title/846f6257-7809-464e-bbb7-8414cd61ab75",
+        "image": "https://uploads.mangadex.org/covers/846f6257-7809-464e-bbb7-8414cd61ab75/164730e3-7ccd-4a0c-8d3a-913f20f98739.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99316,
+        "aniId": 87310,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:26:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mou_ichido_nando_demo": {
+        "authors": [
+          "ANIYA Yuiji"
+        ],
+        "identifier": "mou_ichido_nando_demo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mou Ichido, Nando Demo.",
+        "url": "https://fanfox.net/manga/mou_ichido_nando_demo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20455/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99316,
+        "aniId": 87310,
+        "createdAt": "2021-04-01T12:31:52.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

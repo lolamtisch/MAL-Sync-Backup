@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "God does not play dice.",
+    "神はサイコロを振らない"
+  ],
+  "authors": [
+    "Takeuchi, Motoki"
+  ],
+  "id": 15216,
+  "type": "manga",
+  "title": "Kami wa Saikoro wo Furanai",
+  "url": "https://myanimelist.net/manga/15216/Kami_wa_Saikoro_wo_Furanai",
+  "image": "https://cdn.myanimelist.net/images/manga/1/170596.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:11.000Z",
+  "updatedAt": "2021-05-02T01:32:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "94afe8d8-8be0-4597-bd5e-b624546d6044": {
+        "authors": [
+          "Takeuchi Motoki"
+        ],
+        "identifier": "94afe8d8-8be0-4597-bd5e-b624546d6044",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kami wa Saikoro o Furanai",
+        "url": "https://mangadex.org/title/94afe8d8-8be0-4597-bd5e-b624546d6044",
+        "image": "https://uploads.mangadex.org/covers/94afe8d8-8be0-4597-bd5e-b624546d6044/9b1c2a4b-83e3-42ab-896a-95baac851a46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15216,
+        "aniId": 45216,
+        "createdAt": "2020-10-12T16:13:15.000Z",
+        "updatedAt": "2021-06-05T20:01:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "god_does_not_play_dice": {
+        "authors": [
+          "TAKEUCHI Motoki"
+        ],
+        "identifier": "god_does_not_play_dice",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "God Does Not Play Dice",
+        "url": "https://fanfox.net/manga/god_does_not_play_dice/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6358/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15216,
+        "aniId": 45216,
+        "createdAt": "2021-05-04T03:33:31.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

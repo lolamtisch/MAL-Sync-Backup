@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "리버스 나이트"
+  ],
+  "authors": [
+    "Jaebeom Yu"
+  ],
+  "id": 85202,
+  "malId": 57777,
+  "type": "manga",
+  "title": "Rebirth Knight",
+  "url": "https://anilist.co/manga/85202",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55202.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:32.000Z",
+  "updatedAt": "2021-06-03T21:50:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e17291c8-0356-4438-97e7-1346da5faa11": {
+        "authors": [
+          "Jae-Beom Yu"
+        ],
+        "identifier": "e17291c8-0356-4438-97e7-1346da5faa11",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rebirth Knight",
+        "url": "https://mangadex.org/title/e17291c8-0356-4438-97e7-1346da5faa11",
+        "image": "https://uploads.mangadex.org/covers/e17291c8-0356-4438-97e7-1346da5faa11/6207d393-ea60-4942-b91d-f033d1fb5502.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57777,
+        "aniId": 85202,
+        "createdAt": "2020-10-12T16:06:42.000Z",
+        "updatedAt": "2021-06-03T22:40:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rebirth_knight": {
+        "authors": [],
+        "identifier": "rebirth_knight",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rebirth Knight",
+        "url": "https://manganelo.com/manga/rebirth_knight",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1483-rebirth_knight.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57777,
+        "aniId": 85202,
+        "createdAt": "2020-10-12T16:25:08.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

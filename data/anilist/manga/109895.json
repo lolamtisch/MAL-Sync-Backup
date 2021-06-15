@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "マヤさんの夜ふかし",
+    "The Night Owl Witch"
+  ],
+  "authors": [
+    "Shin Hotani"
+  ],
+  "id": 109895,
+  "malId": 111062,
+  "type": "manga",
+  "title": "Maya-san no Yofukashi",
+  "url": "https://anilist.co/manga/109895",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109895-395AddJmHcax.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:18.000Z",
+  "updatedAt": "2021-05-20T14:56:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db28e73e-acc8-478b-8d47-c5dea79ffed2": {
+        "authors": [
+          "Hotani Shin"
+        ],
+        "identifier": "db28e73e-acc8-478b-8d47-c5dea79ffed2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maya-san no Yofukashi",
+        "url": "https://mangadex.org/title/db28e73e-acc8-478b-8d47-c5dea79ffed2",
+        "image": "https://uploads.mangadex.org/covers/db28e73e-acc8-478b-8d47-c5dea79ffed2/2064b7f0-1aba-4539-bed3-e8e9a64a0d4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111062,
+        "aniId": 109895,
+        "createdAt": "2020-10-12T16:16:19.000Z",
+        "updatedAt": "2021-06-06T21:31:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sj919628": {
+        "authors": [],
+        "identifier": "sj919628",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Night Owl Witch",
+        "url": "https://manganelo.com/manga/sj919628",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1031-sj919628.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111062,
+        "aniId": 109895,
+        "createdAt": "2020-10-12T16:25:28.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

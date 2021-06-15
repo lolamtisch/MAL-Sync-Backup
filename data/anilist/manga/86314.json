@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "変身のニュース",
+    "News of Transformations"
+  ],
+  "authors": [
+    "Natsujikei Miyazaki"
+  ],
+  "id": 86314,
+  "malId": 88015,
+  "type": "manga",
+  "title": "Henshin no News",
+  "url": "https://anilist.co/manga/86314",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86314-ARaRMQDvFKSd.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:52.000Z",
+  "updatedAt": "2021-05-20T14:52:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dbe15246-3721-450c-9c91-cebcb6f6f15b": {
+        "authors": [
+          "Miyazaki Natsujikei"
+        ],
+        "identifier": "dbe15246-3721-450c-9c91-cebcb6f6f15b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "News of Transformations",
+        "url": "https://mangadex.org/title/dbe15246-3721-450c-9c91-cebcb6f6f15b",
+        "image": "https://uploads.mangadex.org/covers/dbe15246-3721-450c-9c91-cebcb6f6f15b/804c4100-ecf1-441c-b6a2-5e451497ab3a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88015,
+        "aniId": 86314,
+        "createdAt": "2020-10-12T16:08:28.000Z",
+        "updatedAt": "2021-06-04T10:23:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ひかるとヒカリ"
+  ],
+  "authors": [
+    "Getsu Takebayashi"
+  ],
+  "id": 76002,
+  "malId": 46002,
+  "type": "manga",
+  "title": "Hikaru to Hikari",
+  "url": "https://anilist.co/manga/76002",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/76002-sO7UXv3NYXkY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:29.000Z",
+  "updatedAt": "2021-05-20T14:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "11becd5d-693d-4983-9b81-05dd4a933e24": {
+        "authors": [
+          "Takebayashi Getsu"
+        ],
+        "identifier": "11becd5d-693d-4983-9b81-05dd4a933e24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hikaru to Hikari",
+        "url": "https://mangadex.org/title/11becd5d-693d-4983-9b81-05dd4a933e24",
+        "image": "https://uploads.mangadex.org/covers/11becd5d-693d-4983-9b81-05dd4a933e24/85a177eb-0afe-440d-9f99-a2531b30f4dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46002,
+        "aniId": 76002,
+        "createdAt": "2020-10-12T16:05:45.000Z",
+        "updatedAt": "2021-06-03T14:50:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hikaru_to_hikari": {
+        "authors": [
+          "TAKEBAYASHI Getsu"
+        ],
+        "identifier": "hikaru_to_hikari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hikaru to Hikari",
+        "url": "https://fanfox.net/manga/hikaru_to_hikari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11554/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46002,
+        "aniId": 76002,
+        "createdAt": "2021-03-26T16:20:55.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

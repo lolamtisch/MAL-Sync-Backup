@@ -1,0 +1,62 @@
+{
+  "authors": [
+    "Airdrop (Circle)",
+    "Torii Sumi"
+  ],
+  "identifier": "1cf43dba-eb53-49b3-8176-3c9f47967631",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "Touhou - Mahou Seiki no Shounen Shoujo (Doujinshi)",
+  "url": "https://mangadex.org/title/1cf43dba-eb53-49b3-8176-3c9f47967631",
+  "image": "https://uploads.mangadex.org/covers/1cf43dba-eb53-49b3-8176-3c9f47967631/7f227fc2-fdf4-4b81-b7c0-20a9e719e807.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 57295,
+  "aniId": 85666,
+  "createdAt": "2020-10-12T16:19:38.000Z",
+  "updatedAt": "2021-06-07T22:25:49.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Magical Girl Site",
+      "魔法少女サイト"
+    ],
+    "authors": [
+      "Satou, Kentarou"
+    ],
+    "id": 57295,
+    "type": "manga",
+    "title": "Mahou Shoujo Site",
+    "url": "https://myanimelist.net/manga/57295/Mahou_Shoujo_Site",
+    "image": "https://cdn.myanimelist.net/images/manga/2/118501.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:44:50.000Z",
+    "updatedAt": "2021-05-21T17:13:20.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Magical Girl Site",
+      "魔法少女サイト",
+      "Czarodziejki.net"
+    ],
+    "authors": [
+      "Kentarou Satou"
+    ],
+    "id": 85666,
+    "malId": 57295,
+    "type": "manga",
+    "title": "Mahou Shoujo Site",
+    "url": "https://anilist.co/manga/85666",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55666.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:50:30.000Z",
+    "updatedAt": "2021-05-20T14:50:30.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/57295/Mahou_Shoujo_Site"
+}

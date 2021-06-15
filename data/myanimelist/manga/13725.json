@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Hello,pi",
+    "Annyeong, Pi",
+    "안녕 Pi"
+  ],
+  "authors": [
+    "Shin, Yoo Ha"
+  ],
+  "id": 13725,
+  "type": "manga",
+  "title": "Hello, Pi",
+  "url": "https://myanimelist.net/manga/13725/Hello_Pi",
+  "image": "https://cdn.myanimelist.net/images/manga/3/19426.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:00.000Z",
+  "updatedAt": "2021-05-01T18:03:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "42cc5eaa-6e24-43cc-a74a-547c495a61bd": {
+        "authors": [
+          "SHIN Yoo Ha"
+        ],
+        "identifier": "42cc5eaa-6e24-43cc-a74a-547c495a61bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Annyeong, Pi",
+        "url": "https://mangadex.org/title/42cc5eaa-6e24-43cc-a74a-547c495a61bd",
+        "image": "https://uploads.mangadex.org/covers/42cc5eaa-6e24-43cc-a74a-547c495a61bd/d66d117f-3c6b-459a-87f4-9439f4dbe943.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13725,
+        "aniId": 43725,
+        "createdAt": "2020-10-12T16:11:56.000Z",
+        "updatedAt": "2021-06-05T12:06:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

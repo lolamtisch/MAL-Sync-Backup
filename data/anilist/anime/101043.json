@@ -1,0 +1,94 @@
+{
+  "altTitle": [
+    "アイカツフレンズ!"
+  ],
+  "id": 101043,
+  "malId": 37204,
+  "type": "anime",
+  "title": "Aikatsu Friends!",
+  "url": "https://anilist.co/anime/101043",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101043-zlDZ74rVpVPo.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:33.000Z",
+  "updatedAt": "2021-05-20T14:44:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "jy04": {
+        "identifier": "jy04",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Aikatsu Friends!",
+        "url": "https://9anime.ru/watch/aikatsu-friends.jy04",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/02/b2eb3e1e58d3405a1ab8ce50765156a7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37204,
+        "aniId": 101043,
+        "createdAt": "2020-10-12T15:52:20.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aikatsu-friends": {
+        "identifier": "aikatsu-friends",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aikatsu Friends!",
+        "url": "https://www3.gogoanime.io/category/aikatsu-friends",
+        "image": "https://cdnimg.xyz/cover/aikatsu-friends.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37204,
+        "aniId": 101043,
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Twistmoe": {
+      "aikatsu-friends": {
+        "identifier": "aikatsu-friends",
+        "type": "anime",
+        "page": "Twistmoe",
+        "title": "Aikatsu Friends!",
+        "url": "https://twist.moe/a/aikatsu-friends/1",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37204,
+        "aniId": 101043,
+        "createdAt": "2020-10-12T16:26:36.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2523": {
+        "identifier": "2523",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Aikatsu Friends!",
+        "url": "https://pahe.win/a/2523",
+        "image": "https://i.animepahe.com/posters/c874f8647696bf18646799e81d573e5c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37204,
+        "aniId": 101043,
+        "createdAt": "2020-12-23T06:56:44.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

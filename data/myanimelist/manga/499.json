@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    ".remote.",
+    "リモート"
+  ],
+  "authors": [
+    "Kibayashi, Shin",
+    "Koshiba, Tetsuya"
+  ],
+  "id": 499,
+  "type": "manga",
+  "title": "Remote",
+  "url": "https://myanimelist.net/manga/499/Remote",
+  "image": "https://cdn.myanimelist.net/images/manga/1/56465.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:22.000Z",
+  "updatedAt": "2021-04-08T07:21:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e125fa21-1b6f-4104-8574-cdf35408ff8e": {
+        "authors": [
+          "Amagi Seimaru",
+          "Koshiba Tetsuya"
+        ],
+        "identifier": "e125fa21-1b6f-4104-8574-cdf35408ff8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Remote",
+        "url": "https://mangadex.org/title/e125fa21-1b6f-4104-8574-cdf35408ff8e",
+        "image": "https://uploads.mangadex.org/covers/e125fa21-1b6f-4104-8574-cdf35408ff8e/b91ab0f3-e91a-49c8-8b06-5b79a99d4b14.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 499,
+        "aniId": 30499,
+        "createdAt": "2020-10-12T16:11:27.000Z",
+        "updatedAt": "2021-06-05T08:29:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gz918525": {
+        "authors": [],
+        "identifier": "gz918525",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Remote Sister Battles",
+        "url": "https://manganelo.com/manga/gz918525",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/22168-gz918525.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 499,
+        "aniId": 30499,
+        "createdAt": "2020-10-12T16:23:13.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "remote": {
+        "authors": [
+          "AMAGI Seimaru",
+          "KOSHIBA Tetsuya"
+        ],
+        "identifier": "remote",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Remote",
+        "url": "https://mangasee123.com/manga/Remote",
+        "image": "https://cover.nep.li/cover/Remote.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 499,
+        "aniId": 30499,
+        "createdAt": "2021-03-12T11:39:09.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

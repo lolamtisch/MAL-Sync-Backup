@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "アニメ ひみつの花園",
+    "The Animated Secret Garden",
+    "Secret Flower Garden",
+    "The Secret Garden",
+    "Anime Himitsu no Hanazono"
+  ],
+  "id": 2810,
+  "malId": 2810,
+  "type": "anime",
+  "title": "Himitsu no Hanazono",
+  "url": "https://anilist.co/anime/2810",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2810.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:27.000Z",
+  "updatedAt": "2021-05-20T14:36:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "06zk": {
+        "identifier": "06zk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Secret Garden",
+        "url": "https://9anime.ru/watch/the-secret-garden.06zk",
+        "image": "http://static.akacdn.ru/static/images/2018/04/4764e791d0e9d12be0464977b13d5cbc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2810,
+        "aniId": 2810,
+        "createdAt": "2020-10-12T15:48:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ANZ",
+    "안즈",
+    "Anjeu"
+  ],
+  "authors": [
+    "Charcoal"
+  ],
+  "id": 118522,
+  "malId": null,
+  "type": "manga",
+  "title": "ANZ",
+  "url": "https://anilist.co/manga/118522",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118522-oZEI8tbwuGrP.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T11:08:48.000Z",
+  "updatedAt": "2021-05-26T11:08:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8bfa142d-c006-4b76-a6ac-3f7cff7eeed4": {
+        "authors": [
+          "Charcoal"
+        ],
+        "identifier": "8bfa142d-c006-4b76-a6ac-3f7cff7eeed4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Anz",
+        "url": "https://mangadex.org/title/8bfa142d-c006-4b76-a6ac-3f7cff7eeed4",
+        "image": "https://uploads.mangadex.org/covers/8bfa142d-c006-4b76-a6ac-3f7cff7eeed4/c3d0cc4f-81b2-456d-a282-737cd5811849.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118522,
+        "createdAt": "2020-10-12T16:09:57.000Z",
+        "updatedAt": "2021-06-04T22:11:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

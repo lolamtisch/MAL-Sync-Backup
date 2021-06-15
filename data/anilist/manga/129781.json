@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "The Golden Forest",
+    "황금숲",
+    "Golden Forest"
+  ],
+  "authors": [
+    "Ryu-Hwa",
+    "So-Ri Yun",
+    "Gyeon-Ji"
+  ],
+  "id": 129781,
+  "malId": null,
+  "type": "manga",
+  "title": "Hwanggeumsup",
+  "url": "https://anilist.co/manga/129781",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129781-W64ejaDKK8WA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-25T02:38:17.000Z",
+  "updatedAt": "2021-05-25T02:38:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "29b25d0c-54eb-4a04-b477-c194ae2547d7": {
+        "authors": [
+          "Ryuhwa",
+          "Gyeonji",
+          "Yoon Sori"
+        ],
+        "identifier": "29b25d0c-54eb-4a04-b477-c194ae2547d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Golden Forest",
+        "url": "https://mangadex.org/title/29b25d0c-54eb-4a04-b477-c194ae2547d7",
+        "image": "https://uploads.mangadex.org/covers/29b25d0c-54eb-4a04-b477-c194ae2547d7/056ff948-376d-431e-966f-93291b1dc9a2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 129781,
+        "createdAt": "2021-02-01T13:31:44.000Z",
+        "updatedAt": "2021-06-08T10:59:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "Dragon Wars"
+  ],
+  "authors": [
+    "Ryuusen Sugita"
+  ],
+  "id": 31764,
+  "malId": 1764,
+  "type": "manga",
+  "title": "Dragon Wars - The Tale of Lufiak Duell",
+  "url": "https://anilist.co/manga/31764",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1764.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:53.000Z",
+  "updatedAt": "2021-05-20T14:36:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "toumakun": {
+        "authors": [],
+        "identifier": "toumakun",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Touma-kun",
+        "url": "https://manganelo.com/manga/toumakun",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20075-toumakun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1764,
+        "aniId": 31764,
+        "createdAt": "2020-10-12T16:25:48.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

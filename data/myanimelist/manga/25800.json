@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "Doctor K"
+  ],
+  "authors": [
+    "Mafune, Kazuo"
+  ],
+  "id": 25800,
+  "type": "manga",
+  "title": "Doctor K",
+  "url": "https://myanimelist.net/manga/25800/Doctor_K",
+  "image": "https://cdn.myanimelist.net/images/manga/1/183439.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:23.000Z",
+  "updatedAt": "2021-05-28T20:55:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48c7b540-df85-487d-8522-f13d4ae22b50": {
+        "authors": [
+          "Mafune Kazuo"
+        ],
+        "identifier": "48c7b540-df85-487d-8522-f13d4ae22b50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doctor K",
+        "url": "https://mangadex.org/title/48c7b540-df85-487d-8522-f13d4ae22b50",
+        "image": "https://uploads.mangadex.org/covers/48c7b540-df85-487d-8522-f13d4ae22b50/53d84b00-115a-4d1a-8784-60b849a714f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25800,
+        "aniId": 55800,
+        "createdAt": "2020-10-12T16:09:31.000Z",
+        "updatedAt": "2021-06-04T18:09:48.000Z",
+        "deletedAt": null
+      },
+      "5967e78a-4ffd-4c3d-9821-92c89704e7ee": {
+        "authors": [
+          "OKU Megumi"
+        ],
+        "identifier": "5967e78a-4ffd-4c3d-9821-92c89704e7ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ii kara Ore no Iu Koto wo, Kike - Do S Doctor ni Shite mo Raitai Koto",
+        "url": "https://mangadex.org/title/5967e78a-4ffd-4c3d-9821-92c89704e7ee",
+        "image": "https://uploads.mangadex.org/covers/5967e78a-4ffd-4c3d-9821-92c89704e7ee/d0480352-17b7-4c76-aa10-427db9aae876.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25800,
+        "aniId": 55800,
+        "createdAt": "2020-10-12T16:16:55.000Z",
+        "updatedAt": "2021-06-07T03:05:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "doctor_mordrid": {
+        "authors": [],
+        "identifier": "doctor_mordrid",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Doctor Mordrid",
+        "url": "https://manganelo.com/manga/doctor_mordrid",
+        "image": "https://avt.mkklcdnv6.com/33/m/16-1583494674.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25800,
+        "aniId": 55800,
+        "createdAt": "2020-10-12T16:22:41.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

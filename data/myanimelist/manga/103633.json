@@ -1,0 +1,81 @@
+{
+  "altTitle": [
+    "For imperfect people",
+    "不完全な人の為に"
+  ],
+  "authors": [
+    "Higashi 385"
+  ],
+  "id": 103633,
+  "type": "manga",
+  "title": "Fukanzen na Hito no Tame ni",
+  "url": "https://myanimelist.net/manga/103633/Fukanzen_na_Hito_no_Tame_ni",
+  "image": "https://cdn.myanimelist.net/images/manga/2/198480.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:49.000Z",
+  "updatedAt": "2021-02-08T06:19:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1ef9112e-3159-455e-9e11-85a55a0b98ae": {
+        "authors": [
+          "Higashi 385"
+        ],
+        "identifier": "1ef9112e-3159-455e-9e11-85a55a0b98ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "For Imperfect People",
+        "url": "https://mangadex.org/title/1ef9112e-3159-455e-9e11-85a55a0b98ae",
+        "image": "https://uploads.mangadex.org/covers/1ef9112e-3159-455e-9e11-85a55a0b98ae/1b24bb8a-3d0c-4b91-aa4c-07f86eab4e28.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103633,
+        "aniId": 101141,
+        "createdAt": "2020-10-12T16:11:32.000Z",
+        "updatedAt": "2021-06-05T09:04:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dm922528": {
+        "authors": [],
+        "identifier": "dm922528",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "An Imperfect Kiss",
+        "url": "https://manganelo.com/manga/dm922528",
+        "image": "https://avt.mkklcdnv6.com/47/m/20-1585022886.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103633,
+        "aniId": 101141,
+        "createdAt": "2020-10-12T16:22:40.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "fukanzen_na_hito_no_tame_ni": {
+        "authors": [],
+        "identifier": "fukanzen_na_hito_no_tame_ni",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fukanzen na Hito no Tame ni",
+        "url": "https://manganelo.com/manga/fukanzen_na_hito_no_tame_ni",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20796-fukanzen_na_hito_no_tame_ni.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103633,
+        "aniId": 101141,
+        "createdAt": "2020-10-12T16:22:59.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

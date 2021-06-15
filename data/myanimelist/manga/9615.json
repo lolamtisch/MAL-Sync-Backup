@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Sarasah",
+    "Sarasa",
+    "사라사"
+  ],
+  "authors": [
+    "Ryu, Riang"
+  ],
+  "id": 9615,
+  "type": "manga",
+  "title": "Sarasah",
+  "url": "https://myanimelist.net/manga/9615/Sarasah",
+  "image": "https://cdn.myanimelist.net/images/manga/4/30265.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:24.000Z",
+  "updatedAt": "2021-05-20T21:47:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d99c7d70-1c52-4699-adde-c07043565951": {
+        "authors": [
+          "Ryu Riang"
+        ],
+        "identifier": "d99c7d70-1c52-4699-adde-c07043565951",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sarasah",
+        "url": "https://mangadex.org/title/d99c7d70-1c52-4699-adde-c07043565951",
+        "image": "https://uploads.mangadex.org/covers/d99c7d70-1c52-4699-adde-c07043565951/c7805195-02cb-4681-b0c4-9c74ece821cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9615,
+        "aniId": 39615,
+        "createdAt": "2020-10-12T16:06:55.000Z",
+        "updatedAt": "2021-06-03T23:00:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sarasah": {
+        "authors": [
+          "RYU Riang"
+        ],
+        "identifier": "sarasah",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sarasah",
+        "url": "https://fanfox.net/manga/sarasah/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5005/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9615,
+        "aniId": 39615,
+        "createdAt": "2021-05-20T21:47:01.000Z",
+        "updatedAt": "2021-05-20T22:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

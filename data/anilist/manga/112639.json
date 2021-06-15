@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Vampire Chef",
+    "뱀파이어 셰프",
+    "Vampire Chef"
+  ],
+  "authors": [
+    "Kim Star",
+    "Seohyun"
+  ],
+  "id": 112639,
+  "malId": null,
+  "type": "manga",
+  "title": "Baempaieo Syepeu",
+  "url": "https://anilist.co/manga/112639",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112639-mIl4CAyY7Y9w.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T07:48:59.000Z",
+  "updatedAt": "2021-06-07T07:48:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fd51eb5b-6d1f-4145-b506-6e8251d1e7f6": {
+        "authors": [
+          "Seohyun",
+          "Kim Star"
+        ],
+        "identifier": "fd51eb5b-6d1f-4145-b506-6e8251d1e7f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vampire Chef",
+        "url": "https://mangadex.org/title/fd51eb5b-6d1f-4145-b506-6e8251d1e7f6",
+        "image": "https://uploads.mangadex.org/covers/fd51eb5b-6d1f-4145-b506-6e8251d1e7f6/5c448332-43ab-48ca-be58-6efda8af400e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112639,
+        "createdAt": "2020-10-12T16:17:25.000Z",
+        "updatedAt": "2021-06-07T08:09:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

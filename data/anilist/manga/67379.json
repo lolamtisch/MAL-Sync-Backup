@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Shoku King",
+    "食キング"
+  ],
+  "authors": [
+    "Shigeru Tsuchiyama"
+  ],
+  "id": 67379,
+  "malId": 37379,
+  "type": "manga",
+  "title": "Shoku King",
+  "url": "https://anilist.co/manga/67379",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37379.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:31.000Z",
+  "updatedAt": "2021-05-20T14:48:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79609b5d-fab6-4218-9c99-7bf31189d762": {
+        "authors": [
+          "Tsuchiyama Shigeru"
+        ],
+        "identifier": "79609b5d-fab6-4218-9c99-7bf31189d762",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shoku King",
+        "url": "https://mangadex.org/title/79609b5d-fab6-4218-9c99-7bf31189d762",
+        "image": "https://uploads.mangadex.org/covers/79609b5d-fab6-4218-9c99-7bf31189d762/0965db72-714c-480a-80d8-08d19d1173a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37379,
+        "aniId": 67379,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:48:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shoku_king": {
+        "authors": [],
+        "identifier": "shoku_king",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shoku King",
+        "url": "https://manganelo.com/manga/shoku_king",
+        "image": "https://avt.mkklcdnv6.com/19/q/10-1583482869.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37379,
+        "aniId": 67379,
+        "createdAt": "2020-10-12T16:25:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

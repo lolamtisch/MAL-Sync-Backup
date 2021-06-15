@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Seikai Trilogy",
+    "星界の紋章",
+    "The Seikai Trilogy: Crest Of The Stars"
+  ],
+  "authors": [
+    "Hiroyuki Morioka",
+    "Toshihiro Ono",
+    "Aya Yoshinaga"
+  ],
+  "id": 30519,
+  "malId": 519,
+  "type": "manga",
+  "title": "Seikai no Monshou",
+  "url": "https://anilist.co/manga/30519",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30519-QzgfdFWySvCi.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "seikai_no_monshou_yonemura_kouichirou": {
+        "authors": [
+          "MORIOKA Hiroyuki"
+        ],
+        "identifier": "seikai_no_monshou_yonemura_kouichirou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seikai no Monshou (YONEMURA Kouichirou)",
+        "url": "https://fanfox.net/manga/seikai_no_monshou_yonemura_kouichirou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14597/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 519,
+        "aniId": 30519,
+        "createdAt": "2021-01-03T17:50:21.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "seikai-no-monshou-y-o-n-e-m-u-r-a-kouichirou": {
+        "authors": [
+          "MORIOKA Hiroyuki",
+          "YONEMURA Kouichirou"
+        ],
+        "identifier": "seikai-no-monshou-y-o-n-e-m-u-r-a-kouichirou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Seikai no Monshou (YONEMURA Kouichirou)",
+        "url": "https://mangasee123.com/manga/Seikai-No-Monshou-Y-O-N-E-M-U-R-A-Kouichirou",
+        "image": "https://cover.nep.li/cover/Seikai-No-Monshou-Y-O-N-E-M-U-R-A-Kouichirou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 519,
+        "aniId": 30519,
+        "createdAt": "2021-01-03T23:26:09.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "暴走本能メランコリア",
+    "Berserk Instinct Melancholia"
+  ],
+  "authors": [
+    "Izumi Hiou"
+  ],
+  "id": 75709,
+  "malId": 45709,
+  "type": "manga",
+  "title": "Bousou Honnou Melancholia",
+  "url": "https://anilist.co/manga/75709",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45709.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:27.000Z",
+  "updatedAt": "2021-05-20T14:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d68d26be-eb18-48de-9747-703335655afc": {
+        "authors": [
+          "Hiou Izumi"
+        ],
+        "identifier": "d68d26be-eb18-48de-9747-703335655afc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bousou Honnou Melancholia",
+        "url": "https://mangadex.org/title/d68d26be-eb18-48de-9747-703335655afc",
+        "image": "https://uploads.mangadex.org/covers/d68d26be-eb18-48de-9747-703335655afc/7d994176-97ed-47bc-a444-fbfe9c10636a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45709,
+        "aniId": 75709,
+        "createdAt": "2020-10-12T16:05:43.000Z",
+        "updatedAt": "2021-06-03T14:30:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bousou_honnou_melancholia": {
+        "authors": [],
+        "identifier": "bousou_honnou_melancholia",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bousou Honnou Melancholia",
+        "url": "https://manganelo.com/manga/bousou_honnou_melancholia",
+        "image": "https://avt.mkklcdnv6.com/19/c/7-1583476987.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45709,
+        "aniId": 75709,
+        "createdAt": "2020-10-12T16:22:20.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

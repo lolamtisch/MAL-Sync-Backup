@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "汉化日记",
+    "God Troubles Me",
+    "Men's Diary"
+  ],
+  "id": 110646,
+  "malId": 39676,
+  "type": "anime",
+  "title": "Hanhua Riji",
+  "url": "https://anilist.co/anime/110646",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110646-xwYrUop0l3zX.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:57.000Z",
+  "updatedAt": "2021-05-20T14:44:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "yl91": {
+        "identifier": "yl91",
+        "type": "anime",
+        "page": "9anime",
+        "title": "God Troubles Me",
+        "url": "https://9anime.to/watch/god-troubles-me.yl91",
+        "image": "https://static.akacdn.ru/files/images/2020/04/afe0be546423ee59afc8b730c8c65d6e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39676,
+        "aniId": 110646,
+        "createdAt": "2020-10-12T15:56:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "han-hua-ri-ji": {
+        "identifier": "han-hua-ri-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Han Hua Ri Ji",
+        "url": "https://www17.gogoanime.io/category/han-hua-ri-ji",
+        "image": "https://gogocdn.net/cover/han-hua-ri-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39676,
+        "aniId": 110646,
+        "createdAt": "2020-10-12T16:00:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

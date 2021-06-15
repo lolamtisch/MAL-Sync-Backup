@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "빌더"
+  ],
+  "authors": [
+    "Ha-Neul Moon",
+    "Dong-Joon Lee"
+  ],
+  "id": 86405,
+  "malId": null,
+  "type": "manga",
+  "title": "Builder",
+  "url": "https://anilist.co/manga/86405",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86405-cdcwanqWkcb2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T10:18:57.000Z",
+  "updatedAt": "2021-06-04T10:18:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a2465ec2-0c0d-4789-a10f-416405f96894": {
+        "authors": [
+          "이동준",
+          "문하늘"
+        ],
+        "identifier": "a2465ec2-0c0d-4789-a10f-416405f96894",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BUILDER",
+        "url": "https://mangadex.org/title/a2465ec2-0c0d-4789-a10f-416405f96894",
+        "image": "https://uploads.mangadex.org/covers/a2465ec2-0c0d-4789-a10f-416405f96894/99468bae-f6db-4b06-a8b2-85eebed41708.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 86405,
+        "createdAt": "2020-10-12T16:08:26.000Z",
+        "updatedAt": "2021-06-04T12:44:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

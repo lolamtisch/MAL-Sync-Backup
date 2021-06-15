@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "童の草"
+  ],
+  "authors": [
+    "Ryu Miyanaga"
+  ],
+  "id": 52577,
+  "malId": 22577,
+  "type": "manga",
+  "title": "Warabe no Kusa",
+  "url": "https://anilist.co/manga/52577",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22577.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:32.000Z",
+  "updatedAt": "2021-05-20T14:46:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d0350850-4aea-4800-9894-39965c1e3f5d": {
+        "authors": [
+          "MIYANAGA Ryu",
+          "AMOU Gin"
+        ],
+        "identifier": "d0350850-4aea-4800-9894-39965c1e3f5d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Warabe no Kusa",
+        "url": "https://mangadex.org/title/d0350850-4aea-4800-9894-39965c1e3f5d",
+        "image": "https://uploads.mangadex.org/covers/d0350850-4aea-4800-9894-39965c1e3f5d/5f50a34f-101d-4975-bf9e-a725b5093581.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22577,
+        "aniId": 52577,
+        "createdAt": "2020-10-12T16:05:50.000Z",
+        "updatedAt": "2021-06-03T15:22:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

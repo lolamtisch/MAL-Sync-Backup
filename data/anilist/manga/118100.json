@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "스윗솔티",
+    "Seuwis Solti"
+  ],
+  "authors": [
+    "Pi Dal"
+  ],
+  "id": 118100,
+  "malId": null,
+  "type": "manga",
+  "title": "Sweet Salty",
+  "url": "https://anilist.co/manga/118100",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118100-KVFvvaAhN8rA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T21:21:34.000Z",
+  "updatedAt": "2021-06-07T21:21:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9ac7757b-f7b2-417a-8a64-fd28acbf2c70": {
+        "authors": [
+          "Dal Pi"
+        ],
+        "identifier": "9ac7757b-f7b2-417a-8a64-fd28acbf2c70",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sweet Salty",
+        "url": "https://mangadex.org/title/9ac7757b-f7b2-417a-8a64-fd28acbf2c70",
+        "image": "https://uploads.mangadex.org/covers/9ac7757b-f7b2-417a-8a64-fd28acbf2c70/98903864-0c43-47e1-ae00-74dc21ad135d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 118100,
+        "createdAt": "2020-10-12T16:19:01.000Z",
+        "updatedAt": "2021-06-07T21:23:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

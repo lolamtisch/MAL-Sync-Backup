@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ニカキリ！",
+    "Nikakiri!",
+    "Nica and Killey!"
+  ],
+  "authors": [
+    "AidaIro"
+  ],
+  "id": 77557,
+  "malId": 47557,
+  "type": "manga",
+  "title": "Nika Kiri!",
+  "url": "https://anilist.co/manga/77557",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47557.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:36.000Z",
+  "updatedAt": "2021-05-20T14:49:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0fee8fdc-d0cc-4606-af73-c244786f4d4e": {
+        "authors": [
+          "Aida Iro"
+        ],
+        "identifier": "0fee8fdc-d0cc-4606-af73-c244786f4d4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nica and Killey",
+        "url": "https://mangadex.org/title/0fee8fdc-d0cc-4606-af73-c244786f4d4e",
+        "image": "https://uploads.mangadex.org/covers/0fee8fdc-d0cc-4606-af73-c244786f4d4e/1163bb05-5231-4a40-955c-ac777cdf6e0e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47557,
+        "aniId": 77557,
+        "createdAt": "2020-10-12T16:07:39.000Z",
+        "updatedAt": "2021-06-04T04:26:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

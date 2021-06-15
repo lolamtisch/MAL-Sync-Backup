@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "殺人無罪",
+    "Murder Innocence"
+  ],
+  "authors": [
+    "Jun Kumagai",
+    "Hiroshi Ueda"
+  ],
+  "id": 108312,
+  "malId": 118327,
+  "type": "manga",
+  "title": "Satsujin Muzai",
+  "url": "https://anilist.co/manga/108312",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108312-r7zew7NNCroh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:03.000Z",
+  "updatedAt": "2021-05-20T14:58:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "97ab8d77-561f-4ab7-85e4-357b7320dba5": {
+        "authors": [
+          "KUMAGAI Jun",
+          "UEDA Hiroshi"
+        ],
+        "identifier": "97ab8d77-561f-4ab7-85e4-357b7320dba5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Satsujin Muzai",
+        "url": "https://mangadex.org/title/97ab8d77-561f-4ab7-85e4-357b7320dba5",
+        "image": "https://uploads.mangadex.org/covers/97ab8d77-561f-4ab7-85e4-357b7320dba5/6709009f-a45f-4c1b-a90b-6e0b344ef977.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118327,
+        "aniId": 108312,
+        "createdAt": "2020-11-05T23:58:16.000Z",
+        "updatedAt": "2021-06-08T06:35:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Tac・Tic...s",
+    "モンキー・パンチ・ザ・漫画セレクション 2 Tac・Tic…s"
+  ],
+  "authors": [
+    "Monkey Punch"
+  ],
+  "id": 127104,
+  "malId": null,
+  "type": "manga",
+  "title": "Tac・Tic...s",
+  "url": "https://anilist.co/manga/127104",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127104-r8k3Rghz8376.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T05:31:16.000Z",
+  "updatedAt": "2021-06-02T05:31:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5826a4af-8adb-416c-972c-8f10cea5525d": {
+        "authors": [
+          "Monkey Punch"
+        ],
+        "identifier": "5826a4af-8adb-416c-972c-8f10cea5525d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tac Tic...s",
+        "url": "https://mangadex.org/title/5826a4af-8adb-416c-972c-8f10cea5525d",
+        "image": "https://uploads.mangadex.org/covers/5826a4af-8adb-416c-972c-8f10cea5525d/79a30be8-de89-4265-b0a4-534bea5b4270.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127104,
+        "createdAt": "2020-11-17T18:21:01.000Z",
+        "updatedAt": "2021-06-08T08:39:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

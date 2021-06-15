@@ -1,0 +1,104 @@
+{
+  "altTitle": [
+    "건달 히어로"
+  ],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 43055,
+  "malId": 13055,
+  "type": "manga",
+  "title": "Gangster Hero",
+  "url": "https://anilist.co/manga/43055",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13055.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:28.000Z",
+  "updatedAt": "2021-05-20T14:42:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe5bdb56-5262-4ee9-8114-262a6a6b4c82": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "fe5bdb56-5262-4ee9-8114-262a6a6b4c82",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gangster Hero",
+        "url": "https://mangadex.org/title/fe5bdb56-5262-4ee9-8114-262a6a6b4c82",
+        "image": "https://uploads.mangadex.org/covers/fe5bdb56-5262-4ee9-8114-262a6a6b4c82/3eaefb04-41f6-4c74-ac74-568b9ee01e22.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13055,
+        "aniId": 43055,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:52:12.000Z",
+        "deletedAt": null
+      },
+      "0973bc7d-0701-4fa6-bd17-86381c4ce742": {
+        "authors": [
+          "Jang Jo Rim",
+          "Mo Tyu"
+        ],
+        "identifier": "0973bc7d-0701-4fa6-bd17-86381c4ce742",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Love is a Gangster?!",
+        "url": "https://mangadex.org/title/0973bc7d-0701-4fa6-bd17-86381c4ce742",
+        "image": "https://uploads.mangadex.org/covers/0973bc7d-0701-4fa6-bd17-86381c4ce742/afc0ea09-daa9-4d87-b055-3d13fe41b6ac.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13055,
+        "aniId": 43055,
+        "createdAt": "2020-10-12T16:13:57.000Z",
+        "updatedAt": "2021-06-06T01:12:59.000Z",
+        "deletedAt": null
+      },
+      "287b2c6f-1a56-43b6-9c0c-d11758ca5c2b": {
+        "authors": [
+          "Nankou Kaori"
+        ],
+        "identifier": "287b2c6f-1a56-43b6-9c0c-d11758ca5c2b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Sadic Civilian's Gangster",
+        "url": "https://mangadex.org/title/287b2c6f-1a56-43b6-9c0c-d11758ca5c2b",
+        "image": "https://uploads.mangadex.org/covers/287b2c6f-1a56-43b6-9c0c-d11758ca5c2b/b88d0dc5-8c9d-4670-82e0-3c305bd9e00c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13055,
+        "aniId": 43055,
+        "createdAt": "2020-10-12T16:17:59.000Z",
+        "updatedAt": "2021-06-07T12:50:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "my_wife_is_a_gangster": {
+        "authors": [],
+        "identifier": "my_wife_is_a_gangster",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Wife is a Gangster",
+        "url": "https://manganelo.com/manga/my_wife_is_a_gangster",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18748-my_wife_is_a_gangster.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13055,
+        "aniId": 43055,
+        "createdAt": "2020-10-12T16:24:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

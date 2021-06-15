@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "男の子には秘密がある"
+  ],
+  "authors": [
+    "Yoshie Kaoruhara"
+  ],
+  "id": 106139,
+  "malId": 83763,
+  "type": "manga",
+  "title": "Otokonoko ni wa himitsu ga aru",
+  "url": "https://anilist.co/manga/106139",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106139-ejQuZHmX1K0E.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:33.000Z",
+  "updatedAt": "2021-05-20T14:52:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f4e8fa5-7c49-4752-ba87-868d45919197": {
+        "authors": [
+          "Kaoruhara Yoshie"
+        ],
+        "identifier": "8f4e8fa5-7c49-4752-ba87-868d45919197",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otoko no Ko ni wa Himitsu ga aru",
+        "url": "https://mangadex.org/title/8f4e8fa5-7c49-4752-ba87-868d45919197",
+        "image": "https://uploads.mangadex.org/covers/8f4e8fa5-7c49-4752-ba87-868d45919197/86914841-2e68-4357-aac4-1ee4a2eae0e8.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83763,
+        "aniId": 106139,
+        "createdAt": "2020-10-12T16:08:10.000Z",
+        "updatedAt": "2021-06-04T08:01:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

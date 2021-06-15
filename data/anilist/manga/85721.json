@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "いとしい、ということ"
+  ],
+  "authors": [
+    "Bosco Takasaki"
+  ],
+  "id": 85721,
+  "malId": 55373,
+  "type": "manga",
+  "title": "Itoshii, to Iu Koto",
+  "url": "https://anilist.co/manga/85721",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55721.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:50:02.000Z",
+  "updatedAt": "2021-06-03T23:49:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8961187c-4f13-4ec4-9822-0c898cb0833f": {
+        "authors": [
+          "Takasaki Bosco"
+        ],
+        "identifier": "8961187c-4f13-4ec4-9822-0c898cb0833f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itoshii, to Iu Koto",
+        "url": "https://mangadex.org/title/8961187c-4f13-4ec4-9822-0c898cb0833f",
+        "image": "https://uploads.mangadex.org/covers/8961187c-4f13-4ec4-9822-0c898cb0833f/c6becba1-6e7f-4e95-9d83-33f6786cf38e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55373,
+        "aniId": 85721,
+        "createdAt": "2020-10-12T16:07:01.000Z",
+        "updatedAt": "2021-06-04T08:50:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "itoshii_to_iu_koto": {
+        "authors": [
+          "Takasaki",
+          "Bosco"
+        ],
+        "identifier": "itoshii_to_iu_koto",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Itoshii, To Iu Koto",
+        "url": "https://manganelo.com/manga/itoshii_to_iu_koto",
+        "image": "https://avt.mkklcdnv6temp.com/10/b/9-1583480481.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55373,
+        "aniId": 85721,
+        "createdAt": "2021-05-13T09:55:21.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

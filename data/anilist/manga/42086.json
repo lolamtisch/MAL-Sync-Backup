@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Dr.コトー診療所",
+    "Doctor Koto Shinryousho",
+    "Dr. Koto's Clinic"
+  ],
+  "authors": [
+    "Takatoshi Yamada"
+  ],
+  "id": 42086,
+  "malId": 12086,
+  "type": "manga",
+  "title": "Dr. Koto Shinryoujo",
+  "url": "https://anilist.co/manga/42086",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42086-wn2qtwhOKVhT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0cba78e9-d324-4907-ae29-30bbc3537cf6": {
+        "authors": [
+          "Yamada Takatoshi"
+        ],
+        "identifier": "0cba78e9-d324-4907-ae29-30bbc3537cf6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dr. Koto Shinryoujo",
+        "url": "https://mangadex.org/title/0cba78e9-d324-4907-ae29-30bbc3537cf6",
+        "image": "https://uploads.mangadex.org/covers/0cba78e9-d324-4907-ae29-30bbc3537cf6/1634e14a-f6c6-48fe-9447-4e4830f174e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12086,
+        "aniId": 42086,
+        "createdAt": "2020-10-12T16:05:19.000Z",
+        "updatedAt": "2021-06-03T11:43:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dr_koto_shinryoujo": {
+        "authors": [],
+        "identifier": "dr_koto_shinryoujo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dr. Koto Shinryoujo",
+        "url": "https://manganelo.com/manga/dr_koto_shinryoujo",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/8344-dr_koto_shinryoujo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12086,
+        "aniId": 42086,
+        "createdAt": "2020-10-12T16:22:43.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sa961009": {
+        "authors": [
+          "Yamada Takatoshi"
+        ],
+        "identifier": "manga-sa961009",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dr. Koto Shinryoujo",
+        "url": "https://manganato.com/manga-sa961009",
+        "image": "https://avt.mkklcdnv6temp.com/23/d/7-1583477131.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12086,
+        "aniId": 42086,
+        "createdAt": "2021-06-09T08:04:25.000Z",
+        "updatedAt": "2021-06-09T08:34:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

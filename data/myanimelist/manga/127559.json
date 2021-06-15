@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "My Life as an Internet Novel",
+    "Inso's Law, Inso-ui Beopchik",
+    "인소의 법칙"
+  ],
+  "authors": [
+    "Yu, Han-ryeo",
+    "Ah Hyun"
+  ],
+  "id": 127559,
+  "type": "manga",
+  "title": "My Life as an Internet Novel",
+  "url": "https://myanimelist.net/manga/127559/My_Life_as_an_Internet_Novel",
+  "image": "https://cdn.myanimelist.net/images/manga/2/234083.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:23.000Z",
+  "updatedAt": "2021-06-04T06:19:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a2e20cc-bdc8-47f1-80fd-b6da4b2703df": {
+        "authors": [
+          "아현",
+          "유한려"
+        ],
+        "identifier": "8a2e20cc-bdc8-47f1-80fd-b6da4b2703df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inso's Law",
+        "url": "https://mangadex.org/title/8a2e20cc-bdc8-47f1-80fd-b6da4b2703df",
+        "image": "https://uploads.mangadex.org/covers/8a2e20cc-bdc8-47f1-80fd-b6da4b2703df/7910d1d2-7dac-479c-bf66-a2b91eb8034b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127559,
+        "aniId": 110059,
+        "createdAt": "2020-10-12T16:15:55.000Z",
+        "updatedAt": "2021-06-06T18:56:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "qs919538": {
+        "authors": [
+          "Yuhan"
+        ],
+        "identifier": "qs919538",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Inso's Law",
+        "url": "https://manganelo.com/manga/qs919538",
+        "image": "https://avt.mkklcdnv6temp.com/35/r/18-1583498481.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127559,
+        "aniId": 110059,
+        "createdAt": "2020-10-12T16:25:00.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

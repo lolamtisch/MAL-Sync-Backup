@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "彼女ガチャ",
+    "Girlfriend Gacha",
+    "여친 뽑기",
+    "Novia Gacha",
+    "Kanojyo Gacha"
+  ],
+  "authors": [
+    "Yoshimune"
+  ],
+  "id": 113162,
+  "malId": 122753,
+  "type": "manga",
+  "title": "Kanojo Gacha",
+  "url": "https://anilist.co/manga/113162",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113162-wfXggOXsinLg.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T05:13:00.000Z",
+  "updatedAt": "2021-05-23T05:13:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69782896-58c4-448f-b7c5-81ad1973bd30": {
+        "authors": [
+          "Yoshimune"
+        ],
+        "identifier": "69782896-58c4-448f-b7c5-81ad1973bd30",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanojo Gacha",
+        "url": "https://mangadex.org/title/69782896-58c4-448f-b7c5-81ad1973bd30",
+        "image": "https://uploads.mangadex.org/covers/69782896-58c4-448f-b7c5-81ad1973bd30/3e2411a2-a5ed-4a6c-9050-322504791ebd.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 122753,
+        "aniId": 113162,
+        "createdAt": "2020-10-12T16:17:39.000Z",
+        "updatedAt": "2021-06-07T10:18:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

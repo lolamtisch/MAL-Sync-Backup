@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "まきもどしの恋の詩"
+  ],
+  "authors": [
+    "Kana Nanajima"
+  ],
+  "id": 42732,
+  "malId": 12732,
+  "type": "manga",
+  "title": "Makimodoshi no Koi no Uta",
+  "url": "https://anilist.co/manga/42732",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12732.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "38825e83-64a3-4554-9a3d-1c5460a2434e": {
+        "authors": [
+          "NANAJIMA Kana"
+        ],
+        "identifier": "38825e83-64a3-4554-9a3d-1c5460a2434e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Makimodoshi no Koi no Uta",
+        "url": "https://mangadex.org/title/38825e83-64a3-4554-9a3d-1c5460a2434e",
+        "image": "https://uploads.mangadex.org/covers/38825e83-64a3-4554-9a3d-1c5460a2434e/e87f2660-dbc1-45b5-80fa-09393126d5e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12732,
+        "aniId": 42732,
+        "createdAt": "2020-10-12T16:06:06.000Z",
+        "updatedAt": "2021-06-03T17:12:18.000Z",
+        "deletedAt": null
+      },
+      "9427736c-1859-4a71-801b-e6717049b903": {
+        "authors": [
+          "Sky",
+          "Candy Club (Circle)"
+        ],
+        "identifier": "9427736c-1859-4a71-801b-e6717049b903",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Azur Lane - Kimi no Namae wo Torimodose (Doujinshi)",
+        "url": "https://mangadex.org/title/9427736c-1859-4a71-801b-e6717049b903",
+        "image": "https://uploads.mangadex.org/covers/9427736c-1859-4a71-801b-e6717049b903/6c760713-c55a-4a88-a94d-81682ba8f817.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12732,
+        "aniId": 42732,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-06-07T00:13:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "makimodoshi_no_koi_no_uta": {
+        "authors": [],
+        "identifier": "makimodoshi_no_koi_no_uta",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Makimodoshi No Koi No Uta",
+        "url": "https://manganelo.com/manga/makimodoshi_no_koi_no_uta",
+        "image": "https://avt.mkklcdnv6.com/39/d/10-1583483587.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12732,
+        "aniId": 42732,
+        "createdAt": "2020-10-12T16:24:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

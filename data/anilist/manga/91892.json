@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ヤハべえ",
+    "Yahabee"
+  ],
+  "authors": [
+    "Hiroyuki Takei"
+  ],
+  "id": 91892,
+  "malId": 73855,
+  "type": "manga",
+  "title": "Yahabe",
+  "url": "https://anilist.co/manga/91892",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91892-DD69w00jilVR.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:42.000Z",
+  "updatedAt": "2021-05-20T14:51:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "03c42f22-3397-47b5-86d6-43def0cd5e7c": {
+        "authors": [
+          "Takei Hiroyuki"
+        ],
+        "identifier": "03c42f22-3397-47b5-86d6-43def0cd5e7c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yahabe",
+        "url": "https://mangadex.org/title/03c42f22-3397-47b5-86d6-43def0cd5e7c",
+        "image": "https://uploads.mangadex.org/covers/03c42f22-3397-47b5-86d6-43def0cd5e7c/f06c5f1e-bba0-4ec8-9929-c285d3df8b92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73855,
+        "aniId": 91892,
+        "createdAt": "2020-10-12T16:07:34.000Z",
+        "updatedAt": "2021-06-04T03:49:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

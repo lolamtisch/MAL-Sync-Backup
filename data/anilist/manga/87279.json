@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "てぃ先生",
+    "My Teacher",
+    "Mr. T",
+    "Tii-sensei"
+  ],
+  "authors": [
+    "T-sensei",
+    "Moegi Yukue"
+  ],
+  "id": 87279,
+  "malId": 89232,
+  "type": "manga",
+  "title": "T-sensei",
+  "url": "https://anilist.co/manga/87279",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87279-Tqnz5wp2uw5t.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:58.000Z",
+  "updatedAt": "2021-05-20T14:52:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73677603-7b01-4265-a2bc-93e35c14e4d4": {
+        "authors": [
+          "Mr. T",
+          "Yukue Takana"
+        ],
+        "identifier": "73677603-7b01-4265-a2bc-93e35c14e4d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "T-sensei",
+        "url": "https://mangadex.org/title/73677603-7b01-4265-a2bc-93e35c14e4d4",
+        "image": "https://uploads.mangadex.org/covers/73677603-7b01-4265-a2bc-93e35c14e4d4/f3a79dfa-8839-47fd-9169-c2cdd411509b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89232,
+        "aniId": 87279,
+        "createdAt": "2020-10-12T16:12:07.000Z",
+        "updatedAt": "2021-06-05T13:32:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "my_teacher_mr_t": {
+        "authors": [],
+        "identifier": "my_teacher_mr_t",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Teacher, Mr. T",
+        "url": "https://manganelo.com/manga/my_teacher_mr_t",
+        "image": "https://avt.mkklcdnv6.com/22/d/16-1583494263.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89232,
+        "aniId": 87279,
+        "createdAt": "2020-10-12T16:24:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "t_sensei": {
+        "authors": [],
+        "identifier": "t_sensei",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "T sensei",
+        "url": "https://manganelo.com/manga/t_sensei",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21081-t_sensei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89232,
+        "aniId": 87279,
+        "createdAt": "2020-10-12T16:25:37.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

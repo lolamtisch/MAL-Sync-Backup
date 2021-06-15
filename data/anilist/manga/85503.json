@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Tsubasa: WoRLD CHRoNiCLE Niraikanai",
+    "ツバサ WoRLD CHRoNiCLE ニライカナイ編",
+    "Tsubasa: Another Story"
+  ],
+  "authors": [
+    "CLAMP",
+    "Fédoua Lamodière"
+  ],
+  "id": 85503,
+  "malId": 74339,
+  "type": "manga",
+  "title": "Tsubasa: WoRLD CHRoNiCLE - Nirai Kanai-hen",
+  "url": "https://anilist.co/manga/85503",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55503-H0ihzZLodbyS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:42.000Z",
+  "updatedAt": "2021-05-20T14:51:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2719d0e9-e72f-4063-89f9-96fe1908d454": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "2719d0e9-e72f-4063-89f9-96fe1908d454",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsubasa WoRLD CHRoNiCLE - Nirai Kanai-hen",
+        "url": "https://mangadex.org/title/2719d0e9-e72f-4063-89f9-96fe1908d454",
+        "image": "https://uploads.mangadex.org/covers/2719d0e9-e72f-4063-89f9-96fe1908d454/4891cc0f-6c6c-412e-8e62-6ab42dc82d37.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74339,
+        "aniId": 85503,
+        "createdAt": "2020-10-12T16:07:50.000Z",
+        "updatedAt": "2021-06-04T05:37:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lq919268": {
+        "authors": [],
+        "identifier": "lq919268",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Save the world! UNCLE",
+        "url": "https://manganelo.com/manga/lq919268",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/669-lq919268.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74339,
+        "aniId": 85503,
+        "createdAt": "2020-10-12T16:24:11.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "tsubasa_world_chronicle_nirai_kanaihen": {
+        "authors": [
+          "Clamp"
+        ],
+        "identifier": "tsubasa_world_chronicle_nirai_kanaihen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsubasa World Chronicle: Nirai Kanai-Hen",
+        "url": "https://manganelo.com/manga/tsubasa_world_chronicle_nirai_kanaihen",
+        "image": "https://avt.mkklcdnv6.com/1/f/1-1583465735.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74339,
+        "aniId": 85503,
+        "createdAt": "2021-01-29T06:49:32.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

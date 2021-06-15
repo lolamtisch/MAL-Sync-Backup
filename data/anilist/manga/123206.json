@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "너의 아이가 아니야",
+    "The Baby Isn't Yours  ",
+    "It’s Not Your Child"
+  ],
+  "authors": [
+    "SIN",
+    "Arongdri ",
+    "Jinagadeon Salam"
+  ],
+  "id": 123206,
+  "malId": null,
+  "type": "manga",
+  "title": "Neoui Aiga Aniya",
+  "url": "https://anilist.co/manga/123206",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123206-8ag2V38jo4MA.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-21T15:12:57.000Z",
+  "updatedAt": "2021-06-07T16:07:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c8d007f-2b2c-48e7-ba64-eaffdd65cb0c": {
+        "authors": [
+          "아롱드리 (Arongdri)",
+          "SIN"
+        ],
+        "identifier": "7c8d007f-2b2c-48e7-ba64-eaffdd65cb0c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Baby Isn't Yours (Promo)",
+        "url": "https://mangadex.org/title/7c8d007f-2b2c-48e7-ba64-eaffdd65cb0c",
+        "image": "https://uploads.mangadex.org/covers/7c8d007f-2b2c-48e7-ba64-eaffdd65cb0c/2312dbb2-eccf-4337-a292-94fe307819b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123206,
+        "createdAt": "2020-10-12T16:18:19.000Z",
+        "updatedAt": "2021-06-09T08:11:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

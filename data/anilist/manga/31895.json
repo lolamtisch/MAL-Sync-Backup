@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "マドモワゼルバタフライ",
+    "Memories of You"
+  ],
+  "authors": [
+    "Akane Ogura"
+  ],
+  "id": 31895,
+  "malId": 1895,
+  "type": "manga",
+  "title": "Mademoiselle Butterfly",
+  "url": "https://anilist.co/manga/31895",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31895-fa2MpKAO8Gfs.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:56.000Z",
+  "updatedAt": "2021-05-20T14:36:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2eb28688-8bb0-41e1-8309-0cf755e01c91": {
+        "authors": [
+          "Ogura Akane"
+        ],
+        "identifier": "2eb28688-8bb0-41e1-8309-0cf755e01c91",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mademoiselle Butterfly",
+        "url": "https://mangadex.org/title/2eb28688-8bb0-41e1-8309-0cf755e01c91",
+        "image": "https://uploads.mangadex.org/covers/2eb28688-8bb0-41e1-8309-0cf755e01c91/f116cf34-529e-4c65-837e-5cb2662b0467.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1895,
+        "aniId": 31895,
+        "createdAt": "2020-10-12T16:03:17.000Z",
+        "updatedAt": "2021-06-02T12:54:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

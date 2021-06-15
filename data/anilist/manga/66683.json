@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "別れさせ屋の恋"
+  ],
+  "authors": [
+    "Shibito Koiwazurai"
+  ],
+  "id": 66683,
+  "malId": 36683,
+  "type": "manga",
+  "title": "Wakaresaseya no Koi",
+  "url": "https://anilist.co/manga/66683",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx66683-8SMphbszkpum.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "524b2a0f-4658-4a48-8d25-a69ae68b8c7c": {
+        "authors": [
+          "Koiwazurai Shibito"
+        ],
+        "identifier": "524b2a0f-4658-4a48-8d25-a69ae68b8c7c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wakaresaseya no Koi",
+        "url": "https://mangadex.org/title/524b2a0f-4658-4a48-8d25-a69ae68b8c7c",
+        "image": "https://uploads.mangadex.org/covers/524b2a0f-4658-4a48-8d25-a69ae68b8c7c/95fe695a-b6ef-440f-b5ee-c86f86491013.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36683,
+        "aniId": 66683,
+        "createdAt": "2020-10-12T16:05:42.000Z",
+        "updatedAt": "2021-06-03T14:25:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "wakaresaseya_no_koi": {
+        "authors": [
+          "Koiwazurai",
+          "Shibito"
+        ],
+        "identifier": "wakaresaseya_no_koi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Wakaresaseya No Koi",
+        "url": "https://manganelo.com/manga/wakaresaseya_no_koi",
+        "image": "https://avt.mkklcdnv6temp.com/6/w/10-1583482421.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36683,
+        "aniId": 66683,
+        "createdAt": "2021-04-30T14:20:33.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

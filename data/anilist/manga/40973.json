@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "帽子屋エリプシス",
+    "Ellipse du chapelier",
+    "Boushiya Ellipse",
+    "Hat Shop Ellipsis"
+  ],
+  "authors": [
+    "Nana Kinuta"
+  ],
+  "id": 40973,
+  "malId": 10973,
+  "type": "manga",
+  "title": "Boushiya Ellipsis",
+  "url": "https://anilist.co/manga/40973",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10973.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "875e6cc7-5df5-4e88-b8da-928a641e5415": {
+        "authors": [
+          "Kinuta Nana"
+        ],
+        "identifier": "875e6cc7-5df5-4e88-b8da-928a641e5415",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boushiya Ellipsis",
+        "url": "https://mangadex.org/title/875e6cc7-5df5-4e88-b8da-928a641e5415",
+        "image": "https://uploads.mangadex.org/covers/875e6cc7-5df5-4e88-b8da-928a641e5415/ee97618b-d596-452f-8838-6393ef9b37f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10973,
+        "aniId": 40973,
+        "createdAt": "2020-10-12T16:03:35.000Z",
+        "updatedAt": "2021-06-02T15:04:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

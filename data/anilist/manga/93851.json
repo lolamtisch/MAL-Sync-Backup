@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "프린스의 왕자",
+    "Prince of Prince"
+  ],
+  "authors": [
+    "Je-ah",
+    "SE"
+  ],
+  "id": 93851,
+  "malId": 86090,
+  "type": "manga",
+  "title": "Prince of Wangja",
+  "url": "https://anilist.co/manga/93851",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93851-m7VDmFl42L4k.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:42.000Z",
+  "updatedAt": "2021-05-20T14:52:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3b98babc-0ac1-4435-8647-aa0d3ce8cee8": {
+        "authors": [
+          "Jae-A",
+          "Se"
+        ],
+        "identifier": "3b98babc-0ac1-4435-8647-aa0d3ce8cee8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Prince of Prince",
+        "url": "https://mangadex.org/title/3b98babc-0ac1-4435-8647-aa0d3ce8cee8",
+        "image": "https://uploads.mangadex.org/covers/3b98babc-0ac1-4435-8647-aa0d3ce8cee8/b4898694-8da6-4f26-aa28-3618d966b9af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86090,
+        "aniId": 93851,
+        "createdAt": "2020-10-12T16:08:18.000Z",
+        "updatedAt": "2021-06-04T09:08:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "prince_of_prince": {
+        "authors": [
+          "Je-Ah"
+        ],
+        "identifier": "prince_of_prince",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Prince Of Prince",
+        "url": "https://manganelo.com/manga/prince_of_prince",
+        "image": "https://avt.mkklcdnv6.com/2/z/6-1583474209.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86090,
+        "aniId": 93851,
+        "createdAt": "2020-10-29T01:44:17.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

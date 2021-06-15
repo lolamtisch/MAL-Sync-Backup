@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "タッチ"
+  ],
+  "authors": [
+    "Mitsuru Adachi"
+  ],
+  "id": 31013,
+  "malId": 1013,
+  "type": "manga",
+  "title": "Touch",
+  "url": "https://anilist.co/manga/31013",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31013-Vcru1xAgo5FR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "36b4c3d4-629d-45cb-b911-ae0906f6b544": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "36b4c3d4-629d-45cb-b911-ae0906f6b544",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touch",
+        "url": "https://mangadex.org/title/36b4c3d4-629d-45cb-b911-ae0906f6b544",
+        "image": "https://uploads.mangadex.org/covers/36b4c3d4-629d-45cb-b911-ae0906f6b544/37151db9-05b1-44d4-aed5-041f85e80128.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1013,
+        "aniId": 31013,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:37:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "touch": {
+        "authors": [],
+        "identifier": "touch",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Touch",
+        "url": "https://manganelo.com/manga/touch",
+        "image": "https://avt.mkklcdnv6.com/35/n/7-1583477611.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1013,
+        "aniId": 31013,
+        "createdAt": "2020-10-12T16:25:48.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "touch": {
+        "authors": [
+          "ADACHI Mitsuru"
+        ],
+        "identifier": "touch",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Touch",
+        "url": "https://mangasee123.com/manga/Touch",
+        "image": "https://cover.nep.li/cover/Touch.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1013,
+        "aniId": 31013,
+        "createdAt": "2021-03-09T08:41:02.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kp961372": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "manga-kp961372",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Touch",
+        "url": "https://manganato.com/manga-kp961372",
+        "image": "https://avt.mkklcdnv6temp.com/35/n/7-1583477611.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1013,
+        "aniId": 31013,
+        "createdAt": "2021-06-10T22:39:13.000Z",
+        "updatedAt": "2021-06-10T23:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

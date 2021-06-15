@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "フェルマーの料理",
+    "Fermat's Cuisine",
+    "Cuisson dans le Fermat"
+  ],
+  "authors": [
+    "Yuugo Kobayashi"
+  ],
+  "id": 116980,
+  "malId": 120467,
+  "type": "manga",
+  "title": "Fermat no Ryouri",
+  "url": "https://anilist.co/manga/116980",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116980-jZdzKawfdbIi.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:15.000Z",
+  "updatedAt": "2021-05-20T14:58:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c1308a5b-2e2a-47e6-ac4b-0a72b3ceb97b": {
+        "authors": [
+          "Kobayashi Yuugo"
+        ],
+        "identifier": "c1308a5b-2e2a-47e6-ac4b-0a72b3ceb97b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fermat no Ryouri",
+        "url": "https://mangadex.org/title/c1308a5b-2e2a-47e6-ac4b-0a72b3ceb97b",
+        "image": "https://uploads.mangadex.org/covers/c1308a5b-2e2a-47e6-ac4b-0a72b3ceb97b/e5bd7b66-2daf-43c9-8ab2-7af4fed0a054.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120467,
+        "aniId": 116980,
+        "createdAt": "2020-10-12T16:16:16.000Z",
+        "updatedAt": "2021-06-06T21:05:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ou921190": {
+        "authors": [
+          "Yuugo",
+          "Kobayashi"
+        ],
+        "identifier": "ou921190",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fermat's Cuisine",
+        "url": "https://manganelo.com/manga/ou921190",
+        "image": "https://avt.mkklcdnv6temp.com/46/w/19-1583500882.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120467,
+        "aniId": 116980,
+        "createdAt": "2021-04-07T12:08:38.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

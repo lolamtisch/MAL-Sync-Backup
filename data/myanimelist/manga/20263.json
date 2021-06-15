@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Retsujou - Dakitai Otoko Dakaretai Otoko -",
+    "劣情 -抱きたい男 抱かれたい男-"
+  ],
+  "authors": [
+    "Suekane, Kumiko"
+  ],
+  "id": 20263,
+  "type": "manga",
+  "title": "Retsujou",
+  "url": "https://myanimelist.net/manga/20263/Retsujou",
+  "image": "https://cdn.myanimelist.net/images/manga/1/31924.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:49.000Z",
+  "updatedAt": "2021-05-03T02:03:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f92dc40c-780c-4d9d-8cb2-d5f98b9a2121": {
+        "authors": [
+          "Mutobe Ryo"
+        ],
+        "identifier": "f92dc40c-780c-4d9d-8cb2-d5f98b9a2121",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Retsujou",
+        "url": "https://mangadex.org/title/f92dc40c-780c-4d9d-8cb2-d5f98b9a2121",
+        "image": "https://uploads.mangadex.org/covers/f92dc40c-780c-4d9d-8cb2-d5f98b9a2121/bc7e8cb2-2288-41d5-8b23-ab81991529a7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20263,
+        "aniId": 50263,
+        "createdAt": "2020-10-12T16:10:08.000Z",
+        "updatedAt": "2021-06-04T22:32:59.000Z",
+        "deletedAt": null
+      },
+      "fc9f2a82-98a5-440e-a7db-85a768e22566": {
+        "authors": [
+          "Iwamoto Kaoru",
+          "Toriumi Youko"
+        ],
+        "identifier": "fc9f2a82-98a5-440e-a7db-85a768e22566",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mitsujou",
+        "url": "https://mangadex.org/title/fc9f2a82-98a5-440e-a7db-85a768e22566",
+        "image": "https://uploads.mangadex.org/covers/fc9f2a82-98a5-440e-a7db-85a768e22566/88e78825-8cb0-4355-acda-05a21b4a8cf5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20263,
+        "aniId": 50263,
+        "createdAt": "2020-10-12T16:16:16.000Z",
+        "updatedAt": "2021-06-06T21:05:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

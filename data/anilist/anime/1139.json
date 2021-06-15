@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "モンキーマジック"
+  ],
+  "id": 1139,
+  "malId": 1139,
+  "type": "anime",
+  "title": "Monkey Magic",
+  "url": "https://anilist.co/anime/1139",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1139.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:57.000Z",
+  "updatedAt": "2021-05-20T14:34:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "mvvv": {
+        "identifier": "mvvv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Monkey Magic (Dub)",
+        "url": "https://9anime.ru/watch/monkey-magic-dub.mvvv",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-yytvHeG7Y0M/V6q_XiKZ1gI/AAAAAAAA15Q/igMJ-yMtPVQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1139,
+        "aniId": 1139,
+        "createdAt": "2020-10-12T15:53:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "y4l0": {
+        "identifier": "y4l0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Monkey Magic",
+        "url": "https://9anime.to/watch/monkey-magic.y4l0",
+        "image": "https://static.akacdn.ru/files/images/2019/03/d775fed2da32be3aa36cc28a7a26a845.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1139,
+        "aniId": 1139,
+        "createdAt": "2020-10-12T15:56:46.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "monkey-magic": {
+        "identifier": "monkey-magic",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Monkey Magic",
+        "url": "https://www2.gogoanime.io/category/monkey-magic",
+        "image": "https://cdnimg.xyz/cover/monkey-magic.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1139,
+        "aniId": 1139,
+        "createdAt": "2020-10-12T16:01:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

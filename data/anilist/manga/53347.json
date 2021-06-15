@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "カウント0",
+    "Count H",
+    "Count0",
+    "Count",
+    "Count Love"
+  ],
+  "authors": [
+    "Satoru Yuma"
+  ],
+  "id": 53347,
+  "malId": 23347,
+  "type": "manga",
+  "title": "Count 0",
+  "url": "https://anilist.co/manga/53347",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53347-or0QEvOQuLea.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:36.000Z",
+  "updatedAt": "2021-06-04T02:19:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4e55bd29-c361-4593-bc80-775352981009": {
+        "authors": [
+          "Yuma Satoru"
+        ],
+        "identifier": "4e55bd29-c361-4593-bc80-775352981009",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Count Love",
+        "url": "https://mangadex.org/title/4e55bd29-c361-4593-bc80-775352981009",
+        "image": "https://uploads.mangadex.org/covers/4e55bd29-c361-4593-bc80-775352981009/8fef14bf-d107-4438-a634-fef1a6d33ce1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23347,
+        "aniId": 53347,
+        "createdAt": "2020-10-12T16:07:21.000Z",
+        "updatedAt": "2021-06-04T08:52:08.000Z",
+        "deletedAt": null
+      },
+      "e0a328b3-d4b7-4dad-aba0-95c025fb6734": {
+        "authors": [
+          "Yuma Satoru"
+        ],
+        "identifier": "e0a328b3-d4b7-4dad-aba0-95c025fb6734",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Count H",
+        "url": "https://mangadex.org/title/e0a328b3-d4b7-4dad-aba0-95c025fb6734",
+        "image": "https://uploads.mangadex.org/covers/e0a328b3-d4b7-4dad-aba0-95c025fb6734/405a20f1-385e-4b0e-ad23-2a9f3fe7c44b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23347,
+        "aniId": 53347,
+        "createdAt": "2020-10-12T16:07:51.000Z",
+        "updatedAt": "2021-06-04T05:42:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

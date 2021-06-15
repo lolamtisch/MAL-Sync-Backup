@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "セブンゴーストチルドレン",
+    "Seven Ghost Children",
+    "Aspiration",
+    "Begleiter",
+    "One Day"
+  ],
+  "authors": [
+    "Yuki Amemiya",
+    "Yukino Ichihara"
+  ],
+  "id": 52928,
+  "malId": 22928,
+  "type": "manga",
+  "title": "07-Ghost Children",
+  "url": "https://anilist.co/manga/52928",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22928.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:34.000Z",
+  "updatedAt": "2021-05-20T14:46:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "153a87d3-7c9c-4d3e-8855-ddc53d101f8c": {
+        "authors": [
+          "Penguin"
+        ],
+        "identifier": "153a87d3-7c9c-4d3e-8855-ddc53d101f8c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ghost Child",
+        "url": "https://mangadex.org/title/153a87d3-7c9c-4d3e-8855-ddc53d101f8c",
+        "image": "https://uploads.mangadex.org/covers/153a87d3-7c9c-4d3e-8855-ddc53d101f8c/d1c2f252-8521-482c-9782-0ff62e79c279.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22928,
+        "aniId": 52928,
+        "createdAt": "2020-10-12T16:14:44.000Z",
+        "updatedAt": "2021-06-06T07:37:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

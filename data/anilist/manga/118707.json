@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "ソードアート・オンライン アリシゼーション リコリス"
+  ],
+  "authors": [
+    "BUNBUN",
+    "Bandai-Namco Entertainment",
+    "Tomo Hirokawa",
+    "Reki Kawahara"
+  ],
+  "id": 118707,
+  "malId": 131396,
+  "type": "manga",
+  "title": "Sword Art Online: Alicization Lycoris",
+  "url": "https://anilist.co/manga/118707",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118707-PzcRNCACbKgz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:35.000Z",
+  "updatedAt": "2021-05-20T14:59:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7bd5e7ef-a8e9-4c05-853e-62a93380fc1e": {
+        "authors": [
+          "Hirokawa Tomo",
+          "KAWAHARA Reki"
+        ],
+        "identifier": "7bd5e7ef-a8e9-4c05-853e-62a93380fc1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sword Art Online - Lycoris",
+        "url": "https://mangadex.org/title/7bd5e7ef-a8e9-4c05-853e-62a93380fc1e",
+        "image": "https://uploads.mangadex.org/covers/7bd5e7ef-a8e9-4c05-853e-62a93380fc1e/de9f5d1b-6ac9-478c-84ce-f11a7ba6cec8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 131396,
+        "aniId": 118707,
+        "createdAt": "2020-10-12T16:18:56.000Z",
+        "updatedAt": "2021-06-07T21:50:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sword_art_online_lycoris": {
+        "authors": [
+          "KAWAHARA Reki"
+        ],
+        "identifier": "sword_art_online_lycoris",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sword Art Online - Lycoris",
+        "url": "https://fanfox.net/manga/sword_art_online_lycoris/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34149/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131396,
+        "aniId": 118707,
+        "createdAt": "2021-03-08T11:41:12.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

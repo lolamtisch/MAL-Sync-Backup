@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "東独にいた"
+  ],
+  "authors": [
+    "Miyashita, Akira"
+  ],
+  "id": 123988,
+  "type": "manga",
+  "title": "Toudoku ni Ita",
+  "url": "https://myanimelist.net/manga/123988/Toudoku_ni_Ita",
+  "image": "https://cdn.myanimelist.net/images/manga/2/226077.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:12.000Z",
+  "updatedAt": "2021-04-29T16:50:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0": {
+        "authors": [
+          "Miyashita Akira"
+        ],
+        "identifier": "639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toudoku ni Ita",
+        "url": "https://mangadex.org/title/639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0",
+        "image": "https://uploads.mangadex.org/covers/639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0/1e193c6a-a7c4-44df-afa3-c07709e08497.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123988,
+        "aniId": 114900,
+        "createdAt": "2020-10-12T16:18:19.000Z",
+        "updatedAt": "2021-06-07T15:54:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "toudoku-ni-ita": {
+        "authors": [
+          "MIYASHITA Akira (II)"
+        ],
+        "identifier": "toudoku-ni-ita",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Toudoku ni Ita",
+        "url": "https://mangasee123.com/manga/Toudoku-ni-Ita",
+        "image": "https://cover.nep.li/cover/Toudoku-ni-Ita.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123988,
+        "aniId": 114900,
+        "createdAt": "2021-04-29T16:50:32.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

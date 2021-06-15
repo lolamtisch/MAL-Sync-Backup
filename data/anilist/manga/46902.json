@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Ｗ’ｓ～ダブルス～",
+    "W's~Doubles~"
+  ],
+  "authors": [
+    "Kouji Seo"
+  ],
+  "id": 46902,
+  "malId": 16902,
+  "type": "manga",
+  "title": "W's",
+  "url": "https://anilist.co/manga/46902",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46902-kSB8TVQvTlRe.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b29665b1-6faa-46f5-8d6c-21908782f7dc": {
+        "authors": [
+          "Seo Kouji"
+        ],
+        "identifier": "b29665b1-6faa-46f5-8d6c-21908782f7dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "W's - Doubles",
+        "url": "https://mangadex.org/title/b29665b1-6faa-46f5-8d6c-21908782f7dc",
+        "image": "https://uploads.mangadex.org/covers/b29665b1-6faa-46f5-8d6c-21908782f7dc/00d372a6-5d73-476c-9c78-6ee2e6975b27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16902,
+        "aniId": 46902,
+        "createdAt": "2020-10-12T16:05:10.000Z",
+        "updatedAt": "2021-06-03T10:40:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

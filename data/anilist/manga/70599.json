@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "まほろばの日々",
+    "Days in Arcadia",
+    "Mahoroba no Nagori",
+    "Kitan",
+    "Hana no Ke"
+  ],
+  "authors": [
+    "Mitsunaga Hirama"
+  ],
+  "id": 70599,
+  "malId": 40599,
+  "type": "manga",
+  "title": "Mahoroba no Hibi",
+  "url": "https://anilist.co/manga/70599",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx70599-iD8qCeCxHzEf.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:45.000Z",
+  "updatedAt": "2021-05-20T14:48:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0bdc1650-6417-42be-b8f1-0ed81a3df81d": {
+        "authors": [
+          "Hirama Mitsunaga"
+        ],
+        "identifier": "0bdc1650-6417-42be-b8f1-0ed81a3df81d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahoroba no Hibi",
+        "url": "https://mangadex.org/title/0bdc1650-6417-42be-b8f1-0ed81a3df81d",
+        "image": "https://uploads.mangadex.org/covers/0bdc1650-6417-42be-b8f1-0ed81a3df81d/c79a19f9-ec15-4f8b-9421-df372b97b3fe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40599,
+        "aniId": 70599,
+        "createdAt": "2020-10-12T16:05:09.000Z",
+        "updatedAt": "2021-06-03T10:34:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

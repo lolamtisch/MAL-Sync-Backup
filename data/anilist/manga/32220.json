@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "The Perfect Wife"
+  ],
+  "authors": [
+    "Haiji Sakura"
+  ],
+  "id": 32220,
+  "malId": 2220,
+  "type": "manga",
+  "title": "Osewa Yakimasu",
+  "url": "https://anilist.co/manga/32220",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2220.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1ba2acfb-3f10-46f4-acef-eebd652d7eda": {
+        "authors": [
+          "Sakura Haiji"
+        ],
+        "identifier": "1ba2acfb-3f10-46f4-acef-eebd652d7eda",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Osewa Yakimasu",
+        "url": "https://mangadex.org/title/1ba2acfb-3f10-46f4-acef-eebd652d7eda",
+        "image": "https://uploads.mangadex.org/covers/1ba2acfb-3f10-46f4-acef-eebd652d7eda/0b7f979a-2b2a-4ac3-8cc0-36aa4b67b3e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2220,
+        "aniId": 32220,
+        "createdAt": "2020-10-12T16:07:03.000Z",
+        "updatedAt": "2021-06-04T00:03:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

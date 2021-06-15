@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "バーコードギアス　販売のルルーシュ",
+    "Barcode Geass: Lelouch of the Sales"
+  ],
+  "authors": [
+    "Gorou Taniguchi",
+    "Ichirou Ookouchi",
+    "Nao Katoo"
+  ],
+  "id": 55854,
+  "malId": 25854,
+  "type": "manga",
+  "title": "Barcode Geass: Hanbai no Lelouch",
+  "url": "https://anilist.co/manga/55854",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b55854-mbgfj1PjZBg6.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:56.000Z",
+  "updatedAt": "2021-05-20T14:46:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "822a8822-d9db-484a-9b6f-376d79c725a3": {
+        "authors": [
+          "Taniguchi Goro",
+          "Okouchi Ichiro",
+          "Katoo Nao"
+        ],
+        "identifier": "822a8822-d9db-484a-9b6f-376d79c725a3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Barcode Geass: Hanbai no Lelouch",
+        "url": "https://mangadex.org/title/822a8822-d9db-484a-9b6f-376d79c725a3",
+        "image": "https://uploads.mangadex.org/covers/822a8822-d9db-484a-9b6f-376d79c725a3/e27d653f-d0a9-4855-a322-87e514747a5a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25854,
+        "aniId": 55854,
+        "createdAt": "2020-10-12T16:05:22.000Z",
+        "updatedAt": "2021-06-03T12:05:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "barcode_geass_hanbai_no_lelouch": {
+        "authors": [],
+        "identifier": "barcode_geass_hanbai_no_lelouch",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Barcode Geass: Hanbai No Lelouch",
+        "url": "https://manganelo.com/manga/barcode_geass_hanbai_no_lelouch",
+        "image": "https://avt.mkklcdnv6.com/17/k/7-1583476928.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25854,
+        "aniId": 55854,
+        "createdAt": "2020-10-12T16:22:13.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "WORLDS"
+  ],
+  "authors": [
+    "Ryu Fujisaki"
+  ],
+  "id": 37705,
+  "malId": 7705,
+  "type": "manga",
+  "title": "Worlds",
+  "url": "https://anilist.co/manga/37705",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7705.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:53.000Z",
+  "updatedAt": "2021-05-20T14:39:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b55f15ff-2e20-4499-8859-5d8f2151e7f0": {
+        "authors": [
+          "Fujisaki Ryu"
+        ],
+        "identifier": "b55f15ff-2e20-4499-8859-5d8f2151e7f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "WORLDS - Fujisaki Ryu Tanpenshuu",
+        "url": "https://mangadex.org/title/b55f15ff-2e20-4499-8859-5d8f2151e7f0",
+        "image": "https://uploads.mangadex.org/covers/b55f15ff-2e20-4499-8859-5d8f2151e7f0/032a8571-9cfc-4fd0-a5a7-26064b007cf8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7705,
+        "aniId": 37705,
+        "createdAt": "2020-10-12T16:05:15.000Z",
+        "updatedAt": "2021-06-03T11:12:07.000Z",
+        "deletedAt": null
+      },
+      "ac1e60e5-d65f-4b37-8e53-e609370bc33b": {
+        "authors": [
+          "Natsume Isaku"
+        ],
+        "identifier": "ac1e60e5-d65f-4b37-8e53-e609370bc33b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tight Rope",
+        "url": "https://mangadex.org/title/ac1e60e5-d65f-4b37-8e53-e609370bc33b",
+        "image": "https://uploads.mangadex.org/covers/ac1e60e5-d65f-4b37-8e53-e609370bc33b/84a6c142-7656-4e95-b17b-407c2e3a25ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7705,
+        "aniId": 37705,
+        "createdAt": "2020-10-12T16:05:57.000Z",
+        "updatedAt": "2021-06-03T16:06:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

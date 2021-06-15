@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "サムライ小町"
+  ],
+  "authors": [],
+  "id": 94306,
+  "malId": 87291,
+  "type": "manga",
+  "title": "Samurai Komachi",
+  "url": "https://anilist.co/manga/94306",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94306-PABnemnCsmNJ.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:47.000Z",
+  "updatedAt": "2021-05-20T14:52:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1fb05ece-008e-4212-8514-1214bb48cfe8": {
+        "authors": [
+          "Watari"
+        ],
+        "identifier": "1fb05ece-008e-4212-8514-1214bb48cfe8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Samurai Komachi",
+        "url": "https://mangadex.org/title/1fb05ece-008e-4212-8514-1214bb48cfe8",
+        "image": "https://uploads.mangadex.org/covers/1fb05ece-008e-4212-8514-1214bb48cfe8/f4f58ba4-4478-436e-85e1-cb5518cf64ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87291,
+        "aniId": 94306,
+        "createdAt": "2020-10-12T16:08:24.000Z",
+        "updatedAt": "2021-06-04T09:55:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

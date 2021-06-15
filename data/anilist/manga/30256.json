@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "After I Win",
+    "ほしがりません！勝つまでは",
+    "Hoshigarimasen! Katsumade wa",
+    "Hoshigarimasen"
+  ],
+  "authors": [
+    "Kaname Itsuki"
+  ],
+  "id": 30256,
+  "malId": 256,
+  "type": "manga",
+  "title": "Hoshigarimasen! Katsu Made wa",
+  "url": "https://anilist.co/manga/30256",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30256-qQsJGAZfqtYQ.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "98bbb3a4-2c95-4377-8bf2-826184ef6f33": {
+        "authors": [
+          "Itsuki Kaname"
+        ],
+        "identifier": "98bbb3a4-2c95-4377-8bf2-826184ef6f33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshigarimasen! Katsumade wa",
+        "url": "https://mangadex.org/title/98bbb3a4-2c95-4377-8bf2-826184ef6f33",
+        "image": "https://uploads.mangadex.org/covers/98bbb3a4-2c95-4377-8bf2-826184ef6f33/b650acc4-8e90-428d-807d-2cca700f213f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 256,
+        "aniId": 30256,
+        "createdAt": "2020-10-12T16:15:22.000Z",
+        "updatedAt": "2021-06-06T13:07:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

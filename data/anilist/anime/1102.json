@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "ウルダ",
+    "Urda: Third Reich"
+  ],
+  "id": 1102,
+  "malId": 1102,
+  "type": "anime",
+  "title": "Urda",
+  "url": "https://anilist.co/anime/1102",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1102.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:56.000Z",
+  "updatedAt": "2021-05-20T14:34:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "j65n": {
+        "identifier": "j65n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Urda",
+        "url": "https://9anime.ru/watch/urda.j65n",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-g6AM4ps4v34/WDV8DjNJZ1I/AAAAAAABQIw/8EqWxAKsgxQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1102,
+        "aniId": 1102,
+        "createdAt": "2020-10-12T15:52:05.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "k46w": {
+        "identifier": "k46w",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Urda (Dub)",
+        "url": "https://9anime.ru/watch/urda-dub.k46w",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-mTK-FcYzmXM/WDV8DvpmkvI/AAAAAAABQIs/E512SKaACmE/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1102,
+        "aniId": 1102,
+        "createdAt": "2020-10-12T15:52:30.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "urda": {
+        "identifier": "urda",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Urda",
+        "url": "https://www8.gogoanime.io/category/urda",
+        "image": "https://cdnimg.xyz/cover/urda.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1102,
+        "aniId": 1102,
+        "createdAt": "2020-10-12T16:02:12.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "urda-dub": {
+        "identifier": "urda-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Urda (Dub)",
+        "url": "https://www8.gogoanime.io/category/urda-dub",
+        "image": "https://cdnimg.xyz/cover/urda-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1102,
+        "aniId": 1102,
+        "createdAt": "2020-10-12T16:02:12.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

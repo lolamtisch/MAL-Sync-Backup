@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "クローバー"
+  ],
+  "authors": [
+    "Hirakawa, Tetsuhiro"
+  ],
+  "id": 14568,
+  "type": "manga",
+  "title": "Clover",
+  "url": "https://myanimelist.net/manga/14568/Clover",
+  "image": "https://cdn.myanimelist.net/images/manga/2/165401.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:06.000Z",
+  "updatedAt": "2021-05-01T22:03:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f0c7ac83-5bad-4ec2-958c-418016009ee3": {
+        "authors": [
+          "Tetsuhiro Hirakawa"
+        ],
+        "identifier": "f0c7ac83-5bad-4ec2-958c-418016009ee3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Clover",
+        "url": "https://mangadex.org/title/f0c7ac83-5bad-4ec2-958c-418016009ee3",
+        "image": "https://uploads.mangadex.org/covers/f0c7ac83-5bad-4ec2-958c-418016009ee3/c9aaa139-84e5-4b2f-a546-a5ef7f706916.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14568,
+        "aniId": 44568,
+        "createdAt": "2020-10-12T16:04:13.000Z",
+        "updatedAt": "2021-06-02T19:34:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "clover-t-e-t-s-u-h-i-r-o-hirakawa": {
+        "authors": [
+          "TETSUHIRO Hirakawa"
+        ],
+        "identifier": "clover-t-e-t-s-u-h-i-r-o-hirakawa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Clover (TETSUHIRO Hirakawa)",
+        "url": "https://mangasee123.com/manga/Clover-T-E-T-S-U-H-I-R-O-Hirakawa",
+        "image": "https://cover.nep.li/cover/Clover-T-E-T-S-U-H-I-R-O-Hirakawa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 14568,
+        "aniId": 44568,
+        "createdAt": "2021-02-27T10:44:37.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

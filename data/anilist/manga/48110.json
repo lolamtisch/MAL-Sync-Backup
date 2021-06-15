@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Life: Errors",
+    "ライフエラーズ",
+    "Life Errors"
+  ],
+  "authors": [
+    "Shirou Tsunashima"
+  ],
+  "id": 48110,
+  "malId": 18110,
+  "type": "manga",
+  "title": "Life: Errors",
+  "url": "https://anilist.co/manga/48110",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18110.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:09.000Z",
+  "updatedAt": "2021-05-20T14:45:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf2a48f2-2f09-4cef-99a9-016e5014f4ea": {
+        "authors": [
+          "Tsunashima Shirou"
+        ],
+        "identifier": "bf2a48f2-2f09-4cef-99a9-016e5014f4ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "LIFE: ERRORS",
+        "url": "https://mangadex.org/title/bf2a48f2-2f09-4cef-99a9-016e5014f4ea",
+        "image": "https://uploads.mangadex.org/covers/bf2a48f2-2f09-4cef-99a9-016e5014f4ea/697c28f9-d6c6-4975-8fa7-0a6e3fd89da3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18110,
+        "aniId": 48110,
+        "createdAt": "2020-10-12T16:05:22.000Z",
+        "updatedAt": "2021-06-03T12:06:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

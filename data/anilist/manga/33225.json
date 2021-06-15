@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "B-Shock",
+    "B Shock"
+  ],
+  "authors": [
+    "Junko Nakano"
+  ],
+  "id": 33225,
+  "malId": 3225,
+  "type": "manga",
+  "title": "B-Shock",
+  "url": "https://anilist.co/manga/33225",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3225.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "84259293-0932-4903-80ff-914662fddc48": {
+        "authors": [
+          "Nakano Junko"
+        ],
+        "identifier": "84259293-0932-4903-80ff-914662fddc48",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "B-Shock",
+        "url": "https://mangadex.org/title/84259293-0932-4903-80ff-914662fddc48",
+        "image": "https://uploads.mangadex.org/covers/84259293-0932-4903-80ff-914662fddc48/97725f7c-9ccc-42e8-b896-4cd88d9ee2f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3225,
+        "aniId": 33225,
+        "createdAt": "2020-10-12T16:04:07.000Z",
+        "updatedAt": "2021-06-02T18:50:52.000Z",
+        "deletedAt": null
+      },
+      "e7ee7f64-2185-4528-8481-dc1fa0d8c86c": {
+        "authors": [
+          "maximaxi"
+        ],
+        "identifier": "e7ee7f64-2185-4528-8481-dc1fa0d8c86c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanden Shock",
+        "url": "https://mangadex.org/title/e7ee7f64-2185-4528-8481-dc1fa0d8c86c",
+        "image": "https://uploads.mangadex.org/covers/e7ee7f64-2185-4528-8481-dc1fa0d8c86c/84f26d7f-8fe5-4114-bd2d-460d1f1120fd.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3225,
+        "aniId": 33225,
+        "createdAt": "2020-10-12T16:17:52.000Z",
+        "updatedAt": "2021-06-07T11:49:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

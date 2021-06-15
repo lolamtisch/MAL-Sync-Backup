@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Crimson Spell",
+    "クリムゾン・スペル"
+  ],
+  "authors": [
+    "Ayano Yamane"
+  ],
+  "id": 30771,
+  "malId": 771,
+  "type": "manga",
+  "title": "Crimson Spell",
+  "url": "https://anilist.co/manga/30771",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/771-JUUPixEMnexU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:43.000Z",
+  "updatedAt": "2021-05-20T14:35:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "02b510ad-f85f-4643-8074-2d063add7a07": {
+        "authors": [
+          "Yamane Ayano"
+        ],
+        "identifier": "02b510ad-f85f-4643-8074-2d063add7a07",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crimson Spell",
+        "url": "https://mangadex.org/title/02b510ad-f85f-4643-8074-2d063add7a07",
+        "image": "https://uploads.mangadex.org/covers/02b510ad-f85f-4643-8074-2d063add7a07/ddc27683-9666-4340-a91e-133872445279.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 771,
+        "aniId": 30771,
+        "createdAt": "2020-10-12T16:08:22.000Z",
+        "updatedAt": "2021-06-04T09:35:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "crimson_spell": {
+        "authors": [],
+        "identifier": "crimson_spell",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Crimson Spell",
+        "url": "https://manganelo.com/manga/crimson_spell",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1348-crimson_spell.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 771,
+        "aniId": 30771,
+        "createdAt": "2020-10-12T16:22:32.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pm952869": {
+        "authors": [
+          "Yamane Ayano"
+        ],
+        "identifier": "manga-pm952869",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Crimson Spell",
+        "url": "https://readmanganato.com/manga-pm952869",
+        "image": "https://avt.mkklcdnv6temp.com/3/w/2-1583465841.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 771,
+        "aniId": 30771,
+        "createdAt": "2021-05-31T09:44:13.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

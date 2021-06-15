@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "IC in a Sunflower",
+    "集積回路のヒマワリ",
+    "Shouseki Kairo no Himawari"
+  ],
+  "authors": [
+    "Mitsukazu Mihara",
+    "Beni Axia Conrad"
+  ],
+  "id": 30527,
+  "malId": 527,
+  "type": "manga",
+  "title": "Shuuseki Kairo no Himawari",
+  "url": "https://anilist.co/manga/30527",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30527-W4XjjUdRc7gO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acaf03f8-26af-4d43-94ef-57f020b68d11": {
+        "authors": [
+          "MIHARA Mitsukazu"
+        ],
+        "identifier": "acaf03f8-26af-4d43-94ef-57f020b68d11",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shuuseki Kairo no Himawari",
+        "url": "https://mangadex.org/title/acaf03f8-26af-4d43-94ef-57f020b68d11",
+        "image": "https://uploads.mangadex.org/covers/acaf03f8-26af-4d43-94ef-57f020b68d11/a0645edb-dff1-4676-a5a3-558961dd5bcc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 527,
+        "aniId": 30527,
+        "createdAt": "2020-10-12T16:12:25.000Z",
+        "updatedAt": "2021-06-05T14:36:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shuuseki_kairo_no_himawari": {
+        "authors": [
+          "Mihara",
+          "Mitsukazu"
+        ],
+        "identifier": "shuuseki_kairo_no_himawari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shuuseki Kairo No Himawari",
+        "url": "https://manganelo.com/manga/shuuseki_kairo_no_himawari",
+        "image": "https://avt.mkklcdnv6temp.com/43/q/11-1583485581.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 527,
+        "aniId": 30527,
+        "createdAt": "2021-04-12T16:15:32.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

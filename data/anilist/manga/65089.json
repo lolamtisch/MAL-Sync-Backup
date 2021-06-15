@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "変身できない",
+    "I Can't Change",
+    "I Can't Transform"
+  ],
+  "authors": [
+    "Hitoyo Shinozaki",
+    "Tohru Kousaka"
+  ],
+  "id": 65089,
+  "malId": 35089,
+  "type": "manga",
+  "title": "Henshin Dekinai",
+  "url": "https://anilist.co/manga/65089",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65089-s0tuMpqccAEE.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:00.000Z",
+  "updatedAt": "2021-05-20T14:48:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52e580c7-9216-4523-917e-c444348c8ac4": {
+        "authors": [
+          "Shinozaki Hitoyo",
+          "Kousaka Tohru"
+        ],
+        "identifier": "52e580c7-9216-4523-917e-c444348c8ac4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Henshin Dekinai",
+        "url": "https://mangadex.org/title/52e580c7-9216-4523-917e-c444348c8ac4",
+        "image": "https://uploads.mangadex.org/covers/52e580c7-9216-4523-917e-c444348c8ac4/ec16b415-cbc4-4273-bb83-243f88306b01.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35089,
+        "aniId": 65089,
+        "createdAt": "2020-10-12T16:04:38.000Z",
+        "updatedAt": "2021-06-02T22:22:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "henshin_dekinai": {
+        "authors": [
+          "SHINOZAKI Hitoyo"
+        ],
+        "identifier": "henshin_dekinai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Henshin Dekinai",
+        "url": "https://fanfox.net/manga/henshin_dekinai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10590/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35089,
+        "aniId": 65089,
+        "createdAt": "2021-03-26T16:23:05.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

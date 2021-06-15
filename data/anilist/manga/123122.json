@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "となりに",
+    "Next to You"
+  ],
+  "authors": [
+    "Natsume Ono"
+  ],
+  "id": 123122,
+  "malId": 120594,
+  "type": "manga",
+  "title": "Tonari ni",
+  "url": "https://anilist.co/manga/123122",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123122-qwCmmo3IuYVD.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:51:59.000Z",
+  "updatedAt": "2021-06-08T01:51:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90471e63-9d2b-4d8a-870d-bafd2352e56a": {
+        "authors": [
+          "Basso"
+        ],
+        "identifier": "90471e63-9d2b-4d8a-870d-bafd2352e56a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tonari ni",
+        "url": "https://mangadex.org/title/90471e63-9d2b-4d8a-870d-bafd2352e56a",
+        "image": "https://uploads.mangadex.org/covers/90471e63-9d2b-4d8a-870d-bafd2352e56a/9d0aee83-4b8c-46a2-9bb5-a186c0ffd263.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 120594,
+        "aniId": 123122,
+        "createdAt": "2020-10-12T16:21:07.000Z",
+        "updatedAt": "2021-06-08T06:55:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Asami Tohjoh"
+  ],
+  "id": 32098,
+  "malId": 2098,
+  "type": "manga",
+  "title": "Only You",
+  "url": "https://anilist.co/manga/32098",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2098.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0f970565-c828-4600-ade1-498a20d47754": {
+        "authors": [
+          "Tohjoh Asami"
+        ],
+        "identifier": "0f970565-c828-4600-ade1-498a20d47754",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Only You",
+        "url": "https://mangadex.org/title/0f970565-c828-4600-ade1-498a20d47754",
+        "image": "https://uploads.mangadex.org/covers/0f970565-c828-4600-ade1-498a20d47754/50adc02d-1118-4c10-b06f-c4917f462d78.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2098,
+        "aniId": 32098,
+        "createdAt": "2020-10-12T16:15:30.000Z",
+        "updatedAt": "2021-06-06T14:12:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dear_only_you_dont_know": {
+        "authors": [],
+        "identifier": "dear_only_you_dont_know",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dear, Only You Don't Know!",
+        "url": "https://manganelo.com/manga/dear_only_you_dont_know",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/244-dear_only_you_dont_know.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2098,
+        "aniId": 32098,
+        "createdAt": "2020-10-12T16:22:36.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "nx919678": {
+        "authors": [],
+        "identifier": "nx919678",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "I Only Want To Meet You",
+        "url": "https://manganelo.com/manga/nx919678",
+        "image": "https://avt.mkklcdnv6.com/40/y/18-1583498690.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2098,
+        "aniId": 32098,
+        "createdAt": "2020-10-12T16:24:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

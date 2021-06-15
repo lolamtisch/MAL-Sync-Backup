@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "まじめな時間",
+    "A Serious Time"
+  ],
+  "authors": [
+    "Yukiko Seike"
+  ],
+  "id": 76420,
+  "malId": 46420,
+  "type": "manga",
+  "title": "Majime na Jikan",
+  "url": "https://anilist.co/manga/76420",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx76420-KnWYeVe5gHkx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:30.000Z",
+  "updatedAt": "2021-05-20T14:49:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb4a5aab-88d5-4ba0-89a0-16977053d83c": {
+        "authors": [
+          "Seike Yukiko"
+        ],
+        "identifier": "cb4a5aab-88d5-4ba0-89a0-16977053d83c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Majime na Jikan",
+        "url": "https://mangadex.org/title/cb4a5aab-88d5-4ba0-89a0-16977053d83c",
+        "image": "https://uploads.mangadex.org/covers/cb4a5aab-88d5-4ba0-89a0-16977053d83c/4520a8c3-5331-4f11-ab6b-fd750fe6b427.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46420,
+        "aniId": 76420,
+        "createdAt": "2020-10-12T16:05:50.000Z",
+        "updatedAt": "2021-06-03T15:21:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

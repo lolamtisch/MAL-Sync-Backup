@@ -1,0 +1,83 @@
+{
+  "altTitle": [
+    "ABILITY SHOP -アビリティ ショップ-"
+  ],
+  "authors": [
+    "Tashiro, Tetsuya"
+  ],
+  "id": 16657,
+  "type": "manga",
+  "title": "Ability Shop",
+  "url": "https://myanimelist.net/manga/16657/Ability_Shop",
+  "image": "https://cdn.myanimelist.net/images/manga/2/24612.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:22.000Z",
+  "updatedAt": "2021-02-11T01:40:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f88747f3-e9d3-4238-8941-ec815dcefd98": {
+        "authors": [
+          "Tashiro Tetsuya"
+        ],
+        "identifier": "f88747f3-e9d3-4238-8941-ec815dcefd98",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ability Shop",
+        "url": "https://mangadex.org/title/f88747f3-e9d3-4238-8941-ec815dcefd98",
+        "image": "https://uploads.mangadex.org/covers/f88747f3-e9d3-4238-8941-ec815dcefd98/58a8478d-7ab6-456a-8232-2a20675b4054.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16657,
+        "aniId": 46657,
+        "createdAt": "2020-10-12T16:03:02.000Z",
+        "updatedAt": "2021-06-02T11:15:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ability": {
+        "authors": [
+          "Son",
+          "Jae-Ho"
+        ],
+        "identifier": "ability",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ability",
+        "url": "https://manganelo.com/manga/ability",
+        "image": "https://avt.mkklcdnv6temp.com/8/k/7-1583476614.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16657,
+        "aniId": 46657,
+        "createdAt": "2020-10-12T16:22:00.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "ability_shop": {
+        "authors": [],
+        "identifier": "ability_shop",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ability Shop",
+        "url": "https://manganelo.com/manga/ability_shop",
+        "image": "https://avt.mkklcdnv6.com/14/f/7-1583476818.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16657,
+        "aniId": 46657,
+        "createdAt": "2020-10-12T16:22:00.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

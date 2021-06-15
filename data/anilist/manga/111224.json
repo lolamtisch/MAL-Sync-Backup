@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "初春が咲く",
+    "Early Spring Blooms"
+  ],
+  "authors": [
+    "Shoji Shibasaki"
+  ],
+  "id": 111224,
+  "malId": 126256,
+  "type": "manga",
+  "title": "Hatsuharu ga Saku",
+  "url": "https://anilist.co/manga/111224",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111224-1D396UuiCQX9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:13.000Z",
+  "updatedAt": "2021-05-20T14:59:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52158bda-9303-4309-829b-ac264470e886": {
+        "authors": [
+          "Shibasaki Shouji"
+        ],
+        "identifier": "52158bda-9303-4309-829b-ac264470e886",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatsuharu ga Saku",
+        "url": "https://mangadex.org/title/52158bda-9303-4309-829b-ac264470e886",
+        "image": "https://uploads.mangadex.org/covers/52158bda-9303-4309-829b-ac264470e886/b044ca67-f314-4117-b1f0-2f738bf32726.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126256,
+        "aniId": 111224,
+        "createdAt": "2020-10-12T16:18:05.000Z",
+        "updatedAt": "2021-06-07T13:44:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bf921549": {
+        "authors": [],
+        "identifier": "bf921549",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hatsuharu Ga Saku",
+        "url": "https://manganelo.com/manga/bf921549",
+        "image": "https://avt.mkklcdnv6.com/10/m/20-1583501433.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126256,
+        "aniId": 111224,
+        "createdAt": "2020-10-12T16:22:15.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

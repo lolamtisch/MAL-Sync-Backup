@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ラバーズ・ドール",
+    "Lover's Doll"
+  ],
+  "authors": [
+    "Kazuhiko Mishima"
+  ],
+  "id": 45490,
+  "malId": 15490,
+  "type": "manga",
+  "title": "Lovers Doll",
+  "url": "https://anilist.co/manga/45490",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45490-tqiAUxLyDRU5.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T04:21:32.000Z",
+  "updatedAt": "2021-06-04T04:21:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3a3cb849-756e-4d74-a6dd-283e3f743c15": {
+        "authors": [
+          "Mishima Kazuhiko"
+        ],
+        "identifier": "3a3cb849-756e-4d74-a6dd-283e3f743c15",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lovers&hearts;Doll",
+        "url": "https://mangadex.org/title/3a3cb849-756e-4d74-a6dd-283e3f743c15",
+        "image": "https://uploads.mangadex.org/covers/3a3cb849-756e-4d74-a6dd-283e3f743c15/56ccdaf2-d461-43be-84cf-d4d5c7fc7d48.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15490,
+        "aniId": 45490,
+        "createdAt": "2020-10-12T16:07:38.000Z",
+        "updatedAt": "2021-06-04T08:59:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ep956972": {
+        "authors": [
+          "Mishima Kazuhiko"
+        ],
+        "identifier": "manga-ep956972",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Lovers Doll",
+        "url": "https://manganato.com/manga-ep956972",
+        "image": "https://avt.mkklcdnv6temp.com/31/p/4-1583470986.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15490,
+        "aniId": 45490,
+        "createdAt": "2021-05-31T09:03:07.000Z",
+        "updatedAt": "2021-06-04T04:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

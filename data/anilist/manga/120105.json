@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "MY LITTLE MARS"
+  ],
+  "authors": [
+    "Yuu Odoriba"
+  ],
+  "id": 120105,
+  "malId": null,
+  "type": "manga",
+  "title": "MY LITTLE MARS",
+  "url": "https://anilist.co/manga/120105",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120105-4oTKFmSDojvh.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:50:26.000Z",
+  "updatedAt": "2021-06-07T23:50:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c09ce11-8ed0-41f6-ac12-962fe63c5f77": {
+        "authors": [
+          "Yu Odoriba"
+        ],
+        "identifier": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MY LITTLE MARS",
+        "url": "https://mangadex.org/title/3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
+        "image": "https://uploads.mangadex.org/covers/3c09ce11-8ed0-41f6-ac12-962fe63c5f77/bca1c38c-a951-4873-88bb-a1b23ac2d412.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120105,
+        "createdAt": "2020-10-12T16:20:14.000Z",
+        "updatedAt": "2021-06-08T00:19:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ロマンチックエゴイスト"
+  ],
+  "authors": [
+    "Matose Kita"
+  ],
+  "id": 54866,
+  "malId": 24866,
+  "type": "manga",
+  "title": "Romantic Egoist",
+  "url": "https://anilist.co/manga/54866",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24866.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:48.000Z",
+  "updatedAt": "2021-05-20T14:46:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "660b5a3b-2f34-4843-808d-8f727f426582": {
+        "authors": [
+          "KITA Matose"
+        ],
+        "identifier": "660b5a3b-2f34-4843-808d-8f727f426582",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Romantic Egoist",
+        "url": "https://mangadex.org/title/660b5a3b-2f34-4843-808d-8f727f426582",
+        "image": "https://uploads.mangadex.org/covers/660b5a3b-2f34-4843-808d-8f727f426582/4ed4e390-7e75-425e-aa2c-153aa17cc634.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24866,
+        "aniId": 54866,
+        "createdAt": "2020-10-12T16:07:23.000Z",
+        "updatedAt": "2021-06-04T02:30:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ヴァムピール"
+  ],
+  "authors": [
+    "Natsumi Itsuki"
+  ],
+  "id": 43823,
+  "malId": 13823,
+  "type": "manga",
+  "title": "Vampir",
+  "url": "https://anilist.co/manga/43823",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43823-lhG9AntzcRKG.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:38.000Z",
+  "updatedAt": "2021-05-20T14:42:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e81ea7de-f614-4652-83ed-3c29f77acb5e": {
+        "authors": [
+          "Itsuki Natsumi"
+        ],
+        "identifier": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vampir",
+        "url": "https://mangadex.org/title/e81ea7de-f614-4652-83ed-3c29f77acb5e",
+        "image": "https://uploads.mangadex.org/covers/e81ea7de-f614-4652-83ed-3c29f77acb5e/2d069563-42b6-4da8-81a9-5b4cf05ecfa0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13823,
+        "aniId": 43823,
+        "createdAt": "2020-10-12T16:03:27.000Z",
+        "updatedAt": "2021-06-02T14:08:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

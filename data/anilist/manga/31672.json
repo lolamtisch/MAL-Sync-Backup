@@ -1,0 +1,97 @@
+{
+  "altTitle": [
+    "Lady Snowblood",
+    "修羅雪姫",
+    "Yuki",
+    "Princess Snowblood",
+    "Shurayuki-hime",
+    "Yuki: Vingança na Neve"
+  ],
+  "authors": [
+    "Kazuo Koike",
+    "Kazuo Kamimura",
+    "Naomi Kokubo",
+    "Jeff Carlson"
+  ],
+  "id": 31672,
+  "malId": 1672,
+  "type": "manga",
+  "title": "Shura Yukihime",
+  "url": "https://anilist.co/manga/31672",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31672-IVzV4IKWHbBu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7505fd0a-8ad7-4a51-a363-3fd5b08457d2": {
+        "authors": [
+          "Koike Kazuo",
+          "Kamimura Kazuo"
+        ],
+        "identifier": "7505fd0a-8ad7-4a51-a363-3fd5b08457d2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shura Yukihime",
+        "url": "https://mangadex.org/title/7505fd0a-8ad7-4a51-a363-3fd5b08457d2",
+        "image": "https://uploads.mangadex.org/covers/7505fd0a-8ad7-4a51-a363-3fd5b08457d2/8fe83840-f149-4f2d-be9c-b70915dc2f3c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1672,
+        "aniId": 31672,
+        "createdAt": "2020-10-12T16:04:13.000Z",
+        "updatedAt": "2021-06-02T19:36:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "lady_snowblood": {
+        "authors": [
+          "KOIKE Kazuo"
+        ],
+        "identifier": "lady_snowblood",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lady Snowblood",
+        "url": "https://fanfox.net/manga/lady_snowblood/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2327/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1672,
+        "aniId": 31672,
+        "createdAt": "2021-01-31T07:32:18.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shura-yukihime": {
+        "authors": [
+          "KAMIMURA Kazuo",
+          "KOIKE Kazuo"
+        ],
+        "identifier": "shura-yukihime",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Lady Snowblood",
+        "url": "https://mangasee123.com/manga/Shura-Yukihime",
+        "image": "https://cover.nep.li/cover/Shura-Yukihime.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1672,
+        "aniId": 31672,
+        "createdAt": "2021-04-21T18:57:38.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

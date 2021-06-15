@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "港町猫町",
+    "Port Town Cat Town"
+  ],
+  "authors": [
+    "Kanako Nanamaki"
+  ],
+  "id": 52140,
+  "malId": 22140,
+  "type": "manga",
+  "title": "Minato Machi Neko Machi",
+  "url": "https://anilist.co/manga/52140",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52140-EHok3GTuUSz8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:29.000Z",
+  "updatedAt": "2021-05-20T14:46:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b692e50e-6a5e-4afa-a85f-7d233d871bc0": {
+        "authors": [
+          "Nanamaki Kanako"
+        ],
+        "identifier": "b692e50e-6a5e-4afa-a85f-7d233d871bc0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Minato Machi Neko Machi",
+        "url": "https://mangadex.org/title/b692e50e-6a5e-4afa-a85f-7d233d871bc0",
+        "image": "https://uploads.mangadex.org/covers/b692e50e-6a5e-4afa-a85f-7d233d871bc0/e49d9adf-d903-4ecf-bd33-2d5168382c10.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22140,
+        "aniId": 52140,
+        "createdAt": "2020-10-12T16:10:13.000Z",
+        "updatedAt": "2021-06-04T23:11:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "さよならターミナル",
+    "Goodbye Terminal"
+  ],
+  "authors": [
+    "Yone Kurachi"
+  ],
+  "id": 115245,
+  "malId": null,
+  "type": "manga",
+  "title": "Sayonara Terminal",
+  "url": "https://anilist.co/manga/115245",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b115245-xXu3ouvC5aRH.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T22:48:57.000Z",
+  "updatedAt": "2021-06-05T22:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9345eb96-92bf-4223-9bee-886307475528": {
+        "authors": [
+          "Kurachi Yone"
+        ],
+        "identifier": "9345eb96-92bf-4223-9bee-886307475528",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sayonara Terminal",
+        "url": "https://mangadex.org/title/9345eb96-92bf-4223-9bee-886307475528",
+        "image": "https://uploads.mangadex.org/covers/9345eb96-92bf-4223-9bee-886307475528/abd5e235-db5f-4cc2-b217-71756f6ea7b8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 115245,
+        "createdAt": "2020-10-12T16:13:37.000Z",
+        "updatedAt": "2021-06-06T00:10:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

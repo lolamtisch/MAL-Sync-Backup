@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "You're Sparkling",
+    "キミはキラキラ"
+  ],
+  "authors": [
+    "Yoshino, Aki"
+  ],
+  "id": 16192,
+  "type": "manga",
+  "title": "Kimi wa Kirakira",
+  "url": "https://myanimelist.net/manga/16192/Kimi_wa_Kirakira",
+  "image": "https://cdn.myanimelist.net/images/manga/5/178201.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:19.000Z",
+  "updatedAt": "2021-04-11T12:51:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "902be7ce-b3c0-4237-bd0b-57a11c24e892": {
+        "authors": [
+          "YOSHINO Aki"
+        ],
+        "identifier": "902be7ce-b3c0-4237-bd0b-57a11c24e892",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi wa Kirakira",
+        "url": "https://mangadex.org/title/902be7ce-b3c0-4237-bd0b-57a11c24e892",
+        "image": "https://uploads.mangadex.org/covers/902be7ce-b3c0-4237-bd0b-57a11c24e892/fa33658e-3ca0-4092-b0f5-2f0f9f855894.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16192,
+        "aniId": 46192,
+        "createdAt": "2020-10-12T16:04:14.000Z",
+        "updatedAt": "2021-06-02T19:41:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kimi-wa-kirakira": {
+        "authors": [
+          "YOSHINO Aki"
+        ],
+        "identifier": "kimi-wa-kirakira",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi wa Kirakira",
+        "url": "https://mangasee123.com/manga/Kimi-Wa-Kirakira",
+        "image": "https://cover.nep.li/cover/Kimi-Wa-Kirakira.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16192,
+        "aniId": 46192,
+        "createdAt": "2021-04-11T12:51:18.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

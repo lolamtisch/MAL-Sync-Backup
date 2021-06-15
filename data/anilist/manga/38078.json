@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "猫ラーメン",
+    "Neko Raamen"
+  ],
+  "authors": [
+    "Kenji Sonishi"
+  ],
+  "id": 38078,
+  "malId": 8078,
+  "type": "manga",
+  "title": "Neko Ramen",
+  "url": "https://anilist.co/manga/38078",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8078.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:58.000Z",
+  "updatedAt": "2021-05-20T14:39:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ee48f9ac-4845-473c-9fde-6ad823c34a4a": {
+        "authors": [
+          "Sonishi Kenji"
+        ],
+        "identifier": "ee48f9ac-4845-473c-9fde-6ad823c34a4a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko Ramen",
+        "url": "https://mangadex.org/title/ee48f9ac-4845-473c-9fde-6ad823c34a4a",
+        "image": "https://uploads.mangadex.org/covers/ee48f9ac-4845-473c-9fde-6ad823c34a4a/98d7778b-65f1-46ac-b046-01966b25f3bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8078,
+        "aniId": 38078,
+        "createdAt": "2020-10-12T16:11:32.000Z",
+        "updatedAt": "2021-06-05T09:06:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

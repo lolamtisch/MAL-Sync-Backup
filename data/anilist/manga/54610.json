@@ -1,0 +1,63 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Romo Lee"
+  ],
+  "id": 54610,
+  "malId": 24610,
+  "type": "manga",
+  "title": "Vanilla Frosting",
+  "url": "https://anilist.co/manga/54610",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24610.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:45.000Z",
+  "updatedAt": "2021-05-20T14:46:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6d8f0343-1198-47ad-b0d8-fee28166bd17": {
+        "authors": [
+          "LEE Rou Mou"
+        ],
+        "identifier": "6d8f0343-1198-47ad-b0d8-fee28166bd17",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vanilla Frosting",
+        "url": "https://mangadex.org/title/6d8f0343-1198-47ad-b0d8-fee28166bd17",
+        "image": "https://uploads.mangadex.org/covers/6d8f0343-1198-47ad-b0d8-fee28166bd17/43ac00a0-b8cd-42a1-b116-bcd124c08ea3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24610,
+        "aniId": 54610,
+        "createdAt": "2020-10-12T16:05:36.000Z",
+        "updatedAt": "2021-06-03T13:49:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "vanilla-frosting": {
+        "authors": [
+          "LEE Rou Mou"
+        ],
+        "identifier": "vanilla-frosting",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Vanilla Frosting",
+        "url": "https://mangasee123.com/manga/Vanilla-Frosting",
+        "image": "https://cover.nep.li/cover/Vanilla-Frosting.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24610,
+        "aniId": 54610,
+        "createdAt": "2021-03-05T05:21:35.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

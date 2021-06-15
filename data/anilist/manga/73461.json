@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "アメノチキミオモイ",
+    "Sunshine After",
+    "Ame Nochi Kimi Omoi"
+  ],
+  "authors": [
+    "Rin Kuriyama"
+  ],
+  "id": 73461,
+  "malId": 43461,
+  "type": "manga",
+  "title": "Amenochi Kimi Omoi",
+  "url": "https://anilist.co/manga/73461",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43461.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:57.000Z",
+  "updatedAt": "2021-05-20T14:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8ec999a7-8f49-42bd-b02e-9969d27f8742": {
+        "authors": [
+          "Kuriyama Rin"
+        ],
+        "identifier": "8ec999a7-8f49-42bd-b02e-9969d27f8742",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sunshine After",
+        "url": "https://mangadex.org/title/8ec999a7-8f49-42bd-b02e-9969d27f8742",
+        "image": "https://uploads.mangadex.org/covers/8ec999a7-8f49-42bd-b02e-9969d27f8742/9fd351e0-dbbd-466d-b817-c792a70cc70b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43461,
+        "aniId": 73461,
+        "createdAt": "2020-10-12T16:05:10.000Z",
+        "updatedAt": "2021-06-03T10:41:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

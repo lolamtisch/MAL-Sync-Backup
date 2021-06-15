@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "グラファイト"
+  ],
+  "authors": [
+    "Jin Takemiya"
+  ],
+  "id": 98811,
+  "malId": 114223,
+  "type": "manga",
+  "title": "Graphite",
+  "url": "https://anilist.co/manga/98811",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98811-4ktBYbGRDvYl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T08:25:52.000Z",
+  "updatedAt": "2021-06-08T08:25:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "83084ee5-6a83-4ab7-a709-6b56bcbdebe3": {
+        "authors": [
+          "Takemiya Jin"
+        ],
+        "identifier": "83084ee5-6a83-4ab7-a709-6b56bcbdebe3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Graphite",
+        "url": "https://mangadex.org/title/83084ee5-6a83-4ab7-a709-6b56bcbdebe3",
+        "image": "https://uploads.mangadex.org/covers/83084ee5-6a83-4ab7-a709-6b56bcbdebe3/474b9b8e-a97c-408a-87bd-9da08e61e651.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 114223,
+        "aniId": 98811,
+        "createdAt": "2020-12-04T07:22:48.000Z",
+        "updatedAt": "2021-06-08T08:46:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

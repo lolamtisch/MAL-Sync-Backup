@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "5/5 Project; Project 5/5; Love Glasses",
+    "5/5☆企画; 5/5・企画; 5/5企画",
+    "5/5 Project",
+    "Go! Go! Kikaku",
+    "Project 5/5",
+    "5/5 Hikaru"
+  ],
+  "authors": [
+    "Ryuu Sugahara"
+  ],
+  "id": 32357,
+  "malId": 2357,
+  "type": "manga",
+  "title": "Go Go Kikaku",
+  "url": "https://anilist.co/manga/32357",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2357.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b450001-0390-423e-8fa1-b578477ae929": {
+        "authors": [
+          "SUGAHARA Ryu"
+        ],
+        "identifier": "7b450001-0390-423e-8fa1-b578477ae929",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Go! Go! Kikaku",
+        "url": "https://mangadex.org/title/7b450001-0390-423e-8fa1-b578477ae929",
+        "image": "https://uploads.mangadex.org/covers/7b450001-0390-423e-8fa1-b578477ae929/5867d7b1-e410-4d16-9287-1fbe876abbbc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2357,
+        "aniId": 32357,
+        "createdAt": "2020-12-15T09:48:54.000Z",
+        "updatedAt": "2021-06-08T08:37:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "go_go_kikaku": {
+        "authors": [
+          "SUGAHARA Ryu"
+        ],
+        "identifier": "go_go_kikaku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Go! Go! Kikaku",
+        "url": "https://fanfox.net/manga/go_go_kikaku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2288/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2357,
+        "aniId": 32357,
+        "createdAt": "2021-05-20T22:15:18.000Z",
+        "updatedAt": "2021-05-20T22:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

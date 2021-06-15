@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Friend Game",
+    "トモダチごっこ"
+  ],
+  "authors": [
+    "Momochi, Reiko"
+  ],
+  "id": 30083,
+  "type": "manga",
+  "title": "Tomodachi Gokko",
+  "url": "https://myanimelist.net/manga/30083/Tomodachi_Gokko",
+  "image": "https://cdn.myanimelist.net/images/manga/1/204655.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:41.000Z",
+  "updatedAt": "2021-05-25T12:09:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e4fd40b9-38d6-462c-9a96-8e25d289ffac": {
+        "authors": [
+          "MOMOCHI Reiko"
+        ],
+        "identifier": "e4fd40b9-38d6-462c-9a96-8e25d289ffac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tomodachi Gokko",
+        "url": "https://mangadex.org/title/e4fd40b9-38d6-462c-9a96-8e25d289ffac",
+        "image": "https://uploads.mangadex.org/covers/e4fd40b9-38d6-462c-9a96-8e25d289ffac/932b4e04-3c96-4a2a-b2a1-647e57042284.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30083,
+        "aniId": 60083,
+        "createdAt": "2020-10-12T16:03:06.000Z",
+        "updatedAt": "2021-06-02T11:45:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tomodachi-gokko": {
+        "authors": [
+          "MOMOCHI Reiko"
+        ],
+        "identifier": "tomodachi-gokko",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tomodachi Gokko",
+        "url": "https://mangasee123.com/manga/Tomodachi-Gokko",
+        "image": "https://cover.nep.li/cover/Tomodachi-Gokko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30083,
+        "aniId": 60083,
+        "createdAt": "2021-05-25T12:09:01.000Z",
+        "updatedAt": "2021-05-25T12:38:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

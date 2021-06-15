@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "魔法のじゅもん",
+    "Magic Spell",
+    "Mahou no Jumon"
+  ],
+  "authors": [
+    "Kanao Araki"
+  ],
+  "id": 47950,
+  "malId": 17950,
+  "type": "manga",
+  "title": "Mahou no Jumon",
+  "url": "https://anilist.co/manga/47950",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47950-3Vv7AcBvE7OY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:14.000Z",
+  "updatedAt": "2021-05-20T14:44:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27d573f6-757f-447e-9a9b-fbc50590d6db": {
+        "authors": [
+          "Araki Kanao"
+        ],
+        "identifier": "27d573f6-757f-447e-9a9b-fbc50590d6db",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou no Jumon",
+        "url": "https://mangadex.org/title/27d573f6-757f-447e-9a9b-fbc50590d6db",
+        "image": "https://uploads.mangadex.org/covers/27d573f6-757f-447e-9a9b-fbc50590d6db/501c52e9-fe41-4060-bb22-f3d2b9f9d0f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17950,
+        "aniId": 47950,
+        "createdAt": "2020-10-12T16:13:21.000Z",
+        "updatedAt": "2021-06-05T20:37:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "怪談イズデッド",
+    "Ghost Story Is Dead"
+  ],
+  "authors": [
+    "Shingou Iijima"
+  ],
+  "id": 86207,
+  "malId": 88525,
+  "type": "manga",
+  "title": "Kaidan is Dead",
+  "url": "https://anilist.co/manga/86207",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86207-FYVtmG8SdbOl.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:55.000Z",
+  "updatedAt": "2021-05-20T14:52:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "14e0687d-f240-455a-a91d-af536c422c88": {
+        "authors": [
+          "IIJIMA Shingou"
+        ],
+        "identifier": "14e0687d-f240-455a-a91d-af536c422c88",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaidan is Dead",
+        "url": "https://mangadex.org/title/14e0687d-f240-455a-a91d-af536c422c88",
+        "image": "https://uploads.mangadex.org/covers/14e0687d-f240-455a-a91d-af536c422c88/a592bf44-6f47-4a13-bf9f-7eebef12b1f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88525,
+        "aniId": 86207,
+        "createdAt": "2020-10-12T16:08:31.000Z",
+        "updatedAt": "2021-06-04T10:43:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kaidan_is_dead": {
+        "authors": [
+          "Iijima",
+          "Shingou"
+        ],
+        "identifier": "kaidan_is_dead",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kaidan Is Dead",
+        "url": "https://manganelo.com/manga/kaidan_is_dead",
+        "image": "https://avt.mkklcdnv6temp.com/34/c/3-1583469019.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88525,
+        "aniId": 86207,
+        "createdAt": "2021-04-05T21:38:15.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "이드",
+    "Id - The Greatest Fusion Fantasy"
+  ],
+  "authors": [
+    "Dae-Woo Kim",
+    "A.T.Kenny"
+  ],
+  "id": 30595,
+  "malId": 595,
+  "type": "manga",
+  "title": "Id",
+  "url": "https://anilist.co/manga/30595",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30595-pFMLB1SVWKIk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "28f28642-4bbd-48f3-9f66-30adc7cdf992": {
+        "authors": [
+          "Kim Daewoo",
+          "Kenny A.T."
+        ],
+        "identifier": "28f28642-4bbd-48f3-9f66-30adc7cdf992",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Id - The Greatest Fusion Fantasy",
+        "url": "https://mangadex.org/title/28f28642-4bbd-48f3-9f66-30adc7cdf992",
+        "image": "https://uploads.mangadex.org/covers/28f28642-4bbd-48f3-9f66-30adc7cdf992/8f1f2648-0c05-4e61-b954-da3973bf912e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 595,
+        "aniId": 30595,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:01:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "id": {
+        "authors": [],
+        "identifier": "id",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Id",
+        "url": "https://manganelo.com/manga/id",
+        "image": "https://avt.mkklcdnv6.com/42/n/12-1583487437.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 595,
+        "aniId": 30595,
+        "createdAt": "2020-10-12T16:23:30.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "id": {
+        "authors": [
+          "Kenny A.T.",
+          "KIM Daewoo"
+        ],
+        "identifier": "id",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Id",
+        "url": "https://fanfox.net/manga/id/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/704/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 595,
+        "aniId": 30595,
+        "createdAt": "2021-01-01T18:50:41.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "id": {
+        "authors": [
+          "Kenny A.T.",
+          "KIM Daewoo"
+        ],
+        "identifier": "id",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Id",
+        "url": "https://mangasee123.com/manga/Id",
+        "image": "https://cover.nep.li/cover/Id.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 595,
+        "aniId": 30595,
+        "createdAt": "2021-01-28T22:18:22.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

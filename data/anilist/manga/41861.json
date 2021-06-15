@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "パパイヤ軍団★",
+    "Papaiya Gundan"
+  ],
+  "authors": [
+    "Mitsue Aoki"
+  ],
+  "id": 41861,
+  "malId": 11861,
+  "type": "manga",
+  "title": "Papaya Gundan",
+  "url": "https://anilist.co/manga/41861",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41861-0X3zZSn9Jw7c.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:14.000Z",
+  "updatedAt": "2021-05-20T14:42:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d923b7d7-81f1-483d-9140-678e7d35757c": {
+        "authors": [
+          "Aoki Mitsue"
+        ],
+        "identifier": "d923b7d7-81f1-483d-9140-678e7d35757c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Papaya Gang",
+        "url": "https://mangadex.org/title/d923b7d7-81f1-483d-9140-678e7d35757c",
+        "image": "https://uploads.mangadex.org/covers/d923b7d7-81f1-483d-9140-678e7d35757c/ecfe4fd3-d97a-4977-bfbf-6f78f74ef3c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11861,
+        "aniId": 41861,
+        "createdAt": "2020-10-12T16:11:26.000Z",
+        "updatedAt": "2021-06-05T08:22:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

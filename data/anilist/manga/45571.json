@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "COOL/UNCOOL",
+    "カッコ悪くてカッコイイ君",
+    "Kakkowarukute Kakkoii Kimi"
+  ],
+  "authors": [
+    "Kai Asou",
+    "Arika Kuga"
+  ],
+  "id": 45571,
+  "malId": 15571,
+  "type": "manga",
+  "title": "Kakko Warukute Kakkoii Kimi",
+  "url": "https://anilist.co/manga/45571",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15571.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:47.000Z",
+  "updatedAt": "2021-06-05T05:19:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6a5356f-2332-470d-8545-ded7a2ba7236": {
+        "authors": [
+          "Kuga Arika",
+          "Asou Kai"
+        ],
+        "identifier": "d6a5356f-2332-470d-8545-ded7a2ba7236",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakko Warukute Kakkoii Kimi",
+        "url": "https://mangadex.org/title/d6a5356f-2332-470d-8545-ded7a2ba7236",
+        "image": "https://uploads.mangadex.org/covers/d6a5356f-2332-470d-8545-ded7a2ba7236/8a415024-fa92-49f9-839e-49a3e5ed6821.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15571,
+        "aniId": 45571,
+        "createdAt": "2020-10-12T16:11:02.000Z",
+        "updatedAt": "2021-06-05T08:44:13.000Z",
+        "deletedAt": null
+      },
+      "c0bc5404-6e9c-415e-a43a-845775d44a5e": {
+        "authors": [
+          "Homer"
+        ],
+        "identifier": "c0bc5404-6e9c-415e-a43a-845775d44a5e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uncle Cool",
+        "url": "https://mangadex.org/title/c0bc5404-6e9c-415e-a43a-845775d44a5e",
+        "image": "https://uploads.mangadex.org/covers/c0bc5404-6e9c-415e-a43a-845775d44a5e/11534947-e3ce-4512-a819-b9bb1da46a2e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15571,
+        "aniId": 45571,
+        "createdAt": "2020-10-12T16:14:46.000Z",
+        "updatedAt": "2021-06-06T07:58:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lu918079": {
+        "authors": [],
+        "identifier": "lu918079",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Uncle Cool",
+        "url": "https://manganelo.com/manga/lu918079",
+        "image": "https://avt.mkklcdnv6.com/32/v/17-1583496436.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15571,
+        "aniId": 45571,
+        "createdAt": "2020-10-12T16:24:11.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

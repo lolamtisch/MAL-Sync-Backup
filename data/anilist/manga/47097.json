@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "東京バルド"
+  ],
+  "authors": [
+    "Kito Tawara",
+    "Gatou Asou"
+  ],
+  "id": 47097,
+  "malId": 17097,
+  "type": "manga",
+  "title": "Tokyo Bardo",
+  "url": "https://anilist.co/manga/47097",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17097.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:03.000Z",
+  "updatedAt": "2021-05-20T14:44:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab00ccb4-a736-4008-837e-e1cc154e21f4": {
+        "authors": [
+          "ASOU Gatou",
+          "TAWARA Kito"
+        ],
+        "identifier": "ab00ccb4-a736-4008-837e-e1cc154e21f4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Bardo",
+        "url": "https://mangadex.org/title/ab00ccb4-a736-4008-837e-e1cc154e21f4",
+        "image": "https://uploads.mangadex.org/covers/ab00ccb4-a736-4008-837e-e1cc154e21f4/816e378a-ff56-40e1-add1-05f5106866a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17097,
+        "aniId": 47097,
+        "createdAt": "2020-10-12T16:05:25.000Z",
+        "updatedAt": "2021-06-03T12:33:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

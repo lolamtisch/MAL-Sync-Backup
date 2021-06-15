@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "I too have a word to say about it",
+    "僕にだって言い分がある",
+    "僕にだって言い分がある",
+    "Boku ni Datte Ii Bun ga Aru",
+    "I too have a word to say about it"
+  ],
+  "authors": [
+    "Yugi Yamada"
+  ],
+  "id": 35650,
+  "malId": 5650,
+  "type": "manga",
+  "title": "Boku ni Datte Iibun ga Aru",
+  "url": "https://anilist.co/manga/35650",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5650.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:32.000Z",
+  "updatedAt": "2021-06-04T12:20:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "94a5af5f-7c7e-498c-a938-d15eb425f244": {
+        "authors": [
+          "Yamada Yugi"
+        ],
+        "identifier": "94a5af5f-7c7e-498c-a938-d15eb425f244",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku ni Datte Iibun ga Aru",
+        "url": "https://mangadex.org/title/94a5af5f-7c7e-498c-a938-d15eb425f244",
+        "image": "https://uploads.mangadex.org/covers/94a5af5f-7c7e-498c-a938-d15eb425f244/60da46d4-76d9-4651-8d28-8fcb2ce58c5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5650,
+        "aniId": 35650,
+        "createdAt": "2020-10-12T16:08:41.000Z",
+        "updatedAt": "2021-06-04T12:47:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_ni_datte_iibun_ga_aru": {
+        "authors": [
+          "YAMADA Yugi"
+        ],
+        "identifier": "boku_ni_datte_iibun_ga_aru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku ni Datte Iibun ga Aru",
+        "url": "https://fanfox.net/manga/boku_ni_datte_iibun_ga_aru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3896/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5650,
+        "aniId": 35650,
+        "createdAt": "2021-01-31T03:33:03.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

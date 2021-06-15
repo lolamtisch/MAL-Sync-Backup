@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Mitsuo Shimokitazawa"
+  ],
+  "id": 82209,
+  "malId": 52209,
+  "type": "manga",
+  "title": "Saigo no Page",
+  "url": "https://anilist.co/manga/82209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/52209.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:56.000Z",
+  "updatedAt": "2021-05-20T14:49:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86c7b091-3e99-49c0-b2aa-cec92d664d37": {
+        "authors": [
+          "SHIMOKITAZAWA Mitsuo"
+        ],
+        "identifier": "86c7b091-3e99-49c0-b2aa-cec92d664d37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saigo no Page",
+        "url": "https://mangadex.org/title/86c7b091-3e99-49c0-b2aa-cec92d664d37",
+        "image": "https://uploads.mangadex.org/covers/86c7b091-3e99-49c0-b2aa-cec92d664d37/70b876f7-b562-454e-9280-0480e74402c0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52209,
+        "aniId": 82209,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:04:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

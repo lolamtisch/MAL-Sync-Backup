@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "つばめティップオフ！"
+  ],
+  "authors": [
+    "Watanuki, Hiroya"
+  ],
+  "id": 123542,
+  "type": "manga",
+  "title": "Tsubame Tip Off!",
+  "url": "https://myanimelist.net/manga/123542/Tsubame_Tip_Off",
+  "image": "https://cdn.myanimelist.net/images/manga/1/233256.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:11.000Z",
+  "updatedAt": "2021-04-12T20:17:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69cac3f9-23cf-4a64-b83b-ad22f9e09669": {
+        "authors": [
+          "Watanuki Hiroya"
+        ],
+        "identifier": "69cac3f9-23cf-4a64-b83b-ad22f9e09669",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsubame Tip Off!",
+        "url": "https://mangadex.org/title/69cac3f9-23cf-4a64-b83b-ad22f9e09669",
+        "image": "https://uploads.mangadex.org/covers/69cac3f9-23cf-4a64-b83b-ad22f9e09669/51c38ae7-a24d-4f67-8989-d5521e764c84.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123542,
+        "aniId": 113529,
+        "createdAt": "2020-10-12T16:17:58.000Z",
+        "updatedAt": "2021-06-07T12:45:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "im921453": {
+        "authors": [
+          "Hiroya",
+          "Watanuki"
+        ],
+        "identifier": "im921453",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsubame Tip Off!",
+        "url": "https://manganelo.com/manga/im921453",
+        "image": "https://avt.mkklcdnv6.com/6/v/20-1583501270.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 123542,
+        "aniId": 113529,
+        "createdAt": "2020-10-12T16:23:32.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

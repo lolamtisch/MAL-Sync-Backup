@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Rainbow Days OAD",
+    "虹色デイズ OAD"
+  ],
+  "id": 21775,
+  "malId": 33181,
+  "type": "anime",
+  "title": "Nijiiro Days OAD",
+  "url": "https://anilist.co/anime/21775",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21775-iuLJZUL2bCL4.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:06.000Z",
+  "updatedAt": "2021-05-20T14:43:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "owr4": {
+        "identifier": "owr4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Rainbow Days OVA",
+        "url": "https://9anime.ru/watch/rainbow-days-ova.owr4",
+        "image": "http://static.akacdn.ru/static/images/2018/08/9e099daeb3fa795d452c50c891b55a44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33181,
+        "aniId": 21775,
+        "createdAt": "2020-10-12T15:54:24.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2979": {
+        "identifier": "2979",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Nijiiro Days OVA",
+        "url": "https://pahe.win/a/2979",
+        "image": "https://i.animepahe.com/posters/2581eca027b189faf3b981a6e4cc5765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33181,
+        "aniId": 21775,
+        "createdAt": "2021-01-08T02:52:00.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

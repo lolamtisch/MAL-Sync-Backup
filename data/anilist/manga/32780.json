@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "スペクター"
+  ],
+  "authors": [
+    "Hirotaka Kisaragi"
+  ],
+  "id": 32780,
+  "malId": 2780,
+  "type": "manga",
+  "title": "Specter",
+  "url": "https://anilist.co/manga/32780",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2780.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8598faec-25f2-4bef-9721-00a5e18a8dec": {
+        "authors": [
+          "Kisaragi Hirotaka"
+        ],
+        "identifier": "8598faec-25f2-4bef-9721-00a5e18a8dec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Specter",
+        "url": "https://mangadex.org/title/8598faec-25f2-4bef-9721-00a5e18a8dec",
+        "image": "https://uploads.mangadex.org/covers/8598faec-25f2-4bef-9721-00a5e18a8dec/3c47ab82-2b1f-49fc-8578-23c97281f732.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2780,
+        "aniId": 32780,
+        "createdAt": "2020-10-12T16:05:34.000Z",
+        "updatedAt": "2021-06-03T13:29:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ov965730": {
+        "authors": [
+          "Kisaragi Hirotaka"
+        ],
+        "identifier": "manga-ov965730",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Specter",
+        "url": "https://manganato.com/manga-ov965730",
+        "image": "https://avt.mkklcdnv6temp.com/17/q/10-1583482802.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2780,
+        "aniId": 32780,
+        "createdAt": "2021-05-31T09:37:12.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

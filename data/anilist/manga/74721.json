@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ヴァンピール・イェーゲル",
+    "Vampire Hunter",
+    "Vampir Jager"
+  ],
+  "authors": [
+    "Atari Katagiri"
+  ],
+  "id": 74721,
+  "malId": 44721,
+  "type": "manga",
+  "title": "Vampir Jäger",
+  "url": "https://anilist.co/manga/74721",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/44721.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:01.000Z",
+  "updatedAt": "2021-05-20T14:49:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "14ad4699-1391-4f4a-a7e6-c64e50727ae5": {
+        "authors": [
+          "Katagiri Atari"
+        ],
+        "identifier": "14ad4699-1391-4f4a-a7e6-c64e50727ae5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vampir J&auml;ger",
+        "url": "https://mangadex.org/title/14ad4699-1391-4f4a-a7e6-c64e50727ae5",
+        "image": "https://uploads.mangadex.org/covers/14ad4699-1391-4f4a-a7e6-c64e50727ae5/9b41b006-46e9-4707-b8c8-528fab6eed5f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44721,
+        "aniId": 74721,
+        "createdAt": "2020-10-12T16:13:43.000Z",
+        "updatedAt": "2021-06-05T23:29:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

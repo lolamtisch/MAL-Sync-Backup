@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Cocoon Entwined",
+    "繭、纏う",
+    "Mayu Matou"
+  ],
+  "authors": [
+    "Yuriko Hara"
+  ],
+  "id": 108228,
+  "malId": 112646,
+  "type": "manga",
+  "title": "Mayu, Matou",
+  "url": "https://anilist.co/manga/108228",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108228-C8FMyAIUd5KA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:55.000Z",
+  "updatedAt": "2021-05-20T14:56:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf7fbf85-00ed-4cda-9f8c-149f3113b096": {
+        "authors": [
+          "HARA Yuriko"
+        ],
+        "identifier": "bf7fbf85-00ed-4cda-9f8c-149f3113b096",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayu, Matou",
+        "url": "https://mangadex.org/title/bf7fbf85-00ed-4cda-9f8c-149f3113b096",
+        "image": "https://uploads.mangadex.org/covers/bf7fbf85-00ed-4cda-9f8c-149f3113b096/758f3afc-0dfd-43ff-9e98-6a9df8e41ed9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112646,
+        "aniId": 108228,
+        "createdAt": "2020-10-12T16:16:50.000Z",
+        "updatedAt": "2021-06-07T02:26:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mayu_matou": {
+        "authors": [
+          "HARA Yuriko"
+        ],
+        "identifier": "mayu_matou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mayu, Matou",
+        "url": "https://fanfox.net/manga/mayu_matou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31586/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112646,
+        "aniId": 108228,
+        "createdAt": "2021-01-10T15:22:04.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mayu-matou": {
+        "authors": [
+          "HARA Yuriko"
+        ],
+        "identifier": "mayu-matou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mayu, Matou",
+        "url": "https://mangasee123.com/manga/Mayu-Matou",
+        "image": "https://cover.nep.li/cover/Mayu-Matou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112646,
+        "aniId": 108228,
+        "createdAt": "2021-04-06T02:38:42.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

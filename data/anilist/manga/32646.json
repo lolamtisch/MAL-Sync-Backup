@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ハート",
+    "ハート (桜野なゆな)"
+  ],
+  "authors": [
+    "Nayuna Sakurano"
+  ],
+  "id": 32646,
+  "malId": 2646,
+  "type": "manga",
+  "title": "Heart",
+  "url": "https://anilist.co/manga/32646",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2646.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "03bd0718-3e94-4016-9a8e-c320f44ab2dc": {
+        "authors": [
+          "Sakurano Nayuna"
+        ],
+        "identifier": "03bd0718-3e94-4016-9a8e-c320f44ab2dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heart",
+        "url": "https://mangadex.org/title/03bd0718-3e94-4016-9a8e-c320f44ab2dc",
+        "image": "https://uploads.mangadex.org/covers/03bd0718-3e94-4016-9a8e-c320f44ab2dc/a9b87471-7331-4f82-ab6b-2952f221a96a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2646,
+        "aniId": 32646,
+        "createdAt": "2020-10-12T16:15:54.000Z",
+        "updatedAt": "2021-06-06T17:57:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

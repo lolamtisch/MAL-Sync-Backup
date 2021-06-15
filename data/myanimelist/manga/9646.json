@@ -1,0 +1,42 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Ryan"
+  ],
+  "id": 9646,
+  "type": "manga",
+  "title": "Pure Love",
+  "url": "https://myanimelist.net/manga/9646/Pure_Love",
+  "image": "https://cdn.myanimelist.net/images/manga/3/12980.jpg",
+  "category": "Manhua",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:24.000Z",
+  "updatedAt": "2021-04-30T15:20:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44acbc4f-2b24-4361-b62e-22969e29b101": {
+        "authors": [
+          "mamanGu",
+          "LEE Jungsuk",
+          "Catfood"
+        ],
+        "identifier": "44acbc4f-2b24-4361-b62e-22969e29b101",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pure Love",
+        "url": "https://mangadex.org/title/44acbc4f-2b24-4361-b62e-22969e29b101",
+        "image": "https://uploads.mangadex.org/covers/44acbc4f-2b24-4361-b62e-22969e29b101/36cf451b-1a21-418b-b57a-7b602ff8d6c6.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9646,
+        "aniId": 39646,
+        "createdAt": "2020-10-12T16:18:48.000Z",
+        "updatedAt": "2021-06-07T20:22:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

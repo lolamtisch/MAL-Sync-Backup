@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "バケカノ",
+    "Bake Kano"
+  ],
+  "authors": [
+    "Yukihiro Inoue"
+  ],
+  "id": 50998,
+  "malId": 20998,
+  "type": "manga",
+  "title": "Bakekano",
+  "url": "https://anilist.co/manga/50998",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50998-U3OEgj50YE4N.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:36.000Z",
+  "updatedAt": "2021-05-20T14:45:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "19092bd5-3bef-4200-969d-1b9cbc58cd48": {
+        "authors": [
+          "Hoppy Gok Gok (circle)",
+          "Yukihiro Inoue"
+        ],
+        "identifier": "19092bd5-3bef-4200-969d-1b9cbc58cd48",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bakekano",
+        "url": "https://mangadex.org/title/19092bd5-3bef-4200-969d-1b9cbc58cd48",
+        "image": "https://uploads.mangadex.org/covers/19092bd5-3bef-4200-969d-1b9cbc58cd48/3f309908-e9b6-4dcc-b88e-ad0f769b1c41.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20998,
+        "aniId": 50998,
+        "createdAt": "2020-10-12T16:02:58.000Z",
+        "updatedAt": "2021-06-02T10:44:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bakekano": {
+        "authors": [
+          "Inoue",
+          "Yukihiro"
+        ],
+        "identifier": "bakekano",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bakekano",
+        "url": "https://manganelo.com/manga/bakekano",
+        "image": "https://avt.mkklcdnv6.com/45/p/6-1583476102.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20998,
+        "aniId": 50998,
+        "createdAt": "2020-11-17T02:44:54.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

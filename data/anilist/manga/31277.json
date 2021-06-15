@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Hanafuda",
+    "華札",
+    "Hanafuda"
+  ],
+  "authors": [
+    "okama"
+  ],
+  "id": 31277,
+  "malId": 1277,
+  "type": "manga",
+  "title": "Hana Fuda",
+  "url": "https://anilist.co/manga/31277",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31277-OMxdhI0OrCqu.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:35:57.000Z",
+  "updatedAt": "2021-05-20T14:35:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4070b2a7-9208-4256-b332-4990b5ffca42": {
+        "authors": [
+          "OKAMA"
+        ],
+        "identifier": "4070b2a7-9208-4256-b332-4990b5ffca42",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanafuda",
+        "url": "https://mangadex.org/title/4070b2a7-9208-4256-b332-4990b5ffca42",
+        "image": "https://uploads.mangadex.org/covers/4070b2a7-9208-4256-b332-4990b5ffca42/203a5163-3e68-44b0-bf16-16a4b4dee634.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1277,
+        "aniId": 31277,
+        "createdAt": "2020-10-12T16:11:23.000Z",
+        "updatedAt": "2021-06-05T07:59:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

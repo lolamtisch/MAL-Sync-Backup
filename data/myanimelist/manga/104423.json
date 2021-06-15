@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Say Hello to Bookila",
+    "Kibando",
+    "ブッキラによろしく!"
+  ],
+  "authors": [
+    "Tezuka, Osamu"
+  ],
+  "id": 104423,
+  "type": "manga",
+  "title": "Bookila ni Yoroshiku!",
+  "url": "https://myanimelist.net/manga/104423/Bookila_ni_Yoroshiku",
+  "image": "https://cdn.myanimelist.net/images/manga/2/233559.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T18:49:38.000Z",
+  "updatedAt": "2021-06-05T18:49:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56dcebfb-4483-4590-bb1d-a6772d4f2664": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "56dcebfb-4483-4590-bb1d-a6772d4f2664",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bukkira ni Yoroshiku!",
+        "url": "https://mangadex.org/title/56dcebfb-4483-4590-bb1d-a6772d4f2664",
+        "image": "https://uploads.mangadex.org/covers/56dcebfb-4483-4590-bb1d-a6772d4f2664/6454b42d-9eac-4bff-8427-2410e868a138.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 104423,
+        "aniId": 111632,
+        "createdAt": "2020-10-12T16:13:03.000Z",
+        "updatedAt": "2021-06-05T19:05:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

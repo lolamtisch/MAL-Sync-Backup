@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Max Lovely",
+    "MAXラブリー！"
+  ],
+  "authors": [
+    "Kurahashi, Erika"
+  ],
+  "id": 1275,
+  "type": "manga",
+  "title": "MAX Lovely!",
+  "url": "https://myanimelist.net/manga/1275/MAX_Lovely",
+  "image": "https://cdn.myanimelist.net/images/manga/3/22695.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:32.000Z",
+  "updatedAt": "2021-06-04T00:19:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6c22572-f45a-4fd8-abe1-7ab8c41523d5": {
+        "authors": [
+          "Kurahashi Erika"
+        ],
+        "identifier": "d6c22572-f45a-4fd8-abe1-7ab8c41523d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MAX Lovely!",
+        "url": "https://mangadex.org/title/d6c22572-f45a-4fd8-abe1-7ab8c41523d5",
+        "image": "https://uploads.mangadex.org/covers/d6c22572-f45a-4fd8-abe1-7ab8c41523d5/c982b45d-23fb-4bf3-96d0-fe2c2bd8691e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1275,
+        "aniId": 31275,
+        "createdAt": "2020-10-12T16:02:44.000Z",
+        "updatedAt": "2021-06-02T09:04:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "m-a-x-lovely": {
+        "authors": [
+          "KURAHASHI Erika"
+        ],
+        "identifier": "m-a-x-lovely",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "MAX Lovely!",
+        "url": "https://mangasee123.com/manga/M-A-X-Lovely",
+        "image": "https://cover.nep.li/cover/M-A-X-Lovely.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1275,
+        "aniId": 31275,
+        "createdAt": "2021-05-04T15:03:40.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

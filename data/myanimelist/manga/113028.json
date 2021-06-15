@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "日の当たらない場所"
+  ],
+  "authors": [
+    "Tatsumoto, Mio"
+  ],
+  "id": 113028,
+  "type": "manga",
+  "title": "Hi no Ataranai Basho",
+  "url": "https://myanimelist.net/manga/113028/Hi_no_Ataranai_Basho",
+  "image": "https://cdn.myanimelist.net/images/manga/2/231738.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:29.000Z",
+  "updatedAt": "2021-05-21T15:13:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7f771e8e-f265-4a87-8cc6-d2704fcc1e22": {
+        "authors": [
+          "Tatsumoto Mio"
+        ],
+        "identifier": "7f771e8e-f265-4a87-8cc6-d2704fcc1e22",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hi no Ataranai Basho",
+        "url": "https://mangadex.org/title/7f771e8e-f265-4a87-8cc6-d2704fcc1e22",
+        "image": "https://uploads.mangadex.org/covers/7f771e8e-f265-4a87-8cc6-d2704fcc1e22/3408b78b-cf04-4acb-ad56-9cedd52a04cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113028,
+        "aniId": 101576,
+        "createdAt": "2020-10-12T16:13:34.000Z",
+        "updatedAt": "2021-06-05T22:24:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hi_no_ataranai_basho": {
+        "authors": [],
+        "identifier": "hi_no_ataranai_basho",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hi No Ataranai Basho",
+        "url": "https://manganelo.com/manga/hi_no_ataranai_basho",
+        "image": "https://avt.mkklcdnv6.com/42/w/16-1583495002.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113028,
+        "aniId": 101576,
+        "createdAt": "2020-10-12T16:23:20.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

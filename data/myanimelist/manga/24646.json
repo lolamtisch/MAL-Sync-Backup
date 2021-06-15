@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "My Name is Shingo",
+    "わたしは真悟"
+  ],
+  "authors": [
+    "Umezu, Kazuo"
+  ],
+  "id": 24646,
+  "type": "manga",
+  "title": "Watashi wa Shingo",
+  "url": "https://myanimelist.net/manga/24646/Watashi_wa_Shingo",
+  "image": "https://cdn.myanimelist.net/images/manga/5/39878.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:14.000Z",
+  "updatedAt": "2021-05-13T18:25:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba7330a9-995a-4a03-8a2a-24ddf8947d33": {
+        "authors": [
+          "Umezu Kazuo"
+        ],
+        "identifier": "ba7330a9-995a-4a03-8a2a-24ddf8947d33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Name Is Shingo",
+        "url": "https://mangadex.org/title/ba7330a9-995a-4a03-8a2a-24ddf8947d33",
+        "image": "https://uploads.mangadex.org/covers/ba7330a9-995a-4a03-8a2a-24ddf8947d33/39736b02-78ac-48db-b5b3-6c2605a4772e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24646,
+        "aniId": 54646,
+        "createdAt": "2020-10-12T16:03:00.000Z",
+        "updatedAt": "2021-06-02T10:54:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "watashi_wa_shingo": {
+        "authors": [
+          "Umezu",
+          "Kazuo"
+        ],
+        "identifier": "watashi_wa_shingo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Watashi Wa Shingo",
+        "url": "https://manganelo.com/manga/watashi_wa_shingo",
+        "image": "https://avt.mkklcdnv6temp.com/23/c/11-1583484850.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24646,
+        "aniId": 54646,
+        "createdAt": "2021-02-10T23:41:22.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "my-name-is-shingo": {
+        "authors": [
+          "UMEZU Kazuo"
+        ],
+        "identifier": "my-name-is-shingo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "My Name Is Shingo",
+        "url": "https://mangasee123.com/manga/My-Name-Is-Shingo",
+        "image": "https://cover.nep.li/cover/My-Name-Is-Shingo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24646,
+        "aniId": 54646,
+        "createdAt": "2021-05-13T18:25:42.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

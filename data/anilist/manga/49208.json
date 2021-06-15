@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Don't Cry My Baby",
+    "ドント・クライ・マイ・ベイビー",
+    "King"
+  ],
+  "authors": [
+    "Higashi Nishida"
+  ],
+  "id": 49208,
+  "malId": 19208,
+  "type": "manga",
+  "title": "Don't Cry My Baby",
+  "url": "https://anilist.co/manga/49208",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19208.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:17.000Z",
+  "updatedAt": "2021-05-20T14:45:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79b7d6cd-cf3e-4838-9fb6-38ef6276d9d5": {
+        "authors": [
+          "Nishida Higashi"
+        ],
+        "identifier": "79b7d6cd-cf3e-4838-9fb6-38ef6276d9d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Don't Cry My Baby",
+        "url": "https://mangadex.org/title/79b7d6cd-cf3e-4838-9fb6-38ef6276d9d5",
+        "image": "https://uploads.mangadex.org/covers/79b7d6cd-cf3e-4838-9fb6-38ef6276d9d5/bd259964-73fe-4a3f-92bb-152e27633c58.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19208,
+        "aniId": 49208,
+        "createdAt": "2020-10-12T16:16:32.000Z",
+        "updatedAt": "2021-06-06T23:32:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

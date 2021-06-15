@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "にくきゅー！",
+    "Nikukyuu!"
+  ],
+  "authors": [
+    "Tadahiro Miura"
+  ],
+  "id": 86239,
+  "malId": 84693,
+  "type": "manga",
+  "title": "Niku Kyu!",
+  "url": "https://anilist.co/manga/86239",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86239-ZRA0Sg6LdQaP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:35.000Z",
+  "updatedAt": "2021-05-20T14:52:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f0e25843-d377-4db3-89ff-90192e2619d0": {
+        "authors": [
+          "Miura Tadahiro"
+        ],
+        "identifier": "f0e25843-d377-4db3-89ff-90192e2619d0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Niku Kyu!",
+        "url": "https://mangadex.org/title/f0e25843-d377-4db3-89ff-90192e2619d0",
+        "image": "https://uploads.mangadex.org/covers/f0e25843-d377-4db3-89ff-90192e2619d0/7b3bcaa6-d80c-42d7-9b15-c7d0b6eedef6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84693,
+        "aniId": 86239,
+        "createdAt": "2020-10-12T16:07:51.000Z",
+        "updatedAt": "2021-06-04T05:49:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "niku_kyu": {
+        "authors": [
+          "MIURA Tadahiro"
+        ],
+        "identifier": "niku_kyu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Niku Kyu!",
+        "url": "https://fanfox.net/manga/niku_kyu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14827/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84693,
+        "aniId": 86239,
+        "createdAt": "2021-04-19T12:45:29.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

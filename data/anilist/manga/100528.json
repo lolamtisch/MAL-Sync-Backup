@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "君の夢を見ている",
+    "Your Dream"
+  ],
+  "authors": [
+    "Aruku Harubaru",
+    "Kouki."
+  ],
+  "id": 100528,
+  "malId": 109013,
+  "type": "manga",
+  "title": "Kimi no Yume wo Miteiru",
+  "url": "https://anilist.co/manga/100528",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100528-cA0w4VgeOlHy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:04.000Z",
+  "updatedAt": "2021-05-20T14:56:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ee08eba0-d4b2-487d-86ef-f440a9305f9c": {
+        "authors": [
+          "Aruku",
+          "Kouki"
+        ],
+        "identifier": "ee08eba0-d4b2-487d-86ef-f440a9305f9c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi no Yume o Mite Iru",
+        "url": "https://mangadex.org/title/ee08eba0-d4b2-487d-86ef-f440a9305f9c",
+        "image": "https://uploads.mangadex.org/covers/ee08eba0-d4b2-487d-86ef-f440a9305f9c/9987d03a-53b6-4879-9e4f-47bc68e2be7c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109013,
+        "aniId": 100528,
+        "createdAt": "2020-10-12T16:10:42.000Z",
+        "updatedAt": "2021-06-05T02:40:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kimi_no_yume_o_mite_iru": {
+        "authors": [
+          "Aruku"
+        ],
+        "identifier": "kimi_no_yume_o_mite_iru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kimi No Yume O Mite Iru",
+        "url": "https://manganelo.com/manga/kimi_no_yume_o_mite_iru",
+        "image": "https://avt.mkklcdnv6temp.com/21/x/15-1583492246.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109013,
+        "aniId": 100528,
+        "createdAt": "2021-04-14T13:16:04.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

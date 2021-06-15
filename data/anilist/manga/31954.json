@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Cause of my Teacher",
+    "先生の事情",
+    "The Cause of My Teacher",
+    "At the Guidance Room"
+  ],
+  "authors": [
+    "Temari Matsumoto"
+  ],
+  "id": 31954,
+  "malId": 1954,
+  "type": "manga",
+  "title": "Sensei no Jijou",
+  "url": "https://anilist.co/manga/31954",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31954-W25uwWk8vu67.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:58.000Z",
+  "updatedAt": "2021-05-20T14:36:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0fc9b87a-c35d-4ff0-a607-1aec4deab990": {
+        "authors": [
+          "ICHIKAWA Shou"
+        ],
+        "identifier": "0fc9b87a-c35d-4ff0-a607-1aec4deab990",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hiiragi-sensei no Yoru no Jijou",
+        "url": "https://mangadex.org/title/0fc9b87a-c35d-4ff0-a607-1aec4deab990",
+        "image": "https://uploads.mangadex.org/covers/0fc9b87a-c35d-4ff0-a607-1aec4deab990/04857939-488f-4418-a699-4bc0a8d89a17.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1954,
+        "aniId": 31954,
+        "createdAt": "2020-10-12T16:19:11.000Z",
+        "updatedAt": "2021-06-07T21:29:03.000Z",
+        "deletedAt": null
+      },
+      "863dd8d4-0520-4203-9ee0-bd2ef263d754": {
+        "authors": [
+          "MATSUMOTO Temari"
+        ],
+        "identifier": "863dd8d4-0520-4203-9ee0-bd2ef263d754",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sensei no Jijou",
+        "url": "https://mangadex.org/title/863dd8d4-0520-4203-9ee0-bd2ef263d754",
+        "image": "https://uploads.mangadex.org/covers/863dd8d4-0520-4203-9ee0-bd2ef263d754/eea16154-720e-42be-a31b-1af46ae2cc26.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1954,
+        "aniId": 31954,
+        "createdAt": "2021-01-27T09:12:28.000Z",
+        "updatedAt": "2021-06-08T10:34:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

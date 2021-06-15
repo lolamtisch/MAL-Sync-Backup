@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ヤマノススメ",
+    "Encouragement of Climb",
+    "Siro's Encouragement of Climb"
+  ],
+  "authors": [
+    "Siro"
+  ],
+  "id": 71049,
+  "malId": 41049,
+  "type": "manga",
+  "title": "Yama no Susume",
+  "url": "https://anilist.co/manga/71049",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71049-FrpQWq0U8QZP.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:47.000Z",
+  "updatedAt": "2021-05-20T14:48:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3d521799-62fc-4fb1-95b7-b39caa9a442c": {
+        "authors": [
+          "Shiro"
+        ],
+        "identifier": "3d521799-62fc-4fb1-95b7-b39caa9a442c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yama no Susume",
+        "url": "https://mangadex.org/title/3d521799-62fc-4fb1-95b7-b39caa9a442c",
+        "image": "https://uploads.mangadex.org/covers/3d521799-62fc-4fb1-95b7-b39caa9a442c/b770e0b0-5418-47b8-81cb-d317f8c05544.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41049,
+        "aniId": 71049,
+        "createdAt": "2020-10-12T16:09:35.000Z",
+        "updatedAt": "2021-06-04T18:38:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yama_no_susume": {
+        "authors": [],
+        "identifier": "yama_no_susume",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yama No Susume",
+        "url": "https://manganelo.com/manga/yama_no_susume",
+        "image": "https://avt.mkklcdnv6.com/28/w/13-1583488775.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41049,
+        "aniId": 71049,
+        "createdAt": "2020-10-12T16:26:19.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

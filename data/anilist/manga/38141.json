@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "君が主で執事が俺で",
+    "They Are My Noble Masters"
+  ],
+  "authors": [
+    "Hamao Kou",
+    "Minato Soft",
+    "Sanbou Shironeko"
+  ],
+  "id": 38141,
+  "malId": 8141,
+  "type": "manga",
+  "title": "Kimi ga Aruji de Shitsuji ga Ore de",
+  "url": "https://anilist.co/manga/38141",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8141.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:58.000Z",
+  "updatedAt": "2021-05-20T14:39:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "49e82853-66dd-4321-9827-7073344057a9": {
+        "authors": [
+          "Shironeko Sanbou",
+          "Minato Soft",
+          "Kou Hamao"
+        ],
+        "identifier": "49e82853-66dd-4321-9827-7073344057a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi ga Aruji de Shitsuji ga Ore de",
+        "url": "https://mangadex.org/title/49e82853-66dd-4321-9827-7073344057a9",
+        "image": "https://uploads.mangadex.org/covers/49e82853-66dd-4321-9827-7073344057a9/30a82941-fa4a-4bf8-b175-79278533c14b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8141,
+        "aniId": 38141,
+        "createdAt": "2020-10-12T16:04:23.000Z",
+        "updatedAt": "2021-06-02T20:43:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kimi_ga_aruji_de_shitsuji_ga_ore_de": {
+        "authors": [
+          "Minato",
+          "Soft"
+        ],
+        "identifier": "kimi_ga_aruji_de_shitsuji_ga_ore_de",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kimi Ga Aruji De Shitsuji Ga Ore De",
+        "url": "https://manganelo.com/manga/kimi_ga_aruji_de_shitsuji_ga_ore_de",
+        "image": "https://avt.mkklcdnv6temp.com/46/x/10-1583483862.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8141,
+        "aniId": 38141,
+        "createdAt": "2021-02-18T17:33:38.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

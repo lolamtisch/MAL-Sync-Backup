@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "アイコン",
+    "Aikon"
+  ],
+  "authors": [
+    "Mariko Nekono"
+  ],
+  "id": 111000,
+  "malId": 106001,
+  "type": "manga",
+  "title": "Icon",
+  "url": "https://anilist.co/manga/111000",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111000-zhL83dT2mEOT.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:55:45.000Z",
+  "updatedAt": "2021-05-20T14:55:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf0133f3-2eb3-4bb9-b266-47bc77293568": {
+        "authors": [
+          "Nekono Mariko"
+        ],
+        "identifier": "bf0133f3-2eb3-4bb9-b266-47bc77293568",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Icon",
+        "url": "https://mangadex.org/title/bf0133f3-2eb3-4bb9-b266-47bc77293568",
+        "image": "https://uploads.mangadex.org/covers/bf0133f3-2eb3-4bb9-b266-47bc77293568/91c905e1-b7d2-4d2e-a255-f364773f5519.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106001,
+        "aniId": 111000,
+        "createdAt": "2020-10-30T04:14:33.000Z",
+        "updatedAt": "2021-06-08T06:05:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

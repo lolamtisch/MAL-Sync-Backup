@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Crazy for You",
+    "Number 9",
+    "CRAZY FOR YOU"
+  ],
+  "authors": [
+    "Shiina, Karuho"
+  ],
+  "id": 4334,
+  "type": "manga",
+  "title": "Crazy for You",
+  "url": "https://myanimelist.net/manga/4334/Crazy_for_You",
+  "image": "https://cdn.myanimelist.net/images/manga/3/139647.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:59.000Z",
+  "updatedAt": "2021-06-07T12:36:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce748a79-6188-4d33-9985-bfc0372fde52": {
+        "authors": [
+          "Shiina Karuho"
+        ],
+        "identifier": "ce748a79-6188-4d33-9985-bfc0372fde52",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crazy For You",
+        "url": "https://mangadex.org/title/ce748a79-6188-4d33-9985-bfc0372fde52",
+        "image": "https://uploads.mangadex.org/covers/ce748a79-6188-4d33-9985-bfc0372fde52/e509a701-681d-4ee7-a2d2-ca8e5bc5b0c1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4334,
+        "aniId": 34334,
+        "createdAt": "2020-10-12T16:04:02.000Z",
+        "updatedAt": "2021-06-02T18:10:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sz919278": {
+        "authors": [],
+        "identifier": "sz919278",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "For 5Kg!",
+        "url": "https://manganelo.com/manga/sz919278",
+        "image": "https://avt.mkklcdnv6.com/26/j/18-1583498111.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4334,
+        "aniId": 34334,
+        "createdAt": "2020-10-12T16:25:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "read_crazy_for_you_shoujo": {
+        "authors": [
+          "Shiina",
+          "Karuho"
+        ],
+        "identifier": "read_crazy_for_you_shoujo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Crazy For You (Shoujo)",
+        "url": "https://manganelo.com/manga/read_crazy_for_you_shoujo",
+        "image": "https://avt.mkklcdnv6.com/3/q/4-1583469798.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4334,
+        "aniId": 34334,
+        "createdAt": "2020-12-08T11:40:03.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "The Red Snake",
+    "赤い蛇",
+    "Hino Horror #1",
+    "Crimson Snake"
+  ],
+  "authors": [
+    "Hideshi Hino"
+  ],
+  "id": 43546,
+  "malId": 13546,
+  "type": "manga",
+  "title": "Akai Hebi",
+  "url": "https://anilist.co/manga/43546",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13546.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:35.000Z",
+  "updatedAt": "2021-05-20T14:42:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ca8aec1-d820-4d85-bf8d-d4f788799346": {
+        "authors": [
+          "Hino Hideshi"
+        ],
+        "identifier": "3ca8aec1-d820-4d85-bf8d-d4f788799346",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akai Hebi",
+        "url": "https://mangadex.org/title/3ca8aec1-d820-4d85-bf8d-d4f788799346",
+        "image": "https://uploads.mangadex.org/covers/3ca8aec1-d820-4d85-bf8d-d4f788799346/47316ea1-6362-435f-b360-a753882ae7b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13546,
+        "aniId": 43546,
+        "createdAt": "2020-10-12T16:13:59.000Z",
+        "updatedAt": "2021-06-06T01:31:38.000Z",
+        "deletedAt": null
+      },
+      "255cb68c-b38f-4dd0-ba85-eb838b60d410": {
+        "authors": [
+          "Angel Tovar"
+        ],
+        "identifier": "255cb68c-b38f-4dd0-ba85-eb838b60d410",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Eagle and The Snake",
+        "url": "https://mangadex.org/title/255cb68c-b38f-4dd0-ba85-eb838b60d410",
+        "image": "https://uploads.mangadex.org/covers/255cb68c-b38f-4dd0-ba85-eb838b60d410/9a7caf04-a9b4-4cf2-8ec6-be8f5c9c75ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13546,
+        "aniId": 43546,
+        "createdAt": "2020-10-12T16:19:53.000Z",
+        "updatedAt": "2021-06-07T22:56:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

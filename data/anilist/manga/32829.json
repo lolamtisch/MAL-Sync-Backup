@@ -1,0 +1,81 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Eiri Asato"
+  ],
+  "id": 32829,
+  "malId": 2829,
+  "type": "manga",
+  "title": "April Fool",
+  "url": "https://anilist.co/manga/32829",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2829.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:16.000Z",
+  "updatedAt": "2021-06-05T10:19:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69b2a9ae-5145-4264-99e5-89219132c2da": {
+        "authors": [
+          "ASATO Eiri"
+        ],
+        "identifier": "69b2a9ae-5145-4264-99e5-89219132c2da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "April Fool",
+        "url": "https://mangadex.org/title/69b2a9ae-5145-4264-99e5-89219132c2da",
+        "image": "https://uploads.mangadex.org/covers/69b2a9ae-5145-4264-99e5-89219132c2da/d1d0553b-ae2b-4710-9d01-b570ee6d7e39.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2829,
+        "aniId": 32829,
+        "createdAt": "2020-10-12T16:11:39.000Z",
+        "updatedAt": "2021-06-05T12:42:30.000Z",
+        "deletedAt": null
+      },
+      "50e9f5bb-cebc-4b78-bf7a-c761724d2436": {
+        "authors": [
+          "mono"
+        ],
+        "identifier": "50e9f5bb-cebc-4b78-bf7a-c761724d2436",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nicole's April Fools",
+        "url": "https://mangadex.org/title/50e9f5bb-cebc-4b78-bf7a-c761724d2436",
+        "image": "https://uploads.mangadex.org/covers/50e9f5bb-cebc-4b78-bf7a-c761724d2436/105841d8-7eeb-4b4b-afef-164de73cc690.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2829,
+        "aniId": 32829,
+        "createdAt": "2020-10-12T16:19:58.000Z",
+        "updatedAt": "2021-06-07T23:01:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "april_fool": {
+        "authors": [],
+        "identifier": "april_fool",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "April Fool",
+        "url": "https://manganelo.com/manga/april_fool",
+        "image": "https://avt.mkklcdnv6.com/49/m/6-1583476251.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2829,
+        "aniId": 32829,
+        "createdAt": "2020-10-12T16:22:07.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

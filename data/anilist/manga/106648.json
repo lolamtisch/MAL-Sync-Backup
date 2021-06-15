@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Calling"
+  ],
+  "authors": [
+    "Mai Hori"
+  ],
+  "id": 106648,
+  "malId": 104500,
+  "type": "manga",
+  "title": "Calling",
+  "url": "https://anilist.co/manga/106648",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106648-wkHP6JU864DF.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:11.000Z",
+  "updatedAt": "2021-05-20T14:55:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4d1df9c3-8d46-468e-bc95-bff6fae0195e": {
+        "authors": [
+          "Hori Mai"
+        ],
+        "identifier": "4d1df9c3-8d46-468e-bc95-bff6fae0195e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Calling (Hori Mai)",
+        "url": "https://mangadex.org/title/4d1df9c3-8d46-468e-bc95-bff6fae0195e",
+        "image": "https://uploads.mangadex.org/covers/4d1df9c3-8d46-468e-bc95-bff6fae0195e/140478aa-7610-4035-b853-47dd3c2df767.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104500,
+        "aniId": 106648,
+        "createdAt": "2020-10-12T16:12:08.000Z",
+        "updatedAt": "2021-06-05T13:37:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "愛してる",
+    "I Love You"
+  ],
+  "authors": [
+    "Youko Fujitani"
+  ],
+  "id": 40380,
+  "malId": 10380,
+  "type": "manga",
+  "title": "Aishiteru",
+  "url": "https://anilist.co/manga/40380",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40380-LsKI7HGVLbMm.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:05.000Z",
+  "updatedAt": "2021-05-20T14:41:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2c06cfb8-5111-45ed-a562-0b5a1a00fd66": {
+        "authors": [
+          "Fujitani Youko"
+        ],
+        "identifier": "2c06cfb8-5111-45ed-a562-0b5a1a00fd66",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aishiteru",
+        "url": "https://mangadex.org/title/2c06cfb8-5111-45ed-a562-0b5a1a00fd66",
+        "image": "https://uploads.mangadex.org/covers/2c06cfb8-5111-45ed-a562-0b5a1a00fd66/345fc32b-353d-4c74-b8f8-b30958965b5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10380,
+        "aniId": 40380,
+        "createdAt": "2020-10-12T16:11:14.000Z",
+        "updatedAt": "2021-06-05T06:40:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

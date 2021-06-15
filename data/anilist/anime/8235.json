@@ -1,0 +1,39 @@
+{
+  "altTitle": [
+    "New Moomin",
+    "ムーミン",
+    "Shin Muumin"
+  ],
+  "id": 8235,
+  "malId": 8235,
+  "type": "anime",
+  "title": "Moomin (1972)",
+  "url": "https://anilist.co/anime/8235",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8235.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:55.000Z",
+  "updatedAt": "2021-05-20T14:38:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "yokz": {
+        "identifier": "yokz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Muumin (1972)",
+        "url": "https://9anime.ru/watch/muumin-1972.yokz",
+        "image": "https://static.akacdn.ru/files/images/2018/03/904cfa6d812850d405dd9cba7f63a35e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8235,
+        "aniId": 8235,
+        "createdAt": "2020-10-12T15:56:55.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

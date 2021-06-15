@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "One or Double",
+    "1 or W",
+    "ワン・オア・ダブル"
+  ],
+  "authors": [
+    "Rumiko Takahashi"
+  ],
+  "id": 65795,
+  "malId": 35795,
+  "type": "manga",
+  "title": "1 or W",
+  "url": "https://anilist.co/manga/65795",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35795.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "143330b4-c6af-40fe-a4ae-f57253ccd588": {
+        "authors": [
+          "TAKAHASHI Rumiko"
+        ],
+        "identifier": "143330b4-c6af-40fe-a4ae-f57253ccd588",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "1 or W",
+        "url": "https://mangadex.org/title/143330b4-c6af-40fe-a4ae-f57253ccd588",
+        "image": "https://uploads.mangadex.org/covers/143330b4-c6af-40fe-a4ae-f57253ccd588/7be5b69e-41c0-433c-b81e-ef81cb62d926.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35795,
+        "aniId": 65795,
+        "createdAt": "2020-10-12T16:17:16.000Z",
+        "updatedAt": "2021-06-07T06:13:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

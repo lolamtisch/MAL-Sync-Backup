@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "The Spiral of Sand"
+  ],
+  "authors": [
+    "Tamotsu Takamure"
+  ],
+  "id": 32739,
+  "malId": 2739,
+  "type": "manga",
+  "title": "Suna no Rasen",
+  "url": "https://anilist.co/manga/32739",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2739.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-06-08T05:52:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6f6a8296-e324-4e6c-ba1d-2eb876efad8e": {
+        "authors": [
+          "Aoi Yuna"
+        ],
+        "identifier": "6f6a8296-e324-4e6c-ba1d-2eb876efad8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suna no Rasen",
+        "url": "https://mangadex.org/title/6f6a8296-e324-4e6c-ba1d-2eb876efad8e",
+        "image": "https://uploads.mangadex.org/covers/6f6a8296-e324-4e6c-ba1d-2eb876efad8e/85e809c4-4794-4451-a5ed-08f001f410f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2739,
+        "aniId": 32739,
+        "createdAt": "2020-10-12T18:11:25.000Z",
+        "updatedAt": "2021-06-08T06:57:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "suna_no_rasen": {
+        "authors": [
+          "Takamure",
+          "Tamotsu"
+        ],
+        "identifier": "suna_no_rasen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suna No Rasen",
+        "url": "https://manganelo.com/manga/suna_no_rasen",
+        "image": "https://avt.mkklcdnv6temp.com/38/c/11-1583485384.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2739,
+        "aniId": 32739,
+        "createdAt": "2021-05-13T11:25:11.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

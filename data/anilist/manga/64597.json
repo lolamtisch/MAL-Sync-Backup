@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "The Merchant King",
+    "売王",
+    "Viking"
+  ],
+  "authors": [
+    "Shigeru Tsuchiyama",
+    "Kengo Kaji"
+  ],
+  "id": 64597,
+  "malId": 34597,
+  "type": "manga",
+  "title": "Baiou",
+  "url": "https://anilist.co/manga/64597",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/34597.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:59.000Z",
+  "updatedAt": "2021-05-20T14:47:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cee6723b-ac2a-4e49-9641-987927ba9402": {
+        "authors": [
+          "TSUCHIYAMA Shigeru",
+          "KAJI Kengo"
+        ],
+        "identifier": "cee6723b-ac2a-4e49-9641-987927ba9402",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Viking",
+        "url": "https://mangadex.org/title/cee6723b-ac2a-4e49-9641-987927ba9402",
+        "image": "https://uploads.mangadex.org/covers/cee6723b-ac2a-4e49-9641-987927ba9402/b26c0e55-0bc4-410e-873c-9ca2ed38500f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34597,
+        "aniId": 64597,
+        "createdAt": "2020-10-12T16:03:59.000Z",
+        "updatedAt": "2021-06-02T17:53:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

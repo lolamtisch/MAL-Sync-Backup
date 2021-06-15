@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "妄想ショウジョ",
+    " Daydream Lover",
+    "Fantasy Virgin"
+  ],
+  "authors": [
+    "Yukino Seo"
+  ],
+  "id": 104833,
+  "malId": 112338,
+  "type": "manga",
+  "title": "Mousou Shoujo",
+  "url": "https://anilist.co/manga/104833",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104833-q97F2hAfQlye.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:56:53.000Z",
+  "updatedAt": "2021-06-05T00:51:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d81cb68-862a-4ef8-8dcf-ee639711ae52": {
+        "authors": [
+          "Seo Yukino"
+        ],
+        "identifier": "0d81cb68-862a-4ef8-8dcf-ee639711ae52",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mousou Shoujo",
+        "url": "https://mangadex.org/title/0d81cb68-862a-4ef8-8dcf-ee639711ae52",
+        "image": "https://uploads.mangadex.org/covers/0d81cb68-862a-4ef8-8dcf-ee639711ae52/d9b6abb6-f03f-4fa8-b979-c44d71cb2f76.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112338,
+        "aniId": 104833,
+        "createdAt": "2020-10-12T16:10:26.000Z",
+        "updatedAt": "2021-06-05T08:54:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pr917636": {
+        "authors": [],
+        "identifier": "pr917636",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mousou Shoujo (Yukino Seo)",
+        "url": "https://manganelo.com/manga/pr917636",
+        "image": "https://avt.mkklcdnv6.com/16/g/17-1583495846.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112338,
+        "aniId": 104833,
+        "createdAt": "2020-10-12T16:24:53.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mousou_shoujo_seo_yukino": {
+        "authors": [
+          "SEO Yukino"
+        ],
+        "identifier": "mousou_shoujo_seo_yukino",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mousou Shoujo (SEO Yukino)",
+        "url": "https://fanfox.net/manga/mousou_shoujo_seo_yukino/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29142/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112338,
+        "aniId": 104833,
+        "createdAt": "2021-04-23T17:57:51.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

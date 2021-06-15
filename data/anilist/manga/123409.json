@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "捡了东西的狼",
+    "King of Wolves",
+    "The Wolf that Picked Something Up",
+    "Papa Wolf and the Puppy",
+    "Dog and Wolf"
+  ],
+  "authors": [
+    "Ma Wei"
+  ],
+  "id": 123409,
+  "malId": null,
+  "type": "manga",
+  "title": "Jianle Dongxi de Lang",
+  "url": "https://anilist.co/manga/123409",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123409-rPGzQWiGjZXE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T06:08:18.000Z",
+  "updatedAt": "2021-05-26T06:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "575c6f8b-02bc-4300-b808-16e35c2bc2e2": {
+        "authors": [
+          "Ma Wei"
+        ],
+        "identifier": "575c6f8b-02bc-4300-b808-16e35c2bc2e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Wolf That Picked Something Up",
+        "url": "https://mangadex.org/title/575c6f8b-02bc-4300-b808-16e35c2bc2e2",
+        "image": "https://uploads.mangadex.org/covers/575c6f8b-02bc-4300-b808-16e35c2bc2e2/d9c778df-a3ba-47da-b410-bbe431264bef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 123409,
+        "createdAt": "2020-10-12T16:18:56.000Z",
+        "updatedAt": "2021-06-07T21:25:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Sold out!",
+    "ソールドアウト！",
+    "Sould Out!"
+  ],
+  "authors": [
+    "Sakura Kenjo"
+  ],
+  "id": 34134,
+  "malId": 4134,
+  "type": "manga",
+  "title": "Sold Out!",
+  "url": "https://anilist.co/manga/34134",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4134.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:25.000Z",
+  "updatedAt": "2021-05-20T14:38:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fa574ddc-3990-4297-b40a-2f7415d88fa0": {
+        "authors": [
+          "KENJO Sakura"
+        ],
+        "identifier": "fa574ddc-3990-4297-b40a-2f7415d88fa0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sold Out!",
+        "url": "https://mangadex.org/title/fa574ddc-3990-4297-b40a-2f7415d88fa0",
+        "image": "https://uploads.mangadex.org/covers/fa574ddc-3990-4297-b40a-2f7415d88fa0/b789441e-c1d2-4cc6-a23e-3acc25ece2bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4134,
+        "aniId": 34134,
+        "createdAt": "2020-10-12T16:06:54.000Z",
+        "updatedAt": "2021-06-03T22:58:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

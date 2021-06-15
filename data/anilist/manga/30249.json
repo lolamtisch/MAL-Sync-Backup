@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "The Day of Revolution",
+    "革命の日",
+    "Day of Revolution"
+  ],
+  "authors": [
+    "Mikiyo Tsuda"
+  ],
+  "id": 30249,
+  "malId": 249,
+  "type": "manga",
+  "title": "Kakumei no Hi",
+  "url": "https://anilist.co/manga/30249",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30249-zfQTrS4HOT2S.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "97bed92c-2aea-4114-8c5b-d8f9bde8e4ed": {
+        "authors": [
+          "Tsuda Mikiyo"
+        ],
+        "identifier": "97bed92c-2aea-4114-8c5b-d8f9bde8e4ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakumei no Hi",
+        "url": "https://mangadex.org/title/97bed92c-2aea-4114-8c5b-d8f9bde8e4ed",
+        "image": "https://uploads.mangadex.org/covers/97bed92c-2aea-4114-8c5b-d8f9bde8e4ed/252c2e05-34c7-4ef3-ae1a-3e8f10d3ba00.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 249,
+        "aniId": 30249,
+        "createdAt": "2020-10-12T16:03:23.000Z",
+        "updatedAt": "2021-06-02T13:40:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kakumei_no_hi": {
+        "authors": [
+          "Tsuda",
+          "Mikiyo"
+        ],
+        "identifier": "kakumei_no_hi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kakumei No Hi",
+        "url": "https://manganelo.com/manga/kakumei_no_hi",
+        "image": "https://avt.mkklcdnv6.com/41/r/5-1583473531.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 249,
+        "aniId": 30249,
+        "createdAt": "2020-11-01T07:43:37.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kakumei_no_hi": {
+        "authors": [
+          "TSUDA Mikiyo"
+        ],
+        "identifier": "kakumei_no_hi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kakumei no Hi",
+        "url": "https://fanfox.net/manga/kakumei_no_hi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/985/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 249,
+        "aniId": 30249,
+        "createdAt": "2021-06-08T10:57:50.000Z",
+        "updatedAt": "2021-06-08T11:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

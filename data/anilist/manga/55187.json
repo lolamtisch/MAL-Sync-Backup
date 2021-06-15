@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "オバケのQ太郎"
+  ],
+  "authors": [
+    "F. Fujio Fujiko",
+    "Fujio A Fujiko"
+  ],
+  "id": 55187,
+  "malId": 25187,
+  "type": "manga",
+  "title": "Obake no Q-tarou",
+  "url": "https://anilist.co/manga/55187",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25187.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b94c6260-5ae3-4505-964d-973fa7520d8d": {
+        "authors": [
+          "Fujiko Fujio"
+        ],
+        "identifier": "b94c6260-5ae3-4505-964d-973fa7520d8d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Obake no Q-Taro",
+        "url": "https://mangadex.org/title/b94c6260-5ae3-4505-964d-973fa7520d8d",
+        "image": "https://uploads.mangadex.org/covers/b94c6260-5ae3-4505-964d-973fa7520d8d/f9db8e86-aa1c-4053-bdac-d86d4bb11938.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25187,
+        "aniId": 55187,
+        "createdAt": "2020-10-12T16:17:33.000Z",
+        "updatedAt": "2021-06-07T08:34:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "実況!! 泉くんの恋模様",
+    "Commentary! Mr. Izumi's love pattern"
+  ],
+  "authors": [
+    "Shigemitsu Harada",
+    "Suzu Oomi"
+  ],
+  "id": 99683,
+  "malId": 106815,
+  "type": "manga",
+  "title": "Jikkyou!! Izumi-kun no Koi Moyou",
+  "url": "https://anilist.co/manga/99683",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99683-313v316SYWIp.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:48.000Z",
+  "updatedAt": "2021-05-20T14:55:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "75fa2db8-79ee-435e-b3c4-f56a9e6c484c": {
+        "authors": [
+          "Oomi Suzu",
+          "Harada Shigemitsu"
+        ],
+        "identifier": "75fa2db8-79ee-435e-b3c4-f56a9e6c484c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jikkyou!! Izumi-kun no Koi Moyou",
+        "url": "https://mangadex.org/title/75fa2db8-79ee-435e-b3c4-f56a9e6c484c",
+        "image": "https://uploads.mangadex.org/covers/75fa2db8-79ee-435e-b3c4-f56a9e6c484c/d2433ad6-1405-4123-93cb-e55b9072fc65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106815,
+        "aniId": 99683,
+        "createdAt": "2020-10-12T16:10:56.000Z",
+        "updatedAt": "2021-06-05T04:31:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jikkyou_izumikun_no_koi_moyou": {
+        "authors": [],
+        "identifier": "jikkyou_izumikun_no_koi_moyou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jikkyou!! Izumi-Kun No Koi Moyou",
+        "url": "https://manganelo.com/manga/jikkyou_izumikun_no_koi_moyou",
+        "image": "https://avt.mkklcdnv6.com/31/f/16-1583494591.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106815,
+        "aniId": 99683,
+        "createdAt": "2020-10-12T16:23:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

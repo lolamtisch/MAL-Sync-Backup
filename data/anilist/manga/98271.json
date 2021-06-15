@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ACARIA"
+  ],
+  "authors": [
+    "Nanaki Nanao"
+  ],
+  "id": 98271,
+  "malId": null,
+  "type": "manga",
+  "title": "Acaria",
+  "url": "https://anilist.co/manga/98271",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98271-R5GWzV1Ea7b3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-01T15:45:03.000Z",
+  "updatedAt": "2021-06-01T15:45:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4e439dc4-18ef-4ee0-9629-b86e7118cb1c": {
+        "authors": [
+          "Nanao Nanaki"
+        ],
+        "identifier": "4e439dc4-18ef-4ee0-9629-b86e7118cb1c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Acaria",
+        "url": "https://mangadex.org/title/4e439dc4-18ef-4ee0-9629-b86e7118cb1c",
+        "image": "https://uploads.mangadex.org/covers/4e439dc4-18ef-4ee0-9629-b86e7118cb1c/b03bc2c1-a0c7-4faf-9e13-2066a381d484.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 119895,
+        "aniId": 98271,
+        "createdAt": "2020-10-12T16:09:14.000Z",
+        "updatedAt": "2021-06-04T16:49:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ng952663": {
+        "authors": [
+          "Nanao Nanaki"
+        ],
+        "identifier": "manga-ng952663",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Acaria",
+        "url": "https://manganato.com/manga-ng952663",
+        "image": "https://avt.mkklcdnv6temp.com/47/i/1-1583465570.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 98271,
+        "createdAt": "2021-06-01T15:45:03.000Z",
+        "updatedAt": "2021-06-01T15:45:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

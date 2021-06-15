@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "naked ape"
+  ],
+  "id": 46740,
+  "malId": 16740,
+  "type": "manga",
+  "title": "Rico",
+  "url": "https://anilist.co/manga/46740",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16740.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:56.000Z",
+  "updatedAt": "2021-05-20T14:43:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4b099074-6afc-41fa-a1a5-8699bcc26332": {
+        "authors": [
+          "Naked Ape"
+        ],
+        "identifier": "4b099074-6afc-41fa-a1a5-8699bcc26332",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rico",
+        "url": "https://mangadex.org/title/4b099074-6afc-41fa-a1a5-8699bcc26332",
+        "image": "https://uploads.mangadex.org/covers/4b099074-6afc-41fa-a1a5-8699bcc26332/5b0f5ef5-2fc6-4703-920c-f4ec90ba32a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16740,
+        "aniId": 46740,
+        "createdAt": "2020-10-12T16:03:31.000Z",
+        "updatedAt": "2021-06-02T14:40:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

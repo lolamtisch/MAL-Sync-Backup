@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "東京サマーオブザデッド"
+  ],
+  "authors": [
+    "Shiichi Kugura"
+  ],
+  "id": 78285,
+  "malId": 48285,
+  "type": "manga",
+  "title": "Tokyo Summer of the Dead",
+  "url": "https://anilist.co/manga/78285",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48285.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:37.000Z",
+  "updatedAt": "2021-05-20T14:49:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ecad4d00-966c-43f3-83e6-64154b80cf1f": {
+        "authors": [
+          "Kugura Shiichi"
+        ],
+        "identifier": "ecad4d00-966c-43f3-83e6-64154b80cf1f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Summer of the Dead",
+        "url": "https://mangadex.org/title/ecad4d00-966c-43f3-83e6-64154b80cf1f",
+        "image": "https://uploads.mangadex.org/covers/ecad4d00-966c-43f3-83e6-64154b80cf1f/1deaf739-fa6e-4707-8610-83d856a99834.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48285,
+        "aniId": 78285,
+        "createdAt": "2020-10-12T16:18:47.000Z",
+        "updatedAt": "2021-06-07T20:13:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

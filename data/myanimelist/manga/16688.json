@@ -1,0 +1,145 @@
+{
+  "altTitle": [
+    "Ibitsu",
+    "イビツ"
+  ],
+  "authors": [
+    "Ryou, Haruto"
+  ],
+  "id": 16688,
+  "type": "manga",
+  "title": "Ibitsu",
+  "url": "https://myanimelist.net/manga/16688/Ibitsu",
+  "image": "https://cdn.myanimelist.net/images/manga/1/157933.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:23.000Z",
+  "updatedAt": "2021-04-29T12:51:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "93d90076-5d63-494e-bb1a-12a289f7ae30": {
+        "authors": [
+          "Ryou Haruto"
+        ],
+        "identifier": "93d90076-5d63-494e-bb1a-12a289f7ae30",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ibitsu",
+        "url": "https://mangadex.org/title/93d90076-5d63-494e-bb1a-12a289f7ae30",
+        "image": "https://uploads.mangadex.org/covers/93d90076-5d63-494e-bb1a-12a289f7ae30/92531008-de5b-4807-a39f-4f47e5c77e65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16688,
+        "aniId": 46688,
+        "createdAt": "2020-10-12T16:02:29.000Z",
+        "updatedAt": "2021-06-02T07:12:16.000Z",
+        "deletedAt": null
+      },
+      "95ba5fff-7470-4aed-964f-f6d0452f4a91": {
+        "authors": [
+          "Mitsu Hashimoto"
+        ],
+        "identifier": "95ba5fff-7470-4aed-964f-f6d0452f4a91",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Ibitsu na Rakuen",
+        "url": "https://mangadex.org/title/95ba5fff-7470-4aed-964f-f6d0452f4a91",
+        "image": "https://uploads.mangadex.org/covers/95ba5fff-7470-4aed-964f-f6d0452f4a91/8b1827c6-dd11-4b1e-8312-4740fe7bb6f0.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16688,
+        "aniId": 46688,
+        "createdAt": "2020-10-12T16:16:28.000Z",
+        "updatedAt": "2021-06-06T23:00:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ibitsu": {
+        "authors": [],
+        "identifier": "ibitsu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ibitsu",
+        "url": "https://manganelo.com/manga/ibitsu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11632-ibitsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16688,
+        "aniId": 46688,
+        "createdAt": "2020-10-12T16:23:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "ibitsu_okada_kazuto": {
+        "authors": [],
+        "identifier": "ibitsu_okada_kazuto",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ibitsu (OKADA Kazuto)",
+        "url": "https://manganelo.com/manga/ibitsu_okada_kazuto",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/8596-ibitsu_okada_kazuto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16688,
+        "aniId": 46688,
+        "createdAt": "2020-10-12T16:23:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ibitsu": {
+        "authors": [
+          "RYOU Haruto"
+        ],
+        "identifier": "ibitsu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ibitsu",
+        "url": "https://mangasee123.com/manga/Ibitsu",
+        "image": "https://cover.nep.li/cover/Ibitsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16688,
+        "aniId": 46688,
+        "createdAt": "2021-01-05T02:55:56.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ibitsu": {
+        "authors": [
+          "RYOU Haruto"
+        ],
+        "identifier": "ibitsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ibitsu",
+        "url": "https://fanfox.net/manga/ibitsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6759/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16688,
+        "aniId": 46688,
+        "createdAt": "2021-04-29T12:51:23.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "魔女の怪画集",
+    "The Witch's Monstrous Paintings",
+    "The Witch's Monster Art Collection",
+    "Mysterious Paintings",
+    "Das Bildnis der Hexe",
+    "The Witch's Bloody Paintings"
+  ],
+  "authors": [
+    "Hachi"
+  ],
+  "id": 107206,
+  "malId": 110036,
+  "type": "manga",
+  "title": "Majo no Kaigashuu",
+  "url": "https://anilist.co/manga/107206",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107206-rLvbne2j1NcP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:08.000Z",
+  "updatedAt": "2021-05-20T14:56:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9ca9181-42de-4584-a9e4-7e6b05a581a0": {
+        "authors": [
+          "Hachi"
+        ],
+        "identifier": "e9ca9181-42de-4584-a9e4-7e6b05a581a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Majo no Kaigashuu",
+        "url": "https://mangadex.org/title/e9ca9181-42de-4584-a9e4-7e6b05a581a0",
+        "image": "https://uploads.mangadex.org/covers/e9ca9181-42de-4584-a9e4-7e6b05a581a0/3941873a-f406-41f1-84cc-63b81823d643.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110036,
+        "aniId": 107206,
+        "createdAt": "2020-10-12T16:11:08.000Z",
+        "updatedAt": "2021-06-05T06:02:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "majo_no_kaigashuu": {
+        "authors": [],
+        "identifier": "majo_no_kaigashuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Majo no Kaigashuu",
+        "url": "https://manganelo.com/manga/majo_no_kaigashuu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19619-majo_no_kaigashuu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110036,
+        "aniId": 107206,
+        "createdAt": "2020-10-12T16:24:14.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

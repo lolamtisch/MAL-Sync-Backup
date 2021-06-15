@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Shibuya Goldfish",
+    "渋谷金魚"
+  ],
+  "authors": [
+    "Hiroumi Aoi",
+    "Ko Ransom",
+    "Abigail Blackman"
+  ],
+  "id": 101834,
+  "malId": 101558,
+  "type": "manga",
+  "title": "Shibuya Kingyo",
+  "url": "https://anilist.co/manga/101834",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101834-cELBMHVg9Pxk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:54.000Z",
+  "updatedAt": "2021-05-20T14:54:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "28591273-88bf-4a4d-afbe-95c3c3430117": {
+        "authors": [
+          "Hiroumi Aoi"
+        ],
+        "identifier": "28591273-88bf-4a4d-afbe-95c3c3430117",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shibuya Kingyo",
+        "url": "https://mangadex.org/title/28591273-88bf-4a4d-afbe-95c3c3430117",
+        "image": "https://uploads.mangadex.org/covers/28591273-88bf-4a4d-afbe-95c3c3430117/53f17da3-ef4b-4534-8da3-a97b26dbc11f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101558,
+        "aniId": 101834,
+        "createdAt": "2020-10-12T16:11:33.000Z",
+        "updatedAt": "2021-06-05T09:13:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shibuya_kingyo": {
+        "authors": [],
+        "identifier": "shibuya_kingyo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shibuya Kingyo",
+        "url": "https://manganelo.com/manga/shibuya_kingyo",
+        "image": "https://avt.mkklcdnv6.com/23/h/16-1583494304.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101558,
+        "aniId": 101834,
+        "createdAt": "2020-10-12T16:25:24.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shibuya-kingyo": {
+        "authors": [
+          "HIROUMI Aoi"
+        ],
+        "identifier": "shibuya-kingyo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shibuya Goldfish",
+        "url": "https://mangasee123.com/manga/Shibuya-Kingyo",
+        "image": "https://cover.nep.li/cover/Shibuya-Kingyo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101558,
+        "aniId": 101834,
+        "createdAt": "2021-05-06T12:48:23.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

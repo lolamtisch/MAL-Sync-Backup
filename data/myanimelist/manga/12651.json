@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Assobot Goku",
+    "Assobot Senki Goku",
+    "アソボット五九"
+  ],
+  "authors": [
+    "Kibayashi, Shin"
+  ],
+  "id": 12651,
+  "type": "manga",
+  "title": "Assobot Goku",
+  "url": "https://myanimelist.net/manga/12651/Assobot_Goku",
+  "image": "https://cdn.myanimelist.net/images/manga/1/17570.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:47.000Z",
+  "updatedAt": "2021-05-01T12:04:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aae2b42a-4e9f-4083-9e0a-0c33ba608d03": {
+        "authors": [
+          "Aoi Romu",
+          "Arimori Jyoji"
+        ],
+        "identifier": "aae2b42a-4e9f-4083-9e0a-0c33ba608d03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Assobot Goku",
+        "url": "https://mangadex.org/title/aae2b42a-4e9f-4083-9e0a-0c33ba608d03",
+        "image": "https://uploads.mangadex.org/covers/aae2b42a-4e9f-4083-9e0a-0c33ba608d03/d4e387a8-f901-49d0-ad75-f6731c6e1995.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12651,
+        "aniId": 42651,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-02T22:43:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "assobot_goku": {
+        "authors": [],
+        "identifier": "assobot_goku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Assobot Goku",
+        "url": "https://manganelo.com/manga/assobot_goku",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7676-assobot_goku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12651,
+        "aniId": 42651,
+        "createdAt": "2020-10-12T16:22:09.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

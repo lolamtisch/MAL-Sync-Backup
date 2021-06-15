@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Darker than Black",
+    "DARKER THAN BLACK -黒の契約者-",
+    "Kuro no Keiyakusha"
+  ],
+  "authors": [
+    "Tensai Okamura",
+    "Nokiya"
+  ],
+  "id": 31016,
+  "malId": 1016,
+  "type": "manga",
+  "title": "Darker than Black",
+  "url": "https://anilist.co/manga/31016",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31016-ifJ4ZS8RWd1o.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0fdc96f2-95b8-4dad-b7f9-a62c761b8344": {
+        "authors": [
+          "BONES",
+          "Okamura Tensai",
+          "Noki Ya"
+        ],
+        "identifier": "0fdc96f2-95b8-4dad-b7f9-a62c761b8344",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "DARKER THAN BLACK -Kuro no Keiyakusha-",
+        "url": "https://mangadex.org/title/0fdc96f2-95b8-4dad-b7f9-a62c761b8344",
+        "image": "https://uploads.mangadex.org/covers/0fdc96f2-95b8-4dad-b7f9-a62c761b8344/e262be00-3b6e-4b74-bf46-bfcf2ec4a04f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1016,
+        "aniId": 31016,
+        "createdAt": "2020-10-12T16:03:00.000Z",
+        "updatedAt": "2021-06-02T11:05:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dvmk84231573917279": {
+        "authors": [],
+        "identifier": "dvmk84231573917279",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Darker Than Black",
+        "url": "https://manganelo.com/manga/dvmk84231573917279",
+        "image": "https://avt.mkklcdnv6.com/26/n/6-1583475223.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1016,
+        "aniId": 31016,
+        "createdAt": "2020-10-12T16:22:45.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gx959780": {
+        "authors": [
+          "Bones",
+          "Okamura Tensai"
+        ],
+        "identifier": "manga-gx959780",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Darker Than Black",
+        "url": "https://readmanganato.com/manga-gx959780",
+        "image": "https://avt.mkklcdnv6temp.com/26/n/6-1583475223.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1016,
+        "aniId": 31016,
+        "createdAt": "2021-06-12T04:38:18.000Z",
+        "updatedAt": "2021-06-12T05:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

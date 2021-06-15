@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "画皮ちゃん！"
+  ],
+  "authors": [
+    "Chirotata"
+  ],
+  "id": 124671,
+  "malId": 130280,
+  "type": "manga",
+  "title": "Gahi-chan!",
+  "url": "https://anilist.co/manga/124671",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124671-cNH9t8bKjzMI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:30.000Z",
+  "updatedAt": "2021-05-20T14:59:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b066395a-1f46-4da6-97b5-64b4005e4664": {
+        "authors": [
+          "ちろたた/tirotata"
+        ],
+        "identifier": "b066395a-1f46-4da6-97b5-64b4005e4664",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gahi-chan!",
+        "url": "https://mangadex.org/title/b066395a-1f46-4da6-97b5-64b4005e4664",
+        "image": "https://uploads.mangadex.org/covers/b066395a-1f46-4da6-97b5-64b4005e4664/c9050b19-6c8e-489a-bc8c-fe021391de56.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130280,
+        "aniId": 124671,
+        "createdAt": "2020-10-12T16:21:48.000Z",
+        "updatedAt": "2021-06-08T03:04:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "xg925052": {
+        "authors": [
+          "ちろたた/tirotata"
+        ],
+        "identifier": "xg925052",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gahi-Chan!",
+        "url": "https://manganelo.com/manga/xg925052",
+        "image": "https://avt.mkklcdnv6.com/1/d/22-1609733511.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 130280,
+        "aniId": 124671,
+        "createdAt": "2021-01-04T05:56:47.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "The Legend of Himiko",
+    "火魅子伝~恋解~",
+    "Himiko Den"
+  ],
+  "authors": [
+    "Ito Oogure",
+    "Kou Maisaka"
+  ],
+  "id": 33000,
+  "malId": 3000,
+  "type": "manga",
+  "title": "Himiko-Den",
+  "url": "https://anilist.co/manga/33000",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3000.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-05-20T14:37:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb75d066-b1c3-4054-b468-e4d896225ec3": {
+        "authors": [
+          "Oh Great",
+          "Maisaka Kou"
+        ],
+        "identifier": "cb75d066-b1c3-4054-b468-e4d896225ec3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himiko-Den",
+        "url": "https://mangadex.org/title/cb75d066-b1c3-4054-b468-e4d896225ec3",
+        "image": "https://uploads.mangadex.org/covers/cb75d066-b1c3-4054-b468-e4d896225ec3/ea31bdbf-b468-4ed7-9e79-b35849694eb8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3000,
+        "aniId": 33000,
+        "createdAt": "2020-10-12T16:04:57.000Z",
+        "updatedAt": "2021-06-03T00:40:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

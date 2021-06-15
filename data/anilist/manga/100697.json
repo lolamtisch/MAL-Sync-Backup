@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "アイ先生はわからない",
+    "I don't know the love"
+  ],
+  "authors": [
+    "Jun Kodama"
+  ],
+  "id": 100697,
+  "malId": 92701,
+  "type": "manga",
+  "title": "Ai-sensei wa Wakaranai",
+  "url": "https://anilist.co/manga/100697",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100697-vMP7NAFNnyOM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:40.000Z",
+  "updatedAt": "2021-05-20T14:53:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2a6ab931-d8d4-453b-92b9-a81bf5574b59": {
+        "authors": [
+          "KODAMA Jun"
+        ],
+        "identifier": "2a6ab931-d8d4-453b-92b9-a81bf5574b59",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai-Sensei wa Wakaranai",
+        "url": "https://mangadex.org/title/2a6ab931-d8d4-453b-92b9-a81bf5574b59",
+        "image": "https://uploads.mangadex.org/covers/2a6ab931-d8d4-453b-92b9-a81bf5574b59/069273d8-ae5c-4bec-bf60-66fdd42655b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92701,
+        "aniId": 100697,
+        "createdAt": "2021-02-05T19:20:27.000Z",
+        "updatedAt": "2021-06-08T11:00:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "iq925623": {
+        "authors": [
+          "Kodama",
+          "Jun"
+        ],
+        "identifier": "iq925623",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ai-Sensei Wa Wakaranai",
+        "url": "https://manganelo.com/manga/iq925623",
+        "image": "https://avt.mkklcdnv6.com/24/n/23-1612886355.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92701,
+        "aniId": 100697,
+        "createdAt": "2021-02-09T17:11:36.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kj988092": {
+        "authors": [
+          "Kodama Jun"
+        ],
+        "identifier": "manga-kj988092",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ai-Sensei Wa Wakaranai",
+        "url": "https://manganato.com/manga-kj988092",
+        "image": "https://avt.mkklcdnv6temp.com/24/n/23-1612886355.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92701,
+        "aniId": 100697,
+        "createdAt": "2021-06-01T16:02:57.000Z",
+        "updatedAt": "2021-06-01T16:31:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

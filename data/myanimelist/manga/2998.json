@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Not in a Textbook!",
+    "教科書にないッ！"
+  ],
+  "authors": [
+    "Okada, Kazuto"
+  ],
+  "id": 2998,
+  "type": "manga",
+  "title": "Kyoukasho ni Nai!",
+  "url": "https://myanimelist.net/manga/2998/Kyoukasho_ni_Nai",
+  "image": "https://cdn.myanimelist.net/images/manga/1/188888.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:47.000Z",
+  "updatedAt": "2021-03-23T02:05:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2d79c779-5de0-46a0-ac9e-7ca64fb22ff4": {
+        "authors": [
+          "Okada Kazuto"
+        ],
+        "identifier": "2d79c779-5de0-46a0-ac9e-7ca64fb22ff4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyoukasho ni Nai!",
+        "url": "https://mangadex.org/title/2d79c779-5de0-46a0-ac9e-7ca64fb22ff4",
+        "image": "https://uploads.mangadex.org/covers/2d79c779-5de0-46a0-ac9e-7ca64fb22ff4/345d1526-a69d-4cb0-b5a0-db3ee3190544.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2998,
+        "aniId": 32998,
+        "createdAt": "2020-10-12T16:03:25.000Z",
+        "updatedAt": "2021-06-02T13:51:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kyoukasho_ni_nai": {
+        "authors": [],
+        "identifier": "kyoukasho_ni_nai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kyoukasho Ni Nai!",
+        "url": "https://manganelo.com/manga/kyoukasho_ni_nai",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11554-kyoukasho_ni_nai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2998,
+        "aniId": 32998,
+        "createdAt": "2020-10-12T16:24:04.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyoukasho_ni_nai": {
+        "authors": [
+          "Okada Kazuto"
+        ],
+        "identifier": "kyoukasho_ni_nai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyoukasho ni Nai!",
+        "url": "https://fanfox.net/manga/kyoukasho_ni_nai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2455/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2998,
+        "aniId": 32998,
+        "createdAt": "2021-03-23T02:05:06.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

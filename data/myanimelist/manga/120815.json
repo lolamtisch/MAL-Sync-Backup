@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "フレンドライン"
+  ],
+  "authors": [
+    "Sakumoto, Ayu"
+  ],
+  "id": 120815,
+  "type": "manga",
+  "title": "Friend Line",
+  "url": "https://myanimelist.net/manga/120815/Friend_Line",
+  "image": "https://cdn.myanimelist.net/images/manga/1/225094.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:04.000Z",
+  "updatedAt": "2021-05-24T06:38:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "477e5bec-a611-4563-9f7e-db41ac0db28e": {
+        "authors": [
+          "Sakumoto Ayu"
+        ],
+        "identifier": "477e5bec-a611-4563-9f7e-db41ac0db28e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Friend Line",
+        "url": "https://mangadex.org/title/477e5bec-a611-4563-9f7e-db41ac0db28e",
+        "image": "https://uploads.mangadex.org/covers/477e5bec-a611-4563-9f7e-db41ac0db28e/f320636b-966f-4205-af1b-949fa8f417d6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120815,
+        "aniId": 111098,
+        "createdAt": "2020-10-12T16:16:35.000Z",
+        "updatedAt": "2021-06-07T00:03:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-es982353": {
+        "authors": [
+          "Ayu Sakumoto"
+        ],
+        "identifier": "manga-es982353",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Friend Line",
+        "url": "https://readmanganato.com/manga-es982353",
+        "image": "https://avt.mkklcdnv6temp.com/48/q/18-1583498999.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120815,
+        "aniId": 111098,
+        "createdAt": "2021-06-01T15:41:11.000Z",
+        "updatedAt": "2021-06-01T16:01:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

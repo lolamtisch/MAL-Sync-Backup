@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Season's Cafe",
+    "계절다방",
+    "Seasonal Coffee Shop"
+  ],
+  "authors": [
+    "JayJay",
+    "Hato"
+  ],
+  "id": 124334,
+  "malId": null,
+  "type": "manga",
+  "title": "Gyejeoldabang",
+  "url": "https://anilist.co/manga/124334",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124334-LcY6bLak1VPo.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-08T00:53:28.000Z",
+  "updatedAt": "2021-06-08T00:53:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cf964ccd-1ece-4c45-8cdd-9823e69c9389": {
+        "authors": [
+          "hato",
+          "jayjay"
+        ],
+        "identifier": "cf964ccd-1ece-4c45-8cdd-9823e69c9389",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seasons' Cafe",
+        "url": "https://mangadex.org/title/cf964ccd-1ece-4c45-8cdd-9823e69c9389",
+        "image": "https://uploads.mangadex.org/covers/cf964ccd-1ece-4c45-8cdd-9823e69c9389/20721480-31d9-4eff-bba9-e5ff4f4d1124.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 124334,
+        "createdAt": "2020-10-12T16:20:36.000Z",
+        "updatedAt": "2021-06-08T00:54:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "恋するふくらはぎ"
+  ],
+  "authors": [
+    "Kouhei Yoshitani"
+  ],
+  "id": 131993,
+  "malId": 117276,
+  "type": "manga",
+  "title": "Koisuru Fukurahagi",
+  "url": "https://anilist.co/manga/131993",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131993-4H4Pm1Ijewlc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:55.000Z",
+  "updatedAt": "2021-05-20T14:57:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6fc6363d-8ff9-4c42-a4e9-085cc5507c66": {
+        "authors": [
+          "YOSHITANI Kouhei"
+        ],
+        "identifier": "6fc6363d-8ff9-4c42-a4e9-085cc5507c66",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi Suru Fukurahagi",
+        "url": "https://mangadex.org/title/6fc6363d-8ff9-4c42-a4e9-085cc5507c66",
+        "image": "https://uploads.mangadex.org/covers/6fc6363d-8ff9-4c42-a4e9-085cc5507c66/8808b8ce-1c5b-4faf-ae27-0edf7ccd243b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117276,
+        "aniId": 131993,
+        "createdAt": "2020-10-12T16:20:43.000Z",
+        "updatedAt": "2021-06-08T00:36:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

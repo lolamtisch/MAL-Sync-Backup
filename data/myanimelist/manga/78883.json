@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Toro Toro Himeawase",
+    "とろとろ♥姫あわせ"
+  ],
+  "authors": [
+    "Nagakura, Keiko"
+  ],
+  "id": 78883,
+  "type": "manga",
+  "title": "Torotoro♥Himeawase",
+  "url": "https://myanimelist.net/manga/78883/Torotoro♥Himeawase",
+  "image": "https://cdn.myanimelist.net/images/manga/1/136631.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:32.000Z",
+  "updatedAt": "2021-06-04T05:50:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f2860ff5-8c3e-41e6-a6d2-f7a2d5d80598": {
+        "authors": [
+          "Nagakura Keiko"
+        ],
+        "identifier": "f2860ff5-8c3e-41e6-a6d2-f7a2d5d80598",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Torotoro Himeawase",
+        "url": "https://mangadex.org/title/f2860ff5-8c3e-41e6-a6d2-f7a2d5d80598",
+        "image": "https://uploads.mangadex.org/covers/f2860ff5-8c3e-41e6-a6d2-f7a2d5d80598/2ed7a38b-fa68-42c6-b1f8-5b52216efa70.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 78883,
+        "aniId": 85834,
+        "createdAt": "2020-10-12T16:07:51.000Z",
+        "updatedAt": "2021-06-04T09:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "torotoro_himeawase": {
+        "authors": [
+          "NAGAKURA Keiko"
+        ],
+        "identifier": "torotoro_himeawase",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Torotoro Himeawase",
+        "url": "https://fanfox.net/manga/torotoro_himeawase/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14206/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 78883,
+        "aniId": 85834,
+        "createdAt": "2021-03-08T21:40:42.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

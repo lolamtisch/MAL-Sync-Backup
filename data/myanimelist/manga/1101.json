@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "アクメツ"
+  ],
+  "authors": [
+    "Tabata, Yoshiaki",
+    "Yugo, Yuuki"
+  ],
+  "id": 1101,
+  "type": "manga",
+  "title": "Akumetsu",
+  "url": "https://myanimelist.net/manga/1101/Akumetsu",
+  "image": "https://cdn.myanimelist.net/images/manga/2/183734.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:30.000Z",
+  "updatedAt": "2021-03-15T12:03:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "01c60e88-6a8d-449b-a538-f4946070b108": {
+        "authors": [
+          "Yugo Yuuki",
+          "Tabata Yoshiaki"
+        ],
+        "identifier": "01c60e88-6a8d-449b-a538-f4946070b108",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akumetsu",
+        "url": "https://mangadex.org/title/01c60e88-6a8d-449b-a538-f4946070b108",
+        "image": "https://uploads.mangadex.org/covers/01c60e88-6a8d-449b-a538-f4946070b108/fb2ccda5-4845-4826-825f-d5dfc333520a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1101,
+        "aniId": 31101,
+        "createdAt": "2020-10-12T16:02:51.000Z",
+        "updatedAt": "2021-06-02T09:53:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akumetsu": {
+        "authors": [],
+        "identifier": "akumetsu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akumetsu",
+        "url": "https://manganelo.com/manga/akumetsu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4185-akumetsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1101,
+        "aniId": 31101,
+        "createdAt": "2020-10-12T16:22:04.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "akumetsu": {
+        "authors": [
+          "TABATA Yoshiaki",
+          "YUGO Yuuki"
+        ],
+        "identifier": "akumetsu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akumetsu",
+        "url": "https://mangasee123.com/manga/Akumetsu",
+        "image": "https://cover.nep.li/cover/Akumetsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1101,
+        "aniId": 31101,
+        "createdAt": "2021-01-28T03:14:38.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "akumetsu": {
+        "authors": [
+          "TABATA Yoshiaki"
+        ],
+        "identifier": "akumetsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akumetsu",
+        "url": "https://fanfox.net/manga/akumetsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/276/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1101,
+        "aniId": 31101,
+        "createdAt": "2021-03-15T12:03:23.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

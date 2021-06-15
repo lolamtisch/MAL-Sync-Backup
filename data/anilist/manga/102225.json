@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ものするひと"
+  ],
+  "authors": [
+    "Izumi Okaya"
+  ],
+  "id": 102225,
+  "malId": 113531,
+  "type": "manga",
+  "title": "Mono Suru Hito",
+  "url": "https://anilist.co/manga/102225",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102225-uwZQWfV49VFd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T16:21:59.000Z",
+  "updatedAt": "2021-06-05T16:21:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "93906823-5aac-4e0f-99b8-477812e097ad": {
+        "authors": [
+          "Okaya Izumi"
+        ],
+        "identifier": "93906823-5aac-4e0f-99b8-477812e097ad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Monosuru Hito",
+        "url": "https://mangadex.org/title/93906823-5aac-4e0f-99b8-477812e097ad",
+        "image": "https://uploads.mangadex.org/covers/93906823-5aac-4e0f-99b8-477812e097ad/18a4720f-aa40-4d9f-bf23-dd0dbfa5fa36.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 113531,
+        "aniId": 102225,
+        "createdAt": "2020-10-12T16:12:44.000Z",
+        "updatedAt": "2021-06-05T17:07:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

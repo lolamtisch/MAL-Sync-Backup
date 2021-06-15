@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "中間管理録トネガワ",
+    "Middle Manager Tonegawa",
+    "Mr. Tonegawa: Middle Management Blues"
+  ],
+  "authors": [
+    "Nobuyuki Fukumoto",
+    "Tensei Hagiwara",
+    "Tomohiro Hashimoto",
+    "Tomoki Miyoshi"
+  ],
+  "id": 95339,
+  "malId": 90689,
+  "type": "manga",
+  "title": "Chuukan Kanriroku Tonegawa",
+  "url": "https://anilist.co/manga/95339",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95339-kuNzMI3FQPDH.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:07.000Z",
+  "updatedAt": "2021-05-20T14:53:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "825978a4-d445-4c91-84a2-d51476100fcb": {
+        "authors": [
+          "Hashimoto Tomohiro",
+          "Fukumoto Nobuyuki",
+          "Miyoshi Tomoki",
+          "Hagiwara Tensei"
+        ],
+        "identifier": "825978a4-d445-4c91-84a2-d51476100fcb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chuukan Kanriroku Tonegawa",
+        "url": "https://mangadex.org/title/825978a4-d445-4c91-84a2-d51476100fcb",
+        "image": "https://uploads.mangadex.org/covers/825978a4-d445-4c91-84a2-d51476100fcb/6ae5095b-bba1-43e6-bda5-8a37ff52651a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90689,
+        "aniId": 95339,
+        "createdAt": "2020-10-12T16:08:41.000Z",
+        "updatedAt": "2021-06-04T11:57:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chuukan_kanriroku_tonegawa": {
+        "authors": [],
+        "identifier": "chuukan_kanriroku_tonegawa",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chuukan Kanriroku Tonegawa",
+        "url": "https://manganelo.com/manga/chuukan_kanriroku_tonegawa",
+        "image": "https://avt.mkklcdnv6.com/45/i/2-1583467435.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90689,
+        "aniId": 95339,
+        "createdAt": "2020-10-12T16:22:28.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

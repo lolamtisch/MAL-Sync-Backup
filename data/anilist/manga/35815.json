@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "バディ・システム",
+    "The Buddy System",
+    "マザーロード",
+    "シャンプー",
+    "サックフィッシュ",
+    "おまわりくん純情派"
+  ],
+  "authors": [
+    "Mika Sadahiro"
+  ],
+  "id": 35815,
+  "malId": 5815,
+  "type": "manga",
+  "title": "Buddy System",
+  "url": "https://anilist.co/manga/35815",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35815-k6LRctGwt4pY.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:39:33.000Z",
+  "updatedAt": "2021-05-20T14:39:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b265615e-19f3-41d0-bb22-2fd088907445": {
+        "authors": [
+          "Sadahiro Mika"
+        ],
+        "identifier": "b265615e-19f3-41d0-bb22-2fd088907445",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Buddy System",
+        "url": "https://mangadex.org/title/b265615e-19f3-41d0-bb22-2fd088907445",
+        "image": "https://uploads.mangadex.org/covers/b265615e-19f3-41d0-bb22-2fd088907445/43b078e4-b769-49a8-95f0-e495a8dd1cb7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5815,
+        "aniId": 35815,
+        "createdAt": "2020-10-12T16:11:55.000Z",
+        "updatedAt": "2021-06-05T12:03:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jo960071": {
+        "authors": [
+          "Sadahiro Mika"
+        ],
+        "identifier": "manga-jo960071",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Buddy System",
+        "url": "https://manganato.com/manga-jo960071",
+        "image": "https://avt.mkklcdnv6temp.com/37/o/6-1583475666.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5815,
+        "aniId": 35815,
+        "createdAt": "2021-05-31T13:27:46.000Z",
+        "updatedAt": "2021-05-31T13:52:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

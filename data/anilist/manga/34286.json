@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Astral Project",
+    "Astral Project 月の光",
+    "Astral Project Moonlight"
+  ],
+  "authors": [
+    "Syuji Takeya",
+    "Marley Caribu"
+  ],
+  "id": 34286,
+  "malId": 4286,
+  "type": "manga",
+  "title": "Astral Project: Tsuki no Hikari",
+  "url": "https://anilist.co/manga/34286",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34286-siuMBtc8YVN4.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:28.000Z",
+  "updatedAt": "2021-05-20T14:38:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b32b2e75-998c-448f-9980-fbfe67993e89": {
+        "authors": [
+          "Takeya Syuji",
+          "Tsuchiya Garon",
+          "Marginal"
+        ],
+        "identifier": "b32b2e75-998c-448f-9980-fbfe67993e89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Astral Project - Tsuki no Hikari",
+        "url": "https://mangadex.org/title/b32b2e75-998c-448f-9980-fbfe67993e89",
+        "image": "https://uploads.mangadex.org/covers/b32b2e75-998c-448f-9980-fbfe67993e89/90bb0ecd-200e-4cfa-b463-17365ad58885.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4286,
+        "aniId": 34286,
+        "createdAt": "2020-10-12T16:05:21.000Z",
+        "updatedAt": "2021-06-03T12:01:07.000Z",
+        "deletedAt": null
+      },
+      "b3203295-5353-4a61-8df2-9a9eabf5230c": {
+        "authors": [
+          "Ippatu"
+        ],
+        "identifier": "b3203295-5353-4a61-8df2-9a9eabf5230c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsugumi Project",
+        "url": "https://mangadex.org/title/b3203295-5353-4a61-8df2-9a9eabf5230c",
+        "image": "https://uploads.mangadex.org/covers/b3203295-5353-4a61-8df2-9a9eabf5230c/a06f8a72-c1c3-4911-a108-23ad60c328a7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4286,
+        "aniId": 34286,
+        "createdAt": "2020-10-12T16:17:06.000Z",
+        "updatedAt": "2021-06-07T04:43:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

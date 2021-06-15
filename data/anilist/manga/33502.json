@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Digimon Frontier",
+    "數碼寶貝04 無限地帶",
+    "デジモンフロンティア",
+    "Digimon Zero 4",
+    "Digimon 04: Infinite Zone"
+  ],
+  "authors": [
+    "Yuen Wong Yu"
+  ],
+  "id": 33502,
+  "malId": 3502,
+  "type": "manga",
+  "title": "Shuma Baobei 04: Wuxian Didai",
+  "url": "https://anilist.co/manga/33502",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33502-T6d6rQp5IQcA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T10:49:28.000Z",
+  "updatedAt": "2021-06-06T12:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7bdd01bb-2428-4b1a-b2e0-2892e92c1ae2": {
+        "authors": [
+          "Yu Yuen Wong",
+          "Hongo Akiyoshi"
+        ],
+        "identifier": "7bdd01bb-2428-4b1a-b2e0-2892e92c1ae2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Digimon Frontier",
+        "url": "https://mangadex.org/title/7bdd01bb-2428-4b1a-b2e0-2892e92c1ae2",
+        "image": "https://uploads.mangadex.org/covers/7bdd01bb-2428-4b1a-b2e0-2892e92c1ae2/14f74f97-95a9-4163-bb93-41f11f6dffb8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3502,
+        "aniId": 33502,
+        "createdAt": "2020-10-12T16:11:42.000Z",
+        "updatedAt": "2021-06-05T12:43:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

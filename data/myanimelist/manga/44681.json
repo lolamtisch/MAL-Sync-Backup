@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ネバーコンプレックス"
+  ],
+  "authors": [
+    "Aoi, Levin"
+  ],
+  "id": 44681,
+  "type": "manga",
+  "title": "Never Complex",
+  "url": "https://myanimelist.net/manga/44681/Never_Complex",
+  "image": "https://cdn.myanimelist.net/images/manga/1/78849.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-02-10T02:40:33.000Z",
+  "updatedAt": "2021-06-03T14:19:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "189f8c68-4306-4019-a8e3-7348e4c76b67": {
+        "authors": [
+          "Aoi Levin"
+        ],
+        "identifier": "189f8c68-4306-4019-a8e3-7348e4c76b67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Never Complex",
+        "url": "https://mangadex.org/title/189f8c68-4306-4019-a8e3-7348e4c76b67",
+        "image": "https://uploads.mangadex.org/covers/189f8c68-4306-4019-a8e3-7348e4c76b67/770f18e6-d409-4523-a38c-f987c10aae4b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44681,
+        "aniId": 74681,
+        "createdAt": "2020-10-12T16:05:37.000Z",
+        "updatedAt": "2021-06-03T14:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "never_complex": {
+        "authors": [
+          "Aoi",
+          "Levin"
+        ],
+        "identifier": "never_complex",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Never Complex",
+        "url": "https://manganelo.com/manga/never_complex",
+        "image": "https://avt.mkklcdnv6.com/15/y/9-1583480698.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44681,
+        "aniId": 74681,
+        "createdAt": "2021-02-10T02:40:33.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

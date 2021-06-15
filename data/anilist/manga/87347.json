@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Given",
+    "ギヴン"
+  ],
+  "authors": [
+    "Natsuki Kizu",
+    "Judit Moreno"
+  ],
+  "id": 87347,
+  "malId": 79085,
+  "type": "manga",
+  "title": "Given",
+  "url": "https://anilist.co/manga/87347",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87347-GOCU76cl37dK.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:54.000Z",
+  "updatedAt": "2021-06-09T06:25:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "039d717e-9690-47fd-944d-93161b97fbac": {
+        "authors": [
+          "Kizu Natsuki"
+        ],
+        "identifier": "039d717e-9690-47fd-944d-93161b97fbac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Given",
+        "url": "https://mangadex.org/title/039d717e-9690-47fd-944d-93161b97fbac",
+        "image": "https://uploads.mangadex.org/covers/039d717e-9690-47fd-944d-93161b97fbac/68fabcad-cde1-4d67-b1bb-5911b7abb221.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79085,
+        "aniId": 87347,
+        "createdAt": "2020-10-12T16:08:18.000Z",
+        "updatedAt": "2021-06-04T09:05:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "given": {
+        "authors": [],
+        "identifier": "given",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Given",
+        "url": "https://manganelo.com/manga/given",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1579-given.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79085,
+        "aniId": 87347,
+        "createdAt": "2020-10-12T16:23:06.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "given": {
+        "authors": [
+          "KIZU Natsuki"
+        ],
+        "identifier": "given",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Given",
+        "url": "https://fanfox.net/manga/given/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14993/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79085,
+        "aniId": 87347,
+        "createdAt": "2021-03-15T23:03:12.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "given": {
+        "authors": [
+          "KIZU Natsuki"
+        ],
+        "identifier": "given",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Given",
+        "url": "https://mangasee123.com/manga/Given",
+        "image": "https://cover.nep.li/cover/Given.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79085,
+        "aniId": 87347,
+        "createdAt": "2021-04-11T19:51:07.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

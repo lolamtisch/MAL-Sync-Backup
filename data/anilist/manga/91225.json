@@ -1,0 +1,102 @@
+{
+  "altTitle": [
+    "シガレットアンソロジー",
+    "Cigarette Anthology: Menthol",
+    "Cigarette Anthology: Light",
+    "Tobacco Anthology"
+  ],
+  "authors": [
+    "Shouichi Taguchi",
+    "Fumiko Fumi",
+    "Takashi Kira",
+    "Ito Oogure",
+    "Shinichi Sugimura",
+    "Misaki Harukawa"
+  ],
+  "id": 91225,
+  "malId": 70679,
+  "type": "manga",
+  "title": "Cigarette Anthology",
+  "url": "https://anilist.co/manga/91225",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91225-B48libWDGlc1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:32.000Z",
+  "updatedAt": "2021-05-20T14:51:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb8679c3-7118-4af9-a52e-e1d66fef07c7": {
+        "authors": [
+          "Mizunagi Ryuu",
+          "Uchimizu Tohru",
+          "Ono Natsume",
+          "Asano Inio",
+          "Ohtagaki Yasuo",
+          "Yokoyari Mengo"
+        ],
+        "identifier": "bb8679c3-7118-4af9-a52e-e1d66fef07c7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cigarette Anthology MENTHOL",
+        "url": "https://mangadex.org/title/bb8679c3-7118-4af9-a52e-e1d66fef07c7",
+        "image": "https://uploads.mangadex.org/covers/bb8679c3-7118-4af9-a52e-e1d66fef07c7/bf511b2c-dbae-434e-bd69-27ee62c81a43.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70679,
+        "aniId": 91225,
+        "createdAt": "2020-10-12T16:08:47.000Z",
+        "updatedAt": "2021-06-04T12:41:39.000Z",
+        "deletedAt": null
+      },
+      "211200c6-0451-4605-9724-cf076063f83e": {
+        "authors": [
+          "HARUKAWA MISAKI",
+          "SHIMOGUCHI TOMOHIRO",
+          "Range Murata",
+          "SENTIMENTAL VECTOR",
+          "Shinobu Ohtaka",
+          "SHIMIZU EIICHI",
+          "TAGUCHI SHOUICHI"
+        ],
+        "identifier": "211200c6-0451-4605-9724-cf076063f83e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cigarette Anthology LIGHT",
+        "url": "https://mangadex.org/title/211200c6-0451-4605-9724-cf076063f83e",
+        "image": "https://uploads.mangadex.org/covers/211200c6-0451-4605-9724-cf076063f83e/2595f43e-fa90-47cd-ba2c-197640e9a6b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70679,
+        "aniId": 91225,
+        "createdAt": "2020-10-12T16:09:34.000Z",
+        "updatedAt": "2021-06-04T18:31:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cigarette_anthology": {
+        "authors": [],
+        "identifier": "cigarette_anthology",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cigarette Anthology",
+        "url": "https://manganelo.com/manga/cigarette_anthology",
+        "image": "https://avt.mkklcdnv6.com/47/d/2-1583467503.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70679,
+        "aniId": 91225,
+        "createdAt": "2020-10-12T16:22:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

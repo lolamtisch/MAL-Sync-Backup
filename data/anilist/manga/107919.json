@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "しーちゃん"
+  ],
+  "authors": [
+    "avogado6"
+  ],
+  "id": 107919,
+  "malId": null,
+  "type": "manga",
+  "title": "Shii-chan",
+  "url": "https://anilist.co/manga/107919",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107919-0AjmWmhqGh0H.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T06:20:19.000Z",
+  "updatedAt": "2021-06-06T06:20:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c5674c9-1128-4f8a-b241-b13b0ca0f4e4": {
+        "authors": [
+          "avogado6"
+        ],
+        "identifier": "7c5674c9-1128-4f8a-b241-b13b0ca0f4e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shii-chan",
+        "url": "https://mangadex.org/title/7c5674c9-1128-4f8a-b241-b13b0ca0f4e4",
+        "image": "https://uploads.mangadex.org/covers/7c5674c9-1128-4f8a-b241-b13b0ca0f4e4/b46a15f0-a835-48ee-9d75-e37167127f79.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 107919,
+        "createdAt": "2020-10-12T16:14:31.000Z",
+        "updatedAt": "2021-06-06T10:22:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

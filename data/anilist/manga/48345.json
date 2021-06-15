@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Orange Delivery",
+    "オレンジでりばりぃ"
+  ],
+  "authors": [
+    "Bohemian K",
+    "Toshinori Sogabe"
+  ],
+  "id": 48345,
+  "malId": 18345,
+  "type": "manga",
+  "title": "Orange Delivery",
+  "url": "https://anilist.co/manga/48345",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b48345-iz1CVVq14Vp7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:11.000Z",
+  "updatedAt": "2021-05-20T14:45:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4cec1ecc-5edd-4ec2-ad55-9effcfefa593": {
+        "authors": [
+          "Bohemian-K",
+          "Sogabe Toshinori"
+        ],
+        "identifier": "4cec1ecc-5edd-4ec2-ad55-9effcfefa593",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Orange Delivery",
+        "url": "https://mangadex.org/title/4cec1ecc-5edd-4ec2-ad55-9effcfefa593",
+        "image": "https://uploads.mangadex.org/covers/4cec1ecc-5edd-4ec2-ad55-9effcfefa593/88faee79-0e4f-4b6a-9952-546ceec571c5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18345,
+        "aniId": 48345,
+        "createdAt": "2020-10-12T16:02:35.000Z",
+        "updatedAt": "2021-06-02T08:07:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

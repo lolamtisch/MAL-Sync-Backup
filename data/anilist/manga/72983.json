@@ -1,0 +1,43 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Pyon-kti"
+  ],
+  "id": 72983,
+  "malId": 42983,
+  "type": "manga",
+  "title": "Dhezeall",
+  "url": "https://anilist.co/manga/72983",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42983.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:48:55.000Z",
+  "updatedAt": "2021-05-20T14:48:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "231c478e-1a64-4fc0-a3f9-2dbadb38cd4b": {
+        "authors": [
+          "momi",
+          "Current Storage (Circle)",
+          "Pyon-Kti"
+        ],
+        "identifier": "231c478e-1a64-4fc0-a3f9-2dbadb38cd4b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "DHEZEALL",
+        "url": "https://mangadex.org/title/231c478e-1a64-4fc0-a3f9-2dbadb38cd4b",
+        "image": "https://uploads.mangadex.org/covers/231c478e-1a64-4fc0-a3f9-2dbadb38cd4b/2e95d7dc-54c2-40ab-bc63-152f84e025a3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42983,
+        "aniId": 72983,
+        "createdAt": "2020-10-12T16:19:23.000Z",
+        "updatedAt": "2021-06-07T21:55:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

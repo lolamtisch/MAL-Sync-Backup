@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "シャングリ・ラ"
+  ],
+  "authors": [
+    "Ikegami, Eiichi",
+    "Karasuma, Tasuku"
+  ],
+  "id": 21544,
+  "type": "manga",
+  "title": "Shangri-La",
+  "url": "https://myanimelist.net/manga/21544/Shangri-La",
+  "image": "https://cdn.myanimelist.net/images/manga/2/173570.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-01-11T15:21:43.000Z",
+  "updatedAt": "2021-04-13T06:16:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "shangri_la": {
+        "authors": [
+          "IKEGAMI Eiichi"
+        ],
+        "identifier": "shangri_la",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shangri-La",
+        "url": "https://fanfox.net/manga/shangri_la/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10713/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21544,
+        "aniId": 51544,
+        "createdAt": "2021-04-13T06:16:31.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

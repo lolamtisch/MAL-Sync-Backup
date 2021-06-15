@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Merry Family Plan",
+    "あかるい家族計画"
+  ],
+  "authors": [
+    "Sumitomo Morozumi"
+  ],
+  "id": 43348,
+  "malId": 13348,
+  "type": "manga",
+  "title": "Akarui Kazoku Keikaku",
+  "url": "https://anilist.co/manga/43348",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13348.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7764f927-44f5-4dd0-baa8-ddbd63c8d065": {
+        "authors": [
+          "Morozumi Sumitomo"
+        ],
+        "identifier": "7764f927-44f5-4dd0-baa8-ddbd63c8d065",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akarui Kazoku Keikaku",
+        "url": "https://mangadex.org/title/7764f927-44f5-4dd0-baa8-ddbd63c8d065",
+        "image": "https://uploads.mangadex.org/covers/7764f927-44f5-4dd0-baa8-ddbd63c8d065/42662de7-ce5d-433e-a1b8-e7eed90e614f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13348,
+        "aniId": 43348,
+        "createdAt": "2020-10-12T16:16:51.000Z",
+        "updatedAt": "2021-06-07T02:36:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akarui_kazoku_keikaku_morozumi_sumitomo": {
+        "authors": [],
+        "identifier": "akarui_kazoku_keikaku_morozumi_sumitomo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akarui Kazoku Keikaku (Morozumi Sumitomo)",
+        "url": "https://manganelo.com/manga/akarui_kazoku_keikaku_morozumi_sumitomo",
+        "image": "https://avt.mkklcdnv6.com/16/c/4-1583470324.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13348,
+        "aniId": 43348,
+        "createdAt": "2020-10-12T16:22:03.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

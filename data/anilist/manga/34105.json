@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Canvas2 ～虹色のスケッチ～"
+  ],
+  "authors": [
+    "Miki Kodama"
+  ],
+  "id": 34105,
+  "malId": 4105,
+  "type": "manga",
+  "title": "Canvas 2: Niji-iro no Sketch",
+  "url": "https://anilist.co/manga/34105",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4105.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:25.000Z",
+  "updatedAt": "2021-05-20T14:38:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c061dcf0-bdc6-474a-af4a-cc53e899e7dd": {
+        "authors": [
+          "Kodama Miki"
+        ],
+        "identifier": "c061dcf0-bdc6-474a-af4a-cc53e899e7dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Canvas2 ~Nijiiro no Sketch~",
+        "url": "https://mangadex.org/title/c061dcf0-bdc6-474a-af4a-cc53e899e7dd",
+        "image": "https://uploads.mangadex.org/covers/c061dcf0-bdc6-474a-af4a-cc53e899e7dd/418bde7a-be53-48b8-9d76-913fe5f89057.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4105,
+        "aniId": 34105,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-02T22:44:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

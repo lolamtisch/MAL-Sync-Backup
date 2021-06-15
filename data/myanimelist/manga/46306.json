@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "なるしすトモちゃん"
+  ],
+  "authors": [
+    "Yoshino"
+  ],
+  "id": 46306,
+  "type": "manga",
+  "title": "Narcissus Tomo-chan",
+  "url": "https://myanimelist.net/manga/46306/Narcissus_Tomo-chan",
+  "image": "https://cdn.myanimelist.net/images/manga/5/111193.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:25.000Z",
+  "updatedAt": "2021-03-26T16:20:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0e50309b-e04f-48d0-98d7-fb3d6399df69": {
+        "authors": [
+          "Yoshino"
+        ],
+        "identifier": "0e50309b-e04f-48d0-98d7-fb3d6399df69",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Narcissus Tomo-chan",
+        "url": "https://mangadex.org/title/0e50309b-e04f-48d0-98d7-fb3d6399df69",
+        "image": "https://uploads.mangadex.org/covers/0e50309b-e04f-48d0-98d7-fb3d6399df69/c0ebf5f1-0adf-4be5-8333-770e709624f6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46306,
+        "aniId": 76306,
+        "createdAt": "2020-10-12T16:05:49.000Z",
+        "updatedAt": "2021-06-03T15:09:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "narcissus_tomo_chan": {
+        "authors": [
+          "YOSHINO"
+        ],
+        "identifier": "narcissus_tomo_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Narcissus Tomo-chan",
+        "url": "https://fanfox.net/manga/narcissus_tomo_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11600/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46306,
+        "aniId": 76306,
+        "createdAt": "2021-03-26T16:20:26.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

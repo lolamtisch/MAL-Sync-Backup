@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "禁断の恋でいこう",
+    "Forbidden Fruit",
+    "Let's Go with Forbidden Love",
+    "新禁断之恋",
+    "Midnight Wolf"
+  ],
+  "authors": [
+    "Tomu Ohmi"
+  ],
+  "id": 30188,
+  "malId": 188,
+  "type": "manga",
+  "title": "Kindan no Koi de Ikou",
+  "url": "https://anilist.co/manga/30188",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30188-Aq57xTO4dydM.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "baccbb6a-9fff-4800-8392-65a1225c8776": {
+        "authors": [
+          "Ohmi Tomu"
+        ],
+        "identifier": "baccbb6a-9fff-4800-8392-65a1225c8776",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kindan no Koi de Ikou",
+        "url": "https://mangadex.org/title/baccbb6a-9fff-4800-8392-65a1225c8776",
+        "image": "https://uploads.mangadex.org/covers/baccbb6a-9fff-4800-8392-65a1225c8776/1a718940-f052-4eae-892f-3b3464873c3f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 188,
+        "aniId": 30188,
+        "createdAt": "2020-10-12T16:03:50.000Z",
+        "updatedAt": "2021-06-02T16:49:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kindan_no_koi_de_ikou": {
+        "authors": [
+          "Ohmi",
+          "Tomu"
+        ],
+        "identifier": "kindan_no_koi_de_ikou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kindan No Koi De Ikou",
+        "url": "https://manganelo.com/manga/kindan_no_koi_de_ikou",
+        "image": "https://avt.mkklcdnv6.com/46/s/9-1583482056.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 188,
+        "aniId": 30188,
+        "createdAt": "2021-01-29T05:48:11.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kindan-no-koi-de-ikou": {
+        "authors": [
+          "OHMI Tomu"
+        ],
+        "identifier": "kindan-no-koi-de-ikou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kindan no Koi de Ikou",
+        "url": "https://mangasee123.com/manga/Kindan-No-Koi-De-Ikou",
+        "image": "https://cover.nep.li/cover/Kindan-No-Koi-De-Ikou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 188,
+        "aniId": 30188,
+        "createdAt": "2021-04-21T18:57:28.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

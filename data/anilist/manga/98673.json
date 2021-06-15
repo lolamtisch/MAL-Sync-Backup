@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ヴァンパイアキラー",
+    "Vampire Killer"
+  ],
+  "authors": [
+    "Negi Haruba"
+  ],
+  "id": 98673,
+  "malId": 103261,
+  "type": "manga",
+  "title": "Vampire Killer",
+  "url": "https://anilist.co/manga/98673",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/98673-KOYx7MhWEBnl.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:02.000Z",
+  "updatedAt": "2021-05-20T14:55:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a818a6ec-672c-40cf-b949-a6e1a29b68d9": {
+        "authors": [
+          "Haruba Negi"
+        ],
+        "identifier": "a818a6ec-672c-40cf-b949-a6e1a29b68d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyuuketsu",
+        "url": "https://mangadex.org/title/a818a6ec-672c-40cf-b949-a6e1a29b68d9",
+        "image": "https://uploads.mangadex.org/covers/a818a6ec-672c-40cf-b949-a6e1a29b68d9/c9dfcfab-1b35-49a0-96e3-06eaec5e7888.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103261,
+        "aniId": 98673,
+        "createdAt": "2020-10-12T16:09:39.000Z",
+        "updatedAt": "2021-06-04T19:02:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "vampire_killer": {
+        "authors": [
+          "HARUBA Negi"
+        ],
+        "identifier": "vampire_killer",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vampire Killer",
+        "url": "https://fanfox.net/manga/vampire_killer/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/23403/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103261,
+        "aniId": 98673,
+        "createdAt": "2021-04-01T14:31:09.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

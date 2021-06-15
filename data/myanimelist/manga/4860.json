@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "The King Of Debt",
+    "Shakking, Shakkin Daiou",
+    "借金大王"
+  ],
+  "authors": [
+    "Rokuya, Sanae"
+  ],
+  "id": 4860,
+  "type": "manga",
+  "title": "The King Of Debt",
+  "url": "https://myanimelist.net/manga/4860/The_King_Of_Debt",
+  "image": "https://cdn.myanimelist.net/images/manga/3/6021.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:02.000Z",
+  "updatedAt": "2021-05-20T21:12:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "03944fe6-b4f8-4c27-9d07-54a1237a67b5": {
+        "authors": [
+          "Heylenne"
+        ],
+        "identifier": "03944fe6-b4f8-4c27-9d07-54a1237a67b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Red King",
+        "url": "https://mangadex.org/title/03944fe6-b4f8-4c27-9d07-54a1237a67b5",
+        "image": "https://uploads.mangadex.org/covers/03944fe6-b4f8-4c27-9d07-54a1237a67b5/162cccd1-5d40-4b9b-8c35-87de6ca1fb21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4860,
+        "aniId": 34860,
+        "createdAt": "2020-10-12T16:18:07.000Z",
+        "updatedAt": "2021-06-07T13:58:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shakking": {
+        "authors": [
+          "ROKUYA Sanae"
+        ],
+        "identifier": "shakking",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shakking",
+        "url": "https://fanfox.net/manga/shakking/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5661/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 4860,
+        "aniId": 34860,
+        "createdAt": "2021-05-20T20:43:38.000Z",
+        "updatedAt": "2021-05-21T07:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

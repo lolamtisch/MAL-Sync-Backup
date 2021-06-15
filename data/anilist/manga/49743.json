@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "ミスタークリス",
+    "Mister Clice"
+  ],
+  "authors": [
+    "Osamu Akimoto"
+  ],
+  "id": 49743,
+  "malId": 19743,
+  "type": "manga",
+  "title": "Mr. Clice",
+  "url": "https://anilist.co/manga/49743",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx49743-k3GqGICZjHOY.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:23.000Z",
+  "updatedAt": "2021-05-20T14:45:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9364b983-47fc-4d4f-81e8-6ca364065d3c": {
+        "authors": [
+          "AKIMOTO Osamu"
+        ],
+        "identifier": "9364b983-47fc-4d4f-81e8-6ca364065d3c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mr. Clice",
+        "url": "https://mangadex.org/title/9364b983-47fc-4d4f-81e8-6ca364065d3c",
+        "image": "https://uploads.mangadex.org/covers/9364b983-47fc-4d4f-81e8-6ca364065d3c/e78d27ff-d4ac-42d0-a7ad-23f8bf54dd47.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19743,
+        "aniId": 49743,
+        "createdAt": "2020-10-12T16:10:27.000Z",
+        "updatedAt": "2021-06-05T00:54:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mr_clice": {
+        "authors": [],
+        "identifier": "mr_clice",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mr. Clice",
+        "url": "https://manganelo.com/manga/mr_clice",
+        "image": "https://avt.mkklcdnv6.com/2/s/15-1583491567.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19743,
+        "aniId": 49743,
+        "createdAt": "2020-10-12T16:24:23.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xd975012": {
+        "authors": [
+          "Akimoto Osamu"
+        ],
+        "identifier": "manga-xd975012",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mr. Clice",
+        "url": "https://manganato.com/manga-xd975012",
+        "image": "https://avt.mkklcdnv6temp.com/2/s/15-1583491567.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19743,
+        "aniId": 49743,
+        "createdAt": "2021-05-31T09:33:32.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

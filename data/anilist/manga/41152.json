@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "はじめて。。。",
+    "First..."
+  ],
+  "authors": [
+    "Miki Hattori"
+  ],
+  "id": 41152,
+  "malId": 11152,
+  "type": "manga",
+  "title": "Hajimete...",
+  "url": "https://anilist.co/manga/41152",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11152.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:15.000Z",
+  "updatedAt": "2021-05-20T14:41:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b09543e4-3198-4d41-8db1-f8a2ff6b807c": {
+        "authors": [
+          "HATTORI Miki"
+        ],
+        "identifier": "b09543e4-3198-4d41-8db1-f8a2ff6b807c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajimete...",
+        "url": "https://mangadex.org/title/b09543e4-3198-4d41-8db1-f8a2ff6b807c",
+        "image": "https://uploads.mangadex.org/covers/b09543e4-3198-4d41-8db1-f8a2ff6b807c/9a58c7dd-9a78-4fda-85a6-da73eac8b704.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11152,
+        "aniId": 41152,
+        "createdAt": "2020-10-12T16:09:56.000Z",
+        "updatedAt": "2021-06-04T21:09:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

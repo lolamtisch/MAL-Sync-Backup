@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Long-Distance Marriage",
+    "遠距離結婚"
+  ],
+  "authors": [
+    "Sharon Kendrick",
+    "Keiko Kishimoto"
+  ],
+  "id": 55181,
+  "malId": 25181,
+  "type": "manga",
+  "title": "Enkyori Kekkon",
+  "url": "https://anilist.co/manga/55181",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55181-nZSeVl3NbHgU.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a83e2731-e33f-4a60-bcb9-a05d0e130de1": {
+        "authors": [
+          "Sharon Kendrick",
+          "KISHIMOTO Keiko"
+        ],
+        "identifier": "a83e2731-e33f-4a60-bcb9-a05d0e130de1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Enkyori Kekkon",
+        "url": "https://mangadex.org/title/a83e2731-e33f-4a60-bcb9-a05d0e130de1",
+        "image": "https://uploads.mangadex.org/covers/a83e2731-e33f-4a60-bcb9-a05d0e130de1/9ffd8bb2-42e2-43ca-a9b9-5229e0ae5dd7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25181,
+        "aniId": 55181,
+        "createdAt": "2020-10-12T16:09:31.000Z",
+        "updatedAt": "2021-06-04T18:09:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "enkyori_kekkon": {
+        "authors": [
+          "Sharon",
+          "Kendrick"
+        ],
+        "identifier": "enkyori_kekkon",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Enkyori Kekkon",
+        "url": "https://manganelo.com/manga/enkyori_kekkon",
+        "image": "https://avt.mkklcdnv6temp.com/18/d/6-1583474878.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25181,
+        "aniId": 55181,
+        "createdAt": "2021-02-18T16:16:12.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

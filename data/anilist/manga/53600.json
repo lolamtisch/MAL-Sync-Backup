@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Eriko Umino"
+  ],
+  "id": 53600,
+  "malId": 23600,
+  "type": "manga",
+  "title": "Houkago Chocolate",
+  "url": "https://anilist.co/manga/53600",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23600.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:38.000Z",
+  "updatedAt": "2021-05-20T14:46:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5362bf8d-d031-456d-9324-b7e84d228dc3": {
+        "authors": [
+          "Umino Eriko"
+        ],
+        "identifier": "5362bf8d-d031-456d-9324-b7e84d228dc3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Houkago Chocolate",
+        "url": "https://mangadex.org/title/5362bf8d-d031-456d-9324-b7e84d228dc3",
+        "image": "https://uploads.mangadex.org/covers/5362bf8d-d031-456d-9324-b7e84d228dc3/db8c3557-1b5f-43ab-b65c-5de5ac4f2989.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23600,
+        "aniId": 53600,
+        "createdAt": "2020-10-12T16:03:26.000Z",
+        "updatedAt": "2021-06-02T14:05:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

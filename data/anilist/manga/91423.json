@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "The Fairy of Sky",
+    "ソラの妖精",
+    "The Fairy of Sky",
+    "The Sky Fairy",
+    "Chira-chira Kirari",
+    "June wo Tsunaide"
+  ],
+  "authors": [
+    "Junko Ike"
+  ],
+  "id": 91423,
+  "malId": 71499,
+  "type": "manga",
+  "title": "Sora no Yousei",
+  "url": "https://anilist.co/manga/91423",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91423-MDVRWw5Vf4VE.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:34.000Z",
+  "updatedAt": "2021-05-20T14:51:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6ee38074-ed9e-473a-8d15-51f5c499bac3": {
+        "authors": [
+          "Ike Junko"
+        ],
+        "identifier": "6ee38074-ed9e-473a-8d15-51f5c499bac3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sora no Yousei",
+        "url": "https://mangadex.org/title/6ee38074-ed9e-473a-8d15-51f5c499bac3",
+        "image": "https://uploads.mangadex.org/covers/6ee38074-ed9e-473a-8d15-51f5c499bac3/1332e7af-d169-4438-9453-ad77a7d3e35d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71499,
+        "aniId": 91423,
+        "createdAt": "2020-10-12T16:07:25.000Z",
+        "updatedAt": "2021-06-04T02:42:48.000Z",
+        "deletedAt": null
+      },
+      "a15cd5d6-5b2c-458f-ae3f-33fe1db02ac3": {
+        "authors": [
+          "Ike Junko"
+        ],
+        "identifier": "a15cd5d6-5b2c-458f-ae3f-33fe1db02ac3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chira-chira Kirari",
+        "url": "https://mangadex.org/title/a15cd5d6-5b2c-458f-ae3f-33fe1db02ac3",
+        "image": "https://uploads.mangadex.org/covers/a15cd5d6-5b2c-458f-ae3f-33fe1db02ac3/6fe96ec2-8964-4a49-8106-c85cf33b6b58.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 71499,
+        "aniId": 91423,
+        "createdAt": "2020-10-12T16:08:53.000Z",
+        "updatedAt": "2021-06-04T14:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

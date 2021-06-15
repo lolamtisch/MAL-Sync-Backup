@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Kou Fujisaki"
+  ],
+  "id": 38233,
+  "malId": 8233,
+  "type": "manga",
+  "title": "Dakenai Jikan",
+  "url": "https://anilist.co/manga/38233",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8233.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6b573364-60e3-463f-9efe-edaf7bf12fed": {
+        "authors": [
+          "Fujisaki Kou"
+        ],
+        "identifier": "6b573364-60e3-463f-9efe-edaf7bf12fed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dakenai Jikan",
+        "url": "https://mangadex.org/title/6b573364-60e3-463f-9efe-edaf7bf12fed",
+        "image": "https://uploads.mangadex.org/covers/6b573364-60e3-463f-9efe-edaf7bf12fed/69bafe4f-dcff-415f-a416-64fe16d3dec7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8233,
+        "aniId": 38233,
+        "createdAt": "2020-10-12T16:07:04.000Z",
+        "updatedAt": "2021-06-04T00:09:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

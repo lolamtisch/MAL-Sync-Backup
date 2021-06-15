@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yeri Na"
+  ],
+  "id": 35241,
+  "malId": 5241,
+  "type": "manga",
+  "title": "Glory Age",
+  "url": "https://anilist.co/manga/35241",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5241.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f0a743b7-b096-44ef-9180-a5826c6c89e7": {
+        "authors": [
+          "Na Yeri"
+        ],
+        "identifier": "f0a743b7-b096-44ef-9180-a5826c6c89e7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Glory Age",
+        "url": "https://mangadex.org/title/f0a743b7-b096-44ef-9180-a5826c6c89e7",
+        "image": "https://uploads.mangadex.org/covers/f0a743b7-b096-44ef-9180-a5826c6c89e7/8a55ad05-57e0-4d36-a94c-dc109a280352.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5241,
+        "aniId": 35241,
+        "createdAt": "2020-10-12T16:06:52.000Z",
+        "updatedAt": "2021-06-03T22:42:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

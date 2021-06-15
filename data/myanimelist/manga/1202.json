@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Fall In Love Like a Comic!",
+    "Love Like Manga!, Manga Mitaina Koi Shitai!, Bewildered♥Princess, Magical☆Project, Zoku Manga Mitaina Koi Shitai!",
+    "まんがみたいな恋したいっ!"
+  ],
+  "authors": [
+    "Yagami, Chitose"
+  ],
+  "id": 1202,
+  "type": "manga",
+  "title": "Manga Mitai na Koi Shitai!",
+  "url": "https://myanimelist.net/manga/1202/Manga_Mitai_na_Koi_Shitai",
+  "image": "https://cdn.myanimelist.net/images/manga/3/9924.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:31.000Z",
+  "updatedAt": "2021-05-20T22:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "434ab5bd-6eb0-4f8d-bb8e-28107aa9a7b3": {
+        "authors": [
+          "Yagami Chitose"
+        ],
+        "identifier": "434ab5bd-6eb0-4f8d-bb8e-28107aa9a7b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Manga Mitaina Koi Shitai!",
+        "url": "https://mangadex.org/title/434ab5bd-6eb0-4f8d-bb8e-28107aa9a7b3",
+        "image": "https://uploads.mangadex.org/covers/434ab5bd-6eb0-4f8d-bb8e-28107aa9a7b3/c78053a5-3c90-4a81-9352-c85d66207c8c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1202,
+        "aniId": 31202,
+        "createdAt": "2020-10-12T16:05:13.000Z",
+        "updatedAt": "2021-06-03T11:04:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fall_in_love_like_a_comic": {
+        "authors": [
+          "YAGAMI Chitose"
+        ],
+        "identifier": "fall_in_love_like_a_comic",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fall in Love Like a Comic",
+        "url": "https://fanfox.net/manga/fall_in_love_like_a_comic/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1834/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1202,
+        "aniId": 31202,
+        "createdAt": "2021-05-20T22:44:00.000Z",
+        "updatedAt": "2021-05-20T23:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

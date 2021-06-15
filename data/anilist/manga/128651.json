@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "45초",
+    "45 Seconds"
+  ],
+  "authors": [
+    "TEAM Nam Yoon"
+  ],
+  "id": 128651,
+  "malId": null,
+  "type": "manga",
+  "title": "45 Cho",
+  "url": "https://anilist.co/manga/128651",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128651-YcPN15Tf2Wjr.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T14:12:58.000Z",
+  "updatedAt": "2021-06-08T03:20:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "939c167b-d9b3-4336-923c-f2483cee316f": {
+        "authors": [
+          "TEAM Nam Yoon"
+        ],
+        "identifier": "939c167b-d9b3-4336-923c-f2483cee316f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "45 Seconds",
+        "url": "https://mangadex.org/title/939c167b-d9b3-4336-923c-f2483cee316f",
+        "image": "https://uploads.mangadex.org/covers/939c167b-d9b3-4336-923c-f2483cee316f/f15af62c-4c18-4661-973c-55536a86575e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 128651,
+        "createdAt": "2020-10-12T16:21:49.000Z",
+        "updatedAt": "2021-06-08T06:42:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

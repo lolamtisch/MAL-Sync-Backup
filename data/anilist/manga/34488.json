@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "アズラエルズエッジ"
+  ],
+  "authors": [
+    "Tama Yugyouji"
+  ],
+  "id": 34488,
+  "malId": 4488,
+  "type": "manga",
+  "title": "Azrael's Edge",
+  "url": "https://anilist.co/manga/34488",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4488.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:32.000Z",
+  "updatedAt": "2021-05-20T14:38:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22a7abc2-0355-492a-abe5-fd85c697c3be": {
+        "authors": [
+          "Yugyoji Tama"
+        ],
+        "identifier": "22a7abc2-0355-492a-abe5-fd85c697c3be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Azrael's EDGE",
+        "url": "https://mangadex.org/title/22a7abc2-0355-492a-abe5-fd85c697c3be",
+        "image": "https://uploads.mangadex.org/covers/22a7abc2-0355-492a-abe5-fd85c697c3be/77a413f5-85b4-45fc-a19f-a3a911f569ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4488,
+        "aniId": 34488,
+        "createdAt": "2020-10-12T16:05:06.000Z",
+        "updatedAt": "2021-06-03T10:21:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "azraels_edge": {
+        "authors": [
+          "Yugyoji",
+          "Tama"
+        ],
+        "identifier": "azraels_edge",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Azrael's Edge",
+        "url": "https://manganelo.com/manga/azraels_edge",
+        "image": "https://avt.mkklcdnv6temp.com/46/p/6-1583476142.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4488,
+        "aniId": 34488,
+        "createdAt": "2021-05-04T16:01:58.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

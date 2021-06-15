@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ちょっと江戸まで"
+  ],
+  "authors": [
+    "Masami Tsuda"
+  ],
+  "id": 45316,
+  "malId": 15316,
+  "type": "manga",
+  "title": "Chotto Edo Made",
+  "url": "https://anilist.co/manga/45316",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45316-5eseaey7hZMB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6ab88e56-955e-4325-a651-48547a6f0c98": {
+        "authors": [
+          "TSUDA Masami"
+        ],
+        "identifier": "6ab88e56-955e-4325-a651-48547a6f0c98",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chotto Edo Made",
+        "url": "https://mangadex.org/title/6ab88e56-955e-4325-a651-48547a6f0c98",
+        "image": "https://uploads.mangadex.org/covers/6ab88e56-955e-4325-a651-48547a6f0c98/bb8cef4e-15b7-4d69-b4f4-a585f0687540.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15316,
+        "aniId": 45316,
+        "createdAt": "2020-10-12T16:03:13.000Z",
+        "updatedAt": "2021-06-02T12:24:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

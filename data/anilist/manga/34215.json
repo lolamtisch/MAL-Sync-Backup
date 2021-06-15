@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "おとぎ奉り",
+    "Otogi Tatematsuri"
+  ],
+  "authors": [
+    "Junya Inoue"
+  ],
+  "id": 34215,
+  "malId": 4215,
+  "type": "manga",
+  "title": "Otogi Matsuri",
+  "url": "https://anilist.co/manga/34215",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34215-OrrcNekPDdQX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:26.000Z",
+  "updatedAt": "2021-05-20T14:38:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "824f2f28-deee-4ba3-8776-16737e79dbfb": {
+        "authors": [
+          "Inoue Junya"
+        ],
+        "identifier": "824f2f28-deee-4ba3-8776-16737e79dbfb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otogi Matsuri",
+        "url": "https://mangadex.org/title/824f2f28-deee-4ba3-8776-16737e79dbfb",
+        "image": "https://uploads.mangadex.org/covers/824f2f28-deee-4ba3-8776-16737e79dbfb/3d1ce300-b61d-4332-829f-97dc4e2390fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4215,
+        "aniId": 34215,
+        "createdAt": "2020-10-12T16:02:38.000Z",
+        "updatedAt": "2021-06-02T08:22:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "onibito_no_matsuri": {
+        "authors": [],
+        "identifier": "onibito_no_matsuri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Onibito No Matsuri",
+        "url": "https://manganelo.com/manga/onibito_no_matsuri",
+        "image": "https://avt.mkklcdnv6.com/17/a/8-1583478820.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4215,
+        "aniId": 34215,
+        "createdAt": "2020-10-12T16:24:42.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "otogi-matsuri": {
+        "authors": [
+          "INOUE Junya"
+        ],
+        "identifier": "otogi-matsuri",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Otogi Matsuri",
+        "url": "https://mangasee123.com/manga/Otogi-Matsuri",
+        "image": "https://cover.nep.li/cover/Otogi-Matsuri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4215,
+        "aniId": 34215,
+        "createdAt": "2021-03-22T11:35:13.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

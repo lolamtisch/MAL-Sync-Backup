@@ -1,0 +1,81 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yuki Azuma"
+  ],
+  "id": 42820,
+  "malId": 12820,
+  "type": "manga",
+  "title": "Happy Valentine",
+  "url": "https://anilist.co/manga/42820",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12820.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3e776e6-3ad6-437b-a728-624e0295070c": {
+        "authors": [
+          "Azuma Yuki"
+        ],
+        "identifier": "b3e776e6-3ad6-437b-a728-624e0295070c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Happy Valentine",
+        "url": "https://mangadex.org/title/b3e776e6-3ad6-437b-a728-624e0295070c",
+        "image": "https://uploads.mangadex.org/covers/b3e776e6-3ad6-437b-a728-624e0295070c/cdbc5a9d-3939-407b-ab78-f9922ac6c6ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12820,
+        "aniId": 42820,
+        "createdAt": "2020-10-12T16:04:10.000Z",
+        "updatedAt": "2021-06-02T19:13:31.000Z",
+        "deletedAt": null
+      },
+      "bc8f9f83-2899-41a1-bf40-507d12bbd469": {
+        "authors": [
+          "Namuro"
+        ],
+        "identifier": "bc8f9f83-2899-41a1-bf40-507d12bbd469",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Splatoon 2 - Happy Valentine 2020!",
+        "url": "https://mangadex.org/title/bc8f9f83-2899-41a1-bf40-507d12bbd469",
+        "image": "https://uploads.mangadex.org/covers/bc8f9f83-2899-41a1-bf40-507d12bbd469/2cddeaac-617a-4a65-bcbf-df60b4172cd8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12820,
+        "aniId": 42820,
+        "createdAt": "2020-10-12T16:18:34.000Z",
+        "updatedAt": "2021-06-07T17:57:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dt920207": {
+        "authors": [],
+        "identifier": "dt920207",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Valentine's Day and White Day",
+        "url": "https://manganelo.com/manga/dt920207",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1607-dt920207.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12820,
+        "aniId": 42820,
+        "createdAt": "2020-10-12T16:22:44.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

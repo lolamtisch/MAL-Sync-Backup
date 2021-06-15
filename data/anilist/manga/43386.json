@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "都市伝説",
+    "Toshi Densetsu - Yomigaeru Satsujinki",
+    "Urban Legend - Resurrected Murder"
+  ],
+  "authors": [
+    "Ryou Azuki"
+  ],
+  "id": 43386,
+  "malId": 13386,
+  "type": "manga",
+  "title": "Toshi Densetsu",
+  "url": "https://anilist.co/manga/43386",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13386.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90c88ddd-07cb-41a5-8f73-448d5485dd55": {
+        "authors": [
+          "Azuki Ryou"
+        ],
+        "identifier": "90c88ddd-07cb-41a5-8f73-448d5485dd55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toshi Densetsu",
+        "url": "https://mangadex.org/title/90c88ddd-07cb-41a5-8f73-448d5485dd55",
+        "image": "https://uploads.mangadex.org/covers/90c88ddd-07cb-41a5-8f73-448d5485dd55/a6162d61-7404-4cd2-b514-020a11165740.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13386,
+        "aniId": 43386,
+        "createdAt": "2020-10-12T16:03:50.000Z",
+        "updatedAt": "2021-06-02T16:48:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

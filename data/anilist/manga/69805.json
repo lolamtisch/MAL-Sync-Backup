@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "どこへも ゆけない気がしてた",
+    "Not Able to Go Anywhere",
+    "You Never Worried that I'd Go Anywhere"
+  ],
+  "authors": [
+    "Muku Ogura"
+  ],
+  "id": 69805,
+  "malId": 39805,
+  "type": "manga",
+  "title": "Doko e mo Yukenai Ki ga Shiteta",
+  "url": "https://anilist.co/manga/69805",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39805.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb5a9b11-a497-416e-b3ec-57ab825c5765": {
+        "authors": [
+          "Ogura Muku"
+        ],
+        "identifier": "bb5a9b11-a497-416e-b3ec-57ab825c5765",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doko e mo Yukenai Ki ga Shiteta",
+        "url": "https://mangadex.org/title/bb5a9b11-a497-416e-b3ec-57ab825c5765",
+        "image": "https://uploads.mangadex.org/covers/bb5a9b11-a497-416e-b3ec-57ab825c5765/797c3b9c-b80b-4110-93bc-154d5a0f703a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39805,
+        "aniId": 69805,
+        "createdAt": "2020-10-12T16:04:47.000Z",
+        "updatedAt": "2021-06-02T23:24:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

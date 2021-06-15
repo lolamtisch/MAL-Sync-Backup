@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "へんたいプレイ"
+  ],
+  "authors": [],
+  "id": 108431,
+  "type": "manga",
+  "title": "Hentai Play",
+  "url": "https://myanimelist.net/manga/108431/Hentai_Play",
+  "image": "https://cdn.myanimelist.net/images/manga/3/198507.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T13:50:07.000Z",
+  "updatedAt": "2021-06-05T13:50:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "796d1b63-3695-4fd1-bd14-6a1ed1a8840b": {
+        "authors": [
+          "Mitsui Tsubaki",
+          "Akahoshi Jake",
+          "Hasumi Shiro"
+        ],
+        "identifier": "796d1b63-3695-4fd1-bd14-6a1ed1a8840b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hentai Play (Anthology)",
+        "url": "https://mangadex.org/title/796d1b63-3695-4fd1-bd14-6a1ed1a8840b",
+        "image": "https://uploads.mangadex.org/covers/796d1b63-3695-4fd1-bd14-6a1ed1a8840b/41591f9e-3918-4514-89c5-8f1ad11f564a.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 108431,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:12:09.000Z",
+        "updatedAt": "2021-06-05T14:08:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

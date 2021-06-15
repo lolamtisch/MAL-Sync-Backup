@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "湘南爆走族"
+  ],
+  "authors": [
+    "Satoshi Yoshida"
+  ],
+  "id": 66133,
+  "malId": 36133,
+  "type": "manga",
+  "title": "Shonan Bakusozoku",
+  "url": "https://anilist.co/manga/66133",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b66133-8QOQBO3FyFsP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d514b8ae-fd3f-448f-b448-806b8d973af6": {
+        "authors": [
+          "YOSHIDA Satoshi"
+        ],
+        "identifier": "d514b8ae-fd3f-448f-b448-806b8d973af6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shonan Bakusozoku",
+        "url": "https://mangadex.org/title/d514b8ae-fd3f-448f-b448-806b8d973af6",
+        "image": "https://uploads.mangadex.org/covers/d514b8ae-fd3f-448f-b448-806b8d973af6/c4f1fbdb-b423-42a3-9653-44e38f96fc46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36133,
+        "aniId": 66133,
+        "createdAt": "2020-10-12T16:05:06.000Z",
+        "updatedAt": "2021-06-03T10:10:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shonan_bakusozoku": {
+        "authors": [
+          "Yoshida",
+          "Satoshi"
+        ],
+        "identifier": "shonan_bakusozoku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shonan Bakusozoku",
+        "url": "https://manganelo.com/manga/shonan_bakusozoku",
+        "image": "https://avt.mkklcdnv6temp.com/42/y/7-1583477903.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36133,
+        "aniId": 66133,
+        "createdAt": "2021-03-23T09:35:00.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

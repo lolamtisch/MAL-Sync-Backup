@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "聖闘士星矢Ω",
+    "Saint Seiya Ω",
+    "Saint Seiya Omega: New Cross Tanjou-hen"
+  ],
+  "authors": [
+    "Masami Kurumada",
+    "Bau"
+  ],
+  "id": 79551,
+  "malId": 49551,
+  "type": "manga",
+  "title": "Saint Seiya Omega",
+  "url": "https://anilist.co/manga/79551",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49551-WrVuf1XVKujJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:42.000Z",
+  "updatedAt": "2021-05-20T14:49:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0fa04dd-604d-4374-b1fc-e5537a70069d": {
+        "authors": [
+          "Toei Animation",
+          "Bau",
+          "Kurumada Masami"
+        ],
+        "identifier": "a0fa04dd-604d-4374-b1fc-e5537a70069d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saint Seiya &Omega;",
+        "url": "https://mangadex.org/title/a0fa04dd-604d-4374-b1fc-e5537a70069d",
+        "image": "https://uploads.mangadex.org/covers/a0fa04dd-604d-4374-b1fc-e5537a70069d/fdff538e-23cb-449f-a3ea-1c782c7c4ca3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49551,
+        "aniId": 79551,
+        "createdAt": "2020-10-12T16:06:13.000Z",
+        "updatedAt": "2021-06-03T18:03:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "サムライせんせい"
+  ],
+  "authors": [
+    "S-suke Kuroe"
+  ],
+  "id": 115072,
+  "malId": 92802,
+  "type": "manga",
+  "title": "Samurai Sensei",
+  "url": "https://anilist.co/manga/115072",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115072-ExD6vfLzIrwQ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:41.000Z",
+  "updatedAt": "2021-05-20T14:53:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d7791faa-c6de-4530-84c1-608bf2a99d2e": {
+        "authors": [
+          "Kuroe S-suke"
+        ],
+        "identifier": "d7791faa-c6de-4530-84c1-608bf2a99d2e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Samurai Sensei",
+        "url": "https://mangadex.org/title/d7791faa-c6de-4530-84c1-608bf2a99d2e",
+        "image": "https://uploads.mangadex.org/covers/d7791faa-c6de-4530-84c1-608bf2a99d2e/2bb77ae1-c570-456c-b263-c9054daab729.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92802,
+        "aniId": 115072,
+        "createdAt": "2020-10-12T16:09:05.000Z",
+        "updatedAt": "2021-06-04T14:59:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "梅しぐれ"
+  ],
+  "authors": [
+    "Tsukiko"
+  ],
+  "id": 56821,
+  "malId": 26821,
+  "type": "manga",
+  "title": "Ume Shigure",
+  "url": "https://anilist.co/manga/56821",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26821.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:26.000Z",
+  "updatedAt": "2021-05-20T14:47:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b519dbdc-2d12-44c4-a990-d448c74aa3a0": {
+        "authors": [
+          "Tsukiko"
+        ],
+        "identifier": "b519dbdc-2d12-44c4-a990-d448c74aa3a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ume Shigure",
+        "url": "https://mangadex.org/title/b519dbdc-2d12-44c4-a990-d448c74aa3a0",
+        "image": "https://uploads.mangadex.org/covers/b519dbdc-2d12-44c4-a990-d448c74aa3a0/d2939f5f-d886-43bb-b2aa-8bbe2c16acf4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26821,
+        "aniId": 56821,
+        "createdAt": "2020-10-12T16:02:45.000Z",
+        "updatedAt": "2021-06-02T09:11:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

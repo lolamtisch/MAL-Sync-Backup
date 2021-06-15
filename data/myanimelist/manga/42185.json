@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "my little world マイリトルワールド"
+  ],
+  "authors": [
+    "Satou, Kaede"
+  ],
+  "id": 42185,
+  "type": "manga",
+  "title": "my little world",
+  "url": "https://myanimelist.net/manga/42185/my_little_world",
+  "image": "https://cdn.myanimelist.net/images/manga/1/73759.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:15.000Z",
+  "updatedAt": "2021-05-06T14:48:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df99f422-a777-4872-817f-c377f9c5624c": {
+        "authors": [
+          "SATO Kaede"
+        ],
+        "identifier": "df99f422-a777-4872-817f-c377f9c5624c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Little World",
+        "url": "https://mangadex.org/title/df99f422-a777-4872-817f-c377f9c5624c",
+        "image": "https://uploads.mangadex.org/covers/df99f422-a777-4872-817f-c377f9c5624c/3f752a0f-8fbc-4f74-8984-5247b806990d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42185,
+        "aniId": 72185,
+        "createdAt": "2020-10-12T16:05:18.000Z",
+        "updatedAt": "2021-06-03T11:38:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

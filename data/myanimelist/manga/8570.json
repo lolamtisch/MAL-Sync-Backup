@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Interview with the Vampire",
+    "Yoake no Vampire, 夜明けのヴァンパイア",
+    "夜明けのヴァンパイア"
+  ],
+  "authors": [
+    "Shinohara, Udou",
+    "Rice, Anne"
+  ],
+  "id": 8570,
+  "type": "manga",
+  "title": "Interview with the Vampire",
+  "url": "https://myanimelist.net/manga/8570/Interview_with_the_Vampire",
+  "image": "https://cdn.myanimelist.net/images/manga/1/11720.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:19.000Z",
+  "updatedAt": "2021-06-09T06:31:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0664ca31-98a2-4118-a335-d13485d5a8b8": {
+        "authors": [
+          "Anne Rice",
+          "Shinohara Udou"
+        ],
+        "identifier": "0664ca31-98a2-4118-a335-d13485d5a8b8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoake no Vampire",
+        "url": "https://mangadex.org/title/0664ca31-98a2-4118-a335-d13485d5a8b8",
+        "image": "https://uploads.mangadex.org/covers/0664ca31-98a2-4118-a335-d13485d5a8b8/7a0a4f87-c451-40cb-aa8c-ab8c57ca973c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8570,
+        "aniId": 38570,
+        "createdAt": "2020-10-12T16:03:26.000Z",
+        "updatedAt": "2021-06-02T14:01:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

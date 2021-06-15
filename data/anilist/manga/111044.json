@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "嫌いでいさせて",
+    " Kirai de Isasete"
+  ],
+  "authors": [
+    "Hijiki"
+  ],
+  "id": 111044,
+  "malId": 120891,
+  "type": "manga",
+  "title": "Kirai de Isasete",
+  "url": "https://anilist.co/manga/111044",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111044-wIr9qQ0ZnykI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:18.000Z",
+  "updatedAt": "2021-06-05T12:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d48e200-916b-4449-91a4-918ee2fab5f3": {
+        "authors": [
+          "Hijiki"
+        ],
+        "identifier": "0d48e200-916b-4449-91a4-918ee2fab5f3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiraide Isasete",
+        "url": "https://mangadex.org/title/0d48e200-916b-4449-91a4-918ee2fab5f3",
+        "image": "https://uploads.mangadex.org/covers/0d48e200-916b-4449-91a4-918ee2fab5f3/88856054-1e14-4534-b764-e24d7711419b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120891,
+        "aniId": 111044,
+        "createdAt": "2020-10-12T16:16:55.000Z",
+        "updatedAt": "2021-06-07T03:09:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fm920307": {
+        "authors": [],
+        "identifier": "fm920307",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kiraide Isasete",
+        "url": "https://manganelo.com/manga/fm920307",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1707-fm920307.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120891,
+        "aniId": 111044,
+        "createdAt": "2020-10-12T16:22:57.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

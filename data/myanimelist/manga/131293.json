@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Arma",
+    "아르마"
+  ],
+  "authors": [
+    "Byeongjang"
+  ],
+  "id": 131293,
+  "type": "manga",
+  "title": "Arma",
+  "url": "https://myanimelist.net/manga/131293/Arma",
+  "image": "https://cdn.myanimelist.net/images/manga/2/237322.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-12-16T15:55:43.000Z",
+  "updatedAt": "2021-06-07T23:24:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3d82c7c9-fce7-4ddd-9024-3f6bb581b5ae": {
+        "authors": [
+          "Webtoon",
+          "webtoon"
+        ],
+        "identifier": "3d82c7c9-fce7-4ddd-9024-3f6bb581b5ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ARMA",
+        "url": "https://mangadex.org/title/3d82c7c9-fce7-4ddd-9024-3f6bb581b5ae",
+        "image": "https://uploads.mangadex.org/covers/3d82c7c9-fce7-4ddd-9024-3f6bb581b5ae/353b4c1d-5270-4cbf-9b24-bf9478556457.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131293,
+        "aniId": 120805,
+        "createdAt": "2020-10-12T16:20:02.000Z",
+        "updatedAt": "2021-06-08T00:50:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "arma": {
+        "authors": [
+          "Sgt"
+        ],
+        "identifier": "arma",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Arma",
+        "url": "https://mangasee123.com/manga/Arma",
+        "image": "https://cover.nep.li/cover/Arma.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131293,
+        "aniId": 120805,
+        "createdAt": "2020-12-16T15:55:49.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

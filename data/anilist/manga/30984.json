@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "カンタレラ"
+  ],
+  "authors": [
+    "Yuu Higuri",
+    "Fawn Lau",
+    "Christine Dashiell",
+    "Kayoko Dietsche"
+  ],
+  "id": 30984,
+  "malId": 984,
+  "type": "manga",
+  "title": "Cantarella",
+  "url": "https://anilist.co/manga/30984",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30984-lE72VieljUec.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eca770ef-d271-4956-84f9-4d17bc438a5f": {
+        "authors": [
+          "Higuri You"
+        ],
+        "identifier": "eca770ef-d271-4956-84f9-4d17bc438a5f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cantarella",
+        "url": "https://mangadex.org/title/eca770ef-d271-4956-84f9-4d17bc438a5f",
+        "image": "https://uploads.mangadex.org/covers/eca770ef-d271-4956-84f9-4d17bc438a5f/2a4f3a95-7c5d-4018-8845-0134474cf7b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 984,
+        "aniId": 30984,
+        "createdAt": "2020-10-12T16:05:14.000Z",
+        "updatedAt": "2021-06-03T11:09:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

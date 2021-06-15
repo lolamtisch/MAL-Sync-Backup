@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ひなこのーと"
+  ],
+  "authors": [
+    "Mitsuki"
+  ],
+  "id": 86163,
+  "malId": 87962,
+  "type": "manga",
+  "title": "Hinako Note",
+  "url": "https://anilist.co/manga/86163",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86163-J0eUbJikmXjG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:52.000Z",
+  "updatedAt": "2021-05-20T14:52:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "83d429da-e807-4e72-9892-b6c7c617d446": {
+        "authors": [
+          "Mitsuki (三月)"
+        ],
+        "identifier": "83d429da-e807-4e72-9892-b6c7c617d446",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hinako Note",
+        "url": "https://mangadex.org/title/83d429da-e807-4e72-9892-b6c7c617d446",
+        "image": "https://uploads.mangadex.org/covers/83d429da-e807-4e72-9892-b6c7c617d446/cd0db279-646d-4bd1-a6ba-41eba5ffdc41.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87962,
+        "aniId": 86163,
+        "createdAt": "2020-10-12T16:08:26.000Z",
+        "updatedAt": "2021-06-04T10:08:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hinako_note": {
+        "authors": [],
+        "identifier": "hinako_note",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hinako Note",
+        "url": "https://manganelo.com/manga/hinako_note",
+        "image": "https://avt.mkklcdnv6.com/26/h/7-1583477249.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87962,
+        "aniId": 86163,
+        "createdAt": "2020-10-12T16:23:21.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hinako_note": {
+        "authors": [
+          "Mitsuki (三月)"
+        ],
+        "identifier": "hinako_note",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hinako Note",
+        "url": "https://fanfox.net/manga/hinako_note/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15452/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87962,
+        "aniId": 86163,
+        "createdAt": "2021-02-27T00:56:22.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

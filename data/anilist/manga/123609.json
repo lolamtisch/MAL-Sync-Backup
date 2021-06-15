@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ハピエル"
+  ],
+  "authors": [
+    "Masuo Hira"
+  ],
+  "id": 123609,
+  "malId": 130012,
+  "type": "manga",
+  "title": "Hapiel",
+  "url": "https://anilist.co/manga/123609",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123609-KqHIwcc1DViQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:29.000Z",
+  "updatedAt": "2021-06-08T02:20:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3548bef1-0e6f-4188-932d-2c9e2ef16bbe": {
+        "authors": [
+          "Hira Masuo"
+        ],
+        "identifier": "3548bef1-0e6f-4188-932d-2c9e2ef16bbe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hapiel",
+        "url": "https://mangadex.org/title/3548bef1-0e6f-4188-932d-2c9e2ef16bbe",
+        "image": "https://uploads.mangadex.org/covers/3548bef1-0e6f-4188-932d-2c9e2ef16bbe/d9d606fa-3bf1-4a89-a30f-974af8f4325d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130012,
+        "aniId": 123609,
+        "createdAt": "2020-10-12T16:21:16.000Z",
+        "updatedAt": "2021-06-08T06:39:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dl923987": {
+        "authors": [
+          "Hira",
+          "Masuo"
+        ],
+        "identifier": "dl923987",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hapiel",
+        "url": "https://manganelo.com/manga/dl923987",
+        "image": "https://avt.mkklcdnv6.com/7/r/22-1599020348.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 130012,
+        "aniId": 123609,
+        "createdAt": "2020-10-12T16:22:40.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

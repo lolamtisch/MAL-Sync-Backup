@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Bio-Booster Armor Guyver",
+    "Guyver the Bioboosted Armor",
+    "強殖装甲ガイバー"
+  ],
+  "authors": [
+    "Takaya, Yoshiki"
+  ],
+  "id": 1608,
+  "type": "manga",
+  "title": "Kyoushoku Soukou Guyver",
+  "url": "https://myanimelist.net/manga/1608/Kyoushoku_Soukou_Guyver",
+  "image": "https://cdn.myanimelist.net/images/manga/2/196745.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:35.000Z",
+  "updatedAt": "2021-06-03T01:01:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "17b910e5-7fd1-4aef-8904-c0bd3820ae04": {
+        "authors": [
+          "TAKAYA Yoshiki"
+        ],
+        "identifier": "17b910e5-7fd1-4aef-8904-c0bd3820ae04",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Guyver",
+        "url": "https://mangadex.org/title/17b910e5-7fd1-4aef-8904-c0bd3820ae04",
+        "image": "https://uploads.mangadex.org/covers/17b910e5-7fd1-4aef-8904-c0bd3820ae04/58bcaac2-cc02-4724-a72d-8fd9c8a9b8c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1608,
+        "aniId": 31608,
+        "createdAt": "2020-10-12T16:02:33.000Z",
+        "updatedAt": "2021-06-02T07:53:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "guyver": {
+        "authors": [],
+        "identifier": "guyver",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Guyver",
+        "url": "https://manganelo.com/manga/guyver",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1967-guyver.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1608,
+        "aniId": 31608,
+        "createdAt": "2020-10-12T16:23:11.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "guyver": {
+        "authors": [
+          "TAKAYA Yoshiki"
+        ],
+        "identifier": "guyver",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Guyver",
+        "url": "https://fanfox.net/manga/guyver/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/259/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1608,
+        "aniId": 31608,
+        "createdAt": "2021-06-03T01:01:02.000Z",
+        "updatedAt": "2021-06-03T08:55:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

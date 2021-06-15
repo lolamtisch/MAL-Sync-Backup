@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "あふれてしまう"
+  ],
+  "authors": [
+    "Yoshimi Arai"
+  ],
+  "id": 99314,
+  "malId": 108368,
+  "type": "manga",
+  "title": "Afurete Shimau",
+  "url": "https://anilist.co/manga/99314",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99314-a3YU8g5TIlpg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:58.000Z",
+  "updatedAt": "2021-05-20T14:55:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a2249be7-5d95-49db-b520-b4dfd65117bb": {
+        "authors": [
+          "Arai Yoshimi"
+        ],
+        "identifier": "a2249be7-5d95-49db-b520-b4dfd65117bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Afurete Shimau",
+        "url": "https://mangadex.org/title/a2249be7-5d95-49db-b520-b4dfd65117bb",
+        "image": "https://uploads.mangadex.org/covers/a2249be7-5d95-49db-b520-b4dfd65117bb/fd793769-92c2-49a0-8f39-83967ee0cfc8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 108368,
+        "aniId": 99314,
+        "createdAt": "2020-10-12T16:11:44.000Z",
+        "updatedAt": "2021-06-05T12:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "afurete_shimau": {
+        "authors": [
+          "Arai",
+          "Yoshimi"
+        ],
+        "identifier": "afurete_shimau",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Afurete Shimau",
+        "url": "https://manganelo.com/manga/afurete_shimau",
+        "image": "https://avt.mkklcdnv6temp.com/9/u/16-1583493829.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108368,
+        "aniId": 99314,
+        "createdAt": "2021-04-15T17:46:42.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

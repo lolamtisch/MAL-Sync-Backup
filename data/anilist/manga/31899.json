@@ -1,0 +1,52 @@
+{
+  "altTitle": [
+    "Witchblade Takeru",
+    "ウィッチブレイド丈琉",
+    "Witch Blade"
+  ],
+  "authors": [
+    "Yasuko Kobayashi",
+    "Kazuasa Sumita",
+    "Ricardo Cruz",
+    "Beth Kodama",
+    "Beth Kodama",
+    "Marc Silvestri",
+    "David Wohl"
+  ],
+  "id": 31899,
+  "malId": 1899,
+  "type": "manga",
+  "title": "Witchblade Takeru",
+  "url": "https://anilist.co/manga/31899",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31899-sLdqCormfPLY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:56.000Z",
+  "updatedAt": "2021-05-20T14:36:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f0ce501-0303-47a8-a05c-800895ee5139": {
+        "authors": [
+          "KOBAYASHI Yasuko",
+          "SUMITA Kazasa"
+        ],
+        "identifier": "4f0ce501-0303-47a8-a05c-800895ee5139",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Witchblade",
+        "url": "https://mangadex.org/title/4f0ce501-0303-47a8-a05c-800895ee5139",
+        "image": "https://uploads.mangadex.org/covers/4f0ce501-0303-47a8-a05c-800895ee5139/da1dc4e6-ba50-42f8-b4f2-b4fb30647658.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1899,
+        "aniId": 31899,
+        "createdAt": "2020-10-12T16:13:11.000Z",
+        "updatedAt": "2021-06-05T19:24:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

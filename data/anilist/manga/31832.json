@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "正義の味方",
+    "Ally of Justice",
+    "Justice's Ally"
+  ],
+  "authors": [
+    "Chiaki Hijiri"
+  ],
+  "id": 31832,
+  "malId": 1832,
+  "type": "manga",
+  "title": "Seigi no Mikata",
+  "url": "https://anilist.co/manga/31832",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31832-I6jlVGO6iEnX.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:54.000Z",
+  "updatedAt": "2021-05-20T14:36:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "700c1087-3b38-4775-9e2b-f65dd0bf02e4": {
+        "authors": [
+          "Hijiri Chiaki"
+        ],
+        "identifier": "700c1087-3b38-4775-9e2b-f65dd0bf02e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seigi no Mikata",
+        "url": "https://mangadex.org/title/700c1087-3b38-4775-9e2b-f65dd0bf02e4",
+        "image": "https://uploads.mangadex.org/covers/700c1087-3b38-4775-9e2b-f65dd0bf02e4/a61a0df4-c289-42c5-95ff-bd8261354440.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1832,
+        "aniId": 31832,
+        "createdAt": "2020-10-12T16:02:59.000Z",
+        "updatedAt": "2021-06-02T10:50:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "seigi_no_mikata": {
+        "authors": [],
+        "identifier": "seigi_no_mikata",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seigi no Mikata",
+        "url": "https://manganelo.com/manga/seigi_no_mikata",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2102-seigi_no_mikata.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1832,
+        "aniId": 31832,
+        "createdAt": "2020-10-12T16:25:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

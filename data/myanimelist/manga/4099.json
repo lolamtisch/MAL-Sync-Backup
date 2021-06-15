@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Reset",
+    "オート・フォーカス"
+  ],
+  "authors": [
+    "Roppongi, Aya"
+  ],
+  "id": 4099,
+  "type": "manga",
+  "title": "Auto Focus",
+  "url": "https://myanimelist.net/manga/4099/Auto_Focus",
+  "image": "https://cdn.myanimelist.net/images/manga/1/25880.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:56.000Z",
+  "updatedAt": "2021-04-28T14:20:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d3b33fe4-ffec-4476-8e6a-fd86cce88ecd": {
+        "authors": [
+          "Roppongi Aya"
+        ],
+        "identifier": "d3b33fe4-ffec-4476-8e6a-fd86cce88ecd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Auto Focus",
+        "url": "https://mangadex.org/title/d3b33fe4-ffec-4476-8e6a-fd86cce88ecd",
+        "image": "https://uploads.mangadex.org/covers/d3b33fe4-ffec-4476-8e6a-fd86cce88ecd/57dbfff9-082a-41a7-a08f-8dcdaddbdb3e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4099,
+        "aniId": 34099,
+        "createdAt": "2020-10-12T16:07:58.000Z",
+        "updatedAt": "2021-06-04T06:35:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

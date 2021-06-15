@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "モエ・ハンっ!",
+    "Moe Hunter"
+  ],
+  "authors": [
+    "Satoru Matsubayashi"
+  ],
+  "id": 56250,
+  "malId": 26250,
+  "type": "manga",
+  "title": "Moe Han!",
+  "url": "https://anilist.co/manga/56250",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56250-SDI57EWeTpBz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:02.000Z",
+  "updatedAt": "2021-05-20T14:47:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd2c8ba7-896d-4eb3-96d4-04f700e38f87": {
+        "authors": [
+          "Matsubayashi Satoru"
+        ],
+        "identifier": "cd2c8ba7-896d-4eb3-96d4-04f700e38f87",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Moe Han!",
+        "url": "https://mangadex.org/title/cd2c8ba7-896d-4eb3-96d4-04f700e38f87",
+        "image": "https://uploads.mangadex.org/covers/cd2c8ba7-896d-4eb3-96d4-04f700e38f87/b28aa96b-bb1a-4fdf-8c1f-46602caa83e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26250,
+        "aniId": 56250,
+        "createdAt": "2020-10-12T16:03:21.000Z",
+        "updatedAt": "2021-06-02T13:24:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

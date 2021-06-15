@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Moon Boy",
+    "月요일 소년"
+  ],
+  "authors": [
+    "Lee, Young-You"
+  ],
+  "id": 876,
+  "type": "manga",
+  "title": "Moon Boy",
+  "url": "https://myanimelist.net/manga/876/Moon_Boy",
+  "image": "https://cdn.myanimelist.net/images/manga/3/107503.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:27.000Z",
+  "updatedAt": "2021-05-20T03:01:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "36df680b-5836-4a99-8646-80c3b30c6942": {
+        "authors": [
+          "Lee Young-You"
+        ],
+        "identifier": "36df680b-5836-4a99-8646-80c3b30c6942",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Moon Boy",
+        "url": "https://mangadex.org/title/36df680b-5836-4a99-8646-80c3b30c6942",
+        "image": "https://uploads.mangadex.org/covers/36df680b-5836-4a99-8646-80c3b30c6942/9ef3d1e7-2f78-4f2f-ae22-6d3f6ab0ebcd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 876,
+        "aniId": 30876,
+        "createdAt": "2020-10-12T16:13:04.000Z",
+        "updatedAt": "2021-06-05T18:36:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "moon_boy": {
+        "authors": [
+          "Lee",
+          "Young-You"
+        ],
+        "identifier": "moon_boy",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Moon Boy",
+        "url": "https://manganelo.com/manga/moon_boy",
+        "image": "https://avt.mkklcdnv6.com/21/m/12-1583486608.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 876,
+        "aniId": 30876,
+        "createdAt": "2020-11-20T02:50:51.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

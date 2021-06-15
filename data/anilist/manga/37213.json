@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "BioPlanet WoO",
+    "生物彗星WoO",
+    "Seibutsu Suisei WoO"
+  ],
+  "authors": [
+    "Eri Kagami"
+  ],
+  "id": 37213,
+  "malId": 7213,
+  "type": "manga",
+  "title": "BioPlanet WoO",
+  "url": "https://anilist.co/manga/37213",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7213.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:46.000Z",
+  "updatedAt": "2021-05-20T14:39:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e0bc7933-c4d1-4cae-bf2e-4f85147048be": {
+        "authors": [
+          "KAGAMI Eri"
+        ],
+        "identifier": "e0bc7933-c4d1-4cae-bf2e-4f85147048be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seibutsu Suisei WoO",
+        "url": "https://mangadex.org/title/e0bc7933-c4d1-4cae-bf2e-4f85147048be",
+        "image": "https://uploads.mangadex.org/covers/e0bc7933-c4d1-4cae-bf2e-4f85147048be/7553fb43-daf0-4055-9820-7347cd9b9808.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7213,
+        "aniId": 37213,
+        "createdAt": "2020-10-12T16:03:45.000Z",
+        "updatedAt": "2021-06-02T16:13:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

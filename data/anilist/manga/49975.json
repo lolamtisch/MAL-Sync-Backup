@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "KILL WIZARD"
+  ],
+  "authors": [
+    "Ryuu Mizunagi"
+  ],
+  "id": 49975,
+  "malId": 19975,
+  "type": "manga",
+  "title": "Kill Wizard",
+  "url": "https://anilist.co/manga/49975",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b49975-QW39wxcGBykX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:25.000Z",
+  "updatedAt": "2021-05-20T14:45:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b642d874-da28-4db6-bdbe-258060666a3a": {
+        "authors": [
+          "Mizunagi Ryuu"
+        ],
+        "identifier": "b642d874-da28-4db6-bdbe-258060666a3a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kill Wizard",
+        "url": "https://mangadex.org/title/b642d874-da28-4db6-bdbe-258060666a3a",
+        "image": "https://uploads.mangadex.org/covers/b642d874-da28-4db6-bdbe-258060666a3a/f160778f-6d00-430f-a3e7-63d09e39de2e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19975,
+        "aniId": 49975,
+        "createdAt": "2020-10-12T16:07:17.000Z",
+        "updatedAt": "2021-06-04T01:40:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kill_wizard": {
+        "authors": [
+          "MIZUNAGI Ryuu"
+        ],
+        "identifier": "kill_wizard",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kill Wizard",
+        "url": "https://fanfox.net/manga/kill_wizard/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13725/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19975,
+        "aniId": 49975,
+        "createdAt": "2021-04-09T05:51:09.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

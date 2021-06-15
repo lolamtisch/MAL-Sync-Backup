@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "オズのかかし使い",
+    "The Scarecrow of Oz"
+  ],
+  "authors": [
+    "Koma Ichiharu"
+  ],
+  "id": 51021,
+  "malId": 21021,
+  "type": "manga",
+  "title": "Ozu no Kakashi Tsukai",
+  "url": "https://anilist.co/manga/51021",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21021.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:37.000Z",
+  "updatedAt": "2021-05-20T14:45:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4669af66-df0d-4617-a6ec-e0a3403a1a6a": {
+        "authors": [
+          "Ichiharu Koma"
+        ],
+        "identifier": "4669af66-df0d-4617-a6ec-e0a3403a1a6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oz no Kakashi Tsukai",
+        "url": "https://mangadex.org/title/4669af66-df0d-4617-a6ec-e0a3403a1a6a",
+        "image": "https://uploads.mangadex.org/covers/4669af66-df0d-4617-a6ec-e0a3403a1a6a/d690920d-a5c1-4225-8294-4498fd629586.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21021,
+        "aniId": 51021,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:22:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

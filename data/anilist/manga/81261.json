@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "プピポー!"
+  ],
+  "authors": [
+    "Rensuke Oshikiri"
+  ],
+  "id": 81261,
+  "malId": 51261,
+  "type": "manga",
+  "title": "Pupipo!",
+  "url": "https://anilist.co/manga/81261",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/51261.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:49.000Z",
+  "updatedAt": "2021-05-20T14:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9bba98f5-38fe-4acd-a439-492ce086fe53": {
+        "authors": [
+          "Oshikiri Rensuke"
+        ],
+        "identifier": "9bba98f5-38fe-4acd-a439-492ce086fe53",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pupipo!",
+        "url": "https://mangadex.org/title/9bba98f5-38fe-4acd-a439-492ce086fe53",
+        "image": "https://uploads.mangadex.org/covers/9bba98f5-38fe-4acd-a439-492ce086fe53/f73bd15b-d27e-4fbb-8f94-0df231bd30c0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51261,
+        "aniId": 81261,
+        "createdAt": "2020-10-12T16:06:21.000Z",
+        "updatedAt": "2021-06-03T19:03:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pupipo": {
+        "authors": [],
+        "identifier": "pupipo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Pupipo!",
+        "url": "https://manganelo.com/manga/pupipo",
+        "image": "https://avt.mkklcdnv6.com/43/z/7-1583477939.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51261,
+        "aniId": 81261,
+        "createdAt": "2020-10-12T16:24:55.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "pupipo": {
+        "authors": [
+          "OSHIKIRI Rensuke"
+        ],
+        "identifier": "pupipo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Pupipo!",
+        "url": "https://mangasee123.com/manga/Pupipo",
+        "image": "https://cover.nep.li/cover/Pupipo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51261,
+        "aniId": 81261,
+        "createdAt": "2021-02-15T13:35:54.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

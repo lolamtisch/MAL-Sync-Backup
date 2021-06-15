@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "アトリ抄",
+    "Atorishou",
+    "Diaboros Live",
+    "Pretty Hunter"
+  ],
+  "authors": [
+    "Takuya Tashiro"
+  ],
+  "id": 50089,
+  "malId": 20089,
+  "type": "manga",
+  "title": "Atori Shou",
+  "url": "https://anilist.co/manga/50089",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20089.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b95292f-fa33-43be-8fd2-12fefae7a149": {
+        "authors": [
+          "TASHIRO Takuya"
+        ],
+        "identifier": "7b95292f-fa33-43be-8fd2-12fefae7a149",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Atori Shou",
+        "url": "https://mangadex.org/title/7b95292f-fa33-43be-8fd2-12fefae7a149",
+        "image": "https://uploads.mangadex.org/covers/7b95292f-fa33-43be-8fd2-12fefae7a149/760d826a-c29b-4c2b-a774-f25932bca3aa.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20089,
+        "aniId": 50089,
+        "createdAt": "2020-10-12T16:02:39.000Z",
+        "updatedAt": "2021-06-02T08:36:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "atori-shou": {
+        "authors": [
+          "TASHIRO Takuya"
+        ],
+        "identifier": "atori-shou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Atori Shou",
+        "url": "https://mangasee123.com/manga/Atori-Shou",
+        "image": "https://cover.nep.li/cover/Atori-Shou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20089,
+        "aniId": 50089,
+        "createdAt": "2021-05-01T14:03:31.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

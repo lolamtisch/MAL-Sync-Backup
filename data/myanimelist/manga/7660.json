@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Mouse",
+    "MOUSE"
+  ],
+  "authors": [
+    "Akahori, Satoru",
+    "Itaba, Hiroshi"
+  ],
+  "id": 7660,
+  "type": "manga",
+  "title": "Mouse",
+  "url": "https://myanimelist.net/manga/7660/Mouse",
+  "image": "https://cdn.myanimelist.net/images/manga/3/174374.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:15.000Z",
+  "updatedAt": "2021-04-30T01:20:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "41a100e6-dd13-4cc3-a5f0-98b7f3bf0b65": {
+        "authors": [
+          "Akahori Satoru",
+          "Itaba Hiroshi"
+        ],
+        "identifier": "41a100e6-dd13-4cc3-a5f0-98b7f3bf0b65",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "M&Oslash;USE",
+        "url": "https://mangadex.org/title/41a100e6-dd13-4cc3-a5f0-98b7f3bf0b65",
+        "image": "https://uploads.mangadex.org/covers/41a100e6-dd13-4cc3-a5f0-98b7f3bf0b65/6ae0b336-1044-440b-99eb-0b531ec5fca0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7660,
+        "aniId": 37660,
+        "createdAt": "2020-10-12T16:04:31.000Z",
+        "updatedAt": "2021-06-02T21:34:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mouse": {
+        "authors": [],
+        "identifier": "mouse",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mouse",
+        "url": "https://manganelo.com/manga/mouse",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/14806-mouse.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7660,
+        "aniId": 37660,
+        "createdAt": "2020-10-12T16:24:22.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "清々と",
+    "Saya saya to",
+    "Sayasayato"
+  ],
+  "authors": [
+    "Fumiko Tanikawa"
+  ],
+  "id": 41173,
+  "malId": 11173,
+  "type": "manga",
+  "title": "Sayasaya to",
+  "url": "https://anilist.co/manga/41173",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41173-zRXmw1rF3slC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:15.000Z",
+  "updatedAt": "2021-05-20T14:41:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "98b673f7-a4b2-4768-99e2-a28c3c544764": {
+        "authors": [
+          "Tanikawa Fumiko"
+        ],
+        "identifier": "98b673f7-a4b2-4768-99e2-a28c3c544764",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saya Saya to",
+        "url": "https://mangadex.org/title/98b673f7-a4b2-4768-99e2-a28c3c544764",
+        "image": "https://uploads.mangadex.org/covers/98b673f7-a4b2-4768-99e2-a28c3c544764/078daa8d-5235-422e-a536-d540c61324b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11173,
+        "aniId": 41173,
+        "createdAt": "2020-10-12T16:17:13.000Z",
+        "updatedAt": "2021-06-07T05:55:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

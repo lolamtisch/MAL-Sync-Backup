@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "シスプラス"
+  ],
+  "authors": [
+    "Yuuto"
+  ],
+  "id": 76458,
+  "malId": 46458,
+  "type": "manga",
+  "title": "Sis Plus",
+  "url": "https://anilist.co/manga/76458",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46458.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:30.000Z",
+  "updatedAt": "2021-05-20T14:49:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cbb99e93-a9cf-41f0-b68d-9731333b0e89": {
+        "authors": [
+          "Yuto"
+        ],
+        "identifier": "cbb99e93-a9cf-41f0-b68d-9731333b0e89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sis Plus",
+        "url": "https://mangadex.org/title/cbb99e93-a9cf-41f0-b68d-9731333b0e89",
+        "image": "https://uploads.mangadex.org/covers/cbb99e93-a9cf-41f0-b68d-9731333b0e89/2fee0f3d-7d68-4118-85cb-2b1a2700c36a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46458,
+        "aniId": 76458,
+        "createdAt": "2020-10-12T16:05:50.000Z",
+        "updatedAt": "2021-06-03T15:24:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

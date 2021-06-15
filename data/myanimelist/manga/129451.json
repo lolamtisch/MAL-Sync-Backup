@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "\"Ippon\" again!",
+    "もういっぽん！"
+  ],
+  "authors": [
+    "Muraoka, Yuu"
+  ],
+  "id": 129451,
+  "type": "manga",
+  "title": "Mou Ippon!",
+  "url": "https://myanimelist.net/manga/129451/Mou_Ippon",
+  "image": "https://cdn.myanimelist.net/images/manga/1/233691.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-12-05T22:11:28.000Z",
+  "updatedAt": "2021-01-07T00:36:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e65bd309-c01d-43df-8394-a6fde1ce8ccb": {
+        "authors": [
+          "Muraoka Yuu"
+        ],
+        "identifier": "e65bd309-c01d-43df-8394-a6fde1ce8ccb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "\"Ippon\" again!",
+        "url": "https://mangadex.org/title/e65bd309-c01d-43df-8394-a6fde1ce8ccb",
+        "image": "https://uploads.mangadex.org/covers/e65bd309-c01d-43df-8394-a6fde1ce8ccb/1e5ce014-00ff-4e0c-ad88-784f86ab3e8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129451,
+        "aniId": 104640,
+        "createdAt": "2020-10-12T16:14:51.000Z",
+        "updatedAt": "2021-06-06T08:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mou_ippon": {
+        "authors": [
+          "MURAOKA Yuu"
+        ],
+        "identifier": "mou_ippon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mou Ippon!",
+        "url": "https://fanfox.net/manga/mou_ippon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36751/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129451,
+        "aniId": 104640,
+        "createdAt": "2021-01-07T00:36:04.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "おねチャ。"
+  ],
+  "authors": [
+    "Anno Nanakamado"
+  ],
+  "id": 108153,
+  "malId": 122645,
+  "type": "manga",
+  "title": "Onecha.",
+  "url": "https://anilist.co/manga/108153",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108153-B0YV9JNNRjSK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:29.000Z",
+  "updatedAt": "2021-05-20T14:58:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b09478b-eace-435d-96c1-0218e165a125": {
+        "authors": [
+          "Nanakamado Anno"
+        ],
+        "identifier": "8b09478b-eace-435d-96c1-0218e165a125",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onecha.",
+        "url": "https://mangadex.org/title/8b09478b-eace-435d-96c1-0218e165a125",
+        "image": "https://uploads.mangadex.org/covers/8b09478b-eace-435d-96c1-0218e165a125/5bdccb17-8e12-4ad5-a66d-439a194ecd2d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122645,
+        "aniId": 108153,
+        "createdAt": "2020-10-12T16:17:38.000Z",
+        "updatedAt": "2021-06-07T09:26:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gr983526": {
+        "authors": [
+          "Anno Nanakamado"
+        ],
+        "identifier": "manga-gr983526",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Onecha.",
+        "url": "https://manganato.com/manga-gr983526",
+        "image": "https://avt.mkklcdnv6temp.com/41/y/19-1583500699.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122645,
+        "aniId": 108153,
+        "createdAt": "2021-06-08T12:26:57.000Z",
+        "updatedAt": "2021-06-08T12:55:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

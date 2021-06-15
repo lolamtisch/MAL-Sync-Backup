@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "無頼伝涯",
+    "Legend of Outlaw Gai",
+    "Gai",
+    "Outlaw Legend Gai"
+  ],
+  "authors": [
+    "Nobuyuki Fukumoto"
+  ],
+  "id": 30613,
+  "malId": 613,
+  "type": "manga",
+  "title": "Buraiden Gai",
+  "url": "https://anilist.co/manga/30613",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/613.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b7fcd3da-d050-492b-b434-30432fbe8ef1": {
+        "authors": [
+          "Fukumoto Nobuyuki"
+        ],
+        "identifier": "b7fcd3da-d050-492b-b434-30432fbe8ef1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Buraiden Gai",
+        "url": "https://mangadex.org/title/b7fcd3da-d050-492b-b434-30432fbe8ef1",
+        "image": "https://uploads.mangadex.org/covers/b7fcd3da-d050-492b-b434-30432fbe8ef1/d7d212aa-2cde-4b13-b58d-2c3c8209d51a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 613,
+        "aniId": 30613,
+        "createdAt": "2020-10-12T16:05:08.000Z",
+        "updatedAt": "2021-06-03T10:28:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

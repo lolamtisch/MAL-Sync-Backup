@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Such a Perfect Day",
+    "こんな日常"
+  ],
+  "authors": [
+    "Kanda, Neko"
+  ],
+  "id": 107878,
+  "type": "manga",
+  "title": "Konna Nichijou",
+  "url": "https://myanimelist.net/manga/107878/Konna_Nichijou",
+  "image": "https://cdn.myanimelist.net/images/manga/3/203340.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-11-09T22:44:06.000Z",
+  "updatedAt": "2021-06-05T00:20:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "075d0657-c40c-4308-894b-8095cb19111c": {
+        "authors": [
+          "Kanda Neko"
+        ],
+        "identifier": "075d0657-c40c-4308-894b-8095cb19111c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Konna Nichijou",
+        "url": "https://mangadex.org/title/075d0657-c40c-4308-894b-8095cb19111c",
+        "image": "https://uploads.mangadex.org/covers/075d0657-c40c-4308-894b-8095cb19111c/fa36c254-17bc-490c-adcd-4a9bea49980e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107878,
+        "aniId": 100210,
+        "createdAt": "2020-10-12T16:10:20.000Z",
+        "updatedAt": "2021-06-05T08:52:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "konna_nichijou": {
+        "authors": [
+          "Kanda",
+          "Neko"
+        ],
+        "identifier": "konna_nichijou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Konna Nichijou",
+        "url": "https://manganelo.com/manga/konna_nichijou",
+        "image": "https://avt.mkklcdnv6temp.com/43/r/14-1583491261.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107878,
+        "aniId": 100210,
+        "createdAt": "2021-04-09T20:21:31.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

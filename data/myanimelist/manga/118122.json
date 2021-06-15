@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "影繰姫譚"
+  ],
+  "authors": [
+    "Urakami, Yuu"
+  ],
+  "id": 118122,
+  "type": "manga",
+  "title": "Kagekuri Kitan",
+  "url": "https://myanimelist.net/manga/118122/Kagekuri_Kitan",
+  "image": "https://cdn.myanimelist.net/images/manga/1/215594.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:52.000Z",
+  "updatedAt": "2021-03-20T15:04:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31e0ca21-7f54-4659-89bc-233d1dbd3474": {
+        "authors": [
+          "Urakami Yuu"
+        ],
+        "identifier": "31e0ca21-7f54-4659-89bc-233d1dbd3474",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kagekuri Kitan",
+        "url": "https://mangadex.org/title/31e0ca21-7f54-4659-89bc-233d1dbd3474",
+        "image": "https://uploads.mangadex.org/covers/31e0ca21-7f54-4659-89bc-233d1dbd3474/12c3e91c-b598-4fc3-9853-c75bfd644da0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118122,
+        "aniId": 112017,
+        "createdAt": "2020-10-12T16:17:04.000Z",
+        "updatedAt": "2021-06-07T04:30:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sx920667": {
+        "authors": [],
+        "identifier": "sx920667",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kagekuri Kitan",
+        "url": "https://manganelo.com/manga/sx920667",
+        "image": "https://avt.mkklcdnv6.com/27/j/19-1583500179.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118122,
+        "aniId": 112017,
+        "createdAt": "2020-10-12T16:25:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kagekuri_kitan": {
+        "authors": [
+          "URAKAMI Yuu"
+        ],
+        "identifier": "kagekuri_kitan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kagekuri Kitan",
+        "url": "https://fanfox.net/manga/kagekuri_kitan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31475/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118122,
+        "aniId": 112017,
+        "createdAt": "2021-03-20T15:04:31.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

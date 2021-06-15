@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "1/2 Honeymoon",
+    "1/2ハネムーン",
+    "1/2 Honeymoon",
+    "1/2 Wedding",
+    "1/2 Engage",
+    "1/2 Ceremony"
+  ],
+  "authors": [
+    "Yukino Miyawaki"
+  ],
+  "id": 47591,
+  "malId": 17591,
+  "type": "manga",
+  "title": "1/2 Series",
+  "url": "https://anilist.co/manga/47591",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17591.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:08.000Z",
+  "updatedAt": "2021-05-20T14:44:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "777e566a-6b2e-451a-bc7d-420f633ebddb": {
+        "authors": [
+          "Miyawaki Yukino"
+        ],
+        "identifier": "777e566a-6b2e-451a-bc7d-420f633ebddb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "1/2",
+        "url": "https://mangadex.org/title/777e566a-6b2e-451a-bc7d-420f633ebddb",
+        "image": "https://uploads.mangadex.org/covers/777e566a-6b2e-451a-bc7d-420f633ebddb/e4372b11-e5c8-4f76-95f6-4d059131b48e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17591,
+        "aniId": 47591,
+        "createdAt": "2020-10-12T16:07:45.000Z",
+        "updatedAt": "2021-06-04T05:01:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

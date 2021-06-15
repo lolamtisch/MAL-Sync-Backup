@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "つきよの不思議"
+  ],
+  "authors": [
+    "Piyoko Chitose"
+  ],
+  "id": 35975,
+  "malId": 5975,
+  "type": "manga",
+  "title": "Tsukiyo no Fushigi",
+  "url": "https://anilist.co/manga/35975",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5975.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:36.000Z",
+  "updatedAt": "2021-05-20T14:39:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f90ca26b-845f-4863-a5a6-3be49bda48df": {
+        "authors": [
+          "Chitose Piyoko"
+        ],
+        "identifier": "f90ca26b-845f-4863-a5a6-3be49bda48df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukiyo no Fushigi",
+        "url": "https://mangadex.org/title/f90ca26b-845f-4863-a5a6-3be49bda48df",
+        "image": "https://uploads.mangadex.org/covers/f90ca26b-845f-4863-a5a6-3be49bda48df/89b11938-4772-4398-a9cd-da0cb320ee8b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5975,
+        "aniId": 35975,
+        "createdAt": "2020-10-12T16:21:45.000Z",
+        "updatedAt": "2021-06-08T03:00:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qg967515": {
+        "authors": [
+          "Chitose Piyoko"
+        ],
+        "identifier": "manga-qg967515",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsukiyo No Fushigi",
+        "url": "https://manganato.com/manga-qg967515",
+        "image": "https://avt.mkklcdnv6temp.com/28/k/11-1583485038.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5975,
+        "aniId": 35975,
+        "createdAt": "2021-05-31T13:33:37.000Z",
+        "updatedAt": "2021-05-31T13:52:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

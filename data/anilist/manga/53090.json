@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "メガレン～眼鏡×恋～",
+    "Megaren - Megane x Koi",
+    "Megaren ~ Megane × Koi ~"
+  ],
+  "authors": [
+    "Yuna Anisaki"
+  ],
+  "id": 53090,
+  "malId": 23090,
+  "type": "manga",
+  "title": "Megaren ~ Megane x Koi ~",
+  "url": "https://anilist.co/manga/53090",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23090.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:35.000Z",
+  "updatedAt": "2021-05-20T14:46:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e326e631-37e5-4af6-9736-bfeda14ae96e": {
+        "authors": [
+          "Anisaki Yuna"
+        ],
+        "identifier": "e326e631-37e5-4af6-9736-bfeda14ae96e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Megaren - Megane x Koi",
+        "url": "https://mangadex.org/title/e326e631-37e5-4af6-9736-bfeda14ae96e",
+        "image": "https://uploads.mangadex.org/covers/e326e631-37e5-4af6-9736-bfeda14ae96e/a6d1cc10-6834-445d-81a0-ed457dd1d6be.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23090,
+        "aniId": 53090,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:20:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "megaren-megane-x-koi": {
+        "authors": [
+          "ANISAKI Yuna"
+        ],
+        "identifier": "megaren-megane-x-koi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Megaren - Megane x Koi",
+        "url": "https://mangasee123.com/manga/Megaren-Megane-X-Koi",
+        "image": "https://cover.nep.li/cover/Megaren-Megane-X-Koi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23090,
+        "aniId": 53090,
+        "createdAt": "2021-06-07T00:19:19.000Z",
+        "updatedAt": "2021-06-07T00:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

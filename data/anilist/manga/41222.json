@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Tena on S-string",
+    "S線上のテナ",
+    "S Senjou no Tena",
+    "Tena on S String"
+  ],
+  "authors": [
+    "Sesuna Mikabe"
+  ],
+  "id": 41222,
+  "malId": 11222,
+  "type": "manga",
+  "title": "Tena on S-string",
+  "url": "https://anilist.co/manga/41222",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11222.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:16.000Z",
+  "updatedAt": "2021-05-20T14:41:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a39e4520-fa2c-47c5-9908-2ee176c91eb7": {
+        "authors": [
+          "MIKABE Sesuna"
+        ],
+        "identifier": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tena on S-String",
+        "url": "https://mangadex.org/title/a39e4520-fa2c-47c5-9908-2ee176c91eb7",
+        "image": "https://uploads.mangadex.org/covers/a39e4520-fa2c-47c5-9908-2ee176c91eb7/01d07bdb-2814-42bc-9398-adb231200545.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11222,
+        "aniId": 41222,
+        "createdAt": "2020-10-12T16:02:51.000Z",
+        "updatedAt": "2021-06-02T09:54:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

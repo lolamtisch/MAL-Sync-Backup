@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "FLESH&BLOOD",
+    "Flesh and Blood"
+  ],
+  "authors": [
+    "Shinri Fuwa"
+  ],
+  "id": 42886,
+  "malId": 12886,
+  "type": "manga",
+  "title": "Flesh & Blood",
+  "url": "https://anilist.co/manga/42886",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12886.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:26.000Z",
+  "updatedAt": "2021-05-20T14:42:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b8f1e52-8462-4169-9903-f95715cd8caf": {
+        "authors": [
+          "Fuwa Shinri"
+        ],
+        "identifier": "8b8f1e52-8462-4169-9903-f95715cd8caf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flesh & Blood",
+        "url": "https://mangadex.org/title/8b8f1e52-8462-4169-9903-f95715cd8caf",
+        "image": "https://uploads.mangadex.org/covers/8b8f1e52-8462-4169-9903-f95715cd8caf/24a24f76-6ca6-40c3-b71e-bf627984c248.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12886,
+        "aniId": 42886,
+        "createdAt": "2020-10-12T16:21:29.000Z",
+        "updatedAt": "2021-06-08T02:28:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

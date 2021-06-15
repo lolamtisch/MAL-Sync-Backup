@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Drops of Desire",
+    "Droplets of Desire",
+    "欲望のしずく"
+  ],
+  "authors": [
+    "Higashino, Yuu"
+  ],
+  "id": 17125,
+  "type": "manga",
+  "title": "Yokubou no Shizuku",
+  "url": "https://myanimelist.net/manga/17125/Yokubou_no_Shizuku",
+  "image": "https://cdn.myanimelist.net/images/manga/1/84633.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:25.000Z",
+  "updatedAt": "2021-05-20T23:14:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d5021805-2ea4-4403-85de-d789ece6d40a": {
+        "authors": [
+          "Higashino You"
+        ],
+        "identifier": "d5021805-2ea4-4403-85de-d789ece6d40a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yokubou no Shizuku",
+        "url": "https://mangadex.org/title/d5021805-2ea4-4403-85de-d789ece6d40a",
+        "image": "https://uploads.mangadex.org/covers/d5021805-2ea4-4403-85de-d789ece6d40a/5fa389c2-9ec9-49f9-9e83-0cc9c3f017ae.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17125,
+        "aniId": 47125,
+        "createdAt": "2020-10-12T16:16:16.000Z",
+        "updatedAt": "2021-06-06T21:03:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yokubou_no_shizuku": {
+        "authors": [
+          "HIGASHINO Yuu"
+        ],
+        "identifier": "yokubou_no_shizuku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yokubou no Shizuku",
+        "url": "https://fanfox.net/manga/yokubou_no_shizuku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6900/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17125,
+        "aniId": 47125,
+        "createdAt": "2021-05-20T23:14:08.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

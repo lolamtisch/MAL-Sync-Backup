@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "冒険少年",
+    "Bôken Shônen",
+    "Adventure Boys"
+  ],
+  "authors": [
+    "Mitsuru Adachi"
+  ],
+  "id": 31670,
+  "malId": 1670,
+  "type": "manga",
+  "title": "Bouken Shounen",
+  "url": "https://anilist.co/manga/31670",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31670-BPsyVhAmuXen.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c8f40dfe-e2b2-42ea-b336-a66b3db5cd72": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "c8f40dfe-e2b2-42ea-b336-a66b3db5cd72",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Adventure Boys",
+        "url": "https://mangadex.org/title/c8f40dfe-e2b2-42ea-b336-a66b3db5cd72",
+        "image": "https://uploads.mangadex.org/covers/c8f40dfe-e2b2-42ea-b336-a66b3db5cd72/22ab1579-acbe-44f9-ade8-ff9137b82bac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1670,
+        "aniId": 31670,
+        "createdAt": "2020-10-12T16:02:53.000Z",
+        "updatedAt": "2021-06-02T10:06:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "adventure-boys": {
+        "authors": [
+          "ADACHI Mitsuru"
+        ],
+        "identifier": "adventure-boys",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Adventure Boys",
+        "url": "https://mangasee123.com/manga/Adventure-Boys",
+        "image": "https://cover.nep.li/cover/Adventure-Boys.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1670,
+        "aniId": 31670,
+        "createdAt": "2021-03-31T00:01:01.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

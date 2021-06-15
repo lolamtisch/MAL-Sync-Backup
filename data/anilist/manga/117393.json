@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "聖闘士星矢 EPISODE ZERO"
+  ],
+  "authors": [
+    "Masami Kurumada"
+  ],
+  "id": 117393,
+  "malId": 110898,
+  "type": "manga",
+  "title": "Saint Seiya: Episode Zero",
+  "url": "https://anilist.co/manga/117393",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117393-IDuJ0V2Tx2nT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:17.000Z",
+  "updatedAt": "2021-05-20T14:56:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "17cf15ba-b934-4509-bc79-7c415c5d0d56": {
+        "authors": [
+          "Kurumada Masami"
+        ],
+        "identifier": "17cf15ba-b934-4509-bc79-7c415c5d0d56",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saint Seiya: Episode Zero",
+        "url": "https://mangadex.org/title/17cf15ba-b934-4509-bc79-7c415c5d0d56",
+        "image": "https://uploads.mangadex.org/covers/17cf15ba-b934-4509-bc79-7c415c5d0d56/2ab6a428-ece8-4ba8-b97c-cc92c46da24c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110898,
+        "aniId": 117393,
+        "createdAt": "2020-10-12T16:12:08.000Z",
+        "updatedAt": "2021-06-05T13:37:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dc918924": {
+        "authors": [
+          "Kurumada",
+          "Masami"
+        ],
+        "identifier": "dc918924",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Saint Seiya: Episode Zero",
+        "url": "https://manganelo.com/manga/dc918924",
+        "image": "https://avt.mkklcdnv6.com/13/e/18-1583497597.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110898,
+        "aniId": 117393,
+        "createdAt": "2020-11-01T05:14:00.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

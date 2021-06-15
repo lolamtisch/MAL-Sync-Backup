@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "SPAS-SA",
+    "すぱすぱ"
+  ],
+  "authors": [
+    "Miyake, Taishi"
+  ],
+  "id": 3096,
+  "type": "manga",
+  "title": "Spas-Pa",
+  "url": "https://myanimelist.net/manga/3096/Spas-Pa",
+  "image": "https://cdn.myanimelist.net/images/manga/5/37674.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:48.000Z",
+  "updatedAt": "2021-01-21T12:03:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3b569fa-2ef6-4b38-a643-67bc5edd282a": {
+        "authors": [
+          "MIYAKE Taishi"
+        ],
+        "identifier": "b3b569fa-2ef6-4b38-a643-67bc5edd282a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spas-Pa",
+        "url": "https://mangadex.org/title/b3b569fa-2ef6-4b38-a643-67bc5edd282a",
+        "image": "https://uploads.mangadex.org/covers/b3b569fa-2ef6-4b38-a643-67bc5edd282a/b595808d-6b31-45bd-947e-eee5b1b5a3d7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3096,
+        "aniId": 33096,
+        "createdAt": "2020-10-12T16:02:38.000Z",
+        "updatedAt": "2021-06-02T08:28:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "spas-pa": {
+        "authors": [
+          "MIYAKE Taishi"
+        ],
+        "identifier": "spas-pa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Spas-Pa",
+        "url": "https://mangasee123.com/manga/Spas-Pa",
+        "image": "https://cover.nep.li/cover/Spas-Pa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3096,
+        "aniId": 33096,
+        "createdAt": "2021-01-21T12:03:43.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Medalist",
+    "メダリスト"
+  ],
+  "authors": [
+    "Ikada Tsuruma"
+  ],
+  "id": 118371,
+  "malId": 129621,
+  "type": "manga",
+  "title": "Medalist",
+  "url": "https://anilist.co/manga/118371",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118371-d5LTGr44wWSH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:24.000Z",
+  "updatedAt": "2021-05-20T14:59:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4a433d6b-f51a-4c2f-a183-85419fe98efc": {
+        "authors": [
+          "Tsuruma Ikada"
+        ],
+        "identifier": "4a433d6b-f51a-4c2f-a183-85419fe98efc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Medalist",
+        "url": "https://mangadex.org/title/4a433d6b-f51a-4c2f-a183-85419fe98efc",
+        "image": "https://uploads.mangadex.org/covers/4a433d6b-f51a-4c2f-a183-85419fe98efc/3665bada-4ec0-4452-b079-1c44854fbad9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129621,
+        "aniId": 118371,
+        "createdAt": "2020-10-12T16:21:22.000Z",
+        "updatedAt": "2021-06-08T02:05:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Tail of the Moon",
+    "月のしっぽ"
+  ],
+  "authors": [
+    "Ueda, Rinko"
+  ],
+  "id": 888,
+  "type": "manga",
+  "title": "Tsuki no Shippo",
+  "url": "https://myanimelist.net/manga/888/Tsuki_no_Shippo",
+  "image": "https://cdn.myanimelist.net/images/manga/3/160615.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:27.000Z",
+  "updatedAt": "2021-03-10T14:40:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "607178c7-a989-4f94-8cff-1694950c294d": {
+        "authors": [
+          "Ueda Rinko"
+        ],
+        "identifier": "607178c7-a989-4f94-8cff-1694950c294d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuki no Shippo",
+        "url": "https://mangadex.org/title/607178c7-a989-4f94-8cff-1694950c294d",
+        "image": "https://uploads.mangadex.org/covers/607178c7-a989-4f94-8cff-1694950c294d/aeb74de3-7dc0-4c3f-b18e-d3882f149b27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 888,
+        "aniId": 30888,
+        "createdAt": "2020-10-12T16:04:01.000Z",
+        "updatedAt": "2021-06-02T18:05:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tail-of-the-moon": {
+        "authors": [
+          "UEDA Rinko"
+        ],
+        "identifier": "tail-of-the-moon",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tail of the Moon",
+        "url": "https://mangasee123.com/manga/Tail-Of-The-Moon",
+        "image": "https://cover.nep.li/cover/Tail-Of-The-Moon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 888,
+        "aniId": 30888,
+        "createdAt": "2021-03-10T14:40:55.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

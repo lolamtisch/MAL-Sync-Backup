@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Even If You Don't Do It",
+    "あなたがしてくれなくても",
+    "Even if you don't do it"
+  ],
+  "authors": [
+    "Haru Haruno"
+  ],
+  "id": 112201,
+  "malId": 113498,
+  "type": "manga",
+  "title": "Anata ga Shite Kurenakutemo",
+  "url": "https://anilist.co/manga/112201",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112201-GnrxPxVEqmkr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:01.000Z",
+  "updatedAt": "2021-05-20T14:57:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "78a664a7-2f4e-464b-b925-92984012f00c": {
+        "authors": [
+          "Haruno Haru"
+        ],
+        "identifier": "78a664a7-2f4e-464b-b925-92984012f00c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Anata ga Shitekurenakute mo",
+        "url": "https://mangadex.org/title/78a664a7-2f4e-464b-b925-92984012f00c",
+        "image": "https://uploads.mangadex.org/covers/78a664a7-2f4e-464b-b925-92984012f00c/75bd1ccb-68de-456e-9e30-402319476f42.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113498,
+        "aniId": 112201,
+        "createdAt": "2020-10-12T16:16:13.000Z",
+        "updatedAt": "2021-06-06T20:34:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kg919480": {
+        "authors": [],
+        "identifier": "kg919480",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Even If You Don't Do It",
+        "url": "https://manganelo.com/manga/kg919480",
+        "image": "https://avt.mkklcdnv6.com/33/p/18-1583498390.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113498,
+        "aniId": 112201,
+        "createdAt": "2020-10-12T16:23:53.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "anata-ga-shitekurenakute-mo": {
+        "authors": [
+          "HARUNO Haru"
+        ],
+        "identifier": "anata-ga-shitekurenakute-mo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Anata ga shite kurenakute mo",
+        "url": "https://mangasee123.com/manga/Anata-ga-Shitekurenakute-mo",
+        "image": "https://cover.nep.li/cover/Anata-ga-Shitekurenakute-mo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113498,
+        "aniId": 112201,
+        "createdAt": "2021-01-12T19:22:00.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "anata_ga_shite_kurenakute_mo": {
+        "authors": [
+          "HARUNO Haru"
+        ],
+        "identifier": "anata_ga_shite_kurenakute_mo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Anata ga shite kurenakute mo",
+        "url": "https://fanfox.net/manga/anata_ga_shite_kurenakute_mo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31764/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113498,
+        "aniId": 112201,
+        "createdAt": "2021-01-21T19:32:56.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

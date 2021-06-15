@@ -1,0 +1,62 @@
+{
+  "authors": [
+    "Nicolas Nemiri"
+  ],
+  "identifier": "139081b5-fda2-45b6-bfec-a19ebbcd6bd3",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "Alice in Mirrorland",
+  "url": "https://mangadex.org/title/139081b5-fda2-45b6-bfec-a19ebbcd6bd3",
+  "image": "https://uploads.mangadex.org/covers/139081b5-fda2-45b6-bfec-a19ebbcd6bd3/a8db1476-2760-456f-bd6c-c382938b321c.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 9000,
+  "aniId": 39000,
+  "createdAt": "2020-10-12T16:04:09.000Z",
+  "updatedAt": "2021-06-02T19:07:22.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "De l'autre côté miroir",
+      "Alice in Mirrorland",
+      "鏡の国のアリス"
+    ],
+    "authors": [
+      "Nicolas, NEMIRI"
+    ],
+    "id": 9000,
+    "type": "manga",
+    "title": "Kagami no Kuni no Alice",
+    "url": "https://myanimelist.net/manga/9000/Kagami_no_Kuni_no_Alice",
+    "image": "https://cdn.myanimelist.net/images/manga/2/12267.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:41:22.000Z",
+    "updatedAt": "2021-04-30T11:50:13.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "De l'autre côté miroir",
+      "鏡の国のアリス",
+      "Alice in Mirrorland"
+    ],
+    "authors": [
+      "Nemiri Nicolas"
+    ],
+    "id": 39000,
+    "malId": 9000,
+    "type": "manga",
+    "title": "Kagami no Kuni no Alice",
+    "url": "https://anilist.co/manga/39000",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9000.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:40:53.000Z",
+    "updatedAt": "2021-05-20T14:40:53.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/9000/Kagami_no_Kuni_no_Alice"
+}

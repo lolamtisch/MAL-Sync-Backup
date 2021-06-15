@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Arisa",
+    "ARISA 〈アリサ〉"
+  ],
+  "authors": [
+    "Ando, Natsumi"
+  ],
+  "id": 12309,
+  "type": "manga",
+  "title": "Arisa",
+  "url": "https://myanimelist.net/manga/12309/Arisa",
+  "image": "https://cdn.myanimelist.net/images/manga/3/115455.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:45.000Z",
+  "updatedAt": "2021-05-20T23:14:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b0217e6c-3648-43bb-824b-0dfc4d9d7a14": {
+        "authors": [
+          "Andou Natsumi"
+        ],
+        "identifier": "b0217e6c-3648-43bb-824b-0dfc4d9d7a14",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Arisa",
+        "url": "https://mangadex.org/title/b0217e6c-3648-43bb-824b-0dfc4d9d7a14",
+        "image": "https://uploads.mangadex.org/covers/b0217e6c-3648-43bb-824b-0dfc4d9d7a14/c4ad5180-f34e-4d37-935d-4eb83174e1f7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12309,
+        "aniId": 42309,
+        "createdAt": "2020-10-12T16:04:51.000Z",
+        "updatedAt": "2021-06-02T23:54:12.000Z",
+        "deletedAt": null
+      },
+      "24ef6036-ba9a-48ab-8773-46db17191fae": {
+        "authors": [
+          "Mikagami Hiyori",
+          "Hisaka Tooru",
+          "StrangeChamelon (Circle)"
+        ],
+        "identifier": "24ef6036-ba9a-48ab-8773-46db17191fae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou - Hakurei Reimu to Kirisama Marisa wwa Tsukiatte iru rashii",
+        "url": "https://mangadex.org/title/24ef6036-ba9a-48ab-8773-46db17191fae",
+        "image": "https://uploads.mangadex.org/covers/24ef6036-ba9a-48ab-8773-46db17191fae/acdad649-b7e1-4aee-a14d-a4ddb522dd7f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12309,
+        "aniId": 42309,
+        "createdAt": "2020-10-12T16:16:21.000Z",
+        "updatedAt": "2021-06-06T21:43:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "arisa": {
+        "authors": [
+          "ANDOU Natsumi"
+        ],
+        "identifier": "arisa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Arisa",
+        "url": "https://mangasee123.com/manga/Arisa",
+        "image": "https://cover.nep.li/cover/Arisa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12309,
+        "aniId": 42309,
+        "createdAt": "2021-01-01T03:30:55.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "arisa": {
+        "authors": [
+          "ANDO Natsumi"
+        ],
+        "identifier": "arisa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Arisa",
+        "url": "https://fanfox.net/manga/arisa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5457/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12309,
+        "aniId": 42309,
+        "createdAt": "2021-05-20T23:14:19.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

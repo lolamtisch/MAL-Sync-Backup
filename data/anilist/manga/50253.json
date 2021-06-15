@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "星のカービィ",
+    "Hoshi no Kaabi",
+    "Kirby",
+    "Kirby of the Stars"
+  ],
+  "authors": [
+    "Yoshiko Sakuma"
+  ],
+  "id": 50253,
+  "malId": 20253,
+  "type": "manga",
+  "title": "Hoshi no Kirby",
+  "url": "https://anilist.co/manga/50253",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50253-OOqzyCmYnGdT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:28.000Z",
+  "updatedAt": "2021-05-20T14:45:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56efe33b-09f6-4e56-a0c0-780d815ed043": {
+        "authors": [
+          "TANIGUCHI Asami"
+        ],
+        "identifier": "56efe33b-09f6-4e56-a0c0-780d815ed043",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshi no Kirby! - Moretsu Pupupu Awa",
+        "url": "https://mangadex.org/title/56efe33b-09f6-4e56-a0c0-780d815ed043",
+        "image": "https://uploads.mangadex.org/covers/56efe33b-09f6-4e56-a0c0-780d815ed043/4bae4e8a-cbc9-4406-a9c2-6a970f6950e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20253,
+        "aniId": 50253,
+        "createdAt": "2020-10-12T16:11:47.000Z",
+        "updatedAt": "2021-06-05T11:05:40.000Z",
+        "deletedAt": null
+      },
+      "d4bae13f-cf12-4d24-971a-6ce3a994e2f8": {
+        "authors": [
+          "Tau",
+          "Poto Karino"
+        ],
+        "identifier": "d4bae13f-cf12-4d24-971a-6ce3a994e2f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshi no Kirby wo Sagase!!",
+        "url": "https://mangadex.org/title/d4bae13f-cf12-4d24-971a-6ce3a994e2f8",
+        "image": "https://uploads.mangadex.org/covers/d4bae13f-cf12-4d24-971a-6ce3a994e2f8/ea2e3490-693c-4805-860b-edfabdf6c2a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20253,
+        "aniId": 50253,
+        "createdAt": "2020-10-12T16:15:47.000Z",
+        "updatedAt": "2021-06-06T16:44:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "なかよし公園"
+  ],
+  "authors": [
+    "Warehito Nejimaki"
+  ],
+  "id": 38384,
+  "malId": 8384,
+  "type": "manga",
+  "title": "Nakayoshi Kouen",
+  "url": "https://anilist.co/manga/38384",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8384.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f8d3cecf-8c5b-4f69-ba44-a6610cb885fb": {
+        "authors": [
+          "NEJIMAKI Warehito"
+        ],
+        "identifier": "f8d3cecf-8c5b-4f69-ba44-a6610cb885fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nakayoshi Kouen",
+        "url": "https://mangadex.org/title/f8d3cecf-8c5b-4f69-ba44-a6610cb885fb",
+        "image": "https://uploads.mangadex.org/covers/f8d3cecf-8c5b-4f69-ba44-a6610cb885fb/28acdbdc-bdd4-4f66-b61f-7345b6f3f720.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8384,
+        "aniId": 38384,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:50:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

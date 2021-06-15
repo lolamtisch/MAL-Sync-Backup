@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "青の花 器の森"
+  ],
+  "authors": [
+    "Yuki Kodama"
+  ],
+  "id": 105947,
+  "malId": 113612,
+  "type": "manga",
+  "title": "Ao no Hana Utsuwa no Mori",
+  "url": "https://anilist.co/manga/105947",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105947-K2VFREnfA8eY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:03.000Z",
+  "updatedAt": "2021-06-08T02:20:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acf2e3e3-e85e-476a-9462-e10ae54907d2": {
+        "authors": [
+          "Suzuki Uo",
+          "Tsukino Ayato"
+        ],
+        "identifier": "acf2e3e3-e85e-476a-9462-e10ae54907d2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maou no Utsuwa",
+        "url": "https://mangadex.org/title/acf2e3e3-e85e-476a-9462-e10ae54907d2",
+        "image": "https://uploads.mangadex.org/covers/acf2e3e3-e85e-476a-9462-e10ae54907d2/f8514eb5-92e3-4c43-89bb-01348e8d61c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113612,
+        "aniId": 105947,
+        "createdAt": "2020-10-12T16:18:12.000Z",
+        "updatedAt": "2021-06-07T14:47:50.000Z",
+        "deletedAt": null
+      },
+      "1a3f4de6-bf1d-43fc-b48b-a287132c7e63": {
+        "authors": [
+          "Kodama Yuki"
+        ],
+        "identifier": "1a3f4de6-bf1d-43fc-b48b-a287132c7e63",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Blue Flowers and the Ceramic Forest",
+        "url": "https://mangadex.org/title/1a3f4de6-bf1d-43fc-b48b-a287132c7e63",
+        "image": "https://uploads.mangadex.org/covers/1a3f4de6-bf1d-43fc-b48b-a287132c7e63/b6548afb-6c37-4b9a-922f-6fbe5e5f5ea0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 113612,
+        "aniId": 105947,
+        "createdAt": "2020-10-12T16:21:10.000Z",
+        "updatedAt": "2021-06-08T06:40:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

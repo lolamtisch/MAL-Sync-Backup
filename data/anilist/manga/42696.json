@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Guard me! Hold me!",
+    "ぎゅぎゅっと守って!",
+    "Gyu Gyutto Mamotte",
+    "Guard me! Hold me!"
+  ],
+  "authors": [
+    "Iwaoka Meme"
+  ],
+  "id": 42696,
+  "malId": 12696,
+  "type": "manga",
+  "title": "Gyu Gyutto Mamotte!",
+  "url": "https://anilist.co/manga/42696",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12696.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "41d6f798-397c-4fd3-85c9-a318f201e817": {
+        "authors": [
+          "IWAOKA Meme"
+        ],
+        "identifier": "41d6f798-397c-4fd3-85c9-a318f201e817",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gyu Gyutto Mamotte!",
+        "url": "https://mangadex.org/title/41d6f798-397c-4fd3-85c9-a318f201e817",
+        "image": "https://uploads.mangadex.org/covers/41d6f798-397c-4fd3-85c9-a318f201e817/4604b9bc-cb38-4f62-9c21-f3585b7077b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12696,
+        "aniId": 42696,
+        "createdAt": "2020-10-12T16:05:51.000Z",
+        "updatedAt": "2021-06-03T15:28:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gyu_gyutto_mamotte": {
+        "authors": [
+          "IWAOKA Meme"
+        ],
+        "identifier": "gyu_gyutto_mamotte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gyu Gyutto Mamotte!",
+        "url": "https://fanfox.net/manga/gyu_gyutto_mamotte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5434/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12696,
+        "aniId": 42696,
+        "createdAt": "2021-05-20T21:14:47.000Z",
+        "updatedAt": "2021-05-20T21:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

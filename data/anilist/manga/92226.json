@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Devilman VS. Hades",
+    "デビルマン対闇の帝王 -DEVILMAN vs HADES-"
+  ],
+  "authors": [
+    "Go Nagai",
+    "TEAM MOON"
+  ],
+  "id": 92226,
+  "malId": 75719,
+  "type": "manga",
+  "title": "Devilman Tai Yami no Teiou",
+  "url": "https://anilist.co/manga/92226",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b92226-IptDTNqeCA1r.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:45.000Z",
+  "updatedAt": "2021-05-20T14:51:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c890f0d2-1821-4ba6-8bf5-8088c2b9ec2a": {
+        "authors": [
+          "TEAM MOON",
+          "Nagai Go"
+        ],
+        "identifier": "c890f0d2-1821-4ba6-8bf5-8088c2b9ec2a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Devilman vs. Hades",
+        "url": "https://mangadex.org/title/c890f0d2-1821-4ba6-8bf5-8088c2b9ec2a",
+        "image": "https://uploads.mangadex.org/covers/c890f0d2-1821-4ba6-8bf5-8088c2b9ec2a/d0d011d2-88cf-4f84-b592-6f63ee6576f3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75719,
+        "aniId": 92226,
+        "createdAt": "2020-10-12T16:10:03.000Z",
+        "updatedAt": "2021-06-04T22:00:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "devilman_tai_yami_no_teiou": {
+        "authors": [],
+        "identifier": "devilman_tai_yami_no_teiou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Devilman Tai Yami No Teiou",
+        "url": "https://manganelo.com/manga/devilman_tai_yami_no_teiou",
+        "image": "https://avt.mkklcdnv6.com/16/z/14-1583490358.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75719,
+        "aniId": 92226,
+        "createdAt": "2020-10-12T16:22:38.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

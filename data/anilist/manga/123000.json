@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "The Cursed Thief",
+    "魔盗白骨衣"
+  ],
+  "authors": [
+    "Ake Wenhua"
+  ],
+  "id": 123000,
+  "malId": null,
+  "type": "manga",
+  "title": "Mo Dao Bai Gu Yi",
+  "url": "https://anilist.co/manga/123000",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123000-TqLGNMzUfjsm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T22:20:58.000Z",
+  "updatedAt": "2021-06-07T22:20:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "84d81921-6ecc-44a7-908a-a983f96e1f50": {
+        "authors": [
+          "Ake Culture",
+          "An Tu Sheng"
+        ],
+        "identifier": "84d81921-6ecc-44a7-908a-a983f96e1f50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Cursed Thief",
+        "url": "https://mangadex.org/title/84d81921-6ecc-44a7-908a-a983f96e1f50",
+        "image": "https://uploads.mangadex.org/covers/84d81921-6ecc-44a7-908a-a983f96e1f50/e8120058-d3b1-42c2-bafb-2d48ecd288ae.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123000,
+        "createdAt": "2020-10-12T16:19:23.000Z",
+        "updatedAt": "2021-06-08T00:31:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "●REC",
+    "REC"
+  ],
+  "authors": [
+    "Asato Mizu"
+  ],
+  "id": 85536,
+  "malId": 74071,
+  "type": "manga",
+  "title": "●Rec",
+  "url": "https://anilist.co/manga/85536",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b85536-FvqZu5NY1C4r.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:42.000Z",
+  "updatedAt": "2021-05-20T14:51:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ebe4265-da26-4a3f-a2e4-5634af489ce5": {
+        "authors": [
+          "Mizu Asato"
+        ],
+        "identifier": "5ebe4265-da26-4a3f-a2e4-5634af489ce5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "●REC",
+        "url": "https://mangadex.org/title/5ebe4265-da26-4a3f-a2e4-5634af489ce5",
+        "image": "https://uploads.mangadex.org/covers/5ebe4265-da26-4a3f-a2e4-5634af489ce5/a96f964a-4e1c-4bae-9198-bc5c68b36a23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74071,
+        "aniId": 85536,
+        "createdAt": "2020-10-12T16:07:34.000Z",
+        "updatedAt": "2021-06-04T03:53:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

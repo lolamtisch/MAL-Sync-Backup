@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "アナグラアメリ",
+    "Anagram Ameri",
+    "Anagura Amelie"
+  ],
+  "authors": [
+    "Zakuri Sato"
+  ],
+  "id": 96889,
+  "malId": 96829,
+  "type": "manga",
+  "title": "Anagura Amélie",
+  "url": "https://anilist.co/manga/96889",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96889-KLVeRXuhjLlO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:07.000Z",
+  "updatedAt": "2021-05-20T14:54:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a2cae001-a83a-4b00-b74b-acb958bec356": {
+        "authors": [
+          "Sato Zakuri"
+        ],
+        "identifier": "a2cae001-a83a-4b00-b74b-acb958bec356",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Anagura Amelie",
+        "url": "https://mangadex.org/title/a2cae001-a83a-4b00-b74b-acb958bec356",
+        "image": "https://uploads.mangadex.org/covers/a2cae001-a83a-4b00-b74b-acb958bec356/2ee19af4-4b27-4cd3-81a9-4f1281d1955d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96829,
+        "aniId": 96889,
+        "createdAt": "2020-10-12T16:09:37.000Z",
+        "updatedAt": "2021-06-04T18:54:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

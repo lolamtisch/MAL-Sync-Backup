@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ヨコハマ物語",
+    "Yokohama Story"
+  ],
+  "authors": [
+    "Waki Yamato"
+  ],
+  "id": 38817,
+  "malId": 8817,
+  "type": "manga",
+  "title": "Yokohama Monogatari",
+  "url": "https://anilist.co/manga/38817",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38817-o74lsgMuTNJa.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "87e2b27a-fd9e-41fd-a2a0-f259eb427c76": {
+        "authors": [
+          "Yamato Waki"
+        ],
+        "identifier": "87e2b27a-fd9e-41fd-a2a0-f259eb427c76",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yokohama Monogatari",
+        "url": "https://mangadex.org/title/87e2b27a-fd9e-41fd-a2a0-f259eb427c76",
+        "image": "https://uploads.mangadex.org/covers/87e2b27a-fd9e-41fd-a2a0-f259eb427c76/93c86a4b-c62e-48cf-8f17-911696f1cfcc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8817,
+        "aniId": 38817,
+        "createdAt": "2020-10-12T16:03:42.000Z",
+        "updatedAt": "2021-06-02T15:55:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

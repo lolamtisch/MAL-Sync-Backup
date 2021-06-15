@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "仮面ライダーSPIRITS",
+    "Masked Rider Spirits"
+  ],
+  "authors": [
+    "Shoutarou Ishinomori",
+    "Kenichi Muraeda"
+  ],
+  "id": 34742,
+  "malId": 4742,
+  "type": "manga",
+  "title": "Kamen Rider Spirits",
+  "url": "https://anilist.co/manga/34742",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34742-LFIlGnGc1xec.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "47f2da50-d26f-4438-89d4-e5b21c8326db": {
+        "authors": [
+          "Ishinomori Shotaro",
+          "Muraeda Kenichi"
+        ],
+        "identifier": "47f2da50-d26f-4438-89d4-e5b21c8326db",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamen Rider SPIRITS",
+        "url": "https://mangadex.org/title/47f2da50-d26f-4438-89d4-e5b21c8326db",
+        "image": "https://uploads.mangadex.org/covers/47f2da50-d26f-4438-89d4-e5b21c8326db/e0a3b113-6f8c-4ba2-807e-ee81934ca230.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4742,
+        "aniId": 34742,
+        "createdAt": "2020-10-12T16:04:06.000Z",
+        "updatedAt": "2021-06-02T18:42:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kamen_rider_spirits": {
+        "authors": [],
+        "identifier": "kamen_rider_spirits",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kamen Rider Spirits",
+        "url": "https://manganelo.com/manga/kamen_rider_spirits",
+        "image": "https://avt.mkklcdnv6.com/22/d/2-1583466564.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4742,
+        "aniId": 34742,
+        "createdAt": "2020-10-12T16:23:49.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "放課後コネクション",
+    "Afterschool Connection"
+  ],
+  "authors": [
+    "Naoki Urasawa"
+  ],
+  "id": 120671,
+  "malId": null,
+  "type": "manga",
+  "title": "Houkago Connection",
+  "url": "https://anilist.co/manga/120671",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120671-JT5Ajkys7tP0.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T06:19:09.000Z",
+  "updatedAt": "2021-06-05T06:19:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4d88ac87-7dd4-418c-9ae1-3418a79b2572": {
+        "authors": [
+          "Urasawa Naoki"
+        ],
+        "identifier": "4d88ac87-7dd4-418c-9ae1-3418a79b2572",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Afterschool Connection",
+        "url": "https://mangadex.org/title/4d88ac87-7dd4-418c-9ae1-3418a79b2572",
+        "image": "https://uploads.mangadex.org/covers/4d88ac87-7dd4-418c-9ae1-3418a79b2572/02813a23-ba10-4331-862c-97c68897c747.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120671,
+        "createdAt": "2020-10-12T16:11:08.000Z",
+        "updatedAt": "2021-06-05T08:43:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

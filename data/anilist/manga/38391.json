@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Hajime is No. 1",
+    "はじめちゃんが一番！",
+    "Hajime-chan is No. 1",
+    "Born to be an Idol"
+  ],
+  "authors": [
+    "Taeko Watanabe"
+  ],
+  "id": 38391,
+  "malId": 8391,
+  "type": "manga",
+  "title": "Hajime-chan ga Ichiban!",
+  "url": "https://anilist.co/manga/38391",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8391.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b2e3dccc-4c22-4550-9257-4982927fed2f": {
+        "authors": [
+          "Watanabe Taeko"
+        ],
+        "identifier": "b2e3dccc-4c22-4550-9257-4982927fed2f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajime-chan ga Ichiban!",
+        "url": "https://mangadex.org/title/b2e3dccc-4c22-4550-9257-4982927fed2f",
+        "image": "https://uploads.mangadex.org/covers/b2e3dccc-4c22-4550-9257-4982927fed2f/9ce05b20-db83-4559-a0bb-319ac2afe5e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8391,
+        "aniId": 38391,
+        "createdAt": "2020-10-12T16:11:26.000Z",
+        "updatedAt": "2021-06-05T08:23:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hajimechan_ga_ichiban": {
+        "authors": [
+          "Watanabe",
+          "Taeko"
+        ],
+        "identifier": "hajimechan_ga_ichiban",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hajime-Chan Ga Ichiban!",
+        "url": "https://manganelo.com/manga/hajimechan_ga_ichiban",
+        "image": "https://avt.mkklcdnv6temp.com/34/h/12-1583487113.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8391,
+        "aniId": 38391,
+        "createdAt": "2021-02-10T23:46:17.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

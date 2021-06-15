@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "22/7+α",
+    "22/7+a",
+    "Nanabun no Nijyuuni+α",
+    "Nanabun no Nijyuuni Plus Alpha"
+  ],
+  "authors": [
+    "Nao Sakai"
+  ],
+  "id": 114428,
+  "malId": 124158,
+  "type": "manga",
+  "title": "22/7+α",
+  "url": "https://anilist.co/manga/114428",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114428-iHCXu3lTGTQG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:03.000Z",
+  "updatedAt": "2021-05-20T14:59:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4fad2be6-cbf5-4e62-b317-7184d904abe8": {
+        "authors": [
+          "Kasai Nao",
+          "Miyajima Reiji"
+        ],
+        "identifier": "4fad2be6-cbf5-4e62-b317-7184d904abe8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "22/7 (Nanabun no Nijyuuni) +α",
+        "url": "https://mangadex.org/title/4fad2be6-cbf5-4e62-b317-7184d904abe8",
+        "image": "https://uploads.mangadex.org/covers/4fad2be6-cbf5-4e62-b317-7184d904abe8/877e970d-4ea2-4d1d-8957-97339705be09.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124158,
+        "aniId": 114428,
+        "createdAt": "2020-10-12T16:18:15.000Z",
+        "updatedAt": "2021-06-07T15:18:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nanabun_no_nijuuni": {
+        "authors": [
+          "SAKAI Nao"
+        ],
+        "identifier": "nanabun_no_nijuuni",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nanabun no Nijuuni",
+        "url": "https://fanfox.net/manga/nanabun_no_nijuuni/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36882/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124158,
+        "aniId": 114428,
+        "createdAt": "2020-12-17T04:56:05.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "それから、君を考える",
+    "Then, I think of you"
+  ],
+  "authors": [
+    "Komatsu"
+  ],
+  "id": 98007,
+  "malId": 91202,
+  "type": "manga",
+  "title": "Sorekara, Kimi wo Kangaeru",
+  "url": "https://anilist.co/manga/98007",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98007-GEnO937yEaFp.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:08.000Z",
+  "updatedAt": "2021-05-20T14:53:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1f38cfe5-8e38-4583-a30c-a9c81bff02de": {
+        "authors": [
+          "Komatsu"
+        ],
+        "identifier": "1f38cfe5-8e38-4583-a30c-a9c81bff02de",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sorekara, Kimi o Kangaeru",
+        "url": "https://mangadex.org/title/1f38cfe5-8e38-4583-a30c-a9c81bff02de",
+        "image": "https://uploads.mangadex.org/covers/1f38cfe5-8e38-4583-a30c-a9c81bff02de/84513a0a-151b-470e-a6ae-5023cd2b4799.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91202,
+        "aniId": 98007,
+        "createdAt": "2020-10-12T16:09:34.000Z",
+        "updatedAt": "2021-06-04T18:32:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "異邦人、ダンジョンに潜る。"
+  ],
+  "authors": [
+    "Kaoru Hoshino",
+    "Hinagi Asami",
+    "Kureta"
+  ],
+  "id": 112114,
+  "malId": 122103,
+  "type": "manga",
+  "title": "Ihoujin, Dungeon ni Kuguru.",
+  "url": "https://anilist.co/manga/112114",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112114-ZzlxPH00MNn8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:26.000Z",
+  "updatedAt": "2021-05-20T14:58:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "93db6fe5-354e-4340-8f5c-1248bf2bc9e4": {
+        "authors": [
+          "Hoshino Kaoru",
+          "Asami Hinagi"
+        ],
+        "identifier": "93db6fe5-354e-4340-8f5c-1248bf2bc9e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ihoujin, Dungeon ni Moguru",
+        "url": "https://mangadex.org/title/93db6fe5-354e-4340-8f5c-1248bf2bc9e4",
+        "image": "https://uploads.mangadex.org/covers/93db6fe5-354e-4340-8f5c-1248bf2bc9e4/7e9438fa-531c-4d52-9cd6-fe9b91b11a52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122103,
+        "aniId": 112114,
+        "createdAt": "2020-10-12T16:17:19.000Z",
+        "updatedAt": "2021-06-07T06:42:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ms920770": {
+        "authors": [],
+        "identifier": "ms920770",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ihoujin, Dungeon Ni Moguru",
+        "url": "https://manganelo.com/manga/ms920770",
+        "image": "https://avt.mkklcdnv6.com/31/d/19-1583500325.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122103,
+        "aniId": 112114,
+        "createdAt": "2020-10-12T16:24:24.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ihoujin-dungeon-ni-moguru": {
+        "authors": [
+          "ASAMI Hinagi",
+          "HOSHINO Kaoru",
+          "Kureta"
+        ],
+        "identifier": "ihoujin-dungeon-ni-moguru",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ihoujin, Dungeon ni Moguru",
+        "url": "https://mangasee123.com/manga/Ihoujin-Dungeon-ni-Moguru",
+        "image": "https://cover.nep.li/cover/Ihoujin-Dungeon-ni-Moguru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122103,
+        "aniId": 112114,
+        "createdAt": "2020-12-25T16:56:27.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ihoujin_dungeon_ni_moguru": {
+        "authors": [
+          "ASAMI Hinagi"
+        ],
+        "identifier": "ihoujin_dungeon_ni_moguru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ihoujin, dungeon ni moguru.",
+        "url": "https://fanfox.net/manga/ihoujin_dungeon_ni_moguru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32241/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122103,
+        "aniId": 112114,
+        "createdAt": "2020-12-25T17:56:02.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

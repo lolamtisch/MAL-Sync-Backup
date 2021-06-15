@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "라스트환타지"
+  ],
+  "authors": [
+    "Yong-Wan Kwon",
+    "Jaggajibdan Hon"
+  ],
+  "id": 37158,
+  "malId": 7158,
+  "type": "manga",
+  "title": "Last Fantasy",
+  "url": "https://anilist.co/manga/37158",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7158.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:46.000Z",
+  "updatedAt": "2021-05-20T14:39:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8af82da6-d356-4c18-96d6-9385ef8cd929": {
+        "authors": [
+          "KWON Yong-Wan",
+          "HON Creative"
+        ],
+        "identifier": "8af82da6-d356-4c18-96d6-9385ef8cd929",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Last Fantasy",
+        "url": "https://mangadex.org/title/8af82da6-d356-4c18-96d6-9385ef8cd929",
+        "image": "https://uploads.mangadex.org/covers/8af82da6-d356-4c18-96d6-9385ef8cd929/22aa317a-2f40-4ea9-9606-d089cdcbf202.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7158,
+        "aniId": 37158,
+        "createdAt": "2020-10-12T16:13:17.000Z",
+        "updatedAt": "2021-06-05T20:09:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

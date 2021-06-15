@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "おにやしき",
+    "Haunted House"
+  ],
+  "authors": [
+    "Saru Todori"
+  ],
+  "id": 73671,
+  "malId": 43671,
+  "type": "manga",
+  "title": "Oni Yashiki",
+  "url": "https://anilist.co/manga/73671",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43671.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:58.000Z",
+  "updatedAt": "2021-05-20T14:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3c3d089-3cf0-48f3-93a8-5dba09d521da": {
+        "authors": [
+          "Todori Saru"
+        ],
+        "identifier": "b3c3d089-3cf0-48f3-93a8-5dba09d521da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oni Yashiki",
+        "url": "https://mangadex.org/title/b3c3d089-3cf0-48f3-93a8-5dba09d521da",
+        "image": "https://uploads.mangadex.org/covers/b3c3d089-3cf0-48f3-93a8-5dba09d521da/e2ce5979-ba5a-4e30-8a32-50a1e785d8c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43671,
+        "aniId": 73671,
+        "createdAt": "2020-10-12T16:09:53.000Z",
+        "updatedAt": "2021-06-04T20:43:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Call My Name",
+    "コール　マイ　ネーム"
+  ],
+  "authors": [
+    "Dokuro Jaryu"
+  ],
+  "id": 42203,
+  "malId": 12203,
+  "type": "manga",
+  "title": "Call My Name",
+  "url": "https://anilist.co/manga/42203",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12203.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-03T15:49:17.000Z",
+  "updatedAt": "2021-06-03T15:49:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "26ef63fb-d977-4ac0-8d29-6bb05aa1402e": {
+        "authors": [
+          "Jaryuu Dokuro"
+        ],
+        "identifier": "26ef63fb-d977-4ac0-8d29-6bb05aa1402e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Call My Name",
+        "url": "https://mangadex.org/title/26ef63fb-d977-4ac0-8d29-6bb05aa1402e",
+        "image": "https://uploads.mangadex.org/covers/26ef63fb-d977-4ac0-8d29-6bb05aa1402e/9555f75c-dfda-4716-b9b9-acc20ca7bbb3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12203,
+        "aniId": 42203,
+        "createdAt": "2020-10-12T16:05:54.000Z",
+        "updatedAt": "2021-06-03T16:18:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

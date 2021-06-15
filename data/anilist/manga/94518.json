@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ディザインズ"
+  ],
+  "authors": [
+    "Daisuke Igarashi"
+  ],
+  "id": 94518,
+  "malId": 87920,
+  "type": "manga",
+  "title": "Designs",
+  "url": "https://anilist.co/manga/94518",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94518-1qYUUlxmdVqR.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:52.000Z",
+  "updatedAt": "2021-05-20T14:52:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "40491f95-f8f4-4690-8b66-564cf6fd0e67": {
+        "authors": [
+          "Igarashi Daisuke"
+        ],
+        "identifier": "40491f95-f8f4-4690-8b66-564cf6fd0e67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Designs",
+        "url": "https://mangadex.org/title/40491f95-f8f4-4690-8b66-564cf6fd0e67",
+        "image": "https://uploads.mangadex.org/covers/40491f95-f8f4-4690-8b66-564cf6fd0e67/bd09f107-80f9-4ba8-b210-7bada32741a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87920,
+        "aniId": 94518,
+        "createdAt": "2020-10-12T16:11:55.000Z",
+        "updatedAt": "2021-06-05T12:03:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Untouchable",
+    "언터처블"
+  ],
+  "authors": [
+    "Massstar"
+  ],
+  "id": 85621,
+  "malId": null,
+  "type": "manga",
+  "title": "unTOUCHable",
+  "url": "https://anilist.co/manga/85621",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/85621-N6fhAEf9J7Q5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-31T06:12:13.000Z",
+  "updatedAt": "2021-05-31T06:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a2b67cc2-67e7-43fe-beb5-e901fb107c02": {
+        "authors": [
+          "Massstar"
+        ],
+        "identifier": "a2b67cc2-67e7-43fe-beb5-e901fb107c02",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "unTOUCHable",
+        "url": "https://mangadex.org/title/a2b67cc2-67e7-43fe-beb5-e901fb107c02",
+        "image": "https://uploads.mangadex.org/covers/a2b67cc2-67e7-43fe-beb5-e901fb107c02/7503af0c-1bbb-4fec-bea2-df68f1a5ee19.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 85621,
+        "createdAt": "2020-10-12T16:07:13.000Z",
+        "updatedAt": "2021-06-04T08:59:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

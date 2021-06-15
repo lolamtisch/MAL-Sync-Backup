@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "白砂村",
+    "Shirasuna Mura"
+  ],
+  "authors": [
+    "Kami Imai"
+  ],
+  "id": 49107,
+  "malId": 19107,
+  "type": "manga",
+  "title": "Shirasunamura",
+  "url": "https://anilist.co/manga/49107",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19107.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:17.000Z",
+  "updatedAt": "2021-05-20T14:45:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d5aca45d-fc61-41ea-a758-0f9d80da0116": {
+        "authors": [
+          "Imai Kami"
+        ],
+        "identifier": "d5aca45d-fc61-41ea-a758-0f9d80da0116",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shirasunamura",
+        "url": "https://mangadex.org/title/d5aca45d-fc61-41ea-a758-0f9d80da0116",
+        "image": "https://uploads.mangadex.org/covers/d5aca45d-fc61-41ea-a758-0f9d80da0116/e768f839-5a9f-4836-9a3c-293c304f1afd.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19107,
+        "aniId": 49107,
+        "createdAt": "2020-10-12T16:06:49.000Z",
+        "updatedAt": "2021-06-03T22:25:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shirasunamura": {
+        "authors": [
+          "IMAI Kami"
+        ],
+        "identifier": "shirasunamura",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shirasunamura",
+        "url": "https://mangasee123.com/manga/Shirasunamura",
+        "image": "https://cover.nep.li/cover/Shirasunamura.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19107,
+        "aniId": 49107,
+        "createdAt": "2020-12-13T22:19:21.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

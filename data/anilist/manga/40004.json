@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Genocyber",
+    "ジェノサイバー",
+    "Geno Cyber"
+  ],
+  "authors": [
+    "Tony Takezaki"
+  ],
+  "id": 40004,
+  "malId": 10004,
+  "type": "manga",
+  "title": "Genocyber",
+  "url": "https://anilist.co/manga/40004",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40004-LszFmux5R8gX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:59.000Z",
+  "updatedAt": "2021-05-20T14:40:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ed74c328-be78-43fd-96c7-831f437d4496": {
+        "authors": [
+          "Tony Takezaki"
+        ],
+        "identifier": "ed74c328-be78-43fd-96c7-831f437d4496",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Genocyber",
+        "url": "https://mangadex.org/title/ed74c328-be78-43fd-96c7-831f437d4496",
+        "image": "https://uploads.mangadex.org/covers/ed74c328-be78-43fd-96c7-831f437d4496/a4c5156f-68e0-49ea-b870-f1b6cd3e3098.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10004,
+        "aniId": 40004,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:28:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

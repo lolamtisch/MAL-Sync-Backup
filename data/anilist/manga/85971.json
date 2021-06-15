@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "バイバイ蜜針"
+  ],
+  "authors": [
+    "Mika Satonaka"
+  ],
+  "id": 85971,
+  "malId": 81259,
+  "type": "manga",
+  "title": "Bye Bye Mitsubari",
+  "url": "https://anilist.co/manga/85971",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55971-q8kFRhh9pzxK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:02.000Z",
+  "updatedAt": "2021-05-20T14:52:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd9cbb54-d1ee-4df7-8384-41130132d45d": {
+        "authors": [
+          "Satonaka Mika"
+        ],
+        "identifier": "dd9cbb54-d1ee-4df7-8384-41130132d45d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bye-Bye Mitsubari",
+        "url": "https://mangadex.org/title/dd9cbb54-d1ee-4df7-8384-41130132d45d",
+        "image": "https://uploads.mangadex.org/covers/dd9cbb54-d1ee-4df7-8384-41130132d45d/ae42ca2d-a216-414c-8686-9422f9257199.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81259,
+        "aniId": 85971,
+        "createdAt": "2020-10-12T16:07:47.000Z",
+        "updatedAt": "2021-06-04T05:12:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

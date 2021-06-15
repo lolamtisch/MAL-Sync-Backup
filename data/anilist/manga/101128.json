@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ヨツコト"
+  ],
+  "authors": [
+    "Neko Nakaso",
+    "Sui Futami"
+  ],
+  "id": 101128,
+  "malId": 115072,
+  "type": "manga",
+  "title": "Yotsukoto",
+  "url": "https://anilist.co/manga/101128",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101128-Ny1yL6TDdXQ5.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:13.000Z",
+  "updatedAt": "2021-05-20T14:57:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c4ffbcc-8665-45a8-b85b-dc4842e55bf1": {
+        "authors": [
+          "Futami Sui",
+          "Neko Nakaso"
+        ],
+        "identifier": "7c4ffbcc-8665-45a8-b85b-dc4842e55bf1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yotsukoto",
+        "url": "https://mangadex.org/title/7c4ffbcc-8665-45a8-b85b-dc4842e55bf1",
+        "image": "https://uploads.mangadex.org/covers/7c4ffbcc-8665-45a8-b85b-dc4842e55bf1/b424a0ed-5d53-471b-b2c2-16ad87c37e1a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115072,
+        "aniId": 101128,
+        "createdAt": "2020-10-12T16:13:24.000Z",
+        "updatedAt": "2021-06-05T21:02:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yotsukoto": {
+        "authors": [],
+        "identifier": "yotsukoto",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yotsukoto",
+        "url": "https://manganelo.com/manga/yotsukoto",
+        "image": "https://avt.mkklcdnv6.com/32/z/16-1583494654.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115072,
+        "aniId": 101128,
+        "createdAt": "2020-10-12T16:26:24.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

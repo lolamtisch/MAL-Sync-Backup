@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "妄想乙女図鑑"
+  ],
+  "authors": [
+    "Asuka Shiraishi"
+  ],
+  "id": 55143,
+  "malId": 25143,
+  "type": "manga",
+  "title": "Mousou Otome Zukan",
+  "url": "https://anilist.co/manga/55143",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55143-m4a9Cyu1HcZk.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "052e4b4d-1667-4635-95b7-6fe573563fa5": {
+        "authors": [
+          "Shiraishi Asuka"
+        ],
+        "identifier": "052e4b4d-1667-4635-95b7-6fe573563fa5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mousou Otome Zukan",
+        "url": "https://mangadex.org/title/052e4b4d-1667-4635-95b7-6fe573563fa5",
+        "image": "https://uploads.mangadex.org/covers/052e4b4d-1667-4635-95b7-6fe573563fa5/8b5dbec7-a70d-4785-bb20-7069a6fa0fa3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25143,
+        "aniId": 55143,
+        "createdAt": "2020-10-12T16:19:16.000Z",
+        "updatedAt": "2021-06-07T21:33:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

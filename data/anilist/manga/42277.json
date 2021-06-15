@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ダウト"
+  ],
+  "authors": [
+    "Shuuko Nishimura"
+  ],
+  "id": 42277,
+  "malId": 12277,
+  "type": "manga",
+  "title": "Doubt",
+  "url": "https://anilist.co/manga/42277",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12277.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e376c6b9-29dc-4d01-858c-b0b2fba858ff": {
+        "authors": [
+          "Nishimura Shuuko"
+        ],
+        "identifier": "e376c6b9-29dc-4d01-858c-b0b2fba858ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doubt",
+        "url": "https://mangadex.org/title/e376c6b9-29dc-4d01-858c-b0b2fba858ff",
+        "image": "https://uploads.mangadex.org/covers/e376c6b9-29dc-4d01-858c-b0b2fba858ff/b9ee642f-e387-4477-adb5-0b5a6ebdc7ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12277,
+        "aniId": 42277,
+        "createdAt": "2020-10-12T16:12:37.000Z",
+        "updatedAt": "2021-06-05T15:34:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

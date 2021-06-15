@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "엔드와 세이브",
+    "End and Save"
+  ],
+  "authors": [
+    "Siryeong"
+  ],
+  "id": 100170,
+  "malId": null,
+  "type": "manga",
+  "title": "End-wa Save",
+  "url": "https://anilist.co/manga/100170",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100170-WEgStPqEEmsT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T09:12:57.000Z",
+  "updatedAt": "2021-06-04T22:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c0a978b-1842-46f3-ac8d-24d61827ad04": {
+        "authors": [
+          "Silyeong"
+        ],
+        "identifier": "7c0a978b-1842-46f3-ac8d-24d61827ad04",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "End and Save",
+        "url": "https://mangadex.org/title/7c0a978b-1842-46f3-ac8d-24d61827ad04",
+        "image": "https://uploads.mangadex.org/covers/7c0a978b-1842-46f3-ac8d-24d61827ad04/193e229b-0f47-49e6-9572-82cd66fc6479.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100170,
+        "createdAt": "2020-10-12T16:10:08.000Z",
+        "updatedAt": "2021-06-04T22:52:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

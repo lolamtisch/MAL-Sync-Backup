@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "フロハイル·ゼロ"
+  ],
+  "authors": [
+    "Aruchu Kizuki"
+  ],
+  "id": 90159,
+  "malId": 65357,
+  "type": "manga",
+  "title": "Furohile Zero",
+  "url": "https://anilist.co/manga/90159",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90159-2ZAcv7ObA230.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:50:52.000Z",
+  "updatedAt": "2021-05-20T14:50:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6ec30fc8-6c2e-4810-af3f-93e6fcc3f6ab": {
+        "authors": [
+          "Kizuki Aruchu",
+          "ZAN"
+        ],
+        "identifier": "6ec30fc8-6c2e-4810-af3f-93e6fcc3f6ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Furohile",
+        "url": "https://mangadex.org/title/6ec30fc8-6c2e-4810-af3f-93e6fcc3f6ab",
+        "image": "https://uploads.mangadex.org/covers/6ec30fc8-6c2e-4810-af3f-93e6fcc3f6ab/c85366fc-91da-4e96-9a9e-9dfd8c844344.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65357,
+        "aniId": 90159,
+        "createdAt": "2020-10-12T16:16:43.000Z",
+        "updatedAt": "2021-06-07T01:11:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

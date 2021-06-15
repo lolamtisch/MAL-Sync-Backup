@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Shushu Koi",
+    "シュシュ恋"
+  ],
+  "authors": [
+    "Iwa, Chika"
+  ],
+  "id": 102701,
+  "type": "manga",
+  "title": "Chouchou Koi",
+  "url": "https://myanimelist.net/manga/102701/Chouchou_Koi",
+  "image": "https://cdn.myanimelist.net/images/manga/1/195994.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:46.000Z",
+  "updatedAt": "2021-03-24T19:19:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9e71c1d8-1f9a-41ca-8af9-399099e653e9": {
+        "authors": [
+          "IWA Chika"
+        ],
+        "identifier": "9e71c1d8-1f9a-41ca-8af9-399099e653e9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chouchou Koi",
+        "url": "https://mangadex.org/title/9e71c1d8-1f9a-41ca-8af9-399099e653e9",
+        "image": "https://uploads.mangadex.org/covers/9e71c1d8-1f9a-41ca-8af9-399099e653e9/8669f8f3-e237-4959-91ea-fe44884cd770.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102701,
+        "aniId": 106667,
+        "createdAt": "2020-10-12T16:10:13.000Z",
+        "updatedAt": "2021-06-04T23:08:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "chouchou_koi": {
+        "authors": [
+          "IWA Chika"
+        ],
+        "identifier": "chouchou_koi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chouchou Koi",
+        "url": "https://fanfox.net/manga/chouchou_koi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28502/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102701,
+        "aniId": 106667,
+        "createdAt": "2021-03-24T19:19:56.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chouchou_koi": {
+        "authors": [
+          "Iwa",
+          "Chika"
+        ],
+        "identifier": "chouchou_koi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chouchou Koi",
+        "url": "https://manganelo.com/manga/chouchou_koi",
+        "image": "https://avt.mkklcdnv6temp.com/48/h/16-1583495202.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102701,
+        "aniId": 106667,
+        "createdAt": "2021-03-28T10:19:26.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

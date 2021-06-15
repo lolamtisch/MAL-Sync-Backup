@@ -1,0 +1,38 @@
+{
+  "altTitle": [
+    "Lupin III",
+    "Monkey Majik"
+  ],
+  "id": 9035,
+  "malId": 9035,
+  "type": "anime",
+  "title": "Lupin the Third",
+  "url": "https://anilist.co/anime/9035",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9035.jpg",
+  "category": "music",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:02.000Z",
+  "updatedAt": "2021-05-20T14:39:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Crunchyroll": {
+      "lupin%20the%20third%20part%201": {
+        "identifier": "lupin%20the%20third%20part%201",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Lupin the Third Part 1",
+        "url": "https://www.crunchyroll.com/lupin-the-third-part-1?media_id=681595",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7484b5a462d441a52494ee7d3999f9441434413690_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9035,
+        "aniId": 9035,
+        "createdAt": "2020-11-06T03:28:19.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

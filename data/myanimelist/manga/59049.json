@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Cafe Velomano",
+    "카페 벨로마노"
+  ],
+  "authors": [
+    "Gali",
+    "Lee, Heryung"
+  ],
+  "id": 59049,
+  "type": "manga",
+  "title": "Café Velomano",
+  "url": "https://myanimelist.net/manga/59049/Café_Velomano",
+  "image": "https://cdn.myanimelist.net/images/manga/5/102051.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:54.000Z",
+  "updatedAt": "2021-06-07T07:18:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f441874-10b8-42fc-a41c-b6545441c22f": {
+        "authors": [
+          "I-Hye Lyeong",
+          "Gali"
+        ],
+        "identifier": "2f441874-10b8-42fc-a41c-b6545441c22f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Café Velomano",
+        "url": "https://mangadex.org/title/2f441874-10b8-42fc-a41c-b6545441c22f",
+        "image": "https://uploads.mangadex.org/covers/2f441874-10b8-42fc-a41c-b6545441c22f/994afbcc-3661-496c-b1a6-52fac61ae643.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59049,
+        "aniId": 88773,
+        "createdAt": "2020-10-12T16:06:46.000Z",
+        "updatedAt": "2021-06-03T21:58:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cafe_velomano": {
+        "authors": [],
+        "identifier": "cafe_velomano",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cafe Velomano",
+        "url": "https://manganelo.com/manga/cafe_velomano",
+        "image": "https://avt.mkklcdnv6.com/49/a/7-1583478137.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59049,
+        "aniId": 88773,
+        "createdAt": "2020-10-12T16:22:24.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kd961760": {
+        "authors": [
+          "Gali"
+        ],
+        "identifier": "manga-kd961760",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cafe Velomano",
+        "url": "https://manganato.com/manga-kd961760",
+        "image": "https://avt.mkklcdnv6temp.com/49/a/7-1583478137.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59049,
+        "aniId": 88773,
+        "createdAt": "2021-06-07T07:19:09.000Z",
+        "updatedAt": "2021-06-07T07:48:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

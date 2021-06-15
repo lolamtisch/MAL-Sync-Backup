@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "The Man of Tango",
+    "タンゴの男",
+    "Man of Tango"
+  ],
+  "authors": [
+    "Tetuzoh Okadaya"
+  ],
+  "id": 41223,
+  "malId": 11223,
+  "type": "manga",
+  "title": "Tango no Otoko",
+  "url": "https://anilist.co/manga/41223",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b41223-wJzxdK1Jlt69.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:16.000Z",
+  "updatedAt": "2021-05-20T14:41:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2462c182-16c2-498c-984f-b7d908aa67bc": {
+        "authors": [
+          "Okadaya Tetuzoh"
+        ],
+        "identifier": "2462c182-16c2-498c-984f-b7d908aa67bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tango no Otoko",
+        "url": "https://mangadex.org/title/2462c182-16c2-498c-984f-b7d908aa67bc",
+        "image": "https://uploads.mangadex.org/covers/2462c182-16c2-498c-984f-b7d908aa67bc/6c7ad6d5-c43c-49a7-8a23-2c960ca87c50.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11223,
+        "aniId": 41223,
+        "createdAt": "2020-10-12T16:16:29.000Z",
+        "updatedAt": "2021-06-06T23:03:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

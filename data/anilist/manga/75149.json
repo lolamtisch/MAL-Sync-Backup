@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "シャングラッド神紀",
+    "Shanguraddo Shinki"
+  ],
+  "authors": [
+    "Hideyuki Matsurioka"
+  ],
+  "id": 75149,
+  "malId": 45149,
+  "type": "manga",
+  "title": "The Shanglad Shinki",
+  "url": "https://anilist.co/manga/75149",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45149.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3634e0e9-0d39-44ac-b71f-c20bb2eae3f2": {
+        "authors": [
+          "Matsurioka Hideyuki"
+        ],
+        "identifier": "3634e0e9-0d39-44ac-b71f-c20bb2eae3f2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shanguraddo Shinki",
+        "url": "https://mangadex.org/title/3634e0e9-0d39-44ac-b71f-c20bb2eae3f2",
+        "image": "https://uploads.mangadex.org/covers/3634e0e9-0d39-44ac-b71f-c20bb2eae3f2/d087c68c-aeaa-4401-abcc-173271aa5536.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45149,
+        "aniId": 75149,
+        "createdAt": "2020-10-12T16:20:20.000Z",
+        "updatedAt": "2021-06-07T23:56:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

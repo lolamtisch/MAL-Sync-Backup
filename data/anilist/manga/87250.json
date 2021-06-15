@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Furumapura",
+    "ふるまぷら",
+    "FullMaPla",
+    "Fullpapla"
+  ],
+  "authors": [
+    "Cool-kyou Shinja"
+  ],
+  "id": 87250,
+  "malId": 97225,
+  "type": "manga",
+  "title": "Furumapura",
+  "url": "https://anilist.co/manga/87250",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87250-25j0N6p4R8xf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:09.000Z",
+  "updatedAt": "2021-05-20T14:54:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44e289a3-6e81-4590-970c-4e5a912f27af": {
+        "authors": [
+          "Cool Kyoushinsha"
+        ],
+        "identifier": "44e289a3-6e81-4590-970c-4e5a912f27af",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Furumapura",
+        "url": "https://mangadex.org/title/44e289a3-6e81-4590-970c-4e5a912f27af",
+        "image": "https://uploads.mangadex.org/covers/44e289a3-6e81-4590-970c-4e5a912f27af/341a228d-c581-464c-a22d-626c7b5f56c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97225,
+        "aniId": 87250,
+        "createdAt": "2020-10-12T16:09:36.000Z",
+        "updatedAt": "2021-06-04T18:45:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "furumapura": {
+        "authors": [
+          "Cool",
+          "Kyoushinsha"
+        ],
+        "identifier": "furumapura",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Furumapura",
+        "url": "https://manganelo.com/manga/furumapura",
+        "image": "https://avt.mkklcdnv6temp.com/30/b/13-1583488816.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 97225,
+        "aniId": 87250,
+        "createdAt": "2020-10-12T16:23:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

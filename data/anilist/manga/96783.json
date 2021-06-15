@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "トクサツガガガ"
+  ],
+  "authors": [
+    "Niwa Tanba"
+  ],
+  "id": 96783,
+  "malId": 96263,
+  "type": "manga",
+  "title": "Tokusatsu Gagaga",
+  "url": "https://anilist.co/manga/96783",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96783-OrVROb7k4ywI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:02.000Z",
+  "updatedAt": "2021-05-20T14:54:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c8f55a0-ce7e-4ee3-8880-c54e6796fdf9": {
+        "authors": [
+          "Tanba Niwa"
+        ],
+        "identifier": "3c8f55a0-ce7e-4ee3-8880-c54e6796fdf9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokusatsu Gagaga",
+        "url": "https://mangadex.org/title/3c8f55a0-ce7e-4ee3-8880-c54e6796fdf9",
+        "image": "https://uploads.mangadex.org/covers/3c8f55a0-ce7e-4ee3-8880-c54e6796fdf9/3b9faee6-4e86-4dfb-89f7-fafa981d2af0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96263,
+        "aniId": 96783,
+        "createdAt": "2020-10-12T16:09:54.000Z",
+        "updatedAt": "2021-06-04T20:53:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tokusatsu-gagaga": {
+        "authors": [
+          "TANBA Niwa"
+        ],
+        "identifier": "tokusatsu-gagaga",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tokusatsu Gagaga",
+        "url": "https://mangasee123.com/manga/Tokusatsu-Gagaga",
+        "image": "https://cover.nep.li/cover/Tokusatsu-Gagaga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96263,
+        "aniId": 96783,
+        "createdAt": "2021-03-30T14:01:00.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

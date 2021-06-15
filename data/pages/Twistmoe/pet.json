@@ -1,0 +1,52 @@
+{
+  "identifier": "pet",
+  "type": "anime",
+  "page": "Twistmoe",
+  "title": "pet",
+  "url": "https://twist.moe/a/pet/1",
+  "image": "-",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 37522,
+  "aniId": 101350,
+  "createdAt": "2020-10-12T16:27:11.000Z",
+  "updatedAt": "2021-05-20T15:21:55.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Pet",
+      "ペット"
+    ],
+    "id": 37522,
+    "type": "anime",
+    "title": "Pet",
+    "url": "https://myanimelist.net/anime/37522/Pet",
+    "image": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
+    "category": "TV",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:01.000Z",
+    "updatedAt": "2021-01-08T15:21:31.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "pet",
+      "pet",
+      "ペット"
+    ],
+    "id": 101350,
+    "malId": 37522,
+    "type": "anime",
+    "title": "pet",
+    "url": "https://anilist.co/anime/101350",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101350-nRjxYT3r6qTC.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:44:36.000Z",
+    "updatedAt": "2021-05-20T14:44:36.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/37522/Pet"
+}

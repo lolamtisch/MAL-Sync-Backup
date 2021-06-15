@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ガントライブ"
+  ],
+  "authors": [
+    "Youta Shimanto"
+  ],
+  "id": 53126,
+  "malId": 23126,
+  "type": "manga",
+  "title": "Gun Tribe",
+  "url": "https://anilist.co/manga/53126",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53126-XX1HmTemALIS.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:35.000Z",
+  "updatedAt": "2021-05-20T14:46:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9c96003-bbd0-497e-9f63-35fd72452d24": {
+        "authors": [
+          "Shimanto Youta"
+        ],
+        "identifier": "e9c96003-bbd0-497e-9f63-35fd72452d24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gun Tribe",
+        "url": "https://mangadex.org/title/e9c96003-bbd0-497e-9f63-35fd72452d24",
+        "image": "https://uploads.mangadex.org/covers/e9c96003-bbd0-497e-9f63-35fd72452d24/fc36bd61-4702-42da-b044-2e65b3747f1b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23126,
+        "aniId": 53126,
+        "createdAt": "2020-10-12T16:19:03.000Z",
+        "updatedAt": "2021-06-07T21:07:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

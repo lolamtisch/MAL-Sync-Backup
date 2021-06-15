@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "BLEACH UNMASKED",
+    "Bleach: UNMASKED"
+  ],
+  "authors": [
+    "Tite Kubo",
+    "Makoto Matsubara"
+  ],
+  "id": 56133,
+  "malId": 26133,
+  "type": "manga",
+  "title": "Bleach Unmasked",
+  "url": "https://anilist.co/manga/56133",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26133.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:58.000Z",
+  "updatedAt": "2021-05-20T14:46:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "03f7d7b9-9639-48ab-b346-fee6883be261": {
+        "authors": [
+          "Park Hanna",
+          "MIN(민)",
+          "Merin"
+        ],
+        "identifier": "03f7d7b9-9639-48ab-b346-fee6883be261",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Masked Woman",
+        "url": "https://mangadex.org/title/03f7d7b9-9639-48ab-b346-fee6883be261",
+        "image": "https://uploads.mangadex.org/covers/03f7d7b9-9639-48ab-b346-fee6883be261/4df784f5-5fad-4457-9cb1-56df055475b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26133,
+        "aniId": 56133,
+        "createdAt": "2020-10-12T16:15:47.000Z",
+        "updatedAt": "2021-06-06T16:44:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

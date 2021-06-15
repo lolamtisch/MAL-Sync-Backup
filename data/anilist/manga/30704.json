@@ -1,0 +1,108 @@
+{
+  "altTitle": [
+    "Trigun Maximum",
+    "トライガンマキシマム"
+  ],
+  "authors": [
+    "Yasuhiro Nightow"
+  ],
+  "id": 30704,
+  "malId": 704,
+  "type": "manga",
+  "title": "Trigun Maximum",
+  "url": "https://anilist.co/manga/30704",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n30704-H1DWZJSGjkwK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:41.000Z",
+  "updatedAt": "2021-05-20T14:35:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4644da00-8f23-44a8-aa99-e3661dcee901": {
+        "authors": [
+          "Nightow Yasuhiro"
+        ],
+        "identifier": "4644da00-8f23-44a8-aa99-e3661dcee901",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trigun Maximum",
+        "url": "https://mangadex.org/title/4644da00-8f23-44a8-aa99-e3661dcee901",
+        "image": "https://uploads.mangadex.org/covers/4644da00-8f23-44a8-aa99-e3661dcee901/2b577664-f5f8-490c-ac78-019d1abd2d31.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 704,
+        "aniId": 30704,
+        "createdAt": "2020-10-12T16:02:30.000Z",
+        "updatedAt": "2021-06-02T07:17:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "trigun_maximum": {
+        "authors": [],
+        "identifier": "trigun_maximum",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Trigun MAXIMUM",
+        "url": "https://manganelo.com/manga/trigun_maximum",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4407-trigun_maximum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 704,
+        "aniId": 30704,
+        "createdAt": "2020-10-12T16:25:49.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "trigun": {
+        "authors": [
+          "NIGHTOW Yasuhiro"
+        ],
+        "identifier": "trigun",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Trigun Maximum",
+        "url": "https://mangasee123.com/manga/Trigun",
+        "image": "https://cover.nep.li/cover/Trigun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 704,
+        "aniId": 30704,
+        "createdAt": "2021-01-31T15:31:43.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ac956611": {
+        "authors": [
+          "Nightow Yasuhiro"
+        ],
+        "identifier": "manga-ac956611",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Trigun Maximum",
+        "url": "https://manganato.com/manga-ac956611",
+        "image": "https://avt.mkklcdnv6temp.com/21/h/4-1583470542.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 704,
+        "aniId": 30704,
+        "createdAt": "2021-06-13T02:08:22.000Z",
+        "updatedAt": "2021-06-13T02:38:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

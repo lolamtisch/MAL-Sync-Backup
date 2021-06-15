@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "気に入ってる漫画",
+    "My Favorite Handwriting"
+  ],
+  "authors": [
+    "Battan"
+  ],
+  "id": 126544,
+  "malId": null,
+  "type": "manga",
+  "title": "Kiniitteru Manga",
+  "url": "https://anilist.co/manga/126544",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126544-dNrfFbJRIkKC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T06:53:44.000Z",
+  "updatedAt": "2021-06-08T06:53:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c886501e-8ae6-42d4-a134-f02a75d1eaf2": {
+        "authors": [
+          "Battan"
+        ],
+        "identifier": "c886501e-8ae6-42d4-a134-f02a75d1eaf2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Favorite Handwriting",
+        "url": "https://mangadex.org/title/c886501e-8ae6-42d4-a134-f02a75d1eaf2",
+        "image": "https://uploads.mangadex.org/covers/c886501e-8ae6-42d4-a134-f02a75d1eaf2/0ddbb095-347b-4984-99a0-75c5cc802f72.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126544,
+        "createdAt": "2020-11-02T05:13:56.000Z",
+        "updatedAt": "2021-06-08T06:57:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

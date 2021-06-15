@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ヘウレーカ",
+    "Eureka"
+  ],
+  "authors": [
+    "Hitoshi Iwaaki"
+  ],
+  "id": 40619,
+  "malId": 10619,
+  "type": "manga",
+  "title": "Heureka",
+  "url": "https://anilist.co/manga/40619",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40619-Nv1pCfIJkdN7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2c089751-6a78-4b83-a003-aa812b344656": {
+        "authors": [
+          "Iwaaki Hitoshi"
+        ],
+        "identifier": "2c089751-6a78-4b83-a003-aa812b344656",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heureka",
+        "url": "https://mangadex.org/title/2c089751-6a78-4b83-a003-aa812b344656",
+        "image": "https://uploads.mangadex.org/covers/2c089751-6a78-4b83-a003-aa812b344656/972c23bf-1e57-49ac-b032-2555077d0cb1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10619,
+        "aniId": 40619,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:20:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "heureka": {
+        "authors": [
+          "IWAAKI Hitoshi"
+        ],
+        "identifier": "heureka",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Heureka",
+        "url": "https://mangasee123.com/manga/Heureka",
+        "image": "https://cover.nep.li/cover/Heureka.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10619,
+        "aniId": 40619,
+        "createdAt": "2021-05-14T15:55:54.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

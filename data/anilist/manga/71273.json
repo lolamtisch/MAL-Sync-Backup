@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Sword and Mist",
+    "剣と霧"
+  ],
+  "authors": [
+    "Hayate Kuku"
+  ],
+  "id": 71273,
+  "malId": 41273,
+  "type": "manga",
+  "title": "Tsurugi to Kiri",
+  "url": "https://anilist.co/manga/71273",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71273-1cUltwUibd8N.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T09:51:11.000Z",
+  "updatedAt": "2021-06-04T09:51:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8060eabd-4825-4bd4-8658-8ca457d6ad95": {
+        "authors": [
+          "Kuku Hayate"
+        ],
+        "identifier": "8060eabd-4825-4bd4-8658-8ca457d6ad95",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsurugi to Kiri",
+        "url": "https://mangadex.org/title/8060eabd-4825-4bd4-8658-8ca457d6ad95",
+        "image": "https://uploads.mangadex.org/covers/8060eabd-4825-4bd4-8658-8ca457d6ad95/df619bda-7e52-4667-bd3f-ff1e5f6d1194.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41273,
+        "aniId": 71273,
+        "createdAt": "2020-10-12T16:08:21.000Z",
+        "updatedAt": "2021-06-04T12:48:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

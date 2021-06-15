@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "空中散歩",
+    "Wandering in the Sky"
+  ],
+  "authors": [
+    "Haru Akiyama"
+  ],
+  "id": 119879,
+  "malId": null,
+  "type": "manga",
+  "title": "Kuuchuu Sanpo",
+  "url": "https://anilist.co/manga/119879",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119879-VUvFP5gZ2jWX.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:54:17.000Z",
+  "updatedAt": "2021-06-07T23:54:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2fb77b8c-8a86-4b58-b0c8-339509dc7b1e": {
+        "authors": [
+          "Akiyama Haru"
+        ],
+        "identifier": "2fb77b8c-8a86-4b58-b0c8-339509dc7b1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuuchuu Sampo",
+        "url": "https://mangadex.org/title/2fb77b8c-8a86-4b58-b0c8-339509dc7b1e",
+        "image": "https://uploads.mangadex.org/covers/2fb77b8c-8a86-4b58-b0c8-339509dc7b1e/9972f6ae-b52b-433f-bcb0-d58ac829b73e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119879,
+        "createdAt": "2020-10-12T16:20:13.000Z",
+        "updatedAt": "2021-06-08T00:47:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

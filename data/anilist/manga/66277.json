@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Time Killers: Kazue Kato Short Story Collection",
+    "TIME KILLERS 加藤和恵短編集",
+    "Miyama Uguisu Yashika Jiken",
+    "The Miyama-Uguisu Mansion Incident",
+    "Hoshi Ota"
+  ],
+  "authors": [
+    "Kazue Katou"
+  ],
+  "id": 66277,
+  "malId": 36277,
+  "type": "manga",
+  "title": "Time Killers",
+  "url": "https://anilist.co/manga/66277",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66277-8kr71pn70mZF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9bb66f9e-0c7f-4191-99cf-427adbfd257b": {
+        "authors": [
+          "Katou Kazue"
+        ],
+        "identifier": "9bb66f9e-0c7f-4191-99cf-427adbfd257b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Time Killers",
+        "url": "https://mangadex.org/title/9bb66f9e-0c7f-4191-99cf-427adbfd257b",
+        "image": "https://uploads.mangadex.org/covers/9bb66f9e-0c7f-4191-99cf-427adbfd257b/ad4b0478-7806-4caf-b211-915cbe278c7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36277,
+        "aniId": 66277,
+        "createdAt": "2020-10-12T16:03:44.000Z",
+        "updatedAt": "2021-06-02T16:11:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "time_killers": {
+        "authors": [
+          "KATOU Kazue"
+        ],
+        "identifier": "time_killers",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Time Killers",
+        "url": "https://fanfox.net/manga/time_killers/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9833/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36277,
+        "aniId": 66277,
+        "createdAt": "2021-01-30T12:32:43.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      },
+      "the_miyama_uguisu_mansion_incident": {
+        "authors": [
+          "KATOU Kazue"
+        ],
+        "identifier": "the_miyama_uguisu_mansion_incident",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Miyama-Uguisu Mansion Incident",
+        "url": "https://fanfox.net/manga/the_miyama_uguisu_mansion_incident/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5968/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36277,
+        "aniId": 66277,
+        "createdAt": "2021-03-28T12:50:02.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

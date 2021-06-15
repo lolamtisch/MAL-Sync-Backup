@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "魍魎少女"
+  ],
+  "authors": [
+    "Shiraishi, Jun"
+  ],
+  "id": 112399,
+  "type": "manga",
+  "title": "Mouryou Shoujo",
+  "url": "https://myanimelist.net/manga/112399/Mouryou_Shoujo",
+  "image": "https://cdn.myanimelist.net/images/manga/1/211197.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:25.000Z",
+  "updatedAt": "2021-04-06T15:08:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b72d9dae-3b0f-4dd1-bc16-bde81eab3c3d": {
+        "authors": [
+          "Shiraishi Jun"
+        ],
+        "identifier": "b72d9dae-3b0f-4dd1-bc16-bde81eab3c3d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mouryou Shoujo",
+        "url": "https://mangadex.org/title/b72d9dae-3b0f-4dd1-bc16-bde81eab3c3d",
+        "image": "https://uploads.mangadex.org/covers/b72d9dae-3b0f-4dd1-bc16-bde81eab3c3d/3c878e84-56c2-46b2-8dee-8e964d793ed2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112399,
+        "aniId": 105311,
+        "createdAt": "2020-10-12T16:15:02.000Z",
+        "updatedAt": "2021-06-06T10:08:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ke920210": {
+        "authors": [],
+        "identifier": "ke920210",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mouryou Shoujo",
+        "url": "https://manganelo.com/manga/ke920210",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1610-ke920210.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112399,
+        "aniId": 105311,
+        "createdAt": "2020-10-12T16:23:52.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mouryou-shoujo": {
+        "authors": [
+          "SHIRAISHI Jun"
+        ],
+        "identifier": "mouryou-shoujo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mouryou Shoujo",
+        "url": "https://mangasee123.com/manga/Mouryou-Shoujo",
+        "image": "https://cover.nep.li/cover/Mouryou-Shoujo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112399,
+        "aniId": 105311,
+        "createdAt": "2021-04-06T15:08:23.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

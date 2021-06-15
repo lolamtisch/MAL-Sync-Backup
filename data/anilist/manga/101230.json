@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "キミと以心伝心っ！"
+  ],
+  "authors": [
+    "Deko Yamano"
+  ],
+  "id": 101230,
+  "malId": 113068,
+  "type": "manga",
+  "title": "Kimi to Ishin Denshin!",
+  "url": "https://anilist.co/manga/101230",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101230-5UYyKJX1AheH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-27T08:28:43.000Z",
+  "updatedAt": "2021-05-27T08:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a633b16a-f8c7-4749-a0dd-264acc7f3a81": {
+        "authors": [
+          "Yamano Deko"
+        ],
+        "identifier": "a633b16a-f8c7-4749-a0dd-264acc7f3a81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi to Ishin Denshin!",
+        "url": "https://mangadex.org/title/a633b16a-f8c7-4749-a0dd-264acc7f3a81",
+        "image": "https://uploads.mangadex.org/covers/a633b16a-f8c7-4749-a0dd-264acc7f3a81/e9f0e9d2-96b8-474d-aa30-feddfe41d9e4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113068,
+        "aniId": 101230,
+        "createdAt": "2020-10-12T16:12:53.000Z",
+        "updatedAt": "2021-06-05T17:59:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

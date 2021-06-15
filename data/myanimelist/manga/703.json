@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Trigun",
+    "Tri Gun",
+    "トライガン"
+  ],
+  "authors": [
+    "Nightow, Yasuhiro"
+  ],
+  "id": 703,
+  "type": "manga",
+  "title": "Trigun",
+  "url": "https://myanimelist.net/manga/703/Trigun",
+  "image": "https://cdn.myanimelist.net/images/manga/3/153055.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:25.000Z",
+  "updatedAt": "2021-03-22T21:35:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c43bff07-d61d-4fc8-81ea-967817bb3b96": {
+        "authors": [
+          "Nightow Yasuhiro"
+        ],
+        "identifier": "c43bff07-d61d-4fc8-81ea-967817bb3b96",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trigun",
+        "url": "https://mangadex.org/title/c43bff07-d61d-4fc8-81ea-967817bb3b96",
+        "image": "https://uploads.mangadex.org/covers/c43bff07-d61d-4fc8-81ea-967817bb3b96/6a2d85b5-6a6e-4a6a-9582-6aaff1653dbe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 703,
+        "aniId": 30703,
+        "createdAt": "2020-10-12T16:02:30.000Z",
+        "updatedAt": "2021-06-02T07:16:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "wnuw62841554431489": {
+        "authors": [
+          "Nightow",
+          "Yasuhiro"
+        ],
+        "identifier": "wnuw62841554431489",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Trigun",
+        "url": "https://manganelo.com/manga/wnuw62841554431489",
+        "image": "https://avt.mkklcdnv6.com/2/s/5-1583471931.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 703,
+        "aniId": 30703,
+        "createdAt": "2020-10-22T13:39:01.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "trigun": {
+        "authors": [
+          "NIGHTOW Yasuhiro"
+        ],
+        "identifier": "trigun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Trigun",
+        "url": "https://fanfox.net/manga/trigun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/67/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 703,
+        "aniId": 30703,
+        "createdAt": "2021-03-22T21:35:56.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

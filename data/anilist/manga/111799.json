@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "가타부타타"
+  ],
+  "authors": [
+    "Sunga"
+  ],
+  "id": 111799,
+  "malId": null,
+  "type": "manga",
+  "title": "Gatabutata",
+  "url": "https://anilist.co/manga/111799",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111799-LaBFrmi9giQW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T00:18:57.000Z",
+  "updatedAt": "2021-06-04T00:18:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "35edfe53-802e-42b9-b425-c4a452d475c6": {
+        "authors": [
+          "Sungeo (숭어)"
+        ],
+        "identifier": "35edfe53-802e-42b9-b425-c4a452d475c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gatabutata",
+        "url": "https://mangadex.org/title/35edfe53-802e-42b9-b425-c4a452d475c6",
+        "image": "https://uploads.mangadex.org/covers/35edfe53-802e-42b9-b425-c4a452d475c6/f92c4cb3-9767-483c-900a-171a5ea31770.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111799,
+        "createdAt": "2020-10-12T16:16:54.000Z",
+        "updatedAt": "2021-06-07T07:14:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

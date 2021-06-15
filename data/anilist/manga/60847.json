@@ -1,0 +1,50 @@
+{
+  "altTitle": [
+    "クロス・メイク"
+  ],
+  "authors": [
+    "Dal Young Im",
+    "Soo Hyun Lee",
+    "Kwang Hyun Kim",
+    "Hae Won Lee"
+  ],
+  "id": 60847,
+  "malId": 30847,
+  "type": "manga",
+  "title": "Cross Make",
+  "url": "https://anilist.co/manga/60847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60847-SIYFla57XdXW.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:47:42.000Z",
+  "updatedAt": "2021-05-20T14:47:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5f69cec5-a56b-4875-8ec8-693d99e02570": {
+        "authors": [
+          "Various",
+          "Lee Soo Hyun",
+          "Kim Kwang Hyun",
+          "Im Dal-Young",
+          "Lee Hae Won"
+        ],
+        "identifier": "5f69cec5-a56b-4875-8ec8-693d99e02570",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cross Make",
+        "url": "https://mangadex.org/title/5f69cec5-a56b-4875-8ec8-693d99e02570",
+        "image": "https://uploads.mangadex.org/covers/5f69cec5-a56b-4875-8ec8-693d99e02570/f2a0f894-6508-4958-b3bf-959e927d681d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30847,
+        "aniId": 60847,
+        "createdAt": "2020-10-12T16:10:20.000Z",
+        "updatedAt": "2021-06-05T00:02:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

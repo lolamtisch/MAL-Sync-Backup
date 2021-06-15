@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "プリティラミア"
+  ],
+  "authors": [
+    "Kanji Aoki"
+  ],
+  "id": 55367,
+  "malId": 25367,
+  "type": "manga",
+  "title": "Pretty Lamia",
+  "url": "https://anilist.co/manga/55367",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55367-ChEczVRrkegs.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:53.000Z",
+  "updatedAt": "2021-05-20T14:46:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "984b0168-a66a-4ac2-bf92-dd024bf7c4cd": {
+        "authors": [
+          "Hibi Rakuraku",
+          "Aoki Kanji"
+        ],
+        "identifier": "984b0168-a66a-4ac2-bf92-dd024bf7c4cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pretty Lamia",
+        "url": "https://mangadex.org/title/984b0168-a66a-4ac2-bf92-dd024bf7c4cd",
+        "image": "https://uploads.mangadex.org/covers/984b0168-a66a-4ac2-bf92-dd024bf7c4cd/5a68beac-da1b-4e0f-9fd6-054a960914fb.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25367,
+        "aniId": 55367,
+        "createdAt": "2020-10-12T16:13:39.000Z",
+        "updatedAt": "2021-06-05T23:00:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

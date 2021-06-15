@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "壊れかけのオモチャ",
+    "Forbidden Toy",
+    "A Toy With Sadness"
+  ],
+  "authors": [
+    "CJ Michalski"
+  ],
+  "id": 30602,
+  "malId": 602,
+  "type": "manga",
+  "title": "Kowarekake no Omocha",
+  "url": "https://anilist.co/manga/30602",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/602.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "545345f0-00c1-4f08-bf00-dc5d8aeb556b": {
+        "authors": [
+          "CJ Michalski"
+        ],
+        "identifier": "545345f0-00c1-4f08-bf00-dc5d8aeb556b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kowarekake no Omocha",
+        "url": "https://mangadex.org/title/545345f0-00c1-4f08-bf00-dc5d8aeb556b",
+        "image": "https://uploads.mangadex.org/covers/545345f0-00c1-4f08-bf00-dc5d8aeb556b/ecaf1b04-743e-408e-9f46-34a1cc7d4d02.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 602,
+        "aniId": 30602,
+        "createdAt": "2020-10-12T16:11:28.000Z",
+        "updatedAt": "2021-06-05T08:35:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

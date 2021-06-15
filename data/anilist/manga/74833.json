@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ペコロス",
+    "Pecorosu",
+    "Pekorosu"
+  ],
+  "authors": [
+    "Yuusuke Shiba"
+  ],
+  "id": 74833,
+  "malId": 44833,
+  "type": "manga",
+  "title": "Pecoros",
+  "url": "https://anilist.co/manga/74833",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74833-4OmQTGmf6gg2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T05:49:07.000Z",
+  "updatedAt": "2021-06-04T05:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "411ae44b-b171-487a-a7e9-7a45b4f20dca": {
+        "authors": [
+          "Shiba Yuusuke"
+        ],
+        "identifier": "411ae44b-b171-487a-a7e9-7a45b4f20dca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pecoros",
+        "url": "https://mangadex.org/title/411ae44b-b171-487a-a7e9-7a45b4f20dca",
+        "image": "https://uploads.mangadex.org/covers/411ae44b-b171-487a-a7e9-7a45b4f20dca/a6a4c204-3742-43e1-92c3-9970c45d10c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44833,
+        "aniId": 74833,
+        "createdAt": "2020-10-12T16:07:48.000Z",
+        "updatedAt": "2021-06-04T08:39:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

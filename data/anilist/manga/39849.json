@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "トウキョウ トライブ"
+  ],
+  "authors": [
+    "Santa Inoue"
+  ],
+  "id": 39849,
+  "malId": 9849,
+  "type": "manga",
+  "title": "Tokyo Tribe",
+  "url": "https://anilist.co/manga/39849",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9849.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:59.000Z",
+  "updatedAt": "2021-05-20T14:40:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc365b61-0551-4973-be73-19a4ac4a1c4e": {
+        "authors": [
+          "Inoue Santa"
+        ],
+        "identifier": "fc365b61-0551-4973-be73-19a4ac4a1c4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Tribe",
+        "url": "https://mangadex.org/title/fc365b61-0551-4973-be73-19a4ac4a1c4e",
+        "image": "https://uploads.mangadex.org/covers/fc365b61-0551-4973-be73-19a4ac4a1c4e/276449ee-16d4-4d68-bb7f-d9e0f150c341.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9849,
+        "aniId": 39849,
+        "createdAt": "2020-10-12T16:06:59.000Z",
+        "updatedAt": "2021-06-03T23:32:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

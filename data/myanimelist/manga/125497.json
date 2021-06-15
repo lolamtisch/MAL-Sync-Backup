@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "すいとーと!"
+  ],
+  "authors": [
+    "Okino, Yui"
+  ],
+  "id": 125497,
+  "type": "manga",
+  "title": "Suitou to!",
+  "url": "https://myanimelist.net/manga/125497/Suitou_to",
+  "image": "https://cdn.myanimelist.net/images/manga/2/228594.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:20.000Z",
+  "updatedAt": "2021-05-17T15:25:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "70cc9183-84c0-4ba1-82eb-a6df3b1826dc": {
+        "authors": [
+          "Okino Yui"
+        ],
+        "identifier": "70cc9183-84c0-4ba1-82eb-a6df3b1826dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suito-to!",
+        "url": "https://mangadex.org/title/70cc9183-84c0-4ba1-82eb-a6df3b1826dc",
+        "image": "https://uploads.mangadex.org/covers/70cc9183-84c0-4ba1-82eb-a6df3b1826dc/9bed2ab5-0e02-495e-be74-770a62b63da1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125497,
+        "aniId": 112235,
+        "createdAt": "2020-10-12T16:19:03.000Z",
+        "updatedAt": "2021-06-07T21:06:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hs923017": {
+        "authors": [],
+        "identifier": "hs923017",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suito-To!",
+        "url": "https://manganelo.com/manga/hs923017",
+        "image": "https://avt.mkklcdnv6.com/17/w/21-1590204816.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125497,
+        "aniId": 112235,
+        "createdAt": "2020-10-12T16:23:25.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "suito_to": {
+        "authors": [
+          "OKINO Yui"
+        ],
+        "identifier": "suito_to",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Suito-to!",
+        "url": "https://fanfox.net/manga/suito_to/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37327/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 125497,
+        "aniId": 112235,
+        "createdAt": "2021-05-17T15:25:42.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

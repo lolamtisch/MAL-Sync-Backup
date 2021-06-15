@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Shindo",
+    "神童",
+    "Prodigy"
+  ],
+  "authors": [
+    "Akira Sasou"
+  ],
+  "id": 108435,
+  "malId": 69043,
+  "type": "manga",
+  "title": "Shindou",
+  "url": "https://anilist.co/manga/108435",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108435-rbFHm6EnmXDz.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:03.000Z",
+  "updatedAt": "2021-05-20T14:51:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e3780aa-9d35-4b99-9e44-0243c563e253": {
+        "authors": [
+          "Sasou Akira"
+        ],
+        "identifier": "8e3780aa-9d35-4b99-9e44-0243c563e253",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shindo",
+        "url": "https://mangadex.org/title/8e3780aa-9d35-4b99-9e44-0243c563e253",
+        "image": "https://uploads.mangadex.org/covers/8e3780aa-9d35-4b99-9e44-0243c563e253/bd31cc8f-25ce-4e91-bc26-b8c817c00647.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69043,
+        "aniId": 108435,
+        "createdAt": "2020-10-12T16:05:11.000Z",
+        "updatedAt": "2021-06-03T10:53:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

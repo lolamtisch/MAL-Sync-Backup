@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "フロッグマン"
+  ],
+  "authors": [
+    "Nylon"
+  ],
+  "id": 44234,
+  "malId": 14234,
+  "type": "manga",
+  "title": "Frogman",
+  "url": "https://anilist.co/manga/44234",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14234.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:45.000Z",
+  "updatedAt": "2021-05-20T14:42:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b5a7adc-182e-4ee5-8432-d0b8ef65a60d": {
+        "authors": [
+          "Nylon"
+        ],
+        "identifier": "0b5a7adc-182e-4ee5-8432-d0b8ef65a60d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Frogman",
+        "url": "https://mangadex.org/title/0b5a7adc-182e-4ee5-8432-d0b8ef65a60d",
+        "image": "https://uploads.mangadex.org/covers/0b5a7adc-182e-4ee5-8432-d0b8ef65a60d/99e88502-6e90-4274-ae65-08908540dc01.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14234,
+        "aniId": 44234,
+        "createdAt": "2020-10-12T16:02:37.000Z",
+        "updatedAt": "2021-06-02T08:21:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "frogman": {
+        "authors": [
+          "Nylon"
+        ],
+        "identifier": "frogman",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Frogman",
+        "url": "https://mangasee123.com/manga/Frogman",
+        "image": "https://cover.nep.li/cover/Frogman.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14234,
+        "aniId": 44234,
+        "createdAt": "2021-02-24T16:26:28.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

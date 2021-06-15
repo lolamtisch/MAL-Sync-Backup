@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Togari",
+    "トガリ",
+    "The Sword of Justice"
+  ],
+  "authors": [
+    "Yoshinori Natsume"
+  ],
+  "id": 30861,
+  "malId": 861,
+  "type": "manga",
+  "title": "Togari",
+  "url": "https://anilist.co/manga/30861",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30861-fsES8XNRgZyt.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd33cbc2-b4cd-4a6a-80a3-52139076c816": {
+        "authors": [
+          "Natsume Yoshinori"
+        ],
+        "identifier": "cd33cbc2-b4cd-4a6a-80a3-52139076c816",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Togari",
+        "url": "https://mangadex.org/title/cd33cbc2-b4cd-4a6a-80a3-52139076c816",
+        "image": "https://uploads.mangadex.org/covers/cd33cbc2-b4cd-4a6a-80a3-52139076c816/8b176104-a0bb-4206-b6da-8cb4a60efb21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 861,
+        "aniId": 30861,
+        "createdAt": "2020-10-12T16:03:36.000Z",
+        "updatedAt": "2021-06-02T15:10:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "togari": {
+        "authors": [
+          "Natsume",
+          "Yoshinori"
+        ],
+        "identifier": "togari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Togari",
+        "url": "https://manganelo.com/manga/togari",
+        "image": "https://avt.mkklcdnv6temp.com/27/x/15-1583492470.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 861,
+        "aniId": 30861,
+        "createdAt": "2021-02-23T14:56:10.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

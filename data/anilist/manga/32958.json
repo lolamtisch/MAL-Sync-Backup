@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Alice in Sexland",
+    "ALICE",
+    "Alice in Sexland Extreme"
+  ],
+  "authors": [
+    "Mashumaro Juubaori"
+  ],
+  "id": 32958,
+  "malId": 2958,
+  "type": "manga",
+  "title": "ALICE",
+  "url": "https://anilist.co/manga/32958",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32958-Sv6HADrgS9lu.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-05-20T14:37:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6fe6d1b-5b37-443f-938d-9cff7b480360": {
+        "authors": [
+          "Juubaori Mashumaro"
+        ],
+        "identifier": "b6fe6d1b-5b37-443f-938d-9cff7b480360",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice in Sexland",
+        "url": "https://mangadex.org/title/b6fe6d1b-5b37-443f-938d-9cff7b480360",
+        "image": "https://uploads.mangadex.org/covers/b6fe6d1b-5b37-443f-938d-9cff7b480360/06737ade-d8db-4330-83fb-0351122106c3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2958,
+        "aniId": 32958,
+        "createdAt": "2021-01-13T12:39:10.000Z",
+        "updatedAt": "2021-06-08T09:59:26.000Z",
+        "deletedAt": null
+      },
+      "c4b93583-5120-466e-8a5d-8d0ab5afd92f": {
+        "authors": [
+          "Juubaori Mashumaro"
+        ],
+        "identifier": "c4b93583-5120-466e-8a5d-8d0ab5afd92f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice in Sexland Extreme",
+        "url": "https://mangadex.org/title/c4b93583-5120-466e-8a5d-8d0ab5afd92f",
+        "image": "https://uploads.mangadex.org/covers/c4b93583-5120-466e-8a5d-8d0ab5afd92f/7d322ae9-bc30-4a0a-9e58-31ad091edda4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2958,
+        "aniId": 32958,
+        "createdAt": "2021-01-13T14:09:06.000Z",
+        "updatedAt": "2021-06-08T09:59:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

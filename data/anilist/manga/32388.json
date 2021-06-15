@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Digimon Zero Two",
+    "數碼寶貝02 Digimon Adventure Zero Two",
+    "Digimon 02"
+  ],
+  "authors": [
+    "Yuen Wong Yu",
+    "Akiyoshi Hongou"
+  ],
+  "id": 32388,
+  "malId": 2388,
+  "type": "manga",
+  "title": "Shuma Baobei 02: Digimon Adventure Zero Two",
+  "url": "https://anilist.co/manga/32388",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32388-TnHOW857K3o9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-06-06T12:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "de23c1b0-a485-4fa2-ae7f-d6d1809b596a": {
+        "authors": [
+          "Yu Yuen Wong",
+          "Hongo Akiyoshi"
+        ],
+        "identifier": "de23c1b0-a485-4fa2-ae7f-d6d1809b596a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Digimon Zero Two",
+        "url": "https://mangadex.org/title/de23c1b0-a485-4fa2-ae7f-d6d1809b596a",
+        "image": "https://uploads.mangadex.org/covers/de23c1b0-a485-4fa2-ae7f-d6d1809b596a/fbcd2138-08ca-4069-ba10-17cec786d0b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2388,
+        "aniId": 32388,
+        "createdAt": "2020-10-12T16:11:42.000Z",
+        "updatedAt": "2021-06-05T12:43:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "digimon_zero_two": {
+        "authors": [
+          "HONGO Akiyoshi",
+          "YU Yuen Wong"
+        ],
+        "identifier": "digimon_zero_two",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Digimon Zero Two",
+        "url": "https://fanfox.net/manga/digimon_zero_two/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37677/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2388,
+        "aniId": 32388,
+        "createdAt": "2021-03-08T16:40:52.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

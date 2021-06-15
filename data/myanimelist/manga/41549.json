@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Like, Dislike, Like",
+    "好き・嫌い・好き"
+  ],
+  "authors": [
+    "Tsukishima, Haru"
+  ],
+  "id": 41549,
+  "type": "manga",
+  "title": "Suki Kirai Suki",
+  "url": "https://myanimelist.net/manga/41549/Suki_Kirai_Suki",
+  "image": "https://cdn.myanimelist.net/images/manga/1/165244.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:11.000Z",
+  "updatedAt": "2021-03-10T00:10:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a22cf0ba-2612-48dc-8955-86491e1c871c": {
+        "authors": [
+          "Tsukishima Haru"
+        ],
+        "identifier": "a22cf0ba-2612-48dc-8955-86491e1c871c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suki Kirai Suki",
+        "url": "https://mangadex.org/title/a22cf0ba-2612-48dc-8955-86491e1c871c",
+        "image": "https://uploads.mangadex.org/covers/a22cf0ba-2612-48dc-8955-86491e1c871c/428b6a54-97ad-4311-b4d3-85d4c99517c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41549,
+        "aniId": 71549,
+        "createdAt": "2020-10-12T16:04:54.000Z",
+        "updatedAt": "2021-06-03T00:14:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "suki_kirai_suki": {
+        "authors": [],
+        "identifier": "suki_kirai_suki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suki Kirai Suki",
+        "url": "https://manganelo.com/manga/suki_kirai_suki",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1980-suki_kirai_suki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41549,
+        "aniId": 71549,
+        "createdAt": "2020-10-12T16:25:34.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "夏影に、さよなら"
+  ],
+  "authors": [
+    "Ikura Aoba"
+  ],
+  "id": 101682,
+  "malId": 112076,
+  "type": "manga",
+  "title": "Natsukage ni, Sayonara",
+  "url": "https://anilist.co/manga/101682",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101682-ikyRy1mjiNq0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T04:50:30.000Z",
+  "updatedAt": "2021-06-05T04:50:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b1008070-a59d-4fd3-86e4-808c09201db4": {
+        "authors": [
+          "Aoba Ikura"
+        ],
+        "identifier": "b1008070-a59d-4fd3-86e4-808c09201db4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Natsukage Ni, Sayonara",
+        "url": "https://mangadex.org/title/b1008070-a59d-4fd3-86e4-808c09201db4",
+        "image": "https://uploads.mangadex.org/covers/b1008070-a59d-4fd3-86e4-808c09201db4/eb7abc7c-e940-4259-89f6-bf1c0c084dd7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112076,
+        "aniId": 101682,
+        "createdAt": "2020-10-12T16:10:58.000Z",
+        "updatedAt": "2021-06-05T09:06:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

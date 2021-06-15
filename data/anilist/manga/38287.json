@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "キング&プリンス",
+    "King and Prince"
+  ],
+  "authors": [
+    "Kou Fujisaki"
+  ],
+  "id": 38287,
+  "malId": 8287,
+  "type": "manga",
+  "title": "King & Prince",
+  "url": "https://anilist.co/manga/38287",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38287-r9lOWfn535nS.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "588a2677-fbf9-4fbd-9c70-8ea906ab4cf9": {
+        "authors": [
+          "Fujisaki Kou"
+        ],
+        "identifier": "588a2677-fbf9-4fbd-9c70-8ea906ab4cf9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "King & Prince",
+        "url": "https://mangadex.org/title/588a2677-fbf9-4fbd-9c70-8ea906ab4cf9",
+        "image": "https://uploads.mangadex.org/covers/588a2677-fbf9-4fbd-9c70-8ea906ab4cf9/d1aaeda4-7eba-4d4b-8b1c-8da33d9389dc.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8287,
+        "aniId": 38287,
+        "createdAt": "2020-10-12T16:07:03.000Z",
+        "updatedAt": "2021-06-04T00:01:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

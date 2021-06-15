@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "RDB－レッドデータブック－"
+  ],
+  "authors": [
+    "Takashige, Hiroshi",
+    "Rokumoto, Jun"
+  ],
+  "id": 102436,
+  "type": "manga",
+  "title": "RDB: Red Data Book",
+  "url": "https://myanimelist.net/manga/102436/RDB__Red_Data_Book",
+  "image": "https://cdn.myanimelist.net/images/manga/1/199914.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:45.000Z",
+  "updatedAt": "2021-05-17T15:25:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ada663c3-e8b7-4cce-a888-ebf6ea90721f": {
+        "authors": [
+          "Takashige Hiroshi",
+          "Rokumoto Jun"
+        ],
+        "identifier": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RDB",
+        "url": "https://mangadex.org/title/ada663c3-e8b7-4cce-a888-ebf6ea90721f",
+        "image": "https://uploads.mangadex.org/covers/ada663c3-e8b7-4cce-a888-ebf6ea90721f/83e063b0-cb44-4644-ad46-4b6a5234a19f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102436,
+        "aniId": 98387,
+        "createdAt": "2020-10-12T16:10:25.000Z",
+        "updatedAt": "2021-06-05T00:34:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rdb": {
+        "authors": [
+          "Takashige",
+          "Hiroshi"
+        ],
+        "identifier": "rdb",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rdb",
+        "url": "https://manganelo.com/manga/rdb",
+        "image": "https://avt.mkklcdnv6temp.com/49/r/14-1583491462.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 102436,
+        "aniId": 98387,
+        "createdAt": "2021-05-21T05:44:40.000Z",
+        "updatedAt": "2021-05-21T07:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

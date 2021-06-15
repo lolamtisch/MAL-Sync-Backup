@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "I'm from Japan",
+    "ジモトがジャパン"
+  ],
+  "id": 38881,
+  "type": "anime",
+  "title": "Jimoto ga Japan",
+  "url": "https://myanimelist.net/anime/38881/Jimoto_ga_Japan",
+  "image": "https://cdn.myanimelist.net/images/anime/1396/99145.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:07.000Z",
+  "updatedAt": "2021-05-01T10:33:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "y4xp": {
+        "identifier": "y4xp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "I'm from Japan",
+        "url": "https://9anime.ru/watch/im-from-japan.y4xp",
+        "image": "https://static.akacdn.ru/files/images/2019/01/d64a8c4e41eab209c60e2b5f12255706.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38881,
+        "aniId": 106607,
+        "createdAt": "2020-10-12T15:56:48.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jimoto-ga-japan": {
+        "identifier": "jimoto-ga-japan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jimoto ga Japan",
+        "url": "https://www2.gogoanime.io/category/jimoto-ga-japan",
+        "image": "https://cdnimg.xyz/cover/jimoto-ga-japan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38881,
+        "aniId": 106607,
+        "createdAt": "2020-10-12T16:00:52.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

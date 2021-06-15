@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "魔乳秘剣帖"
+  ],
+  "authors": [
+    "Konchiki"
+  ],
+  "id": 6784,
+  "type": "manga",
+  "title": "Manyuu Hikenchou",
+  "url": "https://myanimelist.net/manga/6784/Manyuu_Hikenchou",
+  "image": "https://cdn.myanimelist.net/images/manga/2/64993.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:11.000Z",
+  "updatedAt": "2021-05-29T09:12:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7a8e0eff-f486-4142-bd8c-6e30be9db5a4": {
+        "authors": [
+          "Yamada Hideki"
+        ],
+        "identifier": "7a8e0eff-f486-4142-bd8c-6e30be9db5a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Manyuu Hikenchou",
+        "url": "https://mangadex.org/title/7a8e0eff-f486-4142-bd8c-6e30be9db5a4",
+        "image": "https://uploads.mangadex.org/covers/7a8e0eff-f486-4142-bd8c-6e30be9db5a4/d7650bf3-9178-4cb3-9800-0e8642105c84.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6784,
+        "aniId": 36784,
+        "createdAt": "2020-10-12T16:05:26.000Z",
+        "updatedAt": "2021-06-03T12:37:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "manyuu_hikenchou": {
+        "authors": [],
+        "identifier": "manyuu_hikenchou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Manyuu Hikenchou",
+        "url": "https://manganelo.com/manga/manyuu_hikenchou",
+        "image": "https://avt.mkklcdnv6.com/38/t/10-1583483573.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6784,
+        "aniId": 36784,
+        "createdAt": "2020-10-12T16:24:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

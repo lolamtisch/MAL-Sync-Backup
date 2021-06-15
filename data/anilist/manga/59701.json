@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Letter from the Dark",
+    "闇からの招待状"
+  ],
+  "authors": [
+    "Chie Watari"
+  ],
+  "id": 59701,
+  "malId": 29701,
+  "type": "manga",
+  "title": "Yami kara no Shoutaijou",
+  "url": "https://anilist.co/manga/59701",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/29701.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:37.000Z",
+  "updatedAt": "2021-05-20T14:47:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "08df24b0-1827-434f-ba57-554c19174600": {
+        "authors": [
+          "Watari Chie"
+        ],
+        "identifier": "08df24b0-1827-434f-ba57-554c19174600",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Letter from the Dark",
+        "url": "https://mangadex.org/title/08df24b0-1827-434f-ba57-554c19174600",
+        "image": "https://uploads.mangadex.org/covers/08df24b0-1827-434f-ba57-554c19174600/e8208c12-5be3-44cc-813b-4dd294c6d107.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29701,
+        "aniId": 59701,
+        "createdAt": "2020-10-12T16:07:09.000Z",
+        "updatedAt": "2021-06-04T00:43:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

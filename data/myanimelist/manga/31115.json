@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "子羊プロジェクト"
+  ],
+  "authors": [
+    "Takenaka, Sei"
+  ],
+  "id": 31115,
+  "type": "manga",
+  "title": "Kohitsuji Project",
+  "url": "https://myanimelist.net/manga/31115/Kohitsuji_Project",
+  "image": "https://cdn.myanimelist.net/images/manga/3/201123.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:43.000Z",
+  "updatedAt": "2021-05-31T09:21:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "10dd21ab-4f69-4409-b99d-1e8b5d4eee3f": {
+        "authors": [
+          "Takenaka Sei"
+        ],
+        "identifier": "10dd21ab-4f69-4409-b99d-1e8b5d4eee3f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kohitsuji Project",
+        "url": "https://mangadex.org/title/10dd21ab-4f69-4409-b99d-1e8b5d4eee3f",
+        "image": "https://uploads.mangadex.org/covers/10dd21ab-4f69-4409-b99d-1e8b5d4eee3f/2cebc4be-0069-4202-8e4c-7ff77d603861.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31115,
+        "aniId": 61115,
+        "createdAt": "2020-10-12T16:13:18.000Z",
+        "updatedAt": "2021-06-05T20:23:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kohitsuji_project": {
+        "authors": [],
+        "identifier": "kohitsuji_project",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kohitsuji Project",
+        "url": "https://manganelo.com/manga/kohitsuji_project",
+        "image": "https://avt.mkklcdnv6.com/21/k/4-1583470546.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31115,
+        "aniId": 61115,
+        "createdAt": "2020-10-12T16:23:58.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ag956615": {
+        "authors": [
+          "Takenaka Sei"
+        ],
+        "identifier": "manga-ag956615",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kohitsuji Project",
+        "url": "https://manganato.com/manga-ag956615",
+        "image": "https://avt.mkklcdnv6temp.com/21/k/4-1583470546.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31115,
+        "aniId": 61115,
+        "createdAt": "2021-05-31T09:21:51.000Z",
+        "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

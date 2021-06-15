@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Cheeky Angel",
+    "天使な小生意気"
+  ],
+  "authors": [
+    "Hiroyuki Nishimori"
+  ],
+  "id": 30962,
+  "malId": 962,
+  "type": "manga",
+  "title": "Tenshi na Konamaiki",
+  "url": "https://anilist.co/manga/30962",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30962-0WTw0LU2miqj.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:47.000Z",
+  "updatedAt": "2021-05-20T14:35:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "abe794c7-63ef-4597-abed-3edf4ba792ba": {
+        "authors": [
+          "Nishimori Hiroyuki"
+        ],
+        "identifier": "abe794c7-63ef-4597-abed-3edf4ba792ba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenshi na Konamaiki",
+        "url": "https://mangadex.org/title/abe794c7-63ef-4597-abed-3edf4ba792ba",
+        "image": "https://uploads.mangadex.org/covers/abe794c7-63ef-4597-abed-3edf4ba792ba/5b818756-1ad0-45c2-80ea-dd8ddf64085b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 962,
+        "aniId": 30962,
+        "createdAt": "2020-10-12T16:08:40.000Z",
+        "updatedAt": "2021-06-04T11:50:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tenshi_na_konamaiki": {
+        "authors": [],
+        "identifier": "tenshi_na_konamaiki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tenshi Na Konamaiki",
+        "url": "https://manganelo.com/manga/tenshi_na_konamaiki",
+        "image": "https://avt.mkklcdnv6.com/34/s/11-1583485261.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 962,
+        "aniId": 30962,
+        "createdAt": "2020-10-12T16:25:40.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tenshi_na_konamaiki": {
+        "authors": [
+          "NISHIMORI Hiroyuki"
+        ],
+        "identifier": "tenshi_na_konamaiki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tenshi na Konamaiki",
+        "url": "https://fanfox.net/manga/tenshi_na_konamaiki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/751/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 962,
+        "aniId": 30962,
+        "createdAt": "2021-04-22T11:27:19.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

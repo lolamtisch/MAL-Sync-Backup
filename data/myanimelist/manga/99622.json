@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ルーヴルの猫"
+  ],
+  "authors": [
+    "Matsumoto, Taiyou"
+  ],
+  "id": 99622,
+  "type": "manga",
+  "title": "Louvre no Neko",
+  "url": "https://myanimelist.net/manga/99622/Louvre_no_Neko",
+  "image": "https://cdn.myanimelist.net/images/manga/2/203466.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-04-30T22:05:48.000Z",
+  "updatedAt": "2021-06-05T16:21:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "54e5d979-2f1b-4b7b-a704-fbd0b568b8b3": {
+        "authors": [
+          "Matsumoto Taiyou"
+        ],
+        "identifier": "54e5d979-2f1b-4b7b-a704-fbd0b568b8b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Louvre no Neko",
+        "url": "https://mangadex.org/title/54e5d979-2f1b-4b7b-a704-fbd0b568b8b3",
+        "image": "https://uploads.mangadex.org/covers/54e5d979-2f1b-4b7b-a704-fbd0b568b8b3/6ffbd9d9-a89c-4a68-ac2b-a10f98307296.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99622,
+        "aniId": 101320,
+        "createdAt": "2020-10-12T16:12:44.000Z",
+        "updatedAt": "2021-06-05T17:06:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "md920651": {
+        "authors": [
+          "Taiyo",
+          "Matsumoto"
+        ],
+        "identifier": "md920651",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cats Of The Louvre",
+        "url": "https://manganelo.com/manga/md920651",
+        "image": "https://avt.mkklcdnv6temp.com/26/u/19-1583500159.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 99622,
+        "aniId": 101320,
+        "createdAt": "2020-10-12T16:24:17.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

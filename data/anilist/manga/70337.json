@@ -1,0 +1,85 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Boichi",
+    "Kengo Miyatani"
+  ],
+  "id": 70337,
+  "malId": 40337,
+  "type": "manga",
+  "title": "eques",
+  "url": "https://anilist.co/manga/70337",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40337.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:45.000Z",
+  "updatedAt": "2021-05-20T14:48:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bda1fa11-5648-4a38-a10a-3f63018cda10": {
+        "authors": [
+          "Miyatani Kengo",
+          "Boichi"
+        ],
+        "identifier": "bda1fa11-5648-4a38-a10a-3f63018cda10",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eques",
+        "url": "https://mangadex.org/title/bda1fa11-5648-4a38-a10a-3f63018cda10",
+        "image": "https://uploads.mangadex.org/covers/bda1fa11-5648-4a38-a10a-3f63018cda10/47969d6f-dd4c-47b5-89fb-26303ff4de53.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40337,
+        "aniId": 70337,
+        "createdAt": "2020-10-12T16:04:51.000Z",
+        "updatedAt": "2021-06-02T23:51:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eques": {
+        "authors": [],
+        "identifier": "eques",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eques",
+        "url": "https://manganelo.com/manga/eques",
+        "image": "https://avt.mkklcdnv6.com/11/t/11-1583484433.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40337,
+        "aniId": 70337,
+        "createdAt": "2020-10-12T16:22:50.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "eques": {
+        "authors": [
+          "Boichi"
+        ],
+        "identifier": "eques",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Eques",
+        "url": "https://fanfox.net/manga/eques/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27717/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40337,
+        "aniId": 70337,
+        "createdAt": "2021-05-10T00:18:08.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

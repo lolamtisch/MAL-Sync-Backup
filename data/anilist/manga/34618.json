@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "テイルズ オブ レジェンディア"
+  ],
+  "authors": [
+    "Ayumi Fujimura"
+  ],
+  "id": 34618,
+  "malId": 4618,
+  "type": "manga",
+  "title": "Tales Of Legendia",
+  "url": "https://anilist.co/manga/34618",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4618.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "55ca0b3c-490c-41b8-9f0f-63ab6c5c8448": {
+        "authors": [
+          "FUJIMURA Ayumi",
+          "Bandai Namco Games",
+          "Namco Tales Studio"
+        ],
+        "identifier": "55ca0b3c-490c-41b8-9f0f-63ab6c5c8448",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of Legendia",
+        "url": "https://mangadex.org/title/55ca0b3c-490c-41b8-9f0f-63ab6c5c8448",
+        "image": "https://uploads.mangadex.org/covers/55ca0b3c-490c-41b8-9f0f-63ab6c5c8448/849ce3da-f6e1-4df6-b29e-c867cd992569.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4618,
+        "aniId": 34618,
+        "createdAt": "2020-10-12T16:06:05.000Z",
+        "updatedAt": "2021-06-03T17:05:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

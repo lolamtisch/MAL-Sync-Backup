@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Reibun Ike"
+  ],
+  "id": 33471,
+  "malId": 3471,
+  "type": "manga",
+  "title": "Tsuki ni Ichido no Omeshi Agari",
+  "url": "https://anilist.co/manga/33471",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3471.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:12.000Z",
+  "updatedAt": "2021-05-20T14:38:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b162b3a-294a-488b-8fa6-652a88aa5049": {
+        "authors": [
+          "Ike Reibun"
+        ],
+        "identifier": "0b162b3a-294a-488b-8fa6-652a88aa5049",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Okutsukimura no Yukaisou",
+        "url": "https://mangadex.org/title/0b162b3a-294a-488b-8fa6-652a88aa5049",
+        "image": "https://uploads.mangadex.org/covers/0b162b3a-294a-488b-8fa6-652a88aa5049/7c35af9b-dd25-40ad-bc5c-284bd639de77.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3471,
+        "aniId": 33471,
+        "createdAt": "2020-10-12T16:06:25.000Z",
+        "updatedAt": "2021-06-03T19:30:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "グレートマジンガー",
+    "Gran Mazinger",
+    "Great Majinga"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 46943,
+  "malId": 16943,
+  "type": "manga",
+  "title": "Great Mazinger",
+  "url": "https://anilist.co/manga/46943",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16943.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:02.000Z",
+  "updatedAt": "2021-05-20T14:44:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e73b102-6c27-44ff-856f-c09bb2f93576": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "3e73b102-6c27-44ff-856f-c09bb2f93576",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Great Mazinger",
+        "url": "https://mangadex.org/title/3e73b102-6c27-44ff-856f-c09bb2f93576",
+        "image": "https://uploads.mangadex.org/covers/3e73b102-6c27-44ff-856f-c09bb2f93576/8264113a-9140-4149-8a19-3f16373204ea.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16943,
+        "aniId": 46943,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-02T22:41:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "great_mazinger": {
+        "authors": [],
+        "identifier": "great_mazinger",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Great Mazinger",
+        "url": "https://manganelo.com/manga/great_mazinger",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/6460-great_mazinger.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16943,
+        "aniId": 46943,
+        "createdAt": "2020-10-12T16:23:10.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

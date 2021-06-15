@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "恋敵は君のうしろに",
+    "ライバルは君のうしろに",
+    "My Rival Is Behind You"
+  ],
+  "authors": [
+    "Moto Shigemura"
+  ],
+  "id": 106807,
+  "malId": 114022,
+  "type": "manga",
+  "title": "Rival wa Kimi no Ushiro ni",
+  "url": "https://anilist.co/manga/106807",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106807-B3bsYPjNz8zz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:04.000Z",
+  "updatedAt": "2021-05-20T14:57:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "de98cf8e-b801-4afc-8416-690f0ae8abda": {
+        "authors": [
+          "SHIGEMURA Moto"
+        ],
+        "identifier": "de98cf8e-b801-4afc-8416-690f0ae8abda",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Rival Is Behind You",
+        "url": "https://mangadex.org/title/de98cf8e-b801-4afc-8416-690f0ae8abda",
+        "image": "https://uploads.mangadex.org/covers/de98cf8e-b801-4afc-8416-690f0ae8abda/2cc2d0f9-5120-4ded-8510-256ed0d292ab.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 114022,
+        "aniId": 106807,
+        "createdAt": "2020-10-12T16:12:07.000Z",
+        "updatedAt": "2021-06-05T14:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "my_rival_is_behind_you": {
+        "authors": [],
+        "identifier": "my_rival_is_behind_you",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Rival Is Behind You",
+        "url": "https://manganelo.com/manga/my_rival_is_behind_you",
+        "image": "https://avt.mkklcdnv6.com/50/e/16-1583495272.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114022,
+        "aniId": 106807,
+        "createdAt": "2020-10-12T16:24:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "my_rival_is_behind_you": {
+        "authors": [
+          "SHIGEMURA Moto"
+        ],
+        "identifier": "my_rival_is_behind_you",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "My Rival Is Behind You",
+        "url": "https://fanfox.net/manga/my_rival_is_behind_you/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28439/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114022,
+        "aniId": 106807,
+        "createdAt": "2021-05-31T17:52:56.000Z",
+        "updatedAt": "2021-05-31T18:22:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

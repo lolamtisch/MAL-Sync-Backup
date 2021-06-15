@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "トキワ来たれり!!",
+    "Kanata",
+    "Haruka",
+    "DEMIII",
+    "DEM3"
+  ],
+  "authors": [
+    "Shun Matsuena"
+  ],
+  "id": 85997,
+  "malId": 83417,
+  "type": "manga",
+  "title": "Tokiwa Kitareri!!",
+  "url": "https://anilist.co/manga/85997",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55997-xUg4A1hOxrhr.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:32.000Z",
+  "updatedAt": "2021-05-20T14:52:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7779b6a3-6bcd-44aa-b51d-b0e698c8102d": {
+        "authors": [
+          "Matsuena Shun"
+        ],
+        "identifier": "7779b6a3-6bcd-44aa-b51d-b0e698c8102d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokiwa Kitareri!!",
+        "url": "https://mangadex.org/title/7779b6a3-6bcd-44aa-b51d-b0e698c8102d",
+        "image": "https://uploads.mangadex.org/covers/7779b6a3-6bcd-44aa-b51d-b0e698c8102d/fc145d7e-d8a2-47bf-a214-808959c5df23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83417,
+        "aniId": 85997,
+        "createdAt": "2020-10-12T16:08:17.000Z",
+        "updatedAt": "2021-06-04T08:58:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tokiwa_kitareri": {
+        "authors": [
+          "Matsuena",
+          "Syun"
+        ],
+        "identifier": "tokiwa_kitareri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tokiwa Kitareri!!",
+        "url": "https://manganelo.com/manga/tokiwa_kitareri",
+        "image": "https://avt.mkklcdnv6.com/17/w/1-1583464392.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83417,
+        "aniId": 85997,
+        "createdAt": "2020-12-07T19:09:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tokiwa_kitareri": {
+        "authors": [
+          "Matsuena Syun"
+        ],
+        "identifier": "tokiwa_kitareri",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tokiwa Kitareri!!",
+        "url": "https://fanfox.net/manga/tokiwa_kitareri/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15036/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83417,
+        "aniId": 85997,
+        "createdAt": "2021-03-24T10:49:45.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Delicious Ayakashi",
+    "美味しい妖"
+  ],
+  "authors": [
+    "Otousan"
+  ],
+  "id": 103802,
+  "type": "manga",
+  "title": "Oishii Ayakashi",
+  "url": "https://myanimelist.net/manga/103802/Oishii_Ayakashi",
+  "image": "https://cdn.myanimelist.net/images/manga/2/199862.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:52.000Z",
+  "updatedAt": "2021-05-18T03:55:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f6fda5b9-7146-459d-91a9-e30b744c075f": {
+        "authors": [
+          "Otousan"
+        ],
+        "identifier": "f6fda5b9-7146-459d-91a9-e30b744c075f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oishii Ayakashi",
+        "url": "https://mangadex.org/title/f6fda5b9-7146-459d-91a9-e30b744c075f",
+        "image": "https://uploads.mangadex.org/covers/f6fda5b9-7146-459d-91a9-e30b744c075f/23663299-e7e0-4adf-9773-d784c9da9898.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103802,
+        "aniId": 114865,
+        "createdAt": "2020-10-12T16:10:21.000Z",
+        "updatedAt": "2021-06-05T00:07:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "oishii_ayakashi": {
+        "authors": [],
+        "identifier": "oishii_ayakashi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Oishii Ayakashi",
+        "url": "https://manganelo.com/manga/oishii_ayakashi",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18179-oishii_ayakashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103802,
+        "aniId": 114865,
+        "createdAt": "2020-10-12T16:24:40.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

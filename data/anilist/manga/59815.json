@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "伢三"
+  ],
+  "authors": [
+    "Bang Wang",
+    "Jia Wei Huang"
+  ],
+  "id": 59815,
+  "malId": 29815,
+  "type": "manga",
+  "title": "Ya San",
+  "url": "https://anilist.co/manga/59815",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/29815.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:37.000Z",
+  "updatedAt": "2021-05-20T14:47:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "415067c5-6b58-4113-88d0-a949ff167e72": {
+        "authors": [
+          "Huang Jia Wei",
+          "Wang Bang"
+        ],
+        "identifier": "415067c5-6b58-4113-88d0-a949ff167e72",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ya San",
+        "url": "https://mangadex.org/title/415067c5-6b58-4113-88d0-a949ff167e72",
+        "image": "https://uploads.mangadex.org/covers/415067c5-6b58-4113-88d0-a949ff167e72/43403c9e-506c-411a-983a-d6e687d8e6d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29815,
+        "aniId": 59815,
+        "createdAt": "2020-10-12T16:03:02.000Z",
+        "updatedAt": "2021-06-02T11:18:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

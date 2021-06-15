@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "HATRED"
+  ],
+  "authors": [],
+  "id": 96579,
+  "malId": 95204,
+  "type": "manga",
+  "title": "Hatred",
+  "url": "https://anilist.co/manga/96579",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96579-hzNz5K8kp4V3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:57.000Z",
+  "updatedAt": "2021-05-20T14:53:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe9d10f6-7ec5-4c95-a8d8-a6b3841ec26b": {
+        "authors": [
+          "MUKOJIMA Kamome"
+        ],
+        "identifier": "fe9d10f6-7ec5-4c95-a8d8-a6b3841ec26b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HATRED",
+        "url": "https://mangadex.org/title/fe9d10f6-7ec5-4c95-a8d8-a6b3841ec26b",
+        "image": "https://uploads.mangadex.org/covers/fe9d10f6-7ec5-4c95-a8d8-a6b3841ec26b/0de1bdc4-3997-40bb-aad3-f4ff18885172.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95204,
+        "aniId": 96579,
+        "createdAt": "2021-02-26T02:56:04.000Z",
+        "updatedAt": "2021-06-08T11:59:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

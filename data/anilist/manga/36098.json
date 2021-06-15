@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "真夜中はダメよ",
+    "Midnight is No Good",
+    "Mayonaka wa dame yo",
+    "Atashi no Okiniiri"
+  ],
+  "authors": [
+    "Haruko Kurumatani"
+  ],
+  "id": 36098,
+  "malId": 6098,
+  "type": "manga",
+  "title": "Mayonaka wa Dame yo",
+  "url": "https://anilist.co/manga/36098",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6098.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:38.000Z",
+  "updatedAt": "2021-05-20T14:39:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c9194a5-d243-494d-a238-79e2afed2699": {
+        "authors": [
+          "KURUMATANI Haruko"
+        ],
+        "identifier": "3c9194a5-d243-494d-a238-79e2afed2699",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayonaka wa Dame yo",
+        "url": "https://mangadex.org/title/3c9194a5-d243-494d-a238-79e2afed2699",
+        "image": "https://uploads.mangadex.org/covers/3c9194a5-d243-494d-a238-79e2afed2699/668bbd70-d04e-495a-90aa-2233b926d80a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6098,
+        "aniId": 36098,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:20:03.000Z",
+        "deletedAt": null
+      },
+      "be1d2cc1-f4f4-415e-955e-d4f1f5fa68ee": {
+        "authors": [
+          "Suso Haruo"
+        ],
+        "identifier": "be1d2cc1-f4f4-415e-955e-d4f1f5fa68ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayonaka no High Heels",
+        "url": "https://mangadex.org/title/be1d2cc1-f4f4-415e-955e-d4f1f5fa68ee",
+        "image": "https://uploads.mangadex.org/covers/be1d2cc1-f4f4-415e-955e-d4f1f5fa68ee/ee0efb75-288a-4422-a7e6-9702e4197ff9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6098,
+        "aniId": 36098,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-06-07T00:10:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

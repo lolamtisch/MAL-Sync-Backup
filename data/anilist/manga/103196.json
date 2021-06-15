@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いつでもきみが"
+  ],
+  "authors": [
+    "Kyouhei Azumi"
+  ],
+  "id": 103196,
+  "malId": 114159,
+  "type": "manga",
+  "title": "Itsudemo Kimi ga",
+  "url": "https://anilist.co/manga/103196",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103196-N8cHdvSjXVnA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:04.000Z",
+  "updatedAt": "2021-05-20T14:57:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c64b1d5-bd65-46a3-9fc2-1b8b6ba82eb6": {
+        "authors": [
+          "RURUTEA",
+          "Asami Taniguchi"
+        ],
+        "identifier": "8c64b1d5-bd65-46a3-9fc2-1b8b6ba82eb6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itsudemo Kirby",
+        "url": "https://mangadex.org/title/8c64b1d5-bd65-46a3-9fc2-1b8b6ba82eb6",
+        "image": "https://uploads.mangadex.org/covers/8c64b1d5-bd65-46a3-9fc2-1b8b6ba82eb6/5dea2b7f-7a63-46cd-9999-845f455addd7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114159,
+        "aniId": 103196,
+        "createdAt": "2020-10-12T16:18:11.000Z",
+        "updatedAt": "2021-06-07T14:43:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

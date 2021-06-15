@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Me & Roboco",
+    "僕とロボコ"
+  ],
+  "authors": [
+    "Miyazaki, Shuuhei"
+  ],
+  "id": 128085,
+  "type": "manga",
+  "title": "Boku to Roboko",
+  "url": "https://myanimelist.net/manga/128085/Boku_to_Roboko",
+  "image": "https://cdn.myanimelist.net/images/manga/4/236318.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:23.000Z",
+  "updatedAt": "2021-06-08T00:53:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "84fe5a6a-6414-48f3-9d87-175c3b4c6089": {
+        "authors": [
+          "MIYAZAKI Shuuhei"
+        ],
+        "identifier": "84fe5a6a-6414-48f3-9d87-175c3b4c6089",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku to Roboko",
+        "url": "https://mangadex.org/title/84fe5a6a-6414-48f3-9d87-175c3b4c6089",
+        "image": "https://uploads.mangadex.org/covers/84fe5a6a-6414-48f3-9d87-175c3b4c6089/b1fd5d31-c253-4833-9684-1012a1121bed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128085,
+        "aniId": 119499,
+        "createdAt": "2020-10-12T16:20:32.000Z",
+        "updatedAt": "2021-06-08T00:55:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "me-roboco": {
+        "authors": [
+          "MIYAZAKI Shuuhei"
+        ],
+        "identifier": "me-roboco",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Me & Roboco",
+        "url": "https://mangasee123.com/manga/Me-Roboco",
+        "image": "https://cover.nep.li/cover/Me-Roboco.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128085,
+        "aniId": 119499,
+        "createdAt": "2021-04-23T18:26:59.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

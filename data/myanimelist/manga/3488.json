@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "アルト"
+  ],
+  "authors": [
+    "Koio, Minato"
+  ],
+  "id": 3488,
+  "type": "manga",
+  "title": "Alto",
+  "url": "https://myanimelist.net/manga/3488/Alto",
+  "image": "https://cdn.myanimelist.net/images/manga/2/57471.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:51.000Z",
+  "updatedAt": "2021-04-09T05:51:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ed7de01-cfea-4466-9c87-5ede5c6abc9d": {
+        "authors": [
+          "Koio Minato"
+        ],
+        "identifier": "5ed7de01-cfea-4466-9c87-5ede5c6abc9d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alto",
+        "url": "https://mangadex.org/title/5ed7de01-cfea-4466-9c87-5ede5c6abc9d",
+        "image": "https://uploads.mangadex.org/covers/5ed7de01-cfea-4466-9c87-5ede5c6abc9d/cdf31f84-998f-4b7e-b4ff-8c754d3012a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3488,
+        "aniId": 33488,
+        "createdAt": "2020-10-12T16:03:27.000Z",
+        "updatedAt": "2021-06-02T14:07:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "alto": {
+        "authors": [
+          "KOIO Minato"
+        ],
+        "identifier": "alto",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Alto",
+        "url": "https://mangasee123.com/manga/Alto",
+        "image": "https://cover.nep.li/cover/Alto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3488,
+        "aniId": 33488,
+        "createdAt": "2021-04-09T05:51:18.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

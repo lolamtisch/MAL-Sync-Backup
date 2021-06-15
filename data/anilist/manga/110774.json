@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "スパイスガールズ"
+  ],
+  "authors": [
+    "Yayoi Osawa"
+  ],
+  "id": 110774,
+  "malId": 86045,
+  "type": "manga",
+  "title": "Spice Girls",
+  "url": "https://anilist.co/manga/110774",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110774-94PzoMsYtOEM.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:42.000Z",
+  "updatedAt": "2021-05-20T14:52:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b8d4b1a9-2f63-4b07-a7ec-c32d0ddcd90c": {
+        "authors": [
+          "Ohsawa Yayoi"
+        ],
+        "identifier": "b8d4b1a9-2f63-4b07-a7ec-c32d0ddcd90c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spice Girls",
+        "url": "https://mangadex.org/title/b8d4b1a9-2f63-4b07-a7ec-c32d0ddcd90c",
+        "image": "https://uploads.mangadex.org/covers/b8d4b1a9-2f63-4b07-a7ec-c32d0ddcd90c/b006cf79-5dc4-4d78-b8e2-0fe9ae506e43.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86045,
+        "aniId": 110774,
+        "createdAt": "2020-10-12T16:12:51.000Z",
+        "updatedAt": "2021-06-05T16:55:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hg919798": {
+        "authors": [],
+        "identifier": "hg919798",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Spice Girls (Ohsawa Yayoi)",
+        "url": "https://manganelo.com/manga/hg919798",
+        "image": "https://avt.mkklcdnv6.com/45/i/18-1583498860.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86045,
+        "aniId": 110774,
+        "createdAt": "2020-10-12T16:23:19.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

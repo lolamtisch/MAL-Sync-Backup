@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Don't Eat",
+    "食べちゃダメ",
+    "Tabechiya Dame",
+    "tabechiyadame"
+  ],
+  "authors": [
+    "Kaori"
+  ],
+  "id": 34497,
+  "malId": 4497,
+  "type": "manga",
+  "title": "Tabecha Dame",
+  "url": "https://anilist.co/manga/34497",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4497.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:32.000Z",
+  "updatedAt": "2021-05-20T14:38:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "37e9416b-addb-4e8b-8043-a1787d0c0ca2": {
+        "authors": [
+          "Kaori (花緒莉)"
+        ],
+        "identifier": "37e9416b-addb-4e8b-8043-a1787d0c0ca2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tabecha Dame",
+        "url": "https://mangadex.org/title/37e9416b-addb-4e8b-8043-a1787d0c0ca2",
+        "image": "https://uploads.mangadex.org/covers/37e9416b-addb-4e8b-8043-a1787d0c0ca2/fff2f690-8053-4f4a-9b19-3cb246b83951.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4497,
+        "aniId": 34497,
+        "createdAt": "2020-10-12T16:06:33.000Z",
+        "updatedAt": "2021-06-03T20:30:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

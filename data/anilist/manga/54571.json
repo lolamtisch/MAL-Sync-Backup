@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "できそこないの物語",
+    "The Tales of Failure Works"
+  ],
+  "authors": [
+    "Kei Hakomiya"
+  ],
+  "id": 54571,
+  "malId": 24571,
+  "type": "manga",
+  "title": "Dekisokonai no Monogatari",
+  "url": "https://anilist.co/manga/54571",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24571.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:45.000Z",
+  "updatedAt": "2021-05-20T14:46:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e60c2ec2-5f92-40e4-be5c-e5b576400aa9": {
+        "authors": [
+          "Hakomiya Kei"
+        ],
+        "identifier": "e60c2ec2-5f92-40e4-be5c-e5b576400aa9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dekisokonai no Monogatari - The Tales of Failure Works",
+        "url": "https://mangadex.org/title/e60c2ec2-5f92-40e4-be5c-e5b576400aa9",
+        "image": "https://uploads.mangadex.org/covers/e60c2ec2-5f92-40e4-be5c-e5b576400aa9/e526a2dd-ada5-482a-aad0-39569872739c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24571,
+        "aniId": 54571,
+        "createdAt": "2020-10-12T16:05:43.000Z",
+        "updatedAt": "2021-06-03T14:33:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

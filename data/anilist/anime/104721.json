@@ -1,0 +1,76 @@
+{
+  "altTitle": [
+    "LAIDBACKERS",
+    "LAIDBACKERS-レイドバッカーズ-"
+  ],
+  "id": 104721,
+  "malId": 38558,
+  "type": "anime",
+  "title": "LAIDBACKERS",
+  "url": "https://anilist.co/anime/104721",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104721-vIRWxpXZv4Gi.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:48.000Z",
+  "updatedAt": "2021-05-20T14:44:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "zjzw": {
+        "identifier": "zjzw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Laidbackers",
+        "url": "https://9anime.ru/watch/laidbackers.zjzw",
+        "image": "https://static.akacdn.ru/static/images/2018/12/ef8a6c13daa0921332ef011b3fee9333.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38558,
+        "aniId": 104721,
+        "createdAt": "2020-10-12T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "laidbackers": {
+        "identifier": "laidbackers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Laidbackers",
+        "url": "https://www9.gogoanime.io/category/laidbackers",
+        "image": "https://cdnimg.xyz/cover/laidbackers.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38558,
+        "aniId": 104721,
+        "createdAt": "2020-10-12T16:01:06.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3579": {
+        "identifier": "3579",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Laidbackers",
+        "url": "https://pahe.win/a/3579",
+        "image": "https://i.animepahe.com/posters/e32422b6db78e95f0687bd2ca600670e5976be24b1889d292d9223c69bff29f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38558,
+        "aniId": 104721,
+        "createdAt": "2021-02-24T15:55:38.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

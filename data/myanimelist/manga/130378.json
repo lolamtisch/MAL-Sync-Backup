@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "こえでおしごと!!"
+  ],
+  "authors": [
+    "Konno, Azure"
+  ],
+  "id": 130378,
+  "type": "manga",
+  "title": "Koe de Oshigoto!!",
+  "url": "https://myanimelist.net/manga/130378/Koe_de_Oshigoto",
+  "image": "https://cdn.myanimelist.net/images/manga/3/236906.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-12-22T16:26:35.000Z",
+  "updatedAt": "2021-06-08T00:25:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "13a72d48-9e0a-4ead-8a84-6d7aade92471": {
+        "authors": [
+          "Konno Azure"
+        ],
+        "identifier": "13a72d48-9e0a-4ead-8a84-6d7aade92471",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koe de Oshigoto!!",
+        "url": "https://mangadex.org/title/13a72d48-9e0a-4ead-8a84-6d7aade92471",
+        "image": "https://uploads.mangadex.org/covers/13a72d48-9e0a-4ead-8a84-6d7aade92471/b88cce32-e267-43b6-8dc4-9ec720457a6d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 130378,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:20:27.000Z",
+        "updatedAt": "2021-06-08T00:56:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

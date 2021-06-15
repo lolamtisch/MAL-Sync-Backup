@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "안녕, 여름아",
+    "Hello, Summer"
+  ],
+  "authors": [
+    "YAM"
+  ],
+  "id": 120922,
+  "malId": null,
+  "type": "manga",
+  "title": "Annyeong, Yeoreuma",
+  "url": "https://anilist.co/manga/120922",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120922-CmuUVRAKTDzM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T00:21:18.000Z",
+  "updatedAt": "2021-06-08T00:21:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79eb00db-ca63-46e6-8041-36f808146aaa": {
+        "authors": [
+          "YAM"
+        ],
+        "identifier": "79eb00db-ca63-46e6-8041-36f808146aaa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hello, Summer",
+        "url": "https://mangadex.org/title/79eb00db-ca63-46e6-8041-36f808146aaa",
+        "image": "https://uploads.mangadex.org/covers/79eb00db-ca63-46e6-8041-36f808146aaa/0d2e1623-c0b5-4b55-b597-6b6fd33fbea5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120922,
+        "createdAt": "2020-10-12T16:20:28.000Z",
+        "updatedAt": "2021-06-08T00:26:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "夢幻の軍艦 大和"
+  ],
+  "authors": [],
+  "id": 91242,
+  "malId": 70741,
+  "type": "manga",
+  "title": "Mugen no Gunkan Yamato",
+  "url": "https://anilist.co/manga/91242",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91242-TQCwSI0LByOL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:32.000Z",
+  "updatedAt": "2021-05-20T14:51:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4d383dc5-8acb-415f-ba64-0cfec2e4f7cb": {
+        "authors": [
+          "Moto Souichi"
+        ],
+        "identifier": "4d383dc5-8acb-415f-ba64-0cfec2e4f7cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mugen no Gunkan Yamato",
+        "url": "https://mangadex.org/title/4d383dc5-8acb-415f-ba64-0cfec2e4f7cb",
+        "image": "https://uploads.mangadex.org/covers/4d383dc5-8acb-415f-ba64-0cfec2e4f7cb/375a154d-e59e-4a37-84ad-4803e1a4ad9e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70741,
+        "aniId": 91242,
+        "createdAt": "2020-10-12T16:16:08.000Z",
+        "updatedAt": "2021-06-06T19:59:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kg925232": {
+        "authors": [
+          "Moto",
+          "Souichi"
+        ],
+        "identifier": "kg925232",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mugen No Gunkan Yamato",
+        "url": "https://manganelo.com/manga/kg925232",
+        "image": "https://avt.mkklcdnv6.com/8/p/23-1611114946.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70741,
+        "aniId": 91242,
+        "createdAt": "2021-01-20T08:34:27.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

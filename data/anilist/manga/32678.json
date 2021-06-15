@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "I can't stand only the kiss"
+  ],
+  "authors": [
+    "Mieko Koide"
+  ],
+  "id": 32678,
+  "malId": 2678,
+  "type": "manga",
+  "title": "Kiss Ja Tomaranai",
+  "url": "https://anilist.co/manga/32678",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2678.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c35dbef7-8b58-4745-aea8-4fc36e623cb7": {
+        "authors": [
+          "Koide Mieko"
+        ],
+        "identifier": "c35dbef7-8b58-4745-aea8-4fc36e623cb7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiss ja Tomaranai!",
+        "url": "https://mangadex.org/title/c35dbef7-8b58-4745-aea8-4fc36e623cb7",
+        "image": "https://uploads.mangadex.org/covers/c35dbef7-8b58-4745-aea8-4fc36e623cb7/9177013c-8e30-4a20-9691-ec908e140120.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2678,
+        "aniId": 32678,
+        "createdAt": "2020-10-12T16:17:08.000Z",
+        "updatedAt": "2021-06-07T05:06:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

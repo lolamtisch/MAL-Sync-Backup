@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "サムシング・ハプニング"
+  ],
+  "authors": [],
+  "id": 94870,
+  "malId": 89008,
+  "type": "manga",
+  "title": "Something Happening",
+  "url": "https://anilist.co/manga/94870",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94870-muPe8REuvW5h.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T10:50:11.000Z",
+  "updatedAt": "2021-06-04T10:50:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7014040d-cb00-4215-bde0-516a28f4fc5a": {
+        "authors": [
+          "Ida Satoko"
+        ],
+        "identifier": "7014040d-cb00-4215-bde0-516a28f4fc5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Something Happening",
+        "url": "https://mangadex.org/title/7014040d-cb00-4215-bde0-516a28f4fc5a",
+        "image": "https://uploads.mangadex.org/covers/7014040d-cb00-4215-bde0-516a28f4fc5a/97c18765-03ed-4454-9a0c-e84a7abb5696.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89008,
+        "aniId": 94870,
+        "createdAt": "2020-10-12T16:08:31.000Z",
+        "updatedAt": "2021-06-04T12:46:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

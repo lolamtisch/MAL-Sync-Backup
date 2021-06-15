@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "優しくしないで",
+    "Hidoku Shinaide dj - Yasashiku Shinaide",
+    "Treat Me Gently, Please dj - Don't Be Gentle, Please"
+  ],
+  "authors": [
+    "Yonezou Nekota"
+  ],
+  "id": 43793,
+  "malId": 13793,
+  "type": "manga",
+  "title": "Yasashiku Shinaide",
+  "url": "https://anilist.co/manga/43793",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13793.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:38.000Z",
+  "updatedAt": "2021-05-20T14:42:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b325c2e-4683-4af3-8e5e-cfb355753418": {
+        "authors": [
+          "Nekota Yonezou"
+        ],
+        "identifier": "8b325c2e-4683-4af3-8e5e-cfb355753418",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yasashiku Shinai de",
+        "url": "https://mangadex.org/title/8b325c2e-4683-4af3-8e5e-cfb355753418",
+        "image": "https://uploads.mangadex.org/covers/8b325c2e-4683-4af3-8e5e-cfb355753418/9590a95a-05a9-45cd-a80c-5c600b773767.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13793,
+        "aniId": 43793,
+        "createdAt": "2020-10-12T16:07:11.000Z",
+        "updatedAt": "2021-06-04T00:59:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "影技 SHADOW SKILL",
+    "Shadow Skill 1",
+    "Shadow Skill: Epilogue"
+  ],
+  "id": 3005,
+  "malId": 3005,
+  "type": "anime",
+  "title": "Shadow Skill",
+  "url": "https://anilist.co/anime/3005",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3005.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:33.000Z",
+  "updatedAt": "2021-05-20T14:36:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "0v2r": {
+        "identifier": "0v2r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shadow Skill",
+        "url": "https://9anime.ru/watch/shadow-skill.0v2r",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JIV7iPQ2nnc/WHXDNtWESgI/AAAAAAABYoc/N31aLFf0l04/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3005,
+        "aniId": 3005,
+        "createdAt": "2020-10-12T15:48:52.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shadow-skill-epilogue": {
+        "identifier": "shadow-skill-epilogue",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shadow Skill: Epilogue",
+        "url": "https://gogoanime.ai/category/shadow-skill-epilogue",
+        "image": "https://gogocdn.net/cover/shadow-skill-epilogue.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3005,
+        "aniId": 3005,
+        "createdAt": "2021-03-18T21:05:21.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

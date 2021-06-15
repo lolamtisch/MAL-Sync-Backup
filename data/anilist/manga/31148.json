@@ -1,0 +1,127 @@
+{
+  "altTitle": [
+    "Fist of the Blue Sky",
+    "蒼天の拳"
+  ],
+  "authors": [
+    "Tetsuo Hara",
+    "Yoshiyuki Okamura"
+  ],
+  "id": 31148,
+  "malId": 1148,
+  "type": "manga",
+  "title": "Souten no Ken",
+  "url": "https://anilist.co/manga/31148",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31148-2UwTqzyxlpUo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:54.000Z",
+  "updatedAt": "2021-05-20T14:35:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "732b1ade-aa9f-451f-880c-a5a0478504e3": {
+        "authors": [
+          "Buronson",
+          "Hara Tetsuo"
+        ],
+        "identifier": "732b1ade-aa9f-451f-880c-a5a0478504e3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Souten no Ken",
+        "url": "https://mangadex.org/title/732b1ade-aa9f-451f-880c-a5a0478504e3",
+        "image": "https://uploads.mangadex.org/covers/732b1ade-aa9f-451f-880c-a5a0478504e3/07f558f0-4e9e-42a3-8cfa-1568de4d8c91.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1148,
+        "aniId": 31148,
+        "createdAt": "2020-10-12T16:03:19.000Z",
+        "updatedAt": "2021-06-02T13:10:12.000Z",
+        "deletedAt": null
+      },
+      "6051f786-418d-43a7-8fac-0ff346158e85": {
+        "authors": [
+          "Xia Yan"
+        ],
+        "identifier": "6051f786-418d-43a7-8fac-0ff346158e85",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wu Fist",
+        "url": "https://mangadex.org/title/6051f786-418d-43a7-8fac-0ff346158e85",
+        "image": "https://uploads.mangadex.org/covers/6051f786-418d-43a7-8fac-0ff346158e85/77267b3a-bec3-4da5-a8d8-f4994f9c1134.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1148,
+        "aniId": 31148,
+        "createdAt": "2020-10-12T16:16:11.000Z",
+        "updatedAt": "2021-06-06T20:25:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "iy919486": {
+        "authors": [],
+        "identifier": "iy919486",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Wu Fist",
+        "url": "https://manganelo.com/manga/iy919486",
+        "image": "https://avt.mkklcdnv6.com/33/v/18-1583498398.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1148,
+        "aniId": 31148,
+        "createdAt": "2020-10-12T16:23:38.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "souten_no_ken": {
+        "authors": [],
+        "identifier": "souten_no_ken",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Souten No Ken",
+        "url": "https://manganelo.com/manga/souten_no_ken",
+        "image": "https://avt.mkklcdnv6.com/4/y/5-1583472036.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1148,
+        "aniId": 31148,
+        "createdAt": "2020-10-12T16:25:31.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fist-of-the-blue-sky": {
+        "authors": [
+          "Buronson",
+          "HARA Tetsuo"
+        ],
+        "identifier": "fist-of-the-blue-sky",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Souten no Ken",
+        "url": "https://mangasee123.com/manga/Fist-Of-The-Blue-Sky",
+        "image": "https://cover.nep.li/cover/Fist-Of-The-Blue-Sky.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1148,
+        "aniId": 31148,
+        "createdAt": "2021-03-10T17:09:18.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

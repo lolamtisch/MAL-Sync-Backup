@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "エソラゴト"
+  ],
+  "authors": [
+    "usi"
+  ],
+  "id": 47070,
+  "malId": 17070,
+  "type": "manga",
+  "title": "Esoragoto",
+  "url": "https://anilist.co/manga/47070",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47070-0llsgEa3ID4F.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:02.000Z",
+  "updatedAt": "2021-05-20T14:44:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2197ea4e-069e-46ff-a000-1493b28422ae": {
+        "authors": [
+          "Usi"
+        ],
+        "identifier": "2197ea4e-069e-46ff-a000-1493b28422ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Esoragoto",
+        "url": "https://mangadex.org/title/2197ea4e-069e-46ff-a000-1493b28422ae",
+        "image": "https://uploads.mangadex.org/covers/2197ea4e-069e-46ff-a000-1493b28422ae/d6bb2af0-14b0-4de2-8117-094014373a25.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17070,
+        "aniId": 47070,
+        "createdAt": "2020-10-12T16:05:26.000Z",
+        "updatedAt": "2021-06-03T12:34:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Blood Sucker: Legend of Zipangu",
+    "Bloodsucker, Yato no Kamitsukai",
+    "夜刀の神つかい"
+  ],
+  "authors": [
+    "Shimizu, Aki",
+    "Okuse, Saki"
+  ],
+  "id": 151,
+  "type": "manga",
+  "title": "Blood Sucker",
+  "url": "https://myanimelist.net/manga/151/Blood_Sucker",
+  "image": "https://cdn.myanimelist.net/images/manga/4/4488.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:18.000Z",
+  "updatedAt": "2020-12-31T21:53:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0891bfb0-4aab-43f0-9d71-0fd95cd1f218": {
+        "authors": [
+          "Okuse Saki",
+          "Shimizu Aki"
+        ],
+        "identifier": "0891bfb0-4aab-43f0-9d71-0fd95cd1f218",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yato no Kamitsukai",
+        "url": "https://mangadex.org/title/0891bfb0-4aab-43f0-9d71-0fd95cd1f218",
+        "image": "https://uploads.mangadex.org/covers/0891bfb0-4aab-43f0-9d71-0fd95cd1f218/6191d8a0-d057-4b6a-aebc-d25d497fc0d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 151,
+        "aniId": 30151,
+        "createdAt": "2020-10-12T16:12:41.000Z",
+        "updatedAt": "2021-06-05T15:53:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "blood_sucker_legend_of_zipangu": {
+        "authors": [],
+        "identifier": "blood_sucker_legend_of_zipangu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Blood Sucker: Legend Of Zipangu",
+        "url": "https://manganelo.com/manga/blood_sucker_legend_of_zipangu",
+        "image": "https://avt.mkklcdnv6.com/37/q/16-1583494817.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 151,
+        "aniId": 30151,
+        "createdAt": "2020-10-12T16:22:18.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yato_no_kamitsukai": {
+        "authors": [
+          "OKUSE Saki"
+        ],
+        "identifier": "yato_no_kamitsukai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yato no Kamitsukai",
+        "url": "https://fanfox.net/manga/yato_no_kamitsukai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3832/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 151,
+        "aniId": 30151,
+        "createdAt": "2020-12-31T21:46:53.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

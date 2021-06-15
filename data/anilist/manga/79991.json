@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "どっか",
+    "Dokka"
+  ],
+  "authors": [
+    "Yoshitomo Watanabe"
+  ],
+  "id": 79991,
+  "malId": 49991,
+  "type": "manga",
+  "title": "docca",
+  "url": "https://anilist.co/manga/79991",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49991.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T05:49:08.000Z",
+  "updatedAt": "2021-06-04T05:49:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acfa2860-d163-467b-b58c-c1bd95a3f454": {
+        "authors": [
+          "WATANABE Yoshitomo"
+        ],
+        "identifier": "acfa2860-d163-467b-b58c-c1bd95a3f454",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Docca",
+        "url": "https://mangadex.org/title/acfa2860-d163-467b-b58c-c1bd95a3f454",
+        "image": "https://uploads.mangadex.org/covers/acfa2860-d163-467b-b58c-c1bd95a3f454/60249954-d85a-460e-a106-1323e5e9e6ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49991,
+        "aniId": 79991,
+        "createdAt": "2020-10-12T16:07:49.000Z",
+        "updatedAt": "2021-06-04T08:39:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

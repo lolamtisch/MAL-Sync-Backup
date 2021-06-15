@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "たば子ちゃん"
+  ],
+  "authors": [
+    "Himitsu"
+  ],
+  "id": 101208,
+  "malId": 118583,
+  "type": "manga",
+  "title": "Tabako-chan",
+  "url": "https://anilist.co/manga/101208",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101208-gHQGMJnpf0Of.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:03.000Z",
+  "updatedAt": "2021-05-20T14:58:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5adbd939-ca75-4a62-a5b7-f0a904e5617b": {
+        "authors": [
+          "Himitsu"
+        ],
+        "identifier": "5adbd939-ca75-4a62-a5b7-f0a904e5617b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tabako-chan",
+        "url": "https://mangadex.org/title/5adbd939-ca75-4a62-a5b7-f0a904e5617b",
+        "image": "https://uploads.mangadex.org/covers/5adbd939-ca75-4a62-a5b7-f0a904e5617b/6e1d616f-ebb9-48b8-9bfc-4e80c6a47cbe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118583,
+        "aniId": 101208,
+        "createdAt": "2020-10-12T16:16:55.000Z",
+        "updatedAt": "2021-06-07T03:06:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tt920677": {
+        "authors": [],
+        "identifier": "tt920677",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tobacco-chan",
+        "url": "https://manganelo.com/manga/tt920677",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2074-tt920677.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118583,
+        "aniId": 101208,
+        "createdAt": "2020-10-12T16:25:51.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tabako_chan": {
+        "authors": [
+          "Himitsu"
+        ],
+        "identifier": "tabako_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tabako-chan",
+        "url": "https://fanfox.net/manga/tabako_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31495/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118583,
+        "aniId": 101208,
+        "createdAt": "2021-02-09T08:15:19.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

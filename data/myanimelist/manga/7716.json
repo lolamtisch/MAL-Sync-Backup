@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "シバトラ"
+  ],
+  "authors": [
+    "Kibayashi, Shin",
+    "Asaki, Masashi"
+  ],
+  "id": 7716,
+  "type": "manga",
+  "title": "Shibatora",
+  "url": "https://myanimelist.net/manga/7716/Shibatora",
+  "image": "https://cdn.myanimelist.net/images/manga/1/56481.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:15.000Z",
+  "updatedAt": "2021-04-06T04:38:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f0fdff2e-9521-48aa-9314-be1c99d5b4fa": {
+        "authors": [
+          "Asaki Masashi",
+          "Ando Yuma"
+        ],
+        "identifier": "f0fdff2e-9521-48aa-9314-be1c99d5b4fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shibatora",
+        "url": "https://mangadex.org/title/f0fdff2e-9521-48aa-9314-be1c99d5b4fa",
+        "image": "https://uploads.mangadex.org/covers/f0fdff2e-9521-48aa-9314-be1c99d5b4fa/5e221322-03f0-4613-b5ed-e6008eb240bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7716,
+        "aniId": 37716,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:41:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shibatora": {
+        "authors": [],
+        "identifier": "shibatora",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shibatora",
+        "url": "https://manganelo.com/manga/shibatora",
+        "image": "https://avt.mkklcdnv6.com/15/n/4-1583470301.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7716,
+        "aniId": 37716,
+        "createdAt": "2020-10-12T16:25:24.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shibatora": {
+        "authors": [
+          "ANDO Yuma",
+          "ASAKI Masashi"
+        ],
+        "identifier": "shibatora",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shibatora",
+        "url": "https://mangasee123.com/manga/Shibatora",
+        "image": "https://cover.nep.li/cover/Shibatora.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7716,
+        "aniId": 37716,
+        "createdAt": "2021-04-06T04:38:56.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "よつのは"
+  ],
+  "authors": [
+    "Bou Chitama"
+  ],
+  "id": 43709,
+  "malId": 13709,
+  "type": "manga",
+  "title": "Yotsunoha",
+  "url": "https://anilist.co/manga/43709",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13709.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-05-20T14:42:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "220ca040-d44e-43c2-9ff5-87ff1561aac2": {
+        "authors": [
+          "Haikuo Soft",
+          "Ditama Bow"
+        ],
+        "identifier": "220ca040-d44e-43c2-9ff5-87ff1561aac2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yotsunoha",
+        "url": "https://mangadex.org/title/220ca040-d44e-43c2-9ff5-87ff1561aac2",
+        "image": "https://uploads.mangadex.org/covers/220ca040-d44e-43c2-9ff5-87ff1561aac2/4e161ea6-f4a9-490e-a4b7-070a406a948e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13709,
+        "aniId": 43709,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:24:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

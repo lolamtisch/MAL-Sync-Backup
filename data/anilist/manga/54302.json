@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Mega Man Gigamix",
+    "ロックマンギガミックス",
+    "Megaman Gigamix"
+  ],
+  "authors": [
+    "Hitoshi Ariga"
+  ],
+  "id": 54302,
+  "malId": 24302,
+  "type": "manga",
+  "title": "Rockman Gigamix",
+  "url": "https://anilist.co/manga/54302",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24302.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:43.000Z",
+  "updatedAt": "2021-05-20T14:46:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e865771f-0158-4f61-b66f-6c114fc595e2": {
+        "authors": [
+          "Ariga Hitoshi"
+        ],
+        "identifier": "e865771f-0158-4f61-b66f-6c114fc595e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rockman Gigamix",
+        "url": "https://mangadex.org/title/e865771f-0158-4f61-b66f-6c114fc595e2",
+        "image": "https://uploads.mangadex.org/covers/e865771f-0158-4f61-b66f-6c114fc595e2/dc5d7bab-1b07-408c-a07c-1aa78db37b64.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24302,
+        "aniId": 54302,
+        "createdAt": "2020-10-12T16:11:41.000Z",
+        "updatedAt": "2021-06-05T10:22:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "rockman_gigamix": {
+        "authors": [
+          "ARIGA Hitoshi"
+        ],
+        "identifier": "rockman_gigamix",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Rockman Gigamix",
+        "url": "https://fanfox.net/manga/rockman_gigamix/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36335/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24302,
+        "aniId": 54302,
+        "createdAt": "2021-04-06T03:08:23.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

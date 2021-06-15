@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "はじめ"
+  ],
+  "authors": [
+    "Takeshi Obata",
+    "Otsuichi"
+  ],
+  "id": 35239,
+  "malId": 5239,
+  "type": "manga",
+  "title": "Hajime",
+  "url": "https://anilist.co/manga/35239",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35239-OFcrBnkSU3Cc.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2db2c312-4d71-4a34-a592-6ea5021ea4b8": {
+        "authors": [
+          "Otsuichi",
+          "Obata Takeshi"
+        ],
+        "identifier": "2db2c312-4d71-4a34-a592-6ea5021ea4b8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajime",
+        "url": "https://mangadex.org/title/2db2c312-4d71-4a34-a592-6ea5021ea4b8",
+        "image": "https://uploads.mangadex.org/covers/2db2c312-4d71-4a34-a592-6ea5021ea4b8/12d1203b-a149-4b1b-b4c4-b987da426a2f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5239,
+        "aniId": 35239,
+        "createdAt": "2020-10-12T16:03:03.000Z",
+        "updatedAt": "2021-06-02T11:20:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

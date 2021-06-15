@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Prisoner I",
+    "Prisoner-プリズナー-"
+  ],
+  "authors": [
+    "Kaen"
+  ],
+  "id": 11010,
+  "type": "manga",
+  "title": "Prisoner",
+  "url": "https://myanimelist.net/manga/11010/Prisoner",
+  "image": "https://cdn.myanimelist.net/images/manga/2/14900.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:55:31.000Z",
+  "updatedAt": "2021-06-08T07:55:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d59e9c2a-828c-456e-b159-bca81ba24a96": {
+        "authors": [
+          "Kaen"
+        ],
+        "identifier": "d59e9c2a-828c-456e-b159-bca81ba24a96",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Prisoner",
+        "url": "https://mangadex.org/title/d59e9c2a-828c-456e-b159-bca81ba24a96",
+        "image": "https://uploads.mangadex.org/covers/d59e9c2a-828c-456e-b159-bca81ba24a96/280e6130-d61a-4633-b044-8a9c23c4d805.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 11010,
+        "aniId": null,
+        "createdAt": "2020-11-17T16:21:41.000Z",
+        "updatedAt": "2021-06-08T08:39:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

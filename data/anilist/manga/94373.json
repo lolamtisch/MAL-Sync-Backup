@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "残念ながら違います。"
+  ],
+  "authors": [
+    "Kotomi Aoki"
+  ],
+  "id": 94373,
+  "malId": 87472,
+  "type": "manga",
+  "title": "Zannen nagara Chigaimasu.",
+  "url": "https://anilist.co/manga/94373",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94373-Nc1IvvTAdvEt.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:48.000Z",
+  "updatedAt": "2021-05-20T14:52:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69cb7d4b-aad5-4726-b8e4-f6df43441acc": {
+        "authors": [
+          "AOKI Kotomi"
+        ],
+        "identifier": "69cb7d4b-aad5-4726-b8e4-f6df43441acc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Konna Kekkon, Masaka Watashi ga Suru Nante!? na Hon.",
+        "url": "https://mangadex.org/title/69cb7d4b-aad5-4726-b8e4-f6df43441acc",
+        "image": "https://uploads.mangadex.org/covers/69cb7d4b-aad5-4726-b8e4-f6df43441acc/b0c872a1-3a8a-488d-b300-90dc043f4431.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87472,
+        "aniId": 94373,
+        "createdAt": "2020-10-12T16:08:25.000Z",
+        "updatedAt": "2021-06-04T10:01:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zannen_nagara_chigaimasu": {
+        "authors": [
+          "Aoki",
+          "Kotomi"
+        ],
+        "identifier": "zannen_nagara_chigaimasu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Zannen Nagara Chigaimasu",
+        "url": "https://manganelo.com/manga/zannen_nagara_chigaimasu",
+        "image": "https://avt.mkklcdnv6.com/36/q/7-1583477654.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87472,
+        "aniId": 94373,
+        "createdAt": "2020-11-23T10:54:48.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

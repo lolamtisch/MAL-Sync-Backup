@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Endless Comfort",
+    "恒久の在り処",
+    "A Permanent Place"
+  ],
+  "authors": [
+    "Sakuya Sakura"
+  ],
+  "id": 30612,
+  "malId": 612,
+  "type": "manga",
+  "title": "Koukyuu no Arika",
+  "url": "https://anilist.co/manga/30612",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/612.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d74a87bb-ce25-4a18-ab7d-6b81c32af51b": {
+        "authors": [
+          "동물"
+        ],
+        "identifier": "d74a87bb-ce25-4a18-ab7d-6b81c32af51b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Shoulder to Cry On",
+        "url": "https://mangadex.org/title/d74a87bb-ce25-4a18-ab7d-6b81c32af51b",
+        "image": "https://uploads.mangadex.org/covers/d74a87bb-ce25-4a18-ab7d-6b81c32af51b/63c62835-15a7-4147-b262-a9a778fee9a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 612,
+        "aniId": 30612,
+        "createdAt": "2020-10-12T16:16:39.000Z",
+        "updatedAt": "2021-06-07T00:33:19.000Z",
+        "deletedAt": null
+      },
+      "83ce5267-8adf-4b35-af92-dca4022a4fc0": {
+        "authors": [
+          "Sakura Sakuya"
+        ],
+        "identifier": "83ce5267-8adf-4b35-af92-dca4022a4fc0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koukyuu no Arika",
+        "url": "https://mangadex.org/title/83ce5267-8adf-4b35-af92-dca4022a4fc0",
+        "image": "https://uploads.mangadex.org/covers/83ce5267-8adf-4b35-af92-dca4022a4fc0/77c56167-e6dc-4171-92f6-0dd3fe7a20df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 612,
+        "aniId": 30612,
+        "createdAt": "2020-10-12T16:18:44.000Z",
+        "updatedAt": "2021-06-07T19:43:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sk969393": {
+        "authors": [
+          "Sakura Sakuya"
+        ],
+        "identifier": "manga-sk969393",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koukyuu No Arika",
+        "url": "https://manganato.com/manga-sk969393",
+        "image": "https://avt.mkklcdnv6temp.com/46/r/12-1583487592.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 612,
+        "aniId": 30612,
+        "createdAt": "2021-05-31T09:35:02.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

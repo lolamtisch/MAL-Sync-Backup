@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Alice in Murderland",
+    "架刑のアリス"
+  ],
+  "authors": [
+    "Kaori Yuki"
+  ],
+  "id": 85688,
+  "malId": 64671,
+  "type": "manga",
+  "title": "Kakei no Alice",
+  "url": "https://anilist.co/manga/85688",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55688.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe584c9f-114c-437d-a3cd-c8824b69720c": {
+        "authors": [
+          "Yuki Kaori"
+        ],
+        "identifier": "fe584c9f-114c-437d-a3cd-c8824b69720c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakei no Alice",
+        "url": "https://mangadex.org/title/fe584c9f-114c-437d-a3cd-c8824b69720c",
+        "image": "https://uploads.mangadex.org/covers/fe584c9f-114c-437d-a3cd-c8824b69720c/6ceca721-4a13-4533-836f-47b5aefa18b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64671,
+        "aniId": 85688,
+        "createdAt": "2020-10-12T16:07:04.000Z",
+        "updatedAt": "2021-06-04T00:09:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zu921296": {
+        "authors": [],
+        "identifier": "zu921296",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Alice In Murderland",
+        "url": "https://manganelo.com/manga/zu921296",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2699-zu921296.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64671,
+        "aniId": 85688,
+        "createdAt": "2020-10-12T16:26:34.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kakei-no-alice": {
+        "authors": [
+          "YUKI Kaori"
+        ],
+        "identifier": "kakei-no-alice",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kakei no Alice",
+        "url": "https://mangasee123.com/manga/Kakei-no-Alice",
+        "image": "https://cover.nep.li/cover/Kakei-no-Alice.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64671,
+        "aniId": 85688,
+        "createdAt": "2021-04-17T12:44:49.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

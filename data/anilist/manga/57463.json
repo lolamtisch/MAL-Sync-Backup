@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Love Laboratory"
+  ],
+  "authors": [
+    "Kana Nanajima"
+  ],
+  "id": 57463,
+  "malId": 27463,
+  "type": "manga",
+  "title": "Koi Lab",
+  "url": "https://anilist.co/manga/57463",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27463.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:27.000Z",
+  "updatedAt": "2021-05-20T14:47:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "063814ac-e8fc-43f9-b713-10b2c82ddb13": {
+        "authors": [
+          "NANAJIMA Kana"
+        ],
+        "identifier": "063814ac-e8fc-43f9-b713-10b2c82ddb13",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajimete, Koi, Shita.",
+        "url": "https://mangadex.org/title/063814ac-e8fc-43f9-b713-10b2c82ddb13",
+        "image": "https://uploads.mangadex.org/covers/063814ac-e8fc-43f9-b713-10b2c82ddb13/52009826-31e8-4ff5-9f76-ef8931ceef52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27463,
+        "aniId": 57463,
+        "createdAt": "2020-10-12T16:04:29.000Z",
+        "updatedAt": "2021-06-02T21:21:32.000Z",
+        "deletedAt": null
+      },
+      "bbe3d360-dc89-41d2-8b40-a6f02a4b1a00": {
+        "authors": [
+          "Nanajima Kana"
+        ],
+        "identifier": "bbe3d360-dc89-41d2-8b40-a6f02a4b1a00",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichinen no Koi wa Gantan ni Ari",
+        "url": "https://mangadex.org/title/bbe3d360-dc89-41d2-8b40-a6f02a4b1a00",
+        "image": "https://uploads.mangadex.org/covers/bbe3d360-dc89-41d2-8b40-a6f02a4b1a00/2b132e02-e09f-4daa-a136-6fcd11cb3f17.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27463,
+        "aniId": 57463,
+        "createdAt": "2020-10-12T16:06:59.000Z",
+        "updatedAt": "2021-06-03T23:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

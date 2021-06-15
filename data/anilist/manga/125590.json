@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "좋아하는 부분",
+    "Favorite Part"
+  ],
+  "authors": [
+    "Tari"
+  ],
+  "id": 125590,
+  "malId": null,
+  "type": "manga",
+  "title": "Joahaneun Bubun",
+  "url": "https://anilist.co/manga/125590",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125590-LUQcyeoyFpXO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T23:12:58.000Z",
+  "updatedAt": "2021-06-07T03:19:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5a70d936-2ba6-4890-8fd9-c500400027df": {
+        "authors": [
+          "Tari (타리)"
+        ],
+        "identifier": "5a70d936-2ba6-4890-8fd9-c500400027df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Favorite Part",
+        "url": "https://mangadex.org/title/5a70d936-2ba6-4890-8fd9-c500400027df",
+        "image": "https://uploads.mangadex.org/covers/5a70d936-2ba6-4890-8fd9-c500400027df/88c0e466-e718-4607-a4fb-e5c5fae3c1d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 125590,
+        "createdAt": "2020-10-12T16:16:53.000Z",
+        "updatedAt": "2021-06-07T07:17:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

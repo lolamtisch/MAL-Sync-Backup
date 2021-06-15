@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "Persona 5",
+    "ペルソナ5",
+    "女神异闻录5"
+  ],
+  "authors": [
+    "Hisato Murasaki",
+    "Atlus"
+  ],
+  "id": 98652,
+  "malId": 99944,
+  "type": "manga",
+  "title": "Persona 5",
+  "url": "https://anilist.co/manga/98652",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98652-sNAhH3bINN63.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:45.000Z",
+  "updatedAt": "2021-05-20T14:54:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d2ffef6-127c-4de2-aed0-88041c63009b": {
+        "authors": [
+          "Murasaki Hisato",
+          "Atlus"
+        ],
+        "identifier": "9d2ffef6-127c-4de2-aed0-88041c63009b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Persona 5",
+        "url": "https://mangadex.org/title/9d2ffef6-127c-4de2-aed0-88041c63009b",
+        "image": "https://uploads.mangadex.org/covers/9d2ffef6-127c-4de2-aed0-88041c63009b/1f95231d-3c10-47e3-a8d6-d0ce47c5d9e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99944,
+        "aniId": 98652,
+        "createdAt": "2020-10-12T16:10:39.000Z",
+        "updatedAt": "2021-06-05T02:22:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "vhtg247961580265348": {
+        "authors": [],
+        "identifier": "vhtg247961580265348",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Persona 5",
+        "url": "https://manganelo.com/manga/vhtg247961580265348",
+        "image": "https://avt.mkklcdnv6.com/21/q/15-1583492237.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99944,
+        "aniId": 98652,
+        "createdAt": "2020-10-12T16:26:02.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "persona-5": {
+        "authors": [
+          "MURASAKI Hisato"
+        ],
+        "identifier": "persona-5",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Persona 5",
+        "url": "https://mangasee123.com/manga/Persona-5",
+        "image": "https://cover.nep.li/cover/Persona-5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99944,
+        "aniId": 98652,
+        "createdAt": "2020-12-19T22:57:17.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "persona_5": {
+        "authors": [
+          "MURASAKI Hisato",
+          "Atlus"
+        ],
+        "identifier": "persona_5",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Persona 5",
+        "url": "https://fanfox.net/manga/persona_5/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25069/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99944,
+        "aniId": 98652,
+        "createdAt": "2021-03-23T03:35:26.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "authors": [
+    "Mado Nozaki",
+    "Sono Yoshihiro",
+    "Suzuki Manatsu"
+  ],
+  "identifier": "263b6cb0-4d7b-4a34-bb0f-5282f8968095",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "Hello World",
+  "url": "https://mangadex.org/title/263b6cb0-4d7b-4a34-bb0f-5282f8968095",
+  "image": "https://uploads.mangadex.org/covers/263b6cb0-4d7b-4a34-bb0f-5282f8968095/afc04ac4-eaab-4eb0-a6a4-6dc470e1913b.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 121294,
+  "aniId": 110599,
+  "createdAt": "2020-10-12T16:16:59.000Z",
+  "updatedAt": "2021-06-07T07:37:59.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "HELLO WORLD"
+    ],
+    "authors": [
+      "Suzuki, Manatsu",
+      "Sono, Yoshihiro",
+      "Nozaki, Mado"
+    ],
+    "id": 121294,
+    "type": "manga",
+    "title": "Hello World",
+    "url": "https://myanimelist.net/manga/121294/Hello_World",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222144.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-06-02T13:01:46.000Z",
+    "updatedAt": "2021-06-02T13:01:46.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "HELLO WORLD: The Manga",
+      "HELLO WORLD"
+    ],
+    "authors": [
+      "Manatsu Suzuki",
+      "Yoshihiro Sono",
+      "Mado Nozaki"
+    ],
+    "id": 110599,
+    "malId": 121294,
+    "type": "manga",
+    "title": "HELLO WORLD",
+    "url": "https://anilist.co/manga/110599",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110599-4ZfA4SeovNz5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-02T03:01:16.000Z",
+    "updatedAt": "2021-06-02T03:01:16.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/121294/Hello_World"
+}

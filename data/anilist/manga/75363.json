@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Patchwork",
+    "パッチワーク",
+    "Patchiwaku"
+  ],
+  "authors": [
+    "Youko Fujitani"
+  ],
+  "id": 75363,
+  "malId": 45363,
+  "type": "manga",
+  "title": "Patchwork",
+  "url": "https://anilist.co/manga/75363",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45363.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "78cb6e94-fc8d-4bf2-9ffa-86c4a4c5d954": {
+        "authors": [
+          "Fujitani Youko"
+        ],
+        "identifier": "78cb6e94-fc8d-4bf2-9ffa-86c4a4c5d954",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Happy Life!",
+        "url": "https://mangadex.org/title/78cb6e94-fc8d-4bf2-9ffa-86c4a4c5d954",
+        "image": "https://uploads.mangadex.org/covers/78cb6e94-fc8d-4bf2-9ffa-86c4a4c5d954/96c72a4f-3b05-4263-b939-b746a1959ac1.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45363,
+        "aniId": 75363,
+        "createdAt": "2020-10-12T18:08:35.000Z",
+        "updatedAt": "2021-06-08T05:23:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

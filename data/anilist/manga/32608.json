@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "My First Experience"
+  ],
+  "authors": [
+    "Tsubaki Enomoto"
+  ],
+  "id": 32608,
+  "malId": 2608,
+  "type": "manga",
+  "title": "First Love",
+  "url": "https://anilist.co/manga/32608",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx32608-nZfMqrxb7YAg.png",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8fd62e26-1eaf-4df3-a5f6-1d0fbcf08c84": {
+        "authors": [
+          "Enomoto Tsubaki"
+        ],
+        "identifier": "8fd62e26-1eaf-4df3-a5f6-1d0fbcf08c84",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "First Love (ENOMOTO Tsubaki)",
+        "url": "https://mangadex.org/title/8fd62e26-1eaf-4df3-a5f6-1d0fbcf08c84",
+        "image": "https://uploads.mangadex.org/covers/8fd62e26-1eaf-4df3-a5f6-1d0fbcf08c84/66e1d469-caad-400b-ad0e-32cfaa621347.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 2608,
+        "aniId": 32608,
+        "createdAt": "2020-10-12T16:21:08.000Z",
+        "updatedAt": "2021-06-08T07:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tz922345": {
+        "authors": [],
+        "identifier": "tz922345",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Boss, My First Love",
+        "url": "https://manganelo.com/manga/tz922345",
+        "image": "https://avt.mkklcdnv6.com/40/i/20-1583573857.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2608,
+        "aniId": 32608,
+        "createdAt": "2020-10-12T16:25:52.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

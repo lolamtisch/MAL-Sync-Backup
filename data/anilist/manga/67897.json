@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "花花遊龍",
+    "Playful Dragon"
+  ],
+  "authors": [
+    "Bao Ni Xing",
+    "Li Ka Ai"
+  ],
+  "id": 67897,
+  "malId": 37897,
+  "type": "manga",
+  "title": "Hua Hua You Long",
+  "url": "https://anilist.co/manga/67897",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37897.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:35.000Z",
+  "updatedAt": "2021-05-20T14:48:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e227e50-3c91-4617-8751-ed9f9300737f": {
+        "authors": [
+          "Xing Bao Ni",
+          "Ai Li Ka"
+        ],
+        "identifier": "8e227e50-3c91-4617-8751-ed9f9300737f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hua Hua You Long",
+        "url": "https://mangadex.org/title/8e227e50-3c91-4617-8751-ed9f9300737f",
+        "image": "https://uploads.mangadex.org/covers/8e227e50-3c91-4617-8751-ed9f9300737f/b77808ef-1979-4320-a25b-2c2c4beb811d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37897,
+        "aniId": 67897,
+        "createdAt": "2020-10-12T16:07:10.000Z",
+        "updatedAt": "2021-06-04T00:52:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hua_hua_you_long": {
+        "authors": [
+          "Xing Bao Ni"
+        ],
+        "identifier": "hua_hua_you_long",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hua Hua You Long",
+        "url": "https://fanfox.net/manga/hua_hua_you_long/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10969/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37897,
+        "aniId": 67897,
+        "createdAt": "2021-01-24T16:43:14.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

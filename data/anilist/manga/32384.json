@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Pure Heart",
+    "純情"
+  ],
+  "authors": [
+    "Hyouta Fujiyama"
+  ],
+  "id": 32384,
+  "malId": 2384,
+  "type": "manga",
+  "title": "Junjou",
+  "url": "https://anilist.co/manga/32384",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32384-J9nBUpstvGDY.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "669e9778-ff82-4e91-bcf6-7cead357ace1": {
+        "authors": [
+          "Fujiyama Hyouta"
+        ],
+        "identifier": "669e9778-ff82-4e91-bcf6-7cead357ace1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Junjou",
+        "url": "https://mangadex.org/title/669e9778-ff82-4e91-bcf6-7cead357ace1",
+        "image": "https://uploads.mangadex.org/covers/669e9778-ff82-4e91-bcf6-7cead357ace1/9b6edb24-14db-44df-92c2-162ff4b71ca2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2384,
+        "aniId": 32384,
+        "createdAt": "2020-10-12T16:09:12.000Z",
+        "updatedAt": "2021-06-04T15:50:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "junjou": {
+        "authors": [],
+        "identifier": "junjou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Junjou",
+        "url": "https://manganelo.com/manga/junjou",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19827-junjou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2384,
+        "aniId": 32384,
+        "createdAt": "2020-10-12T16:23:46.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

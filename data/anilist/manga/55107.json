@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "Fist of Legend",
+    "전설의 주먹",
+    "FOL",
+    "Legend Punch",
+    "伝説の拳-けん-"
+  ],
+  "authors": [
+    "Yoon-Kyoon Lee",
+    "Jong-Kyu Lee"
+  ],
+  "id": 55107,
+  "malId": 25107,
+  "type": "manga",
+  "title": "Jeonseorui Jumeok",
+  "url": "https://anilist.co/manga/55107",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25107.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "62fd5892-b6fc-480f-86e4-f7a5a9c66768": {
+        "authors": [
+          "LEE Yoon-Kyoon",
+          "LEE Jong-Kyu"
+        ],
+        "identifier": "62fd5892-b6fc-480f-86e4-f7a5a9c66768",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fist of Legend",
+        "url": "https://mangadex.org/title/62fd5892-b6fc-480f-86e4-f7a5a9c66768",
+        "image": "https://uploads.mangadex.org/covers/62fd5892-b6fc-480f-86e4-f7a5a9c66768/738cfb27-74f0-4b16-9f1e-f92acefd67ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25107,
+        "aniId": 55107,
+        "createdAt": "2020-10-12T16:02:27.000Z",
+        "updatedAt": "2021-06-02T06:57:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Still Sick",
+    "Still Sick"
+  ],
+  "authors": [
+    "Akashi",
+    "Katie Kimura"
+  ],
+  "id": 106232,
+  "malId": 116472,
+  "type": "manga",
+  "title": "Still Sick",
+  "url": "https://anilist.co/manga/106232",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106232-LfXVW5dROdap.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:23.000Z",
+  "updatedAt": "2021-05-20T14:57:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "98c34d01-2f69-41f1-bd54-4e0c7d89ce18": {
+        "authors": [
+          "Akashi"
+        ],
+        "identifier": "98c34d01-2f69-41f1-bd54-4e0c7d89ce18",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Still Sick",
+        "url": "https://mangadex.org/title/98c34d01-2f69-41f1-bd54-4e0c7d89ce18",
+        "image": "https://uploads.mangadex.org/covers/98c34d01-2f69-41f1-bd54-4e0c7d89ce18/e6f6272b-bdef-4b7e-8aa8-563195ce2e1d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116472,
+        "aniId": 106232,
+        "createdAt": "2020-10-12T16:14:11.000Z",
+        "updatedAt": "2021-06-06T03:05:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "aw917959": {
+        "authors": [],
+        "identifier": "aw917959",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Still Sick",
+        "url": "https://manganelo.com/manga/aw917959",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21573-aw917959.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116472,
+        "aniId": 106232,
+        "createdAt": "2020-10-12T16:22:10.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "still_sick": {
+        "authors": [
+          "Akashi"
+        ],
+        "identifier": "still_sick",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Still Sick",
+        "url": "https://fanfox.net/manga/still_sick/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28992/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116472,
+        "aniId": 106232,
+        "createdAt": "2021-01-17T10:33:59.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

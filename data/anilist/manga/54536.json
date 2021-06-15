@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "equus"
+  ],
+  "authors": [
+    "est em"
+  ],
+  "id": 54536,
+  "malId": 24536,
+  "type": "manga",
+  "title": "equus",
+  "url": "https://anilist.co/manga/54536",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54536-QotIKfUiUijV.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:45.000Z",
+  "updatedAt": "2021-05-20T14:46:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e4c40fd4-9dba-4f3f-b072-428f044441ec": {
+        "authors": [
+          "Est Em"
+        ],
+        "identifier": "e4c40fd4-9dba-4f3f-b072-428f044441ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Equus",
+        "url": "https://mangadex.org/title/e4c40fd4-9dba-4f3f-b072-428f044441ec",
+        "image": "https://uploads.mangadex.org/covers/e4c40fd4-9dba-4f3f-b072-428f044441ec/8a3ac9db-0d24-4c5d-b1e8-39a9fb94598c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24536,
+        "aniId": 54536,
+        "createdAt": "2020-10-12T16:07:14.000Z",
+        "updatedAt": "2021-06-04T01:13:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

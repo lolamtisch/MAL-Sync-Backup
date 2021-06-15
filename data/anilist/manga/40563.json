@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いかさま海亀のスープ",
+    "Mock Turtle Soup"
+  ],
+  "authors": [
+    "Maki Kusumoto"
+  ],
+  "id": 40563,
+  "malId": 10563,
+  "type": "manga",
+  "title": "Ikasama Umigame no Soup",
+  "url": "https://anilist.co/manga/40563",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40563-pInIz2Y8kG7y.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e8fabc40-6010-4767-9d12-465b6dec2dde": {
+        "authors": [
+          "Kusumoto Maki"
+        ],
+        "identifier": "e8fabc40-6010-4767-9d12-465b6dec2dde",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ikasama Umigame no Soup",
+        "url": "https://mangadex.org/title/e8fabc40-6010-4767-9d12-465b6dec2dde",
+        "image": "https://uploads.mangadex.org/covers/e8fabc40-6010-4767-9d12-465b6dec2dde/ac0797ee-5e6e-41ac-960d-638d073d2c99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10563,
+        "aniId": 40563,
+        "createdAt": "2020-10-12T16:03:32.000Z",
+        "updatedAt": "2021-06-02T14:42:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Nekomimi Smock",
+    "ネコミミスモック"
+  ],
+  "authors": [
+    "Karakara"
+  ],
+  "id": 102242,
+  "malId": 88875,
+  "type": "manga",
+  "title": "Nekomimisumokku",
+  "url": "https://anilist.co/manga/102242",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/102242-qSx9pyAYMeLF.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T11:20:19.000Z",
+  "updatedAt": "2021-06-04T11:20:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ea4a11e4-8116-4c1b-b379-123379a9f7b9": {
+        "authors": [
+          "Karakara"
+        ],
+        "identifier": "ea4a11e4-8116-4c1b-b379-123379a9f7b9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nekomimi Smock",
+        "url": "https://mangadex.org/title/ea4a11e4-8116-4c1b-b379-123379a9f7b9",
+        "image": "https://uploads.mangadex.org/covers/ea4a11e4-8116-4c1b-b379-123379a9f7b9/db0fd564-95de-457d-8781-0a95255485ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88875,
+        "aniId": 102242,
+        "createdAt": "2020-10-12T16:08:33.000Z",
+        "updatedAt": "2021-06-04T12:48:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

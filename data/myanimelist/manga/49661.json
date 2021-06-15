@@ -1,0 +1,127 @@
+{
+  "altTitle": [
+    "System Engineer",
+    "SE"
+  ],
+  "authors": [
+    "Konogi, Yoshiru"
+  ],
+  "id": 49661,
+  "type": "manga",
+  "title": "SE",
+  "url": "https://myanimelist.net/manga/49661/SE",
+  "image": "https://cdn.myanimelist.net/images/manga/3/112467.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:33.000Z",
+  "updatedAt": "2021-05-31T09:30:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "710ae639-6439-4642-a713-0e9e321cbf0d": {
+        "authors": [
+          "Konogi Yoshiru"
+        ],
+        "identifier": "710ae639-6439-4642-a713-0e9e321cbf0d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "SE",
+        "url": "https://mangadex.org/title/710ae639-6439-4642-a713-0e9e321cbf0d",
+        "image": "https://uploads.mangadex.org/covers/710ae639-6439-4642-a713-0e9e321cbf0d/3b92fcb9-ed6a-4d04-9bbe-de0362f1a615.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49661,
+        "aniId": 79661,
+        "createdAt": "2020-10-12T16:06:20.000Z",
+        "updatedAt": "2021-06-03T19:00:59.000Z",
+        "deletedAt": null
+      },
+      "1d67c5e1-5cbd-4eff-8afa-b2aa4e4a3c38": {
+        "authors": [
+          "Junah"
+        ],
+        "identifier": "1d67c5e1-5cbd-4eff-8afa-b2aa4e4a3c38",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Engineer x Fence",
+        "url": "https://mangadex.org/title/1d67c5e1-5cbd-4eff-8afa-b2aa4e4a3c38",
+        "image": "https://uploads.mangadex.org/covers/1d67c5e1-5cbd-4eff-8afa-b2aa4e4a3c38/b1578605-a242-4f86-ab2d-2918e5179f68.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49661,
+        "aniId": 79661,
+        "createdAt": "2020-10-12T16:16:31.000Z",
+        "updatedAt": "2021-06-06T23:28:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "se": {
+        "authors": [],
+        "identifier": "se",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Se",
+        "url": "https://manganelo.com/manga/se",
+        "image": "https://avt.mkklcdnv6.com/26/m/1-1583464733.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49661,
+        "aniId": 79661,
+        "createdAt": "2020-10-12T16:25:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "se": {
+        "authors": [
+          "KONOGI Yoshiru"
+        ],
+        "identifier": "se",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "SE",
+        "url": "https://fanfox.net/manga/se/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12269/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49661,
+        "aniId": 79661,
+        "createdAt": "2021-01-27T07:12:22.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "s-e-system-engineer": {
+        "authors": [
+          "KONOGI Yoshiru"
+        ],
+        "identifier": "s-e-system-engineer",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "SE (System Engineer)",
+        "url": "https://mangasee123.com/manga/S-E-System-Engineer",
+        "image": "https://cover.nep.li/cover/S-E-System-Engineer.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49661,
+        "aniId": 79661,
+        "createdAt": "2021-04-13T10:15:50.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

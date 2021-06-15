@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Shounen Ningyo",
+    "けだものだもの"
+  ],
+  "authors": [
+    "Fukushima, Haruka"
+  ],
+  "id": 389,
+  "type": "manga",
+  "title": "Kedamono Damono",
+  "url": "https://myanimelist.net/manga/389/Kedamono_Damono",
+  "image": "https://cdn.myanimelist.net/images/manga/2/202951.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:21.000Z",
+  "updatedAt": "2021-03-15T07:30:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3d1d0e99-a8ad-42a4-a076-3bf63c88fce3": {
+        "authors": [
+          "FUKUSHIMA Haruka"
+        ],
+        "identifier": "3d1d0e99-a8ad-42a4-a076-3bf63c88fce3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kedamono Damono",
+        "url": "https://mangadex.org/title/3d1d0e99-a8ad-42a4-a076-3bf63c88fce3",
+        "image": "https://uploads.mangadex.org/covers/3d1d0e99-a8ad-42a4-a076-3bf63c88fce3/c8aec5f2-f797-491a-bdc5-a7c741cb1175.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 389,
+        "aniId": 30389,
+        "createdAt": "2020-10-12T16:13:04.000Z",
+        "updatedAt": "2021-06-05T18:33:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kedamono_damono": {
+        "authors": [
+          "Fukushima",
+          "Haruka"
+        ],
+        "identifier": "kedamono_damono",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kedamono Damono",
+        "url": "https://manganelo.com/manga/kedamono_damono",
+        "image": "https://avt.mkklcdnv6.com/4/w/13-1583487904.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 389,
+        "aniId": 30389,
+        "createdAt": "2021-02-05T19:49:54.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kedamono_damono": {
+        "authors": [
+          "FUKUSHIMA Haruka"
+        ],
+        "identifier": "kedamono_damono",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kedamono Damono",
+        "url": "https://fanfox.net/manga/kedamono_damono/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1779/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 389,
+        "aniId": 30389,
+        "createdAt": "2021-03-26T16:50:05.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

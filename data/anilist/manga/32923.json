@@ -1,0 +1,127 @@
+{
+  "altTitle": [
+    "I Am Here!",
+    "ココにいるよ！",
+    "Here I Am!",
+    "I'm Right Here!"
+  ],
+  "authors": [
+    "Ema Tooyama"
+  ],
+  "id": 32923,
+  "malId": 2923,
+  "type": "manga",
+  "title": "Koko ni Iru yo!",
+  "url": "https://anilist.co/manga/32923",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32923-ocHpEUPrIds9.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:16.000Z",
+  "updatedAt": "2021-06-06T22:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2af49827-abfc-480c-accb-f4c2416b691d": {
+        "authors": [
+          "TOOYAMA Ema"
+        ],
+        "identifier": "2af49827-abfc-480c-accb-f4c2416b691d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koko ni Iru yo!",
+        "url": "https://mangadex.org/title/2af49827-abfc-480c-accb-f4c2416b691d",
+        "image": "https://uploads.mangadex.org/covers/2af49827-abfc-480c-accb-f4c2416b691d/1f38f0b4-ad68-4f14-a550-aacdd385ab6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 32923,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T13:37:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kcwy275231567048798": {
+        "authors": [],
+        "identifier": "kcwy275231567048798",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Here U Are",
+        "url": "https://manganelo.com/manga/kcwy275231567048798",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20055-here_u_are.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 32923,
+        "createdAt": "2020-10-12T16:23:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "oq922576": {
+        "authors": [],
+        "identifier": "oq922576",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "I Am Gao Fu Shuai",
+        "url": "https://manganelo.com/manga/oq922576",
+        "image": "https://avt.mkklcdnv6.com/49/j/20-1585542838.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 32923,
+        "createdAt": "2020-10-12T16:24:44.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "koko_ni_iru_yo": {
+        "authors": [
+          "Tooyama",
+          "Ema"
+        ],
+        "identifier": "koko_ni_iru_yo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koko Ni Iru Yo!",
+        "url": "https://manganelo.com/manga/koko_ni_iru_yo",
+        "image": "https://avt.mkklcdnv6.com/44/g/10-1583483764.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 32923,
+        "createdAt": "2020-11-24T08:26:14.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "koko-ni-iru-yo": {
+        "authors": [
+          "TOOYAMA Ema"
+        ],
+        "identifier": "koko-ni-iru-yo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Koko ni Iru yo!",
+        "url": "https://mangasee123.com/manga/Koko-Ni-Iru-Yo",
+        "image": "https://cover.nep.li/cover/Koko-Ni-Iru-Yo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 32923,
+        "createdAt": "2021-04-05T19:09:17.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

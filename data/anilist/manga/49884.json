@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "シークレット フライト"
+  ],
+  "authors": [
+    "Wren Tamaquis"
+  ],
+  "id": 49884,
+  "malId": 19884,
+  "type": "manga",
+  "title": "Secret Flight",
+  "url": "https://anilist.co/manga/49884",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19884.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:25.000Z",
+  "updatedAt": "2021-05-20T14:45:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1d85f186-23ff-49a0-8dca-122d8cc83ca5": {
+        "authors": [
+          "Tamaquis Wren"
+        ],
+        "identifier": "1d85f186-23ff-49a0-8dca-122d8cc83ca5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secret Flight",
+        "url": "https://mangadex.org/title/1d85f186-23ff-49a0-8dca-122d8cc83ca5",
+        "image": "https://uploads.mangadex.org/covers/1d85f186-23ff-49a0-8dca-122d8cc83ca5/a001038f-b9cb-497c-ab91-b93f16c09379.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19884,
+        "aniId": 49884,
+        "createdAt": "2020-10-12T16:11:57.000Z",
+        "updatedAt": "2021-06-05T12:11:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

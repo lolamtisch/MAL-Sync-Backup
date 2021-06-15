@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ギフト ~under the rainbow~"
+  ],
+  "authors": [
+    "MOONSTONE",
+    "Yukiwo"
+  ],
+  "id": 10759,
+  "type": "manga",
+  "title": "Gift: Under the Rainbow",
+  "url": "https://myanimelist.net/manga/10759/Gift__Under_the_Rainbow",
+  "image": "https://cdn.myanimelist.net/images/manga/2/14479.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:29.000Z",
+  "updatedAt": "2021-05-01T00:05:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8642b818-1852-45d2-9039-09c63cc39a18": {
+        "authors": [
+          "Yukiwo",
+          "Moonstone"
+        ],
+        "identifier": "8642b818-1852-45d2-9039-09c63cc39a18",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gift - Under the Rainbow",
+        "url": "https://mangadex.org/title/8642b818-1852-45d2-9039-09c63cc39a18",
+        "image": "https://uploads.mangadex.org/covers/8642b818-1852-45d2-9039-09c63cc39a18/2fd37f4e-92e3-4dd6-959c-ad419fdb491a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10759,
+        "aniId": 40759,
+        "createdAt": "2020-10-12T16:03:29.000Z",
+        "updatedAt": "2021-06-02T14:20:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gift_under_the_rainbow": {
+        "authors": [
+          "Moonstone"
+        ],
+        "identifier": "gift_under_the_rainbow",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gift - Under the Rainbow",
+        "url": "https://fanfox.net/manga/gift_under_the_rainbow/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4866/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10759,
+        "aniId": 40759,
+        "createdAt": "2021-05-09T11:48:37.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

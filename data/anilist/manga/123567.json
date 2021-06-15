@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "横断歩道の漫画",
+    "Street Crossing Manga"
+  ],
+  "authors": [
+    "Taishou Akatsuka"
+  ],
+  "id": 123567,
+  "malId": null,
+  "type": "manga",
+  "title": "Oudan Hodou no Manga",
+  "url": "https://anilist.co/manga/123567",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123567-PVfXW0fVjo52.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:39:29.000Z",
+  "updatedAt": "2021-06-07T21:51:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96bc8859-a7e3-4e89-afa6-5ec6be278286": {
+        "authors": [
+          "Akatsuka Taishou"
+        ],
+        "identifier": "96bc8859-a7e3-4e89-afa6-5ec6be278286",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Street Crossing Manga",
+        "url": "https://mangadex.org/title/96bc8859-a7e3-4e89-afa6-5ec6be278286",
+        "image": "https://uploads.mangadex.org/covers/96bc8859-a7e3-4e89-afa6-5ec6be278286/dc6a5844-db08-46b7-922f-8b9e37f935ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123567,
+        "createdAt": "2020-10-12T16:19:12.000Z",
+        "updatedAt": "2021-06-07T21:57:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "MAMA"
+  ],
+  "authors": [
+    "Kiko Urino"
+  ],
+  "id": 105188,
+  "malId": 112408,
+  "type": "manga",
+  "title": "Mama",
+  "url": "https://anilist.co/manga/105188",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105188-Oe5CZkZbU3bk.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T14:51:17.000Z",
+  "updatedAt": "2021-06-04T14:51:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "39eac87b-c7a2-45f8-8733-9baec040d1e5": {
+        "authors": [
+          "Urino Kiko"
+        ],
+        "identifier": "39eac87b-c7a2-45f8-8733-9baec040d1e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mama",
+        "url": "https://mangadex.org/title/39eac87b-c7a2-45f8-8733-9baec040d1e5",
+        "image": "https://uploads.mangadex.org/covers/39eac87b-c7a2-45f8-8733-9baec040d1e5/b7330464-736d-4b96-bbe5-3cbf407c1443.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112408,
+        "aniId": 105188,
+        "createdAt": "2020-10-12T16:09:01.000Z",
+        "updatedAt": "2021-06-04T15:29:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "新宿ラッキーホール"
+  ],
+  "authors": [
+    "Haruko Kumota"
+  ],
+  "id": 74413,
+  "malId": 44413,
+  "type": "manga",
+  "title": "Shinjuku Lucky Hole",
+  "url": "https://anilist.co/manga/74413",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b74413-hHH3WUwmuPv5.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:49:01.000Z",
+  "updatedAt": "2021-05-20T14:49:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aa9b4ca6-16c7-49c5-9bae-e2be8d7f275a": {
+        "authors": [
+          "Kumota Haruko"
+        ],
+        "identifier": "aa9b4ca6-16c7-49c5-9bae-e2be8d7f275a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinjuku Lucky Hole",
+        "url": "https://mangadex.org/title/aa9b4ca6-16c7-49c5-9bae-e2be8d7f275a",
+        "image": "https://uploads.mangadex.org/covers/aa9b4ca6-16c7-49c5-9bae-e2be8d7f275a/96626550-0b11-48cd-8328-cb58cfac227c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44413,
+        "aniId": 74413,
+        "createdAt": "2020-10-12T16:12:04.000Z",
+        "updatedAt": "2021-06-05T13:09:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

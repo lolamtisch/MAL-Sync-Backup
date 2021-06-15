@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Baccano!",
+    "BACCANO!"
+  ],
+  "authors": [
+    "Narita, Ryohgo",
+    "Fujimoto, Shinta"
+  ],
+  "id": 92203,
+  "type": "manga",
+  "title": "Baccano!",
+  "url": "https://myanimelist.net/manga/92203/Baccano",
+  "image": "https://cdn.myanimelist.net/images/manga/1/172600.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:09.000Z",
+  "updatedAt": "2021-05-14T09:54:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "20238d64-3b15-4709-9fe5-518c7df9fb84": {
+        "authors": [
+          "Fujimoto Shinta",
+          "Narita Ryohgo"
+        ],
+        "identifier": "20238d64-3b15-4709-9fe5-518c7df9fb84",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Baccano!",
+        "url": "https://mangadex.org/title/20238d64-3b15-4709-9fe5-518c7df9fb84",
+        "image": "https://uploads.mangadex.org/covers/20238d64-3b15-4709-9fe5-518c7df9fb84/7a308eff-9f4f-4fe6-a8aa-d5639f835568.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92203,
+        "aniId": 86409,
+        "createdAt": "2020-10-12T16:10:17.000Z",
+        "updatedAt": "2021-06-04T23:34:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "baccano": {
+        "authors": [],
+        "identifier": "baccano",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Baccano!",
+        "url": "https://manganelo.com/manga/baccano",
+        "image": "https://avt.mkklcdnv6.com/8/w/15-1583491781.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92203,
+        "aniId": 86409,
+        "createdAt": "2020-10-12T16:22:12.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

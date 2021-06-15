@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Jawbreaker",
+    "ジョウブレイカー"
+  ],
+  "authors": [
+    "Nyannya"
+  ],
+  "id": 101508,
+  "malId": 113005,
+  "type": "manga",
+  "title": "Jawbreaker",
+  "url": "https://anilist.co/manga/101508",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b101508-NDXgwLouiLGa.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:58.000Z",
+  "updatedAt": "2021-05-20T14:56:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cce125f9-a68d-4852-8d5a-3412243108ac": {
+        "authors": [
+          "Nyannya"
+        ],
+        "identifier": "cce125f9-a68d-4852-8d5a-3412243108ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jawbreaker",
+        "url": "https://mangadex.org/title/cce125f9-a68d-4852-8d5a-3412243108ac",
+        "image": "https://uploads.mangadex.org/covers/cce125f9-a68d-4852-8d5a-3412243108ac/51633dac-0844-4015-8fb8-a79796a03059.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113005,
+        "aniId": 101508,
+        "createdAt": "2020-10-12T16:11:54.000Z",
+        "updatedAt": "2021-06-05T11:59:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

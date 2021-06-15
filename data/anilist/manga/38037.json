@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Swan Lake",
+    "スワンレイク"
+  ],
+  "authors": [
+    "Tachibana Higuchi"
+  ],
+  "id": 38037,
+  "malId": 8037,
+  "type": "manga",
+  "title": "Swan Lake",
+  "url": "https://anilist.co/manga/38037",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8037.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:56.000Z",
+  "updatedAt": "2021-05-20T14:39:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac575777-2ee1-4058-96ce-7e3b65c8fba5": {
+        "authors": [
+          "Higuchi Tachibana"
+        ],
+        "identifier": "ac575777-2ee1-4058-96ce-7e3b65c8fba5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Swan Lake",
+        "url": "https://mangadex.org/title/ac575777-2ee1-4058-96ce-7e3b65c8fba5",
+        "image": "https://uploads.mangadex.org/covers/ac575777-2ee1-4058-96ce-7e3b65c8fba5/64eeec12-1ee8-495a-8a21-42c712a05d2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8037,
+        "aniId": 38037,
+        "createdAt": "2020-10-12T16:07:16.000Z",
+        "updatedAt": "2021-06-04T01:32:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

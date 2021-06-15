@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "15 Minutes",
+    "15분"
+  ],
+  "authors": [
+    "SWING"
+  ],
+  "id": 109393,
+  "malId": null,
+  "type": "manga",
+  "title": "15-bun",
+  "url": "https://anilist.co/manga/109393",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109393-TvEXpR7FOhu0.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-30T23:12:13.000Z",
+  "updatedAt": "2021-05-30T23:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80255518-d211-495e-87fc-a0cc007b639c": {
+        "authors": [
+          "Swing"
+        ],
+        "identifier": "80255518-d211-495e-87fc-a0cc007b639c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "15 Minutes",
+        "url": "https://mangadex.org/title/80255518-d211-495e-87fc-a0cc007b639c",
+        "image": "https://uploads.mangadex.org/covers/80255518-d211-495e-87fc-a0cc007b639c/e15261ed-1263-42e8-b52f-57ca6f5d826c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 109393,
+        "createdAt": "2020-10-12T16:15:03.000Z",
+        "updatedAt": "2021-06-06T10:21:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

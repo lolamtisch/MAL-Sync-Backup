@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "たとえ囚われの恋でも",
+    "Even if I'm in love with Captivity",
+    "Even if this is Love in Captivity"
+  ],
+  "authors": [
+    "CJ Michalski"
+  ],
+  "id": 32280,
+  "malId": 2280,
+  "type": "manga",
+  "title": "Tatoe Toraware no Koi demo",
+  "url": "https://anilist.co/manga/32280",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2280.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T19:19:50.000Z",
+  "updatedAt": "2021-06-06T19:19:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e30bebb9-bad1-4250-b3e7-93256962f5e8": {
+        "authors": [
+          "CJ Michalski"
+        ],
+        "identifier": "e30bebb9-bad1-4250-b3e7-93256962f5e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tatoe Toraware no Koi Demo",
+        "url": "https://mangadex.org/title/e30bebb9-bad1-4250-b3e7-93256962f5e8",
+        "image": "https://uploads.mangadex.org/covers/e30bebb9-bad1-4250-b3e7-93256962f5e8/87a42b52-0354-4e28-9f54-f8aae4d6fee7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2280,
+        "aniId": 32280,
+        "createdAt": "2020-10-12T16:16:02.000Z",
+        "updatedAt": "2021-06-06T19:22:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

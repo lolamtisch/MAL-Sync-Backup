@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Tomo Ninagawa"
+  ],
+  "id": 49764,
+  "malId": 19764,
+  "type": "manga",
+  "title": "Sword Dancer",
+  "url": "https://anilist.co/manga/49764",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19764.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T20:51:31.000Z",
+  "updatedAt": "2021-06-04T20:51:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8951967a-185b-484f-bbf9-9011eb96bb68": {
+        "authors": [
+          "NINAGAWA Tomo"
+        ],
+        "identifier": "8951967a-185b-484f-bbf9-9011eb96bb68",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sword Dancer",
+        "url": "https://mangadex.org/title/8951967a-185b-484f-bbf9-9011eb96bb68",
+        "image": "https://uploads.mangadex.org/covers/8951967a-185b-484f-bbf9-9011eb96bb68/9ed0806e-f9b7-4d08-8031-914baee19f26.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19764,
+        "aniId": 49764,
+        "createdAt": "2020-10-12T16:09:51.000Z",
+        "updatedAt": "2021-06-04T21:01:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

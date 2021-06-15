@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ウィンドブレイカ",
+    "WIND BREAKER"
+  ],
+  "authors": [
+    "Nii Satoru"
+  ],
+  "id": 135083,
+  "malId": 133081,
+  "type": "manga",
+  "title": "Wind Breaker",
+  "url": "https://anilist.co/manga/135083",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135083-TQbNFWKGJJHW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T04:48:57.000Z",
+  "updatedAt": "2021-06-04T07:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9eb78304-0436-484d-9a79-a925b45e2731": {
+        "authors": [
+          "Nii Satoru"
+        ],
+        "identifier": "9eb78304-0436-484d-9a79-a925b45e2731",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wind Breaker",
+        "url": "https://mangadex.org/title/9eb78304-0436-484d-9a79-a925b45e2731",
+        "image": "https://uploads.mangadex.org/covers/9eb78304-0436-484d-9a79-a925b45e2731/7cc9528d-0f38-4207-96d2-91778d895fcc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 133081,
+        "aniId": 135083,
+        "createdAt": "2021-01-16T15:33:03.000Z",
+        "updatedAt": "2021-06-08T11:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

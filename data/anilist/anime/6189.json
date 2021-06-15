@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "バトン"
+  ],
+  "id": 6189,
+  "malId": 6189,
+  "type": "anime",
+  "title": "Baton",
+  "url": "https://anilist.co/anime/6189",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6189.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:54.000Z",
+  "updatedAt": "2021-05-20T14:37:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "baton-2009": {
+        "identifier": "baton-2009",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Baton (2009)",
+        "url": "https://gogoanime.so/category/baton-2009",
+        "image": "https://cdnimg.xyz/images/29.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6189,
+        "aniId": 6189,
+        "createdAt": "2020-10-12T15:59:56.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "1836": {
+        "identifier": "1836",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Baton (GerSub)",
+        "url": "https://www.anime4you.one/show/1/aid/1836",
+        "image": "https://cdn.anime4you.one/covers/230518030305055802.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6189,
+        "aniId": 6189,
+        "createdAt": "2020-10-15T11:55:55.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ボッコンリンリ"
+  ],
+  "authors": [
+    "Keiko Iwashita"
+  ],
+  "id": 90478,
+  "malId": 66767,
+  "type": "manga",
+  "title": "Bokkonrinri",
+  "url": "https://anilist.co/manga/90478",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90478-nJzvfjtduFpi.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:57.000Z",
+  "updatedAt": "2021-05-20T14:50:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d513eb6f-ae93-47ee-9e46-68922ea8c292": {
+        "authors": [
+          "Iwashita Keiko"
+        ],
+        "identifier": "d513eb6f-ae93-47ee-9e46-68922ea8c292",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bokkonrinri",
+        "url": "https://mangadex.org/title/d513eb6f-ae93-47ee-9e46-68922ea8c292",
+        "image": "https://uploads.mangadex.org/covers/d513eb6f-ae93-47ee-9e46-68922ea8c292/eb81e83c-f3f9-4637-87c1-f7ae64f95f5a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66767,
+        "aniId": 90478,
+        "createdAt": "2020-10-12T16:07:10.000Z",
+        "updatedAt": "2021-06-04T00:52:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bokkonrinri": {
+        "authors": [
+          "Iwashita",
+          "Keiko"
+        ],
+        "identifier": "bokkonrinri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bokkonrinri",
+        "url": "https://manganelo.com/manga/bokkonrinri",
+        "image": "https://avt.mkklcdnv6temp.com/45/e/7-1583477987.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66767,
+        "aniId": 90478,
+        "createdAt": "2021-02-21T15:33:41.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

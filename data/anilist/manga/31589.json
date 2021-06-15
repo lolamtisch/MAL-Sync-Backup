@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "To Heart",
+    "トゥハート",
+    "ToHeart",
+    "To-Heart"
+  ],
+  "authors": [
+    "Aquaplus",
+    "Ukyou Kodachi"
+  ],
+  "id": 31589,
+  "malId": 1589,
+  "type": "manga",
+  "title": "To Heart",
+  "url": "https://anilist.co/manga/31589",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1589.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:47.000Z",
+  "updatedAt": "2021-05-20T14:36:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b4bd1b16-4424-41ae-af54-6cca7e59d165": {
+        "authors": [
+          "TAKAO Ukyou",
+          "AQUAPLUS"
+        ],
+        "identifier": "b4bd1b16-4424-41ae-af54-6cca7e59d165",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "To Heart",
+        "url": "https://mangadex.org/title/b4bd1b16-4424-41ae-af54-6cca7e59d165",
+        "image": "https://uploads.mangadex.org/covers/b4bd1b16-4424-41ae-af54-6cca7e59d165/66da99d0-6379-42c6-85fc-60488ffe14f0.gif",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1589,
+        "aniId": 31589,
+        "createdAt": "2020-10-12T16:11:59.000Z",
+        "updatedAt": "2021-06-05T12:30:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "インターバル・ゼロ"
+  ],
+  "authors": [
+    "Hal Suzukura",
+    "Naho Watarumi"
+  ],
+  "id": 75749,
+  "malId": 45749,
+  "type": "manga",
+  "title": "Interval Zero",
+  "url": "https://anilist.co/manga/75749",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45749.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:27.000Z",
+  "updatedAt": "2021-05-20T14:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5dfefe65-25f4-4a0e-a4dd-a10f6735029f": {
+        "authors": [
+          "Watarumi Naho",
+          "Suzukura Hal"
+        ],
+        "identifier": "5dfefe65-25f4-4a0e-a4dd-a10f6735029f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Interval Zero",
+        "url": "https://mangadex.org/title/5dfefe65-25f4-4a0e-a4dd-a10f6735029f",
+        "image": "https://uploads.mangadex.org/covers/5dfefe65-25f4-4a0e-a4dd-a10f6735029f/ba783a29-ce3c-4377-9f7d-f469001e27b0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45749,
+        "aniId": 75749,
+        "createdAt": "2020-10-12T16:06:23.000Z",
+        "updatedAt": "2021-06-03T19:12:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

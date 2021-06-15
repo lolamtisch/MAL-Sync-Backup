@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "A Family of Pedigree"
+  ],
+  "authors": [
+    "Wren Tamaquis"
+  ],
+  "id": 35379,
+  "malId": 5379,
+  "type": "manga",
+  "title": "Daigishi no Ichizoku",
+  "url": "https://anilist.co/manga/35379",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5379.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:28.000Z",
+  "updatedAt": "2021-05-20T14:39:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f777bf65-bd66-4108-bf6c-61a946e341e8": {
+        "authors": [
+          "Tamaquis Wren"
+        ],
+        "identifier": "f777bf65-bd66-4108-bf6c-61a946e341e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Daigishi no Ichizoku",
+        "url": "https://mangadex.org/title/f777bf65-bd66-4108-bf6c-61a946e341e8",
+        "image": "https://uploads.mangadex.org/covers/f777bf65-bd66-4108-bf6c-61a946e341e8/e4fea4fb-6c91-4e7f-9f8b-69815baf88f3.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5379,
+        "aniId": 35379,
+        "createdAt": "2020-10-12T16:11:57.000Z",
+        "updatedAt": "2021-06-05T12:11:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

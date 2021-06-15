@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "Glass Mask",
+    "ガラスの仮面"
+  ],
+  "id": 506,
+  "type": "anime",
+  "title": "Glass no Kamen",
+  "url": "https://myanimelist.net/anime/506/Glass_no_Kamen",
+  "image": "https://cdn.myanimelist.net/images/anime/6/39571.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-12-10T12:47:46.000Z",
+  "updatedAt": "2021-02-04T23:20:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "glass-mask": {
+        "identifier": "glass-mask",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Glass Mask",
+        "url": "https://www2.gogoanime.sh/category/glass-mask",
+        "image": "https://gogocdn.net/images/anime/G/glass-mask.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 506,
+        "aniId": 506,
+        "createdAt": "2020-10-12T16:00:32.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "3050": {
+        "identifier": "3050",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Glass no Kamen",
+        "url": "https://aniwatch.me/anime/3050",
+        "image": "https://img.aniwatch.me/E9F7F86B5AB286A0A05EF00427E42B33",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 506,
+        "aniId": 506,
+        "createdAt": "2020-12-31T13:07:34.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

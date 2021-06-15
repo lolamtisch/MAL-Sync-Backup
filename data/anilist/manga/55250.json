@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "The Voynich Hotel",
+    "ヴォイニッチホテル",
+    "Voinichi Hoteru",
+    "Voynich Hotel",
+    "Vovnich Hotel"
+  ],
+  "authors": [
+    "Sayman Dowman",
+    "Alethea Nibley",
+    "Athena Nibley"
+  ],
+  "id": 55250,
+  "malId": 25250,
+  "type": "manga",
+  "title": "The Voynich Hotel",
+  "url": "https://anilist.co/manga/55250",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx55250-B1fzMkTrEV9J.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f75812e9-27bb-44d5-9cb1-25de07ceb326": {
+        "authors": [
+          "Dowman Sayman"
+        ],
+        "identifier": "f75812e9-27bb-44d5-9cb1-25de07ceb326",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Voynich Hotel",
+        "url": "https://mangadex.org/title/f75812e9-27bb-44d5-9cb1-25de07ceb326",
+        "image": "https://uploads.mangadex.org/covers/f75812e9-27bb-44d5-9cb1-25de07ceb326/cfd34813-aa23-4605-b0df-52b10a401477.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25250,
+        "aniId": 55250,
+        "createdAt": "2020-10-12T16:04:03.000Z",
+        "updatedAt": "2021-06-02T18:18:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "the_voynich_hotel": {
+        "authors": [],
+        "identifier": "the_voynich_hotel",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Voynich Hotel",
+        "url": "https://manganelo.com/manga/the_voynich_hotel",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2064-the_voynich_hotel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25250,
+        "aniId": 55250,
+        "createdAt": "2020-10-12T16:25:43.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-voynich-hotel": {
+        "authors": [
+          "DOUMAN Seiman"
+        ],
+        "identifier": "the-voynich-hotel",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Voynich Hotel",
+        "url": "https://mangasee123.com/manga/The-Voynich-Hotel",
+        "image": "https://cover.nep.li/cover/The-Voynich-Hotel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 25250,
+        "aniId": 55250,
+        "createdAt": "2021-01-28T03:14:19.000Z",
+        "updatedAt": "2021-06-10T07:34:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

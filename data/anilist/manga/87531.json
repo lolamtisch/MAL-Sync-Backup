@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Red Sprite",
+    "レッドスプライト"
+  ],
+  "authors": [
+    "Tomohiro Yagi"
+  ],
+  "id": 87531,
+  "malId": 100876,
+  "type": "manga",
+  "title": "Red Sprite",
+  "url": "https://anilist.co/manga/87531",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87531-nSzzByEoJhKp.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:51.000Z",
+  "updatedAt": "2021-05-20T14:54:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc4f97c0-4641-4bb8-b31c-d7a3f9f43572": {
+        "authors": [
+          "Yagi Tomohiro"
+        ],
+        "identifier": "fc4f97c0-4641-4bb8-b31c-d7a3f9f43572",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Red Sprite",
+        "url": "https://mangadex.org/title/fc4f97c0-4641-4bb8-b31c-d7a3f9f43572",
+        "image": "https://uploads.mangadex.org/covers/fc4f97c0-4641-4bb8-b31c-d7a3f9f43572/f2784356-da24-4eac-9cd3-c8c04e802342.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100876,
+        "aniId": 87531,
+        "createdAt": "2020-10-12T16:10:05.000Z",
+        "updatedAt": "2021-06-04T22:09:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "red-sprite": {
+        "authors": [
+          "YAGI Tomohiro"
+        ],
+        "identifier": "red-sprite",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Red Sprite",
+        "url": "https://mangasee123.com/manga/Red-Sprite",
+        "image": "https://cover.nep.li/cover/Red-Sprite.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100876,
+        "aniId": 87531,
+        "createdAt": "2021-05-02T11:33:58.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

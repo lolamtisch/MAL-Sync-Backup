@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "愛涙家"
+  ],
+  "authors": [
+    "Kakeru Tsutsumi"
+  ],
+  "id": 88660,
+  "malId": 58699,
+  "type": "manga",
+  "title": "Airuika",
+  "url": "https://anilist.co/manga/88660",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88660-KKBPRYFBcCE1.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:33.000Z",
+  "updatedAt": "2021-06-03T22:19:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7fc10359-6015-43c8-b1b4-c7c4ade4d2e0": {
+        "authors": [
+          "TSUTSUMI Kakeru"
+        ],
+        "identifier": "7fc10359-6015-43c8-b1b4-c7c4ade4d2e0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Airuika",
+        "url": "https://mangadex.org/title/7fc10359-6015-43c8-b1b4-c7c4ade4d2e0",
+        "image": "https://uploads.mangadex.org/covers/7fc10359-6015-43c8-b1b4-c7c4ade4d2e0/f48318b6-bb18-4478-9a9c-d9cfcafac427.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58699,
+        "aniId": 88660,
+        "createdAt": "2020-10-12T16:06:45.000Z",
+        "updatedAt": "2021-06-03T22:40:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "airuika": {
+        "authors": [],
+        "identifier": "airuika",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Airuika",
+        "url": "https://manganelo.com/manga/airuika",
+        "image": "https://avt.mkklcdnv6.com/20/s/9-1583480904.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58699,
+        "aniId": 88660,
+        "createdAt": "2020-10-12T16:22:02.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

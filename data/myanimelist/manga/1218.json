@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Mahjong Legend Akagi",
+    "アカギ ～闇に降り立った天才～"
+  ],
+  "authors": [
+    "Fukumoto, Nobuyuki"
+  ],
+  "id": 1218,
+  "type": "manga",
+  "title": "Akagi: Yami ni Oritatta Tensai",
+  "url": "https://myanimelist.net/manga/1218/Akagi__Yami_ni_Oritatta_Tensai",
+  "image": "https://cdn.myanimelist.net/images/manga/2/191155.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:31.000Z",
+  "updatedAt": "2021-03-23T05:05:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e44a10a-8116-430a-9e17-ba4dd58b4137": {
+        "authors": [
+          "Fukumoto Nobuyuki"
+        ],
+        "identifier": "8e44a10a-8116-430a-9e17-ba4dd58b4137",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tohai Densetsu Akagi",
+        "url": "https://mangadex.org/title/8e44a10a-8116-430a-9e17-ba4dd58b4137",
+        "image": "https://uploads.mangadex.org/covers/8e44a10a-8116-430a-9e17-ba4dd58b4137/52ecbf44-b58d-4307-98e1-952889b5c593.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1218,
+        "aniId": 31218,
+        "createdAt": "2020-10-12T16:03:46.000Z",
+        "updatedAt": "2021-06-02T16:23:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akagi": {
+        "authors": [
+          "Fukumoto",
+          "Nobuyuki"
+        ],
+        "identifier": "akagi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akagi",
+        "url": "https://manganelo.com/manga/akagi",
+        "image": "https://avt.mkklcdnv6.com/9/d/1-1583464025.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1218,
+        "aniId": 31218,
+        "createdAt": "2020-11-12T08:45:43.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "akagi": {
+        "authors": [
+          "FUKUMOTO Nobuyuki"
+        ],
+        "identifier": "akagi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akagi",
+        "url": "https://mangasee123.com/manga/Akagi",
+        "image": "https://cover.nep.li/cover/Akagi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1218,
+        "aniId": 31218,
+        "createdAt": "2021-02-01T08:01:45.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

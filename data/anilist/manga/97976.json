@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Chiku Bingo★",
+    "チクBINGO★",
+    "Chiku Bingo★Kishiwada",
+    "Chikubi Ijou ni Kanjiru tte yo"
+  ],
+  "authors": [
+    "Asuka Ibuki"
+  ],
+  "id": 97976,
+  "malId": 100299,
+  "type": "manga",
+  "title": "Chiku Bingo★",
+  "url": "https://anilist.co/manga/97976",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97976-h2EWw4RMinel.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:54:49.000Z",
+  "updatedAt": "2021-05-20T14:54:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "24e588c7-fc5e-4c6d-b59b-3449fd34912b": {
+        "authors": [
+          "Ibuki Asuka"
+        ],
+        "identifier": "24e588c7-fc5e-4c6d-b59b-3449fd34912b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chiku Bingo",
+        "url": "https://mangadex.org/title/24e588c7-fc5e-4c6d-b59b-3449fd34912b",
+        "image": "https://uploads.mangadex.org/covers/24e588c7-fc5e-4c6d-b59b-3449fd34912b/ef2552c9-fef8-4e01-85e0-3205c3a93dd9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100299,
+        "aniId": 97976,
+        "createdAt": "2020-10-12T16:10:07.000Z",
+        "updatedAt": "2021-06-04T22:25:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chiku_bingo": {
+        "authors": [],
+        "identifier": "chiku_bingo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chiku Bingo",
+        "url": "https://manganelo.com/manga/chiku_bingo",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17346-chiku_bingo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100299,
+        "aniId": 97976,
+        "createdAt": "2020-10-12T16:22:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

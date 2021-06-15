@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "코커페이스"
+  ],
+  "authors": [
+    "Gi Ha Lee"
+  ],
+  "id": 48887,
+  "malId": 18887,
+  "type": "manga",
+  "title": "Pokerface",
+  "url": "https://anilist.co/manga/48887",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18887.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:15.000Z",
+  "updatedAt": "2021-06-04T03:49:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "76f44afe-2505-4bbc-b67d-2a9ed5913cce": {
+        "authors": [
+          "Lee Ki Ha"
+        ],
+        "identifier": "76f44afe-2505-4bbc-b67d-2a9ed5913cce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pokerface",
+        "url": "https://mangadex.org/title/76f44afe-2505-4bbc-b67d-2a9ed5913cce",
+        "image": "https://uploads.mangadex.org/covers/76f44afe-2505-4bbc-b67d-2a9ed5913cce/cfa49c9a-c57e-402e-9099-0a5d4164d5cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18887,
+        "aniId": 48887,
+        "createdAt": "2020-10-12T16:07:33.000Z",
+        "updatedAt": "2021-06-04T09:02:34.000Z",
+        "deletedAt": null
+      },
+      "c98ae4f9-036e-4721-99e6-7702bd6f1cf1": {
+        "authors": [
+          "Kurogane Ken"
+        ],
+        "identifier": "c98ae4f9-036e-4721-99e6-7702bd6f1cf1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Interface",
+        "url": "https://mangadex.org/title/c98ae4f9-036e-4721-99e6-7702bd6f1cf1",
+        "image": "https://uploads.mangadex.org/covers/c98ae4f9-036e-4721-99e6-7702bd6f1cf1/37444fe8-1a38-4d0b-9e77-352ff19ed1b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18887,
+        "aniId": 48887,
+        "createdAt": "2020-10-12T16:13:19.000Z",
+        "updatedAt": "2021-06-05T20:27:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

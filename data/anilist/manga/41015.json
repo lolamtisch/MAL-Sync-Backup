@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ホリデイ",
+    "Daydream World"
+  ],
+  "authors": [
+    "Yasuko"
+  ],
+  "id": 41015,
+  "malId": 11015,
+  "type": "manga",
+  "title": "Holiday",
+  "url": "https://anilist.co/manga/41015",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11015.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f9d8761-2e5f-4d9d-94a6-d121943071f0": {
+        "authors": [
+          "Yasuko"
+        ],
+        "identifier": "2f9d8761-2e5f-4d9d-94a6-d121943071f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Holiday",
+        "url": "https://mangadex.org/title/2f9d8761-2e5f-4d9d-94a6-d121943071f0",
+        "image": "https://uploads.mangadex.org/covers/2f9d8761-2e5f-4d9d-94a6-d121943071f0/a9b055e1-331e-4b75-9f1b-fe027ac2ec08.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11015,
+        "aniId": 41015,
+        "createdAt": "2020-10-12T16:03:47.000Z",
+        "updatedAt": "2021-06-02T16:31:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

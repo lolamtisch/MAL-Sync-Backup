@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "げーと! よんコマ",
+    "Gate! 4-koma"
+  ],
+  "authors": [
+    "Takumi Yanai",
+    "51-gou Kuiniji"
+  ],
+  "id": 93857,
+  "malId": 86101,
+  "type": "manga",
+  "title": "Gate! Yonkoma",
+  "url": "https://anilist.co/manga/93857",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93857-poEWa079VE8v.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:42.000Z",
+  "updatedAt": "2021-05-20T14:52:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52c82cd0-b92a-45fe-9da1-6c3c958e76ed": {
+        "authors": [
+          "",
+          "KoBi420"
+        ],
+        "identifier": "52c82cd0-b92a-45fe-9da1-6c3c958e76ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My life is Yonkoma.",
+        "url": "https://mangadex.org/title/52c82cd0-b92a-45fe-9da1-6c3c958e76ed",
+        "image": "https://uploads.mangadex.org/covers/52c82cd0-b92a-45fe-9da1-6c3c958e76ed/4b5efc56-2791-4b4a-b4bf-bfdaa8f8563f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86101,
+        "aniId": 93857,
+        "createdAt": "2020-10-12T16:15:16.000Z",
+        "updatedAt": "2021-06-06T12:10:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

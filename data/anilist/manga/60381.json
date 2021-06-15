@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "ヘルズキッチン"
+  ],
+  "authors": [
+    "Gumi Amazi",
+    "Mitsuru Nishimura"
+  ],
+  "id": 60381,
+  "malId": 30381,
+  "type": "manga",
+  "title": "Hell's Kitchen",
+  "url": "https://anilist.co/manga/60381",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30381.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:40.000Z",
+  "updatedAt": "2021-06-14T10:27:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d9968465-59e2-499e-9eb0-665bca52e5ce": {
+        "authors": [
+          "Amaji Gumi",
+          "Nishimura Mitsuru"
+        ],
+        "identifier": "d9968465-59e2-499e-9eb0-665bca52e5ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hell's Kitchen",
+        "url": "https://mangadex.org/title/d9968465-59e2-499e-9eb0-665bca52e5ce",
+        "image": "https://uploads.mangadex.org/covers/d9968465-59e2-499e-9eb0-665bca52e5ce/bc6df73c-f434-4b74-80a1-e7ba14d42a91.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30381,
+        "aniId": 60381,
+        "createdAt": "2020-10-12T16:03:08.000Z",
+        "updatedAt": "2021-06-02T12:02:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hells-kitchen": {
+        "authors": [
+          "AMASHI Gumi",
+          "NISHIMURA Mitsuru"
+        ],
+        "identifier": "hells-kitchen",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hell's Kitchen",
+        "url": "https://mangasee123.com/manga/Hells-Kitchen",
+        "image": "https://cover.nep.li/cover/Hells-Kitchen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30381,
+        "aniId": 60381,
+        "createdAt": "2020-12-22T00:26:04.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hell_s_kitchen": {
+        "authors": [
+          "NISHIMURA Mitsuru"
+        ],
+        "identifier": "hell_s_kitchen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hell's Kitchen",
+        "url": "https://fanfox.net/manga/hell_s_kitchen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9507/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30381,
+        "aniId": 60381,
+        "createdAt": "2021-04-22T06:29:41.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Jack the Ripper: Hell Blade",
+    "헬블레이드"
+  ],
+  "authors": [
+    "Je-Tae Yoo"
+  ],
+  "id": 50813,
+  "malId": 20813,
+  "type": "manga",
+  "title": "Hell Blade",
+  "url": "https://anilist.co/manga/50813",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b50813-26qtMxWIcxPL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:35.000Z",
+  "updatedAt": "2021-05-20T14:45:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4736b099-5c48-4f71-a0b9-dccd5cceaf3f": {
+        "authors": [
+          "JeTae Yoo"
+        ],
+        "identifier": "4736b099-5c48-4f71-a0b9-dccd5cceaf3f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hell Blade",
+        "url": "https://mangadex.org/title/4736b099-5c48-4f71-a0b9-dccd5cceaf3f",
+        "image": "https://uploads.mangadex.org/covers/4736b099-5c48-4f71-a0b9-dccd5cceaf3f/06d06bb5-8315-4b1f-90a1-42a5f215caa8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20813,
+        "aniId": 50813,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:39:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

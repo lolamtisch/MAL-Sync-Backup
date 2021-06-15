@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Senran Kagura: Skirting Shadows",
+    "閃乱カグラ 少女達の真影"
+  ],
+  "authors": [
+    "Takaki, Kenichirou",
+    "Takasume, Amami"
+  ],
+  "id": 33267,
+  "type": "manga",
+  "title": "Senran Kagura: Shoujo-tachi no Shinei",
+  "url": "https://myanimelist.net/manga/33267/Senran_Kagura__Shoujo-tachi_no_Shinei",
+  "image": "https://cdn.myanimelist.net/images/manga/2/86251.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:47.000Z",
+  "updatedAt": "2021-02-28T09:44:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "499ff60f-d77a-4244-9d19-5407d7fce74e": {
+        "authors": [
+          "TAKASUME Amami",
+          "TAKAKI Kenichiro"
+        ],
+        "identifier": "499ff60f-d77a-4244-9d19-5407d7fce74e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Senran Kagura - Shoujotachi no Shinei",
+        "url": "https://mangadex.org/title/499ff60f-d77a-4244-9d19-5407d7fce74e",
+        "image": "https://uploads.mangadex.org/covers/499ff60f-d77a-4244-9d19-5407d7fce74e/0b8cabcd-84ff-4291-ac1d-4c8ead48043b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33267,
+        "aniId": 63267,
+        "createdAt": "2020-10-12T16:04:05.000Z",
+        "updatedAt": "2021-06-02T18:34:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "senran-kagura-shoujotachi-no-shinei": {
+        "authors": [
+          "TAKAKI Kenichirou",
+          "TAKASUME Amami"
+        ],
+        "identifier": "senran-kagura-shoujotachi-no-shinei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Senran Kagura - Shoujotachi no Shinei",
+        "url": "https://mangasee123.com/manga/Senran-Kagura-Shoujotachi-No-Shinei",
+        "image": "https://cover.nep.li/cover/Senran-Kagura-Shoujotachi-No-Shinei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33267,
+        "aniId": 63267,
+        "createdAt": "2021-02-28T09:44:39.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

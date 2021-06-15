@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "いちばんほしいの",
+    "All I Want"
+  ],
+  "authors": [
+    "Yura Mitsuki"
+  ],
+  "id": 104196,
+  "malId": 114397,
+  "type": "manga",
+  "title": "Ichiban Hoshii No",
+  "url": "https://anilist.co/manga/104196",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104196-MmF8IR0Y005C.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:08.000Z",
+  "updatedAt": "2021-05-20T14:57:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "af10c4d2-f544-4db5-9e39-1b7a26de6cf8": {
+        "authors": [
+          "MITSUKI Yura"
+        ],
+        "identifier": "af10c4d2-f544-4db5-9e39-1b7a26de6cf8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichiban Hoshii No",
+        "url": "https://mangadex.org/title/af10c4d2-f544-4db5-9e39-1b7a26de6cf8",
+        "image": "https://uploads.mangadex.org/covers/af10c4d2-f544-4db5-9e39-1b7a26de6cf8/71f215b9-6dbc-42ae-9a52-4a2da8a5817c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114397,
+        "aniId": 104196,
+        "createdAt": "2020-10-12T16:13:27.000Z",
+        "updatedAt": "2021-06-05T21:28:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ichiban_hoshii_no": {
+        "authors": [],
+        "identifier": "ichiban_hoshii_no",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ichiban Hoshii No",
+        "url": "https://manganelo.com/manga/ichiban_hoshii_no",
+        "image": "https://avt.mkklcdnv6.com/34/g/16-1583494702.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114397,
+        "aniId": 104196,
+        "createdAt": "2020-10-12T16:23:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

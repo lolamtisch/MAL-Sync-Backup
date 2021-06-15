@@ -1,0 +1,61 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Nagai, Go"
+  ],
+  "id": 10734,
+  "type": "manga",
+  "title": "Hanappe Bazooka",
+  "url": "https://myanimelist.net/manga/10734/Hanappe_Bazooka",
+  "image": "https://cdn.myanimelist.net/images/manga/3/14430.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:29.000Z",
+  "updatedAt": "2021-05-01T00:04:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "811d5116-c6b5-40cd-b537-431c0185b13d": {
+        "authors": [
+          "Nagai Go",
+          "Koike Kazuo"
+        ],
+        "identifier": "811d5116-c6b5-40cd-b537-431c0185b13d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanappe Bazooka",
+        "url": "https://mangadex.org/title/811d5116-c6b5-40cd-b537-431c0185b13d",
+        "image": "https://uploads.mangadex.org/covers/811d5116-c6b5-40cd-b537-431c0185b13d/f86d3c64-0738-4e67-867a-7e42a6ff8f21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10734,
+        "aniId": 40734,
+        "createdAt": "2020-10-12T16:08:05.000Z",
+        "updatedAt": "2021-06-04T07:26:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hanappe_bazooka": {
+        "authors": [],
+        "identifier": "hanappe_bazooka",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hanappe Bazooka",
+        "url": "https://manganelo.com/manga/hanappe_bazooka",
+        "image": "https://avt.mkklcdnv6.com/8/q/8-1583478508.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10734,
+        "aniId": 40734,
+        "createdAt": "2020-10-12T16:23:15.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

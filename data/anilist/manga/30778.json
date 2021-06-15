@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Angel Diary",
+    "천행기",
+    "Destination Heaven Chronicles",
+    "天行記"
+  ],
+  "authors": [
+    "Kara",
+    "Yun-Hee Lee"
+  ],
+  "id": 30778,
+  "malId": 778,
+  "type": "manga",
+  "title": "Chunhengi",
+  "url": "https://anilist.co/manga/30778",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30778-jQWGEv1Xghwf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-05-20T14:35:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f0e3df13-3f70-4500-b6b3-437256cfd59e": {
+        "authors": [
+          "Lee Yun-Hee (이윤희)",
+          "Kara (카라)"
+        ],
+        "identifier": "f0e3df13-3f70-4500-b6b3-437256cfd59e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cheonhaenggi",
+        "url": "https://mangadex.org/title/f0e3df13-3f70-4500-b6b3-437256cfd59e",
+        "image": "https://uploads.mangadex.org/covers/f0e3df13-3f70-4500-b6b3-437256cfd59e/3e29df90-adf4-43a7-a89f-9623df14b80f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 778,
+        "aniId": 30778,
+        "createdAt": "2020-10-12T16:03:58.000Z",
+        "updatedAt": "2021-06-02T17:46:32.000Z",
+        "deletedAt": null
+      },
+      "199c6cfd-3d5b-4f92-8d10-fc829a5ae889": {
+        "authors": [
+          "Quỳnh-Thị-Chin"
+        ],
+        "identifier": "199c6cfd-3d5b-4f92-8d10-fc829a5ae889",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Diary",
+        "url": "https://mangadex.org/title/199c6cfd-3d5b-4f92-8d10-fc829a5ae889",
+        "image": "https://uploads.mangadex.org/covers/199c6cfd-3d5b-4f92-8d10-fc829a5ae889/26e1ea61-aa39-4ee5-8b20-d66d98701bcc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 778,
+        "aniId": 30778,
+        "createdAt": "2020-10-12T16:16:01.000Z",
+        "updatedAt": "2021-06-06T18:59:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "angel_diary": {
+        "authors": [
+          "LEE Yun Hee"
+        ],
+        "identifier": "angel_diary",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Angel Diary",
+        "url": "https://fanfox.net/manga/angel_diary/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/286/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 778,
+        "aniId": 30778,
+        "createdAt": "2021-05-20T20:44:49.000Z",
+        "updatedAt": "2021-05-20T21:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

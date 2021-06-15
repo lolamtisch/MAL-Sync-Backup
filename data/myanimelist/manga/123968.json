@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Weathering With You",
+    "天気の子"
+  ],
+  "authors": [
+    "Shinkai, Makoto",
+    "Kubota, Wataru"
+  ],
+  "id": 123968,
+  "type": "manga",
+  "title": "Tenki no Ko",
+  "url": "https://myanimelist.net/manga/123968/Tenki_no_Ko",
+  "image": "https://cdn.myanimelist.net/images/manga/2/226128.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:12.000Z",
+  "updatedAt": "2021-06-07T00:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0311b163-a021-4c27-bd26-3f83f280115f": {
+        "authors": [
+          "Shinkai Makoto",
+          "Kubota Wataru"
+        ],
+        "identifier": "0311b163-a021-4c27-bd26-3f83f280115f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenki no Ko",
+        "url": "https://mangadex.org/title/0311b163-a021-4c27-bd26-3f83f280115f",
+        "image": "https://uploads.mangadex.org/covers/0311b163-a021-4c27-bd26-3f83f280115f/0994d647-1e1d-4dc2-bc00-bbcd119bf145.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123968,
+        "aniId": 110218,
+        "createdAt": "2020-10-12T16:16:40.000Z",
+        "updatedAt": "2021-06-07T07:16:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jg920081": {
+        "authors": [],
+        "identifier": "jg920081",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tenki No Ko",
+        "url": "https://manganelo.com/manga/jg920081",
+        "image": "https://avt.mkklcdnv6.com/5/v/19-1583499301.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123968,
+        "aniId": 110218,
+        "createdAt": "2020-10-12T16:23:41.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "weathering-with-you": {
+        "authors": [
+          "SHINKAI Makoto"
+        ],
+        "identifier": "weathering-with-you",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Weathering with You",
+        "url": "https://mangasee123.com/manga/Weathering-with-You",
+        "image": "https://cover.nep.li/cover/Weathering-with-You.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123968,
+        "aniId": 110218,
+        "createdAt": "2020-12-19T23:29:18.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

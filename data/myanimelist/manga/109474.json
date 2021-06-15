@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "花といっくん"
+  ],
+  "authors": [
+    "Abe, Akane"
+  ],
+  "id": 109474,
+  "type": "manga",
+  "title": "Hana to Ikkun",
+  "url": "https://myanimelist.net/manga/109474/Hana_to_Ikkun",
+  "image": "https://cdn.myanimelist.net/images/manga/1/200432.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:15.000Z",
+  "updatedAt": "2021-03-23T02:04:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "85056221-4254-4db3-bda2-a45c25d1702c": {
+        "authors": [
+          "Abe Akane"
+        ],
+        "identifier": "85056221-4254-4db3-bda2-a45c25d1702c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana to Ikkun",
+        "url": "https://mangadex.org/title/85056221-4254-4db3-bda2-a45c25d1702c",
+        "image": "https://uploads.mangadex.org/covers/85056221-4254-4db3-bda2-a45c25d1702c/dea97e07-581c-40bc-92cc-fd897e7bd0f6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109474,
+        "aniId": 100100,
+        "createdAt": "2020-10-12T16:15:28.000Z",
+        "updatedAt": "2021-06-06T14:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hana_to_ikkun": {
+        "authors": [
+          "Abe",
+          "Akane"
+        ],
+        "identifier": "hana_to_ikkun",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hana To Ikkun",
+        "url": "https://manganelo.com/manga/hana_to_ikkun",
+        "image": "https://avt.mkklcdnv6temp.com/27/m/15-1583492445.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109474,
+        "aniId": 100100,
+        "createdAt": "2021-03-23T02:04:59.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

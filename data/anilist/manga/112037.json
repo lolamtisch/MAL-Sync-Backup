@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "マネセク"
+  ],
+  "authors": [
+    "Tadataka Kawasaki"
+  ],
+  "id": 112037,
+  "malId": 91693,
+  "type": "manga",
+  "title": "Mane Seku",
+  "url": "https://anilist.co/manga/112037",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112037-B8Mh8gBXVfhP.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:53:36.000Z",
+  "updatedAt": "2021-05-20T14:53:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "29c6c224-1d79-4c9f-be0a-440927efe809": {
+        "authors": [
+          "TDTK",
+          "Kawasaki Tadataka"
+        ],
+        "identifier": "29c6c224-1d79-4c9f-be0a-440927efe809",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mane Seku",
+        "url": "https://mangadex.org/title/29c6c224-1d79-4c9f-be0a-440927efe809",
+        "image": "https://uploads.mangadex.org/covers/29c6c224-1d79-4c9f-be0a-440927efe809/59346080-831e-4984-9c7d-bd6104d273a6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91693,
+        "aniId": 112037,
+        "createdAt": "2020-10-12T16:14:31.000Z",
+        "updatedAt": "2021-06-06T05:43:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

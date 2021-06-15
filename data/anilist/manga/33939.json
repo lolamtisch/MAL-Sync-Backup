@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ミスティボーイ"
+  ],
+  "authors": [
+    "Koi Ikeno"
+  ],
+  "id": 33939,
+  "malId": 3939,
+  "type": "manga",
+  "title": "Misty Boy",
+  "url": "https://anilist.co/manga/33939",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3939.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:22.000Z",
+  "updatedAt": "2021-05-20T14:38:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f260dd5f-ee6c-47d4-b984-5888378aadcb": {
+        "authors": [
+          "IKENO Koi"
+        ],
+        "identifier": "f260dd5f-ee6c-47d4-b984-5888378aadcb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Misty Boy",
+        "url": "https://mangadex.org/title/f260dd5f-ee6c-47d4-b984-5888378aadcb",
+        "image": "https://uploads.mangadex.org/covers/f260dd5f-ee6c-47d4-b984-5888378aadcb/640e99a8-793d-48ac-8808-b9f9d0ecb311.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3939,
+        "aniId": 33939,
+        "createdAt": "2020-10-12T16:06:24.000Z",
+        "updatedAt": "2021-06-03T19:29:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

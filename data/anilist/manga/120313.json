@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Super Cube",
+    "超能立方"
+  ],
+  "authors": [
+    "Shuiluo Sheng Sheng"
+  ],
+  "id": 120313,
+  "malId": null,
+  "type": "manga",
+  "title": "Chao Neng Lifang",
+  "url": "https://anilist.co/manga/120313",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120313-lWIUxQEGUmVA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T03:08:18.000Z",
+  "updatedAt": "2021-06-07T18:36:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e374b18-7ac0-45d6-87f5-761549711a77": {
+        "authors": [
+          "",
+          "水落声声"
+        ],
+        "identifier": "8e374b18-7ac0-45d6-87f5-761549711a77",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Super Cube",
+        "url": "https://mangadex.org/title/8e374b18-7ac0-45d6-87f5-761549711a77",
+        "image": "https://uploads.mangadex.org/covers/8e374b18-7ac0-45d6-87f5-761549711a77/de8a7ab9-2335-4bbf-aaa8-f512af282b28.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120313,
+        "createdAt": "2020-10-12T16:18:37.000Z",
+        "updatedAt": "2021-06-07T19:20:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

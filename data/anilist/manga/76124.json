@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "とりかえ風花伝"
+  ],
+  "authors": [
+    "Nozomi Yanahara"
+  ],
+  "id": 76124,
+  "malId": 46124,
+  "type": "manga",
+  "title": "Torikae Fuukaden",
+  "url": "https://anilist.co/manga/76124",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46124.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:29.000Z",
+  "updatedAt": "2021-05-20T14:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31eb7e0a-9cfc-441c-af9b-deda00f08046": {
+        "authors": [
+          "YANAHARA Nozomi"
+        ],
+        "identifier": "31eb7e0a-9cfc-441c-af9b-deda00f08046",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Torikae Fuukaden",
+        "url": "https://mangadex.org/title/31eb7e0a-9cfc-441c-af9b-deda00f08046",
+        "image": "https://uploads.mangadex.org/covers/31eb7e0a-9cfc-441c-af9b-deda00f08046/9dea8257-fbb7-437c-8192-cf30e61926c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46124,
+        "aniId": 76124,
+        "createdAt": "2020-10-12T16:05:40.000Z",
+        "updatedAt": "2021-06-03T14:07:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "torikae_fuukaden": {
+        "authors": [
+          "Yanahara",
+          "Nozomi"
+        ],
+        "identifier": "torikae_fuukaden",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Torikae Fuukaden",
+        "url": "https://manganelo.com/manga/torikae_fuukaden",
+        "image": "https://avt.mkklcdnv6temp.com/31/d/7-1583477441.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46124,
+        "aniId": 76124,
+        "createdAt": "2021-02-18T16:13:53.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

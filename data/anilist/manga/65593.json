@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "교수인형",
+    "Kyosuinhyung",
+    "Hanged Doll"
+  ],
+  "authors": [
+    "Team Getname"
+  ],
+  "id": 65593,
+  "malId": 35593,
+  "type": "manga",
+  "title": "Gyosuinhyeong",
+  "url": "https://anilist.co/manga/65593",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b65593-gWVWxSRI3BRT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:25.000Z",
+  "updatedAt": "2021-05-20T14:48:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0eaad33d-0ef0-4ed6-b18f-156ef140ce55": {
+        "authors": [
+          "Team Getname"
+        ],
+        "identifier": "0eaad33d-0ef0-4ed6-b18f-156ef140ce55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanged Doll",
+        "url": "https://mangadex.org/title/0eaad33d-0ef0-4ed6-b18f-156ef140ce55",
+        "image": "https://uploads.mangadex.org/covers/0eaad33d-0ef0-4ed6-b18f-156ef140ce55/7ab47d63-9825-4994-84ef-5437dd05afd0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35593,
+        "aniId": 65593,
+        "createdAt": "2020-10-12T16:04:29.000Z",
+        "updatedAt": "2021-06-02T21:18:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

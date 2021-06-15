@@ -1,0 +1,40 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Aoki, Sou"
+  ],
+  "id": 6576,
+  "type": "manga",
+  "title": "Happy Days",
+  "url": "https://myanimelist.net/manga/6576/Happy_Days",
+  "image": "https://cdn.myanimelist.net/images/manga/1/8778.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T17:19:09.000Z",
+  "updatedAt": "2021-06-05T17:19:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a5816fe-35f9-4225-98a6-b4e86fd1926e": {
+        "authors": [
+          "Aoki Sou"
+        ],
+        "identifier": "8a5816fe-35f9-4225-98a6-b4e86fd1926e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Happy Days",
+        "url": "https://mangadex.org/title/8a5816fe-35f9-4225-98a6-b4e86fd1926e",
+        "image": "https://uploads.mangadex.org/covers/8a5816fe-35f9-4225-98a6-b4e86fd1926e/f56207e6-2929-45fa-8fab-27972b5364af.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6576,
+        "aniId": 36576,
+        "createdAt": "2020-10-12T16:12:51.000Z",
+        "updatedAt": "2021-06-05T17:55:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

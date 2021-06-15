@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ディア、マイゴッド",
+    "Hanabanashi",
+    "My God"
+  ],
+  "authors": [
+    "Nemui Asada"
+  ],
+  "id": 87390,
+  "malId": 96637,
+  "type": "manga",
+  "title": "Dear, My God",
+  "url": "https://anilist.co/manga/87390",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87390-1sNUMuLIjZ7a.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:54:06.000Z",
+  "updatedAt": "2021-05-20T14:54:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f1542913-9426-4c0d-8ea5-efbd0bc78a56": {
+        "authors": [
+          "Asada Nemui"
+        ],
+        "identifier": "f1542913-9426-4c0d-8ea5-efbd0bc78a56",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dear, My God",
+        "url": "https://mangadex.org/title/f1542913-9426-4c0d-8ea5-efbd0bc78a56",
+        "image": "https://uploads.mangadex.org/covers/f1542913-9426-4c0d-8ea5-efbd0bc78a56/f5997f57-b54b-46e8-9885-60d8535d20e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96637,
+        "aniId": 87390,
+        "createdAt": "2020-10-12T16:09:36.000Z",
+        "updatedAt": "2021-06-04T18:45:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ku922494": {
+        "authors": [],
+        "identifier": "ku922494",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Dear Sponsor",
+        "url": "https://manganelo.com/manga/ku922494",
+        "image": "https://avt.mkklcdnv6.com/46/c/20-1584678426.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96637,
+        "aniId": 87390,
+        "createdAt": "2020-10-12T16:24:01.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

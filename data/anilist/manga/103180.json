@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Mob Psycho 100: Reigen",
+    "REIGEN ～霊級値MAX131の男～"
+  ],
+  "authors": [
+    "ONE"
+  ],
+  "id": 103180,
+  "malId": 113360,
+  "type": "manga",
+  "title": "Reigen: Reikyuuchi Max 131 no Otoko",
+  "url": "https://anilist.co/manga/103180",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103180-aTMoIJks2To5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-05-20T14:33:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3a4f78b-a2c1-490a-9ec0-cdffe21f8f70": {
+        "authors": [
+          "ONE"
+        ],
+        "identifier": "c3a4f78b-a2c1-490a-9ec0-cdffe21f8f70",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "REIGEN",
+        "url": "https://mangadex.org/title/c3a4f78b-a2c1-490a-9ec0-cdffe21f8f70",
+        "image": "https://uploads.mangadex.org/covers/c3a4f78b-a2c1-490a-9ec0-cdffe21f8f70/b454c07c-e433-4ee7-9ab0-4faff7078639.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113360,
+        "aniId": 103180,
+        "createdAt": "2020-10-12T16:11:32.000Z",
+        "updatedAt": "2021-06-05T09:08:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "reigen": {
+        "authors": [],
+        "identifier": "reigen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Reigen",
+        "url": "https://manganelo.com/manga/reigen",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20905-reigen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113360,
+        "aniId": 103180,
+        "createdAt": "2020-10-12T16:25:09.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "reigen": {
+        "authors": [
+          "ONE"
+        ],
+        "identifier": "reigen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Reigen",
+        "url": "https://fanfox.net/manga/reigen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28480/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 113360,
+        "aniId": 103180,
+        "createdAt": "2021-05-11T06:12:33.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

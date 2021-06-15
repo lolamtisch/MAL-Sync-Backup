@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Something Old, Something New",
+    "風の歌を聞け",
+    "Hear the Wind Sing"
+  ],
+  "authors": [
+    "Junko Okada",
+    "Donna Sterling"
+  ],
+  "id": 54649,
+  "malId": 24649,
+  "type": "manga",
+  "title": "Kaze no Uta wo Kike",
+  "url": "https://anilist.co/manga/54649",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24649.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T01:19:19.000Z",
+  "updatedAt": "2021-06-04T01:19:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "207beece-6de0-4537-865b-a4c420597b0a": {
+        "authors": [
+          "Donna Sterling",
+          "Okada Junko"
+        ],
+        "identifier": "207beece-6de0-4537-865b-a4c420597b0a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaze no Uta wo Kike",
+        "url": "https://mangadex.org/title/207beece-6de0-4537-865b-a4c420597b0a",
+        "image": "https://uploads.mangadex.org/covers/207beece-6de0-4537-865b-a4c420597b0a/1f6274be-3e6e-4e05-881b-515f16db6bff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24649,
+        "aniId": 54649,
+        "createdAt": "2020-10-12T16:07:11.000Z",
+        "updatedAt": "2021-06-04T08:46:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

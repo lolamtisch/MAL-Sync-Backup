@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "誰にも言えない",
+    "Dare ni mo Ienai",
+    "Dare Nimo Ienai",
+    "I Can't Tell Anyone"
+  ],
+  "authors": [
+    "Kaya Shigisawa"
+  ],
+  "id": 65767,
+  "malId": 35767,
+  "type": "manga",
+  "title": "Darenimo Ienai",
+  "url": "https://anilist.co/manga/65767",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35767.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:25.000Z",
+  "updatedAt": "2021-05-20T14:48:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bfbc56c8-8d0e-418d-87d0-47d3f80024a2": {
+        "authors": [
+          "SHIGISAWA Kaya"
+        ],
+        "identifier": "bfbc56c8-8d0e-418d-87d0-47d3f80024a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dare nimo Ienai",
+        "url": "https://mangadex.org/title/bfbc56c8-8d0e-418d-87d0-47d3f80024a2",
+        "image": "https://uploads.mangadex.org/covers/bfbc56c8-8d0e-418d-87d0-47d3f80024a2/ae34935b-1bac-4b26-9c94-9c4aa1bfac30.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35767,
+        "aniId": 65767,
+        "createdAt": "2020-10-12T16:05:04.000Z",
+        "updatedAt": "2021-06-03T10:01:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "darenimo_ienai": {
+        "authors": [
+          "Shigisawa",
+          "Kaya"
+        ],
+        "identifier": "darenimo_ienai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Darenimo Ienai",
+        "url": "https://manganelo.com/manga/darenimo_ienai",
+        "image": "https://avt.mkklcdnv6.com/26/v/6-1583475235.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35767,
+        "aniId": 65767,
+        "createdAt": "2020-12-15T11:18:53.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

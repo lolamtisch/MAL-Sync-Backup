@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Girls Monochrome",
+    "GirlsMonochrome"
+  ],
+  "authors": [
+    "Chisako"
+  ],
+  "id": 92138,
+  "malId": 75159,
+  "type": "manga",
+  "title": "Girls Monochrome",
+  "url": "https://anilist.co/manga/92138",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92138-mhqogGg5fxQD.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:44.000Z",
+  "updatedAt": "2021-05-20T14:51:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "880d0b59-dc0b-4b4a-9244-603e86c5989b": {
+        "authors": [
+          "Chisako"
+        ],
+        "identifier": "880d0b59-dc0b-4b4a-9244-603e86c5989b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girls Monochrome",
+        "url": "https://mangadex.org/title/880d0b59-dc0b-4b4a-9244-603e86c5989b",
+        "image": "https://uploads.mangadex.org/covers/880d0b59-dc0b-4b4a-9244-603e86c5989b/990adb40-87c3-46c0-8699-6f5fd1da1300.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75159,
+        "aniId": 92138,
+        "createdAt": "2020-10-12T16:12:46.000Z",
+        "updatedAt": "2021-06-05T16:12:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

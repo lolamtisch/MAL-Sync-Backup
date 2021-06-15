@@ -1,0 +1,60 @@
+{
+  "altTitle": [
+    "坊っちゃん",
+    "Student Days",
+    "Bot-chan",
+    "The Young Master",
+    "Bocchan"
+  ],
+  "id": 4680,
+  "malId": 4680,
+  "type": "anime",
+  "title": "Botchan",
+  "url": "https://anilist.co/anime/4680",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4680.jpg",
+  "category": "special",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:37.000Z",
+  "updatedAt": "2021-05-20T14:37:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "bocchan": {
+        "identifier": "bocchan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bocchan",
+        "url": "https://gogoanime.so/category/bocchan",
+        "image": "https://gogocdn.net/cover/bocchan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4680,
+        "aniId": 4680,
+        "createdAt": "2020-12-01T07:22:36.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "7n58": {
+        "identifier": "7n58",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bocchan",
+        "url": "https://www12.9anime.to/watch/botchan.7n58",
+        "image": "//static.9anime.to/i/cache/images/d/d4/d4fc737cd2203f446628bdb26c97a387.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4680,
+        "aniId": 4680,
+        "createdAt": "2020-12-09T14:10:01.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

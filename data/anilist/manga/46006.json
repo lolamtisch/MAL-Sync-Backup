@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Diamond Beat",
+    "ダイヤモンドビート"
+  ],
+  "authors": [
+    "Yuka Shibano"
+  ],
+  "id": 46006,
+  "malId": 16006,
+  "type": "manga",
+  "title": "Diamond Beat",
+  "url": "https://anilist.co/manga/46006",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16006.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:51:18.000Z",
+  "updatedAt": "2021-06-04T16:51:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "205e75e8-3d76-452f-b601-110d2aff31f9": {
+        "authors": [
+          "SHIBANO Yuka"
+        ],
+        "identifier": "205e75e8-3d76-452f-b601-110d2aff31f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Diamond Beat",
+        "url": "https://mangadex.org/title/205e75e8-3d76-452f-b601-110d2aff31f9",
+        "image": "https://uploads.mangadex.org/covers/205e75e8-3d76-452f-b601-110d2aff31f9/856ec971-251b-4e11-85e6-1b85b5162294.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16006,
+        "aniId": 46006,
+        "createdAt": "2020-10-12T16:09:19.000Z",
+        "updatedAt": "2021-06-04T18:34:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

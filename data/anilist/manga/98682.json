@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "완벽한 허니문",
+    "Perfect Honeymoon",
+    "Wanbyeoghan Honeymoon",
+    "Wanbyeokhan Honeymoon"
+  ],
+  "authors": [
+    "Hua-Ryu Dongpung",
+    "Yetsaram"
+  ],
+  "id": 98682,
+  "malId": 124040,
+  "type": "manga",
+  "title": "Wanbyeokan Honeymoon",
+  "url": "https://anilist.co/manga/98682",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98682-wyZ4vgVny5W1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:03.000Z",
+  "updatedAt": "2021-05-20T14:59:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dbaef90b-7bf6-45aa-a0f3-a83a848b486c": {
+        "authors": [
+          "Yaet Saram",
+          "Hua-Ryu Dongpung"
+        ],
+        "identifier": "dbaef90b-7bf6-45aa-a0f3-a83a848b486c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Perfect Honeymoon",
+        "url": "https://mangadex.org/title/dbaef90b-7bf6-45aa-a0f3-a83a848b486c",
+        "image": "https://uploads.mangadex.org/covers/dbaef90b-7bf6-45aa-a0f3-a83a848b486c/d0eb6412-9190-441a-9c9e-e031c7e1e3c2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 124040,
+        "aniId": 98682,
+        "createdAt": "2020-10-12T16:10:35.000Z",
+        "updatedAt": "2021-06-05T09:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "perfect_honeymoon": {
+        "authors": [
+          "Hua-Ryu",
+          "Dongpung"
+        ],
+        "identifier": "perfect_honeymoon",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Perfect Honeymoon",
+        "url": "https://manganelo.com/manga/perfect_honeymoon",
+        "image": "https://avt.mkklcdnv6.com/15/e/15-1583492008.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124040,
+        "aniId": 98682,
+        "createdAt": "2021-01-15T11:32:40.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

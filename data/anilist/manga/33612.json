@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "目を閉じておいでよ"
+  ],
+  "authors": [
+    "Reiichi Hiiro"
+  ],
+  "id": 33612,
+  "malId": 3612,
+  "type": "manga",
+  "title": "Me wo Tojite Oide yo",
+  "url": "https://anilist.co/manga/33612",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3612.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:13.000Z",
+  "updatedAt": "2021-05-20T14:38:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1588416a-8363-4754-bafb-4ccc1b4116f3": {
+        "authors": [
+          "Hiiro Reiichi"
+        ],
+        "identifier": "1588416a-8363-4754-bafb-4ccc1b4116f3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Me wo Tojite Oide yo",
+        "url": "https://mangadex.org/title/1588416a-8363-4754-bafb-4ccc1b4116f3",
+        "image": "https://uploads.mangadex.org/covers/1588416a-8363-4754-bafb-4ccc1b4116f3/e8e7fd7b-6413-4eb3-a94c-550294d0ee92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3612,
+        "aniId": 33612,
+        "createdAt": "2020-10-12T18:14:15.000Z",
+        "updatedAt": "2021-06-08T05:25:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

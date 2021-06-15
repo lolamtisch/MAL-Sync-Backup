@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "征服者",
+    "Gaze",
+    "Conqueror",
+    "Seifukusha-Gaze"
+  ],
+  "authors": [
+    "Chouko Kabutomaru"
+  ],
+  "id": 33018,
+  "malId": 3018,
+  "type": "manga",
+  "title": "Seifukusha",
+  "url": "https://anilist.co/manga/33018",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3018.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:02.000Z",
+  "updatedAt": "2021-05-20T14:38:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "87b66742-ec26-4fa3-80ca-63f9d0eaa022": {
+        "authors": [
+          "Kabutomaru Chouko"
+        ],
+        "identifier": "87b66742-ec26-4fa3-80ca-63f9d0eaa022",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seifukusha",
+        "url": "https://mangadex.org/title/87b66742-ec26-4fa3-80ca-63f9d0eaa022",
+        "image": "https://uploads.mangadex.org/covers/87b66742-ec26-4fa3-80ca-63f9d0eaa022/9ea0901e-2231-4b15-9833-f5208afdc66b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3018,
+        "aniId": 33018,
+        "createdAt": "2020-11-24T08:56:51.000Z",
+        "updatedAt": "2021-06-08T07:37:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "seifukusha_gaze": {
+        "authors": [
+          "KABUTOMARU Chouko"
+        ],
+        "identifier": "seifukusha_gaze",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seifukusha-Gaze",
+        "url": "https://fanfox.net/manga/seifukusha_gaze/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4152/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3018,
+        "aniId": 33018,
+        "createdAt": "2021-05-20T21:15:40.000Z",
+        "updatedAt": "2021-05-20T21:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

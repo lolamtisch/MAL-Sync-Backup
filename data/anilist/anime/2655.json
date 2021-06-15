@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "ドラえもん のび太とロボット王国",
+    "Doraemon: Nobita & Robot Kingdom",
+    "Doraemon: Nobita's Robot Kingdom",
+    "Doraemon Movie 23: Nobita to Robot Kingdom",
+    "Doraemon the Movie: Nobita in the Robot Kingdom"
+  ],
+  "id": 2655,
+  "malId": 2655,
+  "type": "anime",
+  "title": "Doraemon: Nobita to Robot Oukoku",
+  "url": "https://anilist.co/anime/2655",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2655-Q5IKupd2pN98.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:24.000Z",
+  "updatedAt": "2021-05-20T14:36:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "doraemon-nobita-and-the-robot-army": {
+        "identifier": "doraemon-nobita-and-the-robot-army",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Doraemon: Nobita and the Robot Army",
+        "url": "https://gogoanime.so/category/doraemon-nobita-and-the-robot-army",
+        "image": "https://gogocdn.net/images/anime/D/Doraemon-Nobita-and-the-Robot-Army.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 2655,
+        "aniId": 2655,
+        "createdAt": "2020-11-27T16:02:04.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

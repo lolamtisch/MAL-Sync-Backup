@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Miss Yuzumori",
+    "柚子森さん"
+  ],
+  "authors": [
+    "Ejima, Eri"
+  ],
+  "id": 99351,
+  "type": "manga",
+  "title": "Yuzumori-san",
+  "url": "https://myanimelist.net/manga/99351/Yuzumori-san",
+  "image": "https://cdn.myanimelist.net/images/manga/1/186042.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:32.000Z",
+  "updatedAt": "2021-05-03T15:33:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4fec2716-6105-45c1-95f9-ae1e94cd5287": {
+        "authors": [
+          "Ejima Eri"
+        ],
+        "identifier": "4fec2716-6105-45c1-95f9-ae1e94cd5287",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuzumori-san",
+        "url": "https://mangadex.org/title/4fec2716-6105-45c1-95f9-ae1e94cd5287",
+        "image": "https://uploads.mangadex.org/covers/4fec2716-6105-45c1-95f9-ae1e94cd5287/a46d0014-9e35-4fa1-a201-fd2f8a0a9cd8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99351,
+        "aniId": 87451,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:25:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yuzumorisan": {
+        "authors": [
+          "Ejima",
+          "Eri"
+        ],
+        "identifier": "yuzumorisan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yuzumori-San",
+        "url": "https://manganelo.com/manga/yuzumorisan",
+        "image": "https://avt.mkklcdnv6temp.com/50/s/13-1583489709.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99351,
+        "aniId": 87451,
+        "createdAt": "2021-05-03T15:33:37.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

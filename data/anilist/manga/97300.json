@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ふくまでん"
+  ],
+  "authors": [
+    "Cool-kyou Shinja"
+  ],
+  "id": 97300,
+  "malId": 98946,
+  "type": "manga",
+  "title": "Fukumaden",
+  "url": "https://anilist.co/manga/97300",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97300-KKjROZBqnyM0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:39.000Z",
+  "updatedAt": "2021-05-20T14:54:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64083e47-2914-4c43-a907-7f794eb1b876": {
+        "authors": [
+          "Cool Kyoushinsha"
+        ],
+        "identifier": "64083e47-2914-4c43-a907-7f794eb1b876",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fukumaden",
+        "url": "https://mangadex.org/title/64083e47-2914-4c43-a907-7f794eb1b876",
+        "image": "https://uploads.mangadex.org/covers/64083e47-2914-4c43-a907-7f794eb1b876/940b717e-f847-4df0-8b93-ca29e678a814.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98946,
+        "aniId": 97300,
+        "createdAt": "2020-10-12T16:10:02.000Z",
+        "updatedAt": "2021-06-04T21:53:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

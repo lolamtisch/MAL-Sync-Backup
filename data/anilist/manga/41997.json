@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "猫mix幻奇譚とらじ",
+    "Adventure of Cat Mix Toraji",
+    "Neko Mix Maboroshikitan Toraji",
+    "A Cat Mix's Illusory Tale: Toraji",
+    "Toraji Phiêu Lưu Ký",
+    "魔法貓奇譚"
+  ],
+  "authors": [
+    "Yumi Tamura"
+  ],
+  "id": 41997,
+  "malId": 11997,
+  "type": "manga",
+  "title": "Neko Mix Genkitan Toraji",
+  "url": "https://anilist.co/manga/41997",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41997-f9GOTPqf5V4G.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:16.000Z",
+  "updatedAt": "2021-05-20T14:42:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "34c4c281-d0a9-4a28-b64c-2b99fe9ed432": {
+        "authors": [
+          "Tamura Yumi"
+        ],
+        "identifier": "34c4c281-d0a9-4a28-b64c-2b99fe9ed432",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko Mix Genkitan Toraji",
+        "url": "https://mangadex.org/title/34c4c281-d0a9-4a28-b64c-2b99fe9ed432",
+        "image": "https://uploads.mangadex.org/covers/34c4c281-d0a9-4a28-b64c-2b99fe9ed432/0ad19d88-eb8a-4661-8336-60c902cb69cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11997,
+        "aniId": 41997,
+        "createdAt": "2020-10-12T16:03:35.000Z",
+        "updatedAt": "2021-06-02T15:04:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "neko_mix_genkitan_toraji": {
+        "authors": [],
+        "identifier": "neko_mix_genkitan_toraji",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Neko Mix Genkitan Toraji",
+        "url": "https://manganelo.com/manga/neko_mix_genkitan_toraji",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/301-neko_mix_genkitan_toraji.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11997,
+        "aniId": 41997,
+        "createdAt": "2020-10-12T16:24:30.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

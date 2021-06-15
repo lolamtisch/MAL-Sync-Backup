@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "トモダチログイン"
+  ],
+  "authors": [
+    "Itou, Nanami"
+  ],
+  "id": 56433,
+  "type": "manga",
+  "title": "Tomodachi Login",
+  "url": "https://myanimelist.net/manga/56433/Tomodachi_Login",
+  "image": "https://cdn.myanimelist.net/images/manga/2/167376.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:48.000Z",
+  "updatedAt": "2021-05-29T19:42:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f4a58bbb-6bc1-415a-a8db-bfa802279394": {
+        "authors": [
+          "Itou Nanami"
+        ],
+        "identifier": "f4a58bbb-6bc1-415a-a8db-bfa802279394",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tomodachi Login",
+        "url": "https://mangadex.org/title/f4a58bbb-6bc1-415a-a8db-bfa802279394",
+        "image": "https://uploads.mangadex.org/covers/f4a58bbb-6bc1-415a-a8db-bfa802279394/40aaee1c-1d7e-47ab-af97-5208676231f8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56433,
+        "aniId": 85159,
+        "createdAt": "2020-10-12T16:06:37.000Z",
+        "updatedAt": "2021-06-03T20:58:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tomodachi_login": {
+        "authors": [
+          "Itou",
+          "Nanami"
+        ],
+        "identifier": "tomodachi_login",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tomodachi Login",
+        "url": "https://manganelo.com/manga/tomodachi_login",
+        "image": "https://avt.mkklcdnv6.com/19/g/3-1583468424.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56433,
+        "aniId": 85159,
+        "createdAt": "2020-11-29T14:53:07.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tomodachi-login": {
+        "authors": [
+          "ITOU Nanami"
+        ],
+        "identifier": "tomodachi-login",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tomodachi Login",
+        "url": "https://mangasee123.com/manga/Tomodachi-Login",
+        "image": "https://cover.nep.li/cover/Tomodachi-Login.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56433,
+        "aniId": 85159,
+        "createdAt": "2021-03-28T15:20:12.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

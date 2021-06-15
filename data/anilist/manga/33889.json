@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Magical JxR",
+    "매지컬 JR"
+  ],
+  "authors": [
+    "Sun-Young Lee"
+  ],
+  "id": 33889,
+  "malId": 3889,
+  "type": "manga",
+  "title": "Magical JxR",
+  "url": "https://anilist.co/manga/33889",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3889.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "631f3306-9045-4611-aed7-87b46f6b9727": {
+        "authors": [
+          "Lee Sun-Young"
+        ],
+        "identifier": "631f3306-9045-4611-aed7-87b46f6b9727",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Magical JxR",
+        "url": "https://mangadex.org/title/631f3306-9045-4611-aed7-87b46f6b9727",
+        "image": "https://uploads.mangadex.org/covers/631f3306-9045-4611-aed7-87b46f6b9727/ef6f2eb7-ba54-40a1-91fd-5c9f2b97287c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3889,
+        "aniId": 33889,
+        "createdAt": "2020-10-12T16:07:16.000Z",
+        "updatedAt": "2021-06-04T01:36:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

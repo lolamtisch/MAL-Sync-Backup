@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Yiska",
+    "マイ・ブロークン・マリコ"
+  ],
+  "authors": [
+    "Hirako, Waka"
+  ],
+  "id": 123812,
+  "type": "manga",
+  "title": "My Broken Mariko",
+  "url": "https://myanimelist.net/manga/123812/My_Broken_Mariko",
+  "image": "https://cdn.myanimelist.net/images/manga/3/226196.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:11.000Z",
+  "updatedAt": "2021-06-07T07:20:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "147c9906-343e-4b16-ae64-5a8974a623a6": {
+        "authors": [
+          "Waka Hirako"
+        ],
+        "identifier": "147c9906-343e-4b16-ae64-5a8974a623a6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Broken Mariko",
+        "url": "https://mangadex.org/title/147c9906-343e-4b16-ae64-5a8974a623a6",
+        "image": "https://uploads.mangadex.org/covers/147c9906-343e-4b16-ae64-5a8974a623a6/ba864a8e-bcde-461e-967b-0f4d0f6a6bd2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123812,
+        "aniId": 112579,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-06-07T00:13:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "my-broken-mariko": {
+        "authors": [
+          "HIRAKO Waka"
+        ],
+        "identifier": "my-broken-mariko",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "My Broken Mariko",
+        "url": "https://mangasee123.com/manga/My-Broken-Mariko",
+        "image": "https://cover.nep.li/cover/My-Broken-Mariko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123812,
+        "aniId": 112579,
+        "createdAt": "2021-02-28T21:15:04.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gr984226": {
+        "authors": [
+          "Waka Hirako"
+        ],
+        "identifier": "manga-gr984226",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "My Broken Mariko",
+        "url": "https://manganato.com/manga-gr984226",
+        "image": "https://avt.mkklcdnv6temp.com/18/e/20-1583501727.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123812,
+        "aniId": 112579,
+        "createdAt": "2021-06-07T07:20:15.000Z",
+        "updatedAt": "2021-06-07T07:48:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

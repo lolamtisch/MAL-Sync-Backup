@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Oujisama no Yuutsu",
+    "The Prince's Melancholy"
+  ],
+  "authors": [
+    "Hoshina"
+  ],
+  "id": 73871,
+  "malId": null,
+  "type": "manga",
+  "title": "Gekichu!",
+  "url": "https://anilist.co/manga/73871",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n73871-L7E5cQk460GG.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-03T13:19:27.000Z",
+  "updatedAt": "2021-06-04T17:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2cf568cc-2f54-4dc5-92da-c5f24f2b5102": {
+        "authors": [
+          "Hoshina Satoya",
+          "Hoshina"
+        ],
+        "identifier": "2cf568cc-2f54-4dc5-92da-c5f24f2b5102",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gekichu!",
+        "url": "https://mangadex.org/title/2cf568cc-2f54-4dc5-92da-c5f24f2b5102",
+        "image": "https://uploads.mangadex.org/covers/2cf568cc-2f54-4dc5-92da-c5f24f2b5102/50febe25-dcdb-44db-8058-67f44323e7ce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 73871,
+        "createdAt": "2020-10-12T16:05:32.000Z",
+        "updatedAt": "2021-06-07T10:32:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "僕のように従順な弟",
+    "A Meek Little Brother Like Me"
+  ],
+  "authors": [
+    "Takashi Wada"
+  ],
+  "id": 99004,
+  "malId": null,
+  "type": "manga",
+  "title": "Boku no You ni Juujun na Otouto",
+  "url": "https://anilist.co/manga/99004",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99004-QdWiIL6Qj0oL.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T02:49:48.000Z",
+  "updatedAt": "2021-06-05T02:49:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd0f25f5-4006-42d1-9969-76ade2717617": {
+        "authors": [
+          "WADA Takashi"
+        ],
+        "identifier": "dd0f25f5-4006-42d1-9969-76ade2717617",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Meek Little Brother Like Me",
+        "url": "https://mangadex.org/title/dd0f25f5-4006-42d1-9969-76ade2717617",
+        "image": "https://uploads.mangadex.org/covers/dd0f25f5-4006-42d1-9969-76ade2717617/5867f1e7-ae10-4d55-acf3-3545ba1fda3e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99004,
+        "createdAt": "2020-10-12T16:10:42.000Z",
+        "updatedAt": "2021-06-05T08:55:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

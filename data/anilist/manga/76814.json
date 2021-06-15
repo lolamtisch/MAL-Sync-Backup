@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ひばりの朝",
+    "Hibari no Ashita"
+  ],
+  "authors": [
+    "Tomoko Yamashita"
+  ],
+  "id": 76814,
+  "malId": 46814,
+  "type": "manga",
+  "title": "Hibari no Asa",
+  "url": "https://anilist.co/manga/76814",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx76814-23IjQM31Y6SW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:32.000Z",
+  "updatedAt": "2021-05-20T14:49:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "58fdedb1-5be3-485b-9265-e3e33d71a0dd": {
+        "authors": [
+          "Yamashita Tomoko"
+        ],
+        "identifier": "58fdedb1-5be3-485b-9265-e3e33d71a0dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hibari no Asa",
+        "url": "https://mangadex.org/title/58fdedb1-5be3-485b-9265-e3e33d71a0dd",
+        "image": "https://uploads.mangadex.org/covers/58fdedb1-5be3-485b-9265-e3e33d71a0dd/76bbb132-6f8a-4378-9022-fee5a097e672.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46814,
+        "aniId": 76814,
+        "createdAt": "2020-10-12T16:10:53.000Z",
+        "updatedAt": "2021-06-05T04:08:48.000Z",
+        "deletedAt": null
+      },
+      "2980fad6-9916-4db8-9c1d-1f57ca4e5733": {
+        "authors": [
+          "Inoue Yoshihisa"
+        ],
+        "identifier": "2980fad6-9916-4db8-9c1d-1f57ca4e5733",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pony Shibari",
+        "url": "https://mangadex.org/title/2980fad6-9916-4db8-9c1d-1f57ca4e5733",
+        "image": "https://uploads.mangadex.org/covers/2980fad6-9916-4db8-9c1d-1f57ca4e5733/92e064f9-f52f-4c69-bd5e-75a0fbf8eafe.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46814,
+        "aniId": 76814,
+        "createdAt": "2020-10-12T16:19:47.000Z",
+        "updatedAt": "2021-06-07T22:35:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

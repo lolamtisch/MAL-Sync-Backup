@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ソニック・ザ・ヘッジホッグ"
+  ],
+  "authors": [
+    "Terada, Kenji",
+    "Morimoto, Sango"
+  ],
+  "id": 10365,
+  "type": "manga",
+  "title": "Sonic the Hedgehog",
+  "url": "https://myanimelist.net/manga/10365/Sonic_the_Hedgehog",
+  "image": "https://cdn.myanimelist.net/images/manga/1/13925.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:27.000Z",
+  "updatedAt": "2021-05-29T20:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6541dd65-cd50-4d25-8990-af5d5b3cfc8d": {
+        "authors": [
+          "Morimoto Sango",
+          "Terada Kenji"
+        ],
+        "identifier": "6541dd65-cd50-4d25-8990-af5d5b3cfc8d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sonic the Hedgehog",
+        "url": "https://mangadex.org/title/6541dd65-cd50-4d25-8990-af5d5b3cfc8d",
+        "image": "https://uploads.mangadex.org/covers/6541dd65-cd50-4d25-8990-af5d5b3cfc8d/e9eda99e-11bf-4693-b747-97f4fd666d2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10365,
+        "aniId": 40365,
+        "createdAt": "2020-10-12T16:11:44.000Z",
+        "updatedAt": "2021-06-05T10:35:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

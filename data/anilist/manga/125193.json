@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ナツコイ"
+  ],
+  "authors": [
+    "Hirofumi Shino"
+  ],
+  "id": 125193,
+  "malId": null,
+  "type": "manga",
+  "title": "Natsukoi",
+  "url": "https://anilist.co/manga/125193",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125193-VGX2mURpT6PF.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T11:25:52.000Z",
+  "updatedAt": "2021-06-08T11:25:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7aa8b1fb-cbfc-4699-a6cf-e943a53f5599": {
+        "authors": [
+          "Shino Hirofumi"
+        ],
+        "identifier": "7aa8b1fb-cbfc-4699-a6cf-e943a53f5599",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Natsu Koi",
+        "url": "https://mangadex.org/title/7aa8b1fb-cbfc-4699-a6cf-e943a53f5599",
+        "image": "https://uploads.mangadex.org/covers/7aa8b1fb-cbfc-4699-a6cf-e943a53f5599/18923f39-8b88-460f-a3e7-5a76cfcb28ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 125193,
+        "createdAt": "2021-02-03T20:10:37.000Z",
+        "updatedAt": "2021-06-08T12:06:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

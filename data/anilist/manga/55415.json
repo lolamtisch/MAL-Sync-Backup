@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Everyone Loves Marutarou",
+    "みんなだいすきまるたろう"
+  ],
+  "authors": [
+    "Yusuke Hori"
+  ],
+  "id": 55415,
+  "malId": 25415,
+  "type": "manga",
+  "title": "Minna Daisuki Marutarou",
+  "url": "https://anilist.co/manga/55415",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25415.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:53.000Z",
+  "updatedAt": "2021-05-20T14:46:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96607c6a-eb67-40cc-91ad-4f60c57f95d6": {
+        "authors": [
+          "HORI Yuusuke"
+        ],
+        "identifier": "96607c6a-eb67-40cc-91ad-4f60c57f95d6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Minna Daisuki Marutarou",
+        "url": "https://mangadex.org/title/96607c6a-eb67-40cc-91ad-4f60c57f95d6",
+        "image": "https://uploads.mangadex.org/covers/96607c6a-eb67-40cc-91ad-4f60c57f95d6/932e5336-fb80-4a11-87c5-f7f4519adf1f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25415,
+        "aniId": 55415,
+        "createdAt": "2020-10-12T16:18:19.000Z",
+        "updatedAt": "2021-06-07T15:55:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

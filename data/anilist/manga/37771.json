@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Jinko Souma"
+  ],
+  "id": 37771,
+  "malId": 7771,
+  "type": "manga",
+  "title": "Gouman na Junai",
+  "url": "https://anilist.co/manga/37771",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7771.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:55.000Z",
+  "updatedAt": "2021-05-20T14:39:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d889dae0-5016-4c36-8bb4-4b27eaca07ee": {
+        "authors": [
+          "Souma Jinko"
+        ],
+        "identifier": "d889dae0-5016-4c36-8bb4-4b27eaca07ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gouman na Junai",
+        "url": "https://mangadex.org/title/d889dae0-5016-4c36-8bb4-4b27eaca07ee",
+        "image": "https://uploads.mangadex.org/covers/d889dae0-5016-4c36-8bb4-4b27eaca07ee/f229cdf8-864c-4cc8-a5ed-cabc96c040b0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7771,
+        "aniId": 37771,
+        "createdAt": "2020-10-12T16:21:08.000Z",
+        "updatedAt": "2021-06-08T01:34:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

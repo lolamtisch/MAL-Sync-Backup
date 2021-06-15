@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Theビッグオー"
+  ],
+  "authors": [
+    "Yatate, Hajime",
+    "Ariga, Hitoshi"
+  ],
+  "id": 283,
+  "type": "manga",
+  "title": "The Big O",
+  "url": "https://myanimelist.net/manga/283/The_Big_O",
+  "image": "https://cdn.myanimelist.net/images/manga/1/25.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:20.000Z",
+  "updatedAt": "2021-04-21T16:26:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1901534b-4fdd-4176-a06e-f2c7ac495f09": {
+        "authors": [
+          "Ariga Hitoshi",
+          "Yadate Hajime"
+        ],
+        "identifier": "1901534b-4fdd-4176-a06e-f2c7ac495f09",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Big O",
+        "url": "https://mangadex.org/title/1901534b-4fdd-4176-a06e-f2c7ac495f09",
+        "image": "https://uploads.mangadex.org/covers/1901534b-4fdd-4176-a06e-f2c7ac495f09/9fcc6dbf-f1e2-4bf2-9fd6-76517310e6af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 283,
+        "aniId": 30283,
+        "createdAt": "2020-10-12T16:11:30.000Z",
+        "updatedAt": "2021-06-05T08:54:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "the_big_o": {
+        "authors": [
+          "Yatate",
+          "Hajime"
+        ],
+        "identifier": "the_big_o",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Big O",
+        "url": "https://manganelo.com/manga/the_big_o",
+        "image": "https://avt.mkklcdnv6.com/38/v/9-1583481683.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 283,
+        "aniId": 30283,
+        "createdAt": "2020-10-21T16:09:19.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Pictorial Book of Sound",
+    "ききみみ図鑑"
+  ],
+  "authors": [
+    "Kouji Miyata"
+  ],
+  "id": 85502,
+  "malId": 64507,
+  "type": "manga",
+  "title": "Kikimimi Zukan",
+  "url": "https://anilist.co/manga/85502",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55502.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2304d121-9d86-42a9-b283-20ebb223bbf0": {
+        "authors": [
+          "Miyata Kouji"
+        ],
+        "identifier": "2304d121-9d86-42a9-b283-20ebb223bbf0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kikimimi Zukan",
+        "url": "https://mangadex.org/title/2304d121-9d86-42a9-b283-20ebb223bbf0",
+        "image": "https://uploads.mangadex.org/covers/2304d121-9d86-42a9-b283-20ebb223bbf0/156844b1-db96-45ec-936b-512e3821cf90.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64507,
+        "aniId": 85502,
+        "createdAt": "2020-10-12T16:06:25.000Z",
+        "updatedAt": "2021-06-03T19:34:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kikimimi-zukan": {
+        "authors": [
+          "MIYATA Kouji"
+        ],
+        "identifier": "kikimimi-zukan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kikimimi Zukan",
+        "url": "https://mangasee123.com/manga/Kikimimi-Zukan",
+        "image": "https://cover.nep.li/cover/Kikimimi-Zukan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64507,
+        "aniId": 85502,
+        "createdAt": "2021-05-04T04:32:22.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

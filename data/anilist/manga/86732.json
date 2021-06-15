@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "忍のBAN"
+  ],
+  "authors": [
+    "Yousuke Kokuzawa"
+  ],
+  "id": 86732,
+  "malId": 90313,
+  "type": "manga",
+  "title": "Shinobi no Ban",
+  "url": "https://anilist.co/manga/86732",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56732-CkiGUuI5OzqL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:05.000Z",
+  "updatedAt": "2021-05-20T14:53:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d23bb4bd-b695-4334-a7ff-d08231120789": {
+        "authors": [
+          "Kokuzawa Yousuke"
+        ],
+        "identifier": "d23bb4bd-b695-4334-a7ff-d08231120789",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinobi no Ban",
+        "url": "https://mangadex.org/title/d23bb4bd-b695-4334-a7ff-d08231120789",
+        "image": "https://uploads.mangadex.org/covers/d23bb4bd-b695-4334-a7ff-d08231120789/985be210-9856-4818-8e63-0fc62332babd.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90313,
+        "aniId": 86732,
+        "createdAt": "2020-10-12T16:08:52.000Z",
+        "updatedAt": "2021-06-04T13:23:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shinobi-no-ban": {
+        "authors": [
+          "KOKUZAWA Yousuke"
+        ],
+        "identifier": "shinobi-no-ban",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shinobi no Ban",
+        "url": "https://mangasee123.com/manga/Shinobi-No-Ban",
+        "image": "https://cover.nep.li/cover/Shinobi-No-Ban.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90313,
+        "aniId": 86732,
+        "createdAt": "2021-05-24T16:38:26.000Z",
+        "updatedAt": "2021-05-24T17:08:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

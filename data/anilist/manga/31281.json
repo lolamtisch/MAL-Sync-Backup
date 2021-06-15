@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "いたいけなダーリン"
+  ],
+  "authors": [
+    "Yutaka Tanaka"
+  ],
+  "id": 31281,
+  "malId": 1281,
+  "type": "manga",
+  "title": "Itaike na Darling",
+  "url": "https://anilist.co/manga/31281",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1281.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:35:57.000Z",
+  "updatedAt": "2021-05-20T14:35:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0f5cdd37-0a8f-4452-9eff-41a53273f571": {
+        "authors": [
+          "Tanaka Yutaka"
+        ],
+        "identifier": "0f5cdd37-0a8f-4452-9eff-41a53273f571",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itaike na Darling",
+        "url": "https://mangadex.org/title/0f5cdd37-0a8f-4452-9eff-41a53273f571",
+        "image": "https://uploads.mangadex.org/covers/0f5cdd37-0a8f-4452-9eff-41a53273f571/cacb2ff3-fcb9-4a6c-9fdc-20e7e5c26097.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1281,
+        "aniId": 31281,
+        "createdAt": "2020-10-12T16:17:34.000Z",
+        "updatedAt": "2021-06-07T08:39:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

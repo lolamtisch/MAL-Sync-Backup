@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "책을 읽으면 경험이 쌓여",
+    "I Stack Experience Through Reading Books",
+    "この本は僕の経験値を生んだ"
+  ],
+  "authors": [
+    "Ji-Won Lee",
+    "Ta-Hong Il",
+    "Sang-Jun Hyeong"
+  ],
+  "id": 119545,
+  "malId": null,
+  "type": "manga",
+  "title": "Chaegeul Ilgeumyeon Gyeongheomi Ssayeo",
+  "url": "https://anilist.co/manga/119545",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119545-RrUXJ9mUe5Ao.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T10:13:07.000Z",
+  "updatedAt": "2021-06-05T08:19:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "24af0628-fe13-4d9d-844d-339717e09868": {
+        "authors": [
+          "Sang-Jun Hyeong",
+          "Ta-Hong Il",
+          "Ji-Won Lee"
+        ],
+        "identifier": "24af0628-fe13-4d9d-844d-339717e09868",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Stack Experience Through Reading Books",
+        "url": "https://mangadex.org/title/24af0628-fe13-4d9d-844d-339717e09868",
+        "image": "https://uploads.mangadex.org/covers/24af0628-fe13-4d9d-844d-339717e09868/e4ab5621-c9e1-4318-836e-43d7dceddf57.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119545,
+        "createdAt": "2020-10-12T16:19:48.000Z",
+        "updatedAt": "2021-06-08T00:48:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ir985474": {
+        "authors": [
+          "Ta Hong Il"
+        ],
+        "identifier": "manga-ir985474",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Stack Experience Through Writing Books",
+        "url": "https://manganato.com/manga-ir985474",
+        "image": "https://avt.mkklcdnv6temp.com/17/k/21-1590080284.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119545,
+        "createdAt": "2021-05-31T14:22:58.000Z",
+        "updatedAt": "2021-06-05T09:06:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

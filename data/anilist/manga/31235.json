@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Shingo + Masaki"
+  ],
+  "authors": [
+    "Amu Sumoto"
+  ],
+  "id": 31235,
+  "malId": 1235,
+  "type": "manga",
+  "title": "S+M",
+  "url": "https://anilist.co/manga/31235",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1235.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:56.000Z",
+  "updatedAt": "2021-06-04T16:55:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4b9959b1-e46f-4171-aa83-84cdc5d55529": {
+        "authors": [
+          "Sumoto Amu"
+        ],
+        "identifier": "4b9959b1-e46f-4171-aa83-84cdc5d55529",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "S+M",
+        "url": "https://mangadex.org/title/4b9959b1-e46f-4171-aa83-84cdc5d55529",
+        "image": "https://uploads.mangadex.org/covers/4b9959b1-e46f-4171-aa83-84cdc5d55529/f87026ff-0b42-414b-bb3f-578a04703e75.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1235,
+        "aniId": 31235,
+        "createdAt": "2020-10-12T16:09:19.000Z",
+        "updatedAt": "2021-06-04T22:12:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sm": {
+        "authors": [],
+        "identifier": "sm",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "S+M",
+        "url": "https://manganelo.com/manga/sm",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/442-sm.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1235,
+        "aniId": 31235,
+        "createdAt": "2020-10-12T16:25:29.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

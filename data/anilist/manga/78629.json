@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ザ・クイズ"
+  ],
+  "authors": [
+    "Rika Takahashi",
+    "Takashi Sugimoto"
+  ],
+  "id": 78629,
+  "malId": 48629,
+  "type": "manga",
+  "title": "The Quiz",
+  "url": "https://anilist.co/manga/78629",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48629.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:39.000Z",
+  "updatedAt": "2021-05-20T14:49:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "19c7eedb-e9f2-4ac7-8723-1a00205567c4": {
+        "authors": [
+          "Takahashi Rika",
+          "Sugimoto Takashi"
+        ],
+        "identifier": "19c7eedb-e9f2-4ac7-8723-1a00205567c4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Quiz",
+        "url": "https://mangadex.org/title/19c7eedb-e9f2-4ac7-8723-1a00205567c4",
+        "image": "https://uploads.mangadex.org/covers/19c7eedb-e9f2-4ac7-8723-1a00205567c4/5815bd77-3ddc-47bf-933e-774745c66672.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48629,
+        "aniId": 78629,
+        "createdAt": "2020-10-12T16:13:45.000Z",
+        "updatedAt": "2021-06-05T23:41:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

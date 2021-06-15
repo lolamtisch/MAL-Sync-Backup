@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Catch! Love",
+    "キャッチ!愛",
+    "キャッチ!愛",
+    "Catch Love",
+    "Catch! Eye"
+  ],
+  "authors": [
+    "Hiromi Kobayashi"
+  ],
+  "id": 35859,
+  "malId": 5859,
+  "type": "manga",
+  "title": "Catch! Ai",
+  "url": "https://anilist.co/manga/35859",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5859.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:35.000Z",
+  "updatedAt": "2021-05-20T14:39:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d39c6c91-755e-4ae0-8d98-221ba70d8949": {
+        "authors": [
+          "KOBAYASHI Hiromi"
+        ],
+        "identifier": "d39c6c91-755e-4ae0-8d98-221ba70d8949",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Catch! Ai",
+        "url": "https://mangadex.org/title/d39c6c91-755e-4ae0-8d98-221ba70d8949",
+        "image": "https://uploads.mangadex.org/covers/d39c6c91-755e-4ae0-8d98-221ba70d8949/c95c1e34-58e4-4d53-9eb5-9d3908c773d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5859,
+        "aniId": 35859,
+        "createdAt": "2020-10-12T16:04:50.000Z",
+        "updatedAt": "2021-06-02T23:47:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "altTitle": [
+    "Attack on Titan: No Regrets",
+    "進撃の巨人 外伝 悔いなき選択",
+    "Attack on Titan Side Story: A Choice with No Regrets",
+    "진격의 거인 후회없는 선택"
+  ],
+  "authors": [
+    "Konkichi",
+    "Hikaru Suruga",
+    "Gan Sunaaku",
+    "Hajime Isayama"
+  ],
+  "id": 85199,
+  "malId": 58007,
+  "type": "manga",
+  "title": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+  "url": "https://anilist.co/manga/85199",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85199-IzuYa59zXTBN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:32.000Z",
+  "updatedAt": "2021-05-20T14:50:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ac05896-01de-4a65-8418-fcaadc91c705": {
+        "authors": [
+          "Isayama Hajime",
+          "Suruga Hikaru",
+          "Sunaaku Gan"
+        ],
+        "identifier": "0ac05896-01de-4a65-8418-fcaadc91c705",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shingeki no Kyojin - Birth of Levi",
+        "url": "https://mangadex.org/title/0ac05896-01de-4a65-8418-fcaadc91c705",
+        "image": "https://uploads.mangadex.org/covers/0ac05896-01de-4a65-8418-fcaadc91c705/4c969340-f0c3-466b-9dad-809a05b1c5bb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58007,
+        "aniId": 85199,
+        "createdAt": "2020-10-12T16:06:47.000Z",
+        "updatedAt": "2021-06-03T22:06:29.000Z",
+        "deletedAt": null
+      },
+      "959fed74-b49b-44e1-8ae2-f12a6eb60ba2": {
+        "authors": [
+          "Lyy"
+        ],
+        "identifier": "959fed74-b49b-44e1-8ae2-f12a6eb60ba2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shingeki no Kyojin - Guide to Raising an Eren (Doujinshi)",
+        "url": "https://mangadex.org/title/959fed74-b49b-44e1-8ae2-f12a6eb60ba2",
+        "image": "https://uploads.mangadex.org/covers/959fed74-b49b-44e1-8ae2-f12a6eb60ba2/4e103435-ee59-4558-90d4-a41da6e38445.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58007,
+        "aniId": 85199,
+        "createdAt": "2020-10-12T16:14:09.000Z",
+        "updatedAt": "2021-06-06T02:56:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shingeki_no_kyojin_gaiden_kuinaki_sentaku": {
+        "authors": [
+          "ISAYAMA Hajime",
+          "SUNAAKU Gan"
+        ],
+        "identifier": "shingeki_no_kyojin_gaiden_kuinaki_sentaku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shingeki no Kyojin Gaiden - Kuinaki Sentaku",
+        "url": "https://fanfox.net/manga/shingeki_no_kyojin_gaiden_kuinaki_sentaku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13196/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58007,
+        "aniId": 85199,
+        "createdAt": "2021-03-20T17:35:02.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "attack-on-titan-no-regrets-color": {
+        "authors": [
+          "ISAYAMA Hajime",
+          "SUNAAKU Gan",
+          "SURUGA Hikaru"
+        ],
+        "identifier": "attack-on-titan-no-regrets-color",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Attack on Titan - No Regrets - Color",
+        "url": "https://mangasee123.com/manga/Attack-on-Titan-No-Regrets-Color",
+        "image": "https://cover.nep.li/cover/Attack-on-Titan-No-Regrets-Color.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58007,
+        "aniId": 85199,
+        "createdAt": "2021-06-07T16:41:06.000Z",
+        "updatedAt": "2021-06-07T17:03:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

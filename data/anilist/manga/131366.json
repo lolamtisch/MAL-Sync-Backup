@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "돌아온 여기사",
+    "Return of the Female Knight",
+    "ROTFK",
+    "This Company Returned"
+  ],
+  "authors": [
+    "Ha-Rin Lee",
+    "Chen-Yong"
+  ],
+  "id": 131366,
+  "malId": null,
+  "type": "manga",
+  "title": "Doraon Yeogisa",
+  "url": "https://anilist.co/manga/131366",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131366-TP1tWDaEOPoD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T21:08:18.000Z",
+  "updatedAt": "2021-06-07T20:04:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNato": {
+      "manga-lt988576": {
+        "authors": [
+          "Lee Halin"
+        ],
+        "identifier": "manga-lt988576",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Return Of The Female Knight",
+        "url": "https://readmanganato.com/manga-lt988576",
+        "image": "https://avt.mkklcdnv6temp.com/44/l/23-1616171282.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 131366,
+        "createdAt": "2021-05-29T06:44:55.000Z",
+        "updatedAt": "2021-05-29T06:44:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "997ed761-f148-4764-a5c1-4d25e0ab456b": {
+        "authors": [
+          "Jiya",
+          "Lee Halin"
+        ],
+        "identifier": "997ed761-f148-4764-a5c1-4d25e0ab456b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Return of Female kgight",
+        "url": "https://mangadex.org/title/997ed761-f148-4764-a5c1-4d25e0ab456b",
+        "image": "https://uploads.mangadex.org/covers/997ed761-f148-4764-a5c1-4d25e0ab456b/6da9d1fd-25cd-472d-9bb2-561c6324a3e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 131366,
+        "createdAt": "2021-06-07T20:04:28.000Z",
+        "updatedAt": "2021-06-07T20:07:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

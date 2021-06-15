@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "きみのカケラ",
+    "Fragments of You"
+  ],
+  "authors": [
+    "Shin Takahashi"
+  ],
+  "id": 31259,
+  "malId": 1259,
+  "type": "manga",
+  "title": "Kimi no Kakera",
+  "url": "https://anilist.co/manga/31259",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1259.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:57.000Z",
+  "updatedAt": "2021-05-20T14:35:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "203c1c94-59f1-44b4-808b-b7ab31085d27": {
+        "authors": [
+          "Takahashi Shin"
+        ],
+        "identifier": "203c1c94-59f1-44b4-808b-b7ab31085d27",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi no Kakera",
+        "url": "https://mangadex.org/title/203c1c94-59f1-44b4-808b-b7ab31085d27",
+        "image": "https://uploads.mangadex.org/covers/203c1c94-59f1-44b4-808b-b7ab31085d27/01ca8541-26cc-496f-aabb-a59f44aaa751.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1259,
+        "aniId": 31259,
+        "createdAt": "2020-10-12T16:05:26.000Z",
+        "updatedAt": "2021-06-03T12:33:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_no_kakera": {
+        "authors": [
+          "TAKAHASHI Shin"
+        ],
+        "identifier": "kimi_no_kakera",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi no Kakera",
+        "url": "https://fanfox.net/manga/kimi_no_kakera/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2847/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1259,
+        "aniId": 31259,
+        "createdAt": "2021-04-22T06:28:31.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kimi-no-kakera": {
+        "authors": [
+          "TAKAHASHI Shin"
+        ],
+        "identifier": "kimi-no-kakera",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi no Kakera",
+        "url": "https://mangasee123.com/manga/Kimi-No-Kakera",
+        "image": "https://cover.nep.li/cover/Kimi-No-Kakera.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1259,
+        "aniId": 31259,
+        "createdAt": "2021-05-08T23:18:45.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

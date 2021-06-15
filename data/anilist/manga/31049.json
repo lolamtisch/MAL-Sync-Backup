@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "ドールズ"
+  ],
+  "authors": [
+    "naked ape"
+  ],
+  "id": 31049,
+  "malId": 1049,
+  "type": "manga",
+  "title": "Dolls",
+  "url": "https://anilist.co/manga/31049",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31049-7NDBRt2K0y76.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "edbb4fa1-1867-4f80-8883-bb1cf107634d": {
+        "authors": [
+          "Naked Ape"
+        ],
+        "identifier": "edbb4fa1-1867-4f80-8883-bb1cf107634d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dolls",
+        "url": "https://mangadex.org/title/edbb4fa1-1867-4f80-8883-bb1cf107634d",
+        "image": "https://uploads.mangadex.org/covers/edbb4fa1-1867-4f80-8883-bb1cf107634d/ab260222-dcd0-4dc1-8d39-8229ca7123da.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1049,
+        "aniId": 31049,
+        "createdAt": "2020-10-12T16:04:02.000Z",
+        "updatedAt": "2021-06-02T18:14:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "red_doll": {
+        "authors": [],
+        "identifier": "red_doll",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Red Doll",
+        "url": "https://manganelo.com/manga/red_doll",
+        "image": "https://avt.mkklcdnv6.com/34/a/13-1583488959.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1049,
+        "aniId": 31049,
+        "createdAt": "2020-10-12T16:25:09.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dolls": {
+        "authors": [
+          "Naked Ape"
+        ],
+        "identifier": "dolls",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dolls",
+        "url": "https://mangasee123.com/manga/Dolls",
+        "image": "https://cover.nep.li/cover/Dolls.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1049,
+        "aniId": 31049,
+        "createdAt": "2021-03-27T01:49:26.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dolls": {
+        "authors": [
+          "Naked Ape"
+        ],
+        "identifier": "dolls",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dolls",
+        "url": "https://fanfox.net/manga/dolls/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2865/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1049,
+        "aniId": 31049,
+        "createdAt": "2021-04-01T12:32:13.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

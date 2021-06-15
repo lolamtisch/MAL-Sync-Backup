@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "핑크레이디"
+  ],
+  "authors": [
+    "Yeon Woo"
+  ],
+  "id": 49109,
+  "malId": 19109,
+  "type": "manga",
+  "title": "Pink Lady",
+  "url": "https://anilist.co/manga/49109",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19109.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:17.000Z",
+  "updatedAt": "2021-05-20T14:45:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a68d123-3c2b-4d79-8d71-65d9650350ab": {
+        "authors": [
+          "SUNA (서나)",
+          "Yeon Woo"
+        ],
+        "identifier": "8a68d123-3c2b-4d79-8d71-65d9650350ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pink Lady",
+        "url": "https://mangadex.org/title/8a68d123-3c2b-4d79-8d71-65d9650350ab",
+        "image": "https://uploads.mangadex.org/covers/8a68d123-3c2b-4d79-8d71-65d9650350ab/6717a958-b560-4cb4-8152-dcf292364eee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19109,
+        "aniId": 49109,
+        "createdAt": "2020-10-12T16:02:49.000Z",
+        "updatedAt": "2021-06-02T09:36:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

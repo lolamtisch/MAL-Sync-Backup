@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "あとで姉妹ます。"
+  ],
+  "authors": [
+    "Meno"
+  ],
+  "id": 108373,
+  "type": "manga",
+  "title": "Ato de Shimaimasu.",
+  "url": "https://myanimelist.net/manga/108373/Ato_de_Shimaimasu",
+  "image": "https://cdn.myanimelist.net/images/manga/2/223292.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:09.000Z",
+  "updatedAt": "2021-06-06T10:08:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2ab78f7-df04-4f48-bb33-0ba6bacf6947": {
+        "authors": [
+          "Meno"
+        ],
+        "identifier": "e2ab78f7-df04-4f48-bb33-0ba6bacf6947",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ato de Shimai Masu.",
+        "url": "https://mangadex.org/title/e2ab78f7-df04-4f48-bb33-0ba6bacf6947",
+        "image": "https://uploads.mangadex.org/covers/e2ab78f7-df04-4f48-bb33-0ba6bacf6947/3905c6a4-c19e-4c10-8875-e33e13a6018a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 108373,
+        "aniId": 100055,
+        "createdAt": "2020-10-12T16:13:55.000Z",
+        "updatedAt": "2021-06-06T13:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ato_de_shimai_masu": {
+        "authors": [],
+        "identifier": "ato_de_shimai_masu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ato De Shimai Masu.",
+        "url": "https://manganelo.com/manga/ato_de_shimai_masu",
+        "image": "https://avt.mkklcdnv6.com/10/n/17-1583495642.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108373,
+        "aniId": 100055,
+        "createdAt": "2020-10-12T16:22:10.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

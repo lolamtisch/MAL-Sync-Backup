@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "百怪夜谭",
+    "A Hundred Strange Nights",
+    "One Hundred Strange Nights",
+    "One-Hundred Strange Nights",
+    "100 Strange Nights"
+  ],
+  "authors": [
+    "AGPchongyang"
+  ],
+  "id": 108209,
+  "malId": null,
+  "type": "manga",
+  "title": "Bai Guai Ye Tan",
+  "url": "https://anilist.co/manga/108209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108209-6DNoStrrHgLq.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T08:49:18.000Z",
+  "updatedAt": "2021-06-06T08:49:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9006172e-320d-4db8-9153-1bcfd7027389": {
+        "authors": [
+          "AGPchongyang"
+        ],
+        "identifier": "9006172e-320d-4db8-9153-1bcfd7027389",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "100 Strange Nights",
+        "url": "https://mangadex.org/title/9006172e-320d-4db8-9153-1bcfd7027389",
+        "image": "https://uploads.mangadex.org/covers/9006172e-320d-4db8-9153-1bcfd7027389/1a5609ad-fc32-4fcb-ad78-1e6c0b855b61.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 108209,
+        "createdAt": "2020-10-12T16:14:49.000Z",
+        "updatedAt": "2021-06-06T10:07:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "La Corda d'Oro",
+    "金色のコルダ",
+    "Kin Iro no Corda",
+    "The Golden String"
+  ],
+  "authors": [
+    "Yuki Kure"
+  ],
+  "id": 31051,
+  "malId": 1051,
+  "type": "manga",
+  "title": "Kiniro no Corda",
+  "url": "https://anilist.co/manga/31051",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31051-deajrFZ1dEBa.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e610599d-8093-4a6d-b058-8464420c157f": {
+        "authors": [
+          "Kure Yuki"
+        ],
+        "identifier": "e610599d-8093-4a6d-b058-8464420c157f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiniro no Corda",
+        "url": "https://mangadex.org/title/e610599d-8093-4a6d-b058-8464420c157f",
+        "image": "https://uploads.mangadex.org/covers/e610599d-8093-4a6d-b058-8464420c157f/d02e09ed-0903-4f9f-ab8a-93ceeb2d38c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1051,
+        "aniId": 31051,
+        "createdAt": "2020-10-12T16:04:04.000Z",
+        "updatedAt": "2021-06-02T18:33:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "la_corda_d_oro": {
+        "authors": [
+          "KURE Yuki"
+        ],
+        "identifier": "la_corda_d_oro",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "La Corda D'Oro",
+        "url": "https://fanfox.net/manga/la_corda_d_oro/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/249/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1051,
+        "aniId": 31051,
+        "createdAt": "2021-04-22T11:28:18.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "la-corda-d-oro": {
+        "authors": [
+          "KURE Yuki"
+        ],
+        "identifier": "la-corda-d-oro",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "La Corda d'Oro",
+        "url": "https://mangasee123.com/manga/La-Corda-D-Oro",
+        "image": "https://cover.nep.li/cover/La-Corda-D-Oro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1051,
+        "aniId": 31051,
+        "createdAt": "2021-06-11T12:09:18.000Z",
+        "updatedAt": "2021-06-11T12:38:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

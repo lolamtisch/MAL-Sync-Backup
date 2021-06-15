@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "RAPPA -乱波-",
+    "Rappa: Rannami",
+    "RAPPA -乱波-"
+  ],
+  "authors": [
+    "Hideyuki Kikuchi",
+    "Kou Sasakura"
+  ],
+  "id": 47762,
+  "malId": 17762,
+  "type": "manga",
+  "title": "Rappa",
+  "url": "https://anilist.co/manga/47762",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17762.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:12.000Z",
+  "updatedAt": "2021-05-20T14:44:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "28425c49-3638-4ca8-abd9-9e1306bbe574": {
+        "authors": [
+          "Sasakura Kou"
+        ],
+        "identifier": "28425c49-3638-4ca8-abd9-9e1306bbe574",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rappa",
+        "url": "https://mangadex.org/title/28425c49-3638-4ca8-abd9-9e1306bbe574",
+        "image": "https://uploads.mangadex.org/covers/28425c49-3638-4ca8-abd9-9e1306bbe574/392d9c46-ad66-4b2b-b436-eded592767ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17762,
+        "aniId": 47762,
+        "createdAt": "2020-10-12T16:07:05.000Z",
+        "updatedAt": "2021-06-04T00:14:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rappa": {
+        "authors": [
+          "KIKUCHI Hideyuki",
+          "SASAKURA Kou"
+        ],
+        "identifier": "rappa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Rappa",
+        "url": "https://mangasee123.com/manga/Rappa",
+        "image": "https://cover.nep.li/cover/Rappa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17762,
+        "aniId": 47762,
+        "createdAt": "2021-06-08T04:51:21.000Z",
+        "updatedAt": "2021-06-08T05:20:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

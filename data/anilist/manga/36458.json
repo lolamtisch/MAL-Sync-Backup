@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Nabi: The Prototype",
+    "나비 - NABI",
+    "NaBi"
+  ],
+  "authors": [
+    "Yeon-Joo Kim"
+  ],
+  "id": 36458,
+  "malId": 6458,
+  "type": "manga",
+  "title": "Nabi: The Prototype",
+  "url": "https://anilist.co/manga/36458",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6458.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T14:49:47.000Z",
+  "updatedAt": "2021-06-04T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ea2f528-4e58-4013-8d90-d7ccddb61453": {
+        "authors": [
+          "Kim Yeon-Joo"
+        ],
+        "identifier": "0ea2f528-4e58-4013-8d90-d7ccddb61453",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nabi: The Prototype",
+        "url": "https://mangadex.org/title/0ea2f528-4e58-4013-8d90-d7ccddb61453",
+        "image": "https://uploads.mangadex.org/covers/0ea2f528-4e58-4013-8d90-d7ccddb61453/e8f5837b-225a-452e-a417-cf6582aa6bef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6458,
+        "aniId": 36458,
+        "createdAt": "2020-10-12T16:09:01.000Z",
+        "updatedAt": "2021-06-04T15:26:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

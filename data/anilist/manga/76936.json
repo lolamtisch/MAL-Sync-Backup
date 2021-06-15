@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ほうかご",
+    "After School"
+  ],
+  "authors": [
+    "Uo Ikuta"
+  ],
+  "id": 76936,
+  "malId": 46936,
+  "type": "manga",
+  "title": "Houkago",
+  "url": "https://anilist.co/manga/76936",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46936.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T15:49:07.000Z",
+  "updatedAt": "2021-06-03T15:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "275ed039-5814-447f-bd3d-689074add837": {
+        "authors": [
+          "Uo Ikuta"
+        ],
+        "identifier": "275ed039-5814-447f-bd3d-689074add837",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "After School",
+        "url": "https://mangadex.org/title/275ed039-5814-447f-bd3d-689074add837",
+        "image": "https://uploads.mangadex.org/covers/275ed039-5814-447f-bd3d-689074add837/c5452cba-04f9-4091-bf3c-9d4f2586797e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46936,
+        "aniId": 76936,
+        "createdAt": "2020-10-12T16:05:53.000Z",
+        "updatedAt": "2021-06-03T16:18:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

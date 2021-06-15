@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "訪問者",
+    "The Visitor"
+  ],
+  "authors": [
+    "Kano Miyamoto"
+  ],
+  "id": 42852,
+  "malId": 12852,
+  "type": "manga",
+  "title": "Houmonsha",
+  "url": "https://anilist.co/manga/42852",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12852.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:26.000Z",
+  "updatedAt": "2021-05-20T14:42:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1f71fb57-ade9-491d-a4f5-af53748090a7": {
+        "authors": [
+          "Miyamoto Kano"
+        ],
+        "identifier": "1f71fb57-ade9-491d-a4f5-af53748090a7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Visitor",
+        "url": "https://mangadex.org/title/1f71fb57-ade9-491d-a4f5-af53748090a7",
+        "image": "https://uploads.mangadex.org/covers/1f71fb57-ade9-491d-a4f5-af53748090a7/800d723d-2964-4a3b-8091-1675b9e35d70.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12852,
+        "aniId": 42852,
+        "createdAt": "2020-10-12T16:02:43.000Z",
+        "updatedAt": "2021-06-02T09:03:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

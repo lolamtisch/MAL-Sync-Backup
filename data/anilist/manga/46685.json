@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "サンビカ―本仁戻作品集",
+    "Killing Moon",
+    "Life of the Machine",
+    "Kaibutsu Ouji",
+    "Sanbika: Motoni Modoru's Works Collection"
+  ],
+  "authors": [
+    "Modoru Motoni"
+  ],
+  "id": 46685,
+  "malId": 16685,
+  "type": "manga",
+  "title": "Sanbika",
+  "url": "https://anilist.co/manga/46685",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46685-Gbyi1w4lHYC2.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:56.000Z",
+  "updatedAt": "2021-05-20T14:43:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc0e7865-82f8-485d-a953-ba7a71fdc31b": {
+        "authors": [
+          "Motoni Modoru"
+        ],
+        "identifier": "bc0e7865-82f8-485d-a953-ba7a71fdc31b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sanbika",
+        "url": "https://mangadex.org/title/bc0e7865-82f8-485d-a953-ba7a71fdc31b",
+        "image": "https://uploads.mangadex.org/covers/bc0e7865-82f8-485d-a953-ba7a71fdc31b/febb9399-198c-4458-a4d7-55106e0d8ae2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16685,
+        "aniId": 46685,
+        "createdAt": "2020-11-17T06:44:58.000Z",
+        "updatedAt": "2021-06-08T07:27:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

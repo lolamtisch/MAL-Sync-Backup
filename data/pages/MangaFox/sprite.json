@@ -1,0 +1,58 @@
+{
+  "authors": [
+    "ISHIKAWA Yugo"
+  ],
+  "identifier": "sprite",
+  "type": "manga",
+  "page": "MangaFox",
+  "title": "Sprite",
+  "url": "https://fanfox.net/manga/sprite/",
+  "image": "https://fmcdn.mfcdn.net/store/manga/8555/cover.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 23245,
+  "aniId": 53245,
+  "createdAt": "2021-03-30T15:01:01.000Z",
+  "updatedAt": "2021-05-20T15:40:04.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "スプライト"
+    ],
+    "authors": [
+      "Ishikawa, Yuugo"
+    ],
+    "id": 23245,
+    "type": "manga",
+    "title": "Sprite",
+    "url": "https://myanimelist.net/manga/23245/Sprite",
+    "image": "https://cdn.myanimelist.net/images/manga/1/154413.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:43:09.000Z",
+    "updatedAt": "2021-03-30T06:01:01.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "スプライト"
+    ],
+    "authors": [
+      "Yuugo Ishikawa"
+    ],
+    "id": 53245,
+    "malId": 23245,
+    "type": "manga",
+    "title": "Sprite",
+    "url": "https://anilist.co/manga/53245",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23245.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:46:35.000Z",
+    "updatedAt": "2021-05-20T14:46:35.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/23245/Sprite"
+}

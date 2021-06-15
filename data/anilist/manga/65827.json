@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "嘘つきなカノジョ",
+    "Cinderella's Wish"
+  ],
+  "authors": [
+    "Rin Ayumi"
+  ],
+  "id": 65827,
+  "malId": 35827,
+  "type": "manga",
+  "title": "Usotsuki Na Kanojo",
+  "url": "https://anilist.co/manga/65827",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35827.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1bb5d4a2-331a-41eb-8671-b802eff3808f": {
+        "authors": [
+          "Ayumi Rin"
+        ],
+        "identifier": "1bb5d4a2-331a-41eb-8671-b802eff3808f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Usotsuki na Kanojo",
+        "url": "https://mangadex.org/title/1bb5d4a2-331a-41eb-8671-b802eff3808f",
+        "image": "https://uploads.mangadex.org/covers/1bb5d4a2-331a-41eb-8671-b802eff3808f/52f585da-fa76-4623-aeb3-57ca30af4fcb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35827,
+        "aniId": 65827,
+        "createdAt": "2020-10-12T16:04:40.000Z",
+        "updatedAt": "2021-06-02T22:33:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

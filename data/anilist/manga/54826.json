@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "魔法足球"
+  ],
+  "authors": [
+    "Chikara Sakuma"
+  ],
+  "id": 54826,
+  "malId": 24826,
+  "type": "manga",
+  "title": "MAGiCO",
+  "url": "https://anilist.co/manga/54826",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54826-HcHRpEIiem5C.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:46.000Z",
+  "updatedAt": "2021-05-20T14:46:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "796621b0-3e65-4edf-ac35-3a4d43e4c9be": {
+        "authors": [
+          "Sakuma Chikara"
+        ],
+        "identifier": "796621b0-3e65-4edf-ac35-3a4d43e4c9be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MAGiCO",
+        "url": "https://mangadex.org/title/796621b0-3e65-4edf-ac35-3a4d43e4c9be",
+        "image": "https://uploads.mangadex.org/covers/796621b0-3e65-4edf-ac35-3a4d43e4c9be/62924ef0-7917-4068-882a-93d8cda3fd85.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24826,
+        "aniId": 54826,
+        "createdAt": "2020-10-12T16:02:50.000Z",
+        "updatedAt": "2021-06-02T09:45:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

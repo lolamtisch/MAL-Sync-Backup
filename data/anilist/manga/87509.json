@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "イッツマイライフ"
+  ],
+  "authors": [
+    "Imomushi Narita"
+  ],
+  "id": 87509,
+  "malId": 88906,
+  "type": "manga",
+  "title": "It's My Life",
+  "url": "https://anilist.co/manga/87509",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87509-vA9gnaJCaLcp.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:56.000Z",
+  "updatedAt": "2021-05-20T14:52:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d9ab5041-e497-4323-83cb-c3f3b9aaaf71": {
+        "authors": [
+          "Narita Imomushi"
+        ],
+        "identifier": "d9ab5041-e497-4323-83cb-c3f3b9aaaf71",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "It's My Life",
+        "url": "https://mangadex.org/title/d9ab5041-e497-4323-83cb-c3f3b9aaaf71",
+        "image": "https://uploads.mangadex.org/covers/d9ab5041-e497-4323-83cb-c3f3b9aaaf71/08f4f301-c676-4adb-b588-5446bc460191.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88906,
+        "aniId": 87509,
+        "createdAt": "2020-10-12T16:09:39.000Z",
+        "updatedAt": "2021-06-04T19:04:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "its_my_life": {
+        "authors": [],
+        "identifier": "its_my_life",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "It's My Life",
+        "url": "https://manganelo.com/manga/its_my_life",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16471-its_my_life.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88906,
+        "aniId": 87509,
+        "createdAt": "2020-10-12T16:23:37.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "its-my-life": {
+        "authors": [
+          "NARITA Imomushi"
+        ],
+        "identifier": "its-my-life",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "It's My Life",
+        "url": "https://mangasee123.com/manga/Its-My-Life",
+        "image": "https://cover.nep.li/cover/Its-My-Life.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88906,
+        "aniId": 87509,
+        "createdAt": "2021-01-29T11:26:22.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "it_s_my_life": {
+        "authors": [
+          "NARITA Imomushi"
+        ],
+        "identifier": "it_s_my_life",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "It's My Life",
+        "url": "https://fanfox.net/manga/it_s_my_life/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19493/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88906,
+        "aniId": 87509,
+        "createdAt": "2021-04-22T07:57:39.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

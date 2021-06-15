@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Dear Waltz",
+    "Dear Waltz 디어 왈츠"
+  ],
+  "authors": [
+    "Yoon, Ji Woon"
+  ],
+  "id": 7737,
+  "type": "manga",
+  "title": "Dear Waltz",
+  "url": "https://myanimelist.net/manga/7737/Dear_Waltz",
+  "image": "https://cdn.myanimelist.net/images/manga/1/124227.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:15.000Z",
+  "updatedAt": "2021-04-30T01:50:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "266aa32d-3ba1-453c-a893-f088dc5e6b5b": {
+        "authors": [
+          "YUN Ji Woon"
+        ],
+        "identifier": "266aa32d-3ba1-453c-a893-f088dc5e6b5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dear Waltz",
+        "url": "https://mangadex.org/title/266aa32d-3ba1-453c-a893-f088dc5e6b5b",
+        "image": "https://uploads.mangadex.org/covers/266aa32d-3ba1-453c-a893-f088dc5e6b5b/a0c88d56-ec2b-4f55-8969-7de640746dc2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7737,
+        "aniId": 37737,
+        "createdAt": "2020-10-12T16:05:30.000Z",
+        "updatedAt": "2021-06-03T13:00:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "waltz_oshimi_shuzo": {
+        "authors": [],
+        "identifier": "waltz_oshimi_shuzo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Waltz (Oshimi Shuzo)",
+        "url": "https://manganelo.com/manga/waltz_oshimi_shuzo",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19285-waltz_oshimi_shuzo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7737,
+        "aniId": 37737,
+        "createdAt": "2020-10-12T16:26:06.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

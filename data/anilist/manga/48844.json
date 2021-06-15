@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "コレクターズ"
+  ],
+  "authors": [
+    "Nishi Uko"
+  ],
+  "id": 48844,
+  "malId": 18844,
+  "type": "manga",
+  "title": "Collectors",
+  "url": "https://anilist.co/manga/48844",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48844-qy7Cfkggezg5.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:14.000Z",
+  "updatedAt": "2021-05-20T14:45:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "00c180d6-669c-444d-a515-93463250ff61": {
+        "authors": [
+          "NISHI Uko"
+        ],
+        "identifier": "00c180d6-669c-444d-a515-93463250ff61",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Collectors",
+        "url": "https://mangadex.org/title/00c180d6-669c-444d-a515-93463250ff61",
+        "image": "https://uploads.mangadex.org/covers/00c180d6-669c-444d-a515-93463250ff61/e7800e7b-b7aa-4938-be21-df9a2b56fd6f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18844,
+        "aniId": 48844,
+        "createdAt": "2020-10-12T16:06:01.000Z",
+        "updatedAt": "2021-06-03T16:33:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "collectors": {
+        "authors": [],
+        "identifier": "collectors",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Collectors",
+        "url": "https://manganelo.com/manga/collectors",
+        "image": "https://avt.mkklcdnv6.com/23/e/3-1583468587.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18844,
+        "aniId": 48844,
+        "createdAt": "2020-10-12T16:22:31.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "collectors": {
+        "authors": [
+          "NISHI Uko"
+        ],
+        "identifier": "collectors",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Collectors",
+        "url": "https://mangasee123.com/manga/Collectors",
+        "image": "https://cover.nep.li/cover/Collectors.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18844,
+        "aniId": 48844,
+        "createdAt": "2021-02-13T16:39:59.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "collectors": {
+        "authors": [
+          "Nishi Uko"
+        ],
+        "identifier": "collectors",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Collectors",
+        "url": "https://fanfox.net/manga/collectors/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8079/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18844,
+        "aniId": 48844,
+        "createdAt": "2021-06-04T13:22:48.000Z",
+        "updatedAt": "2021-06-04T13:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

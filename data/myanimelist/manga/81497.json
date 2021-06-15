@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "my little robinson"
+  ],
+  "authors": [
+    "Tsutsumi, Kakeru"
+  ],
+  "id": 81497,
+  "type": "manga",
+  "title": "My Little Robinson",
+  "url": "https://myanimelist.net/manga/81497/My_Little_Robinson",
+  "image": "https://cdn.myanimelist.net/images/manga/2/141241.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:36.000Z",
+  "updatedAt": "2021-06-04T07:20:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5f89009c-25c0-4db9-aca1-1483afcc82a0": {
+        "authors": [
+          "TSUTSUMI Kakeru"
+        ],
+        "identifier": "5f89009c-25c0-4db9-aca1-1483afcc82a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Little Robinson",
+        "url": "https://mangadex.org/title/5f89009c-25c0-4db9-aca1-1483afcc82a0",
+        "image": "https://uploads.mangadex.org/covers/5f89009c-25c0-4db9-aca1-1483afcc82a0/36a48592-62fb-460d-ab74-2bf0332f4f58.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 81497,
+        "aniId": 112087,
+        "createdAt": "2020-10-12T16:08:00.000Z",
+        "updatedAt": "2021-06-04T09:18:57.000Z",
+        "deletedAt": null
+      },
+      "ec8646e5-5830-41f6-acdf-66b6566454f9": {
+        "authors": [
+          "Haruhara Robinson"
+        ],
+        "identifier": "ec8646e5-5830-41f6-acdf-66b6566454f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Senyuu. - Haruhara Robinson Channel",
+        "url": "https://mangadex.org/title/ec8646e5-5830-41f6-acdf-66b6566454f9",
+        "image": "https://uploads.mangadex.org/covers/ec8646e5-5830-41f6-acdf-66b6566454f9/11904c1f-b5a9-41de-9c22-c53563be526e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81497,
+        "aniId": 112087,
+        "createdAt": "2020-10-12T16:16:38.000Z",
+        "updatedAt": "2021-06-07T00:28:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ud920190": {
+        "authors": [],
+        "identifier": "ud920190",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Senyuu. - Haruhara Robinson Channel",
+        "url": "https://manganelo.com/manga/ud920190",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1590-ud920190.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81497,
+        "aniId": 112087,
+        "createdAt": "2020-10-12T16:25:53.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

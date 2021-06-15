@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "彼の庭に咲く花",
+    "Flowers That Blossom in His Garden"
+  ],
+  "authors": [
+    "Kano Miyamoto"
+  ],
+  "id": 35337,
+  "malId": 5337,
+  "type": "manga",
+  "title": "Kare no Niwa ni Saku Hana",
+  "url": "https://anilist.co/manga/35337",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5337.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:27.000Z",
+  "updatedAt": "2021-05-20T14:39:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "71bb1017-3a10-41ce-9864-582c93c21ea4": {
+        "authors": [
+          "Miyamoto Kano"
+        ],
+        "identifier": "71bb1017-3a10-41ce-9864-582c93c21ea4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kare no Niwa ni Saku Hana",
+        "url": "https://mangadex.org/title/71bb1017-3a10-41ce-9864-582c93c21ea4",
+        "image": "https://uploads.mangadex.org/covers/71bb1017-3a10-41ce-9864-582c93c21ea4/e2574a52-04f4-4c8c-89d5-4d9ad4c60fee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5337,
+        "aniId": 35337,
+        "createdAt": "2020-10-12T16:05:39.000Z",
+        "updatedAt": "2021-06-03T14:06:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

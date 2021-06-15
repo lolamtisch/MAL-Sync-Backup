@@ -1,0 +1,131 @@
+{
+  "altTitle": [
+    "Ranma ½",
+    "らんま½",
+    "Ranma 1/2"
+  ],
+  "authors": [
+    "Rumiko Takahashi"
+  ],
+  "id": 30023,
+  "malId": 23,
+  "type": "manga",
+  "title": "Ranma ½",
+  "url": "https://anilist.co/manga/30023",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30023-7tPKGeDenzsa.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:21.000Z",
+  "updatedAt": "2021-05-20T14:35:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d41bebac-1fd3-45dd-80f4-c371db540a2a": {
+        "authors": [
+          "Takahashi Rumiko"
+        ],
+        "identifier": "d41bebac-1fd3-45dd-80f4-c371db540a2a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ranma 1/2",
+        "url": "https://mangadex.org/title/d41bebac-1fd3-45dd-80f4-c371db540a2a",
+        "image": "https://uploads.mangadex.org/covers/d41bebac-1fd3-45dd-80f4-c371db540a2a/b4ecfd71-4419-42f5-93d2-1c987a750148.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23,
+        "aniId": 30023,
+        "createdAt": "2020-10-12T16:03:24.000Z",
+        "updatedAt": "2021-06-02T13:44:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ranma_12": {
+        "authors": [],
+        "identifier": "ranma_12",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ranma 1/2",
+        "url": "https://manganelo.com/manga/ranma_12",
+        "image": "https://avt.mkklcdnv6.com/45/x/4-1583471619.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23,
+        "aniId": 30023,
+        "createdAt": "2020-10-12T16:25:03.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ranma_1_2": {
+        "authors": [
+          "TAKAHASHI Rumiko"
+        ],
+        "identifier": "ranma_1_2",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ranma 1/2",
+        "url": "https://fanfox.net/manga/ranma_1_2/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/72/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23,
+        "aniId": 30023,
+        "createdAt": "2020-12-25T15:57:09.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ranma12": {
+        "authors": [
+          "TAKAHASHI Rumiko"
+        ],
+        "identifier": "ranma12",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ranma 1/2",
+        "url": "https://mangasee123.com/manga/Ranma12",
+        "image": "https://cover.nep.li/cover/Ranma12.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23,
+        "aniId": 30023,
+        "createdAt": "2021-02-03T07:01:56.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-is957453": {
+        "authors": [
+          "Takahashi Rumiko"
+        ],
+        "identifier": "manga-is957453",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ranma 1/2",
+        "url": "https://readmanganato.com/manga-is957453",
+        "image": "https://avt.mkklcdnv6temp.com/45/x/4-1583471619.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23,
+        "aniId": 30023,
+        "createdAt": "2021-06-07T23:54:38.000Z",
+        "updatedAt": "2021-06-08T00:20:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

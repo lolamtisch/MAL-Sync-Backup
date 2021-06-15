@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Chicago",
+    "シカゴ"
+  ],
+  "authors": [
+    "Yumi Tamura"
+  ],
+  "id": 35061,
+  "malId": 5061,
+  "type": "manga",
+  "title": "Chicago",
+  "url": "https://anilist.co/manga/35061",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35061-SSCqcfQi6ZWJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64d34544-bd5d-4467-b818-d61f809c4c6b": {
+        "authors": [
+          "Tamura Yumi"
+        ],
+        "identifier": "64d34544-bd5d-4467-b818-d61f809c4c6b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chicago",
+        "url": "https://mangadex.org/title/64d34544-bd5d-4467-b818-d61f809c4c6b",
+        "image": "https://uploads.mangadex.org/covers/64d34544-bd5d-4467-b818-d61f809c4c6b/c3e2efd3-66d3-4c28-949f-cd594d7e43df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5061,
+        "aniId": 35061,
+        "createdAt": "2020-10-12T16:09:20.000Z",
+        "updatedAt": "2021-06-04T16:54:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

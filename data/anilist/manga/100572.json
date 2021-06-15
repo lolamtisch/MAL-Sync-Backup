@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "吸血鬼すぐ死ぬ",
+    "The Vampire Dies in No Time"
+  ],
+  "authors": [
+    "Itaru Bonnoki"
+  ],
+  "id": 100572,
+  "malId": 113400,
+  "type": "manga",
+  "title": "Kyuuketsuki Sugu Shinu",
+  "url": "https://anilist.co/manga/100572",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100572-1YX6OhjgoIWe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:01.000Z",
+  "updatedAt": "2021-05-20T14:57:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5725100d-81bd-467d-b680-1f4dff43adbd": {
+        "authors": [
+          "Bonnoki Itaru"
+        ],
+        "identifier": "5725100d-81bd-467d-b680-1f4dff43adbd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://mangadex.org/title/5725100d-81bd-467d-b680-1f4dff43adbd",
+        "image": "https://uploads.mangadex.org/covers/5725100d-81bd-467d-b680-1f4dff43adbd/27d77ac3-423f-450d-ab03-55e1bb63c6d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113400,
+        "aniId": 100572,
+        "createdAt": "2020-10-12T16:09:41.000Z",
+        "updatedAt": "2021-06-04T19:22:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kyuuketsuki_sugu_shinu": {
+        "authors": [],
+        "identifier": "kyuuketsuki_sugu_shinu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://manganelo.com/manga/kyuuketsuki_sugu_shinu",
+        "image": "https://avt.mkklcdnv6.com/47/k/15-1583493373.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113400,
+        "aniId": 100572,
+        "createdAt": "2020-10-12T16:24:04.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyuuketsuki_sugu_shinu": {
+        "authors": [
+          "BONNOKI Itaru"
+        ],
+        "identifier": "kyuuketsuki_sugu_shinu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://fanfox.net/manga/kyuuketsuki_sugu_shinu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26493/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113400,
+        "aniId": 100572,
+        "createdAt": "2021-01-12T09:22:08.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Lee Hyun Yoon"
+  ],
+  "id": 76058,
+  "malId": 46058,
+  "type": "manga",
+  "title": "Without the Sun",
+  "url": "https://anilist.co/manga/76058",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46058.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:29.000Z",
+  "updatedAt": "2021-05-20T14:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "04be1816-8fba-45f8-a3d0-3ad05718e874": {
+        "authors": [
+          "YOON Lee Hyun"
+        ],
+        "identifier": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Without the Sun",
+        "url": "https://mangadex.org/title/04be1816-8fba-45f8-a3d0-3ad05718e874",
+        "image": "https://uploads.mangadex.org/covers/04be1816-8fba-45f8-a3d0-3ad05718e874/b9a1b282-f3ec-4de1-ae52-81cca6fabff9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46058,
+        "aniId": 76058,
+        "createdAt": "2020-10-12T16:05:47.000Z",
+        "updatedAt": "2021-06-03T14:55:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dm922130": {
+        "authors": [],
+        "identifier": "dm922130",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Please Eat Without Hesitation",
+        "url": "https://manganelo.com/manga/dm922130",
+        "image": "https://avt.mkklcdnv6.com/32/f/20-1583502267.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46058,
+        "aniId": 76058,
+        "createdAt": "2020-10-12T16:22:40.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

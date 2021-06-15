@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Love of Mine",
+    "나만 아는 사랑",
+    "The Only Love I Know"
+  ],
+  "authors": [
+    "IM"
+  ],
+  "id": 121794,
+  "malId": null,
+  "type": "manga",
+  "title": "Naman Aneun Sarang",
+  "url": "https://anilist.co/manga/121794",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121794-jCKmVHQM9yZV.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:52:04.000Z",
+  "updatedAt": "2021-06-07T23:52:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7cc71294-3a29-42f3-94c8-de6b163ed24c": {
+        "authors": [
+          "Aim"
+        ],
+        "identifier": "7cc71294-3a29-42f3-94c8-de6b163ed24c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Only Love I Know",
+        "url": "https://mangadex.org/title/7cc71294-3a29-42f3-94c8-de6b163ed24c",
+        "image": "https://uploads.mangadex.org/covers/7cc71294-3a29-42f3-94c8-de6b163ed24c/e3983f08-3474-4391-8095-b9085713c2d4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 121794,
+        "createdAt": "2020-10-12T16:20:16.000Z",
+        "updatedAt": "2021-06-08T00:31:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

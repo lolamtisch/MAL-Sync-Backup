@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "おくることば"
+  ],
+  "authors": [
+    "Machida, Toshiko"
+  ],
+  "id": 105875,
+  "type": "manga",
+  "title": "Okuru Kotoba",
+  "url": "https://myanimelist.net/manga/105875/Okuru_Kotoba",
+  "image": "https://cdn.myanimelist.net/images/manga/1/202996.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:01.000Z",
+  "updatedAt": "2020-12-16T13:55:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d21daa0a-0abc-45c4-b9b1-d3456ba884d5": {
+        "authors": [
+          "Machida Toshiko"
+        ],
+        "identifier": "d21daa0a-0abc-45c4-b9b1-d3456ba884d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Okuru Kotoba",
+        "url": "https://mangadex.org/title/d21daa0a-0abc-45c4-b9b1-d3456ba884d5",
+        "image": "https://uploads.mangadex.org/covers/d21daa0a-0abc-45c4-b9b1-d3456ba884d5/56200e2d-0ca8-4773-b07a-82792a6de00a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105875,
+        "aniId": 99982,
+        "createdAt": "2020-10-12T16:14:07.000Z",
+        "updatedAt": "2021-06-06T02:37:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yk917629": {
+        "authors": [
+          "Toshiko",
+          "Machida"
+        ],
+        "identifier": "yk917629",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Okuru Kotoba",
+        "url": "https://manganelo.com/manga/yk917629",
+        "image": "https://avt.mkklcdnv6.com/15/z/17-1583495837.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105875,
+        "aniId": 99982,
+        "createdAt": "2020-12-16T13:55:36.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

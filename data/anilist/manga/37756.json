@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "あばしり一家"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 37756,
+  "malId": 7756,
+  "type": "manga",
+  "title": "Abashiri Ikka",
+  "url": "https://anilist.co/manga/37756",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37756-JrPGiFMVmuHp.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:55.000Z",
+  "updatedAt": "2021-05-20T14:39:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31d175c3-8bc4-4d5b-93b1-78c1763225c6": {
+        "authors": [
+          "Nagai Go",
+          "Ishikawa Ken"
+        ],
+        "identifier": "31d175c3-8bc4-4d5b-93b1-78c1763225c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Abashiri Ikka",
+        "url": "https://mangadex.org/title/31d175c3-8bc4-4d5b-93b1-78c1763225c6",
+        "image": "https://uploads.mangadex.org/covers/31d175c3-8bc4-4d5b-93b1-78c1763225c6/fa8be6ed-7ec1-4f8f-a795-5c9617f07c94.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7756,
+        "aniId": 37756,
+        "createdAt": "2020-10-12T16:09:13.000Z",
+        "updatedAt": "2021-06-04T15:59:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

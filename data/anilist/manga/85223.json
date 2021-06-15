@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "たまにゃん",
+    "Tama-nyan"
+  ],
+  "authors": [
+    "Yuna Kagesaki"
+  ],
+  "id": 85223,
+  "malId": 56517,
+  "type": "manga",
+  "title": "Tamanyan",
+  "url": "https://anilist.co/manga/85223",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85223-xzEuwcObHcsB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:29.000Z",
+  "updatedAt": "2021-05-20T14:50:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc9fc6f6-2197-4951-b36c-9e3880023b29": {
+        "authors": [
+          "Kagesaki Yuna"
+        ],
+        "identifier": "fc9fc6f6-2197-4951-b36c-9e3880023b29",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tamanyan",
+        "url": "https://mangadex.org/title/fc9fc6f6-2197-4951-b36c-9e3880023b29",
+        "image": "https://uploads.mangadex.org/covers/fc9fc6f6-2197-4951-b36c-9e3880023b29/abd37d69-986b-4c4d-af1e-3134fedcaf41.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56517,
+        "aniId": 85223,
+        "createdAt": "2020-10-12T16:06:40.000Z",
+        "updatedAt": "2021-06-03T21:20:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tamanyan": {
+        "authors": [
+          "KAGESAKI Yuna"
+        ],
+        "identifier": "tamanyan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tamanyan",
+        "url": "https://mangasee123.com/manga/Tamanyan",
+        "image": "https://cover.nep.li/cover/Tamanyan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56517,
+        "aniId": 85223,
+        "createdAt": "2021-03-24T01:15:31.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tamanyan": {
+        "authors": [
+          "Kagesaki",
+          "Yuna"
+        ],
+        "identifier": "tamanyan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tamanyan",
+        "url": "https://manganelo.com/manga/tamanyan",
+        "image": "https://avt.mkklcdnv6temp.com/15/w/2-1583466310.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56517,
+        "aniId": 85223,
+        "createdAt": "2021-03-30T23:01:06.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

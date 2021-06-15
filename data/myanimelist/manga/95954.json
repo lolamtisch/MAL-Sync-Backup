@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Tokyo Undead",
+    "東京アンデッド"
+  ],
+  "authors": [
+    "Saimura, Tsukasa",
+    "Nakayama, Shigeo"
+  ],
+  "id": 95954,
+  "type": "manga",
+  "title": "Tokyo Undead",
+  "url": "https://myanimelist.net/manga/95954/Tokyo_Undead",
+  "image": "https://cdn.myanimelist.net/images/manga/2/171183.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:23.000Z",
+  "updatedAt": "2021-03-26T01:20:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "85929264-a1d4-4d71-b59b-696d961fdf28": {
+        "authors": [
+          "SAIMURA Tsukasa",
+          "NAKAYAMA Shigeo"
+        ],
+        "identifier": "85929264-a1d4-4d71-b59b-696d961fdf28",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Undead",
+        "url": "https://mangadex.org/title/85929264-a1d4-4d71-b59b-696d961fdf28",
+        "image": "https://uploads.mangadex.org/covers/85929264-a1d4-4d71-b59b-696d961fdf28/c028cdaf-c2b3-478b-9f1f-633ff32ea02b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95954,
+        "aniId": 96739,
+        "createdAt": "2020-10-12T16:13:05.000Z",
+        "updatedAt": "2021-06-05T18:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tokyo-undead": {
+        "authors": [
+          "NAKAYAMA Shigeo",
+          "SAIMURA Tsukasa"
+        ],
+        "identifier": "tokyo-undead",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tokyo Undead",
+        "url": "https://mangasee123.com/manga/Tokyo-Undead",
+        "image": "https://cover.nep.li/cover/Tokyo-Undead.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95954,
+        "aniId": 96739,
+        "createdAt": "2021-03-26T01:20:02.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

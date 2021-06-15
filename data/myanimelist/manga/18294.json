@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Sen no Yoru, Koi to Kingyo",
+    "愛だの恋だの"
+  ],
+  "authors": [
+    "Ootsuki, Miu"
+  ],
+  "id": 18294,
+  "type": "manga",
+  "title": "Ai dano Koi dano",
+  "url": "https://myanimelist.net/manga/18294/Ai_dano_Koi_dano",
+  "image": "https://cdn.myanimelist.net/images/manga/1/182534.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:32.000Z",
+  "updatedAt": "2021-06-03T16:21:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e88fb83-a75c-43bb-8d83-584344e99d1e": {
+        "authors": [
+          "Ootsuki Miu"
+        ],
+        "identifier": "3e88fb83-a75c-43bb-8d83-584344e99d1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai Dano Koi Dano",
+        "url": "https://mangadex.org/title/3e88fb83-a75c-43bb-8d83-584344e99d1e",
+        "image": "https://uploads.mangadex.org/covers/3e88fb83-a75c-43bb-8d83-584344e99d1e/d31413a6-e75d-4130-8c21-93e582bf2821.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18294,
+        "aniId": 48294,
+        "createdAt": "2020-10-12T16:05:55.000Z",
+        "updatedAt": "2021-06-03T16:21:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ai_dano_koi_dano": {
+        "authors": [],
+        "identifier": "ai_dano_koi_dano",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ai dano Koi dano",
+        "url": "https://manganelo.com/manga/ai_dano_koi_dano",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7931-ai_dano_koi_dano.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18294,
+        "aniId": 48294,
+        "createdAt": "2020-10-12T16:22:02.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

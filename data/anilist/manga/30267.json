@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Hellsing",
+    "ヘルシング",
+    "Hellsing Cross Fire",
+    "Crossfire"
+  ],
+  "authors": [
+    "Kouta Hirano"
+  ],
+  "id": 30267,
+  "malId": 267,
+  "type": "manga",
+  "title": "Hellsing",
+  "url": "https://anilist.co/manga/30267",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30267-w3NHbBONJ4bN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-05-20T14:33:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6fcfaa0e-6023-403e-97f9-5301dd3c258c": {
+        "authors": [
+          "Hirano Kouta"
+        ],
+        "identifier": "6fcfaa0e-6023-403e-97f9-5301dd3c258c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hellsing",
+        "url": "https://mangadex.org/title/6fcfaa0e-6023-403e-97f9-5301dd3c258c",
+        "image": "https://uploads.mangadex.org/covers/6fcfaa0e-6023-403e-97f9-5301dd3c258c/fa7b67e1-6262-44bd-b2f2-ca221c2f70df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 267,
+        "aniId": 30267,
+        "createdAt": "2020-10-12T16:02:26.000Z",
+        "updatedAt": "2021-06-02T06:50:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jzde76471556853820": {
+        "authors": [],
+        "identifier": "jzde76471556853820",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hellsing",
+        "url": "https://manganelo.com/manga/jzde76471556853820",
+        "image": "https://avt.mkklcdnv6.com/47/x/5-1583473765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 267,
+        "aniId": 30267,
+        "createdAt": "2020-10-12T16:23:48.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hellsing": {
+        "authors": [
+          "HIRANO Kouta"
+        ],
+        "identifier": "hellsing",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hellsing",
+        "url": "https://mangasee123.com/manga/Hellsing",
+        "image": "https://cover.nep.li/cover/Hellsing.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 267,
+        "aniId": 30267,
+        "createdAt": "2021-01-31T09:02:08.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Zoids Genesis",
+    "ゾイド ジェネシス"
+  ],
+  "id": 712,
+  "malId": 712,
+  "type": "anime",
+  "title": "Zoids Genesis",
+  "url": "https://anilist.co/anime/712",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/712.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:43.000Z",
+  "updatedAt": "2021-05-20T14:34:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "rowo": {
+        "identifier": "rowo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zoids Genesis",
+        "url": "https://9anime.ru/watch/zoids-genesis.rowo",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-IakLyoCmQk0/V7YF0s3AvyI/AAAAAAAA4CU/k96S8hVufMo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 712,
+        "aniId": 712,
+        "createdAt": "2020-10-12T15:55:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "zoids-genesis": {
+        "identifier": "zoids-genesis",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Zoids Genesis",
+        "url": "https://www7.gogoanime.io/category/zoids-genesis",
+        "image": "https://cdnimg.xyz/images/anime/zoids-genesis.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 712,
+        "aniId": 712,
+        "createdAt": "2020-10-12T16:02:22.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

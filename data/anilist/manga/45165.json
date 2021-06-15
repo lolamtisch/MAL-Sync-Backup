@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "レッツ☆ラグーン",
+    "Lets Lagoon"
+  ],
+  "authors": [
+    "Takeshi Okazaki"
+  ],
+  "id": 45165,
+  "malId": 15165,
+  "type": "manga",
+  "title": "Let's☆Lagoon",
+  "url": "https://anilist.co/manga/45165",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15165.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1df840e9-e112-4503-9c99-2fa93a5cb764": {
+        "authors": [
+          "Okazaki Takeshi"
+        ],
+        "identifier": "1df840e9-e112-4503-9c99-2fa93a5cb764",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Let's Lagoon",
+        "url": "https://mangadex.org/title/1df840e9-e112-4503-9c99-2fa93a5cb764",
+        "image": "https://uploads.mangadex.org/covers/1df840e9-e112-4503-9c99-2fa93a5cb764/63963472-dd66-480d-8f97-0020ffeee92c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15165,
+        "aniId": 45165,
+        "createdAt": "2020-10-12T16:02:38.000Z",
+        "updatedAt": "2021-06-02T08:30:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bdyd127951580265168": {
+        "authors": [],
+        "identifier": "bdyd127951580265168",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Let's Lagoon",
+        "url": "https://manganelo.com/manga/bdyd127951580265168",
+        "image": "https://avt.mkklcdnv6.com/21/h/9-1583480931.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15165,
+        "aniId": 45165,
+        "createdAt": "2020-10-12T16:22:14.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "let_s_lagoon": {
+        "authors": [
+          "OKAZAKI Takeshi"
+        ],
+        "identifier": "let_s_lagoon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Let's Lagoon",
+        "url": "https://fanfox.net/manga/let_s_lagoon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6395/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15165,
+        "aniId": 45165,
+        "createdAt": "2021-02-25T03:56:32.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

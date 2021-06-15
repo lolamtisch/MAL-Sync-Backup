@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Tokyo Mew Mew a La Mode",
+    "東京ミュウミュウあ・ら・もーど",
+    "Tokyo Mew Mew in Fashion"
+  ],
+  "authors": [
+    "Mia Ikumi",
+    "Nathalie Martinez"
+  ],
+  "id": 30555,
+  "malId": 555,
+  "type": "manga",
+  "title": "Tokyo Mew Mew a La Mode",
+  "url": "https://anilist.co/manga/30555",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30555-qj72tVNyeRsW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4de226b3-7dd8-4e1d-8166-b51a5ff9e65b": {
+        "authors": [
+          "IKUMI Mia"
+        ],
+        "identifier": "4de226b3-7dd8-4e1d-8166-b51a5ff9e65b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Mew Mew a La Mode",
+        "url": "https://mangadex.org/title/4de226b3-7dd8-4e1d-8166-b51a5ff9e65b",
+        "image": "https://uploads.mangadex.org/covers/4de226b3-7dd8-4e1d-8166-b51a5ff9e65b/cc1e628b-88f4-466f-a0c2-12faf13052b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 555,
+        "aniId": 30555,
+        "createdAt": "2020-10-12T16:13:05.000Z",
+        "updatedAt": "2021-06-05T18:40:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

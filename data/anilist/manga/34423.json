@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Ôoku: The Inner Chambers",
+    "大奥",
+    "Ohoku",
+    "O-oku",
+    "Le Pavillon des Hommes"
+  ],
+  "authors": [
+    "Fumi Yoshinaga",
+    "Miyako Slocombe"
+  ],
+  "id": 34423,
+  "malId": 4423,
+  "type": "manga",
+  "title": "Ooku",
+  "url": "https://anilist.co/manga/34423",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34423-ovDKLTkD94KF.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:32.000Z",
+  "updatedAt": "2021-05-20T14:38:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "99c55b76-dee9-4758-a0c9-ed1a70d4edca": {
+        "authors": [
+          "Yoshinaga Fumi"
+        ],
+        "identifier": "99c55b76-dee9-4758-a0c9-ed1a70d4edca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ōoku: The Inner Chambers",
+        "url": "https://mangadex.org/title/99c55b76-dee9-4758-a0c9-ed1a70d4edca",
+        "image": "https://uploads.mangadex.org/covers/99c55b76-dee9-4758-a0c9-ed1a70d4edca/3d327f7f-3a4a-43e4-9f24-131d5b9fdd42.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4423,
+        "aniId": 34423,
+        "createdAt": "2020-10-12T16:13:05.000Z",
+        "updatedAt": "2021-06-05T18:37:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "oooku": {
+        "authors": [
+          "YOSHINAGA Fumi"
+        ],
+        "identifier": "oooku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Oooku",
+        "url": "https://mangasee123.com/manga/Oooku",
+        "image": "https://cover.nep.li/cover/Oooku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4423,
+        "aniId": 34423,
+        "createdAt": "2021-01-20T03:08:11.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "魔法使いの涙"
+  ],
+  "authors": [
+    "Bohra Naono"
+  ],
+  "id": 55252,
+  "malId": 25252,
+  "type": "manga",
+  "title": "Mahoutsukai no Namida",
+  "url": "https://anilist.co/manga/55252",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25252.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2e72d2d2-4cdb-432f-8394-81c2469a6217": {
+        "authors": [
+          "Naono Bohra"
+        ],
+        "identifier": "2e72d2d2-4cdb-432f-8394-81c2469a6217",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Tsukai no Namida",
+        "url": "https://mangadex.org/title/2e72d2d2-4cdb-432f-8394-81c2469a6217",
+        "image": "https://uploads.mangadex.org/covers/2e72d2d2-4cdb-432f-8394-81c2469a6217/a6c3d2c2-0c23-40bf-a964-9cdbf7553f73.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25252,
+        "aniId": 55252,
+        "createdAt": "2020-10-12T16:12:19.000Z",
+        "updatedAt": "2021-06-05T14:12:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

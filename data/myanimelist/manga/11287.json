@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "あたしはそれを我慢できない"
+  ],
+  "authors": [
+    "Enjouji, Maki"
+  ],
+  "id": 11287,
+  "type": "manga",
+  "title": "Atashi wa Sore wo Gaman Dekinai",
+  "url": "https://myanimelist.net/manga/11287/Atashi_wa_Sore_wo_Gaman_Dekinai",
+  "image": "https://cdn.myanimelist.net/images/manga/1/77769.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:32.000Z",
+  "updatedAt": "2021-04-25T03:27:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2c5eb7b3-2e18-4a00-9919-5e376cc10a4c": {
+        "authors": [
+          "Enjouji Maki"
+        ],
+        "identifier": "2c5eb7b3-2e18-4a00-9919-5e376cc10a4c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Atashi wa Sore wo Gaman Dekinai",
+        "url": "https://mangadex.org/title/2c5eb7b3-2e18-4a00-9919-5e376cc10a4c",
+        "image": "https://uploads.mangadex.org/covers/2c5eb7b3-2e18-4a00-9919-5e376cc10a4c/a68f91e0-7eb2-4aa1-88be-a14900c1e679.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11287,
+        "aniId": 41287,
+        "createdAt": "2020-10-12T16:05:08.000Z",
+        "updatedAt": "2021-06-03T10:27:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "atashi_wa_sore_wo_gaman_dekinai": {
+        "authors": [
+          "ENJOUJI Maki"
+        ],
+        "identifier": "atashi_wa_sore_wo_gaman_dekinai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Atashi wa Sore wo Gaman Dekinai",
+        "url": "https://fanfox.net/manga/atashi_wa_sore_wo_gaman_dekinai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6704/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11287,
+        "aniId": 41287,
+        "createdAt": "2021-01-17T10:33:29.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "atashi_wa_sore_wo_gaman_dekinai": {
+        "authors": [
+          "Enjouji",
+          "Maki"
+        ],
+        "identifier": "atashi_wa_sore_wo_gaman_dekinai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Atashi Wa Sore Wo Gaman Dekinai",
+        "url": "https://manganelo.com/manga/atashi_wa_sore_wo_gaman_dekinai",
+        "image": "https://avt.mkklcdnv6temp.com/47/e/6-1583476163.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11287,
+        "aniId": 41287,
+        "createdAt": "2021-04-25T03:27:14.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

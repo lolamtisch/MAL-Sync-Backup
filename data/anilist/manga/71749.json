@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Kyoung-Lan Park"
+  ],
+  "id": 71749,
+  "malId": 41749,
+  "type": "manga",
+  "title": "Best Couple",
+  "url": "https://anilist.co/manga/71749",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41749.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:50.000Z",
+  "updatedAt": "2021-05-20T14:48:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2c7d784f-cb8c-49c2-999e-ab9f2f6453ed": {
+        "authors": [
+          "Park Kyung-ran"
+        ],
+        "identifier": "2c7d784f-cb8c-49c2-999e-ab9f2f6453ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Best Couple",
+        "url": "https://mangadex.org/title/2c7d784f-cb8c-49c2-999e-ab9f2f6453ed",
+        "image": "https://uploads.mangadex.org/covers/2c7d784f-cb8c-49c2-999e-ab9f2f6453ed/2873e032-8137-419a-a561-1d6f1499855d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41749,
+        "aniId": 71749,
+        "createdAt": "2020-10-12T16:05:12.000Z",
+        "updatedAt": "2021-06-03T10:56:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

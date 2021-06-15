@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "桜雪"
+  ],
+  "authors": [
+    "Ichtys"
+  ],
+  "id": 40342,
+  "malId": 10342,
+  "type": "manga",
+  "title": "Sakura Yuki",
+  "url": "https://anilist.co/manga/40342",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10342.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:03.000Z",
+  "updatedAt": "2021-05-20T14:41:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "50693d8c-a77e-4d76-a4cb-0f77070c53b6": {
+        "authors": [
+          "Ichtys"
+        ],
+        "identifier": "50693d8c-a77e-4d76-a4cb-0f77070c53b6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakura Yuki",
+        "url": "https://mangadex.org/title/50693d8c-a77e-4d76-a4cb-0f77070c53b6",
+        "image": "https://uploads.mangadex.org/covers/50693d8c-a77e-4d76-a4cb-0f77070c53b6/c107a0ae-d7ac-45cf-8309-ec14dc7f00f2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10342,
+        "aniId": 40342,
+        "createdAt": "2020-10-12T16:03:32.000Z",
+        "updatedAt": "2021-06-02T14:41:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

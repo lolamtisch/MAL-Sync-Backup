@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "風の還る場所",
+    "Where the Wind Returns To"
+  ],
+  "authors": [
+    "Aoi Nanase"
+  ],
+  "id": 34498,
+  "malId": 4498,
+  "type": "manga",
+  "title": "Kaze no Kaeru Basho",
+  "url": "https://anilist.co/manga/34498",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4498.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:32.000Z",
+  "updatedAt": "2021-05-20T14:38:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d": {
+        "authors": [
+          "Nanase Aoi"
+        ],
+        "identifier": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaze no Kaeru Basho",
+        "url": "https://mangadex.org/title/ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
+        "image": "https://uploads.mangadex.org/covers/ae447c62-4aaf-4a5b-851c-f93ec6a2a62d/be50707b-1039-485d-9059-0f373dad85be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4498,
+        "aniId": 34498,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:01:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

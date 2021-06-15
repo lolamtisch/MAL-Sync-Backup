@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "무용지용",
+    "Useful Good-for-Nothing",
+    "無用之用"
+  ],
+  "authors": [
+    "Soo-Hyun Lee"
+  ],
+  "id": 123631,
+  "malId": null,
+  "type": "manga",
+  "title": "Muyong Jiyong",
+  "url": "https://anilist.co/manga/123631",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123631-iFFFCQ573VM0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T03:49:30.000Z",
+  "updatedAt": "2021-06-04T03:49:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9bbc0ed-8727-4935-8adb-1949050c6dc6": {
+        "authors": [
+          "이수현"
+        ],
+        "identifier": "e9bbc0ed-8727-4935-8adb-1949050c6dc6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Muyong Jiyong",
+        "url": "https://mangadex.org/title/e9bbc0ed-8727-4935-8adb-1949050c6dc6",
+        "image": "https://uploads.mangadex.org/covers/e9bbc0ed-8727-4935-8adb-1949050c6dc6/6a5b3b16-a1c6-4544-a735-59e9cd629bf8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123631,
+        "createdAt": "2020-10-12T16:07:33.000Z",
+        "updatedAt": "2021-06-04T08:56:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

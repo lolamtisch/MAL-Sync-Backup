@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "とあるヤンキーのバレンタイン",
+    "A Certain Yankee Valentine"
+  ],
+  "authors": [
+    "Mii Aimai"
+  ],
+  "id": 127020,
+  "malId": null,
+  "type": "manga",
+  "title": "Toaru Yankee no Valentine",
+  "url": "https://anilist.co/manga/127020",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127020-0XAOOdpwgs8D.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T18:06:39.000Z",
+  "updatedAt": "2021-06-07T18:06:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb8bb845-be01-4ac0-965e-0a0612521056": {
+        "authors": [
+          "Aimai Mii"
+        ],
+        "identifier": "bb8bb845-be01-4ac0-965e-0a0612521056",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Certain Yankee Valentine",
+        "url": "https://mangadex.org/title/bb8bb845-be01-4ac0-965e-0a0612521056",
+        "image": "https://uploads.mangadex.org/covers/bb8bb845-be01-4ac0-965e-0a0612521056/75676d1b-8b3a-4806-ab30-ff23fb103ed2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127020,
+        "createdAt": "2020-10-12T16:18:33.000Z",
+        "updatedAt": "2021-06-07T19:16:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

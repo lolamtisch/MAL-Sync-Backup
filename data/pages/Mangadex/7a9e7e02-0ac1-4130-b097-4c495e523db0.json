@@ -1,0 +1,64 @@
+{
+  "authors": [
+    "Hwang Youngchan",
+    "Jung Jae-han"
+  ],
+  "identifier": "7a9e7e02-0ac1-4130-b097-4c495e523db0",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "Be Heun",
+  "url": "https://mangadex.org/title/7a9e7e02-0ac1-4130-b097-4c495e523db0",
+  "image": "https://uploads.mangadex.org/covers/7a9e7e02-0ac1-4130-b097-4c495e523db0/d1300125-b519-46af-8e4a-b6e4a7122804.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 103622,
+  "aniId": 98835,
+  "createdAt": "2020-10-12T16:02:24.000Z",
+  "updatedAt": "2021-06-02T06:36:34.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "9, Nine",
+      "NeuN"
+    ],
+    "authors": [
+      "Takahashi, Tsutomu"
+    ],
+    "id": 103622,
+    "type": "manga",
+    "title": "NeuN",
+    "url": "https://myanimelist.net/manga/103622/NeuN",
+    "image": "https://cdn.myanimelist.net/images/manga/2/200227.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:49.000Z",
+    "updatedAt": "2021-04-20T13:44:41.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "NeuN",
+      "Nine",
+      "Ninth",
+      "9",
+      "ノイン"
+    ],
+    "authors": [
+      "Tsutomu Takahashi"
+    ],
+    "id": 98835,
+    "malId": 103622,
+    "type": "manga",
+    "title": "NeuN",
+    "url": "https://anilist.co/manga/98835",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98835-J7MppqI9oU0E.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:55:04.000Z",
+    "updatedAt": "2021-05-20T14:55:04.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/103622/NeuN"
+}

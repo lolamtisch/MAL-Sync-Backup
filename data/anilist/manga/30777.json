@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "Black Knight",
+    "黒の騎士",
+    "Kuro no Kishi: Deau",
+    "Kuro no Kishi: Tabidachi",
+    "Kuro no Kishi: Unmei no Tei",
+    "Shi ni itaru tsumi"
+  ],
+  "authors": [
+    "Kai Tsurugi"
+  ],
+  "id": 30777,
+  "malId": 777,
+  "type": "manga",
+  "title": "Kuro no Kishi",
+  "url": "https://anilist.co/manga/30777",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30777-zSwK3tM0eJPX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:43.000Z",
+  "updatedAt": "2021-05-20T14:35:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "24cf520c-0e0a-4be3-a062-72cd233de427": {
+        "authors": [
+          "Tsurugi Kai"
+        ],
+        "identifier": "24cf520c-0e0a-4be3-a062-72cd233de427",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuro no Kishi",
+        "url": "https://mangadex.org/title/24cf520c-0e0a-4be3-a062-72cd233de427",
+        "image": "https://uploads.mangadex.org/covers/24cf520c-0e0a-4be3-a062-72cd233de427/af16a2b3-c492-41e3-8e2c-4a216f2b34b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 777,
+        "aniId": 30777,
+        "createdAt": "2020-11-23T08:25:58.000Z",
+        "updatedAt": "2021-06-08T07:35:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "black_knight": {
+        "authors": [
+          "Tsurugi",
+          "Kai"
+        ],
+        "identifier": "black_knight",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Black Knight",
+        "url": "https://manganelo.com/manga/black_knight",
+        "image": "https://avt.mkklcdnv6temp.com/42/g/6-1583475904.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 777,
+        "aniId": 30777,
+        "createdAt": "2021-05-16T03:55:17.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

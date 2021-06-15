@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Girls Bravo",
+    "GIRLSブラボー"
+  ],
+  "authors": [
+    "Mario Kaneda",
+    "Chris Anderson",
+    "Asuka Yoshizu",
+    "Antje Bockel"
+  ],
+  "id": 30325,
+  "malId": 325,
+  "type": "manga",
+  "title": "Girls Bravo",
+  "url": "https://anilist.co/manga/30325",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30325-8VPqwYfLQHD2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6a890088-516e-4f1c-84ae-04bbaeeb7226": {
+        "authors": [
+          "Mario Kaneda"
+        ],
+        "identifier": "6a890088-516e-4f1c-84ae-04bbaeeb7226",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girls Bravo",
+        "url": "https://mangadex.org/title/6a890088-516e-4f1c-84ae-04bbaeeb7226",
+        "image": "https://uploads.mangadex.org/covers/6a890088-516e-4f1c-84ae-04bbaeeb7226/a40cbd67-a9f7-4328-9d43-5c42a6aeb299.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 325,
+        "aniId": 30325,
+        "createdAt": "2020-10-12T16:03:16.000Z",
+        "updatedAt": "2021-06-02T12:49:32.000Z",
+        "deletedAt": null
+      },
+      "4e506c35-1b0d-4459-a379-4ddca9de163f": {
+        "authors": [
+          "Asagi Ryuu"
+        ],
+        "identifier": "4e506c35-1b0d-4459-a379-4ddca9de163f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girls Girls",
+        "url": "https://mangadex.org/title/4e506c35-1b0d-4459-a379-4ddca9de163f",
+        "image": "https://uploads.mangadex.org/covers/4e506c35-1b0d-4459-a379-4ddca9de163f/78301e68-894b-4a1f-aa21-a2bd9aad45cc.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 325,
+        "aniId": 30325,
+        "createdAt": "2020-10-12T16:11:26.000Z",
+        "updatedAt": "2021-06-05T08:24:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tu921982": {
+        "authors": [],
+        "identifier": "tu921982",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "I Won't Get Bullied By Girls",
+        "url": "https://manganelo.com/manga/tu921982",
+        "image": "https://avt.mkklcdnv6.com/26/q/20-1583502054.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 325,
+        "aniId": 30325,
+        "createdAt": "2020-10-12T16:25:51.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "girls-bravo": {
+        "authors": [
+          "MARIO Kaneda"
+        ],
+        "identifier": "girls-bravo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Girls Bravo",
+        "url": "https://mangasee123.com/manga/Girls-Bravo",
+        "image": "https://cover.nep.li/cover/Girls-Bravo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 325,
+        "aniId": 30325,
+        "createdAt": "2021-05-11T16:54:42.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

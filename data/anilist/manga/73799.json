@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "metro",
+    "metro ～メトロ～"
+  ],
+  "authors": [
+    "Chika Ishikawa"
+  ],
+  "id": 73799,
+  "malId": 43799,
+  "type": "manga",
+  "title": "metro",
+  "url": "https://anilist.co/manga/73799",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43799.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:58.000Z",
+  "updatedAt": "2021-05-20T14:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "950754b4-06f4-421a-a5a1-2e290aea701d": {
+        "authors": [
+          "Hongou Chika"
+        ],
+        "identifier": "950754b4-06f4-421a-a5a1-2e290aea701d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "METRO",
+        "url": "https://mangadex.org/title/950754b4-06f4-421a-a5a1-2e290aea701d",
+        "image": "https://uploads.mangadex.org/covers/950754b4-06f4-421a-a5a1-2e290aea701d/c0179192-e380-473f-ad4a-ffc11ba4a73f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43799,
+        "aniId": 73799,
+        "createdAt": "2020-10-12T16:18:22.000Z",
+        "updatedAt": "2021-06-07T16:22:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

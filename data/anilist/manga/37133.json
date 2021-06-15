@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "アルペンローゼ",
+    "Alpenrose",
+    "Alpine Rose"
+  ],
+  "authors": [
+    "Michiyo Akaishi"
+  ],
+  "id": 37133,
+  "malId": 7133,
+  "type": "manga",
+  "title": "Alpen Rose",
+  "url": "https://anilist.co/manga/37133",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37133-aG7IeJj5rV4v.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:46.000Z",
+  "updatedAt": "2021-05-20T14:39:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0dfe9335-5d55-4565-b189-3acc6cfc6195": {
+        "authors": [
+          "Akaishi Michiyo"
+        ],
+        "identifier": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alpine Rose",
+        "url": "https://mangadex.org/title/0dfe9335-5d55-4565-b189-3acc6cfc6195",
+        "image": "https://uploads.mangadex.org/covers/0dfe9335-5d55-4565-b189-3acc6cfc6195/7a84abd1-6d50-4cfd-8d6c-9fb593b942aa.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7133,
+        "aniId": 37133,
+        "createdAt": "2020-10-12T16:03:42.000Z",
+        "updatedAt": "2021-06-02T15:51:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

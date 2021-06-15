@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "終点unknown外伝"
+  ],
+  "authors": [
+    "Shiho Sugiura"
+  ],
+  "id": 103288,
+  "malId": 111793,
+  "type": "manga",
+  "title": "Shuuten Unknown Gaiden",
+  "url": "https://anilist.co/manga/103288",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103288-oETKyLDTDsRV.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:50.000Z",
+  "updatedAt": "2021-05-20T14:56:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e0ca36f0-9f6b-4b16-a9c2-9f5a393d60be": {
+        "authors": [
+          "Sugiura Shiho"
+        ],
+        "identifier": "e0ca36f0-9f6b-4b16-a9c2-9f5a393d60be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shuuten Unknown Gaiden",
+        "url": "https://mangadex.org/title/e0ca36f0-9f6b-4b16-a9c2-9f5a393d60be",
+        "image": "https://uploads.mangadex.org/covers/e0ca36f0-9f6b-4b16-a9c2-9f5a393d60be/4518d3d7-3b16-4073-abaf-560c81c8bbbf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111793,
+        "aniId": 103288,
+        "createdAt": "2020-10-12T16:11:39.000Z",
+        "updatedAt": "2021-06-05T10:04:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

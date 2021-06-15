@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "ゆりかもね",
+    "After Life",
+    "Yuri kamo ne",
+    "Yurika mone"
+  ],
+  "authors": [
+    "Poppu Zakkun",
+    "Sayman Dowman",
+    "G=Hikorou"
+  ],
+  "id": 100323,
+  "malId": 63779,
+  "type": "manga",
+  "title": "Yurikamone",
+  "url": "https://anilist.co/manga/100323",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100323-bSJPyU5hZ7XE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:49.000Z",
+  "updatedAt": "2021-05-20T14:50:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "07e57a6e-ea06-4350-908a-2aa000d15c3c": {
+        "authors": [
+          "G=Kundow (circle)",
+          "Dowman Sayman"
+        ],
+        "identifier": "07e57a6e-ea06-4350-908a-2aa000d15c3c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "After Life (Doujinshi)",
+        "url": "https://mangadex.org/title/07e57a6e-ea06-4350-908a-2aa000d15c3c",
+        "image": "https://uploads.mangadex.org/covers/07e57a6e-ea06-4350-908a-2aa000d15c3c/04867c7b-9c8d-4633-9119-29cce743d7d8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63779,
+        "aniId": 100323,
+        "createdAt": "2020-10-12T16:06:57.000Z",
+        "updatedAt": "2021-06-03T23:21:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

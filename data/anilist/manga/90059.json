@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "GetBackers -奪還屋- 番外編",
+    "Get Backers Side Story"
+  ],
+  "authors": [],
+  "id": 90059,
+  "malId": 64849,
+  "type": "manga",
+  "title": "GetBackers Bangai-hen",
+  "url": "https://anilist.co/manga/90059",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90059-s8wdm25gIXGx.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eea66d18-0ccc-45b6-8893-85c05386bc4b": {
+        "authors": [
+          "AOKI Yuuya",
+          "AYAMINE Rando"
+        ],
+        "identifier": "eea66d18-0ccc-45b6-8893-85c05386bc4b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "GetBackers Bangaihen",
+        "url": "https://mangadex.org/title/eea66d18-0ccc-45b6-8893-85c05386bc4b",
+        "image": "https://uploads.mangadex.org/covers/eea66d18-0ccc-45b6-8893-85c05386bc4b/19ea4b12-14bc-4f69-83e0-6f733e303564.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64849,
+        "aniId": 90059,
+        "createdAt": "2020-10-12T16:07:53.000Z",
+        "updatedAt": "2021-06-04T05:59:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "スウィート・バーサス・ホーム",
+    "Hatsu Koi",
+    "First Love",
+    "Sweet vs. Home"
+  ],
+  "authors": [
+    "Miyuki Abe"
+  ],
+  "id": 32461,
+  "malId": 2461,
+  "type": "manga",
+  "title": "Sweet vs Home",
+  "url": "https://anilist.co/manga/32461",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2461.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T13:49:49.000Z",
+  "updatedAt": "2021-06-05T13:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "844c093b-da19-455a-aade-46281e123446": {
+        "authors": [
+          "Abe Miyuki"
+        ],
+        "identifier": "844c093b-da19-455a-aade-46281e123446",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sweet vs. Home",
+        "url": "https://mangadex.org/title/844c093b-da19-455a-aade-46281e123446",
+        "image": "https://uploads.mangadex.org/covers/844c093b-da19-455a-aade-46281e123446/98ab1f26-cb1d-49d0-8555-061586685512.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2461,
+        "aniId": 32461,
+        "createdAt": "2020-10-12T16:12:09.000Z",
+        "updatedAt": "2021-06-05T14:07:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qe967761": {
+        "authors": [
+          "Abe Miyuki"
+        ],
+        "identifier": "manga-qe967761",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sweet Vs Home",
+        "url": "https://manganato.com/manga-qe967761",
+        "image": "https://avt.mkklcdnv6temp.com/37/c/11-1583485348.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2461,
+        "aniId": 32461,
+        "createdAt": "2021-05-31T09:17:20.000Z",
+        "updatedAt": "2021-06-05T14:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

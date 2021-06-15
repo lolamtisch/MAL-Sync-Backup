@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Go Ahead",
+    "ゴーアヘッド",
+    "Kami no Bannin"
+  ],
+  "authors": [
+    "Daisuke Higuchi"
+  ],
+  "id": 42394,
+  "malId": 12394,
+  "type": "manga",
+  "title": "Go Ahead",
+  "url": "https://anilist.co/manga/42394",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12394.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:22.000Z",
+  "updatedAt": "2021-05-20T14:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d073b2f4-4d61-43df-85ea-9abf9aaab47a": {
+        "authors": [
+          "Higuchi Daisuke"
+        ],
+        "identifier": "d073b2f4-4d61-43df-85ea-9abf9aaab47a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Go Ahead",
+        "url": "https://mangadex.org/title/d073b2f4-4d61-43df-85ea-9abf9aaab47a",
+        "image": "https://uploads.mangadex.org/covers/d073b2f4-4d61-43df-85ea-9abf9aaab47a/8119d927-b815-42a5-a01d-ebaad35272af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12394,
+        "aniId": 42394,
+        "createdAt": "2020-10-12T16:13:15.000Z",
+        "updatedAt": "2021-06-05T20:01:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lr919892": {
+        "authors": [],
+        "identifier": "lr919892",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "One Step Ahead",
+        "url": "https://manganelo.com/manga/lr919892",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1296-lr919892.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12394,
+        "aniId": 42394,
+        "createdAt": "2020-10-12T16:24:11.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

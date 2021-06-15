@@ -1,0 +1,62 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Ueda, Rinko"
+  ],
+  "id": 1913,
+  "type": "manga",
+  "title": "Chupa!",
+  "url": "https://myanimelist.net/manga/1913/Chupa",
+  "image": "https://cdn.myanimelist.net/images/manga/2/3565.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:39.000Z",
+  "updatedAt": "2021-04-27T07:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79e3213b-16a8-4011-bbef-b168c2681376": {
+        "authors": [
+          "Ueda Rinko"
+        ],
+        "identifier": "79e3213b-16a8-4011-bbef-b168c2681376",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chupa!",
+        "url": "https://mangadex.org/title/79e3213b-16a8-4011-bbef-b168c2681376",
+        "image": "https://uploads.mangadex.org/covers/79e3213b-16a8-4011-bbef-b168c2681376/c4863b06-8952-4583-9f18-e1bc23d45f9d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1913,
+        "aniId": 31913,
+        "createdAt": "2020-10-12T16:04:01.000Z",
+        "updatedAt": "2021-06-02T18:07:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "chupa": {
+        "authors": [
+          "UEDA Rinko"
+        ],
+        "identifier": "chupa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chupa!",
+        "url": "https://fanfox.net/manga/chupa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1819/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1913,
+        "aniId": 31913,
+        "createdAt": "2021-05-04T03:33:41.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

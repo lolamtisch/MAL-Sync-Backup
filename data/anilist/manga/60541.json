@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "BLEACH4コマ コマブリ",
+    "Koma-Bleach"
+  ],
+  "authors": [
+    "Tite Kubo",
+    "Atsushi Ooba"
+  ],
+  "id": 60541,
+  "malId": 30541,
+  "type": "manga",
+  "title": "Bleach 4-koma: Komaburi",
+  "url": "https://anilist.co/manga/60541",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30541.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:40.000Z",
+  "updatedAt": "2021-05-20T14:47:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79f6f0a2-b7e9-4fe9-be94-d22a55d6a6dc": {
+        "authors": [
+          "Ooba Atsushi"
+        ],
+        "identifier": "79f6f0a2-b7e9-4fe9-be94-d22a55d6a6dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bleach 4-koma Komaburi",
+        "url": "https://mangadex.org/title/79f6f0a2-b7e9-4fe9-be94-d22a55d6a6dc",
+        "image": "https://uploads.mangadex.org/covers/79f6f0a2-b7e9-4fe9-be94-d22a55d6a6dc/29db7006-dfd5-4c2e-ba67-3ca2685ed224.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30541,
+        "aniId": 60541,
+        "createdAt": "2020-10-12T16:09:13.000Z",
+        "updatedAt": "2021-06-04T15:59:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

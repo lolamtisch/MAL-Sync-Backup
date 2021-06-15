@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Love My Life",
+    "ラブ・マイ・ライフ"
+  ],
+  "authors": [
+    "Ebine Yamaji",
+    "Elina Ishikawa"
+  ],
+  "id": 33191,
+  "malId": 3191,
+  "type": "manga",
+  "title": "Love My Life",
+  "url": "https://anilist.co/manga/33191",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33191-7U9izM6Cxwc6.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "388393a1-e51d-4784-a4ba-adaecc183983": {
+        "authors": [
+          "Yamaji Ebine"
+        ],
+        "identifier": "388393a1-e51d-4784-a4ba-adaecc183983",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love My Life",
+        "url": "https://mangadex.org/title/388393a1-e51d-4784-a4ba-adaecc183983",
+        "image": "https://uploads.mangadex.org/covers/388393a1-e51d-4784-a4ba-adaecc183983/e615965d-5dea-4404-b0f2-80ef700a66ca.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3191,
+        "aniId": 33191,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:38:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "healthy_love_life": {
+        "authors": [],
+        "identifier": "healthy_love_life",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Healthy Love Life",
+        "url": "https://manganelo.com/manga/healthy_love_life",
+        "image": "https://avt.mkklcdnv6.com/17/u/13-1583488393.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3191,
+        "aniId": 33191,
+        "createdAt": "2020-10-12T16:23:17.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

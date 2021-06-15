@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "恋は仮面の内側に"
+  ],
+  "authors": [
+    "Yoshimi Muneyama"
+  ],
+  "id": 110191,
+  "malId": 117205,
+  "type": "manga",
+  "title": "Koi wa Kamen no Uchigawa ni",
+  "url": "https://anilist.co/manga/110191",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110191-U0z3X2iFrvbL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:55.000Z",
+  "updatedAt": "2021-05-20T14:57:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5563d1a0-6034-4566-bcee-ed53ee7cb6be": {
+        "authors": [
+          "Muneyama Yoshimi"
+        ],
+        "identifier": "5563d1a0-6034-4566-bcee-ed53ee7cb6be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi wa Kamen no Uchigawa ni",
+        "url": "https://mangadex.org/title/5563d1a0-6034-4566-bcee-ed53ee7cb6be",
+        "image": "https://uploads.mangadex.org/covers/5563d1a0-6034-4566-bcee-ed53ee7cb6be/bfe9f173-c10a-48a2-bb9e-adf4a96beece.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 117205,
+        "aniId": 110191,
+        "createdAt": "2020-10-12T16:14:06.000Z",
+        "updatedAt": "2021-06-06T13:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koi_wa_kamen_no_uchigawa_ni": {
+        "authors": [
+          "MUNEYAMA Yoshimi"
+        ],
+        "identifier": "koi_wa_kamen_no_uchigawa_ni",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koi wa Kamen no Uchigawa ni",
+        "url": "https://fanfox.net/manga/koi_wa_kamen_no_uchigawa_ni/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28846/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117205,
+        "aniId": 110191,
+        "createdAt": "2021-03-25T01:19:08.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ah917624": {
+        "authors": [
+          "Muneyama",
+          "Yoshimi"
+        ],
+        "identifier": "ah917624",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koi Wa Kamen No Uchigawa Ni",
+        "url": "https://manganelo.com/manga/ah917624",
+        "image": "https://avt.mkklcdnv6temp.com/15/v/17-1583495832.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117205,
+        "aniId": 110191,
+        "createdAt": "2021-05-26T05:38:36.000Z",
+        "updatedAt": "2021-05-26T06:08:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

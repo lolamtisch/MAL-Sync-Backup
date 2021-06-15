@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "サニー"
+  ],
+  "authors": [],
+  "id": 53286,
+  "malId": 23286,
+  "type": "manga",
+  "title": "Sunny",
+  "url": "https://anilist.co/manga/53286",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23286.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:35.000Z",
+  "updatedAt": "2021-05-20T14:46:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a4e0af37-62a9-42e5-9102-8e1768cdbeb4": {
+        "authors": [
+          "IMAMURA Yoko"
+        ],
+        "identifier": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sunny",
+        "url": "https://mangadex.org/title/a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
+        "image": "https://uploads.mangadex.org/covers/a4e0af37-62a9-42e5-9102-8e1768cdbeb4/abf184f5-8226-49ef-9800-bc2733a815ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23286,
+        "aniId": 53286,
+        "createdAt": "2020-10-12T16:03:49.000Z",
+        "updatedAt": "2021-06-02T16:44:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

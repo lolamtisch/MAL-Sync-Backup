@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "하숙일기",
+    "Boarding Diary"
+  ],
+  "authors": [
+    "Zeta Kim",
+    "YonguycaH"
+  ],
+  "id": 127354,
+  "malId": null,
+  "type": "manga",
+  "title": "Hasugilgi",
+  "url": "https://anilist.co/manga/127354",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b127354-yiP1q6oDkKqy.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-22T22:42:58.000Z",
+  "updatedAt": "2021-06-08T07:20:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "06e14068-6e11-42a0-91f6-558dcd4b1be7": {
+        "authors": [
+          "Ahn Du-Yoon",
+          "Suspect H",
+          "Zeta Kim"
+        ],
+        "identifier": "06e14068-6e11-42a0-91f6-558dcd4b1be7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boarding Diary",
+        "url": "https://mangadex.org/title/06e14068-6e11-42a0-91f6-558dcd4b1be7",
+        "image": "https://uploads.mangadex.org/covers/06e14068-6e11-42a0-91f6-558dcd4b1be7/b3d8ab71-6ada-455b-9b33-adf6efda9f3f.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127354,
+        "createdAt": "2020-11-07T04:29:13.000Z",
+        "updatedAt": "2021-06-08T07:25:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

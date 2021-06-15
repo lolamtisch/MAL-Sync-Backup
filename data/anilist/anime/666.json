@@ -1,0 +1,94 @@
+{
+  "altTitle": [
+    "JoJo's Bizarre Adventure",
+    "ジョジョの奇妙な冒険",
+    "JoJo's Bizarre Adventure OVA 1"
+  ],
+  "id": 666,
+  "malId": 666,
+  "type": "anime",
+  "title": "JoJo no Kimyou na Bouken",
+  "url": "https://anilist.co/anime/666",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx666-eq1wmsKWQfx7.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:43.000Z",
+  "updatedAt": "2021-05-20T14:34:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "3xwy": {
+        "identifier": "3xwy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "JoJo no Kimyou na Bouken (Dub)",
+        "url": "https://www12.9anime.to/watch/jojos-bizarre-adventure-dub.3xwy",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/018eac596eeca941087bb00e1ceca7da.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 666,
+        "aniId": 666,
+        "createdAt": "2020-10-12T15:49:56.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "4xy7": {
+        "identifier": "4xy7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "JoJo's Bizarre Adventure",
+        "url": "https://9anime.ru/watch/jojos-bizarre-adventure.4xy7",
+        "image": "https://static.akacdn.ru/files/images/2018/04/a24f995eac67e3850aa7cf210b0fdebb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 666,
+        "aniId": 666,
+        "createdAt": "2020-10-12T15:50:14.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2500": {
+        "identifier": "2500",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "JoJo no Kimyou na Bouken",
+        "url": "https://aniwatch.me/anime/2500",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 666,
+        "aniId": 666,
+        "createdAt": "2020-10-12T15:58:27.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1814": {
+        "identifier": "1814",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "JoJo no Kimyou na Bouken",
+        "url": "https://pahe.win/a/1814",
+        "image": "https://i.animepahe.com/posters/49394041605b7970d0020edb3b7cb055.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 666,
+        "aniId": 666,
+        "createdAt": "2021-01-11T01:52:06.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

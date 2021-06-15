@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "デッド・ヘッズ"
+  ],
+  "authors": [
+    "Tsutomu Nihei"
+  ],
+  "id": 42196,
+  "malId": 12196,
+  "type": "manga",
+  "title": "Dead Heads",
+  "url": "https://anilist.co/manga/42196",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx42196-1jKgM3xKGSIn.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a43efa3d-85d9-453b-a78d-25b87a003f72": {
+        "authors": [
+          "Nihei Tsutomu"
+        ],
+        "identifier": "a43efa3d-85d9-453b-a78d-25b87a003f72",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dead Heads",
+        "url": "https://mangadex.org/title/a43efa3d-85d9-453b-a78d-25b87a003f72",
+        "image": "https://uploads.mangadex.org/covers/a43efa3d-85d9-453b-a78d-25b87a003f72/5f3d89a6-b697-4f8a-9c72-a5966aab76df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12196,
+        "aniId": 42196,
+        "createdAt": "2020-10-12T16:05:28.000Z",
+        "updatedAt": "2021-06-03T12:55:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dead_heads": {
+        "authors": [
+          "Nihei",
+          "Tsutomu"
+        ],
+        "identifier": "dead_heads",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dead Heads",
+        "url": "https://manganelo.com/manga/dead_heads",
+        "image": "https://avt.mkklcdnv6.com/22/a/7-1583477090.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12196,
+        "aniId": 42196,
+        "createdAt": "2021-02-07T19:20:03.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sv960978": {
+        "authors": [
+          "Nihei Tsutomu"
+        ],
+        "identifier": "manga-sv960978",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dead Heads",
+        "url": "https://readmanganato.com/manga-sv960978",
+        "image": "https://avt.mkklcdnv6temp.com/22/a/7-1583477090.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12196,
+        "aniId": 42196,
+        "createdAt": "2021-06-10T15:38:20.000Z",
+        "updatedAt": "2021-06-10T16:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

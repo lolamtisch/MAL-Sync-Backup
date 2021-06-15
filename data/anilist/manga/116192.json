@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "SSSS.GRIDMAN"
+  ],
+  "authors": [
+    "Yuuki  Konno"
+  ],
+  "id": 116192,
+  "malId": 123613,
+  "type": "manga",
+  "title": "SSSS.GRIDMAN",
+  "url": "https://anilist.co/manga/116192",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116192-C6nRzMhJRPR1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:00.000Z",
+  "updatedAt": "2021-05-20T14:59:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52017566-b087-4160-93ce-56957acb33e2": {
+        "authors": [
+          "Various"
+        ],
+        "identifier": "52017566-b087-4160-93ce-56957acb33e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "SSSS.GRIDMAN ANTHOLOGY: Side Akane",
+        "url": "https://mangadex.org/title/52017566-b087-4160-93ce-56957acb33e2",
+        "image": "https://uploads.mangadex.org/covers/52017566-b087-4160-93ce-56957acb33e2/4a97c459-26fb-436e-b6d7-e4efedd61787.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123613,
+        "aniId": 116192,
+        "createdAt": "2020-10-12T16:15:55.000Z",
+        "updatedAt": "2021-06-06T18:02:32.000Z",
+        "deletedAt": null
+      },
+      "fca8bf23-18e7-4fa6-a907-bae16573431a": {
+        "authors": [
+          "SSSS.GRIDMAN",
+          "Konno Yuuki"
+        ],
+        "identifier": "fca8bf23-18e7-4fa6-a907-bae16573431a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "SSSS.GRIDMAN",
+        "url": "https://mangadex.org/title/fca8bf23-18e7-4fa6-a907-bae16573431a",
+        "image": "https://uploads.mangadex.org/covers/fca8bf23-18e7-4fa6-a907-bae16573431a/650726a9-5098-48f0-9824-4752f7cd667e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123613,
+        "aniId": 116192,
+        "createdAt": "2020-10-12T16:20:53.000Z",
+        "updatedAt": "2021-06-08T01:02:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

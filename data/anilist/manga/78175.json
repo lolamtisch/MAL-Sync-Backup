@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "老夫子"
+  ],
+  "authors": [
+    "Alfonso Wong"
+  ],
+  "id": 78175,
+  "malId": 48175,
+  "type": "manga",
+  "title": "Old Master Q",
+  "url": "https://anilist.co/manga/78175",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48175.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:37.000Z",
+  "updatedAt": "2021-05-20T14:49:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "26518d88-b5c2-4ceb-ad90-46e43229ec81": {
+        "authors": [
+          "Alfonso Wong"
+        ],
+        "identifier": "26518d88-b5c2-4ceb-ad90-46e43229ec81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Old Master Q",
+        "url": "https://mangadex.org/title/26518d88-b5c2-4ceb-ad90-46e43229ec81",
+        "image": "https://uploads.mangadex.org/covers/26518d88-b5c2-4ceb-ad90-46e43229ec81/ca8e4794-3095-47f3-931c-e83b005f7bad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48175,
+        "aniId": 78175,
+        "createdAt": "2020-10-12T16:10:07.000Z",
+        "updatedAt": "2021-06-04T22:28:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

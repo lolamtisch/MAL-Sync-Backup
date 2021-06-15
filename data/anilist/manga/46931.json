@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "トゥモロウズ",
+    "Tomorrows: Anantachi no Kakumei",
+    "Yesterday's Children"
+  ],
+  "authors": [
+    "Masato Deguchi"
+  ],
+  "id": 46931,
+  "malId": 16931,
+  "type": "manga",
+  "title": "Tomorrows",
+  "url": "https://anilist.co/manga/46931",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16931.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:02.000Z",
+  "updatedAt": "2021-05-20T14:44:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e365e1ef-dd8e-40cc-912a-97a131ad20de": {
+        "authors": [
+          "Deguchi Masato"
+        ],
+        "identifier": "e365e1ef-dd8e-40cc-912a-97a131ad20de",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tomorrows",
+        "url": "https://mangadex.org/title/e365e1ef-dd8e-40cc-912a-97a131ad20de",
+        "image": "https://uploads.mangadex.org/covers/e365e1ef-dd8e-40cc-912a-97a131ad20de/819c9a79-9420-4515-8d25-14c8c99f4b91.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16931,
+        "aniId": 46931,
+        "createdAt": "2020-10-12T16:04:37.000Z",
+        "updatedAt": "2021-06-02T22:14:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

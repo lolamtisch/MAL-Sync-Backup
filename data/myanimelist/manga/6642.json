@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "メトロイド"
+  ],
+  "authors": [
+    "Tazawa, Kouji",
+    "Ishikawa, Kenji"
+  ],
+  "id": 6642,
+  "type": "manga",
+  "title": "Metroid",
+  "url": "https://myanimelist.net/manga/6642/Metroid",
+  "image": "https://cdn.myanimelist.net/images/manga/2/153968.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:11.000Z",
+  "updatedAt": "2021-04-29T17:49:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5de460b1-500c-4d16-9e9e-6f4cf554ef6a": {
+        "authors": [
+          "Nintendo",
+          "Ishikawa Kenji"
+        ],
+        "identifier": "5de460b1-500c-4d16-9e9e-6f4cf554ef6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Metroid",
+        "url": "https://mangadex.org/title/5de460b1-500c-4d16-9e9e-6f4cf554ef6a",
+        "image": "https://uploads.mangadex.org/covers/5de460b1-500c-4d16-9e9e-6f4cf554ef6a/a74646d6-d248-407f-b600-7adc9e4333b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6642,
+        "aniId": 36642,
+        "createdAt": "2020-10-12T16:03:59.000Z",
+        "updatedAt": "2021-06-02T17:47:52.000Z",
+        "deletedAt": null
+      },
+      "66b74db5-9290-401c-ba45-4a1119c5ea40": {
+        "authors": [
+          "Itoh Benimaru",
+          "Nintendo"
+        ],
+        "identifier": "66b74db5-9290-401c-ba45-4a1119c5ea40",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Super Metroid",
+        "url": "https://mangadex.org/title/66b74db5-9290-401c-ba45-4a1119c5ea40",
+        "image": "https://uploads.mangadex.org/covers/66b74db5-9290-401c-ba45-4a1119c5ea40/bdc6c508-6d47-44a5-a052-4ea337f883d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6642,
+        "aniId": 36642,
+        "createdAt": "2020-10-12T16:15:25.000Z",
+        "updatedAt": "2021-06-06T13:38:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

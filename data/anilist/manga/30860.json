@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "The Devil Within",
+    "天使の中に悪魔アリ"
+  ],
+  "authors": [
+    "Ryou Takagi",
+    "Christine Dashiell",
+    "Jennifer Skarupa"
+  ],
+  "id": 30860,
+  "malId": 860,
+  "type": "manga",
+  "title": "Tenshi no Naka ni Akuma Ari",
+  "url": "https://anilist.co/manga/30860",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/860.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22b69394-eac0-4a6f-b602-5a908b27ebac": {
+        "authors": [
+          "Takagi Ryou"
+        ],
+        "identifier": "22b69394-eac0-4a6f-b602-5a908b27ebac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenshi no Naka ni Akuma Ari",
+        "url": "https://mangadex.org/title/22b69394-eac0-4a6f-b602-5a908b27ebac",
+        "image": "https://uploads.mangadex.org/covers/22b69394-eac0-4a6f-b602-5a908b27ebac/f2b786a2-4021-4821-9fb3-49b1047d736e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 860,
+        "aniId": 30860,
+        "createdAt": "2020-10-12T16:13:31.000Z",
+        "updatedAt": "2021-06-05T22:01:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "the_devil_within": {
+        "authors": [
+          "Takagi",
+          "Ryou"
+        ],
+        "identifier": "the_devil_within",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Devil Within",
+        "url": "https://manganelo.com/manga/the_devil_within",
+        "image": "https://avt.mkklcdnv6.com/25/f/5-1583472816.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 860,
+        "aniId": 30860,
+        "createdAt": "2020-12-28T07:51:24.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

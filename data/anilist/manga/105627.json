@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "悪の女王の軌跡"
+  ],
+  "authors": [
+    "Mika Kajiyama",
+    "Kunoe Kazami",
+    "Junko Taki"
+  ],
+  "id": 105627,
+  "malId": 115655,
+  "type": "manga",
+  "title": "Aku no Joou no Kiseki",
+  "url": "https://anilist.co/manga/105627",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105627-Mcr7e9nIgTdr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:18.000Z",
+  "updatedAt": "2021-05-20T14:57:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6577f3e3-82e3-457d-9ddc-ed55b1b4c558": {
+        "authors": [
+          "Kazami Kunoe",
+          "Kajiyama Mika"
+        ],
+        "identifier": "6577f3e3-82e3-457d-9ddc-ed55b1b4c558",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aku no Joou no Kiseki",
+        "url": "https://mangadex.org/title/6577f3e3-82e3-457d-9ddc-ed55b1b4c558",
+        "image": "https://uploads.mangadex.org/covers/6577f3e3-82e3-457d-9ddc-ed55b1b4c558/996e1555-c062-4601-93c4-2e85fbc63bf1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115655,
+        "aniId": 105627,
+        "createdAt": "2020-10-12T16:13:55.000Z",
+        "updatedAt": "2021-06-06T01:02:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "aku_no_joou_no_kiseki": {
+        "authors": [
+          "Kajiyama",
+          "Mika"
+        ],
+        "identifier": "aku_no_joou_no_kiseki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Aku No Joou No Kiseki",
+        "url": "https://manganelo.com/manga/aku_no_joou_no_kiseki",
+        "image": "https://avt.mkklcdnv6.com/4/h/17-1583495415.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115655,
+        "aniId": 105627,
+        "createdAt": "2020-10-12T16:22:03.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

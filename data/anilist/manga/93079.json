@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "スレイプニル"
+  ],
+  "authors": [
+    "Tsuchii"
+  ],
+  "id": 93079,
+  "malId": 80903,
+  "type": "manga",
+  "title": "Sleipnir",
+  "url": "https://anilist.co/manga/93079",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n93079-vLjyhZQwD8o1.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:01.000Z",
+  "updatedAt": "2021-05-20T14:52:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf40a110-e476-4940-8e40-6515978d6dea": {
+        "authors": [
+          "Tsuchii"
+        ],
+        "identifier": "bf40a110-e476-4940-8e40-6515978d6dea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sleipnir",
+        "url": "https://mangadex.org/title/bf40a110-e476-4940-8e40-6515978d6dea",
+        "image": "https://uploads.mangadex.org/covers/bf40a110-e476-4940-8e40-6515978d6dea/2a3d8397-bf4f-4dc8-b8a9-07a877f78605.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80903,
+        "aniId": 93079,
+        "createdAt": "2020-10-12T16:07:58.000Z",
+        "updatedAt": "2021-06-04T06:37:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sleipnir": {
+        "authors": [
+          "Tsuchii"
+        ],
+        "identifier": "sleipnir",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sleipnir",
+        "url": "https://mangasee123.com/manga/Sleipnir",
+        "image": "https://cover.nep.li/cover/Sleipnir.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80903,
+        "aniId": 93079,
+        "createdAt": "2021-05-05T14:02:01.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "はぴきす"
+  ],
+  "authors": [
+    "Kiuchi, Ramune"
+  ],
+  "id": 102224,
+  "type": "manga",
+  "title": "Happy Kiss",
+  "url": "https://myanimelist.net/manga/102224/Happy_Kiss",
+  "image": "https://cdn.myanimelist.net/images/manga/1/193595.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:44.000Z",
+  "updatedAt": "2021-05-17T14:24:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27c699cb-80ab-4865-8cb3-8d4ff3bee116": {
+        "authors": [
+          "KIUCHI Ramune"
+        ],
+        "identifier": "27c699cb-80ab-4865-8cb3-8d4ff3bee116",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hapi Kisu",
+        "url": "https://mangadex.org/title/27c699cb-80ab-4865-8cb3-8d4ff3bee116",
+        "image": "https://uploads.mangadex.org/covers/27c699cb-80ab-4865-8cb3-8d4ff3bee116/c6659ad8-2d36-4924-9fa6-25aa5c68f266.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102224,
+        "aniId": 105341,
+        "createdAt": "2020-10-12T16:10:13.000Z",
+        "updatedAt": "2021-06-04T23:08:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "altTitle": [
+    "镇魂街",
+    "Requiem Street",
+    "Rakshasa Street"
+  ],
+  "authors": [
+    "Chen Xu"
+  ],
+  "id": 55588,
+  "malId": 25588,
+  "type": "manga",
+  "title": "Zhen Hun Jie",
+  "url": "https://anilist.co/manga/55588",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55588-6pW62iB2IUh1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:55.000Z",
+  "updatedAt": "2021-05-20T14:46:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "463b32af-1ddc-48db-a5e4-4799c8a2e412": {
+        "authors": [
+          "Xu Chen"
+        ],
+        "identifier": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rakshasa Street",
+        "url": "https://mangadex.org/title/463b32af-1ddc-48db-a5e4-4799c8a2e412",
+        "image": "https://uploads.mangadex.org/covers/463b32af-1ddc-48db-a5e4-4799c8a2e412/e6ec39e5-7007-4ae6-825c-1acb7054c065.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25588,
+        "aniId": 55588,
+        "createdAt": "2020-10-12T16:02:36.000Z",
+        "updatedAt": "2021-06-02T08:10:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dn921672": {
+        "authors": [],
+        "identifier": "dn921672",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rakshasa Li San",
+        "url": "https://manganelo.com/manga/dn921672",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3078-dn921672.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25588,
+        "aniId": 55588,
+        "createdAt": "2020-10-12T16:22:41.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "rakshasa_street": {
+        "authors": [],
+        "identifier": "rakshasa_street",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rakshasa Street",
+        "url": "https://manganelo.com/manga/rakshasa_street",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1997-rakshasa_street.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25588,
+        "aniId": 55588,
+        "createdAt": "2020-10-12T16:25:02.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rakshasa-street": {
+        "authors": [
+          "XU Chen"
+        ],
+        "identifier": "rakshasa-street",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Rakshasa Street",
+        "url": "https://mangasee123.com/manga/Rakshasa-Street",
+        "image": "https://cover.nep.li/cover/Rakshasa-Street.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25588,
+        "aniId": 55588,
+        "createdAt": "2020-12-18T15:56:19.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

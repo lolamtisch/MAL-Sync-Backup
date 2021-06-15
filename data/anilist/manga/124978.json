@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Ｊ物語",
+    "The Story of J"
+  ],
+  "authors": [
+    "Michiharu Kusunoki"
+  ],
+  "id": 124978,
+  "malId": 130828,
+  "type": "manga",
+  "title": "J Monogatari  ",
+  "url": "https://anilist.co/manga/124978",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124978-ct9Rv5mqu8bf.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:33.000Z",
+  "updatedAt": "2021-06-08T01:51:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0e464acd-a78d-4096-ab3b-ce934b728b9f": {
+        "authors": [
+          "Kusunoki Michiharu"
+        ],
+        "identifier": "0e464acd-a78d-4096-ab3b-ce934b728b9f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "J Monogatari",
+        "url": "https://mangadex.org/title/0e464acd-a78d-4096-ab3b-ce934b728b9f",
+        "image": "https://uploads.mangadex.org/covers/0e464acd-a78d-4096-ab3b-ce934b728b9f/bab522ce-8f12-400b-b5a9-0fe3c733188a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130828,
+        "aniId": 124978,
+        "createdAt": "2020-10-12T16:21:00.000Z",
+        "updatedAt": "2021-06-08T06:50:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "j_monogatari": {
+        "authors": [
+          "KUSUNOKI Michiharu"
+        ],
+        "identifier": "j_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "J Monogatari",
+        "url": "https://fanfox.net/manga/j_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36536/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130828,
+        "aniId": 124978,
+        "createdAt": "2021-05-04T03:33:50.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

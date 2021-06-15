@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "セイクリッド・シュヴァリエ"
+  ],
+  "authors": [
+    "Mitsuya, Akira",
+    "Shinozaki, Touma"
+  ],
+  "id": 132077,
+  "type": "manga",
+  "title": "Sacred Chevalier",
+  "url": "https://myanimelist.net/manga/132077/Sacred_Chevalier",
+  "image": "https://cdn.myanimelist.net/images/manga/2/238694.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-12-23T16:27:06.000Z",
+  "updatedAt": "2021-05-31T09:12:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "57c93f71-2f4c-451b-b873-4d0300a68a8c": {
+        "authors": [
+          "MITSUYA Akira",
+          "SHINOZAKI Touma"
+        ],
+        "identifier": "57c93f71-2f4c-451b-b873-4d0300a68a8c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sacred Chevalier",
+        "url": "https://mangadex.org/title/57c93f71-2f4c-451b-b873-4d0300a68a8c",
+        "image": "https://uploads.mangadex.org/covers/57c93f71-2f4c-451b-b873-4d0300a68a8c/a170e4ce-86fb-4c85-a745-edd29bb6acf5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132077,
+        "aniId": 128241,
+        "createdAt": "2020-11-15T15:15:05.000Z",
+        "updatedAt": "2021-06-08T07:26:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sacred_chevalier": {
+        "authors": [
+          "SHINOZAKI Touma"
+        ],
+        "identifier": "sacred_chevalier",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sacred Chevalier",
+        "url": "https://fanfox.net/manga/sacred_chevalier/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36517/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132077,
+        "aniId": 128241,
+        "createdAt": "2020-12-23T18:56:04.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jv987356": {
+        "authors": [
+          "Shinozaki Touma",
+          "Mitsuya Akira"
+        ],
+        "identifier": "manga-jv987356",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sacred Chevalier",
+        "url": "https://manganato.com/manga-jv987356",
+        "image": "https://avt.mkklcdnv6temp.com/44/m/22-1607594367.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132077,
+        "aniId": 128241,
+        "createdAt": "2021-05-31T09:12:30.000Z",
+        "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

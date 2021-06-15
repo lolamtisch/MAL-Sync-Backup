@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "デザート・コーラル"
+  ],
+  "authors": [
+    "Wataru Murayama"
+  ],
+  "id": 30341,
+  "malId": 341,
+  "type": "manga",
+  "title": "Desert Coral",
+  "url": "https://anilist.co/manga/30341",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30341-C0vzxBP99yB9.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:31.000Z",
+  "updatedAt": "2021-05-20T14:35:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "921dcdf9-2668-4549-935a-afbd18dfe09d": {
+        "authors": [
+          "Murayama Wataru"
+        ],
+        "identifier": "921dcdf9-2668-4549-935a-afbd18dfe09d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Desert Coral",
+        "url": "https://mangadex.org/title/921dcdf9-2668-4549-935a-afbd18dfe09d",
+        "image": "https://uploads.mangadex.org/covers/921dcdf9-2668-4549-935a-afbd18dfe09d/02f90423-c70e-4a03-9e54-5d24e2a2c513.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 341,
+        "aniId": 30341,
+        "createdAt": "2020-10-12T16:06:18.000Z",
+        "updatedAt": "2021-06-03T18:41:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "desert_coral": {
+        "authors": [
+          "Murayama",
+          "Wataru"
+        ],
+        "identifier": "desert_coral",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Desert Coral",
+        "url": "https://manganelo.com/manga/desert_coral",
+        "image": "https://avt.mkklcdnv6.com/11/z/6-1583474591.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 341,
+        "aniId": 30341,
+        "createdAt": "2020-11-14T15:52:59.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "スーパードクターK"
+  ],
+  "authors": [
+    "Kazuo Mafune"
+  ],
+  "id": 54476,
+  "malId": 24476,
+  "type": "manga",
+  "title": "Super Doctor K",
+  "url": "https://anilist.co/manga/54476",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx54476-MvOxsOY20VBd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:45.000Z",
+  "updatedAt": "2021-05-20T14:46:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5e79d8b-76b9-4ad0-a7fd-d54db67361dd": {
+        "authors": [
+          "Mafune Kazuo"
+        ],
+        "identifier": "b5e79d8b-76b9-4ad0-a7fd-d54db67361dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Super Doctor K",
+        "url": "https://mangadex.org/title/b5e79d8b-76b9-4ad0-a7fd-d54db67361dd",
+        "image": "https://uploads.mangadex.org/covers/b5e79d8b-76b9-4ad0-a7fd-d54db67361dd/883dc91a-d03c-4129-a9d6-ce56d3fb05bc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24476,
+        "aniId": 54476,
+        "createdAt": "2020-10-12T16:07:51.000Z",
+        "updatedAt": "2021-06-04T05:40:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "super_doctor_k": {
+        "authors": [],
+        "identifier": "super_doctor_k",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Super Doctor K",
+        "url": "https://manganelo.com/manga/super_doctor_k",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/602-super_doctor_k.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24476,
+        "aniId": 54476,
+        "createdAt": "2020-10-12T16:25:34.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "super-doctor-k": {
+        "authors": [
+          "MAFUNE Kazuo"
+        ],
+        "identifier": "super-doctor-k",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Super Doctor K",
+        "url": "https://mangasee123.com/manga/Super-Doctor-K",
+        "image": "https://cover.nep.li/cover/Super-Doctor-K.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24476,
+        "aniId": 54476,
+        "createdAt": "2021-06-13T11:38:22.000Z",
+        "updatedAt": "2021-06-13T12:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

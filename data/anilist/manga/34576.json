@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "スケッチブック"
+  ],
+  "authors": [
+    "Totan Kobako"
+  ],
+  "id": 34576,
+  "malId": 4576,
+  "type": "manga",
+  "title": "Sketchbook",
+  "url": "https://anilist.co/manga/34576",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4576.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:33.000Z",
+  "updatedAt": "2021-05-20T14:38:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "57c2c292-d09b-4075-af15-63d84f7f61e7": {
+        "authors": [
+          "Kobako Totan"
+        ],
+        "identifier": "57c2c292-d09b-4075-af15-63d84f7f61e7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sketchbook",
+        "url": "https://mangadex.org/title/57c2c292-d09b-4075-af15-63d84f7f61e7",
+        "image": "https://uploads.mangadex.org/covers/57c2c292-d09b-4075-af15-63d84f7f61e7/a2434820-b719-4075-bbe8-7428c7bad5a9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4576,
+        "aniId": 34576,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:00:55.000Z",
+        "deletedAt": null
+      },
+      "dcc0b799-4d58-4538-a9e2-b29e3b0ef128": {
+        "authors": [
+          "Soda Batake",
+          "Muteki Soda"
+        ],
+        "identifier": "dcc0b799-4d58-4538-a9e2-b29e3b0ef128",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girls und Panzer - GirlPan Sketchbook (Doujinshi)",
+        "url": "https://mangadex.org/title/dcc0b799-4d58-4538-a9e2-b29e3b0ef128",
+        "image": "https://uploads.mangadex.org/covers/dcc0b799-4d58-4538-a9e2-b29e3b0ef128/32ddb574-1cef-486d-b1fc-ada8d81ca474.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4576,
+        "aniId": 34576,
+        "createdAt": "2020-10-12T16:18:33.000Z",
+        "updatedAt": "2021-06-07T17:55:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sketchbook": {
+        "authors": [
+          "Kobako",
+          "Totan"
+        ],
+        "identifier": "sketchbook",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sketchbook",
+        "url": "https://manganelo.com/manga/sketchbook",
+        "image": "https://avt.mkklcdnv6temp.com/29/o/1-1583464855.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4576,
+        "aniId": 34576,
+        "createdAt": "2021-05-02T22:03:55.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "人形芝居"
+  ],
+  "authors": [
+    "Shigeru Takao"
+  ],
+  "id": 38222,
+  "malId": 8222,
+  "type": "manga",
+  "title": "Ningyoushibai",
+  "url": "https://anilist.co/manga/38222",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8222.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9bb6dff3-e8fc-4da1-816e-5ae41e164b24": {
+        "authors": [
+          "TAKAO Shigeru"
+        ],
+        "identifier": "9bb6dff3-e8fc-4da1-816e-5ae41e164b24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ningyou Shibai",
+        "url": "https://mangadex.org/title/9bb6dff3-e8fc-4da1-816e-5ae41e164b24",
+        "image": "https://uploads.mangadex.org/covers/9bb6dff3-e8fc-4da1-816e-5ae41e164b24/dbb3c349-23e3-4834-b613-567b71b7cac4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8222,
+        "aniId": 38222,
+        "createdAt": "2020-10-12T16:10:09.000Z",
+        "updatedAt": "2021-06-04T22:40:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

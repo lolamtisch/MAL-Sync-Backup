@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "アサシネ",
+    "Assassin Colosseum",
+    "アサ-シネ"
+  ],
+  "authors": [
+    "Kouta Hirano"
+  ],
+  "id": 53003,
+  "malId": 23003,
+  "type": "manga",
+  "title": "Assassine",
+  "url": "https://anilist.co/manga/53003",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b53003-Y4GeWZ5k74MT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:34.000Z",
+  "updatedAt": "2021-05-20T14:46:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0781388e-2fbe-4e35-ada4-5c9bbef210ff": {
+        "authors": [
+          "Hirano Kouta"
+        ],
+        "identifier": "0781388e-2fbe-4e35-ada4-5c9bbef210ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Assassine",
+        "url": "https://mangadex.org/title/0781388e-2fbe-4e35-ada4-5c9bbef210ff",
+        "image": "https://uploads.mangadex.org/covers/0781388e-2fbe-4e35-ada4-5c9bbef210ff/8ef67482-d701-4eb0-af6a-2ee08bdfe551.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23003,
+        "aniId": 53003,
+        "createdAt": "2020-10-12T16:07:04.000Z",
+        "updatedAt": "2021-06-04T00:07:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "パズル"
+  ],
+  "authors": [
+    "Satoshi Morie"
+  ],
+  "id": 85683,
+  "malId": 63949,
+  "type": "manga",
+  "title": "Puzzle",
+  "url": "https://anilist.co/manga/85683",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b85683-4dTJIqNmT0eF.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T01:19:21.000Z",
+  "updatedAt": "2021-06-04T01:19:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f8728b29-822a-42bd-90d0-a706e09664d6": {
+        "authors": [
+          "Morie Satoshi"
+        ],
+        "identifier": "f8728b29-822a-42bd-90d0-a706e09664d6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Puzzle",
+        "url": "https://mangadex.org/title/f8728b29-822a-42bd-90d0-a706e09664d6",
+        "image": "https://uploads.mangadex.org/covers/f8728b29-822a-42bd-90d0-a706e09664d6/bd3317cc-6440-4186-80d2-5299dd1fd634.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63949,
+        "aniId": 85683,
+        "createdAt": "2020-10-12T16:07:13.000Z",
+        "updatedAt": "2021-06-04T08:49:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

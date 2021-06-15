@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Honey and Clover",
+    "ハチミツとクローバー",
+    "HachiKuro",
+    "Honey & Clover"
+  ],
+  "authors": [
+    "Chica Umino"
+  ],
+  "id": 31009,
+  "malId": 1009,
+  "type": "manga",
+  "title": "Hachimitsu to Clover",
+  "url": "https://anilist.co/manga/31009",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31009-Gpbp4T7ekBcM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8d64bbc5-b1a7-4346-b233-4b81952945e9": {
+        "authors": [
+          "Umino Chica"
+        ],
+        "identifier": "8d64bbc5-b1a7-4346-b233-4b81952945e9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hachimitsu to Clover",
+        "url": "https://mangadex.org/title/8d64bbc5-b1a7-4346-b233-4b81952945e9",
+        "image": "https://uploads.mangadex.org/covers/8d64bbc5-b1a7-4346-b233-4b81952945e9/33e3f73a-9926-43ed-b4de-394f616b5a62.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1009,
+        "aniId": 31009,
+        "createdAt": "2020-10-12T16:03:12.000Z",
+        "updatedAt": "2021-06-02T12:20:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hachimitsu_to_clover": {
+        "authors": [],
+        "identifier": "hachimitsu_to_clover",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hachimitsu To Clover",
+        "url": "https://manganelo.com/manga/hachimitsu_to_clover",
+        "image": "https://avt.mkklcdnv6.com/46/k/5-1583473704.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1009,
+        "aniId": 31009,
+        "createdAt": "2020-10-12T16:23:13.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hachimitsu-to-clover": {
+        "authors": [
+          "UMINO Chica"
+        ],
+        "identifier": "hachimitsu-to-clover",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hachimitsu to Clover",
+        "url": "https://mangasee123.com/manga/Hachimitsu-To-Clover",
+        "image": "https://cover.nep.li/cover/Hachimitsu-To-Clover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1009,
+        "aniId": 31009,
+        "createdAt": "2021-01-27T15:41:19.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

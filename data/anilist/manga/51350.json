@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Mr. Tiger and Mr. Wolf",
+    "トラさんと狼さん",
+    "Tora san to Ookami san",
+    "Tiger and Wolf",
+    "Zoku Tora-san to Ookami-san",
+    "Owari Tora-san to Ookami-san"
+  ],
+  "authors": [
+    "Ahiru Haruno"
+  ],
+  "id": 51350,
+  "malId": 21350,
+  "type": "manga",
+  "title": "Tora-san to Ookami-san",
+  "url": "https://anilist.co/manga/51350",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21350.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:42.000Z",
+  "updatedAt": "2021-05-20T14:45:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "766ed6e0-057c-4c66-822e-f0cd3299a94e": {
+        "authors": [
+          "Haruno Ahiru"
+        ],
+        "identifier": "766ed6e0-057c-4c66-822e-f0cd3299a94e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tora-san to Ookami-san",
+        "url": "https://mangadex.org/title/766ed6e0-057c-4c66-822e-f0cd3299a94e",
+        "image": "https://uploads.mangadex.org/covers/766ed6e0-057c-4c66-822e-f0cd3299a94e/4247dbbb-5241-4d01-949c-2f33af674764.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21350,
+        "aniId": 51350,
+        "createdAt": "2020-10-12T16:07:45.000Z",
+        "updatedAt": "2021-06-04T05:03:08.000Z",
+        "deletedAt": null
+      },
+      "c78311fa-029e-444c-b88e-791331027cca": {
+        "authors": [
+          "Emboss"
+        ],
+        "identifier": "c78311fa-029e-444c-b88e-791331027cca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ramen Wolf and Curry Tiger",
+        "url": "https://mangadex.org/title/c78311fa-029e-444c-b88e-791331027cca",
+        "image": "https://uploads.mangadex.org/covers/c78311fa-029e-444c-b88e-791331027cca/89af4f41-21e0-4804-81c3-f3dd9d6955cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21350,
+        "aniId": 51350,
+        "createdAt": "2020-10-12T16:18:27.000Z",
+        "updatedAt": "2021-06-07T17:14:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "altTitle": [
+    "あねくらべ"
+  ],
+  "authors": [
+    "Shinonome, Tarou"
+  ],
+  "id": 86150,
+  "type": "manga",
+  "title": "Anekurabe",
+  "url": "https://myanimelist.net/manga/86150/Anekurabe",
+  "image": "https://cdn.myanimelist.net/images/manga/3/163062.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:44.000Z",
+  "updatedAt": "2021-05-01T17:03:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "92edc15f-c6f1-4ede-8eee-438687e51bad": {
+        "authors": [
+          "Shinonome Taro"
+        ],
+        "identifier": "92edc15f-c6f1-4ede-8eee-438687e51bad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ane Kurabe",
+        "url": "https://mangadex.org/title/92edc15f-c6f1-4ede-8eee-438687e51bad",
+        "image": "https://uploads.mangadex.org/covers/92edc15f-c6f1-4ede-8eee-438687e51bad/db08b7c9-7408-489b-be53-e2864c91c67b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86150,
+        "aniId": 86066,
+        "createdAt": "2020-10-12T16:08:19.000Z",
+        "updatedAt": "2021-06-04T09:12:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ane_kurabe": {
+        "authors": [],
+        "identifier": "ane_kurabe",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ane Kurabe",
+        "url": "https://manganelo.com/manga/ane_kurabe",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1992-ane_kurabe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86150,
+        "aniId": 86066,
+        "createdAt": "2020-10-12T16:22:06.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ane_kurabe": {
+        "authors": [
+          "SHINONOME Taro"
+        ],
+        "identifier": "ane_kurabe",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ane Kurabe",
+        "url": "https://fanfox.net/manga/ane_kurabe/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15087/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86150,
+        "aniId": 86066,
+        "createdAt": "2021-05-01T17:03:41.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ane-kurabe": {
+        "authors": [
+          "SHINONOME Taro"
+        ],
+        "identifier": "ane-kurabe",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ane Kurabe",
+        "url": "https://mangasee123.com/manga/Ane-Kurabe",
+        "image": "https://cover.nep.li/cover/Ane-Kurabe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86150,
+        "aniId": 86066,
+        "createdAt": "2021-05-11T15:20:05.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "へんたつ"
+  ],
+  "id": 114417,
+  "malId": 40995,
+  "type": "anime",
+  "title": "Hentatsu",
+  "url": "https://anilist.co/anime/114417",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114417-xJtoo8pbK3xz.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:02.000Z",
+  "updatedAt": "2021-05-20T14:46:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "mkxv": {
+        "identifier": "mkxv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hentatsu (TV)",
+        "url": "https://9anime.to/watch/hentatsu-tv.mkxv",
+        "image": "https://static.akacdn.ru/files/images/2020/01/d9980e9484c486c140c86936a3e7941d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40995,
+        "aniId": 114417,
+        "createdAt": "2020-10-12T15:53:32.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "yl61": {
+        "identifier": "yl61",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hentatsu (TV) 12.5",
+        "url": "https://9anime.to/watch/hentatsu-tv-125.yl61",
+        "image": "https://static.akacdn.ru/files/images/2020/04/b28000d4fa505a301246ea865407df7f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40995,
+        "aniId": 114417,
+        "createdAt": "2020-10-12T15:56:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2111": {
+        "identifier": "2111",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Hentatsu (TV)",
+        "url": "https://aniwatch.me/anime/2111",
+        "image": "https://img.aniwatch.me/EF08206576987E832C3AAE1B119765D0",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40995,
+        "aniId": 114417,
+        "createdAt": "2020-10-12T15:58:16.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hentatsu-2019": {
+        "identifier": "hentatsu-2019",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hentatsu (2019)",
+        "url": "https://gogoanime.video/category/hentatsu-2019",
+        "image": "https://cdnimg.xyz/cover/hentatsu-2019.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40995,
+        "aniId": 114417,
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "hentatsu-tv": {
+        "identifier": "hentatsu-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hentatsu (TV)",
+        "url": "https://gogoanime.video/category/hentatsu-tv",
+        "image": "https://cdnimg.xyz/cover/hentatsu-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40995,
+        "aniId": 114417,
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

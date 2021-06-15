@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Twin Complex",
+    "双子コンプレックス"
+  ],
+  "authors": [
+    "Orihara, Sachiko"
+  ],
+  "id": 126959,
+  "type": "manga",
+  "title": "Futago Complex",
+  "url": "https://myanimelist.net/manga/126959/Futago_Complex",
+  "image": "https://cdn.myanimelist.net/images/manga/2/233467.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-11-14T22:53:20.000Z",
+  "updatedAt": "2021-02-26T03:25:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79d43bcb-c2a3-4250-bd8e-c3e43077a457": {
+        "authors": [
+          "Orihara Sachiko"
+        ],
+        "identifier": "79d43bcb-c2a3-4250-bd8e-c3e43077a457",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futago Complex",
+        "url": "https://mangadex.org/title/79d43bcb-c2a3-4250-bd8e-c3e43077a457",
+        "image": "https://uploads.mangadex.org/covers/79d43bcb-c2a3-4250-bd8e-c3e43077a457/4e1b04f1-f364-4454-aebb-8265fab64865.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126959,
+        "aniId": 118425,
+        "createdAt": "2020-10-12T16:19:07.000Z",
+        "updatedAt": "2021-06-07T21:24:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gb922661": {
+        "authors": [
+          "Orihara",
+          "Sachiko"
+        ],
+        "identifier": "gb922661",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Futago Complex",
+        "url": "https://manganelo.com/manga/gb922661",
+        "image": "https://avt.mkklcdnv6temp.com/2/q/21-1586709917.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 126959,
+        "aniId": 118425,
+        "createdAt": "2020-10-12T16:23:03.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "futago_complex": {
+        "authors": [
+          "Orihara Sachiko"
+        ],
+        "identifier": "futago_complex",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Futago Complex",
+        "url": "https://fanfox.net/manga/futago_complex/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33508/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126959,
+        "aniId": 118425,
+        "createdAt": "2021-02-28T02:43:53.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

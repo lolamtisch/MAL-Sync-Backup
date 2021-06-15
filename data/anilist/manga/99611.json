@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "케덴독"
+  ],
+  "authors": [
+    "Hee Jung Park"
+  ],
+  "id": 99611,
+  "malId": 101252,
+  "type": "manga",
+  "title": "Cat and Dog",
+  "url": "https://anilist.co/manga/99611",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99611-L9OdOjIVYC4B.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:52.000Z",
+  "updatedAt": "2021-05-20T14:54:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4fc1f112-e23b-42d7-a9ca-fd42198ad6f0": {
+        "authors": [
+          "Park Hee Jung"
+        ],
+        "identifier": "4fc1f112-e23b-42d7-a9ca-fd42198ad6f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cat And Dog",
+        "url": "https://mangadex.org/title/4fc1f112-e23b-42d7-a9ca-fd42198ad6f0",
+        "image": "https://uploads.mangadex.org/covers/4fc1f112-e23b-42d7-a9ca-fd42198ad6f0/e4a4b6eb-cb40-45ae-aeb4-3ce204525b28.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101252,
+        "aniId": 99611,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:39:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

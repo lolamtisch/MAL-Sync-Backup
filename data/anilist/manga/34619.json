@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Hellhounds: Panzer Cops",
+    "犬狼伝説",
+    "Kerberos Panzer Cop"
+  ],
+  "authors": [
+    "Kamui Fujiwara",
+    "Mamoru Oshii"
+  ],
+  "id": 34619,
+  "malId": 4619,
+  "type": "manga",
+  "title": "Kenrou Densetsu",
+  "url": "https://anilist.co/manga/34619",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34619-k3bg0vHvcRif.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b15b6f5-68ce-4d61-9a14-ba9090f5b69b": {
+        "authors": [
+          "Oshii Mamoru",
+          "Fujiwara Kamui"
+        ],
+        "identifier": "8b15b6f5-68ce-4d61-9a14-ba9090f5b69b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kerberos Panzer Cop",
+        "url": "https://mangadex.org/title/8b15b6f5-68ce-4d61-9a14-ba9090f5b69b",
+        "image": "https://uploads.mangadex.org/covers/8b15b6f5-68ce-4d61-9a14-ba9090f5b69b/831fd815-eeac-417d-bc3d-e588378d3612.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4619,
+        "aniId": 34619,
+        "createdAt": "2020-10-12T16:03:52.000Z",
+        "updatedAt": "2021-06-02T17:07:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kerberos_panzer_cop": {
+        "authors": [],
+        "identifier": "kerberos_panzer_cop",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kerberos Panzer Cop",
+        "url": "https://manganelo.com/manga/kerberos_panzer_cop",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19805-kerberos_panzer_cop.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4619,
+        "aniId": 34619,
+        "createdAt": "2020-10-12T16:23:52.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kerberos_panzer_cop": {
+        "authors": [
+          "OSHII Mamoru"
+        ],
+        "identifier": "kerberos_panzer_cop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kenrou Densetsu",
+        "url": "https://fanfox.net/manga/kerberos_panzer_cop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10053/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4619,
+        "aniId": 34619,
+        "createdAt": "2021-04-08T04:21:17.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      },
+      "kenrou_densetsu": {
+        "authors": [
+          "OSHII Mamoru"
+        ],
+        "identifier": "kenrou_densetsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kenrou Densetsu",
+        "url": "https://fanfox.net/manga/kenrou_densetsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10053/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4619,
+        "aniId": 34619,
+        "createdAt": "2021-04-08T04:51:39.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

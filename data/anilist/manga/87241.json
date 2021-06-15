@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "森のたくまさん"
+  ],
+  "authors": [
+    "Ayumi Komura"
+  ],
+  "id": 87241,
+  "malId": 93967,
+  "type": "manga",
+  "title": "Mori no Takuma-san",
+  "url": "https://anilist.co/manga/87241",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87241-wIf8OLuwfV6L.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:50.000Z",
+  "updatedAt": "2021-05-20T14:53:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "30c9ffb1-fa0d-447b-be6f-41e90469b6bc": {
+        "authors": [
+          "Komura Ayumi"
+        ],
+        "identifier": "30c9ffb1-fa0d-447b-be6f-41e90469b6bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mori no Takuma-san",
+        "url": "https://mangadex.org/title/30c9ffb1-fa0d-447b-be6f-41e90469b6bc",
+        "image": "https://uploads.mangadex.org/covers/30c9ffb1-fa0d-447b-be6f-41e90469b6bc/370a5777-1e08-42a4-a14f-f7577ac6ee7e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93967,
+        "aniId": 87241,
+        "createdAt": "2020-10-12T16:08:57.000Z",
+        "updatedAt": "2021-06-04T13:58:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

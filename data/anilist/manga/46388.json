@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "坩堝",
+    "Crucible"
+  ],
+  "authors": [
+    "Motofumi Takaoka"
+  ],
+  "id": 46388,
+  "malId": 16388,
+  "type": "manga",
+  "title": "Rutsubo",
+  "url": "https://anilist.co/manga/46388",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16388.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:43:55.000Z",
+  "updatedAt": "2021-05-20T14:43:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "85f304d4-8115-4acd-a336-abc7efef09da": {
+        "authors": [
+          "Takaoka Motofumi"
+        ],
+        "identifier": "85f304d4-8115-4acd-a336-abc7efef09da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rutsubo",
+        "url": "https://mangadex.org/title/85f304d4-8115-4acd-a336-abc7efef09da",
+        "image": "https://uploads.mangadex.org/covers/85f304d4-8115-4acd-a336-abc7efef09da/dfcd5bb0-be36-4b3c-8592-967fcf1a829d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16388,
+        "aniId": 46388,
+        "createdAt": "2020-10-12T16:15:43.000Z",
+        "updatedAt": "2021-06-06T16:11:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

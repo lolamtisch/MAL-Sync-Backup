@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ラプンツェルに吹く風",
+    "Rapuntsel ni Fuku Kaze"
+  ],
+  "authors": [
+    "Atsuyo Fuzuki"
+  ],
+  "id": 33145,
+  "malId": 3145,
+  "type": "manga",
+  "title": "Rapunzel ni Fuku Kaze",
+  "url": "https://anilist.co/manga/33145",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3145.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T10:19:08.000Z",
+  "updatedAt": "2021-06-05T10:19:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d08b85b-556b-4213-9fab-7d2ef82d9776": {
+        "authors": [
+          "Fuduki Atsuyo"
+        ],
+        "identifier": "7d08b85b-556b-4213-9fab-7d2ef82d9776",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rapuntsel ni Fuku Kaze",
+        "url": "https://mangadex.org/title/7d08b85b-556b-4213-9fab-7d2ef82d9776",
+        "image": "https://uploads.mangadex.org/covers/7d08b85b-556b-4213-9fab-7d2ef82d9776/a5f3e3d1-76cb-43c0-9f21-92804f9e7ae3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3145,
+        "aniId": 33145,
+        "createdAt": "2020-10-12T16:11:39.000Z",
+        "updatedAt": "2021-06-05T12:42:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

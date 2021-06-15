@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Ninja Girls",
+    "乱飛乱外"
+  ],
+  "authors": [
+    "Tanaka, Hosana"
+  ],
+  "id": 4613,
+  "type": "manga",
+  "title": "Rappi Rangai",
+  "url": "https://myanimelist.net/manga/4613/Rappi_Rangai",
+  "image": "https://cdn.myanimelist.net/images/manga/2/157871.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:01.000Z",
+  "updatedAt": "2021-05-08T13:18:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79cf7ca0-eb89-447a-a56d-ef493426aa2d": {
+        "authors": [
+          "Tanaka Hosana"
+        ],
+        "identifier": "79cf7ca0-eb89-447a-a56d-ef493426aa2d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rappi Rangai",
+        "url": "https://mangadex.org/title/79cf7ca0-eb89-447a-a56d-ef493426aa2d",
+        "image": "https://uploads.mangadex.org/covers/79cf7ca0-eb89-447a-a56d-ef493426aa2d/72aaee88-4102-4cbb-a41b-54ce7bf4400b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4613,
+        "aniId": 34613,
+        "createdAt": "2020-10-12T16:02:31.000Z",
+        "updatedAt": "2021-06-02T07:29:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rappi-rangai": {
+        "authors": [
+          "TANAKA Hosana"
+        ],
+        "identifier": "rappi-rangai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Rappi Rangai",
+        "url": "https://mangasee123.com/manga/Rappi-Rangai",
+        "image": "https://cover.nep.li/cover/Rappi-Rangai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4613,
+        "aniId": 34613,
+        "createdAt": "2020-12-22T02:26:15.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "rappi_rangai": {
+        "authors": [
+          "TANAKA Hosana"
+        ],
+        "identifier": "rappi_rangai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Rappi Rangai",
+        "url": "https://fanfox.net/manga/rappi_rangai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2802/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4613,
+        "aniId": 34613,
+        "createdAt": "2021-05-08T13:18:13.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

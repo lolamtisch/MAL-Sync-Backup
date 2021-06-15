@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Walk Wit Me",
+    "Walk With Me"
+  ],
+  "authors": [
+    "Hiroki Ugawa"
+  ],
+  "id": 110982,
+  "malId": null,
+  "type": "manga",
+  "title": "Walk Wit Me",
+  "url": "https://anilist.co/manga/110982",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110982-cEjUX3ljtP4B.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T02:19:27.000Z",
+  "updatedAt": "2021-06-05T02:19:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb306e10-bb97-4192-b2e4-4f7383d9499c": {
+        "authors": [
+          "UGAWA Hiroki"
+        ],
+        "identifier": "eb306e10-bb97-4192-b2e4-4f7383d9499c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Walk With Me",
+        "url": "https://mangadex.org/title/eb306e10-bb97-4192-b2e4-4f7383d9499c",
+        "image": "https://uploads.mangadex.org/covers/eb306e10-bb97-4192-b2e4-4f7383d9499c/77700438-22e0-4926-82d0-c9da9c9fa401.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110982,
+        "createdAt": "2020-10-12T16:10:38.000Z",
+        "updatedAt": "2021-06-05T08:40:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

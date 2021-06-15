@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "九条の大罪",
+    "The Deadly Sins of Kujo"
+  ],
+  "authors": [
+    "Shouhei Manabe"
+  ],
+  "id": 124891,
+  "malId": 130471,
+  "type": "manga",
+  "title": "Kujou no Taizai",
+  "url": "https://anilist.co/manga/124891",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124891-UNJQsDE4EfW3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:30.000Z",
+  "updatedAt": "2021-05-20T14:59:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f436d3ae-3aa8-47fa-948e-489440e2cfae": {
+        "authors": [
+          "Manabe Shohei"
+        ],
+        "identifier": "f436d3ae-3aa8-47fa-948e-489440e2cfae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kujou no Taizai",
+        "url": "https://mangadex.org/title/f436d3ae-3aa8-47fa-948e-489440e2cfae",
+        "image": "https://uploads.mangadex.org/covers/f436d3ae-3aa8-47fa-948e-489440e2cfae/642fa947-580a-4c32-8092-ce85b0076e52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130471,
+        "aniId": 124891,
+        "createdAt": "2021-02-25T23:59:58.000Z",
+        "updatedAt": "2021-06-08T11:42:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

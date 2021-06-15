@@ -1,0 +1,81 @@
+{
+  "altTitle": [
+    "지상 최악의 소년"
+  ],
+  "authors": [
+    "Pil Won Jung"
+  ],
+  "id": 71925,
+  "malId": 41925,
+  "type": "manga",
+  "title": "Nowhere Boy",
+  "url": "https://anilist.co/manga/71925",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41925.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:50.000Z",
+  "updatedAt": "2021-05-20T14:48:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "773f8691-46b7-4139-a668-909b8768a2c2": {
+        "authors": [
+          "JUNG Pil-won"
+        ],
+        "identifier": "773f8691-46b7-4139-a668-909b8768a2c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nowhere Boy",
+        "url": "https://mangadex.org/title/773f8691-46b7-4139-a668-909b8768a2c2",
+        "image": "https://uploads.mangadex.org/covers/773f8691-46b7-4139-a668-909b8768a2c2/a6298ba5-c412-4600-b93b-8316e2586dfe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41925,
+        "aniId": 71925,
+        "createdAt": "2020-10-12T16:03:24.000Z",
+        "updatedAt": "2021-06-02T13:48:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nowhere_boy": {
+        "authors": [],
+        "identifier": "nowhere_boy",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nowhere Boy",
+        "url": "https://manganelo.com/manga/nowhere_boy",
+        "image": "https://avt.mkklcdnv6.com/34/b/9-1583481468.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41925,
+        "aniId": 71925,
+        "createdAt": "2020-10-12T16:24:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "zq919813": {
+        "authors": [],
+        "identifier": "zq919813",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Where's The Bossy Ceo?",
+        "url": "https://manganelo.com/manga/zq919813",
+        "image": "https://avt.mkklcdnv6.com/45/x/18-1583498882.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41925,
+        "aniId": 71925,
+        "createdAt": "2020-10-12T16:26:33.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

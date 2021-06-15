@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "MAIの部屋",
+    "Mai's Room"
+  ],
+  "authors": [
+    "Toshiki Yui"
+  ],
+  "id": 41987,
+  "malId": 11987,
+  "type": "manga",
+  "title": "Mai no Heya",
+  "url": "https://anilist.co/manga/41987",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41987-ZBIaD2cLSbAZ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:16.000Z",
+  "updatedAt": "2021-05-20T14:42:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7f63ca34-ea56-4fd6-b480-4b657af4be6f": {
+        "authors": [
+          "Yui Toshiki"
+        ],
+        "identifier": "7f63ca34-ea56-4fd6-b480-4b657af4be6f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mai no Heya",
+        "url": "https://mangadex.org/title/7f63ca34-ea56-4fd6-b480-4b657af4be6f",
+        "image": "https://uploads.mangadex.org/covers/7f63ca34-ea56-4fd6-b480-4b657af4be6f/ff30b823-508e-41e3-8798-b4e709d1c943.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11987,
+        "aniId": 41987,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:38:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mai_no_heya": {
+        "authors": [],
+        "identifier": "mai_no_heya",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mai No Heya",
+        "url": "https://manganelo.com/manga/mai_no_heya",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3091-mai_no_heya.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11987,
+        "aniId": 41987,
+        "createdAt": "2020-10-12T16:24:14.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

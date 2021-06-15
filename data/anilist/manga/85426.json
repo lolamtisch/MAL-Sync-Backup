@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Shiny Doll",
+    "シャイニードール"
+  ],
+  "authors": [
+    "Ruka Ichinose"
+  ],
+  "id": 85426,
+  "malId": 57345,
+  "type": "manga",
+  "title": "Shiny Doll",
+  "url": "https://anilist.co/manga/85426",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55426.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:30.000Z",
+  "updatedAt": "2021-06-03T21:50:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ea14eae1-92a0-4001-8630-11fdef893f36": {
+        "authors": [
+          "Ichinose Ruka"
+        ],
+        "identifier": "ea14eae1-92a0-4001-8630-11fdef893f36",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shiny Doll",
+        "url": "https://mangadex.org/title/ea14eae1-92a0-4001-8630-11fdef893f36",
+        "image": "https://uploads.mangadex.org/covers/ea14eae1-92a0-4001-8630-11fdef893f36/130e1324-1d32-4284-830d-35e11d098f0f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57345,
+        "aniId": 85426,
+        "createdAt": "2020-10-12T16:06:40.000Z",
+        "updatedAt": "2021-06-03T22:40:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shiny_doll": {
+        "authors": [
+          "Ichinose",
+          "Ruka"
+        ],
+        "identifier": "shiny_doll",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shiny Doll",
+        "url": "https://manganelo.com/manga/shiny_doll",
+        "image": "https://avt.mkklcdnv6temp.com/31/a/7-1583477437.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57345,
+        "aniId": 85426,
+        "createdAt": "2021-04-05T13:38:38.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "The Other Side of the Mirror",
+    "鏡子的另一邊"
+  ],
+  "authors": [
+    "Jo Chen",
+    "J. Standaert"
+  ],
+  "id": 33849,
+  "malId": 3849,
+  "type": "manga",
+  "title": "Jingzi De Ling Yibian",
+  "url": "https://anilist.co/manga/33849",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33849-V7aBOTphw9K2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9e273b8f-f394-462f-892f-f163a5ca6445": {
+        "authors": [
+          "CHEN Jo"
+        ],
+        "identifier": "9e273b8f-f394-462f-892f-f163a5ca6445",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Other Side Of The Mirror",
+        "url": "https://mangadex.org/title/9e273b8f-f394-462f-892f-f163a5ca6445",
+        "image": "https://uploads.mangadex.org/covers/9e273b8f-f394-462f-892f-f163a5ca6445/c09b85d7-0839-45fc-bda9-2f90de2cbdec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3849,
+        "aniId": 33849,
+        "createdAt": "2020-10-12T16:09:29.000Z",
+        "updatedAt": "2021-06-04T17:56:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kw919698": {
+        "authors": [],
+        "identifier": "kw919698",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "To Kill A Mirror",
+        "url": "https://manganelo.com/manga/kw919698",
+        "image": "https://avt.mkklcdnv6.com/41/p/18-1583498715.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3849,
+        "aniId": 33849,
+        "createdAt": "2020-10-12T16:24:03.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "the_other_side_of_the_mirror": {
+        "authors": [
+          "Chen",
+          "Jo"
+        ],
+        "identifier": "the_other_side_of_the_mirror",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Other Side Of The Mirror",
+        "url": "https://manganelo.com/manga/the_other_side_of_the_mirror",
+        "image": "https://avt.mkklcdnv6temp.com/32/w/11-1583485194.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3849,
+        "aniId": 33849,
+        "createdAt": "2021-03-27T18:49:14.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

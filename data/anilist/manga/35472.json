@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "雪解けの熱",
+    "Snow-Melting Fever"
+  ],
+  "authors": [
+    "Asuka Izumi"
+  ],
+  "id": 35472,
+  "malId": 5472,
+  "type": "manga",
+  "title": "Yuki-doke no Netsu",
+  "url": "https://anilist.co/manga/35472",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5472.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:29.000Z",
+  "updatedAt": "2021-05-20T14:39:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "89e9cf30-7cef-485f-89af-99ea0b86b8ec": {
+        "authors": [
+          "Izumi Asuka"
+        ],
+        "identifier": "89e9cf30-7cef-485f-89af-99ea0b86b8ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuki-doke no Netsu",
+        "url": "https://mangadex.org/title/89e9cf30-7cef-485f-89af-99ea0b86b8ec",
+        "image": "https://uploads.mangadex.org/covers/89e9cf30-7cef-485f-89af-99ea0b86b8ec/611e2d6c-9af6-4e77-82d3-8d03d66cd9a5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5472,
+        "aniId": 35472,
+        "createdAt": "2020-10-12T16:04:20.000Z",
+        "updatedAt": "2021-06-02T20:22:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Space Battleship Yamato",
+    "Cosmoship Yamato",
+    "宇宙戦艦ヤマト"
+  ],
+  "authors": [
+    "Matsumoto, Leiji"
+  ],
+  "id": 33333,
+  "type": "manga",
+  "title": "Uchuu Senkan Yamato",
+  "url": "https://myanimelist.net/manga/33333/Uchuu_Senkan_Yamato",
+  "image": "https://cdn.myanimelist.net/images/manga/1/60977.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:47.000Z",
+  "updatedAt": "2021-03-16T05:32:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "ab922001": {
+        "authors": [],
+        "identifier": "ab922001",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Lady's Spaceship",
+        "url": "https://manganelo.com/manga/ab922001",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3416-ab922001.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33333,
+        "aniId": 63333,
+        "createdAt": "2020-10-12T16:21:59.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "9b4e8875-785f-4cc0-aed4-9adaff2e8e2a": {
+        "authors": [
+          "",
+          "Matsumoto Leiji"
+        ],
+        "identifier": "9b4e8875-785f-4cc0-aed4-9adaff2e8e2a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Space Battleship Yamato",
+        "url": "https://mangadex.org/title/9b4e8875-785f-4cc0-aed4-9adaff2e8e2a",
+        "image": "https://uploads.mangadex.org/covers/9b4e8875-785f-4cc0-aed4-9adaff2e8e2a/16d9bde6-7eb3-45a3-b476-a58b05a9b316.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33333,
+        "aniId": 63333,
+        "createdAt": "2021-03-16T05:32:57.000Z",
+        "updatedAt": "2021-06-08T12:38:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "オーバーイメージ"
+  ],
+  "authors": [
+    "Yusa, Mahiro",
+    "Chibimaru"
+  ],
+  "id": 43545,
+  "type": "manga",
+  "title": "Over Image",
+  "url": "https://myanimelist.net/manga/43545/Over_Image",
+  "image": "https://cdn.myanimelist.net/images/manga/1/94795.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:17.000Z",
+  "updatedAt": "2021-05-25T02:09:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "743d4f3c-a79f-4428-9ef7-a5e462e225fe": {
+        "authors": [
+          "Yusa Mahiro",
+          "Chibimaru (IKEZAWA Shin)"
+        ],
+        "identifier": "743d4f3c-a79f-4428-9ef7-a5e462e225fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Over Image",
+        "url": "https://mangadex.org/title/743d4f3c-a79f-4428-9ef7-a5e462e225fe",
+        "image": "https://uploads.mangadex.org/covers/743d4f3c-a79f-4428-9ef7-a5e462e225fe/ea12bd89-6ba4-4b79-a7c8-24bc08365dc7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43545,
+        "aniId": 73545,
+        "createdAt": "2020-10-12T16:05:30.000Z",
+        "updatedAt": "2021-06-03T13:03:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "over-image": {
+        "authors": [
+          "Chibimaru",
+          "YUSA Mahiro"
+        ],
+        "identifier": "over-image",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Over Image",
+        "url": "https://mangasee123.com/manga/Over-Image",
+        "image": "https://cover.nep.li/cover/Over-Image.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43545,
+        "aniId": 73545,
+        "createdAt": "2021-05-25T02:09:18.000Z",
+        "updatedAt": "2021-05-25T02:38:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

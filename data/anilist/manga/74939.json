@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "たくらみトレイン"
+  ],
+  "authors": [
+    "Mizuka"
+  ],
+  "id": 74939,
+  "malId": 44939,
+  "type": "manga",
+  "title": "Takurami Train",
+  "url": "https://anilist.co/manga/74939",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/44939.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0604b939-a75c-483b-8f64-2c66bc892d11": {
+        "authors": [
+          "MIZUKA"
+        ],
+        "identifier": "0604b939-a75c-483b-8f64-2c66bc892d11",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Takurami Train",
+        "url": "https://mangadex.org/title/0604b939-a75c-483b-8f64-2c66bc892d11",
+        "image": "https://uploads.mangadex.org/covers/0604b939-a75c-483b-8f64-2c66bc892d11/19ad3ec0-39b3-4f1b-9965-4dc017d9fe0b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44939,
+        "aniId": 74939,
+        "createdAt": "2020-10-12T16:06:52.000Z",
+        "updatedAt": "2021-06-03T22:38:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

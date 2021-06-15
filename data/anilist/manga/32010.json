@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ディープ・フラワー"
+  ],
+  "authors": [
+    "Riyu Yamakami"
+  ],
+  "id": 32010,
+  "malId": 2010,
+  "type": "manga",
+  "title": "Deep Flower",
+  "url": "https://anilist.co/manga/32010",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2010.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:58.000Z",
+  "updatedAt": "2021-05-20T14:36:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "40e41acf-b1e4-494a-b71e-0d7310c8f066": {
+        "authors": [
+          "Yamakami Riyu"
+        ],
+        "identifier": "40e41acf-b1e4-494a-b71e-0d7310c8f066",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Deep Flower",
+        "url": "https://mangadex.org/title/40e41acf-b1e4-494a-b71e-0d7310c8f066",
+        "image": "https://uploads.mangadex.org/covers/40e41acf-b1e4-494a-b71e-0d7310c8f066/d2d5aa8d-241d-44cc-9858-f722b38bf8cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2010,
+        "aniId": 32010,
+        "createdAt": "2020-10-12T16:13:40.000Z",
+        "updatedAt": "2021-06-05T23:05:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

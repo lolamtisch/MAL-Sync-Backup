@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Rainbow and Black",
+    "Niji and Kuro",
+    "ニジとクロ"
+  ],
+  "authors": [
+    "Takenashi, Eri"
+  ],
+  "id": 123020,
+  "type": "manga",
+  "title": "Niji to Kuro",
+  "url": "https://myanimelist.net/manga/123020/Niji_to_Kuro",
+  "image": "https://cdn.myanimelist.net/images/manga/3/227432.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:10.000Z",
+  "updatedAt": "2021-04-03T20:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "17c45eaa-711a-4916-a054-036c5e9dae90": {
+        "authors": [
+          "Takenashi Eri"
+        ],
+        "identifier": "17c45eaa-711a-4916-a054-036c5e9dae90",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Niji to Kuro",
+        "url": "https://mangadex.org/title/17c45eaa-711a-4916-a054-036c5e9dae90",
+        "image": "https://uploads.mangadex.org/covers/17c45eaa-711a-4916-a054-036c5e9dae90/ec19906e-5077-4513-a96e-443a3bd6aec4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123020,
+        "aniId": 113036,
+        "createdAt": "2020-10-12T16:17:43.000Z",
+        "updatedAt": "2021-06-07T10:09:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rainbow-and-black": {
+        "authors": [
+          "TAKENASHI Eri"
+        ],
+        "identifier": "rainbow-and-black",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Rainbow and Black",
+        "url": "https://mangasee123.com/manga/Rainbow-and-Black",
+        "image": "https://cover.nep.li/cover/Rainbow-and-Black.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123020,
+        "aniId": 113036,
+        "createdAt": "2021-04-03T20:38:16.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

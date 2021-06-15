@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Ironfist Chinmi",
+    "鉄拳チンミ",
+    "Kung Fu Boy",
+    "Kung Fu Boy \"Chinmi\""
+  ],
+  "authors": [
+    "Takeshi Maekawa"
+  ],
+  "id": 31100,
+  "malId": 1100,
+  "type": "manga",
+  "title": "Tekken Chinmi",
+  "url": "https://anilist.co/manga/31100",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31100-H26Ve4yzGUNv.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4b0315ba-322f-434e-b5bd-89f1c001ebbd": {
+        "authors": [
+          "Maekawa Takeshi"
+        ],
+        "identifier": "4b0315ba-322f-434e-b5bd-89f1c001ebbd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tekken Chinmi",
+        "url": "https://mangadex.org/title/4b0315ba-322f-434e-b5bd-89f1c001ebbd",
+        "image": "https://uploads.mangadex.org/covers/4b0315ba-322f-434e-b5bd-89f1c001ebbd/8597910b-e951-44d8-ad92-79bbd8d3da62.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1100,
+        "aniId": 31100,
+        "createdAt": "2020-10-12T16:08:34.000Z",
+        "updatedAt": "2021-06-04T11:03:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tekken_chinmi": {
+        "authors": [
+          "MAEKAWA Takeshi"
+        ],
+        "identifier": "tekken_chinmi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tekken Chinmi",
+        "url": "https://fanfox.net/manga/tekken_chinmi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2908/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1100,
+        "aniId": 31100,
+        "createdAt": "2021-04-24T01:27:02.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

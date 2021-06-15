@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "K-On!",
+    "けいおん!",
+    "Keion"
+  ],
+  "authors": [
+    "Kakifly"
+  ],
+  "id": 43001,
+  "malId": 13001,
+  "type": "manga",
+  "title": "K-On!",
+  "url": "https://anilist.co/manga/43001",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43001-yRE3yBmYoIrV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:28.000Z",
+  "updatedAt": "2021-05-20T14:42:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "227e498f-ff83-4d2a-8c76-eaa9d83863c4": {
+        "authors": [
+          "Kakifly"
+        ],
+        "identifier": "227e498f-ff83-4d2a-8c76-eaa9d83863c4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "K-ON!",
+        "url": "https://mangadex.org/title/227e498f-ff83-4d2a-8c76-eaa9d83863c4",
+        "image": "https://uploads.mangadex.org/covers/227e498f-ff83-4d2a-8c76-eaa9d83863c4/7434f405-f559-4b4f-bf10-abda83310756.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13001,
+        "aniId": 43001,
+        "createdAt": "2020-10-12T16:04:00.000Z",
+        "updatedAt": "2021-06-02T17:55:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "k_on": {
+        "authors": [
+          "Kakifly"
+        ],
+        "identifier": "k_on",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "K-ON!",
+        "url": "https://fanfox.net/manga/k_on/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5598/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13001,
+        "aniId": 43001,
+        "createdAt": "2021-01-15T02:32:43.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "k-o-n": {
+        "authors": [
+          "Kakifly"
+        ],
+        "identifier": "k-o-n",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "K-ON!",
+        "url": "https://mangasee123.com/manga/K-O-N",
+        "image": "https://cover.nep.li/cover/K-O-N.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13001,
+        "aniId": 43001,
+        "createdAt": "2021-02-15T18:05:47.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

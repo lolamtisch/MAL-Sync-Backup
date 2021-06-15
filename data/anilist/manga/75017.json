@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Gosick W",
+    "Gosick Double"
+  ],
+  "authors": [
+    "Kazuki Sakuraba",
+    "Takeshi Moriki"
+  ],
+  "id": 75017,
+  "malId": 45017,
+  "type": "manga",
+  "title": "Gosick W",
+  "url": "https://anilist.co/manga/75017",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45017.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c17966b7-0de7-46f8-9563-9b05bacc8908": {
+        "authors": [
+          "Moriki Takeshi",
+          "Sakuraba Kazuki"
+        ],
+        "identifier": "c17966b7-0de7-46f8-9563-9b05bacc8908",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gosick W",
+        "url": "https://mangadex.org/title/c17966b7-0de7-46f8-9563-9b05bacc8908",
+        "image": "https://uploads.mangadex.org/covers/c17966b7-0de7-46f8-9563-9b05bacc8908/d47e528e-c00c-4aa1-ad3f-ea6a2523ff6a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45017,
+        "aniId": 75017,
+        "createdAt": "2020-10-12T16:06:58.000Z",
+        "updatedAt": "2021-06-03T23:25:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

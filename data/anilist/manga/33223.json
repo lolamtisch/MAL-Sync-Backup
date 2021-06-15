@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "美人泥棒"
+  ],
+  "authors": [
+    "Ryuu Yuuhi"
+  ],
+  "id": 33223,
+  "malId": 3223,
+  "type": "manga",
+  "title": "Bijin Dorobou",
+  "url": "https://anilist.co/manga/33223",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3223.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e51051e7-6654-4661-8f85-dbfb03877217": {
+        "authors": [
+          "YUUHI Ryuu"
+        ],
+        "identifier": "e51051e7-6654-4661-8f85-dbfb03877217",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bijin Dorobou",
+        "url": "https://mangadex.org/title/e51051e7-6654-4661-8f85-dbfb03877217",
+        "image": "https://uploads.mangadex.org/covers/e51051e7-6654-4661-8f85-dbfb03877217/1677ceed-cd75-406f-9f33-0ebe0e41e2f2.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3223,
+        "aniId": 33223,
+        "createdAt": "2020-10-12T16:05:44.000Z",
+        "updatedAt": "2021-06-03T14:38:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

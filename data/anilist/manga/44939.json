@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "おまもりのかみさま",
+    "おまもりのかみさま"
+  ],
+  "authors": [
+    "Mayu Kosugi"
+  ],
+  "id": 44939,
+  "malId": 14939,
+  "type": "manga",
+  "title": "Omamori no Kamisama",
+  "url": "https://anilist.co/manga/44939",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b44939-0RXXhgsmsWKH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:41.000Z",
+  "updatedAt": "2021-05-20T14:43:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aa05239b-a6c8-4bd3-ace9-e70ec33226c4": {
+        "authors": [
+          "Kosugi Mayu"
+        ],
+        "identifier": "aa05239b-a6c8-4bd3-ace9-e70ec33226c4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Omamori no Kamisama",
+        "url": "https://mangadex.org/title/aa05239b-a6c8-4bd3-ace9-e70ec33226c4",
+        "image": "https://uploads.mangadex.org/covers/aa05239b-a6c8-4bd3-ace9-e70ec33226c4/eec6f567-486b-43cf-a49e-e3b1242b535b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14939,
+        "aniId": 44939,
+        "createdAt": "2020-10-12T16:02:30.000Z",
+        "updatedAt": "2021-06-02T07:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "それでも俺のものになる"
+  ],
+  "authors": [
+    "Takasaki, Bosco"
+  ],
+  "id": 102449,
+  "type": "manga",
+  "title": "Soredemo Ore no Mono ni Naru",
+  "url": "https://myanimelist.net/manga/102449/Soredemo_Ore_no_Mono_ni_Naru",
+  "image": "https://cdn.myanimelist.net/images/manga/2/192568.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:45.000Z",
+  "updatedAt": "2021-05-03T19:03:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "900a9a47-a542-47df-a0dd-78ea16b8289e": {
+        "authors": [
+          ""
+        ],
+        "identifier": "900a9a47-a542-47df-a0dd-78ea16b8289e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Soredemo Ore no Mono ni Naru",
+        "url": "https://mangadex.org/title/900a9a47-a542-47df-a0dd-78ea16b8289e",
+        "image": "https://uploads.mangadex.org/covers/900a9a47-a542-47df-a0dd-78ea16b8289e/2611bcf3-b4e9-46d0-8a9e-dd86cbbd7aa8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102449,
+        "aniId": 98880,
+        "createdAt": "2020-10-12T16:10:14.000Z",
+        "updatedAt": "2021-06-04T23:12:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "soredemo_ore_no_mono_ni_naru": {
+        "authors": [
+          "TAKASAKI Bosco"
+        ],
+        "identifier": "soredemo_ore_no_mono_ni_naru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Soredemo Ore no Mono ni Naru",
+        "url": "https://fanfox.net/manga/soredemo_ore_no_mono_ni_naru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22487/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102449,
+        "aniId": 98880,
+        "createdAt": "2021-05-03T19:03:09.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

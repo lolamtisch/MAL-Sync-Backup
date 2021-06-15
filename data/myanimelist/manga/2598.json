@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Clannad",
+    "CLANNAD Original Comic, For You Not",
+    "クラナド"
+  ],
+  "authors": [
+    "Maeda, Jun",
+    "Key",
+    "Juri, Misaki"
+  ],
+  "id": 2598,
+  "type": "manga",
+  "title": "Clannad",
+  "url": "https://myanimelist.net/manga/2598/Clannad",
+  "image": "https://cdn.myanimelist.net/images/manga/3/6142.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:44.000Z",
+  "updatedAt": "2021-03-02T15:50:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a3f5d02e-d49b-46d9-ac54-6a7a4fd2d443": {
+        "authors": [
+          "Key",
+          "Misaki Juri"
+        ],
+        "identifier": "a3f5d02e-d49b-46d9-ac54-6a7a4fd2d443",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Clannad",
+        "url": "https://mangadex.org/title/a3f5d02e-d49b-46d9-ac54-6a7a4fd2d443",
+        "image": "https://uploads.mangadex.org/covers/a3f5d02e-d49b-46d9-ac54-6a7a4fd2d443/4d0a6258-c8bf-45eb-8678-da94fd09ec28.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2598,
+        "aniId": 32598,
+        "createdAt": "2020-10-12T16:04:31.000Z",
+        "updatedAt": "2021-06-02T21:36:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tbcg85541573917138": {
+        "authors": [
+          "Key"
+        ],
+        "identifier": "tbcg85541573917138",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Clannad",
+        "url": "https://manganelo.com/manga/tbcg85541573917138",
+        "image": "https://avt.mkklcdnv6.com/31/n/6-1583475402.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2598,
+        "aniId": 32598,
+        "createdAt": "2021-01-06T00:26:46.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "clannad": {
+        "authors": [
+          "Key"
+        ],
+        "identifier": "clannad",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Clannad",
+        "url": "https://fanfox.net/manga/clannad/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/540/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2598,
+        "aniId": 32598,
+        "createdAt": "2021-03-02T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

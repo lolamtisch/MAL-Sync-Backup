@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "王国物語",
+    "Tales of the Kingdom",
+    "Kingdom Story"
+  ],
+  "authors": [
+    "Asumiko Nakamura"
+  ],
+  "id": 99380,
+  "malId": 105402,
+  "type": "manga",
+  "title": "Oukoku Monogatari",
+  "url": "https://anilist.co/manga/99380",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99380-TMULIHZHPE1Y.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:15.000Z",
+  "updatedAt": "2021-05-20T14:55:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5da228de-611e-4a18-aad9-49ec11e3d2d4": {
+        "authors": [
+          "Nakamura Asumiko"
+        ],
+        "identifier": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of the Kingdom",
+        "url": "https://mangadex.org/title/5da228de-611e-4a18-aad9-49ec11e3d2d4",
+        "image": "https://uploads.mangadex.org/covers/5da228de-611e-4a18-aad9-49ec11e3d2d4/2ea7422a-7dab-4ac3-aab7-9b2bb2017411.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105402,
+        "aniId": 99380,
+        "createdAt": "2020-10-12T16:10:48.000Z",
+        "updatedAt": "2021-06-05T03:29:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

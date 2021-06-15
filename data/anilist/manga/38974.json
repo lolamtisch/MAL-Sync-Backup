@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "A Girl's Feeling",
+    "オトメゴコロ",
+    "Otome Gokoro"
+  ],
+  "authors": [
+    "Ayu Watanabe"
+  ],
+  "id": 38974,
+  "malId": 8974,
+  "type": "manga",
+  "title": "Otomegokoro",
+  "url": "https://anilist.co/manga/38974",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8974.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:52.000Z",
+  "updatedAt": "2021-05-20T14:40:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96fa5fc4-eaa1-4c60-9a69-76cc7c5017b5": {
+        "authors": [
+          "Watanabe Ayu"
+        ],
+        "identifier": "96fa5fc4-eaa1-4c60-9a69-76cc7c5017b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otomegokoro",
+        "url": "https://mangadex.org/title/96fa5fc4-eaa1-4c60-9a69-76cc7c5017b5",
+        "image": "https://uploads.mangadex.org/covers/96fa5fc4-eaa1-4c60-9a69-76cc7c5017b5/9004d29d-a502-4467-8c10-c95f894503e0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8974,
+        "aniId": 38974,
+        "createdAt": "2020-10-12T16:04:47.000Z",
+        "updatedAt": "2021-06-02T23:21:43.000Z",
+        "deletedAt": null
+      },
+      "54c516c6-1da9-4691-b4e5-04b4bda709d7": {
+        "authors": [
+          "Helsenn"
+        ],
+        "identifier": "54c516c6-1da9-4691-b4e5-04b4bda709d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "His Feelings",
+        "url": "https://mangadex.org/title/54c516c6-1da9-4691-b4e5-04b4bda709d7",
+        "image": "https://uploads.mangadex.org/covers/54c516c6-1da9-4691-b4e5-04b4bda709d7/b048d590-1e4c-4e81-a185-4d4c088705bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8974,
+        "aniId": 38974,
+        "createdAt": "2020-10-12T16:15:14.000Z",
+        "updatedAt": "2021-06-06T11:55:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "otomegokoro": {
+        "authors": [
+          "WATANABE Ayu"
+        ],
+        "identifier": "otomegokoro",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Otomegokoro",
+        "url": "https://fanfox.net/manga/otomegokoro/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5210/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8974,
+        "aniId": 38974,
+        "createdAt": "2021-05-20T22:16:50.000Z",
+        "updatedAt": "2021-05-20T22:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "NEVER GOOD ENOUGH"
+  ],
+  "authors": [
+    "CTK"
+  ],
+  "id": 125117,
+  "type": "manga",
+  "title": "Never Good Enough",
+  "url": "https://myanimelist.net/manga/125117/Never_Good_Enough",
+  "image": "https://cdn.myanimelist.net/images/manga/3/228764.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T20:04:38.000Z",
+  "updatedAt": "2021-06-07T20:04:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "438e5390-c161-4659-9095-f623efb58353": {
+        "authors": [
+          "CTK"
+        ],
+        "identifier": "438e5390-c161-4659-9095-f623efb58353",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Never Good Enough",
+        "url": "https://mangadex.org/title/438e5390-c161-4659-9095-f623efb58353",
+        "image": "https://uploads.mangadex.org/covers/438e5390-c161-4659-9095-f623efb58353/0b7ef247-35d2-4b43-b5e5-8090fe1a1806.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125117,
+        "aniId": 116482,
+        "createdAt": "2020-10-12T16:18:46.000Z",
+        "updatedAt": "2021-06-07T20:07:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

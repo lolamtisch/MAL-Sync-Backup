@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "かたつむりちゃん",
+    "Snail-chan"
+  ],
+  "authors": [
+    "Kami Imai"
+  ],
+  "id": 86286,
+  "malId": 95312,
+  "type": "manga",
+  "title": "Katatsumuri-chan",
+  "url": "https://anilist.co/manga/86286",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56286-A84AOFMtijts.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:58.000Z",
+  "updatedAt": "2021-05-20T14:53:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9f5fdd4b-26ca-4d9e-a4ff-b781f4681bc4": {
+        "authors": [
+          "Imai Kami"
+        ],
+        "identifier": "9f5fdd4b-26ca-4d9e-a4ff-b781f4681bc4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Katatsumuri-chan",
+        "url": "https://mangadex.org/title/9f5fdd4b-26ca-4d9e-a4ff-b781f4681bc4",
+        "image": "https://uploads.mangadex.org/covers/9f5fdd4b-26ca-4d9e-a4ff-b781f4681bc4/78af6132-eafb-4f2e-8061-fffc240627d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95312,
+        "aniId": 86286,
+        "createdAt": "2020-10-12T16:09:26.000Z",
+        "updatedAt": "2021-06-04T17:38:38.000Z",
+        "deletedAt": null
+      },
+      "1fbb3f29-23d3-43a2-bdb0-41d7a4800471": {
+        "authors": [
+          "Takatsu Makoto"
+        ],
+        "identifier": "1fbb3f29-23d3-43a2-bdb0-41d7a4800471",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watari Tori to Katatsumuri",
+        "url": "https://mangadex.org/title/1fbb3f29-23d3-43a2-bdb0-41d7a4800471",
+        "image": "https://uploads.mangadex.org/covers/1fbb3f29-23d3-43a2-bdb0-41d7a4800471/16a09e43-e12c-463f-967a-3014f9abe7d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95312,
+        "aniId": 86286,
+        "createdAt": "2020-10-12T16:18:31.000Z",
+        "updatedAt": "2021-06-07T17:42:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "katatsumurichan_2": {
+        "authors": [],
+        "identifier": "katatsumurichan_2",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Katatsumuri-Chan",
+        "url": "https://manganelo.com/manga/katatsumurichan_2",
+        "image": "https://avt.mkklcdnv6.com/41/m/3-1583469305.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95312,
+        "aniId": 86286,
+        "createdAt": "2020-10-12T16:23:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

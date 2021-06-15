@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "逢魔ヶ刻動物園",
+    "Oumagadoki Zoo",
+    "Crazy Zoo"
+  ],
+  "authors": [
+    "Kouhei Horikoshi",
+    "Yuusaku Shibata",
+    "Masaru Miyokawa",
+    "Toshitomo Ootake"
+  ],
+  "id": 51062,
+  "malId": 21062,
+  "type": "manga",
+  "title": "Oumagadoki Doubutsuen",
+  "url": "https://anilist.co/manga/51062",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51062-rlmXfjlH7aoj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:37.000Z",
+  "updatedAt": "2021-05-20T14:45:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0825f988-7267-4bba-87a4-821b67a8a869": {
+        "authors": [
+          "Horikoshi Kouhei"
+        ],
+        "identifier": "0825f988-7267-4bba-87a4-821b67a8a869",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oumagadoki Zoo",
+        "url": "https://mangadex.org/title/0825f988-7267-4bba-87a4-821b67a8a869",
+        "image": "https://uploads.mangadex.org/covers/0825f988-7267-4bba-87a4-821b67a8a869/314fd3c9-e434-4fb0-bd6a-7a30b74200b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21062,
+        "aniId": 51062,
+        "createdAt": "2020-10-12T16:02:25.000Z",
+        "updatedAt": "2021-06-02T06:43:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "oumagadoki_doubutsuen": {
+        "authors": [],
+        "identifier": "oumagadoki_doubutsuen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Oumagadoki Doubutsuen",
+        "url": "https://manganelo.com/manga/oumagadoki_doubutsuen",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2053-oumagadoki_doubutsuen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21062,
+        "aniId": 51062,
+        "createdAt": "2020-10-12T16:24:46.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "oumagadoki_doubutsuen": {
+        "authors": [
+          "HORIKOSHI Kouhei"
+        ],
+        "identifier": "oumagadoki_doubutsuen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Oumagadoki Doubutsuen",
+        "url": "https://fanfox.net/manga/oumagadoki_doubutsuen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7529/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21062,
+        "aniId": 51062,
+        "createdAt": "2021-01-21T16:03:45.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "oumagadoki-zoo": {
+        "authors": [
+          "HORIKOSHI Kouhei"
+        ],
+        "identifier": "oumagadoki-zoo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Oumagadoki Zoo",
+        "url": "https://mangasee123.com/manga/Oumagadoki-Zoo",
+        "image": "https://cover.nep.li/cover/Oumagadoki-Zoo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21062,
+        "aniId": 51062,
+        "createdAt": "2021-02-02T00:02:26.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

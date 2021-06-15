@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "オトコノコに虜",
+    "Otoko no Ko ni Toriko",
+    "Kimi ga Mada Suki."
+  ],
+  "authors": [
+    "Takara Akegami"
+  ],
+  "id": 85628,
+  "malId": 56101,
+  "type": "manga",
+  "title": "Otokonoko ni Toriko",
+  "url": "https://anilist.co/manga/85628",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55628-cxNV2tdBfnr0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:27.000Z",
+  "updatedAt": "2021-06-03T21:21:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b2ffd6ff-3598-45b8-8330-6790f0a23748": {
+        "authors": [
+          "Akegami Takara"
+        ],
+        "identifier": "b2ffd6ff-3598-45b8-8330-6790f0a23748",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otoko no Ko ni Toriko",
+        "url": "https://mangadex.org/title/b2ffd6ff-3598-45b8-8330-6790f0a23748",
+        "image": "https://uploads.mangadex.org/covers/b2ffd6ff-3598-45b8-8330-6790f0a23748/2c186fb7-f1d2-4085-abd2-ca847b53199d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56101,
+        "aniId": 85628,
+        "createdAt": "2020-10-12T16:06:37.000Z",
+        "updatedAt": "2021-06-03T21:41:25.000Z",
+        "deletedAt": null
+      },
+      "c2f9c9d5-37a8-4840-bcc0-3f10cf95fc47": {
+        "authors": [
+          "Shoshi Magazine Hitori (Circle)",
+          "Ponsuke"
+        ],
+        "identifier": "c2f9c9d5-37a8-4840-bcc0-3f10cf95fc47",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kinjo no Shounen o Otokonoko Keikaku",
+        "url": "https://mangadex.org/title/c2f9c9d5-37a8-4840-bcc0-3f10cf95fc47",
+        "image": "https://uploads.mangadex.org/covers/c2f9c9d5-37a8-4840-bcc0-3f10cf95fc47/48716812-e3e4-465a-b93f-a3426e8ef716.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56101,
+        "aniId": 85628,
+        "createdAt": "2020-10-12T16:20:04.000Z",
+        "updatedAt": "2021-06-07T23:24:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_otokonoko_ni_toriko": {
+        "authors": [],
+        "identifier": "read_otokonoko_ni_toriko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Otokonoko Ni Toriko",
+        "url": "https://manganelo.com/manga/read_otokonoko_ni_toriko",
+        "image": "https://avt.mkklcdnv6.com/27/d/9-1583481163.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56101,
+        "aniId": 85628,
+        "createdAt": "2020-10-12T16:25:06.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

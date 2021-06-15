@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "バベルの手紙",
+    "Babel's Letter",
+    "Letter of Babel"
+  ],
+  "authors": [
+    "Shouko Asahina"
+  ],
+  "id": 56287,
+  "malId": 26287,
+  "type": "manga",
+  "title": "Babel no Tegami",
+  "url": "https://anilist.co/manga/56287",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26287.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:02.000Z",
+  "updatedAt": "2021-05-20T14:47:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9bfe27f5-b7dd-4caf-8368-d640e14e65a3": {
+        "authors": [
+          "Asahina Shouko"
+        ],
+        "identifier": "9bfe27f5-b7dd-4caf-8368-d640e14e65a3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Babel no Tegami",
+        "url": "https://mangadex.org/title/9bfe27f5-b7dd-4caf-8368-d640e14e65a3",
+        "image": "https://uploads.mangadex.org/covers/9bfe27f5-b7dd-4caf-8368-d640e14e65a3/3368fd0c-a2be-4ed3-918f-f08ade0ad0bc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26287,
+        "aniId": 56287,
+        "createdAt": "2020-10-12T16:03:47.000Z",
+        "updatedAt": "2021-06-02T16:24:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

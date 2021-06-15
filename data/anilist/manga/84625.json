@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "或る夜",
+    "Aru Yoru",
+    "NightS dj - Another Story"
+  ],
+  "authors": [
+    "Kou Yoneda"
+  ],
+  "id": 84625,
+  "malId": 54625,
+  "type": "manga",
+  "title": "Aru Yoru.",
+  "url": "https://anilist.co/manga/84625",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/54625.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T18:20:45.000Z",
+  "updatedAt": "2021-06-03T18:20:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e3937efb-92a0-4a20-9e3d-50219a810fbf": {
+        "authors": [
+          "Raw (Circle)",
+          "Yoneda Kou"
+        ],
+        "identifier": "e3937efb-92a0-4a20-9e3d-50219a810fbf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "NightS - Another Story (Doujinshi)",
+        "url": "https://mangadex.org/title/e3937efb-92a0-4a20-9e3d-50219a810fbf",
+        "image": "https://uploads.mangadex.org/covers/e3937efb-92a0-4a20-9e3d-50219a810fbf/78bba6a9-09f9-44be-a40c-f9b4ef6fa616.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 54625,
+        "aniId": 84625,
+        "createdAt": "2020-10-12T16:06:11.000Z",
+        "updatedAt": "2021-06-03T18:24:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

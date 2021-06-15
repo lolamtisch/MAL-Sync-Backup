@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "MR.APPLICANT"
+  ],
+  "authors": [
+    "Takayama, Shinobu"
+  ],
+  "id": 33493,
+  "type": "manga",
+  "title": "Mr. Applicant",
+  "url": "https://myanimelist.net/manga/33493/Mr_Applicant",
+  "image": "https://cdn.myanimelist.net/images/manga/1/198462.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:47.000Z",
+  "updatedAt": "2021-05-23T07:42:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c9648b66-1aef-4831-9f57-f89c7843d1a7": {
+        "authors": [
+          "TAKAYAMA Shinobu"
+        ],
+        "identifier": "c9648b66-1aef-4831-9f57-f89c7843d1a7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mr. Applicant",
+        "url": "https://mangadex.org/title/c9648b66-1aef-4831-9f57-f89c7843d1a7",
+        "image": "https://uploads.mangadex.org/covers/c9648b66-1aef-4831-9f57-f89c7843d1a7/aee1e97d-2903-4115-8d2b-c4a34d0f743e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33493,
+        "aniId": 63493,
+        "createdAt": "2020-10-12T16:03:56.000Z",
+        "updatedAt": "2021-06-02T17:26:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mr_applicant": {
+        "authors": [
+          "Takayama",
+          "Shinobu"
+        ],
+        "identifier": "mr_applicant",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mr. Applicant",
+        "url": "https://manganelo.com/manga/mr_applicant",
+        "image": "https://avt.mkklcdnv6.com/43/w/9-1583481940.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33493,
+        "aniId": 63493,
+        "createdAt": "2020-11-17T18:21:03.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "The Royal Marriage",
+    "無垢なプリンセス"
+  ],
+  "authors": [
+    "Natsuko Hamaguchi",
+    "Fiona Hood-Stewart"
+  ],
+  "id": 71465,
+  "malId": 41465,
+  "type": "manga",
+  "title": "Muku na Princess",
+  "url": "https://anilist.co/manga/71465",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41465.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:48.000Z",
+  "updatedAt": "2021-06-04T17:23:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "152cfd18-e543-4386-9357-2e3773d66044": {
+        "authors": [
+          "Fiona Hood-Stewart",
+          "HAMAGUCHI Natsuko"
+        ],
+        "identifier": "152cfd18-e543-4386-9357-2e3773d66044",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Muku Na Princess",
+        "url": "https://mangadex.org/title/152cfd18-e543-4386-9357-2e3773d66044",
+        "image": "https://uploads.mangadex.org/covers/152cfd18-e543-4386-9357-2e3773d66044/047411bb-203b-44d7-b7de-e28e8136587c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41465,
+        "aniId": 71465,
+        "createdAt": "2020-10-12T16:09:22.000Z",
+        "updatedAt": "2021-06-04T22:08:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "muku_na_princess": {
+        "authors": [
+          "Fiona Hood-Stewart"
+        ],
+        "identifier": "muku_na_princess",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Muku na Princess",
+        "url": "https://fanfox.net/manga/muku_na_princess/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12327/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41465,
+        "aniId": 71465,
+        "createdAt": "2020-12-16T23:23:31.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

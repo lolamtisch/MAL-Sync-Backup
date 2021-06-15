@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Momo and Manji",
+    "百と卍",
+    "Momo & Manji"
+  ],
+  "authors": [
+    "Sawa Sakura"
+  ],
+  "id": 106860,
+  "malId": 109128,
+  "type": "manga",
+  "title": "Momo to Manji",
+  "url": "https://anilist.co/manga/106860",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106860-H8raUDLMmpHl.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:56:04.000Z",
+  "updatedAt": "2021-06-05T16:19:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cba32ade-d83f-4513-881d-8c2f1e1e6b86": {
+        "authors": [
+          "Sakura Sawa"
+        ],
+        "identifier": "cba32ade-d83f-4513-881d-8c2f1e1e6b86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Momo to Manji",
+        "url": "https://mangadex.org/title/cba32ade-d83f-4513-881d-8c2f1e1e6b86",
+        "image": "https://uploads.mangadex.org/covers/cba32ade-d83f-4513-881d-8c2f1e1e6b86/920185ea-dde6-4404-ac34-e0023d454049.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109128,
+        "aniId": 106860,
+        "createdAt": "2020-10-12T16:12:41.000Z",
+        "updatedAt": "2021-06-05T17:05:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "momo_to_manji": {
+        "authors": [],
+        "identifier": "momo_to_manji",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Momo To Manji",
+        "url": "https://manganelo.com/manga/momo_to_manji",
+        "image": "https://avt.mkklcdnv6.com/42/k/15-1583493186.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109128,
+        "aniId": 106860,
+        "createdAt": "2020-10-12T16:24:21.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

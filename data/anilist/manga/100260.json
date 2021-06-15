@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "コハエース"
+  ],
+  "authors": [
+    "Keikenchi"
+  ],
+  "id": 100260,
+  "malId": 99724,
+  "type": "manga",
+  "title": "Koha-Ace",
+  "url": "https://anilist.co/manga/100260",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100260-pbRpGjoXVi16.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:44.000Z",
+  "updatedAt": "2021-05-20T14:54:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "223f03db-b8fa-4087-8dfe-9bb04efecd3b": {
+        "authors": [
+          "Keikenchi"
+        ],
+        "identifier": "223f03db-b8fa-4087-8dfe-9bb04efecd3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koha-Ace",
+        "url": "https://mangadex.org/title/223f03db-b8fa-4087-8dfe-9bb04efecd3b",
+        "image": "https://uploads.mangadex.org/covers/223f03db-b8fa-4087-8dfe-9bb04efecd3b/0cba7cbd-c4ac-4f8a-a8b4-e1b63d829869.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99724,
+        "aniId": 100260,
+        "createdAt": "2020-10-12T16:15:49.000Z",
+        "updatedAt": "2021-06-06T17:06:53.000Z",
+        "deletedAt": null
+      },
+      "cc8986fd-47ba-41cb-bb1e-296d1fd3d525": {
+        "authors": [
+          "Keikenchi",
+          "Type-Moon"
+        ],
+        "identifier": "cc8986fd-47ba-41cb-bb1e-296d1fd3d525",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fate/Koha-Ace",
+        "url": "https://mangadex.org/title/cc8986fd-47ba-41cb-bb1e-296d1fd3d525",
+        "image": "https://uploads.mangadex.org/covers/cc8986fd-47ba-41cb-bb1e-296d1fd3d525/612222b4-a23c-403e-8ad2-6e8f91a0443e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99724,
+        "aniId": 100260,
+        "createdAt": "2020-10-25T10:48:03.000Z",
+        "updatedAt": "2021-06-08T05:53:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "px919224": {
+        "authors": [],
+        "identifier": "px919224",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koha-Ace",
+        "url": "https://manganelo.com/manga/px919224",
+        "image": "https://avt.mkklcdnv6.com/24/j/18-1583498041.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99724,
+        "aniId": 100260,
+        "createdAt": "2020-10-12T16:24:56.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

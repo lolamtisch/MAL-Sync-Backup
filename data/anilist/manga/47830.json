@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "レディーミツコ"
+  ],
+  "authors": [
+    "Waki Yamato"
+  ],
+  "id": 47830,
+  "malId": 17830,
+  "type": "manga",
+  "title": "Lady Mitsuko",
+  "url": "https://anilist.co/manga/47830",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17830.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:12.000Z",
+  "updatedAt": "2021-05-20T14:44:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "280f8165-7573-486b-9be4-21c81478e82d": {
+        "authors": [
+          "Yamato Waki"
+        ],
+        "identifier": "280f8165-7573-486b-9be4-21c81478e82d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lady Mitsuko",
+        "url": "https://mangadex.org/title/280f8165-7573-486b-9be4-21c81478e82d",
+        "image": "https://uploads.mangadex.org/covers/280f8165-7573-486b-9be4-21c81478e82d/c85f0335-8b18-445f-acbb-23451fa18094.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17830,
+        "aniId": 47830,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:36:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

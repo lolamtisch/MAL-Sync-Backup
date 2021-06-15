@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Mr. Snail",
+    "田螺先生",
+    "Mr. Snail"
+  ],
+  "authors": [
+    "Ye You",
+    "Yi Gen Tui Mao"
+  ],
+  "id": 122404,
+  "malId": null,
+  "type": "manga",
+  "title": "Tianluo Xiansheng",
+  "url": "https://anilist.co/manga/122404",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b122404-ELxYD9XFmsfp.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:54:04.000Z",
+  "updatedAt": "2021-06-07T23:54:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80e23a56-9845-4507-8d11-5831e9d20093": {
+        "authors": [
+          "Ye You",
+          "Yi Gen Tui Mao"
+        ],
+        "identifier": "80e23a56-9845-4507-8d11-5831e9d20093",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mr. Snail",
+        "url": "https://mangadex.org/title/80e23a56-9845-4507-8d11-5831e9d20093",
+        "image": "https://uploads.mangadex.org/covers/80e23a56-9845-4507-8d11-5831e9d20093/5ee66d61-1bf3-4461-aadd-f2d2a955988f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122404,
+        "createdAt": "2020-10-12T16:20:12.000Z",
+        "updatedAt": "2021-06-08T00:41:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

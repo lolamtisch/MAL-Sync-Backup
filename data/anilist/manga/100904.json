@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "恋人課金"
+  ],
+  "authors": [
+    "Tokishiba"
+  ],
+  "id": 100904,
+  "malId": 110956,
+  "type": "manga",
+  "title": "Koibito Kakin",
+  "url": "https://anilist.co/manga/100904",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100904-RrfOv156QGDo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:17.000Z",
+  "updatedAt": "2021-06-04T23:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "236e8cda-2823-4618-9c24-51e657a1f014": {
+        "authors": [
+          "Tokishiba"
+        ],
+        "identifier": "236e8cda-2823-4618-9c24-51e657a1f014",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koibito Kakin",
+        "url": "https://mangadex.org/title/236e8cda-2823-4618-9c24-51e657a1f014",
+        "image": "https://uploads.mangadex.org/covers/236e8cda-2823-4618-9c24-51e657a1f014/fb127f4e-348f-4734-bce0-0e1bc215da24.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110956,
+        "aniId": 100904,
+        "createdAt": "2020-10-12T16:10:17.000Z",
+        "updatedAt": "2021-06-04T23:50:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koibito_kakin": {
+        "authors": [],
+        "identifier": "koibito_kakin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koibito Kakin",
+        "url": "https://manganelo.com/manga/koibito_kakin",
+        "image": "https://avt.mkklcdnv6.com/3/w/16-1583493602.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110956,
+        "aniId": 100904,
+        "createdAt": "2020-10-12T16:23:58.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "GLOW!"
+  ],
+  "authors": [
+    "Yamada, Papiko"
+  ],
+  "id": 89354,
+  "type": "manga",
+  "title": "Glow!",
+  "url": "https://myanimelist.net/manga/89354/Glow",
+  "image": "https://cdn.myanimelist.net/images/manga/2/156499.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-12-08T21:39:50.000Z",
+  "updatedAt": "2021-06-04T11:21:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ef3fb380-a059-47a8-a852-98c3c35368ab": {
+        "authors": [
+          "Yamada Papiko"
+        ],
+        "identifier": "ef3fb380-a059-47a8-a852-98c3c35368ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Glow!",
+        "url": "https://mangadex.org/title/ef3fb380-a059-47a8-a852-98c3c35368ab",
+        "image": "https://uploads.mangadex.org/covers/ef3fb380-a059-47a8-a852-98c3c35368ab/fa90e176-5214-4b07-a4e5-c252b4530543.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89354,
+        "aniId": 94968,
+        "createdAt": "2020-10-12T16:08:33.000Z",
+        "updatedAt": "2021-06-04T12:55:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "glow": {
+        "authors": [
+          "Yamada",
+          "Papiko"
+        ],
+        "identifier": "glow",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Glow!",
+        "url": "https://manganelo.com/manga/glow",
+        "image": "https://avt.mkklcdnv6.com/12/n/2-1583466187.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89354,
+        "aniId": 94968,
+        "createdAt": "2020-12-08T21:39:51.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Taiyou Matsumoto"
+  ],
+  "id": 54238,
+  "malId": 24238,
+  "type": "manga",
+  "title": "Doraemon",
+  "url": "https://anilist.co/manga/54238",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24238.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:43.000Z",
+  "updatedAt": "2021-05-20T14:46:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c9f61c57-44e9-4f0d-a738-bfab26c1b43a": {
+        "authors": [
+          "Matsumoto Taiyou"
+        ],
+        "identifier": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doraemon (Matsumoto Taiyou)",
+        "url": "https://mangadex.org/title/c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
+        "image": "https://uploads.mangadex.org/covers/c9f61c57-44e9-4f0d-a738-bfab26c1b43a/866d7753-2e76-415e-a1f6-032887f2f9f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24238,
+        "aniId": 54238,
+        "createdAt": "2020-10-12T16:03:37.000Z",
+        "updatedAt": "2021-06-02T15:19:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Deus Vitae",
+    "D'V",
+    "ディーヴァ"
+  ],
+  "authors": [
+    "Takuya Fujima"
+  ],
+  "id": 30272,
+  "malId": 272,
+  "type": "manga",
+  "title": "D'V",
+  "url": "https://anilist.co/manga/30272",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/272.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-06-04T03:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f6ce7bbd-ffd5-423a-879b-1833b7842c11": {
+        "authors": [
+          "Fujima Takuya"
+        ],
+        "identifier": "f6ce7bbd-ffd5-423a-879b-1833b7842c11",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Deus Vitae",
+        "url": "https://mangadex.org/title/f6ce7bbd-ffd5-423a-879b-1833b7842c11",
+        "image": "https://uploads.mangadex.org/covers/f6ce7bbd-ffd5-423a-879b-1833b7842c11/179d4f82-2c49-4320-867e-9cd92ec72e2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 272,
+        "aniId": 30272,
+        "createdAt": "2020-10-12T16:13:14.000Z",
+        "updatedAt": "2021-06-05T19:53:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

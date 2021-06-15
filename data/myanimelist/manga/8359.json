@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "The Yellow Hearts",
+    "イエローハーツ"
+  ],
+  "authors": [
+    "Yonekura, Kengo"
+  ],
+  "id": 8359,
+  "type": "manga",
+  "title": "Yellow Heart",
+  "url": "https://myanimelist.net/manga/8359/Yellow_Heart",
+  "image": "https://cdn.myanimelist.net/images/manga/5/19676.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:18.000Z",
+  "updatedAt": "2021-04-30T06:19:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b21c3d58-a8cd-46dc-82a7-312acc2cf5b3": {
+        "authors": [
+          "Yonekura Kengo"
+        ],
+        "identifier": "b21c3d58-a8cd-46dc-82a7-312acc2cf5b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yellow Heart",
+        "url": "https://mangadex.org/title/b21c3d58-a8cd-46dc-82a7-312acc2cf5b3",
+        "image": "https://uploads.mangadex.org/covers/b21c3d58-a8cd-46dc-82a7-312acc2cf5b3/b1bfbdcd-8583-4aaa-9e3c-7945c1ec352d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8359,
+        "aniId": 38359,
+        "createdAt": "2020-10-12T16:11:30.000Z",
+        "updatedAt": "2021-06-05T08:52:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yellow_heart": {
+        "authors": [],
+        "identifier": "yellow_heart",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yellow Heart",
+        "url": "https://manganelo.com/manga/yellow_heart",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/13464-yellow_heart.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8359,
+        "aniId": 38359,
+        "createdAt": "2020-10-12T16:26:21.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

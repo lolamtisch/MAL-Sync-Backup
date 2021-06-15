@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Lost Plus Brain",
+    "LOST+BRAIN"
+  ],
+  "authors": [
+    "Ootani, Akira",
+    "Yabuno, Tsuzuku"
+  ],
+  "id": 5802,
+  "type": "manga",
+  "title": "Lost+Brain",
+  "url": "https://myanimelist.net/manga/5802/Lost_Brain",
+  "image": "https://cdn.myanimelist.net/images/manga/3/11468.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:07.000Z",
+  "updatedAt": "2021-04-29T11:50:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d965b757-0205-45c2-a80c-1398e6572bf2": {
+        "authors": [
+          "OOTANI Akira",
+          "YABUNO Tsuduku"
+        ],
+        "identifier": "d965b757-0205-45c2-a80c-1398e6572bf2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lost + Brain",
+        "url": "https://mangadex.org/title/d965b757-0205-45c2-a80c-1398e6572bf2",
+        "image": "https://uploads.mangadex.org/covers/d965b757-0205-45c2-a80c-1398e6572bf2/0cd408ff-d7da-4b3d-8eaa-b7f368bcb265.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5802,
+        "aniId": 35802,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:36:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lostbrain": {
+        "authors": [],
+        "identifier": "lostbrain",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Lost+Brain",
+        "url": "https://manganelo.com/manga/lostbrain",
+        "image": "https://avt.mkklcdnv6.com/35/z/7-1583477628.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5802,
+        "aniId": 35802,
+        "createdAt": "2020-10-12T16:24:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

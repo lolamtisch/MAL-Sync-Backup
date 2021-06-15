@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "미운 노새 이야기",
+    "Miun Nosae Iyagi",
+    "The Story of the Hated Mule"
+  ],
+  "authors": [
+    "Daedingui Sam",
+    "Cacti"
+  ],
+  "id": 122105,
+  "malId": null,
+  "type": "manga",
+  "title": "Miwoon Nosae Iyagi",
+  "url": "https://anilist.co/manga/122105",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122105-zVqsVcs2uVJO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-06-08T01:21:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0a27e8b6-f353-4b3e-afb1-6787560d0b96": {
+        "authors": [
+          "Cacti",
+          "대딩의 삶"
+        ],
+        "identifier": "0a27e8b6-f353-4b3e-afb1-6787560d0b96",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Story of the Hated Mule",
+        "url": "https://mangadex.org/title/0a27e8b6-f353-4b3e-afb1-6787560d0b96",
+        "image": "https://uploads.mangadex.org/covers/0a27e8b6-f353-4b3e-afb1-6787560d0b96/000bbdb6-6ee6-491c-819e-3dd0a59f2c65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122105,
+        "createdAt": "2020-10-12T16:20:48.000Z",
+        "updatedAt": "2021-06-08T01:38:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

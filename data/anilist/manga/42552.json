@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Astro Fighter Sunred",
+    "天体戦士サンレッド",
+    "Tentai Senshi Sanreddo"
+  ],
+  "authors": [
+    "Makoto Kubota"
+  ],
+  "id": 42552,
+  "malId": 12552,
+  "type": "manga",
+  "title": "Tentai Senshi Sunred",
+  "url": "https://anilist.co/manga/42552",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12552.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:23.000Z",
+  "updatedAt": "2021-05-20T14:42:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c19b5ea9-78dc-4103-a3f3-8ae10f383471": {
+        "authors": [
+          "KUBOTA Makoto"
+        ],
+        "identifier": "c19b5ea9-78dc-4103-a3f3-8ae10f383471",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tentai Senshi Sanred",
+        "url": "https://mangadex.org/title/c19b5ea9-78dc-4103-a3f3-8ae10f383471",
+        "image": "https://uploads.mangadex.org/covers/c19b5ea9-78dc-4103-a3f3-8ae10f383471/030cc8a1-8943-4157-8c68-39cf09442b29.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12552,
+        "aniId": 42552,
+        "createdAt": "2020-10-12T16:04:24.000Z",
+        "updatedAt": "2021-06-02T20:47:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

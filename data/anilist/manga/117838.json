@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "The Impermanence",
+    "无常鬼"
+  ],
+  "authors": [
+    "Nofi"
+  ],
+  "id": 117838,
+  "malId": null,
+  "type": "manga",
+  "title": "Wuchang Gui",
+  "url": "https://anilist.co/manga/117838",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117838-B1MxnZCokbii.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T21:50:00.000Z",
+  "updatedAt": "2021-06-06T21:50:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "25d6f2b5-bc22-47ae-9c37-2e4bba9edd6c": {
+        "authors": [
+          "Nofi"
+        ],
+        "identifier": "25d6f2b5-bc22-47ae-9c37-2e4bba9edd6c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wuchang Gui",
+        "url": "https://mangadex.org/title/25d6f2b5-bc22-47ae-9c37-2e4bba9edd6c",
+        "image": "https://uploads.mangadex.org/covers/25d6f2b5-bc22-47ae-9c37-2e4bba9edd6c/8848988f-64e0-4e42-8a81-3c725b86c62c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117838,
+        "createdAt": "2020-10-12T16:16:19.000Z",
+        "updatedAt": "2021-06-07T07:38:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

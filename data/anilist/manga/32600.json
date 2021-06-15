@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Instinctively Male",
+    "本能的に、男",
+    "Instinctively a Man",
+    "Instinctively",
+    "he is a Man"
+  ],
+  "authors": [
+    "Takashi Kanzaki"
+  ],
+  "id": 32600,
+  "malId": 2600,
+  "type": "manga",
+  "title": "Honnouteki ni Otoko",
+  "url": "https://anilist.co/manga/32600",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2600.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a45a1835-f554-4abe-b2ef-e32171042d41": {
+        "authors": [
+          "Kanzaki Takashi"
+        ],
+        "identifier": "a45a1835-f554-4abe-b2ef-e32171042d41",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honnouteki ni Otoko",
+        "url": "https://mangadex.org/title/a45a1835-f554-4abe-b2ef-e32171042d41",
+        "image": "https://uploads.mangadex.org/covers/a45a1835-f554-4abe-b2ef-e32171042d41/58ff632e-0573-4c46-958c-7df97df1272b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2600,
+        "aniId": 32600,
+        "createdAt": "2020-10-12T16:21:18.000Z",
+        "updatedAt": "2021-06-08T02:01:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

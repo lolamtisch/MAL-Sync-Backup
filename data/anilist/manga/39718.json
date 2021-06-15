@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "PERFECT TWIN",
+    "パーフェクトツイン"
+  ],
+  "authors": [
+    "Shou Kitagawa"
+  ],
+  "id": 39718,
+  "malId": 9718,
+  "type": "manga",
+  "title": "PERFECT TWIN",
+  "url": "https://anilist.co/manga/39718",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b39718-J3WQvNhtvNOz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:58.000Z",
+  "updatedAt": "2021-05-20T14:40:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c201b3c2-967f-4d5d-8f19-9844beab2f7a": {
+        "authors": [
+          "Kitagawa Shou"
+        ],
+        "identifier": "c201b3c2-967f-4d5d-8f19-9844beab2f7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Perfect Twin",
+        "url": "https://mangadex.org/title/c201b3c2-967f-4d5d-8f19-9844beab2f7a",
+        "image": "https://uploads.mangadex.org/covers/c201b3c2-967f-4d5d-8f19-9844beab2f7a/c86c891e-85de-4f4b-8f1f-51907707bc84.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9718,
+        "aniId": 39718,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:43:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "perfect_twin": {
+        "authors": [
+          "KITAGAWA Shou"
+        ],
+        "identifier": "perfect_twin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Perfect Twin",
+        "url": "https://fanfox.net/manga/perfect_twin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3877/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9718,
+        "aniId": 39718,
+        "createdAt": "2021-01-27T09:41:49.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "perfect_twin": {
+        "authors": [
+          "Kitagawa",
+          "Shou"
+        ],
+        "identifier": "perfect_twin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Perfect Twin",
+        "url": "https://manganelo.com/manga/perfect_twin",
+        "image": "https://avt.mkklcdnv6.com/28/w/10-1583483211.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9718,
+        "aniId": 39718,
+        "createdAt": "2021-01-27T09:41:50.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

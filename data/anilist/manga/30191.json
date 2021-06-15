@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ジパング"
+  ],
+  "authors": [
+    "Kaiji Kawaguchi"
+  ],
+  "id": 30191,
+  "malId": 191,
+  "type": "manga",
+  "title": "Zipang",
+  "url": "https://anilist.co/manga/30191",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30191-q5RdeIA88D9r.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9fd6f194-bf0b-4e8f-baa4-932b50ddff37": {
+        "authors": [
+          "Kawaguchi Kaiji"
+        ],
+        "identifier": "9fd6f194-bf0b-4e8f-baa4-932b50ddff37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zipang",
+        "url": "https://mangadex.org/title/9fd6f194-bf0b-4e8f-baa4-932b50ddff37",
+        "image": "https://uploads.mangadex.org/covers/9fd6f194-bf0b-4e8f-baa4-932b50ddff37/bc6f05b0-d61e-45fc-9187-38c0851c3b69.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 191,
+        "aniId": 30191,
+        "createdAt": "2020-10-12T16:02:40.000Z",
+        "updatedAt": "2021-06-02T08:41:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zipang": {
+        "authors": [],
+        "identifier": "zipang",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Zipang",
+        "url": "https://manganelo.com/manga/zipang",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/10266-zipang.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 191,
+        "aniId": 30191,
+        "createdAt": "2020-10-12T16:26:31.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "zipang": {
+        "authors": [
+          "KAWAGUCHI Kaiji"
+        ],
+        "identifier": "zipang",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Zipang",
+        "url": "https://fanfox.net/manga/zipang/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3864/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 191,
+        "aniId": 30191,
+        "createdAt": "2021-03-12T23:09:08.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

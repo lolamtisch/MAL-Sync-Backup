@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Aisaretai no",
+    "愛されたいの"
+  ],
+  "authors": [
+    "Yamakami, Riyu"
+  ],
+  "id": 2005,
+  "type": "manga",
+  "title": "Aisaretaino",
+  "url": "https://myanimelist.net/manga/2005/Aisaretaino",
+  "image": "https://cdn.myanimelist.net/images/manga/2/40555.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:40.000Z",
+  "updatedAt": "2021-06-04T05:22:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e30c7c27-7131-4e3c-b766-548cef63ff42": {
+        "authors": [
+          "Yamakami Riyu"
+        ],
+        "identifier": "e30c7c27-7131-4e3c-b766-548cef63ff42",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aisaretaino",
+        "url": "https://mangadex.org/title/e30c7c27-7131-4e3c-b766-548cef63ff42",
+        "image": "https://uploads.mangadex.org/covers/e30c7c27-7131-4e3c-b766-548cef63ff42/7462d958-f78a-4e2b-a7c3-978612a5adf8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2005,
+        "aniId": 32005,
+        "createdAt": "2020-10-12T16:07:46.000Z",
+        "updatedAt": "2021-06-04T09:03:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aisaretaino": {
+        "authors": [
+          "YAMAKAMI Riyu"
+        ],
+        "identifier": "aisaretaino",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aisaretaino",
+        "url": "https://fanfox.net/manga/aisaretaino/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2513/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2005,
+        "aniId": 32005,
+        "createdAt": "2021-05-20T22:43:38.000Z",
+        "updatedAt": "2021-06-04T05:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

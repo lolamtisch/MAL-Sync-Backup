@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "γ-ガンマ-",
+    "Gamma"
+  ],
+  "authors": [
+    "Jun Ogino"
+  ],
+  "id": 86096,
+  "malId": 56057,
+  "type": "manga",
+  "title": "y: Ganma",
+  "url": "https://anilist.co/manga/86096",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86096-QnNbaAj40Atk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:27.000Z",
+  "updatedAt": "2021-05-20T14:50:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a316ebf5-6102-4e95-9ca6-1b244bc076b4": {
+        "authors": [
+          "Ogino Jun"
+        ],
+        "identifier": "a316ebf5-6102-4e95-9ca6-1b244bc076b4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gamma",
+        "url": "https://mangadex.org/title/a316ebf5-6102-4e95-9ca6-1b244bc076b4",
+        "image": "https://uploads.mangadex.org/covers/a316ebf5-6102-4e95-9ca6-1b244bc076b4/68d45a63-7758-44a8-9d3b-ef25365c3bc7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56057,
+        "aniId": 86096,
+        "createdAt": "2020-10-12T16:07:39.000Z",
+        "updatedAt": "2021-06-04T04:24:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gamma": {
+        "authors": [],
+        "identifier": "gamma",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gamma",
+        "url": "https://manganelo.com/manga/gamma",
+        "image": "https://avt.mkklcdnv6.com/2/d/2-1583465773.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56057,
+        "aniId": 86096,
+        "createdAt": "2020-10-12T16:23:03.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

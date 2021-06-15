@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "ハンドメイドマイ"
+  ],
+  "id": 1234,
+  "malId": 1234,
+  "type": "anime",
+  "title": "Hand Maid Mai",
+  "url": "https://anilist.co/anime/1234",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1234-FxtX1sh0KkLy.png",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:01.000Z",
+  "updatedAt": "2021-05-20T14:35:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "mw37": {
+        "identifier": "mw37",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hand Maid Mai",
+        "url": "https://9anime.ru/watch/hand-maid-mai.mw37",
+        "image": "https://static.akacdn.ru/static/images/2018/03/cdfb39262ab2f63797dce1cdc80f182c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1234,
+        "aniId": 1234,
+        "createdAt": "2020-10-12T15:53:37.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

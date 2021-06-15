@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "友人の妹",
+    "My Friend's Sister"
+  ],
+  "authors": [
+    "Tokio Shima"
+  ],
+  "id": 124247,
+  "malId": 132635,
+  "type": "manga",
+  "title": "Dachi no Imouto",
+  "url": "https://anilist.co/manga/124247",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124247-A7PWpYDenGSV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:10.000Z",
+  "updatedAt": "2021-05-20T15:00:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0295d266-4870-4ea3-814b-35f9afc7a9fd": {
+        "authors": [
+          "Shima Tokio"
+        ],
+        "identifier": "0295d266-4870-4ea3-814b-35f9afc7a9fd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dachi no Imouto",
+        "url": "https://mangadex.org/title/0295d266-4870-4ea3-814b-35f9afc7a9fd",
+        "image": "https://uploads.mangadex.org/covers/0295d266-4870-4ea3-814b-35f9afc7a9fd/6251f3e3-5d5b-4436-9db3-f3b9f6ba56c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132635,
+        "aniId": 124247,
+        "createdAt": "2020-10-12T16:21:08.000Z",
+        "updatedAt": "2021-06-08T01:34:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dachi_no_imouto": {
+        "authors": [
+          "SHIMA Tokio"
+        ],
+        "identifier": "dachi_no_imouto",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dachi no Imouto",
+        "url": "https://fanfox.net/manga/dachi_no_imouto/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36776/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132635,
+        "aniId": 124247,
+        "createdAt": "2021-05-13T02:55:21.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jj986744": {
+        "authors": [
+          "Shima Tokio"
+        ],
+        "identifier": "manga-jj986744",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dachi No Imouto",
+        "url": "https://manganato.com/manga-jj986744",
+        "image": "https://avt.mkklcdnv6temp.com/19/b/22-1600660573.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132635,
+        "aniId": 124247,
+        "createdAt": "2021-05-29T05:15:38.000Z",
+        "updatedAt": "2021-05-29T05:42:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

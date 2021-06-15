@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "レッドハウス",
+    "The Red House"
+  ],
+  "authors": [
+    "Sarueru Yamada"
+  ],
+  "id": 69057,
+  "malId": 39057,
+  "type": "manga",
+  "title": "Red House",
+  "url": "https://anilist.co/manga/69057",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx69057-BuiCIuPJNwy9.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:38.000Z",
+  "updatedAt": "2021-05-20T14:48:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba": {
+        "authors": [
+          "Yamada Sarueru"
+        ],
+        "identifier": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Red House",
+        "url": "https://mangadex.org/title/12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
+        "image": "https://uploads.mangadex.org/covers/12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba/6c2896bc-fc71-49fc-8f41-9393ee6afe4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39057,
+        "aniId": 69057,
+        "createdAt": "2020-10-12T16:04:38.000Z",
+        "updatedAt": "2021-06-02T22:21:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

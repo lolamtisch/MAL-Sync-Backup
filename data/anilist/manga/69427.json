@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "ダムド",
+    "Warrior of the Holy Flame",
+    "Abi"
+  ],
+  "authors": [
+    "Tetsuya Saruwatari",
+    "Masanori Kadowaki"
+  ],
+  "id": 69427,
+  "malId": 39427,
+  "type": "manga",
+  "title": "Damned",
+  "url": "https://anilist.co/manga/69427",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39427.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "523fea18-3aa7-43a1-97f2-63a24c5c2710": {
+        "authors": [
+          "Saruwatari Tetsuya",
+          "Kadowaki Masanori"
+        ],
+        "identifier": "523fea18-3aa7-43a1-97f2-63a24c5c2710",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Damned",
+        "url": "https://mangadex.org/title/523fea18-3aa7-43a1-97f2-63a24c5c2710",
+        "image": "https://uploads.mangadex.org/covers/523fea18-3aa7-43a1-97f2-63a24c5c2710/97ce8bb5-f26a-4fdd-ad1f-3bdfc9874eb5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39427,
+        "aniId": 69427,
+        "createdAt": "2020-10-12T16:04:42.000Z",
+        "updatedAt": "2021-06-02T22:50:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "damned": {
+        "authors": [
+          "KADOWAKI Masanori",
+          "SARUWATARI Tetsuya"
+        ],
+        "identifier": "damned",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Damned",
+        "url": "https://mangasee123.com/manga/Damned",
+        "image": "https://cover.nep.li/cover/Damned.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39427,
+        "aniId": 69427,
+        "createdAt": "2021-05-28T03:29:29.000Z",
+        "updatedAt": "2021-05-28T03:58:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

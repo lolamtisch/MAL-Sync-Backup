@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "だいすき",
+    "I Love You"
+  ],
+  "authors": [
+    "Yaya Hanatsu"
+  ],
+  "id": 50054,
+  "malId": 20054,
+  "type": "manga",
+  "title": "Daisuki",
+  "url": "https://anilist.co/manga/50054",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20054.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ec3166f-02f2-4125-9b04-c3890b005cae": {
+        "authors": [
+          "Hanatsu Yaya"
+        ],
+        "identifier": "3ec3166f-02f2-4125-9b04-c3890b005cae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Love You",
+        "url": "https://mangadex.org/title/3ec3166f-02f2-4125-9b04-c3890b005cae",
+        "image": "https://uploads.mangadex.org/covers/3ec3166f-02f2-4125-9b04-c3890b005cae/fae7c482-be56-49a7-9335-cb6510141658.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20054,
+        "aniId": 50054,
+        "createdAt": "2020-10-12T16:07:13.000Z",
+        "updatedAt": "2021-06-04T01:10:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

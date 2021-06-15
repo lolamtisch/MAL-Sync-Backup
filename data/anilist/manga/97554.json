@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "King of the Ants",
+    "蟻の王",
+    "King of Ants"
+  ],
+  "authors": [
+    "Nagahisa Tsukawaki",
+    "Ryu Itou"
+  ],
+  "id": 97554,
+  "malId": 100472,
+  "type": "manga",
+  "title": "Ari no Ou",
+  "url": "https://anilist.co/manga/97554",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97554-QhNQGv7Svb6Q.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:49.000Z",
+  "updatedAt": "2021-05-20T14:54:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "306466c7-bd1a-411d-a1c0-f58db01f23a9": {
+        "authors": [
+          "Itou Ryuu",
+          "Tsukawaki Nagahisa"
+        ],
+        "identifier": "306466c7-bd1a-411d-a1c0-f58db01f23a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "King of the Ants",
+        "url": "https://mangadex.org/title/306466c7-bd1a-411d-a1c0-f58db01f23a9",
+        "image": "https://uploads.mangadex.org/covers/306466c7-bd1a-411d-a1c0-f58db01f23a9/a366ccaf-3919-4b88-b8df-284c62227a2f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100472,
+        "aniId": 97554,
+        "createdAt": "2020-10-12T16:10:03.000Z",
+        "updatedAt": "2021-06-04T21:57:09.000Z",
+        "deletedAt": null
+      },
+      "fe2e9af6-8ab3-4c9c-9698-b7b3873ec829": {
+        "authors": [
+          "鸠城",
+          "银时"
+        ],
+        "identifier": "fe2e9af6-8ab3-4c9c-9698-b7b3873ec829",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The King Wants Me Dead",
+        "url": "https://mangadex.org/title/fe2e9af6-8ab3-4c9c-9698-b7b3873ec829",
+        "image": "https://uploads.mangadex.org/covers/fe2e9af6-8ab3-4c9c-9698-b7b3873ec829/da171cd7-8d0d-43bc-931e-06ee45000c6b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100472,
+        "aniId": 97554,
+        "createdAt": "2020-10-12T16:19:10.000Z",
+        "updatedAt": "2021-06-07T21:27:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

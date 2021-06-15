@@ -1,0 +1,40 @@
+{
+  "altTitle": [
+    "ハッピーバースデイ"
+  ],
+  "authors": [
+    "Random"
+  ],
+  "id": 45541,
+  "type": "manga",
+  "title": "Happy Birthday",
+  "url": "https://myanimelist.net/manga/45541/Happy_Birthday",
+  "image": "https://cdn.myanimelist.net/images/manga/2/80429.jpg",
+  "category": "One-shot",
+  "hentai": true,
+  "createdAt": "2020-10-12T15:44:21.000Z",
+  "updatedAt": "2021-05-07T02:48:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "happy_birthday_ymz": {
+        "authors": [],
+        "identifier": "happy_birthday_ymz",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Happy Birthday (ymz)",
+        "url": "https://manganelo.com/manga/happy_birthday_ymz",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19556-happy_birthday_ymz.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45541,
+        "aniId": 75541,
+        "createdAt": "2020-10-12T16:23:15.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

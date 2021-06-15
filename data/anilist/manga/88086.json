@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "ギブ・アンド・テイク"
+  ],
+  "authors": [],
+  "id": 88086,
+  "malId": 55947,
+  "type": "manga",
+  "title": "Give and Take",
+  "url": "https://anilist.co/manga/88086",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88086-DjeZZpO2AVFe.jpg",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:50:27.000Z",
+  "updatedAt": "2021-05-20T14:50:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7a6b54d1-2766-4a36-a2be-005c80f5494b": {
+        "authors": [
+          "Musashimaru"
+        ],
+        "identifier": "7a6b54d1-2766-4a36-a2be-005c80f5494b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nureiki",
+        "url": "https://mangadex.org/title/7a6b54d1-2766-4a36-a2be-005c80f5494b",
+        "image": "https://uploads.mangadex.org/covers/7a6b54d1-2766-4a36-a2be-005c80f5494b/c4a898cb-ddca-4302-a4e2-0848468dc8ed.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55947,
+        "aniId": 88086,
+        "createdAt": "2020-10-12T16:13:48.000Z",
+        "updatedAt": "2021-06-06T00:06:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

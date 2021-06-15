@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Metal Guardian Faust",
+    "電人ファウスト",
+    "Faust the Robot"
+  ],
+  "authors": [
+    "Tetsuro Ueyama"
+  ],
+  "id": 50812,
+  "malId": 20812,
+  "type": "manga",
+  "title": "Denjin Faust",
+  "url": "https://anilist.co/manga/50812",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50812-WfdL6x8Zmmdt.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T14:22:19.000Z",
+  "updatedAt": "2021-06-05T14:22:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7f389dc2-2be1-4231-93f6-eba281050fe3": {
+        "authors": [
+          "Ueyama Tetsuro"
+        ],
+        "identifier": "7f389dc2-2be1-4231-93f6-eba281050fe3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Denjin Faust",
+        "url": "https://mangadex.org/title/7f389dc2-2be1-4231-93f6-eba281050fe3",
+        "image": "https://uploads.mangadex.org/covers/7f389dc2-2be1-4231-93f6-eba281050fe3/cce7d2ff-5a05-47c0-96c3-0f07eec3aaff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20812,
+        "aniId": 50812,
+        "createdAt": "2020-10-12T16:12:18.000Z",
+        "updatedAt": "2021-06-05T15:31:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

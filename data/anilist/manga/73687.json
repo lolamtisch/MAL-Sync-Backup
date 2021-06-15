@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yu Akaboshi"
+  ],
+  "id": 73687,
+  "malId": 43687,
+  "type": "manga",
+  "title": "Strength",
+  "url": "https://anilist.co/manga/73687",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43687.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:22:08.000Z",
+  "updatedAt": "2021-06-04T16:22:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c39f9c99-23f0-49b8-966b-a4001e9a301d": {
+        "authors": [
+          "Akaboshi Yu"
+        ],
+        "identifier": "c39f9c99-23f0-49b8-966b-a4001e9a301d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Strength",
+        "url": "https://mangadex.org/title/c39f9c99-23f0-49b8-966b-a4001e9a301d",
+        "image": "https://uploads.mangadex.org/covers/c39f9c99-23f0-49b8-966b-a4001e9a301d/5f320a1a-4d8b-43bd-933d-f377f74698c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43687,
+        "aniId": 73687,
+        "createdAt": "2020-10-12T16:09:14.000Z",
+        "updatedAt": "2021-06-04T16:50:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

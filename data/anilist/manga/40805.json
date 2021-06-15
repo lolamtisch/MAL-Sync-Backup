@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Running on Empty",
+    "허공의 질주",
+    "Running Through the Sky"
+  ],
+  "authors": [
+    "Jea-Eun Kim"
+  ],
+  "id": 40805,
+  "malId": 10805,
+  "type": "manga",
+  "title": "Running on Empty",
+  "url": "https://anilist.co/manga/40805",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10805.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:12.000Z",
+  "updatedAt": "2021-05-20T14:41:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d40f0bd6-7f75-416b-91d2-0ab599e4b74b": {
+        "authors": [
+          "Kim Jea-Eun"
+        ],
+        "identifier": "d40f0bd6-7f75-416b-91d2-0ab599e4b74b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Running on Empty",
+        "url": "https://mangadex.org/title/d40f0bd6-7f75-416b-91d2-0ab599e4b74b",
+        "image": "https://uploads.mangadex.org/covers/d40f0bd6-7f75-416b-91d2-0ab599e4b74b/51c767ef-c146-4169-a1c5-900fb51b2a7a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10805,
+        "aniId": 40805,
+        "createdAt": "2020-10-12T16:05:56.000Z",
+        "updatedAt": "2021-06-03T15:58:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

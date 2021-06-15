@@ -1,0 +1,113 @@
+{
+  "altTitle": [
+    "X−エックス−",
+    "X/TV",
+    "X TV",
+    "X the Series",
+    "X/1999"
+  ],
+  "id": 156,
+  "malId": 156,
+  "type": "anime",
+  "title": "X",
+  "url": "https://anilist.co/anime/156",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b156-MSqEz70iYng4.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:27.000Z",
+  "updatedAt": "2021-05-20T14:33:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "nr6m": {
+        "identifier": "nr6m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "X",
+        "url": "https://9anime.ru/watch/x.nr6m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-tLMyFYkm7as/V6N0RtKJKLI/AAAAAAAA0Wc/_82DJWCUnMw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 156,
+        "aniId": 156,
+        "createdAt": "2020-10-12T15:54:00.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "ov34": {
+        "identifier": "ov34",
+        "type": "anime",
+        "page": "9anime",
+        "title": "X (Dub)",
+        "url": "https://9anime.ru/watch/x-dub.ov34",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ORj1gwdIN1k/V_KjWIA-XGI/AAAAAAABDuY/FIZhFvnbCt4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 156,
+        "aniId": 156,
+        "createdAt": "2020-10-12T15:54:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "3818": {
+        "identifier": "3818",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "X: TV-Serie (GerDub)",
+        "url": "https://www.anime4you.one/show/1/aid/3818",
+        "image": "https://cdn.anime4you.one/covers/161019121210101655.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 156,
+        "aniId": 156,
+        "createdAt": "2020-10-15T11:33:35.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "x": {
+        "identifier": "x",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "X",
+        "url": "https://gogoanime.so/category/x",
+        "image": "https://gogocdn.net/cover/x.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 156,
+        "aniId": 156,
+        "createdAt": "2020-11-04T07:54:44.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      },
+      "x-tv": {
+        "identifier": "x-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "X TV",
+        "url": "https://gogoanime.ai/category/x-tv",
+        "image": "https://gogocdn.net/images/anime/X/x-tv.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 156,
+        "aniId": 156,
+        "createdAt": "2021-06-06T17:49:00.000Z",
+        "updatedAt": "2021-06-06T18:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

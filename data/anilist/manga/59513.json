@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "レンアイマンガ",
+    "Love Manga",
+    "My Loved Cartoonist and Clumsy Me"
+  ],
+  "authors": [
+    "Naoko Kodama"
+  ],
+  "id": 59513,
+  "malId": 29513,
+  "type": "manga",
+  "title": "Renai Manga",
+  "url": "https://anilist.co/manga/59513",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59513-HrCpeDtWx0uK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:37.000Z",
+  "updatedAt": "2021-05-20T14:47:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acbe5771-e07a-4328-ba35-eb8cfae84e81": {
+        "authors": [
+          "Kodama Naoko"
+        ],
+        "identifier": "acbe5771-e07a-4328-ba35-eb8cfae84e81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renai Manga",
+        "url": "https://mangadex.org/title/acbe5771-e07a-4328-ba35-eb8cfae84e81",
+        "image": "https://uploads.mangadex.org/covers/acbe5771-e07a-4328-ba35-eb8cfae84e81/d7ad19c0-13cf-412c-88df-7d6a9ead104a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29513,
+        "aniId": 59513,
+        "createdAt": "2020-10-12T16:08:45.000Z",
+        "updatedAt": "2021-06-04T12:29:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zm918949": {
+        "authors": [],
+        "identifier": "zm918949",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Soojung's Comic Store",
+        "url": "https://manganelo.com/manga/zm918949",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/348-zm918949.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29513,
+        "aniId": 59513,
+        "createdAt": "2020-10-12T16:26:32.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "renai-manga": {
+        "authors": [
+          "KODAMA Naoko"
+        ],
+        "identifier": "renai-manga",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Renai Manga",
+        "url": "https://mangasee123.com/manga/Renai-Manga",
+        "image": "https://cover.nep.li/cover/Renai-Manga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29513,
+        "aniId": 59513,
+        "createdAt": "2021-05-07T16:47:25.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

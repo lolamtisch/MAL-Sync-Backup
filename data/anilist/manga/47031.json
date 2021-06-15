@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Yes It's Me"
+  ],
+  "authors": [
+    "Tomoko Yamashita"
+  ],
+  "id": 47031,
+  "malId": 17031,
+  "type": "manga",
+  "title": "Yes It's Me",
+  "url": "https://anilist.co/manga/47031",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17031.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:02.000Z",
+  "updatedAt": "2021-05-20T14:44:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6a57863d-14db-4753-a040-3411e816c764": {
+        "authors": [
+          "Yamashita Tomoko"
+        ],
+        "identifier": "6a57863d-14db-4753-a040-3411e816c764",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yes It's Me",
+        "url": "https://mangadex.org/title/6a57863d-14db-4753-a040-3411e816c764",
+        "image": "https://uploads.mangadex.org/covers/6a57863d-14db-4753-a040-3411e816c764/776d4438-3dd6-42ac-896c-63daba2c23b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17031,
+        "aniId": 47031,
+        "createdAt": "2020-10-12T16:13:06.000Z",
+        "updatedAt": "2021-06-05T18:42:40.000Z",
+        "deletedAt": null
+      },
+      "cbfa1ed3-a648-43e1-8e6d-1ebbb00b9212": {
+        "authors": [
+          "Beenary"
+        ],
+        "identifier": "cbfa1ed3-a648-43e1-8e6d-1ebbb00b9212",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yeohye",
+        "url": "https://mangadex.org/title/cbfa1ed3-a648-43e1-8e6d-1ebbb00b9212",
+        "image": "https://uploads.mangadex.org/covers/cbfa1ed3-a648-43e1-8e6d-1ebbb00b9212/5b300bc8-383f-4061-b586-fa2468f11ef2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17031,
+        "aniId": 47031,
+        "createdAt": "2020-10-12T16:15:06.000Z",
+        "updatedAt": "2021-06-06T10:39:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

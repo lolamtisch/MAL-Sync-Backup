@@ -1,0 +1,61 @@
+{
+  "altTitle": [
+    "めろねこ 猫まんがアンソロジー",
+    "Melo Cat: Kitty Manga Anthology",
+    "Mero Neko"
+  ],
+  "authors": [
+    "Hiroyuki Asada",
+    "Yokusaru Shibata",
+    "Minako Narita",
+    "Takayuki Mizushina",
+    "Keiko Nishi",
+    "Yowoko Nihonbashi",
+    "Hisaya Nakajo",
+    "Reiko Shimizu",
+    "Takako Shimura",
+    "Kazumi Yamashita",
+    "Yumiko Ooshima",
+    "Megumi Wakatsuki",
+    "Asumiko Nakamura",
+    "Shin Takahashi",
+    "TONO",
+    "mirura",
+    "mik"
+  ],
+  "id": 123359,
+  "malId": 67421,
+  "type": "manga",
+  "title": "Melo Neko: Neko Manga Anthology",
+  "url": "https://anilist.co/manga/123359",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123359-7tPnfadpIZQP.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T10:49:38.000Z",
+  "updatedAt": "2021-06-06T10:49:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d7e4bba6-ced7-4a2c-9fce-173d2cfe1632": {
+        "authors": [
+          "Shimura Takako"
+        ],
+        "identifier": "d7e4bba6-ced7-4a2c-9fce-173d2cfe1632",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cat Days",
+        "url": "https://mangadex.org/title/d7e4bba6-ced7-4a2c-9fce-173d2cfe1632",
+        "image": "",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 67421,
+        "aniId": 123359,
+        "createdAt": "2020-10-12T16:15:05.000Z",
+        "updatedAt": "2021-06-06T13:42:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

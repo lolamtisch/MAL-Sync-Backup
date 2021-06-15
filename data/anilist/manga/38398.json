@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Ride Back",
+    "ライドバック"
+  ],
+  "authors": [
+    "Tetsuroh Kasahara"
+  ],
+  "id": 38398,
+  "malId": 8398,
+  "type": "manga",
+  "title": "RideBack",
+  "url": "https://anilist.co/manga/38398",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/38398-MRxIZPZ3YTdn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c95aca66-f008-48a3-9915-2f38356856b9": {
+        "authors": [
+          "Kasahara Tetsuro"
+        ],
+        "identifier": "c95aca66-f008-48a3-9915-2f38356856b9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RideBack",
+        "url": "https://mangadex.org/title/c95aca66-f008-48a3-9915-2f38356856b9",
+        "image": "https://uploads.mangadex.org/covers/c95aca66-f008-48a3-9915-2f38356856b9/2fdf2a53-4818-4183-9a11-30aa3104a12a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8398,
+        "aniId": 38398,
+        "createdAt": "2020-10-12T16:04:07.000Z",
+        "updatedAt": "2021-06-02T18:52:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

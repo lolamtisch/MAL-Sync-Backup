@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Bloody Sweet",
+    "허니 블러드"
+  ],
+  "authors": [
+    "NaRae Lee"
+  ],
+  "id": 101644,
+  "malId": 111598,
+  "type": "manga",
+  "title": "Honey Blood",
+  "url": "https://anilist.co/manga/101644",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101644-K3H1K6ybc6Qk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:48.000Z",
+  "updatedAt": "2021-05-20T14:56:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "daa6f76d-b7b4-4328-8d31-65aedbf1e071": {
+        "authors": [
+          "Lee Narae"
+        ],
+        "identifier": "daa6f76d-b7b4-4328-8d31-65aedbf1e071",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honey Blood (Lee Narae)",
+        "url": "https://mangadex.org/title/daa6f76d-b7b4-4328-8d31-65aedbf1e071",
+        "image": "https://uploads.mangadex.org/covers/daa6f76d-b7b4-4328-8d31-65aedbf1e071/7c283462-62d2-4b35-a91f-2a831753fb7d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111598,
+        "aniId": 101644,
+        "createdAt": "2020-10-12T16:10:01.000Z",
+        "updatedAt": "2021-06-04T21:41:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cw923914": {
+        "authors": [
+          "Lee",
+          "Narae"
+        ],
+        "identifier": "cw923914",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bloody Sweet",
+        "url": "https://manganelo.com/manga/cw923914",
+        "image": "https://avt.mkklcdnv6.com/4/q/22-1598547768.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111598,
+        "aniId": 101644,
+        "createdAt": "2020-11-13T17:52:47.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

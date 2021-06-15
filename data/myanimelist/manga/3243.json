@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Hell Girl",
+    "Girl from Hell",
+    "地獄少女"
+  ],
+  "authors": [
+    "Kodaka, Nao",
+    "Etou, Miyuki",
+    "Hatano, Hiyoko"
+  ],
+  "id": 3243,
+  "type": "manga",
+  "title": "Jigoku Shoujo",
+  "url": "https://myanimelist.net/manga/3243/Jigoku_Shoujo",
+  "image": "https://cdn.myanimelist.net/images/manga/1/190949.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:49.000Z",
+  "updatedAt": "2021-04-28T01:20:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44bbe180-6b72-4a6b-910a-c7a978a236e3": {
+        "authors": [
+          "Etoo Miyuki"
+        ],
+        "identifier": "44bbe180-6b72-4a6b-910a-c7a978a236e3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jigoku Shoujo",
+        "url": "https://mangadex.org/title/44bbe180-6b72-4a6b-910a-c7a978a236e3",
+        "image": "https://uploads.mangadex.org/covers/44bbe180-6b72-4a6b-910a-c7a978a236e3/d3618e8a-dce6-4949-81c4-414ab4cffe02.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3243,
+        "aniId": 33243,
+        "createdAt": "2020-10-12T16:04:29.000Z",
+        "updatedAt": "2021-06-02T21:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jigoku_shoujo": {
+        "authors": [],
+        "identifier": "jigoku_shoujo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jigoku Shoujo",
+        "url": "https://manganelo.com/manga/jigoku_shoujo",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11619-jigoku_shoujo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3243,
+        "aniId": 33243,
+        "createdAt": "2020-10-12T16:23:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hell-girl": {
+        "authors": [
+          "ETOO Miyuki"
+        ],
+        "identifier": "hell-girl",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hell Girl",
+        "url": "https://mangasee123.com/manga/Hell-Girl",
+        "image": "https://cover.nep.li/cover/Hell-Girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3243,
+        "aniId": 33243,
+        "createdAt": "2021-05-08T22:48:14.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

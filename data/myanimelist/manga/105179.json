@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Favoritism of the Gods, Alice",
+    "神様のえこひいき"
+  ],
+  "authors": [
+    "Komura, Ayumi"
+  ],
+  "id": 105179,
+  "type": "manga",
+  "title": "Kamisama no Ekohiiki",
+  "url": "https://myanimelist.net/manga/105179/Kamisama_no_Ekohiiki",
+  "image": "https://cdn.myanimelist.net/images/manga/3/197607.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:59.000Z",
+  "updatedAt": "2021-03-26T15:49:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f1ac83a-b55c-415d-984c-a496f9f317d0": {
+        "authors": [
+          "Komura Ayumi"
+        ],
+        "identifier": "8f1ac83a-b55c-415d-984c-a496f9f317d0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kami-sama no Ekohiiki",
+        "url": "https://mangadex.org/title/8f1ac83a-b55c-415d-984c-a496f9f317d0",
+        "image": "https://uploads.mangadex.org/covers/8f1ac83a-b55c-415d-984c-a496f9f317d0/4f8b5a30-2978-4efe-a2d0-d456fb669ec0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105179,
+        "aniId": 103061,
+        "createdAt": "2020-10-12T16:10:35.000Z",
+        "updatedAt": "2021-06-05T01:55:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kami_sama_no_ekohiiki": {
+        "authors": [
+          "KOMURA Ayumi"
+        ],
+        "identifier": "kami_sama_no_ekohiiki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kami-sama no Ekohiiki",
+        "url": "https://fanfox.net/manga/kami_sama_no_ekohiiki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24767/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105179,
+        "aniId": 103061,
+        "createdAt": "2021-03-26T15:49:27.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

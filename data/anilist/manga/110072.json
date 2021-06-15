@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "블랙윈터",
+    "ブラックウィンター"
+  ],
+  "authors": [
+    "Chung-Na"
+  ],
+  "id": 110072,
+  "malId": null,
+  "type": "manga",
+  "title": "Black Winter",
+  "url": "https://anilist.co/manga/110072",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110072-3uWj6JelAZ1S.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-25T18:08:18.000Z",
+  "updatedAt": "2021-05-25T18:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "201a6ac5-3a49-44b2-af0c-1e6666ae47ed": {
+        "authors": [
+          "Chung-Na"
+        ],
+        "identifier": "201a6ac5-3a49-44b2-af0c-1e6666ae47ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Winter",
+        "url": "https://mangadex.org/title/201a6ac5-3a49-44b2-af0c-1e6666ae47ed",
+        "image": "https://uploads.mangadex.org/covers/201a6ac5-3a49-44b2-af0c-1e6666ae47ed/cfd26acc-009f-47dd-b31d-d1290c83e0dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110072,
+        "createdAt": "2020-10-12T16:16:10.000Z",
+        "updatedAt": "2021-06-07T07:15:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-en981948": {
+        "authors": [
+          "Chung-Na"
+        ],
+        "identifier": "manga-en981948",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Black Winter",
+        "url": "https://readmanganato.com/manga-en981948",
+        "image": "https://avt.mkklcdnv6temp.com/33/o/18-1583498388.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 110072,
+        "createdAt": "2021-06-06T01:18:58.000Z",
+        "updatedAt": "2021-06-06T01:18:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

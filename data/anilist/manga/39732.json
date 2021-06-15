@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "恋花温泉"
+  ],
+  "authors": [
+    "Kenjiro Kawatsu"
+  ],
+  "id": 39732,
+  "malId": 9732,
+  "type": "manga",
+  "title": "Koibana Onsen",
+  "url": "https://anilist.co/manga/39732",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39732-ymijCUvPkda3.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:58.000Z",
+  "updatedAt": "2021-05-20T14:40:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "de750dc4-caf1-4f8f-aabd-ac4005215b77": {
+        "authors": [
+          "KAWATSU Kenjiro"
+        ],
+        "identifier": "de750dc4-caf1-4f8f-aabd-ac4005215b77",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koibana Onsen",
+        "url": "https://mangadex.org/title/de750dc4-caf1-4f8f-aabd-ac4005215b77",
+        "image": "https://uploads.mangadex.org/covers/de750dc4-caf1-4f8f-aabd-ac4005215b77/b0af0bd5-743e-4c26-a89f-ef35504f59f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9732,
+        "aniId": 39732,
+        "createdAt": "2020-10-12T16:02:26.000Z",
+        "updatedAt": "2021-06-02T06:51:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koibana_onsen": {
+        "authors": [],
+        "identifier": "koibana_onsen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koibana Onsen",
+        "url": "https://manganelo.com/manga/koibana_onsen",
+        "image": "https://avt.mkklcdnv6.com/39/g/5-1583473433.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9732,
+        "aniId": 39732,
+        "createdAt": "2020-10-12T16:23:58.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "koibana-onsen": {
+        "authors": [
+          "KAWATSU Kenjiro"
+        ],
+        "identifier": "koibana-onsen",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Koibana Onsen",
+        "url": "https://mangasee123.com/manga/Koibana-Onsen",
+        "image": "https://cover.nep.li/cover/Koibana-Onsen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9732,
+        "aniId": 39732,
+        "createdAt": "2020-12-23T11:56:14.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

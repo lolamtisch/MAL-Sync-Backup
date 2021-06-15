@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Ozanari Dungeon",
+    "おざなりダンジョン",
+    "Dragon Ozanari Moka?"
+  ],
+  "authors": [
+    "Motoo Koyama"
+  ],
+  "id": 30596,
+  "malId": 596,
+  "type": "manga",
+  "title": "Ozanari Dungeon",
+  "url": "https://anilist.co/manga/30596",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30596-tzbBy56l0elW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3fba7668-7650-4998-8b97-f5c6ed848129": {
+        "authors": [
+          "Koyama Motoo"
+        ],
+        "identifier": "3fba7668-7650-4998-8b97-f5c6ed848129",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ozanari Dungeon",
+        "url": "https://mangadex.org/title/3fba7668-7650-4998-8b97-f5c6ed848129",
+        "image": "https://uploads.mangadex.org/covers/3fba7668-7650-4998-8b97-f5c6ed848129/89ebf8fa-8c28-4f70-8f51-871b66d3bce0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 596,
+        "aniId": 30596,
+        "createdAt": "2020-10-12T16:07:39.000Z",
+        "updatedAt": "2021-06-04T04:22:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ozanari_dungeon": {
+        "authors": [
+          "Koyama",
+          "Motoo"
+        ],
+        "identifier": "ozanari_dungeon",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ozanari Dungeon",
+        "url": "https://manganelo.com/manga/ozanari_dungeon",
+        "image": "https://avt.mkklcdnv6temp.com/45/r/1-1583465504.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 596,
+        "aniId": 30596,
+        "createdAt": "2021-03-08T14:40:29.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

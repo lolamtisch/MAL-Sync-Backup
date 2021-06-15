@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ミカド☆ボーイ",
+    "Imperial Boy"
+  ],
+  "authors": [
+    "Riko Miyagi"
+  ],
+  "id": 80717,
+  "malId": 50717,
+  "type": "manga",
+  "title": "Mikado☆Boy",
+  "url": "https://anilist.co/manga/80717",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50717.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-05-20T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "28ad1266-7d61-415c-a953-01e032c090d1": {
+        "authors": [
+          "Miyagi Riko"
+        ],
+        "identifier": "28ad1266-7d61-415c-a953-01e032c090d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mikado☆Boy",
+        "url": "https://mangadex.org/title/28ad1266-7d61-415c-a953-01e032c090d1",
+        "image": "https://uploads.mangadex.org/covers/28ad1266-7d61-415c-a953-01e032c090d1/aa0667d1-b7f7-49a1-aad2-bff135531e0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50717,
+        "aniId": 80717,
+        "createdAt": "2020-10-12T16:06:41.000Z",
+        "updatedAt": "2021-06-03T21:24:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mikado_boy": {
+        "authors": [
+          "MIYAGI Riko"
+        ],
+        "identifier": "mikado_boy",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mikado Boy",
+        "url": "https://fanfox.net/manga/mikado_boy/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12381/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50717,
+        "aniId": 80717,
+        "createdAt": "2021-03-26T16:24:06.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

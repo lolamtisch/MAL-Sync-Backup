@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "ヘッズ"
+  ],
+  "authors": [
+    "Higashino, Keigo",
+    "Mase, Motoro"
+  ],
+  "id": 2179,
+  "type": "manga",
+  "title": "Heads",
+  "url": "https://myanimelist.net/manga/2179/Heads",
+  "image": "https://cdn.myanimelist.net/images/manga/4/25739.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:41.000Z",
+  "updatedAt": "2021-05-11T04:42:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f340eb91-fab8-41d6-ae3f-71f3f0a89a46": {
+        "authors": [
+          "Mase Motoro",
+          "Higashino Keigo"
+        ],
+        "identifier": "f340eb91-fab8-41d6-ae3f-71f3f0a89a46",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HE&forall;DS",
+        "url": "https://mangadex.org/title/f340eb91-fab8-41d6-ae3f-71f3f0a89a46",
+        "image": "https://uploads.mangadex.org/covers/f340eb91-fab8-41d6-ae3f-71f3f0a89a46/9f2777dc-0e05-42bc-8a32-5f5296d46e26.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2179,
+        "aniId": 32179,
+        "createdAt": "2020-10-12T16:03:04.000Z",
+        "updatedAt": "2021-06-02T11:36:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "heads": {
+        "authors": [],
+        "identifier": "heads",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Heads",
+        "url": "https://manganelo.com/manga/heads",
+        "image": "https://avt.mkklcdnv6.com/17/v/13-1583488394.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2179,
+        "aniId": 32179,
+        "createdAt": "2020-10-12T16:23:17.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "heads": {
+        "authors": [
+          "HIGASHINO Keigo",
+          "MASE Motoro"
+        ],
+        "identifier": "heads",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Heads",
+        "url": "https://mangasee123.com/manga/Heads",
+        "image": "https://cover.nep.li/cover/Heads.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2179,
+        "aniId": 32179,
+        "createdAt": "2021-01-27T04:10:07.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "heads": {
+        "authors": [
+          "HIGASHINO Keigo"
+        ],
+        "identifier": "heads",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Heads",
+        "url": "https://fanfox.net/manga/heads/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6919/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2179,
+        "aniId": 32179,
+        "createdAt": "2021-02-22T06:33:34.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

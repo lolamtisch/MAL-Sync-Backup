@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "あ～んちゃんのあ～ん",
+    "An-chan ga Aan"
+  ],
+  "authors": [
+    "Motoki Kaneko"
+  ],
+  "id": 105164,
+  "malId": null,
+  "type": "manga",
+  "title": "Aan-chan no Aan",
+  "url": "https://anilist.co/manga/105164",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105164-fV6f5yhh4dmf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T03:50:50.000Z",
+  "updatedAt": "2021-06-06T03:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d2ce760-9c8f-42d5-82b5-6d940f040039": {
+        "authors": [
+          "Kaneko Motoki"
+        ],
+        "identifier": "9d2ce760-9c8f-42d5-82b5-6d940f040039",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "An-chan no Aan",
+        "url": "https://mangadex.org/title/9d2ce760-9c8f-42d5-82b5-6d940f040039",
+        "image": "https://uploads.mangadex.org/covers/9d2ce760-9c8f-42d5-82b5-6d940f040039/5ce38fbb-b29a-460c-a257-0d35bf0e551c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 105164,
+        "createdAt": "2020-10-12T16:14:14.000Z",
+        "updatedAt": "2021-06-06T10:22:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

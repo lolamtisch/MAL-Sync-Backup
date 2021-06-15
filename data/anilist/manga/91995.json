@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "STEINS;GATE 無限遠点のアークライト",
+    "Steins,Gate: Arc-light of the Sky",
+    "Steins;Gate - Arc Light of the Point at Infinity"
+  ],
+  "authors": [
+    "Nitro+",
+    "Shinichirou Naruie"
+  ],
+  "id": 91995,
+  "malId": 74337,
+  "type": "manga",
+  "title": "Steins;Gate: Mugen Enten no Arc Light",
+  "url": "https://anilist.co/manga/91995",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91995-l1yWoJcnIIEC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:42.000Z",
+  "updatedAt": "2021-05-20T14:51:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5b415590-6867-4805-b44b-30238e6a6b8b": {
+        "authors": [
+          "5pb",
+          "Nitroplus",
+          "Nariie Shinichirou"
+        ],
+        "identifier": "5b415590-6867-4805-b44b-30238e6a6b8b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Steins;Gate - Arc Light of the Point at Infinity",
+        "url": "https://mangadex.org/title/5b415590-6867-4805-b44b-30238e6a6b8b",
+        "image": "https://uploads.mangadex.org/covers/5b415590-6867-4805-b44b-30238e6a6b8b/972cf014-22c9-4adf-bcb8-2ccdbf4f0173.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74337,
+        "aniId": 91995,
+        "createdAt": "2020-10-12T16:10:23.000Z",
+        "updatedAt": "2021-06-05T00:24:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "steinsgate_mugen_enten_no_arc_light": {
+        "authors": [],
+        "identifier": "steinsgate_mugen_enten_no_arc_light",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Steins;Gate - Mugen Enten no Arc Light",
+        "url": "https://manganelo.com/manga/steinsgate_mugen_enten_no_arc_light",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18118-steinsgate_mugen_enten_no_arc_light.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74337,
+        "aniId": 91995,
+        "createdAt": "2020-10-12T16:25:33.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

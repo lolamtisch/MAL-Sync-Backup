@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "メンズライフ"
+  ],
+  "authors": [
+    "Watanabe, Ayu"
+  ],
+  "id": 112700,
+  "type": "manga",
+  "title": "Men's Life",
+  "url": "https://myanimelist.net/manga/112700/Mens_Life",
+  "image": "https://cdn.myanimelist.net/images/manga/1/209998.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:27.000Z",
+  "updatedAt": "2021-05-06T00:33:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0390b0ce-65cf-4380-8899-cdc217383fc8": {
+        "authors": [
+          "WATANABE Ayu"
+        ],
+        "identifier": "0390b0ce-65cf-4380-8899-cdc217383fc8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Men's Life",
+        "url": "https://mangadex.org/title/0390b0ce-65cf-4380-8899-cdc217383fc8",
+        "image": "https://uploads.mangadex.org/covers/0390b0ce-65cf-4380-8899-cdc217383fc8/c0e68eca-bd13-4b02-b344-abc6b8be9b94.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112700,
+        "aniId": 104062,
+        "createdAt": "2020-10-12T16:11:25.000Z",
+        "updatedAt": "2021-06-05T08:09:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mens_life": {
+        "authors": [],
+        "identifier": "mens_life",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Men's Life",
+        "url": "https://manganelo.com/manga/mens_life",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20284-mens_life.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112700,
+        "aniId": 104062,
+        "createdAt": "2020-10-12T16:24:18.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mens-life-her-secret-life-in-the-boys-dormitory": {
+        "authors": [
+          "WATANABE Ayu"
+        ],
+        "identifier": "mens-life-her-secret-life-in-the-boys-dormitory",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Men's Life - Her Secret Life in the Boys' Dormitory",
+        "url": "https://mangasee123.com/manga/Mens-Life-Her-Secret-Life-in-the-Boys-Dormitory",
+        "image": "https://cover.nep.li/cover/Mens-Life-Her-Secret-Life-in-the-Boys-Dormitory.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 112700,
+        "aniId": 104062,
+        "createdAt": "2021-05-06T00:33:45.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "最果てのアオ",
+    "The Deepest Blue"
+  ],
+  "authors": [
+    "Saya Fuyume"
+  ],
+  "id": 85581,
+  "malId": 72261,
+  "type": "manga",
+  "title": "Saihate no Ao",
+  "url": "https://anilist.co/manga/85581",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85581-HeEp06wyXn4P.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:35.000Z",
+  "updatedAt": "2021-05-20T14:51:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a9b8c5ae-b534-45a9-9ef1-bdec077cce70": {
+        "authors": [
+          "Fuyume Saya"
+        ],
+        "identifier": "a9b8c5ae-b534-45a9-9ef1-bdec077cce70",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saihate no Ao",
+        "url": "https://mangadex.org/title/a9b8c5ae-b534-45a9-9ef1-bdec077cce70",
+        "image": "https://uploads.mangadex.org/covers/a9b8c5ae-b534-45a9-9ef1-bdec077cce70/186a1215-5557-4728-9f5d-45361043bbd2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72261,
+        "aniId": 85581,
+        "createdAt": "2020-10-12T16:07:28.000Z",
+        "updatedAt": "2021-06-04T03:04:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "saihate-no-ao": {
+        "authors": [
+          "FUYUME Saya"
+        ],
+        "identifier": "saihate-no-ao",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Saihate no Ao",
+        "url": "https://mangasee123.com/manga/Saihate-No-Ao",
+        "image": "https://cover.nep.li/cover/Saihate-No-Ao.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72261,
+        "aniId": 85581,
+        "createdAt": "2021-03-25T03:19:03.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "altTitle": [
+    "Yotsuba&!",
+    "よつばと！",
+    "Yotsuba and!",
+    "Yotsuba!",
+    "Yotsubato"
+  ],
+  "authors": [
+    "Kiyohiko Azuma",
+    "Stephen Paul",
+    "Amy Forsyth"
+  ],
+  "id": 30104,
+  "malId": 104,
+  "type": "manga",
+  "title": "Yotsuba to!",
+  "url": "https://anilist.co/manga/30104",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30104-Qv5SLPFRRAqJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:23.000Z",
+  "updatedAt": "2021-05-20T14:35:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "58be6aa6-06cb-4ca5-bd20-f1392ce451fb": {
+        "authors": [
+          "Azuma Kiyohiko"
+        ],
+        "identifier": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yotsuba to!",
+        "url": "https://mangadex.org/title/58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
+        "image": "https://uploads.mangadex.org/covers/58be6aa6-06cb-4ca5-bd20-f1392ce451fb/5951267f-f863-4e1b-b1fc-a5cfb56faaf8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104,
+        "aniId": 30104,
+        "createdAt": "2020-10-12T16:02:31.000Z",
+        "updatedAt": "2021-06-02T07:28:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yotsubato": {
+        "authors": [],
+        "identifier": "yotsubato",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yotsubato!",
+        "url": "https://manganelo.com/manga/yotsubato",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2082-yotsubato.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104,
+        "aniId": 30104,
+        "createdAt": "2020-10-12T16:26:24.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yotsubato": {
+        "authors": [
+          "AZUMA Kiyohiko"
+        ],
+        "identifier": "yotsubato",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yotsubato!",
+        "url": "https://mangasee123.com/manga/Yotsubato",
+        "image": "https://cover.nep.li/cover/Yotsubato.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104,
+        "aniId": 30104,
+        "createdAt": "2021-01-02T23:20:41.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yotsuba": {
+        "authors": [
+          "AZUMA Kiyohiko"
+        ],
+        "identifier": "yotsuba",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yotsubato!",
+        "url": "https://fanfox.net/manga/yotsuba/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/741/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104,
+        "aniId": 30104,
+        "createdAt": "2021-03-01T00:14:31.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      },
+      "yotsubato": {
+        "authors": [
+          "AZUMA Kiyohiko"
+        ],
+        "identifier": "yotsubato",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yotsubato!",
+        "url": "https://fanfox.net/manga/yotsubato/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/741/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104,
+        "aniId": 30104,
+        "createdAt": "2021-03-01T00:14:32.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xe953687": {
+        "authors": [
+          "Azuma Kiyohiko"
+        ],
+        "identifier": "manga-xe953687",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yotsubato!",
+        "url": "https://manganato.com/manga-xe953687",
+        "image": "https://avt.mkklcdnv6temp.com/32/a/2-1583466934.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104,
+        "aniId": 30104,
+        "createdAt": "2021-05-29T07:15:18.000Z",
+        "updatedAt": "2021-05-29T07:42:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

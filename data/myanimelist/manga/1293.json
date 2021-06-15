@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "I'll (Generation Basket), I'll CKBC",
+    "I'll アイル"
+  ],
+  "authors": [
+    "Asada, Hiroyuki"
+  ],
+  "id": 1293,
+  "type": "manga",
+  "title": "I'll",
+  "url": "https://myanimelist.net/manga/1293/Ill",
+  "image": "https://cdn.myanimelist.net/images/manga/1/136553.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:32.000Z",
+  "updatedAt": "2021-04-22T10:59:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ff5e5b9-cc54-49c5-a601-c5d74ed7e023": {
+        "authors": [
+          "Asada Hiroyuki"
+        ],
+        "identifier": "3ff5e5b9-cc54-49c5-a601-c5d74ed7e023",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I'll",
+        "url": "https://mangadex.org/title/3ff5e5b9-cc54-49c5-a601-c5d74ed7e023",
+        "image": "https://uploads.mangadex.org/covers/3ff5e5b9-cc54-49c5-a601-c5d74ed7e023/79b45d3d-a05f-4eba-8cf5-76838d3b5c55.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1293,
+        "aniId": 31293,
+        "createdAt": "2020-10-12T16:04:12.000Z",
+        "updatedAt": "2021-06-02T19:33:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "i_ll": {
+        "authors": [
+          "ASADA Hiroyuki"
+        ],
+        "identifier": "i_ll",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "I'll",
+        "url": "https://fanfox.net/manga/i_ll/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10289/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1293,
+        "aniId": 31293,
+        "createdAt": "2021-04-22T10:59:19.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

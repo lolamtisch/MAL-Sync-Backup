@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "Sakura Wars",
+    "サクラ大戦",
+    "Sakura Wars"
+  ],
+  "authors": [
+    "Ouji Hiroi",
+    "Kosuke Fujishima",
+    "Ikku Masa"
+  ],
+  "id": 30511,
+  "malId": 511,
+  "type": "manga",
+  "title": "Sakura Taisen",
+  "url": "https://anilist.co/manga/30511",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30511-U0HQ0JtbQJxR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fdb20618-c5b4-4117-8e51-55992a6c9d7b": {
+        "authors": [
+          "MASA Ikku",
+          "HIROI Ouji",
+          "FUJISHIMA Kosuke"
+        ],
+        "identifier": "fdb20618-c5b4-4117-8e51-55992a6c9d7b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakura Taisen",
+        "url": "https://mangadex.org/title/fdb20618-c5b4-4117-8e51-55992a6c9d7b",
+        "image": "https://uploads.mangadex.org/covers/fdb20618-c5b4-4117-8e51-55992a6c9d7b/62237323-76aa-4b18-b277-f35e91e11d2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 511,
+        "aniId": 30511,
+        "createdAt": "2020-10-12T16:04:44.000Z",
+        "updatedAt": "2021-06-02T23:05:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "샌드위치 걸"
+  ],
+  "authors": [
+    "Yu-Rang Han"
+  ],
+  "id": 47790,
+  "malId": 17790,
+  "type": "manga",
+  "title": "Sandwich Girl",
+  "url": "https://anilist.co/manga/47790",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17790.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:12.000Z",
+  "updatedAt": "2021-05-20T14:44:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33281793-ae9d-4549-b68e-1ee33f9491be": {
+        "authors": [
+          "HAN Yu-Rang"
+        ],
+        "identifier": "33281793-ae9d-4549-b68e-1ee33f9491be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sandwich Girl",
+        "url": "https://mangadex.org/title/33281793-ae9d-4549-b68e-1ee33f9491be",
+        "image": "https://uploads.mangadex.org/covers/33281793-ae9d-4549-b68e-1ee33f9491be/fda19d52-b76a-4446-9532-b882358a7bee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17790,
+        "aniId": 47790,
+        "createdAt": "2020-10-12T16:04:51.000Z",
+        "updatedAt": "2021-06-02T23:54:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sandwich_girl": {
+        "authors": [
+          "Han",
+          "Yu-Rang"
+        ],
+        "identifier": "sandwich_girl",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sandwich Girl",
+        "url": "https://manganelo.com/manga/sandwich_girl",
+        "image": "https://avt.mkklcdnv6.com/13/a/2-1583466204.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17790,
+        "aniId": 47790,
+        "createdAt": "2021-01-17T21:02:42.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

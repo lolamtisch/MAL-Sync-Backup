@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Hitohira",
+    "ひとひら"
+  ],
+  "authors": [
+    "Izumi Kirihara"
+  ],
+  "id": 31876,
+  "malId": 1876,
+  "type": "manga",
+  "title": "Hitohira",
+  "url": "https://anilist.co/manga/31876",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31876-Td0sDjKgWflY.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:54.000Z",
+  "updatedAt": "2021-05-20T14:36:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "279d7e00-1178-4d58-86c7-2ac0c099353f": {
+        "authors": [
+          "Kirihara Idumi"
+        ],
+        "identifier": "279d7e00-1178-4d58-86c7-2ac0c099353f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hitohira",
+        "url": "https://mangadex.org/title/279d7e00-1178-4d58-86c7-2ac0c099353f",
+        "image": "https://uploads.mangadex.org/covers/279d7e00-1178-4d58-86c7-2ac0c099353f/f52f3c4b-0116-493a-9e23-c45ebd2faf06.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1876,
+        "aniId": 31876,
+        "createdAt": "2020-10-12T16:03:41.000Z",
+        "updatedAt": "2021-06-02T15:48:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

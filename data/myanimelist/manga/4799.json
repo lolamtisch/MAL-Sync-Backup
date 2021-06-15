@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Kyou mo Ashita mo",
+    "今日も明日も。"
+  ],
+  "authors": [
+    "Emura"
+  ],
+  "id": 4799,
+  "type": "manga",
+  "title": "Kyou mo Ashita mo.",
+  "url": "https://myanimelist.net/manga/4799/Kyou_mo_Ashita_mo",
+  "image": "https://cdn.myanimelist.net/images/manga/5/35820.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:02.000Z",
+  "updatedAt": "2021-06-05T08:49:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "43480b8a-4f4b-474d-9dc2-82f289434d2d": {
+        "authors": [
+          "Emura"
+        ],
+        "identifier": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyou mo Ashita mo.",
+        "url": "https://mangadex.org/title/43480b8a-4f4b-474d-9dc2-82f289434d2d",
+        "image": "https://uploads.mangadex.org/covers/43480b8a-4f4b-474d-9dc2-82f289434d2d/d716a6ed-b4d9-4061-b143-52c857a46035.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4799,
+        "aniId": 34799,
+        "createdAt": "2020-10-12T16:04:52.000Z",
+        "updatedAt": "2021-06-03T00:05:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kyou-mo-ashita-mo": {
+        "authors": [
+          "Emura"
+        ],
+        "identifier": "kyou-mo-ashita-mo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kyou mo Ashita mo",
+        "url": "https://mangasee123.com/manga/Kyou-Mo-Ashita-Mo",
+        "image": "https://cover.nep.li/cover/Kyou-Mo-Ashita-Mo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4799,
+        "aniId": 34799,
+        "createdAt": "2021-06-05T08:49:51.000Z",
+        "updatedAt": "2021-06-05T09:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

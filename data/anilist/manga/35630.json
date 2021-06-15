@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "The Black Swindler",
+    "クロサギ; 诈欺猎人"
+  ],
+  "authors": [
+    "Takeshi Natsuhara",
+    "Kuromaru"
+  ],
+  "id": 35630,
+  "malId": 5630,
+  "type": "manga",
+  "title": "Kurosagi",
+  "url": "https://anilist.co/manga/35630",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35630-MmagAtb1N6uO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:32.000Z",
+  "updatedAt": "2021-05-20T14:39:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9695225f-0dbf-46e9-bf9f-2605c2d561d9": {
+        "authors": [
+          "Kuromaru",
+          "Takeshi Natsuhara"
+        ],
+        "identifier": "9695225f-0dbf-46e9-bf9f-2605c2d561d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kurosagi",
+        "url": "https://mangadex.org/title/9695225f-0dbf-46e9-bf9f-2605c2d561d9",
+        "image": "https://uploads.mangadex.org/covers/9695225f-0dbf-46e9-bf9f-2605c2d561d9/7ab44737-3b09-4d38-974a-680d9942a579.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5630,
+        "aniId": 35630,
+        "createdAt": "2020-10-12T16:03:06.000Z",
+        "updatedAt": "2021-06-02T11:43:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kurosagi": {
+        "authors": [],
+        "identifier": "kurosagi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kurosagi",
+        "url": "https://manganelo.com/manga/kurosagi",
+        "image": "https://avt.mkklcdnv6.com/43/c/1-1583465403.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5630,
+        "aniId": 35630,
+        "createdAt": "2020-10-12T16:24:02.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kurosagi": {
+        "authors": [
+          "Kuromaru",
+          "NATSUHARA Takeshi"
+        ],
+        "identifier": "kurosagi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kurosagi",
+        "url": "https://mangasee123.com/manga/Kurosagi",
+        "image": "https://cover.nep.li/cover/Kurosagi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5630,
+        "aniId": 35630,
+        "createdAt": "2021-03-01T17:51:16.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ライフ・イズ・デッド"
+  ],
+  "authors": [
+    "Koizumi, Tomohiro"
+  ],
+  "id": 17847,
+  "type": "manga",
+  "title": "Life is Dead",
+  "url": "https://myanimelist.net/manga/17847/Life_is_Dead",
+  "image": "https://cdn.myanimelist.net/images/manga/1/27269.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:29.000Z",
+  "updatedAt": "2021-05-31T23:52:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "99f6e0db-a74e-4583-8501-954b8b1a1465": {
+        "authors": [
+          "KOIZUMI Tomohiro"
+        ],
+        "identifier": "99f6e0db-a74e-4583-8501-954b8b1a1465",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Life Is Dead",
+        "url": "https://mangadex.org/title/99f6e0db-a74e-4583-8501-954b8b1a1465",
+        "image": "https://uploads.mangadex.org/covers/99f6e0db-a74e-4583-8501-954b8b1a1465/e4ec5465-4349-41d5-9904-950a729b7c98.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17847,
+        "aniId": 47847,
+        "createdAt": "2020-10-12T16:08:06.000Z",
+        "updatedAt": "2021-06-04T07:34:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "life_is_dead": {
+        "authors": [
+          "Koizumi",
+          "Tomohiro"
+        ],
+        "identifier": "life_is_dead",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Life Is Dead",
+        "url": "https://manganelo.com/manga/life_is_dead",
+        "image": "https://avt.mkklcdnv6.com/17/x/8-1583478856.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17847,
+        "aniId": 47847,
+        "createdAt": "2020-12-01T23:52:42.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

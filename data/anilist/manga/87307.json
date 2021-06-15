@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "放課後さいころ倶楽部",
+    "Hokago Saikoro Kurabu",
+    "After School Dice Club"
+  ],
+  "authors": [
+    "Hiroo Nakamichi"
+  ],
+  "id": 87307,
+  "malId": 69035,
+  "type": "manga",
+  "title": "Houkago Saikoro Club",
+  "url": "https://anilist.co/manga/87307",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87307-Q18KGMxMEPXy.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:03.000Z",
+  "updatedAt": "2021-05-20T14:51:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4c5b0bdb-85ce-48d0-af2c-79919729f837": {
+        "authors": [
+          "Nakamichi Hiroo"
+        ],
+        "identifier": "4c5b0bdb-85ce-48d0-af2c-79919729f837",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "After School Dice Club",
+        "url": "https://mangadex.org/title/4c5b0bdb-85ce-48d0-af2c-79919729f837",
+        "image": "https://uploads.mangadex.org/covers/4c5b0bdb-85ce-48d0-af2c-79919729f837/1b668b72-c392-4ebf-8643-a744dc04b2bd.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69035,
+        "aniId": 87307,
+        "createdAt": "2020-10-12T16:09:22.000Z",
+        "updatedAt": "2021-06-04T17:05:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fsvp41411575075543": {
+        "authors": [],
+        "identifier": "fsvp41411575075543",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Houkago Saikoro Kurabu",
+        "url": "https://manganelo.com/manga/fsvp41411575075543",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3529-houkago_saikoro_kurabu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69035,
+        "aniId": 87307,
+        "createdAt": "2020-10-12T16:22:59.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "after_school_dice_club": {
+        "authors": [
+          ""
+        ],
+        "identifier": "after_school_dice_club",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "After School Dice Club",
+        "url": "https://manganelo.com/manga/after_school_dice_club",
+        "image": "https://avt.mkklcdnv6.com/23/n/1-1583464622.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 69035,
+        "aniId": 87307,
+        "createdAt": "2020-12-11T16:48:25.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

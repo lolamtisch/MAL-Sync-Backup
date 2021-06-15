@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "GOGO!ぷりん帝国",
+    "Go Go! Pudding Empire"
+  ],
+  "authors": [
+    "Makoto Kubota"
+  ],
+  "id": 49413,
+  "malId": 19413,
+  "type": "manga",
+  "title": "Go Go! Purin Teikoku",
+  "url": "https://anilist.co/manga/49413",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19413.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:18.000Z",
+  "updatedAt": "2021-05-20T14:45:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "38f3c5c2-2646-4a3f-88ee-4d92334c539a": {
+        "authors": [
+          "Kubota Makoto"
+        ],
+        "identifier": "38f3c5c2-2646-4a3f-88ee-4d92334c539a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Go Go! Pudding Empire",
+        "url": "https://mangadex.org/title/38f3c5c2-2646-4a3f-88ee-4d92334c539a",
+        "image": "https://uploads.mangadex.org/covers/38f3c5c2-2646-4a3f-88ee-4d92334c539a/f0caafa8-694c-4cc4-a9ee-85900807d3fc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19413,
+        "aniId": 49413,
+        "createdAt": "2020-10-12T16:04:03.000Z",
+        "updatedAt": "2021-06-02T18:17:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "go_go_purin_teikoku": {
+        "authors": [],
+        "identifier": "go_go_purin_teikoku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Go Go! Purin Teikoku",
+        "url": "https://manganelo.com/manga/go_go_purin_teikoku",
+        "image": "https://avt.mkklcdnv6.com/36/j/12-1583487192.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19413,
+        "aniId": 49413,
+        "createdAt": "2020-10-12T16:23:08.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

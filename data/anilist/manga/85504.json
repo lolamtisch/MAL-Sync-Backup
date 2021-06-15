@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Green Worldz",
+    "GREEN WORLDZ"
+  ],
+  "authors": [
+    "Yuusuke Oosawa"
+  ],
+  "id": 85504,
+  "malId": 65647,
+  "type": "manga",
+  "title": "Green Worldz",
+  "url": "https://anilist.co/manga/85504",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55504.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:53.000Z",
+  "updatedAt": "2021-05-20T14:50:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "098fbaa8-e4c3-4b6d-9e0a-84ddbcc1e477": {
+        "authors": [
+          "Oosawa Yuusuke"
+        ],
+        "identifier": "098fbaa8-e4c3-4b6d-9e0a-84ddbcc1e477",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Green WorldZ",
+        "url": "https://mangadex.org/title/098fbaa8-e4c3-4b6d-9e0a-84ddbcc1e477",
+        "image": "https://uploads.mangadex.org/covers/098fbaa8-e4c3-4b6d-9e0a-84ddbcc1e477/fa553dba-8c2b-420d-891a-e9fda29a4c4e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65647,
+        "aniId": 85504,
+        "createdAt": "2020-10-12T16:07:31.000Z",
+        "updatedAt": "2021-06-04T03:29:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_green_worldz_manga": {
+        "authors": [],
+        "identifier": "read_green_worldz_manga",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Green Worldz",
+        "url": "https://manganelo.com/manga/read_green_worldz_manga",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/349-read_green_worldz_manga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65647,
+        "aniId": 85504,
+        "createdAt": "2020-10-12T16:25:05.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

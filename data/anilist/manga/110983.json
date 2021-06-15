@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Choco Latte",
+    "彼はチョコラテ",
+    "He is Chocolate Latte"
+  ],
+  "authors": [
+    "Ann"
+  ],
+  "id": 110983,
+  "malId": null,
+  "type": "manga",
+  "title": "Kare wa Choco Latte",
+  "url": "https://anilist.co/manga/110983",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110983-DrTMGoKYP4oR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T15:12:58.000Z",
+  "updatedAt": "2021-06-07T07:20:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1ef8926c-80d9-47bd-b083-4e8339bd6e75": {
+        "authors": [
+          "Ann(杏)"
+        ],
+        "identifier": "1ef8926c-80d9-47bd-b083-4e8339bd6e75",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Choco Latte",
+        "url": "https://mangadex.org/title/1ef8926c-80d9-47bd-b083-4e8339bd6e75",
+        "image": "https://uploads.mangadex.org/covers/1ef8926c-80d9-47bd-b083-4e8339bd6e75/4db1b014-c094-4249-9f81-31ecd85659ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110983,
+        "createdAt": "2020-10-12T16:17:21.000Z",
+        "updatedAt": "2021-06-07T07:38:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

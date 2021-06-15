@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "ウザ恋",
+    "Uzakoi",
+    "Suki desu Oniichan",
+    "Double☆Booking",
+    "Anata no Kioku",
+    "Sakura no Shita de Kiss wo Shite"
+  ],
+  "authors": [
+    "Shion Hanyu"
+  ],
+  "id": 39870,
+  "malId": 9870,
+  "type": "manga",
+  "title": "Uzakoi",
+  "url": "https://anilist.co/manga/39870",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b39870-PnOqSaHjeVAP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:59.000Z",
+  "updatedAt": "2021-05-20T14:40:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf484c58-1b26-4d8a-a433-32fda72f8437": {
+        "authors": [
+          "Hanyuu Shion"
+        ],
+        "identifier": "bf484c58-1b26-4d8a-a433-32fda72f8437",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uzakoi",
+        "url": "https://mangadex.org/title/bf484c58-1b26-4d8a-a433-32fda72f8437",
+        "image": "https://uploads.mangadex.org/covers/bf484c58-1b26-4d8a-a433-32fda72f8437/68e11131-38f5-47e0-bab0-b125c9c52e71.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9870,
+        "aniId": 39870,
+        "createdAt": "2020-10-12T16:09:09.000Z",
+        "updatedAt": "2021-06-04T15:33:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

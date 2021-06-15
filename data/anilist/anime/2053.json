@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "カプリコン"
+  ],
+  "id": 2053,
+  "malId": 2053,
+  "type": "anime",
+  "title": "Capricorn",
+  "url": "https://anilist.co/anime/2053",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2053.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:08.000Z",
+  "updatedAt": "2021-05-20T14:36:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "01y3": {
+        "identifier": "01y3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Capricorn",
+        "url": "https://9anime.ru/watch/capricorn.01y3",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oN5U5qdN6lE/WOsR2qMX16I/AAAAAAAAgq8/-bUAJwooYAQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2053,
+        "aniId": 2053,
+        "createdAt": "2020-10-12T15:48:40.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "capricorn": {
+        "identifier": "capricorn",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Capricorn",
+        "url": "https://www10.gogoanime.io/category/capricorn",
+        "image": "https://cdnimg.xyz/cover/capricorn.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2053,
+        "aniId": 2053,
+        "createdAt": "2020-10-12T16:00:04.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

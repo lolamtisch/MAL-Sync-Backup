@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "赤き月の廻るころ",
+    "When the Red Moon Turns Around",
+    "Akaki Tsuki no Mawaru Koro"
+  ],
+  "authors": [
+    "Arata Kigawa",
+    "Sawaki Otonaka"
+  ],
+  "id": 54765,
+  "malId": 24765,
+  "type": "manga",
+  "title": "Akaki Tsuki no Meguru Koro",
+  "url": "https://anilist.co/manga/54765",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24765.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:46.000Z",
+  "updatedAt": "2021-05-20T14:46:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "01ac8dd3-a4e1-4002-8b00-0dc4c6a42676": {
+        "authors": [
+          "Otonaka Sawaki",
+          "Kigawa Arata"
+        ],
+        "identifier": "01ac8dd3-a4e1-4002-8b00-0dc4c6a42676",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akaki Tsuki no Mawaru Koro",
+        "url": "https://mangadex.org/title/01ac8dd3-a4e1-4002-8b00-0dc4c6a42676",
+        "image": "https://uploads.mangadex.org/covers/01ac8dd3-a4e1-4002-8b00-0dc4c6a42676/42e0530c-0f2e-4480-8e0d-3e84937448cc.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24765,
+        "aniId": 54765,
+        "createdAt": "2020-10-12T16:04:13.000Z",
+        "updatedAt": "2021-06-02T19:35:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "akaki-tsuki-no-meguru-koro": {
+        "authors": [
+          "KIGAWA Arata",
+          "OTONAKA Sawaki"
+        ],
+        "identifier": "akaki-tsuki-no-meguru-koro",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akaki Tsuki no Meguru Koro",
+        "url": "https://mangasee123.com/manga/Akaki-Tsuki-No-Meguru-Koro",
+        "image": "https://cover.nep.li/cover/Akaki-Tsuki-No-Meguru-Koro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24765,
+        "aniId": 54765,
+        "createdAt": "2021-03-30T12:01:01.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

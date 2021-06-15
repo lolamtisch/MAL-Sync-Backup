@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "걸어서 30분",
+    "30 Minute Walk",
+    "30 Minutes on Foot"
+  ],
+  "authors": [
+    "Lee On Do"
+  ],
+  "id": 116488,
+  "malId": null,
+  "type": "manga",
+  "title": "Geol-eoseo 30 Bun",
+  "url": "https://anilist.co/manga/116488",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116488-3QHpHS80mKrp.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T08:23:16.000Z",
+  "updatedAt": "2021-06-02T08:23:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c399b861-65a8-475e-8898-35e5a96361cb": {
+        "authors": [
+          "이온도"
+        ],
+        "identifier": "c399b861-65a8-475e-8898-35e5a96361cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "30 Minute Walk",
+        "url": "https://mangadex.org/title/c399b861-65a8-475e-8898-35e5a96361cb",
+        "image": "https://uploads.mangadex.org/covers/c399b861-65a8-475e-8898-35e5a96361cb/652cd8c2-0cfa-4d22-b605-572b1bf603dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116488,
+        "createdAt": "2020-10-12T16:11:50.000Z",
+        "updatedAt": "2021-06-05T12:42:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

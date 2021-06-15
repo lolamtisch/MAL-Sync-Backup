@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "Stretch",
+    "ストレッチ"
+  ],
+  "authors": [
+    "Shou Higashiyama"
+  ],
+  "id": 85229,
+  "malId": 68471,
+  "type": "manga",
+  "title": "Stretch",
+  "url": "https://anilist.co/manga/85229",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85229-AYCUjTfFARbC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:02.000Z",
+  "updatedAt": "2021-05-20T14:51:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe807e98-3857-4efc-8273-a31f7f7a8c63": {
+        "authors": [
+          "Higashiyama Shou"
+        ],
+        "identifier": "fe807e98-3857-4efc-8273-a31f7f7a8c63",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Stretch",
+        "url": "https://mangadex.org/title/fe807e98-3857-4efc-8273-a31f7f7a8c63",
+        "image": "https://uploads.mangadex.org/covers/fe807e98-3857-4efc-8273-a31f7f7a8c63/388af528-dba0-4c7f-ad3d-c505e7fc1daa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68471,
+        "aniId": 85229,
+        "createdAt": "2020-10-12T16:07:13.000Z",
+        "updatedAt": "2021-06-04T01:13:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "stretch": {
+        "authors": [
+          "Higashiyama",
+          "Shou"
+        ],
+        "identifier": "stretch",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Stretch",
+        "url": "https://manganelo.com/manga/stretch",
+        "image": "https://avt.mkklcdnv6temp.com/23/w/2-1583466626.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68471,
+        "aniId": 85229,
+        "createdAt": "2021-02-10T23:46:13.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "stretch": {
+        "authors": [
+          "HIGASHIYAMA Shou"
+        ],
+        "identifier": "stretch",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Stretch",
+        "url": "https://mangasee123.com/manga/Stretch",
+        "image": "https://cover.nep.li/cover/Stretch.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68471,
+        "aniId": 85229,
+        "createdAt": "2021-04-14T04:16:03.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "stretch": {
+        "authors": [
+          "HIGASHIYAMA Shou"
+        ],
+        "identifier": "stretch",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Stretch",
+        "url": "https://fanfox.net/manga/stretch/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13677/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68471,
+        "aniId": 85229,
+        "createdAt": "2021-04-15T17:46:30.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "全部、きみのせいだ",
+    "It's All Your Fault"
+  ],
+  "authors": [
+    "Teku Mahiru"
+  ],
+  "id": 102008,
+  "malId": 100173,
+  "type": "manga",
+  "title": "Zenbu, Kimi no Sei da",
+  "url": "https://anilist.co/manga/102008",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/102008-TzcbdDQkhJFC.jpg",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:54:45.000Z",
+  "updatedAt": "2021-05-20T14:54:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "97805688-e6e8-4d43-b4cf-4262466aa7d9": {
+        "authors": [
+          "Mahiru Teku"
+        ],
+        "identifier": "97805688-e6e8-4d43-b4cf-4262466aa7d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "It's all your fault",
+        "url": "https://mangadex.org/title/97805688-e6e8-4d43-b4cf-4262466aa7d9",
+        "image": "https://uploads.mangadex.org/covers/97805688-e6e8-4d43-b4cf-4262466aa7d9/c482a6f8-a4ba-4ef5-b98a-c92d6fecdd9a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100173,
+        "aniId": 102008,
+        "createdAt": "2020-10-12T16:10:01.000Z",
+        "updatedAt": "2021-06-04T21:41:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

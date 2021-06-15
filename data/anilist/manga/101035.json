@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "트롤트랩"
+  ],
+  "authors": [
+    "Wonsik I",
+    "Yubi"
+  ],
+  "id": 101035,
+  "malId": null,
+  "type": "manga",
+  "title": "Troll Trap",
+  "url": "https://anilist.co/manga/101035",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101035-u9pfM3izyVoP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T11:08:17.000Z",
+  "updatedAt": "2021-05-26T11:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6b954e8c-3b97-49ad-bd39-2731d46a0aa5": {
+        "authors": [
+          "Lee Won-Seek (U.bi)"
+        ],
+        "identifier": "6b954e8c-3b97-49ad-bd39-2731d46a0aa5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Troll Trap",
+        "url": "https://mangadex.org/title/6b954e8c-3b97-49ad-bd39-2731d46a0aa5",
+        "image": "https://uploads.mangadex.org/covers/6b954e8c-3b97-49ad-bd39-2731d46a0aa5/fb30be35-aa31-4890-a550-cf674351c7d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 101035,
+        "createdAt": "2020-10-12T16:11:22.000Z",
+        "updatedAt": "2021-06-05T09:07:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

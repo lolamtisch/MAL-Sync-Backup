@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Eleven Cats",
+    "１１ぴきのねこ"
+  ],
+  "id": 6071,
+  "malId": 6071,
+  "type": "anime",
+  "title": "11 Piki no Neko",
+  "url": "https://anilist.co/anime/6071",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6071.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:53.000Z",
+  "updatedAt": "2021-05-20T14:37:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "kv5v": {
+        "identifier": "kv5v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eleven Cats",
+        "url": "https://9anime.to/watch/eleven-cats.kv5v",
+        "image": "https://static.akacdn.ru/files/images/2020/07/6b9706b0a8f8ba4df76478f5031f3040.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6071,
+        "aniId": 6071,
+        "createdAt": "2020-10-12T15:52:43.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "juuippiki-no-neko": {
+        "identifier": "juuippiki-no-neko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Juuippiki no Neko",
+        "url": "https://www19.gogoanime.io/category/juuippiki-no-neko",
+        "image": "https://gogocdn.net/cover/juuippiki-no-neko.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6071,
+        "aniId": 6071,
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

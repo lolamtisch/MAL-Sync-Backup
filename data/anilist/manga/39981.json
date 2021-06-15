@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Presents",
+    "プレゼント"
+  ],
+  "authors": [
+    "Kanako Inuki"
+  ],
+  "id": 39981,
+  "malId": 9981,
+  "type": "manga",
+  "title": "Present",
+  "url": "https://anilist.co/manga/39981",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39981-8nOkpLdYUGpn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:59.000Z",
+  "updatedAt": "2021-05-20T14:40:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5c16ce7b-5a0a-46be-b2da-28abda2e598c": {
+        "authors": [
+          "INUKI Kanako"
+        ],
+        "identifier": "5c16ce7b-5a0a-46be-b2da-28abda2e598c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Present",
+        "url": "https://mangadex.org/title/5c16ce7b-5a0a-46be-b2da-28abda2e598c",
+        "image": "https://uploads.mangadex.org/covers/5c16ce7b-5a0a-46be-b2da-28abda2e598c/8c6c9786-f7ad-459b-9b8a-58cbc56f2471.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9981,
+        "aniId": 39981,
+        "createdAt": "2020-10-12T16:13:25.000Z",
+        "updatedAt": "2021-06-05T21:07:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

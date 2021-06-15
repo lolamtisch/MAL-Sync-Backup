@@ -1,0 +1,60 @@
+{
+  "authors": [
+    "FUKUMOTO Nobuyuki"
+  ],
+  "identifier": "kaiji",
+  "type": "manga",
+  "page": "MangaFox",
+  "title": "Kaiji",
+  "url": "https://fanfox.net/manga/kaiji/",
+  "image": "https://fmcdn.mfcdn.net/store/manga/3147/cover.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": 1,
+  "malId": 94100,
+  "aniId": 96314,
+  "createdAt": "2021-03-30T08:31:33.000Z",
+  "updatedAt": "2021-05-20T15:40:31.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Kaiji Chapter 0",
+      "カイジ外伝"
+    ],
+    "authors": [
+      "Fukumoto, Nobuyuki"
+    ],
+    "id": 94100,
+    "type": "manga",
+    "title": "Kaiji Gaiden",
+    "url": "https://myanimelist.net/manga/94100/Kaiji_Gaiden",
+    "image": "https://cdn.myanimelist.net/images/manga/5/166814.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2021-03-30T08:31:32.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "カイジ外伝",
+      "Kaiji Chapter 0"
+    ],
+    "authors": [
+      "Nobuyuki Fukumoto"
+    ],
+    "id": 96314,
+    "malId": 94100,
+    "type": "manga",
+    "title": "Kaiji Gaiden",
+    "url": "https://anilist.co/manga/96314",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96314-ZW9mlrqLuR0a.png",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:53:50.000Z",
+    "updatedAt": "2021-05-20T14:53:50.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/94100/Kaiji_Gaiden"
+}

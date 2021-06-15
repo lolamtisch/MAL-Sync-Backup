@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "月光条例",
+    "Moonlight Act"
+  ],
+  "authors": [
+    "Kazuhiro Fujita"
+  ],
+  "id": 41614,
+  "malId": 11614,
+  "type": "manga",
+  "title": "Gekkou Jourei",
+  "url": "https://anilist.co/manga/41614",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41614-7XmqKrkxvA7b.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:11.000Z",
+  "updatedAt": "2021-05-20T14:42:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "180861c8-38af-4f5f-8e87-91cb16bd146d": {
+        "authors": [
+          "Fujita Kazuhiro"
+        ],
+        "identifier": "180861c8-38af-4f5f-8e87-91cb16bd146d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Moonlight Act",
+        "url": "https://mangadex.org/title/180861c8-38af-4f5f-8e87-91cb16bd146d",
+        "image": "https://uploads.mangadex.org/covers/180861c8-38af-4f5f-8e87-91cb16bd146d/c45ef1a6-c5b0-4fc2-8033-7efd205f37e6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11614,
+        "aniId": 41614,
+        "createdAt": "2020-10-12T16:08:12.000Z",
+        "updatedAt": "2021-06-04T08:22:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gb917565": {
+        "authors": [],
+        "identifier": "gb917565",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Moonlight Act",
+        "url": "https://manganelo.com/manga/gb917565",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21185-gb917565.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11614,
+        "aniId": 41614,
+        "createdAt": "2020-10-12T16:23:03.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cz980034": {
+        "authors": [
+          "Fujita Kazuhiro"
+        ],
+        "identifier": "manga-cz980034",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Moonlight Act",
+        "url": "https://manganato.com/manga-cz980034",
+        "image": "https://avt.mkklcdnv6temp.com/13/o/17-1583495753.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11614,
+        "aniId": 41614,
+        "createdAt": "2021-05-29T22:12:12.000Z",
+        "updatedAt": "2021-05-29T22:42:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "MEMORIZE",
+    "메모라이즈"
+  ],
+  "authors": [
+    "Jeong-Ha",
+    "Yu-Jin  Ro"
+  ],
+  "id": 124846,
+  "malId": null,
+  "type": "manga",
+  "title": "Memorize",
+  "url": "https://anilist.co/manga/124846",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124846-LbVOcyoiG0Yl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T00:12:57.000Z",
+  "updatedAt": "2021-06-08T03:20:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "87acdf66-30a9-4800-8a03-754c64e382b1": {
+        "authors": [
+          "Jeongha",
+          "Ro Yujin"
+        ],
+        "identifier": "87acdf66-30a9-4800-8a03-754c64e382b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MEMORIZE",
+        "url": "https://mangadex.org/title/87acdf66-30a9-4800-8a03-754c64e382b1",
+        "image": "https://uploads.mangadex.org/covers/87acdf66-30a9-4800-8a03-754c64e382b1/d5a04618-70d7-42a9-878f-3ce1b2b94578.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 124846,
+        "createdAt": "2020-10-12T16:21:49.000Z",
+        "updatedAt": "2021-06-08T06:43:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jo986949": {
+        "authors": [
+          "Jeongha",
+          "Ro Yujin"
+        ],
+        "identifier": "manga-jo986949",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Memorize",
+        "url": "https://readmanganato.com/manga-jo986949",
+        "image": "https://avt.mkklcdnv6temp.com/27/p/22-1602825472.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 124846,
+        "createdAt": "2021-05-29T04:12:25.000Z",
+        "updatedAt": "2021-05-29T04:12:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

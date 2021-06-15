@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Madoka's Secret",
+    "まどかのひみつ",
+    "The Secret of Madoka",
+    "Sekret Madoki",
+    "Madokas Geheimnis",
+    "El Secreto de Madoka"
+  ],
+  "authors": [
+    "Deme Kingyobachi",
+    "Nikolas Stirling"
+  ],
+  "id": 109224,
+  "malId": 120271,
+  "type": "manga",
+  "title": "Madoka no Himitsu",
+  "url": "https://anilist.co/manga/109224",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109224-9OzZJcbROVoQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:15.000Z",
+  "updatedAt": "2021-05-20T14:58:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5c7f1c2c-12d5-45c4-b9fc-4c40ed1d1fa7": {
+        "authors": [
+          "Kingyobachi Deme"
+        ],
+        "identifier": "5c7f1c2c-12d5-45c4-b9fc-4c40ed1d1fa7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Madoka no Himitsu",
+        "url": "https://mangadex.org/title/5c7f1c2c-12d5-45c4-b9fc-4c40ed1d1fa7",
+        "image": "https://uploads.mangadex.org/covers/5c7f1c2c-12d5-45c4-b9fc-4c40ed1d1fa7/85b7efae-295c-4260-a54a-b5da63b696fb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120271,
+        "aniId": 109224,
+        "createdAt": "2020-10-12T16:16:13.000Z",
+        "updatedAt": "2021-06-06T20:35:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "qe919468": {
+        "authors": [],
+        "identifier": "qe919468",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Madoka No Himitsu",
+        "url": "https://manganelo.com/manga/qe919468",
+        "image": "https://avt.mkklcdnv6.com/33/d/18-1583498369.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120271,
+        "aniId": 109224,
+        "createdAt": "2020-10-12T16:24:57.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

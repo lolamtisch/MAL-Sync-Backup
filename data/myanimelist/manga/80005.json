@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "SSS!"
+  ],
+  "authors": [
+    "hatsuko",
+    "Yamada, Yuumi"
+  ],
+  "id": 80005,
+  "type": "manga",
+  "title": "SSS!",
+  "url": "https://myanimelist.net/manga/80005/SSS",
+  "image": "https://cdn.myanimelist.net/images/manga/2/166273.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:34.000Z",
+  "updatedAt": "2021-05-11T15:12:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df2d9172-418b-49f3-8999-424210153bf0": {
+        "authors": [
+          "Hatsuko",
+          "Yamada Yuhmi"
+        ],
+        "identifier": "df2d9172-418b-49f3-8999-424210153bf0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "SSS!",
+        "url": "https://mangadex.org/title/df2d9172-418b-49f3-8999-424210153bf0",
+        "image": "https://uploads.mangadex.org/covers/df2d9172-418b-49f3-8999-424210153bf0/b948677d-add4-469f-b713-adfe8f5b75dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80005,
+        "aniId": 86944,
+        "createdAt": "2020-10-12T16:09:31.000Z",
+        "updatedAt": "2021-06-04T18:10:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

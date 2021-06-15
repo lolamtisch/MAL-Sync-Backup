@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "信長を殺した男",
+    "The man who killed Nobunaga",
+    "Nobunaga wo Koroshita Otoko ~Honnouji no Hen, 431-nenme no Shinjitsu~",
+    "The man who killed Nobunaga ~The truth of Honnouji incident found after 431 years~"
+  ],
+  "authors": [
+    "Yutaka Toudou",
+    "Kenzaburou Akechi"
+  ],
+  "id": 104917,
+  "malId": 107260,
+  "type": "manga",
+  "title": "Nobunaga wo Koroshita Otoko",
+  "url": "https://anilist.co/manga/104917",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104917-ktIUkNq9NTif.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:54.000Z",
+  "updatedAt": "2021-05-20T14:55:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb0e9e88-e44b-442a-9ad3-19099af31b76": {
+        "authors": [
+          "Akechi Kenzaburo",
+          "Todo Yutaka"
+        ],
+        "identifier": "bb0e9e88-e44b-442a-9ad3-19099af31b76",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Man who Killed Nobunaga",
+        "url": "https://mangadex.org/title/bb0e9e88-e44b-442a-9ad3-19099af31b76",
+        "image": "https://uploads.mangadex.org/covers/bb0e9e88-e44b-442a-9ad3-19099af31b76/7f1f9e9b-2c83-4a8a-90f3-597d9a8328bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107260,
+        "aniId": 104917,
+        "createdAt": "2020-10-12T16:17:13.000Z",
+        "updatedAt": "2021-06-07T05:59:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lq922478": {
+        "authors": [],
+        "identifier": "lq922478",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Man Who Killed Nobunaga",
+        "url": "https://manganelo.com/manga/lq922478",
+        "image": "https://avt.mkklcdnv6.com/45/n/20-1584549613.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107260,
+        "aniId": 104917,
+        "createdAt": "2020-10-12T16:24:11.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nobunaga_wo_koroshita_otoko": {
+        "authors": [
+          "AKECHI Kenzaburou"
+        ],
+        "identifier": "nobunaga_wo_koroshita_otoko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nobunaga wo Koroshita Otoko",
+        "url": "https://fanfox.net/manga/nobunaga_wo_koroshita_otoko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32969/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 107260,
+        "aniId": 104917,
+        "createdAt": "2021-01-11T13:52:14.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Le Portrait de Petit Cossette",
+    "コゼットの肖像"
+  ],
+  "authors": [
+    "Asuka Katsura"
+  ],
+  "id": 30406,
+  "malId": 406,
+  "type": "manga",
+  "title": "Cossette no Shouzou",
+  "url": "https://anilist.co/manga/30406",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30406-fhHUEvmbOLog.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "950ee757-68d6-40da-81f6-a7a9f5b9d09a": {
+        "authors": [
+          "KATSURA Asuka"
+        ],
+        "identifier": "950ee757-68d6-40da-81f6-a7a9f5b9d09a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cossette no Shouzou",
+        "url": "https://mangadex.org/title/950ee757-68d6-40da-81f6-a7a9f5b9d09a",
+        "image": "https://uploads.mangadex.org/covers/950ee757-68d6-40da-81f6-a7a9f5b9d09a/256d6209-d31c-4c34-a411-379225d1a5cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 406,
+        "aniId": 30406,
+        "createdAt": "2020-10-12T16:13:14.000Z",
+        "updatedAt": "2021-06-05T19:42:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "le_portrait_de_petite_cosette": {
+        "authors": [],
+        "identifier": "le_portrait_de_petite_cosette",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Le Portrait De Petite Cosette",
+        "url": "https://manganelo.com/manga/le_portrait_de_petite_cosette",
+        "image": "https://avt.mkklcdnv6.com/32/t/12-1583487053.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 406,
+        "aniId": 30406,
+        "createdAt": "2020-10-12T16:24:06.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

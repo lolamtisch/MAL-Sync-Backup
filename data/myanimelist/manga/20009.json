@@ -1,0 +1,102 @@
+{
+  "altTitle": [
+    "체크 메이트"
+  ],
+  "authors": [
+    "Kim, Yun-Jung"
+  ],
+  "id": 20009,
+  "type": "manga",
+  "title": "Checkmate",
+  "url": "https://myanimelist.net/manga/20009/Checkmate",
+  "image": "https://cdn.myanimelist.net/images/manga/1/31344.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:47.000Z",
+  "updatedAt": "2021-04-06T14:08:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "94b98b1b-0403-4650-bafa-c4df4ca60863": {
+        "authors": [
+          "KIM Yoon-Jung (김윤정)"
+        ],
+        "identifier": "94b98b1b-0403-4650-bafa-c4df4ca60863",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Checkmate",
+        "url": "https://mangadex.org/title/94b98b1b-0403-4650-bafa-c4df4ca60863",
+        "image": "https://uploads.mangadex.org/covers/94b98b1b-0403-4650-bafa-c4df4ca60863/a7c5b29f-8fa8-4515-8795-ee1e76d72249.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20009,
+        "aniId": 50009,
+        "createdAt": "2020-10-12T16:04:50.000Z",
+        "updatedAt": "2021-06-02T23:47:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "checkmate": {
+        "authors": [],
+        "identifier": "checkmate",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Checkmate",
+        "url": "https://manganelo.com/manga/checkmate",
+        "image": "https://avt.mkklcdnv6.com/34/g/6-1583475511.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20009,
+        "aniId": 50009,
+        "createdAt": "2020-10-12T16:22:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "checkmate_kim_sangyeop": {
+        "authors": [],
+        "identifier": "checkmate_kim_sangyeop",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Checkmate (Kim Sangyeop)",
+        "url": "https://manganelo.com/manga/checkmate_kim_sangyeop",
+        "image": "https://avt.mkklcdnv6.com/20/b/7-1583477019.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20009,
+        "aniId": 50009,
+        "createdAt": "2020-10-12T16:22:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "checkmate_kim_sangyeop": {
+        "authors": [
+          "KIM SangYeop"
+        ],
+        "identifier": "checkmate_kim_sangyeop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Checkmate (KIM SangYeop)",
+        "url": "https://fanfox.net/manga/checkmate_kim_sangyeop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8187/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20009,
+        "aniId": 50009,
+        "createdAt": "2021-04-06T14:08:16.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

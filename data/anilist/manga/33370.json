@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Derayd 界境天秤の月",
+    "デライド",
+    "界境天秤の月",
+    "Deraido Sinsouban"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 33370,
+  "malId": 3370,
+  "type": "manga",
+  "title": "Derayd",
+  "url": "https://anilist.co/manga/33370",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33370-KX5aMHKMyNsl.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:08.000Z",
+  "updatedAt": "2021-05-20T14:38:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "60bc0ef6-6383-4867-92e3-d58e2b2d8caa": {
+        "authors": [
+          "Akiyama Tamayo",
+          "Ohkawa Ageha",
+          "CLAMP"
+        ],
+        "identifier": "60bc0ef6-6383-4867-92e3-d58e2b2d8caa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Derayd - Kaikyoutenbin no Tsuki",
+        "url": "https://mangadex.org/title/60bc0ef6-6383-4867-92e3-d58e2b2d8caa",
+        "image": "https://uploads.mangadex.org/covers/60bc0ef6-6383-4867-92e3-d58e2b2d8caa/35dd243d-2759-4293-bce5-6679db723d86.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3370,
+        "aniId": 33370,
+        "createdAt": "2020-10-12T16:05:57.000Z",
+        "updatedAt": "2021-06-03T16:06:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "G"
+  ],
+  "authors": [
+    "Keiichi Koike"
+  ],
+  "id": 65475,
+  "malId": 35475,
+  "type": "manga",
+  "title": "G",
+  "url": "https://anilist.co/manga/65475",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65475-LKqPJcQZps3C.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:25.000Z",
+  "updatedAt": "2021-05-20T14:48:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4a284387-b2d0-4b4f-babd-64101ab4404c": {
+        "authors": [
+          "Koike Keiichi"
+        ],
+        "identifier": "4a284387-b2d0-4b4f-babd-64101ab4404c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "G (KOIKE Keiichi)",
+        "url": "https://mangadex.org/title/4a284387-b2d0-4b4f-babd-64101ab4404c",
+        "image": "https://uploads.mangadex.org/covers/4a284387-b2d0-4b4f-babd-64101ab4404c/8361f4c7-a393-4811-81fa-15782493f871.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35475,
+        "aniId": 65475,
+        "createdAt": "2020-10-12T16:05:06.000Z",
+        "updatedAt": "2021-06-03T10:11:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

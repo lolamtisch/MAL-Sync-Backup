@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ハル",
+    "Haru"
+  ],
+  "authors": [
+    "Umi Ayase"
+  ],
+  "id": 79611,
+  "malId": 49611,
+  "type": "manga",
+  "title": "Hal",
+  "url": "https://anilist.co/manga/79611",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79611-1TfXN9wliISP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:42.000Z",
+  "updatedAt": "2021-05-20T14:49:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "65ddd32a-39ae-493c-bf35-059c34a8c6ee": {
+        "authors": [
+          "AYASE Umi"
+        ],
+        "identifier": "65ddd32a-39ae-493c-bf35-059c34a8c6ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hal",
+        "url": "https://mangadex.org/title/65ddd32a-39ae-493c-bf35-059c34a8c6ee",
+        "image": "https://uploads.mangadex.org/covers/65ddd32a-39ae-493c-bf35-059c34a8c6ee/b1ff1fb0-4170-4017-8157-ad7928e1af08.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49611,
+        "aniId": 79611,
+        "createdAt": "2020-10-12T16:06:12.000Z",
+        "updatedAt": "2021-06-03T17:58:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

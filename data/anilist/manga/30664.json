@@ -1,0 +1,153 @@
+{
+  "altTitle": [
+    "Akira",
+    "AKIRA",
+    "アキラ"
+  ],
+  "authors": [
+    "Katsuhiro Ootomo",
+    "Satoshi Takabatake",
+    "Satoshi Kon",
+    "Yoko Umezawa",
+    "Drik Sada",
+    "Erika Huang",
+    "Paweł Dybała"
+  ],
+  "id": 30664,
+  "malId": 664,
+  "type": "manga",
+  "title": "Akira",
+  "url": "https://anilist.co/manga/30664",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30664-JJq9tosQvlpW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:41.000Z",
+  "updatedAt": "2021-05-29T19:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "175cf215-2122-4656-9fac-37ac092438af": {
+        "authors": [
+          "Otomo Katsuhiro"
+        ],
+        "identifier": "175cf215-2122-4656-9fac-37ac092438af",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akira",
+        "url": "https://mangadex.org/title/175cf215-2122-4656-9fac-37ac092438af",
+        "image": "https://uploads.mangadex.org/covers/175cf215-2122-4656-9fac-37ac092438af/e1a36807-4470-42ad-b911-29d14bb8e83f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 664,
+        "aniId": 30664,
+        "createdAt": "2020-10-12T16:03:36.000Z",
+        "updatedAt": "2021-06-02T15:09:13.000Z",
+        "deletedAt": null
+      },
+      "62eb44cb-54ce-488d-b4e0-9955d1bd85fa": {
+        "authors": [
+          "Hakutou Noriko"
+        ],
+        "identifier": "62eb44cb-54ce-488d-b4e0-9955d1bd85fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kirakira-kun to Imaichi-kun",
+        "url": "https://mangadex.org/title/62eb44cb-54ce-488d-b4e0-9955d1bd85fa",
+        "image": "https://uploads.mangadex.org/covers/62eb44cb-54ce-488d-b4e0-9955d1bd85fa/06e3c360-6236-46db-a6ce-2ee77c3e67be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 664,
+        "aniId": 30664,
+        "createdAt": "2020-10-12T16:15:45.000Z",
+        "updatedAt": "2021-06-06T16:34:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akira": {
+        "authors": [],
+        "identifier": "akira",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akira",
+        "url": "https://manganelo.com/manga/akira",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7864-akira.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 664,
+        "aniId": 30664,
+        "createdAt": "2020-10-12T16:22:03.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "on919866": {
+        "authors": [],
+        "identifier": "on919866",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dankira!!!",
+        "url": "https://manganelo.com/manga/on919866",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1270-on919866.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 664,
+        "aniId": 30664,
+        "createdAt": "2020-10-12T16:24:41.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "akira": {
+        "authors": [
+          "OTOMO Katsuhiro"
+        ],
+        "identifier": "akira",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akira",
+        "url": "https://mangasee123.com/manga/Akira",
+        "image": "https://cover.nep.li/cover/Akira.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 664,
+        "aniId": 30664,
+        "createdAt": "2020-12-15T07:19:03.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "akira": {
+        "authors": [
+          "OTOMO Katsuhiro"
+        ],
+        "identifier": "akira",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akira",
+        "url": "https://fanfox.net/manga/akira/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/112/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 664,
+        "aniId": 30664,
+        "createdAt": "2021-03-22T20:05:06.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

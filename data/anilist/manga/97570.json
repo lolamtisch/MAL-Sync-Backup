@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "ラムネのシャララ",
+    "Ramune no Sharara",
+    "Shalala of Ramune"
+  ],
+  "authors": [
+    "Tohru Tagura"
+  ],
+  "id": 97570,
+  "malId": 100616,
+  "type": "manga",
+  "title": "Ramune no Shalala",
+  "url": "https://anilist.co/manga/97570",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97570-Dy6rlawI5ZTR.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:49.000Z",
+  "updatedAt": "2021-05-20T14:54:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "43e80865-de2a-456e-9905-fea1e90af504": {
+        "authors": [
+          "Tagura Tohru"
+        ],
+        "identifier": "43e80865-de2a-456e-9905-fea1e90af504",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ramune no Shalala",
+        "url": "https://mangadex.org/title/43e80865-de2a-456e-9905-fea1e90af504",
+        "image": "https://uploads.mangadex.org/covers/43e80865-de2a-456e-9905-fea1e90af504/72d0bc03-dcd1-4483-b401-0d2f13717f5e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100616,
+        "aniId": 97570,
+        "createdAt": "2020-10-12T16:10:16.000Z",
+        "updatedAt": "2021-06-04T23:31:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ramune_no_shalala": {
+        "authors": [
+          "Tagura",
+          "Tooru"
+        ],
+        "identifier": "ramune_no_shalala",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ramune No Shalala",
+        "url": "https://manganelo.com/manga/ramune_no_shalala",
+        "image": "https://avt.mkklcdnv6temp.com/16/v/14-1583490353.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100616,
+        "aniId": 97570,
+        "createdAt": "2021-05-21T13:44:21.000Z",
+        "updatedAt": "2021-05-21T14:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

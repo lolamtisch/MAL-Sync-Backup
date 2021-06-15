@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "スキャンダラス",
+    "Sukyandarasu"
+  ],
+  "authors": [
+    "Noriko Kanou"
+  ],
+  "id": 34317,
+  "malId": 4317,
+  "type": "manga",
+  "title": "Scandalous",
+  "url": "https://anilist.co/manga/34317",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34317-vyIpw0EMFccc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:28.000Z",
+  "updatedAt": "2021-05-20T14:38:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac289850-d086-4e1e-b516-b85fd73c6f56": {
+        "authors": [
+          "Kanou Noriko"
+        ],
+        "identifier": "ac289850-d086-4e1e-b516-b85fd73c6f56",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Scandalous",
+        "url": "https://mangadex.org/title/ac289850-d086-4e1e-b516-b85fd73c6f56",
+        "image": "https://uploads.mangadex.org/covers/ac289850-d086-4e1e-b516-b85fd73c6f56/26502e60-38b7-498b-a76f-c812509cdd29.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4317,
+        "aniId": 34317,
+        "createdAt": "2020-10-12T16:06:55.000Z",
+        "updatedAt": "2021-06-03T23:04:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

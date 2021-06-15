@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ランドリオール",
+    "Landreall"
+  ],
+  "authors": [
+    "Chika Ogaki"
+  ],
+  "id": 38751,
+  "malId": 8751,
+  "type": "manga",
+  "title": "Landreaall",
+  "url": "https://anilist.co/manga/38751",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38751-1SeWQcAMiBNZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "32670913-6c26-4a7c-9256-cc2c635e1c29": {
+        "authors": [
+          "OGAKI Chika"
+        ],
+        "identifier": "32670913-6c26-4a7c-9256-cc2c635e1c29",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Landreaall",
+        "url": "https://mangadex.org/title/32670913-6c26-4a7c-9256-cc2c635e1c29",
+        "image": "https://uploads.mangadex.org/covers/32670913-6c26-4a7c-9256-cc2c635e1c29/c0e61cc6-e43d-428b-99c5-b372b6baf696.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8751,
+        "aniId": 38751,
+        "createdAt": "2020-10-12T16:04:21.000Z",
+        "updatedAt": "2021-06-02T20:35:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dreamland": {
+        "authors": [],
+        "identifier": "dreamland",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dreamland",
+        "url": "https://manganelo.com/manga/dreamland",
+        "image": "https://avt.mkklcdnv6.com/11/t/1-1583464120.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8751,
+        "aniId": 38751,
+        "createdAt": "2020-10-12T16:22:44.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

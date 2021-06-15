@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "チャイルド・エピキュリアン"
+  ],
+  "authors": [
+    "Haruka Minami"
+  ],
+  "id": 32035,
+  "malId": 2035,
+  "type": "manga",
+  "title": "Child Epicurean",
+  "url": "https://anilist.co/manga/32035",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2035.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "child_epicurean": {
+        "authors": [
+          "MINAMI Haruka"
+        ],
+        "identifier": "child_epicurean",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Child Epicurean",
+        "url": "https://fanfox.net/manga/child_epicurean/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2899/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2035,
+        "aniId": 32035,
+        "createdAt": "2021-01-28T10:49:53.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Complex Age",
+    "コンプレックス・エイジ"
+  ],
+  "authors": [
+    "Sakuma, Yui"
+  ],
+  "id": 73923,
+  "type": "manga",
+  "title": "Complex Age",
+  "url": "https://myanimelist.net/manga/73923/Complex_Age",
+  "image": "https://cdn.myanimelist.net/images/manga/2/139583.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:21.000Z",
+  "updatedAt": "2021-04-21T18:57:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e87db93c-6af1-4dc2-a20d-57e59e12e4ea": {
+        "authors": [
+          "Sakuma Yui"
+        ],
+        "identifier": "e87db93c-6af1-4dc2-a20d-57e59e12e4ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Complex Age",
+        "url": "https://mangadex.org/title/e87db93c-6af1-4dc2-a20d-57e59e12e4ea",
+        "image": "https://uploads.mangadex.org/covers/e87db93c-6af1-4dc2-a20d-57e59e12e4ea/ba1124f2-6ae5-41a9-b83e-371fb7c0fb49.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73923,
+        "aniId": 86515,
+        "createdAt": "2020-10-12T16:08:12.000Z",
+        "updatedAt": "2021-06-04T08:20:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "complex-age": {
+        "authors": [
+          "SAKUMA Yui"
+        ],
+        "identifier": "complex-age",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Complex Age",
+        "url": "https://mangasee123.com/manga/Complex-Age",
+        "image": "https://cover.nep.li/cover/Complex-Age.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73923,
+        "aniId": 86515,
+        "createdAt": "2021-04-21T18:57:39.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

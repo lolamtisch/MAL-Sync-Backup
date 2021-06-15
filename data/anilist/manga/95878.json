@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "yobo Nyan",
+    "しょぼにゃん",
+    "Syobo Nyan",
+    "Shobonyan"
+  ],
+  "authors": [],
+  "id": 95878,
+  "malId": 92547,
+  "type": "manga",
+  "title": "Shobo-nyan",
+  "url": "https://anilist.co/manga/95878",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95878-hlOhYhH5utEB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:40.000Z",
+  "updatedAt": "2021-05-20T14:53:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0fe716b8-ad54-48b1-9c81-13d0894ecebb": {
+        "authors": [
+          "Ichikawa Dan"
+        ],
+        "identifier": "0fe716b8-ad54-48b1-9c81-13d0894ecebb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shobo Shobo Man",
+        "url": "https://mangadex.org/title/0fe716b8-ad54-48b1-9c81-13d0894ecebb",
+        "image": "https://uploads.mangadex.org/covers/0fe716b8-ad54-48b1-9c81-13d0894ecebb/6470a0cd-c011-4093-9e09-a9131496a173.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92547,
+        "aniId": 95878,
+        "createdAt": "2020-10-12T16:14:49.000Z",
+        "updatedAt": "2021-06-06T08:13:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

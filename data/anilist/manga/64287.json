@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "かなめエトワール",
+    "Kaname Etoile",
+    "Futari",
+    "Kataomoi"
+  ],
+  "authors": [
+    "Kayoru"
+  ],
+  "id": 64287,
+  "malId": 34287,
+  "type": "manga",
+  "title": "Kaname étoile",
+  "url": "https://anilist.co/manga/64287",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/34287.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:57.000Z",
+  "updatedAt": "2021-05-20T14:47:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c16768e7-6e09-4395-be78-870faec4dde1": {
+        "authors": [
+          "Kayoru"
+        ],
+        "identifier": "c16768e7-6e09-4395-be78-870faec4dde1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaname Étoile",
+        "url": "https://mangadex.org/title/c16768e7-6e09-4395-be78-870faec4dde1",
+        "image": "https://uploads.mangadex.org/covers/c16768e7-6e09-4395-be78-870faec4dde1/5a443243-028a-4fdf-a0b7-ab11a3f57a70.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34287,
+        "aniId": 64287,
+        "createdAt": "2020-10-12T16:03:44.000Z",
+        "updatedAt": "2021-06-02T16:09:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

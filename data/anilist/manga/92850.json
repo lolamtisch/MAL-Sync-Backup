@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "雨がやむ頃に",
+    "When the rain stops"
+  ],
+  "authors": [
+    "Yurie Ono",
+    "Hikari Adachihara"
+  ],
+  "id": 92850,
+  "malId": 79453,
+  "type": "manga",
+  "title": "Ame ga Yamu Koro ni",
+  "url": "https://anilist.co/manga/92850",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92850-vJAo2h2MpJKH.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:55.000Z",
+  "updatedAt": "2021-05-20T14:51:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7440dc76-df88-4f92-8c12-c264ed7fc244": {
+        "authors": [
+          "Adachihara Hikari",
+          "Ono Yurie"
+        ],
+        "identifier": "7440dc76-df88-4f92-8c12-c264ed7fc244",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ame ga Yamu koro ni",
+        "url": "https://mangadex.org/title/7440dc76-df88-4f92-8c12-c264ed7fc244",
+        "image": "https://uploads.mangadex.org/covers/7440dc76-df88-4f92-8c12-c264ed7fc244/4be067de-d131-4de1-a068-b00912d2fd4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79453,
+        "aniId": 92850,
+        "createdAt": "2020-10-12T16:08:08.000Z",
+        "updatedAt": "2021-06-04T07:42:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

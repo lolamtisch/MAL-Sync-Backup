@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "だって君は、幼なじみ"
+  ],
+  "authors": [
+    "Yuko Inari"
+  ],
+  "id": 105022,
+  "malId": 116281,
+  "type": "manga",
+  "title": "Datte Kimi wa, Osananajimi",
+  "url": "https://anilist.co/manga/105022",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105022-XA5nUYUGh5zW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:23.000Z",
+  "updatedAt": "2021-05-20T14:57:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ac28b5f-2060-47ea-973a-63775b73ee31": {
+        "authors": [
+          "INARI Yuuko"
+        ],
+        "identifier": "0ac28b5f-2060-47ea-973a-63775b73ee31",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Datte Kimi Wa, Osananajimi",
+        "url": "https://mangadex.org/title/0ac28b5f-2060-47ea-973a-63775b73ee31",
+        "image": "https://uploads.mangadex.org/covers/0ac28b5f-2060-47ea-973a-63775b73ee31/ec6a6a5a-b2dd-4aff-8731-3a210a3e97a5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116281,
+        "aniId": 105022,
+        "createdAt": "2020-10-12T16:14:09.000Z",
+        "updatedAt": "2021-06-06T02:58:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zh919019": {
+        "authors": [],
+        "identifier": "zh919019",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Because You're Always By My Side.",
+        "url": "https://manganelo.com/manga/zh919019",
+        "image": "https://avt.mkklcdnv6.com/16/r/18-1583497738.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116281,
+        "aniId": 105022,
+        "createdAt": "2020-10-12T16:26:31.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "アニマル♂ジャングル",
+    "Saikyou Venus",
+    "Strongest Venus",
+    "Gokujyou Bidanshi",
+    "Animal Jungle"
+  ],
+  "authors": [
+    "Nana Shiiba"
+  ],
+  "id": 34196,
+  "malId": 4196,
+  "type": "manga",
+  "title": "Animal♂Jungle",
+  "url": "https://anilist.co/manga/34196",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4196.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:26.000Z",
+  "updatedAt": "2021-05-20T14:38:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dcaf0aca-bba4-4564-b8cf-40c1ad7a7f8b": {
+        "authors": [
+          "Shiiba Nana"
+        ],
+        "identifier": "dcaf0aca-bba4-4564-b8cf-40c1ad7a7f8b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Animal Jungle",
+        "url": "https://mangadex.org/title/dcaf0aca-bba4-4564-b8cf-40c1ad7a7f8b",
+        "image": "https://uploads.mangadex.org/covers/dcaf0aca-bba4-4564-b8cf-40c1ad7a7f8b/4985a175-ec76-4909-afe1-e16de9b75a87.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4196,
+        "aniId": 34196,
+        "createdAt": "2020-10-12T16:03:58.000Z",
+        "updatedAt": "2021-06-02T17:43:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "animal_jungle": {
+        "authors": [
+          "SHIIBA Nana"
+        ],
+        "identifier": "animal_jungle",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Animal Jungle",
+        "url": "https://fanfox.net/manga/animal_jungle/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/761/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4196,
+        "aniId": 34196,
+        "createdAt": "2021-02-03T02:01:46.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

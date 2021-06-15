@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "三者三葉",
+    "Three Leaves, Three Colors",
+    "Three-person Trefoil"
+  ],
+  "authors": [
+    "Cherry Arai"
+  ],
+  "id": 50140,
+  "malId": 20140,
+  "type": "manga",
+  "title": "Sansha Sanyou",
+  "url": "https://anilist.co/manga/50140",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50140-PPtx3IS9Pb2A.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6e22e1d2-b45e-4e55-b306-51c9e12e34f6": {
+        "authors": [
+          "Arai Cherry"
+        ],
+        "identifier": "6e22e1d2-b45e-4e55-b306-51c9e12e34f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sansha Sanyou",
+        "url": "https://mangadex.org/title/6e22e1d2-b45e-4e55-b306-51c9e12e34f6",
+        "image": "https://uploads.mangadex.org/covers/6e22e1d2-b45e-4e55-b306-51c9e12e34f6/a578d989-249b-42d7-8aa0-d74ad7eded3d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20140,
+        "aniId": 50140,
+        "createdAt": "2020-10-12T16:07:48.000Z",
+        "updatedAt": "2021-06-04T05:24:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sansha_sanyou": {
+        "authors": [],
+        "identifier": "sansha_sanyou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sansha Sanyou",
+        "url": "https://manganelo.com/manga/sansha_sanyou",
+        "image": "https://avt.mkklcdnv6.com/47/v/13-1583489511.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20140,
+        "aniId": 50140,
+        "createdAt": "2020-10-12T16:25:18.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

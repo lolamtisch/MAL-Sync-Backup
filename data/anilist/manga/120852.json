@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "隠し部屋",
+    "Hidden Room"
+  ],
+  "authors": [
+    "Naomoto Sakaki"
+  ],
+  "id": 120852,
+  "malId": null,
+  "type": "manga",
+  "title": "Kakushibeya",
+  "url": "https://anilist.co/manga/120852",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120852-x7bJtz3CHLIk.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-07T23:51:24.000Z",
+  "updatedAt": "2021-06-07T23:51:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ae5a84d-b931-40d8-8567-7e45ce474302": {
+        "authors": [
+          "Sakaki Naomoto"
+        ],
+        "identifier": "3ae5a84d-b931-40d8-8567-7e45ce474302",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hidden Room",
+        "url": "https://mangadex.org/title/3ae5a84d-b931-40d8-8567-7e45ce474302",
+        "image": "https://uploads.mangadex.org/covers/3ae5a84d-b931-40d8-8567-7e45ce474302/be54897b-eb68-4ba9-937a-e4b3b1c0ee4e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120852,
+        "createdAt": "2020-10-12T16:20:08.000Z",
+        "updatedAt": "2021-06-08T00:23:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

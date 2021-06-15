@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "それが声優！"
+  ],
+  "authors": [
+    "Masumi Asano",
+    "Kenjiro Hata"
+  ],
+  "id": 63143,
+  "malId": 33143,
+  "type": "manga",
+  "title": "Sore ga Seiyuu!",
+  "url": "https://anilist.co/manga/63143",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33143.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:54.000Z",
+  "updatedAt": "2021-05-20T14:47:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f22387a0-ed27-49ef-abcf-c79d7cdf9ab6": {
+        "authors": [
+          "Hata Kenjiro",
+          "Asano Masumi"
+        ],
+        "identifier": "f22387a0-ed27-49ef-abcf-c79d7cdf9ab6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sore ga Seiyuu!",
+        "url": "https://mangadex.org/title/f22387a0-ed27-49ef-abcf-c79d7cdf9ab6",
+        "image": "https://uploads.mangadex.org/covers/f22387a0-ed27-49ef-abcf-c79d7cdf9ab6/5ab426a1-05e4-43ea-b793-b26401812efe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33143,
+        "aniId": 63143,
+        "createdAt": "2020-10-12T16:08:48.000Z",
+        "updatedAt": "2021-06-04T12:54:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sore_ga_seiyuu": {
+        "authors": [
+          "Asano",
+          "Masumi"
+        ],
+        "identifier": "sore_ga_seiyuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sore Ga Seiyuu!",
+        "url": "https://manganelo.com/manga/sore_ga_seiyuu",
+        "image": "https://avt.mkklcdnv6.com/30/f/1-1583464883.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33143,
+        "aniId": 63143,
+        "createdAt": "2020-12-19T19:26:24.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

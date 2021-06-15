@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Legendz",
+    "レジェンズ"
+  ],
+  "authors": [
+    "Rin Hirai",
+    "Makoto Haruno"
+  ],
+  "id": 34607,
+  "malId": 4607,
+  "type": "manga",
+  "title": "Legendz",
+  "url": "https://anilist.co/manga/34607",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4607.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3a3bd62b-c6d3-4b30-94c2-78d471f0c67c": {
+        "authors": [
+          "Hirai Rin",
+          "Haruno Makoto"
+        ],
+        "identifier": "3a3bd62b-c6d3-4b30-94c2-78d471f0c67c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Legendz",
+        "url": "https://mangadex.org/title/3a3bd62b-c6d3-4b30-94c2-78d471f0c67c",
+        "image": "https://uploads.mangadex.org/covers/3a3bd62b-c6d3-4b30-94c2-78d471f0c67c/d60f3352-16c2-4bc4-af3a-fbd399c78ff2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4607,
+        "aniId": 34607,
+        "createdAt": "2020-10-12T16:12:10.000Z",
+        "updatedAt": "2021-06-05T13:52:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

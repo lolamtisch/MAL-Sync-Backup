@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Biscuit"
+  ],
+  "authors": [
+    "Seung-Hee Kye"
+  ],
+  "id": 46895,
+  "malId": 16895,
+  "type": "manga",
+  "title": "Biscuit",
+  "url": "https://anilist.co/manga/46895",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16895.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acf8a8b1-57c6-481e-adf8-2a9dad9f3ba0": {
+        "authors": [
+          "Kye Seung Hui"
+        ],
+        "identifier": "acf8a8b1-57c6-481e-adf8-2a9dad9f3ba0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Biscuit",
+        "url": "https://mangadex.org/title/acf8a8b1-57c6-481e-adf8-2a9dad9f3ba0",
+        "image": "https://uploads.mangadex.org/covers/acf8a8b1-57c6-481e-adf8-2a9dad9f3ba0/a9306d98-8f28-40e6-ba16-41ec1a49bf74.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16895,
+        "aniId": 46895,
+        "createdAt": "2020-10-12T16:03:31.000Z",
+        "updatedAt": "2021-06-02T14:33:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "君の香り",
+    "Your Fragrance"
+  ],
+  "authors": [
+    "Ruruu Minase"
+  ],
+  "id": 56385,
+  "malId": 26385,
+  "type": "manga",
+  "title": "Kimi no Kaori",
+  "url": "https://anilist.co/manga/56385",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56385-8F3BVu0Q49Oc.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T07:20:49.000Z",
+  "updatedAt": "2021-06-04T07:20:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "716e00da-6262-4121-aa28-125ba6f10bbe": {
+        "authors": [
+          "Minase Ruruu"
+        ],
+        "identifier": "716e00da-6262-4121-aa28-125ba6f10bbe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Your Fragrance",
+        "url": "https://mangadex.org/title/716e00da-6262-4121-aa28-125ba6f10bbe",
+        "image": "https://uploads.mangadex.org/covers/716e00da-6262-4121-aa28-125ba6f10bbe/08da6354-22a7-432a-b44b-57668cdf578a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26385,
+        "aniId": 56385,
+        "createdAt": "2020-10-12T16:08:00.000Z",
+        "updatedAt": "2021-06-04T08:55:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

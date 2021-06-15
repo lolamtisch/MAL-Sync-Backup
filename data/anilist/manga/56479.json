@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "prism"
+  ],
+  "authors": [
+    "Shou Higashiyama"
+  ],
+  "id": 56479,
+  "malId": 26479,
+  "type": "manga",
+  "title": "prism",
+  "url": "https://anilist.co/manga/56479",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56479-MrlhEThOMgyc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:02.000Z",
+  "updatedAt": "2021-05-20T14:47:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ea59fc9-b13d-4e5a-8cf9-daf4d3160e4c": {
+        "authors": [
+          "Higashiyama Shou"
+        ],
+        "identifier": "5ea59fc9-b13d-4e5a-8cf9-daf4d3160e4c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Prism",
+        "url": "https://mangadex.org/title/5ea59fc9-b13d-4e5a-8cf9-daf4d3160e4c",
+        "image": "https://uploads.mangadex.org/covers/5ea59fc9-b13d-4e5a-8cf9-daf4d3160e4c/9789f2da-09ed-4c95-b506-6c4612f09fc8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26479,
+        "aniId": 56479,
+        "createdAt": "2020-10-12T16:04:36.000Z",
+        "updatedAt": "2021-06-02T22:08:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "prism_higashiyama_shou": {
+        "authors": [],
+        "identifier": "prism_higashiyama_shou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Prism (Higashiyama Shou)",
+        "url": "https://manganelo.com/manga/prism_higashiyama_shou",
+        "image": "https://avt.mkklcdnv6.com/21/i/4-1583470544.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26479,
+        "aniId": 56479,
+        "createdAt": "2020-10-12T16:24:54.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "prism_higashiyama_shou": {
+        "authors": [
+          "HIGASHIYAMA Shou"
+        ],
+        "identifier": "prism_higashiyama_shou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Prism (HIGASHIYAMA Shou)",
+        "url": "https://fanfox.net/manga/prism_higashiyama_shou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9709/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26479,
+        "aniId": 56479,
+        "createdAt": "2021-04-15T17:46:22.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

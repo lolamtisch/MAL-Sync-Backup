@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "青少年のための江口寿史入門",
+    "A Young Person's Guide to Eguchi Hisashi",
+    "Okamoto Aya"
+  ],
+  "authors": [
+    "Hisashi Eguchi"
+  ],
+  "id": 80075,
+  "malId": 50075,
+  "type": "manga",
+  "title": "Seishounen no Tame no Eguchi Hisashi Nyuumon",
+  "url": "https://anilist.co/manga/80075",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50075.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:46.000Z",
+  "updatedAt": "2021-05-20T14:49:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aec70392-55e6-4969-900a-a4266778300a": {
+        "authors": [
+          "EGUCHI Hisashi"
+        ],
+        "identifier": "aec70392-55e6-4969-900a-a4266778300a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Okamoto Aya",
+        "url": "https://mangadex.org/title/aec70392-55e6-4969-900a-a4266778300a",
+        "image": "https://uploads.mangadex.org/covers/aec70392-55e6-4969-900a-a4266778300a/2f9aecb0-8605-4e99-8101-e2fb7c005781.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50075,
+        "aniId": 80075,
+        "createdAt": "2020-10-12T16:03:03.000Z",
+        "updatedAt": "2021-06-02T11:22:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

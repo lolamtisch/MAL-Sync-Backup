@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "クロコーチ",
+    "Kurokōchi",
+    "Kurokoochi",
+    "Kurokochi"
+  ],
+  "authors": [
+    "Takashi Nagasaki",
+    "Kouji Kouno"
+  ],
+  "id": 89629,
+  "malId": 62957,
+  "type": "manga",
+  "title": "Kurokouchi",
+  "url": "https://anilist.co/manga/89629",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89629-NzHR7I8TdjHO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:47.000Z",
+  "updatedAt": "2021-05-20T14:50:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f809955a-2059-4a1b-bf8d-4ec0199697bb": {
+        "authors": [
+          "Kouno Kouji",
+          "Takashi Nagasaki"
+        ],
+        "identifier": "f809955a-2059-4a1b-bf8d-4ec0199697bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inspector Kurokochi",
+        "url": "https://mangadex.org/title/f809955a-2059-4a1b-bf8d-4ec0199697bb",
+        "image": "https://uploads.mangadex.org/covers/f809955a-2059-4a1b-bf8d-4ec0199697bb/3d0520e0-e51d-452f-9ec5-fa532341b257.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 62957,
+        "aniId": 89629,
+        "createdAt": "2020-10-12T16:13:35.000Z",
+        "updatedAt": "2021-06-05T22:31:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "inspector_kurokouchi": {
+        "authors": [],
+        "identifier": "inspector_kurokouchi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Inspector Kurokouchi",
+        "url": "https://manganelo.com/manga/inspector_kurokouchi",
+        "image": "https://avt.mkklcdnv6.com/40/w/16-1583494931.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 62957,
+        "aniId": 89629,
+        "createdAt": "2020-10-12T16:23:34.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

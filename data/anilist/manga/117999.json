@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "레이디 프로젝트",
+    "Leidi Peulojegteu"
+  ],
+  "authors": [
+    "Hong & Dam"
+  ],
+  "id": 117999,
+  "malId": null,
+  "type": "manga",
+  "title": "Lady Project",
+  "url": "https://anilist.co/manga/117999",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117999-dekWaHVdTmZ6.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T13:36:10.000Z",
+  "updatedAt": "2021-06-07T13:36:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "889099ce-7a70-4c87-9d06-952e7c313ce5": {
+        "authors": [
+          "Hong",
+          "Dam"
+        ],
+        "identifier": "889099ce-7a70-4c87-9d06-952e7c313ce5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Lady Project",
+        "url": "https://mangadex.org/title/889099ce-7a70-4c87-9d06-952e7c313ce5",
+        "image": "https://uploads.mangadex.org/covers/889099ce-7a70-4c87-9d06-952e7c313ce5/34a492c3-4e28-451d-bea5-449346ed44ef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117999,
+        "createdAt": "2020-10-12T16:18:02.000Z",
+        "updatedAt": "2021-06-07T13:42:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

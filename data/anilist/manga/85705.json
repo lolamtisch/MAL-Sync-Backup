@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "인생은 강호",
+    "Life Ho",
+    "Life-Ho"
+  ],
+  "authors": [
+    "Sung-Soo Wie"
+  ],
+  "id": 85705,
+  "malId": 58033,
+  "type": "manga",
+  "title": "Insaeng-eun Gangho",
+  "url": "https://anilist.co/manga/85705",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b85705-9A8lajOLeu0R.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:32.000Z",
+  "updatedAt": "2021-05-20T14:50:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1d484ae6-4379-43e7-8b5a-9509a9f5d86f": {
+        "authors": [
+          "Ji Won",
+          "Wie Sung-Soo"
+        ],
+        "identifier": "1d484ae6-4379-43e7-8b5a-9509a9f5d86f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Life Ho",
+        "url": "https://mangadex.org/title/1d484ae6-4379-43e7-8b5a-9509a9f5d86f",
+        "image": "https://uploads.mangadex.org/covers/1d484ae6-4379-43e7-8b5a-9509a9f5d86f/4ba21c6a-06dd-43bd-85f4-b58ccb169abb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 58033,
+        "aniId": 85705,
+        "createdAt": "2020-10-12T16:06:43.000Z",
+        "updatedAt": "2021-06-03T22:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "life_ho": {
+        "authors": [
+          "Sung-Soo Wie"
+        ],
+        "identifier": "life_ho",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Life Ho",
+        "url": "https://fanfox.net/manga/life_ho/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13055/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58033,
+        "aniId": 85705,
+        "createdAt": "2021-04-13T21:16:07.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "life-ho": {
+        "authors": [
+          "Ji Won",
+          "WIE Sung-Soo"
+        ],
+        "identifier": "life-ho",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Life Ho",
+        "url": "https://mangasee123.com/manga/Life-Ho",
+        "image": "https://cover.nep.li/cover/Life-Ho.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58033,
+        "aniId": 85705,
+        "createdAt": "2021-05-11T15:18:06.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

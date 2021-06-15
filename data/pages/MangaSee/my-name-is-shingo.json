@@ -1,0 +1,63 @@
+{
+  "authors": [
+    "UMEZU Kazuo"
+  ],
+  "identifier": "my-name-is-shingo",
+  "type": "manga",
+  "page": "MangaSee",
+  "title": "My Name Is Shingo",
+  "url": "https://mangasee123.com/manga/My-Name-Is-Shingo",
+  "image": "https://cover.nep.li/cover/My-Name-Is-Shingo.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 24646,
+  "aniId": 54646,
+  "createdAt": "2021-05-13T18:25:42.000Z",
+  "updatedAt": "2021-05-20T15:40:04.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "My Name is Shingo",
+      "わたしは真悟"
+    ],
+    "authors": [
+      "Umezu, Kazuo"
+    ],
+    "id": 24646,
+    "type": "manga",
+    "title": "Watashi wa Shingo",
+    "url": "https://myanimelist.net/manga/24646/Watashi_wa_Shingo",
+    "image": "https://cdn.myanimelist.net/images/manga/5/39878.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:43:14.000Z",
+    "updatedAt": "2021-05-13T18:25:42.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "わたしは真悟",
+      "My Name is Shingo",
+      "Io sono Shingo",
+      "Je suis Shingo"
+    ],
+    "authors": [
+      "Kazuo Umezu",
+      "Miyako Slocombe"
+    ],
+    "id": 54646,
+    "malId": 24646,
+    "type": "manga",
+    "title": "Watashi wa Shingo",
+    "url": "https://anilist.co/manga/54646",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54646-V0xmVxzQD49t.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:46:45.000Z",
+    "updatedAt": "2021-05-20T14:46:45.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/24646/Watashi_wa_Shingo"
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "The Oddman Eleven",
+    "オッドマン11"
+  ],
+  "authors": [
+    "Sayman Dowman"
+  ],
+  "id": 66369,
+  "malId": 36369,
+  "type": "manga",
+  "title": "Oddman 11",
+  "url": "https://anilist.co/manga/66369",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx66369-FiELfGfMPfzT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3dff8c44-40ea-4a3b-bf6f-4eac9070c678": {
+        "authors": [
+          "Dowman Sayman"
+        ],
+        "identifier": "3dff8c44-40ea-4a3b-bf6f-4eac9070c678",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oddman 11",
+        "url": "https://mangadex.org/title/3dff8c44-40ea-4a3b-bf6f-4eac9070c678",
+        "image": "https://uploads.mangadex.org/covers/3dff8c44-40ea-4a3b-bf6f-4eac9070c678/66435eca-4d5e-44f6-9bda-5783314e5cfe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36369,
+        "aniId": 66369,
+        "createdAt": "2020-10-12T16:05:10.000Z",
+        "updatedAt": "2021-06-03T10:40:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "oddman_11": {
+        "authors": [],
+        "identifier": "oddman_11",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Oddman 11",
+        "url": "https://manganelo.com/manga/oddman_11",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1877-oddman_11.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36369,
+        "aniId": 66369,
+        "createdAt": "2020-10-12T16:24:38.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

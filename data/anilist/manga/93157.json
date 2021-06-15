@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "BLシンドローム"
+  ],
+  "authors": [
+    "Akino Shiina"
+  ],
+  "id": 93157,
+  "malId": 81655,
+  "type": "manga",
+  "title": "BL Syndrome",
+  "url": "https://anilist.co/manga/93157",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93157-7CB16MWj58DY.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:52:02.000Z",
+  "updatedAt": "2021-05-20T14:52:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "od922405": {
+        "authors": [],
+        "identifier": "od922405",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ichigo Syndrome",
+        "url": "https://manganelo.com/manga/od922405",
+        "image": "https://avt.mkklcdnv6.com/42/q/20-1583814296.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81655,
+        "aniId": 93157,
+        "createdAt": "2020-10-12T16:24:38.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "でろでろ",
+    "DeroDero"
+  ],
+  "authors": [
+    "Rensuke Oshikiri"
+  ],
+  "id": 44296,
+  "malId": 14296,
+  "type": "manga",
+  "title": "Dero Dero",
+  "url": "https://anilist.co/manga/44296",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx44296-TbNCJrEmG0U8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:45.000Z",
+  "updatedAt": "2021-05-20T14:42:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "959ac289-6dd1-4418-aa79-5e43938326a0": {
+        "authors": [
+          "Oshikiri Rensuke"
+        ],
+        "identifier": "959ac289-6dd1-4418-aa79-5e43938326a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dero Dero",
+        "url": "https://mangadex.org/title/959ac289-6dd1-4418-aa79-5e43938326a0",
+        "image": "https://uploads.mangadex.org/covers/959ac289-6dd1-4418-aa79-5e43938326a0/8d33d1c2-5376-43a2-8d91-699088900b44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14296,
+        "aniId": 44296,
+        "createdAt": "2020-10-12T16:04:48.000Z",
+        "updatedAt": "2021-06-02T23:35:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dero_dero": {
+        "authors": [],
+        "identifier": "dero_dero",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dero Dero",
+        "url": "https://manganelo.com/manga/dero_dero",
+        "image": "https://avt.mkklcdnv6.com/24/j/6-1583475145.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14296,
+        "aniId": 44296,
+        "createdAt": "2020-10-12T16:22:37.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

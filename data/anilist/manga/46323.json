@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Tokyo University Story",
+    "東京大学物語"
+  ],
+  "authors": [
+    "Tatsuya Egawa"
+  ],
+  "id": 46323,
+  "malId": 16323,
+  "type": "manga",
+  "title": "Tokyo Daigaku Monogatari",
+  "url": "https://anilist.co/manga/46323",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b46323-3BIG2tTiF54j.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:53.000Z",
+  "updatedAt": "2021-05-20T14:43:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e0f4785-1e09-4f7b-9784-576d1cfd1f00": {
+        "authors": [
+          "Egawa Tatsuya"
+        ],
+        "identifier": "1e0f4785-1e09-4f7b-9784-576d1cfd1f00",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo University Story",
+        "url": "https://mangadex.org/title/1e0f4785-1e09-4f7b-9784-576d1cfd1f00",
+        "image": "https://uploads.mangadex.org/covers/1e0f4785-1e09-4f7b-9784-576d1cfd1f00/5de3b260-5b96-473b-9306-0fa06a89c9b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16323,
+        "aniId": 46323,
+        "createdAt": "2020-12-05T17:41:25.000Z",
+        "updatedAt": "2021-06-08T08:09:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

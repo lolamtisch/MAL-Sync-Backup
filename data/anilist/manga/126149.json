@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "금수저",
+    "Golden Spoon"
+  ],
+  "authors": [
+    "Seong Hyeondong"
+  ],
+  "id": 126149,
+  "malId": null,
+  "type": "manga",
+  "title": "Geumsujeo",
+  "url": "https://anilist.co/manga/126149",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126149-Lfvdku0cLOVa.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T20:51:29.000Z",
+  "updatedAt": "2021-06-04T20:51:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6d92722-27c1-48ee-b3a2-5f04b7284fe9": {
+        "authors": [
+          "HD3"
+        ],
+        "identifier": "d6d92722-27c1-48ee-b3a2-5f04b7284fe9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Golden Spoon",
+        "url": "https://mangadex.org/title/d6d92722-27c1-48ee-b3a2-5f04b7284fe9",
+        "image": "https://uploads.mangadex.org/covers/d6d92722-27c1-48ee-b3a2-5f04b7284fe9/f769e812-be75-4f84-9f59-8a4a0ec19f63.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126149,
+        "createdAt": "2020-10-12T16:09:51.000Z",
+        "updatedAt": "2021-06-04T21:00:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

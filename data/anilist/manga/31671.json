@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ビリーバーズ"
+  ],
+  "authors": [
+    "Naoki Yamamoto"
+  ],
+  "id": 31671,
+  "malId": 1671,
+  "type": "manga",
+  "title": "Believers",
+  "url": "https://anilist.co/manga/31671",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31671-SuoYpbEVENj7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5aedd994-75d6-4ed5-a5a2-7bc3b98a5bc1": {
+        "authors": [
+          "Yamamoto Naoki"
+        ],
+        "identifier": "5aedd994-75d6-4ed5-a5a2-7bc3b98a5bc1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Believers",
+        "url": "https://mangadex.org/title/5aedd994-75d6-4ed5-a5a2-7bc3b98a5bc1",
+        "image": "https://uploads.mangadex.org/covers/5aedd994-75d6-4ed5-a5a2-7bc3b98a5bc1/c5d8a8b9-cd53-4b4c-a619-4e517060a1c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1671,
+        "aniId": 31671,
+        "createdAt": "2020-10-12T16:06:58.000Z",
+        "updatedAt": "2021-06-03T23:28:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "believers": {
+        "authors": [
+          "YAMAMOTO Naoki"
+        ],
+        "identifier": "believers",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Believers",
+        "url": "https://fanfox.net/manga/believers/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/468/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1671,
+        "aniId": 31671,
+        "createdAt": "2021-03-24T08:45:55.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

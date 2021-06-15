@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "マイヒーロー!"
+  ],
+  "authors": [
+    "Kumaoka, Fuyu"
+  ],
+  "id": 18537,
+  "type": "manga",
+  "title": "My Hero!",
+  "url": "https://myanimelist.net/manga/18537/My_Hero",
+  "image": "https://cdn.myanimelist.net/images/manga/1/77901.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:35.000Z",
+  "updatedAt": "2021-05-02T18:02:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd75db45-908c-46cf-a52d-b4f5b12d29f0": {
+        "authors": [
+          "KUMAOKA Fuyu"
+        ],
+        "identifier": "bd75db45-908c-46cf-a52d-b4f5b12d29f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Hero!",
+        "url": "https://mangadex.org/title/bd75db45-908c-46cf-a52d-b4f5b12d29f0",
+        "image": "https://uploads.mangadex.org/covers/bd75db45-908c-46cf-a52d-b4f5b12d29f0/fa6d2dde-53c1-4a15-90d7-a7006d0ae7b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18537,
+        "aniId": 48537,
+        "createdAt": "2020-10-12T16:03:25.000Z",
+        "updatedAt": "2021-06-02T13:51:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

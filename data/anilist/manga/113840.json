@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "音",
+    "Voice",
+    "Sons",
+    "Suono"
+  ],
+  "authors": [
+    "Kuniko Tsurita",
+    "Leopold Dahan",
+    "Vincenzo Filosa"
+  ],
+  "id": 113840,
+  "malId": null,
+  "type": "manga",
+  "title": "Oto",
+  "url": "https://anilist.co/manga/113840",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113840-g0g11He3NE9B.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-29T20:42:13.000Z",
+  "updatedAt": "2021-06-03T11:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7df73ea2-a801-46aa-9c97-58a7fab61002": {
+        "authors": [
+          "Tsurita Kuniko"
+        ],
+        "identifier": "7df73ea2-a801-46aa-9c97-58a7fab61002",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Voice",
+        "url": "https://mangadex.org/title/7df73ea2-a801-46aa-9c97-58a7fab61002",
+        "image": "https://uploads.mangadex.org/covers/7df73ea2-a801-46aa-9c97-58a7fab61002/22725e6a-4f5b-446e-bb3d-3b3423cd1c95.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113840,
+        "createdAt": "2020-10-12T16:11:13.000Z",
+        "updatedAt": "2021-06-09T06:46:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

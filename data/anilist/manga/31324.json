@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ブルー ドロップ"
+  ],
+  "authors": [
+    "Akihito Yoshitomi"
+  ],
+  "id": 31324,
+  "malId": 1324,
+  "type": "manga",
+  "title": "Blue Drop",
+  "url": "https://anilist.co/manga/31324",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31324-ulEQDiewQaQa.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-05-20T14:36:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0176e6dd-a502-465d-8f43-70b6b2118276": {
+        "authors": [
+          "Yoshitomi Akihito"
+        ],
+        "identifier": "0176e6dd-a502-465d-8f43-70b6b2118276",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blue Drop",
+        "url": "https://mangadex.org/title/0176e6dd-a502-465d-8f43-70b6b2118276",
+        "image": "https://uploads.mangadex.org/covers/0176e6dd-a502-465d-8f43-70b6b2118276/3ab6d5b3-f18d-4198-a9f4-0fd6207e3420.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1324,
+        "aniId": 31324,
+        "createdAt": "2020-10-12T16:04:12.000Z",
+        "updatedAt": "2021-06-02T19:32:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

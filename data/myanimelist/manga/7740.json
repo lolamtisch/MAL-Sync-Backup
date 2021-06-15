@@ -1,0 +1,60 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yoo, Ha Jin"
+  ],
+  "id": 7740,
+  "type": "manga",
+  "title": "Cheon Gi dot com",
+  "url": "https://myanimelist.net/manga/7740/Cheon_Gi_dot_com",
+  "image": "https://cdn.myanimelist.net/images/manga/1/10555.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:16.000Z",
+  "updatedAt": "2021-05-20T12:31:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6588c71d-1e53-4b9d-9485-292f39eb5780": {
+        "authors": [
+          "Yoo Ha Jin"
+        ],
+        "identifier": "6588c71d-1e53-4b9d-9485-292f39eb5780",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cheon Gi dot com",
+        "url": "https://mangadex.org/title/6588c71d-1e53-4b9d-9485-292f39eb5780",
+        "image": "https://uploads.mangadex.org/covers/6588c71d-1e53-4b9d-9485-292f39eb5780/2beab77f-4a15-45ff-abe4-0e98879a1996.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7740,
+        "aniId": 37740,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:50:02.000Z",
+        "deletedAt": null
+      },
+      "02ff6306-f843-44d0-ad51-e2b257b0af99": {
+        "authors": [
+          "Lee So-Young"
+        ],
+        "identifier": "02ff6306-f843-44d0-ad51-e2b257b0af99",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sim Cheong",
+        "url": "https://mangadex.org/title/02ff6306-f843-44d0-ad51-e2b257b0af99",
+        "image": "https://uploads.mangadex.org/covers/02ff6306-f843-44d0-ad51-e2b257b0af99/e93c008c-06ea-4004-971e-ec4659f1c073.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7740,
+        "aniId": 37740,
+        "createdAt": "2020-10-12T16:16:13.000Z",
+        "updatedAt": "2021-06-06T20:38:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

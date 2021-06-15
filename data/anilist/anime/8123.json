@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "クッキングパパ"
+  ],
+  "id": 8123,
+  "malId": 8123,
+  "type": "anime",
+  "title": "Cooking Papa",
+  "url": "https://anilist.co/anime/8123",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8123.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:53.000Z",
+  "updatedAt": "2021-05-20T14:38:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "vrz7": {
+        "identifier": "vrz7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cooking Papa",
+        "url": "https://9anime.ru/watch/cooking-papa.vrz7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://static.akacdn.ru/static/images/2018/02/8fea7ddb0d77a390ecce221900db01ad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8123,
+        "aniId": 8123,
+        "createdAt": "2020-10-12T15:55:59.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

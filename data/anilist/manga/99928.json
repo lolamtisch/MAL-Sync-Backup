@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "アルマディアノス英雄伝",
+    "The Heroic Saga of Almadianos"
+  ],
+  "authors": [
+    "Ryousen Takami",
+    "Yuuko Satou",
+    "Megumi Nagahama"
+  ],
+  "id": 99928,
+  "malId": 108536,
+  "type": "manga",
+  "title": "Almadianos Eiyuuden",
+  "url": "https://anilist.co/manga/99928",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99928-HCOoj5P7QAYi.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:00.000Z",
+  "updatedAt": "2021-05-20T14:56:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e57ce4f-7873-4e2d-ba60-368026a10c42": {
+        "authors": [
+          "Takami Ryousen",
+          "Satou Yuuko"
+        ],
+        "identifier": "1e57ce4f-7873-4e2d-ba60-368026a10c42",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Almadianos Eiyuuden",
+        "url": "https://mangadex.org/title/1e57ce4f-7873-4e2d-ba60-368026a10c42",
+        "image": "https://uploads.mangadex.org/covers/1e57ce4f-7873-4e2d-ba60-368026a10c42/0e19716b-f9a5-499e-b1e3-0abf251e567e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108536,
+        "aniId": 99928,
+        "createdAt": "2020-10-12T16:10:52.000Z",
+        "updatedAt": "2021-06-05T04:00:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "almadianos_eiyuuden": {
+        "authors": [],
+        "identifier": "almadianos_eiyuuden",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Almadianos Eiyuuden",
+        "url": "https://manganelo.com/manga/almadianos_eiyuuden",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19237-almadianos_eiyuuden.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108536,
+        "aniId": 99928,
+        "createdAt": "2020-10-12T16:22:04.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "almadianos-eiyuuden": {
+        "authors": [
+          "SATOU Yuuko",
+          "TAKAMI Ryousen"
+        ],
+        "identifier": "almadianos-eiyuuden",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Almadianos Eiyuuden",
+        "url": "https://mangasee123.com/manga/Almadianos-Eiyuuden",
+        "image": "https://cover.nep.li/cover/Almadianos-Eiyuuden.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108536,
+        "aniId": 99928,
+        "createdAt": "2020-12-16T22:26:26.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "almadianos_eiyuuden": {
+        "authors": [
+          "TAKAMI Ryousen"
+        ],
+        "identifier": "almadianos_eiyuuden",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Almadianos Eiyuuden",
+        "url": "https://fanfox.net/manga/almadianos_eiyuuden/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26065/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108536,
+        "aniId": 99928,
+        "createdAt": "2021-02-19T07:34:30.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

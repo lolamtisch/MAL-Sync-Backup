@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ヘタメン",
+    "Hetare Men"
+  ],
+  "authors": [
+    "Yuna Anisaki"
+  ],
+  "id": 69795,
+  "malId": 39795,
+  "type": "manga",
+  "title": "Hetamen",
+  "url": "https://anilist.co/manga/69795",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39795.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7359ef80-e29a-4a3e-af0a-cd2eacea22ea": {
+        "authors": [
+          "ANISAKI Yuna"
+        ],
+        "identifier": "7359ef80-e29a-4a3e-af0a-cd2eacea22ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hetamen",
+        "url": "https://mangadex.org/title/7359ef80-e29a-4a3e-af0a-cd2eacea22ea",
+        "image": "https://uploads.mangadex.org/covers/7359ef80-e29a-4a3e-af0a-cd2eacea22ea/f13c74f7-3b9f-4ca5-a3f1-12ea598d8555.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39795,
+        "aniId": 69795,
+        "createdAt": "2020-10-12T16:04:47.000Z",
+        "updatedAt": "2021-06-02T23:23:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

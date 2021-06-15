@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "マサカ堂へいらっしゃい",
+    "Masakadou he Irasshai"
+  ],
+  "authors": [
+    "Kotetsuko Yamamoto"
+  ],
+  "id": 76238,
+  "malId": 46238,
+  "type": "manga",
+  "title": "Masakadou e Irasshai",
+  "url": "https://anilist.co/manga/76238",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46238.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:29.000Z",
+  "updatedAt": "2021-06-03T17:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "50d7710a-b040-4fef-91df-b4cdfd4f90f1": {
+        "authors": [
+          "Yamamoto Kotetsuko"
+        ],
+        "identifier": "50d7710a-b040-4fef-91df-b4cdfd4f90f1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Masakadou e Irasshai",
+        "url": "https://mangadex.org/title/50d7710a-b040-4fef-91df-b4cdfd4f90f1",
+        "image": "https://uploads.mangadex.org/covers/50d7710a-b040-4fef-91df-b4cdfd4f90f1/60f5afa9-66b6-4c13-a0a1-855644287ca2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46238,
+        "aniId": 76238,
+        "createdAt": "2020-10-12T16:06:09.000Z",
+        "updatedAt": "2021-06-03T17:56:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

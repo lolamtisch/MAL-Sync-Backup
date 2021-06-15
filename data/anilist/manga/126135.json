@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ビブリオマニア"
+  ],
+  "authors": [
+    "Obaru",
+    "Macchiro"
+  ],
+  "id": 126135,
+  "malId": null,
+  "type": "manga",
+  "title": "Bibliomania",
+  "url": "https://anilist.co/manga/126135",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126135-63wqdasXoXsD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T23:12:58.000Z",
+  "updatedAt": "2021-06-08T07:22:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d22ae7a1-cfae-475a-a8fc-589ef85eece4": {
+        "authors": [
+          "Orval",
+          "Macchiro"
+        ],
+        "identifier": "d22ae7a1-cfae-475a-a8fc-589ef85eece4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BIBLIOMANIA",
+        "url": "https://mangadex.org/title/d22ae7a1-cfae-475a-a8fc-589ef85eece4",
+        "image": "https://uploads.mangadex.org/covers/d22ae7a1-cfae-475a-a8fc-589ef85eece4/ab29c40f-ed99-4bdb-9004-b1e2c71f4c51.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126135,
+        "createdAt": "2020-11-13T22:22:47.000Z",
+        "updatedAt": "2021-06-08T07:26:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

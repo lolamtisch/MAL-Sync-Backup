@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "Sweet Blue Flowers",
+    "青い花"
+  ],
+  "authors": [
+    "Shimura, Takako"
+  ],
+  "id": 1363,
+  "type": "manga",
+  "title": "Aoi Hana",
+  "url": "https://myanimelist.net/manga/1363/Aoi_Hana",
+  "image": "https://cdn.myanimelist.net/images/manga/1/182493.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:33.000Z",
+  "updatedAt": "2021-05-06T18:18:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e9ea5e7-7dc0-4907-b79c-5b66605ef955": {
+        "authors": [
+          "Shimura Takako"
+        ],
+        "identifier": "7e9ea5e7-7dc0-4907-b79c-5b66605ef955",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aoi Hana",
+        "url": "https://mangadex.org/title/7e9ea5e7-7dc0-4907-b79c-5b66605ef955",
+        "image": "https://uploads.mangadex.org/covers/7e9ea5e7-7dc0-4907-b79c-5b66605ef955/8d046af3-2206-4452-844b-5310f16d1b10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1363,
+        "aniId": 31363,
+        "createdAt": "2020-10-12T16:02:33.000Z",
+        "updatedAt": "2021-06-02T07:51:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "aoi_hana": {
+        "authors": [],
+        "identifier": "aoi_hana",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Aoi Hana",
+        "url": "https://manganelo.com/manga/aoi_hana",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7744-aoi_hana.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1363,
+        "aniId": 31363,
+        "createdAt": "2020-10-12T16:22:07.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "aoi-hana": {
+        "authors": [
+          "SHIMURA Takako"
+        ],
+        "identifier": "aoi-hana",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Aoi Hana",
+        "url": "https://mangasee123.com/manga/Aoi-Hana",
+        "image": "https://cover.nep.li/cover/Aoi-Hana.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1363,
+        "aniId": 31363,
+        "createdAt": "2021-04-17T13:14:18.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aoi_hana": {
+        "authors": [
+          "SHIMURA Takako"
+        ],
+        "identifier": "aoi_hana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aoi Hana",
+        "url": "https://fanfox.net/manga/aoi_hana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3111/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1363,
+        "aniId": 31363,
+        "createdAt": "2021-05-06T18:18:21.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

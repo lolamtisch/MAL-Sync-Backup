@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "僕は鱗。"
+  ],
+  "authors": [
+    "Sumomo Yumeka"
+  ],
+  "id": 43849,
+  "malId": 13849,
+  "type": "manga",
+  "title": "Boku wa Sakana.",
+  "url": "https://anilist.co/manga/43849",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13849.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:38.000Z",
+  "updatedAt": "2021-05-20T14:42:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dffca36b-387f-4131-b99c-f7c834286253": {
+        "authors": [
+          "Yumeka Sumomo"
+        ],
+        "identifier": "dffca36b-387f-4131-b99c-f7c834286253",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku wa Sakana",
+        "url": "https://mangadex.org/title/dffca36b-387f-4131-b99c-f7c834286253",
+        "image": "https://uploads.mangadex.org/covers/dffca36b-387f-4131-b99c-f7c834286253/c749fafa-eb1c-41f9-a681-3d23dad123dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13849,
+        "aniId": 43849,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:25:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ココアリロン"
+  ],
+  "authors": [
+    "Maya Mizuki"
+  ],
+  "id": 40664,
+  "malId": 10664,
+  "type": "manga",
+  "title": "Cocoa Riron",
+  "url": "https://anilist.co/manga/40664",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10664.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "60f2b6c7-c9d3-4dbe-b162-2e37cfd8fc44": {
+        "authors": [
+          "",
+          "Maya Mizuki"
+        ],
+        "identifier": "60f2b6c7-c9d3-4dbe-b162-2e37cfd8fc44",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cocoa Riron",
+        "url": "https://mangadex.org/title/60f2b6c7-c9d3-4dbe-b162-2e37cfd8fc44",
+        "image": "https://uploads.mangadex.org/covers/60f2b6c7-c9d3-4dbe-b162-2e37cfd8fc44/0a5cf5ec-24f4-4318-b4e5-6f6f479274a7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10664,
+        "aniId": 40664,
+        "createdAt": "2020-10-12T16:15:37.000Z",
+        "updatedAt": "2021-06-06T15:26:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "The Last Uniform",
+    "最後の制服",
+    "Our Last Season",
+    "The Last School Uniform"
+  ],
+  "authors": [
+    "Mera Hakamada"
+  ],
+  "id": 32571,
+  "malId": 2571,
+  "type": "manga",
+  "title": "Saigo no Seifuku",
+  "url": "https://anilist.co/manga/32571",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32571-amsk6dWnPUxH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "95780c38-d2b9-4973-8659-52d721533acc": {
+        "authors": [
+          "HAKAMADA Mera"
+        ],
+        "identifier": "95780c38-d2b9-4973-8659-52d721533acc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saigo no Seifuku",
+        "url": "https://mangadex.org/title/95780c38-d2b9-4973-8659-52d721533acc",
+        "image": "https://uploads.mangadex.org/covers/95780c38-d2b9-4973-8659-52d721533acc/4ae0d90d-daf7-42d0-81de-8cd38d70df8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2571,
+        "aniId": 32571,
+        "createdAt": "2020-10-12T16:07:11.000Z",
+        "updatedAt": "2021-06-04T00:56:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "saigo_no_seifuku": {
+        "authors": [],
+        "identifier": "saigo_no_seifuku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Saigo No Seifuku",
+        "url": "https://manganelo.com/manga/saigo_no_seifuku",
+        "image": "https://avt.mkklcdnv6.com/17/o/2-1583466378.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2571,
+        "aniId": 32571,
+        "createdAt": "2020-10-12T16:25:17.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

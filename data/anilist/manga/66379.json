@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "真夜中　ロリータ"
+  ],
+  "authors": [
+    "Saki Shiumi"
+  ],
+  "id": 66379,
+  "malId": 36379,
+  "type": "manga",
+  "title": "Mayonaka Lolita",
+  "url": "https://anilist.co/manga/66379",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36379.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dbc54fff-e34a-4965-8944-fed9d0eab402": {
+        "authors": [
+          "SHIUMI Saki"
+        ],
+        "identifier": "dbc54fff-e34a-4965-8944-fed9d0eab402",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayonaka Lolita",
+        "url": "https://mangadex.org/title/dbc54fff-e34a-4965-8944-fed9d0eab402",
+        "image": "https://uploads.mangadex.org/covers/dbc54fff-e34a-4965-8944-fed9d0eab402/63bfc874-233c-4f29-a080-adcdedebadd3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36379,
+        "aniId": 66379,
+        "createdAt": "2020-10-12T16:04:17.000Z",
+        "updatedAt": "2021-06-02T20:05:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mayonaka-lolita": {
+        "authors": [
+          "SHIUMI Saki"
+        ],
+        "identifier": "mayonaka-lolita",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mayonaka Lolita",
+        "url": "https://mangasee123.com/manga/Mayonaka-Lolita",
+        "image": "https://cover.nep.li/cover/Mayonaka-Lolita.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36379,
+        "aniId": 66379,
+        "createdAt": "2021-04-27T05:19:40.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

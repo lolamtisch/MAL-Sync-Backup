@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Immoral garden",
+    "背徳の庭"
+  ],
+  "authors": [
+    "Iroito"
+  ],
+  "id": 87389,
+  "type": "manga",
+  "title": "Haitoku no Niwa",
+  "url": "https://myanimelist.net/manga/87389/Haitoku_no_Niwa",
+  "image": "https://cdn.myanimelist.net/images/manga/3/151879.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:54.000Z",
+  "updatedAt": "2021-04-24T00:26:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce326c6f-8247-4b11-8074-20a09ed1edea": {
+        "authors": [
+          "Iroito"
+        ],
+        "identifier": "ce326c6f-8247-4b11-8074-20a09ed1edea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haitoku no Niwa",
+        "url": "https://mangadex.org/title/ce326c6f-8247-4b11-8074-20a09ed1edea",
+        "image": "https://uploads.mangadex.org/covers/ce326c6f-8247-4b11-8074-20a09ed1edea/daa1623f-ea2c-43ca-b43d-5351fecacad2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87389,
+        "aniId": 94346,
+        "createdAt": "2020-10-12T16:09:36.000Z",
+        "updatedAt": "2021-06-04T18:52:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "haitoku_no_niwa": {
+        "authors": [
+          "Iroito"
+        ],
+        "identifier": "haitoku_no_niwa",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Haitoku No Niwa",
+        "url": "https://manganelo.com/manga/haitoku_no_niwa",
+        "image": "https://avt.mkklcdnv6temp.com/39/x/2-1583467238.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87389,
+        "aniId": 94346,
+        "createdAt": "2021-04-24T00:27:00.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

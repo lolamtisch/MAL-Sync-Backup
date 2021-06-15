@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "嵐ノ花 叢ノ歌"
+  ],
+  "authors": [
+    "Keita Saiki"
+  ],
+  "id": 55941,
+  "malId": 25941,
+  "type": "manga",
+  "title": "Arashi no Hana Murakumo no Uta",
+  "url": "https://anilist.co/manga/55941",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55941-ZuSI8bYEQppI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:56.000Z",
+  "updatedAt": "2021-05-20T14:46:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dc2d3f4d-db09-4167-929d-4800b33ea92d": {
+        "authors": [
+          "AZUMA Toh"
+        ],
+        "identifier": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Arashi no Hana Murakumo no Uta",
+        "url": "https://mangadex.org/title/dc2d3f4d-db09-4167-929d-4800b33ea92d",
+        "image": "https://uploads.mangadex.org/covers/dc2d3f4d-db09-4167-929d-4800b33ea92d/ced5536b-92ac-4954-8c30-5f0ba53f1590.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25941,
+        "aniId": 55941,
+        "createdAt": "2020-10-12T16:05:54.000Z",
+        "updatedAt": "2021-06-03T15:53:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

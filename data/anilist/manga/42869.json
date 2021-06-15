@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ミッドナイトサン"
+  ],
+  "authors": [
+    "Toshimi Arina"
+  ],
+  "id": 42869,
+  "malId": 12869,
+  "type": "manga",
+  "title": "Midnight Sun",
+  "url": "https://anilist.co/manga/42869",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12869.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:26.000Z",
+  "updatedAt": "2021-05-20T14:42:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9bfb803f-2465-41cc-8664-7a7efee2fc89": {
+        "authors": [
+          "Arina Toshimi"
+        ],
+        "identifier": "9bfb803f-2465-41cc-8664-7a7efee2fc89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Midnight Sun",
+        "url": "https://mangadex.org/title/9bfb803f-2465-41cc-8664-7a7efee2fc89",
+        "image": "https://uploads.mangadex.org/covers/9bfb803f-2465-41cc-8664-7a7efee2fc89/d7d20307-a918-4bc9-821c-12ee11357de6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12869,
+        "aniId": 42869,
+        "createdAt": "2020-11-19T11:21:05.000Z",
+        "updatedAt": "2021-06-08T07:30:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

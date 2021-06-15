@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "ストライクウィッチーズ オーロラの魔女",
+    "Strike Witches: Witches of Aurora"
+  ],
+  "authors": [
+    "Shin Kyogoku",
+    "Fumikane Shimada"
+  ],
+  "id": 90965,
+  "malId": 69297,
+  "type": "manga",
+  "title": "Strike Witches: Aurora no Majo",
+  "url": "https://anilist.co/manga/90965",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b90965-O09H1pjLA8Qz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:03.000Z",
+  "updatedAt": "2021-06-04T07:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "087ebd63-2ae4-4bbe-b6d4-01eadbfc22ba": {
+        "authors": [
+          "Projekt Kagonish",
+          "SHIMADA Fumikane",
+          "Kyogoku Shin"
+        ],
+        "identifier": "087ebd63-2ae4-4bbe-b6d4-01eadbfc22ba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Strike Witches - Aurora no Majo",
+        "url": "https://mangadex.org/title/087ebd63-2ae4-4bbe-b6d4-01eadbfc22ba",
+        "image": "https://uploads.mangadex.org/covers/087ebd63-2ae4-4bbe-b6d4-01eadbfc22ba/8a599eef-a114-47c4-955d-0321b76312e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69297,
+        "aniId": 90965,
+        "createdAt": "2020-10-12T16:08:01.000Z",
+        "updatedAt": "2021-06-04T08:40:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "strike_witches_aurora_no_majo": {
+        "authors": [
+          "Projekt Kagonish",
+          "SHIMADA Fumikane"
+        ],
+        "identifier": "strike_witches_aurora_no_majo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Strike Witches - Aurora no Majo",
+        "url": "https://fanfox.net/manga/strike_witches_aurora_no_majo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15437/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69297,
+        "aniId": 90965,
+        "createdAt": "2020-12-21T00:26:24.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

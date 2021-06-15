@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "helvetica ヘルベチカ"
+  ],
+  "authors": [
+    "Tsukiba, Shizuka",
+    "Somei, Tsumugi"
+  ],
+  "id": 107247,
+  "type": "manga",
+  "title": "Helvetica",
+  "url": "https://myanimelist.net/manga/107247/Helvetica",
+  "image": "https://cdn.myanimelist.net/images/manga/1/201892.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:06.000Z",
+  "updatedAt": "2021-05-06T22:48:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "39c538e5-97b3-4b38-846f-fdf3a013bd74": {
+        "authors": [
+          "Somei Tsumugi",
+          "Tsukiba Shizuka"
+        ],
+        "identifier": "39c538e5-97b3-4b38-846f-fdf3a013bd74",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "helvetica",
+        "url": "https://mangadex.org/title/39c538e5-97b3-4b38-846f-fdf3a013bd74",
+        "image": "https://uploads.mangadex.org/covers/39c538e5-97b3-4b38-846f-fdf3a013bd74/168fb2f1-deb9-44b2-a3ab-4df136ce0f88.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107247,
+        "aniId": 99160,
+        "createdAt": "2020-10-12T16:10:47.000Z",
+        "updatedAt": "2021-06-05T03:14:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "helvetica": {
+        "authors": [],
+        "identifier": "helvetica",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Helvetica",
+        "url": "https://manganelo.com/manga/helvetica",
+        "image": "https://avt.mkklcdnv6.com/31/p/15-1583492712.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107247,
+        "aniId": 99160,
+        "createdAt": "2020-10-12T16:23:18.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "helvetica": {
+        "authors": [
+          "SOMEI Tsumugi",
+          "TSUKIBA Shizuka"
+        ],
+        "identifier": "helvetica",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "helvetica",
+        "url": "https://mangasee123.com/manga/Helvetica",
+        "image": "https://cover.nep.li/cover/Helvetica.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107247,
+        "aniId": 99160,
+        "createdAt": "2021-03-07T03:32:55.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "helvetica": {
+        "authors": [
+          "TSUKIBA Shizuka"
+        ],
+        "identifier": "helvetica",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "helvetica",
+        "url": "https://fanfox.net/manga/helvetica/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25643/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107247,
+        "aniId": 99160,
+        "createdAt": "2021-05-06T22:48:03.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

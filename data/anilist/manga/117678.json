@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "パレニアル",
+    "Вечные"
+  ],
+  "authors": [
+    "Gunjo Piz"
+  ],
+  "id": 117678,
+  "malId": null,
+  "type": "manga",
+  "title": "Perennial",
+  "url": "https://anilist.co/manga/117678",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117678-Dbj8GV4LFVyd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T21:53:28.000Z",
+  "updatedAt": "2021-06-07T21:53:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1226c252-2b0a-4dbd-80f0-6cf339bcfca3": {
+        "authors": [
+          "Gunjo Piz"
+        ],
+        "identifier": "1226c252-2b0a-4dbd-80f0-6cf339bcfca3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Perennial",
+        "url": "https://mangadex.org/title/1226c252-2b0a-4dbd-80f0-6cf339bcfca3",
+        "image": "https://uploads.mangadex.org/covers/1226c252-2b0a-4dbd-80f0-6cf339bcfca3/6a6df803-1bb1-4558-82e8-8cdfcfa3ab91.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117678,
+        "createdAt": "2020-10-12T16:19:15.000Z",
+        "updatedAt": "2021-06-07T21:58:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

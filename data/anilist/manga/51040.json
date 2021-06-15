@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "Showa: A History of Japan",
+    "コミック昭和史",
+    "Komikku Showa-Shi",
+    "Komikku Shouwa-Shi",
+    "Komikku Shōwa-Shi",
+    "A Comics History of the Shōwa Era"
+  ],
+  "authors": [
+    "Shigeru Mizuki",
+    "Zack Davisson"
+  ],
+  "id": 51040,
+  "malId": 21040,
+  "type": "manga",
+  "title": "Showa-Shi",
+  "url": "https://anilist.co/manga/51040",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21040.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:37.000Z",
+  "updatedAt": "2021-05-20T14:45:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "957a54aa-b37c-4136-9e95-34f47dce188f": {
+        "authors": [
+          "MIZUKI Shigeru"
+        ],
+        "identifier": "957a54aa-b37c-4136-9e95-34f47dce188f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Comic Showa-Shi",
+        "url": "https://mangadex.org/title/957a54aa-b37c-4136-9e95-34f47dce188f",
+        "image": "https://uploads.mangadex.org/covers/957a54aa-b37c-4136-9e95-34f47dce188f/0234ca36-4f83-433c-b0ff-31a64ca50465.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21040,
+        "aniId": 51040,
+        "createdAt": "2020-12-23T21:27:05.000Z",
+        "updatedAt": "2021-06-08T09:03:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "showa-a-history-of-japan": {
+        "authors": [
+          "MIZUKI Shigeru"
+        ],
+        "identifier": "showa-a-history-of-japan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Showa - A History of Japan",
+        "url": "https://mangasee123.com/manga/Showa-A-History-of-Japan",
+        "image": "https://cover.nep.li/cover/Showa-A-History-of-Japan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21040,
+        "aniId": 51040,
+        "createdAt": "2021-01-01T06:16:31.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

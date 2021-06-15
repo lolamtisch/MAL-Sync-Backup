@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "フルアヘッド！ココ"
+  ],
+  "authors": [
+    "Yonehara, Hideyuki"
+  ],
+  "id": 9044,
+  "type": "manga",
+  "title": "Full Ahead! Coco",
+  "url": "https://myanimelist.net/manga/9044/Full_Ahead_Coco",
+  "image": "https://cdn.myanimelist.net/images/manga/2/137661.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:22.000Z",
+  "updatedAt": "2021-04-25T18:27:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fb46f285-bdd6-49d1-ae0b-fd8daea34597": {
+        "authors": [
+          "Yonehara Hideyuki"
+        ],
+        "identifier": "fb46f285-bdd6-49d1-ae0b-fd8daea34597",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Full Ahead! Coco",
+        "url": "https://mangadex.org/title/fb46f285-bdd6-49d1-ae0b-fd8daea34597",
+        "image": "https://uploads.mangadex.org/covers/fb46f285-bdd6-49d1-ae0b-fd8daea34597/2063f1d4-9e20-4b0e-b6b0-b2cc5566bf68.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9044,
+        "aniId": 39044,
+        "createdAt": "2020-10-12T16:05:23.000Z",
+        "updatedAt": "2021-06-03T12:11:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "full-ahead-coco": {
+        "authors": [
+          "YONEHARA Hideyuki"
+        ],
+        "identifier": "full-ahead-coco",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Full Ahead Coco",
+        "url": "https://mangasee123.com/manga/Full-Ahead-Coco",
+        "image": "https://cover.nep.li/cover/Full-Ahead-Coco.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9044,
+        "aniId": 39044,
+        "createdAt": "2021-04-25T18:27:44.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

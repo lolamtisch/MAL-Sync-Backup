@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "蒼天航路",
+    "Beyond the Heavens"
+  ],
+  "authors": [
+    "Yi Hagin",
+    "Gonta King"
+  ],
+  "id": 43668,
+  "malId": 13668,
+  "type": "manga",
+  "title": "Souten Kouro",
+  "url": "https://anilist.co/manga/43668",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx43668-Ceiv4tnEZNAT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-05-20T14:42:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1769ea76-e2b5-4c8b-86db-5d1b42cab44a": {
+        "authors": [
+          "LI Xue Ren",
+          "KING Gonta"
+        ],
+        "identifier": "1769ea76-e2b5-4c8b-86db-5d1b42cab44a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Souten Kouro",
+        "url": "https://mangadex.org/title/1769ea76-e2b5-4c8b-86db-5d1b42cab44a",
+        "image": "https://uploads.mangadex.org/covers/1769ea76-e2b5-4c8b-86db-5d1b42cab44a/70e1c7a7-b397-4f77-a9f1-c78dcd46b091.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13668,
+        "aniId": 43668,
+        "createdAt": "2020-10-12T16:04:39.000Z",
+        "updatedAt": "2021-06-02T22:24:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "souten-kouro": {
+        "authors": [
+          "KING Gonta",
+          "LI Xue Ren"
+        ],
+        "identifier": "souten-kouro",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Souten Kouro",
+        "url": "https://mangasee123.com/manga/Souten-Kouro",
+        "image": "https://cover.nep.li/cover/Souten-Kouro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13668,
+        "aniId": 43668,
+        "createdAt": "2021-05-11T15:19:56.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

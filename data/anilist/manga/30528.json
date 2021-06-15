@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Skullman",
+    "スカルマン(島本和彦)",
+    "The Skullman (SHIMAMOTO Kazuhiko)"
+  ],
+  "authors": [
+    "Kazuhiko Shimamoto"
+  ],
+  "id": 30528,
+  "malId": 528,
+  "type": "manga",
+  "title": "Skullman",
+  "url": "https://anilist.co/manga/30528",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30528-qwENAj2uCvY5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12fe9fb9-55c9-48c3-b76e-e77fa95f682f": {
+        "authors": [
+          "Shimamoto Kazuhiko",
+          "Ishinomori Shotaro"
+        ],
+        "identifier": "12fe9fb9-55c9-48c3-b76e-e77fa95f682f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Skull Man (SHIMAMOTO Kazuhiko)",
+        "url": "https://mangadex.org/title/12fe9fb9-55c9-48c3-b76e-e77fa95f682f",
+        "image": "https://uploads.mangadex.org/covers/12fe9fb9-55c9-48c3-b76e-e77fa95f682f/2d054cb4-6beb-41f1-af04-c271fffcb4c4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 528,
+        "aniId": 30528,
+        "createdAt": "2020-10-12T16:12:02.000Z",
+        "updatedAt": "2021-06-05T12:52:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "skullman": {
+        "authors": [
+          "ISHINOMORI Shotaro"
+        ],
+        "identifier": "skullman",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Skullman",
+        "url": "https://mangasee123.com/manga/Skullman",
+        "image": "https://cover.nep.li/cover/Skullman.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 528,
+        "aniId": 30528,
+        "createdAt": "2021-02-02T11:32:06.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "skull_man": {
+        "authors": [
+          "Ishinomori",
+          "Shotaro"
+        ],
+        "identifier": "skull_man",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Skull Man",
+        "url": "https://manganelo.com/manga/skull_man",
+        "image": "https://avt.mkklcdnv6temp.com/18/r/10-1583482836.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 528,
+        "aniId": 30528,
+        "createdAt": "2021-05-23T04:43:51.000Z",
+        "updatedAt": "2021-05-23T05:12:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

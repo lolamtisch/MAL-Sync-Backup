@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Peter Panda",
+    "피터판다"
+  ],
+  "authors": [
+    "Na, Yeri"
+  ],
+  "id": 5242,
+  "type": "manga",
+  "title": "Peter Panda",
+  "url": "https://myanimelist.net/manga/5242/Peter_Panda",
+  "image": "https://cdn.myanimelist.net/images/manga/4/30227.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:04.000Z",
+  "updatedAt": "2021-04-29T04:49:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ff297a2b-5374-4b53-bd77-202793db59d4": {
+        "authors": [
+          "Na Yeri"
+        ],
+        "identifier": "ff297a2b-5374-4b53-bd77-202793db59d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Peter Panda",
+        "url": "https://mangadex.org/title/ff297a2b-5374-4b53-bd77-202793db59d4",
+        "image": "https://uploads.mangadex.org/covers/ff297a2b-5374-4b53-bd77-202793db59d4/355e3cc2-2c9b-4a5a-a7f7-e142975fcdf3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5242,
+        "aniId": 35242,
+        "createdAt": "2020-10-12T16:12:04.000Z",
+        "updatedAt": "2021-06-05T13:09:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

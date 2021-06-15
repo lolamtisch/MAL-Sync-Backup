@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ないしょの乙女リボルバー",
+    "Secret Maiden Revolver",
+    "Kurage's Love"
+  ],
+  "authors": [
+    "Haruyuki Sorase"
+  ],
+  "id": 61399,
+  "malId": 31399,
+  "type": "manga",
+  "title": "Naisho no Otome Revolver",
+  "url": "https://anilist.co/manga/61399",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31399.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:46.000Z",
+  "updatedAt": "2021-05-20T14:47:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6bd62186-1aa2-47f2-838d-9a1dfa221f55": {
+        "authors": [
+          "SORASE Haruyuki"
+        ],
+        "identifier": "6bd62186-1aa2-47f2-838d-9a1dfa221f55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secret Maiden Revolver",
+        "url": "https://mangadex.org/title/6bd62186-1aa2-47f2-838d-9a1dfa221f55",
+        "image": "https://uploads.mangadex.org/covers/6bd62186-1aa2-47f2-838d-9a1dfa221f55/9c9ab0f8-4787-48d3-a9f4-76fb3c674c20.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31399,
+        "aniId": 61399,
+        "createdAt": "2020-10-12T16:03:29.000Z",
+        "updatedAt": "2021-06-02T14:19:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "naisho_no_otome_revolver": {
+        "authors": [],
+        "identifier": "naisho_no_otome_revolver",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Naisho No Otome Revolver",
+        "url": "https://manganelo.com/manga/naisho_no_otome_revolver",
+        "image": "https://avt.mkklcdnv6.com/19/a/12-1583486518.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31399,
+        "aniId": 61399,
+        "createdAt": "2020-10-12T16:24:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "naisho_no_otome_revolver": {
+        "authors": [
+          "SORASE Haruyuki"
+        ],
+        "identifier": "naisho_no_otome_revolver",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Naisho no Otome Revolver",
+        "url": "https://fanfox.net/manga/naisho_no_otome_revolver/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9694/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31399,
+        "aniId": 61399,
+        "createdAt": "2021-03-26T16:19:25.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

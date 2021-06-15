@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "勘違い、ときどき恋"
+  ],
+  "authors": [
+    "Jimi Fumikawa"
+  ],
+  "id": 110500,
+  "malId": 119422,
+  "type": "manga",
+  "title": "Kanchigai, Tokidoki Koi",
+  "url": "https://anilist.co/manga/110500",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110500-ScCOIfTOQWmq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:08.000Z",
+  "updatedAt": "2021-05-20T14:58:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5219edb3-05b2-47aa-a44d-fff8aa0602d8": {
+        "authors": [
+          "Fumikawa Jimi"
+        ],
+        "identifier": "5219edb3-05b2-47aa-a44d-fff8aa0602d8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanchigai, Tokidoki Koi",
+        "url": "https://mangadex.org/title/5219edb3-05b2-47aa-a44d-fff8aa0602d8",
+        "image": "https://uploads.mangadex.org/covers/5219edb3-05b2-47aa-a44d-fff8aa0602d8/85a124ed-af1c-4370-9e20-6843c307d074.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119422,
+        "aniId": 110500,
+        "createdAt": "2020-10-12T16:15:39.000Z",
+        "updatedAt": "2021-06-06T15:34:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "qr919504": {
+        "authors": [],
+        "identifier": "qr919504",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kanchigai, Tokidoki Koi",
+        "url": "https://manganelo.com/manga/qr919504",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/908-qr919504.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119422,
+        "aniId": 110500,
+        "createdAt": "2020-10-12T16:25:00.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

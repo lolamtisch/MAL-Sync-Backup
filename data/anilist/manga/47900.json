@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ふたりとふたり",
+    "Two and Two",
+    "二人と二人"
+  ],
+  "authors": [
+    "Akihito Yoshitomi"
+  ],
+  "id": 47900,
+  "malId": 17900,
+  "type": "manga",
+  "title": "Futari to Futari",
+  "url": "https://anilist.co/manga/47900",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47900-6wy9Pva6gN7i.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:14.000Z",
+  "updatedAt": "2021-05-20T14:44:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "23a7cf68-58a3-4c18-a89b-ae827f934e5b": {
+        "authors": [
+          "Yoshitomi Akihito"
+        ],
+        "identifier": "23a7cf68-58a3-4c18-a89b-ae827f934e5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futari to Futari",
+        "url": "https://mangadex.org/title/23a7cf68-58a3-4c18-a89b-ae827f934e5b",
+        "image": "https://uploads.mangadex.org/covers/23a7cf68-58a3-4c18-a89b-ae827f934e5b/f8b2aa17-5cd2-444e-b1bb-82d6549ed12a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17900,
+        "aniId": 47900,
+        "createdAt": "2020-10-12T16:05:08.000Z",
+        "updatedAt": "2021-06-03T10:31:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "futari_to_futari": {
+        "authors": [],
+        "identifier": "futari_to_futari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Futari To Futari",
+        "url": "https://manganelo.com/manga/futari_to_futari",
+        "image": "https://avt.mkklcdnv6.com/38/y/12-1583487301.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17900,
+        "aniId": 47900,
+        "createdAt": "2020-10-12T16:23:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

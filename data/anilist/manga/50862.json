@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "セロ・メロウ",
+    "Zero Mellow",
+    "Finger"
+  ],
+  "authors": [
+    "Tohru Tagura"
+  ],
+  "id": 50862,
+  "malId": 20862,
+  "type": "manga",
+  "title": "Cello Mellow",
+  "url": "https://anilist.co/manga/50862",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50862-4cy4gkfWFuMC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:35.000Z",
+  "updatedAt": "2021-05-20T14:45:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd204aea-ae4f-4f64-884d-ee9decc9ee6f": {
+        "authors": [
+          "Tagura Tohru"
+        ],
+        "identifier": "cd204aea-ae4f-4f64-884d-ee9decc9ee6f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cello Mellow",
+        "url": "https://mangadex.org/title/cd204aea-ae4f-4f64-884d-ee9decc9ee6f",
+        "image": "https://uploads.mangadex.org/covers/cd204aea-ae4f-4f64-884d-ee9decc9ee6f/62def387-5512-4759-8b9f-912e76bcb6a9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20862,
+        "aniId": 50862,
+        "createdAt": "2020-10-12T16:04:19.000Z",
+        "updatedAt": "2021-06-02T20:14:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

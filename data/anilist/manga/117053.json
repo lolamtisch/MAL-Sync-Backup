@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "こんちゅき",
+    "昆虫姬",
+    "Insect Girl"
+  ],
+  "authors": [
+    "zunta",
+    "Murata Shinya"
+  ],
+  "id": 117053,
+  "malId": 134753,
+  "type": "manga",
+  "title": "Konchuki",
+  "url": "https://anilist.co/manga/117053",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117053-gneCf5yzU2bq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T02:20:16.000Z",
+  "updatedAt": "2021-06-08T02:20:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b86bb86b-a377-467b-a01c-ec29134ac036": {
+        "authors": [
+          "Zunta",
+          "Murata Shinya"
+        ],
+        "identifier": "b86bb86b-a377-467b-a01c-ec29134ac036",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Konchuki",
+        "url": "https://mangadex.org/title/b86bb86b-a377-467b-a01c-ec29134ac036",
+        "image": "https://uploads.mangadex.org/covers/b86bb86b-a377-467b-a01c-ec29134ac036/71f1d5c8-4c05-417c-9f45-b3866f4b1c0b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134753,
+        "aniId": 117053,
+        "createdAt": "2020-10-12T16:20:26.000Z",
+        "updatedAt": "2021-06-09T06:47:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fu924512": {
+        "authors": [
+          "Murata",
+          "Shinya"
+        ],
+        "identifier": "fu924512",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Konchuki",
+        "url": "https://manganelo.com/manga/fu924512",
+        "image": "https://avt.mkklcdnv6temp.com/28/v/22-1603094930.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134753,
+        "aniId": 117053,
+        "createdAt": "2020-10-20T18:09:03.000Z",
+        "updatedAt": "2021-06-08T02:50:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jy986981": {
+        "authors": [
+          "Murata Shinya",
+          "Zunta"
+        ],
+        "identifier": "manga-jy986981",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Konchuki",
+        "url": "https://manganato.com/manga-jy986981",
+        "image": "https://avt.mkklcdnv6temp.com/28/v/22-1603094930.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134753,
+        "aniId": 117053,
+        "createdAt": "2021-06-01T16:02:27.000Z",
+        "updatedAt": "2021-06-08T02:50:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

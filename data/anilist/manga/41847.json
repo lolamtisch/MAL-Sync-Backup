@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "트러블G"
+  ],
+  "authors": [
+    "Su-Yeon Kim"
+  ],
+  "id": 41847,
+  "malId": 11847,
+  "type": "manga",
+  "title": "Trouble G",
+  "url": "https://anilist.co/manga/41847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11847.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:14.000Z",
+  "updatedAt": "2021-05-20T14:42:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9fe65996-bbab-41c4-8553-d677f409c342": {
+        "authors": [
+          "KIM Su Yeon"
+        ],
+        "identifier": "9fe65996-bbab-41c4-8553-d677f409c342",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trouble G",
+        "url": "https://mangadex.org/title/9fe65996-bbab-41c4-8553-d677f409c342",
+        "image": "https://uploads.mangadex.org/covers/9fe65996-bbab-41c4-8553-d677f409c342/ed935263-0aa1-4018-8812-5ae9688c68ea.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11847,
+        "aniId": 41847,
+        "createdAt": "2020-10-12T16:11:58.000Z",
+        "updatedAt": "2021-06-05T12:24:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

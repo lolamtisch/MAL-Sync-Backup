@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "나노마신",
+    "Nanomasin"
+  ],
+  "authors": [
+    "Jeolmu  Hyeon",
+    "Gangbulgoe Geum"
+  ],
+  "id": 120980,
+  "malId": null,
+  "type": "manga",
+  "title": "Nano Machine",
+  "url": "https://anilist.co/manga/120980",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120980-Sf8QHHuOuJXQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T14:12:59.000Z",
+  "updatedAt": "2021-06-06T12:19:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6e4805a6-75ab-462d-883c-4ddedb8e4df6": {
+        "authors": [
+          "금강불괴",
+          "현절무",
+          "한중월야"
+        ],
+        "identifier": "6e4805a6-75ab-462d-883c-4ddedb8e4df6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nano Machine",
+        "url": "https://mangadex.org/title/6e4805a6-75ab-462d-883c-4ddedb8e4df6",
+        "image": "https://uploads.mangadex.org/covers/6e4805a6-75ab-462d-883c-4ddedb8e4df6/e6066d48-cba0-4ac3-8121-9ff49d7f3f7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120980,
+        "createdAt": "2020-10-12T16:20:07.000Z",
+        "updatedAt": "2021-06-08T00:51:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

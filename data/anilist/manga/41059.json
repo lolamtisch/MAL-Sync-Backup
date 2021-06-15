@@ -1,0 +1,61 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Jeong-Han Kim"
+  ],
+  "id": 41059,
+  "malId": 11059,
+  "type": "manga",
+  "title": "Wild School",
+  "url": "https://anilist.co/manga/41059",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11059.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:15.000Z",
+  "updatedAt": "2021-05-20T14:41:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "75380235-3719-4ad8-9a5d-9937841efc38": {
+        "authors": [
+          "Jeong-Han Kim"
+        ],
+        "identifier": "75380235-3719-4ad8-9a5d-9937841efc38",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wild School",
+        "url": "https://mangadex.org/title/75380235-3719-4ad8-9a5d-9937841efc38",
+        "image": "https://uploads.mangadex.org/covers/75380235-3719-4ad8-9a5d-9937841efc38/3753e60a-ae5f-47fa-a884-9b867e96c0ab.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11059,
+        "aniId": 41059,
+        "createdAt": "2020-10-12T16:03:45.000Z",
+        "updatedAt": "2021-06-02T16:14:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "wild_school": {
+        "authors": [],
+        "identifier": "wild_school",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Wild School",
+        "url": "https://manganelo.com/manga/wild_school",
+        "image": "https://avt.mkklcdnv6.com/5/o/10-1583482374.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11059,
+        "aniId": 41059,
+        "createdAt": "2020-10-12T16:26:09.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

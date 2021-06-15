@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yumi Kayama"
+  ],
+  "id": 32716,
+  "malId": 2716,
+  "type": "manga",
+  "title": "Replicant no Yoru",
+  "url": "https://anilist.co/manga/32716",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2716.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a1d830fb-c44e-473f-98c3-1bd0b0cc43bb": {
+        "authors": [
+          "KAYAMA Yumi"
+        ],
+        "identifier": "a1d830fb-c44e-473f-98c3-1bd0b0cc43bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Replicant no Yoru",
+        "url": "https://mangadex.org/title/a1d830fb-c44e-473f-98c3-1bd0b0cc43bb",
+        "image": "https://uploads.mangadex.org/covers/a1d830fb-c44e-473f-98c3-1bd0b0cc43bb/7a0d4d4c-71cb-43c7-a1f5-8cb70579f6a5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2716,
+        "aniId": 32716,
+        "createdAt": "2021-02-18T16:35:20.000Z",
+        "updatedAt": "2021-06-08T11:32:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

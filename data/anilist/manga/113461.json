@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "最果てのソルテ",
+    "Saihate no Sorte",
+    "World End Solte"
+  ],
+  "authors": [
+    "Satoshi Mizukami"
+  ],
+  "id": 113461,
+  "malId": 123978,
+  "type": "manga",
+  "title": "Saihate no Solte",
+  "url": "https://anilist.co/manga/113461",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113461-Ey1pzplZB7CX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:01.000Z",
+  "updatedAt": "2021-05-20T14:59:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496": {
+        "authors": [
+          "Mizukami Satoshi"
+        ],
+        "identifier": "d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Solte the Traveler",
+        "url": "https://mangadex.org/title/d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496",
+        "image": "https://uploads.mangadex.org/covers/d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496/03186d48-e4ac-4d2c-86c7-bca5e8d9f163.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123978,
+        "aniId": 113461,
+        "createdAt": "2020-10-12T16:18:15.000Z",
+        "updatedAt": "2021-06-07T15:21:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jj987092": {
+        "authors": [
+          "Mizukami Satoshi"
+        ],
+        "identifier": "manga-jj987092",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "World End Solte",
+        "url": "https://manganato.com/manga-jj987092",
+        "image": "https://avt.mkklcdnv6temp.com/33/k/22-1604077183.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123978,
+        "aniId": 113461,
+        "createdAt": "2021-06-05T13:20:22.000Z",
+        "updatedAt": "2021-06-05T13:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

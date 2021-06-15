@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "イノセントブルー"
+  ],
+  "authors": [
+    "Marie Yukishiro",
+    "Azumi Ogawa"
+  ],
+  "id": 43368,
+  "malId": 13368,
+  "type": "manga",
+  "title": "Innocent Blue",
+  "url": "https://anilist.co/manga/43368",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13368.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9ea2cdaf-aa73-4d50-9f0e-efa65a3d63b7": {
+        "authors": [
+          "Yukishiro Marie",
+          "Ogawa Azumi"
+        ],
+        "identifier": "9ea2cdaf-aa73-4d50-9f0e-efa65a3d63b7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Innocent Blue",
+        "url": "https://mangadex.org/title/9ea2cdaf-aa73-4d50-9f0e-efa65a3d63b7",
+        "image": "https://uploads.mangadex.org/covers/9ea2cdaf-aa73-4d50-9f0e-efa65a3d63b7/fca5e854-1be3-4f94-b73f-30e344c95b5a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13368,
+        "aniId": 43368,
+        "createdAt": "2020-10-12T16:15:18.000Z",
+        "updatedAt": "2021-06-06T12:30:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

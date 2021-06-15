@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Hiromu Arakawa"
+  ],
+  "id": 33303,
+  "malId": 3303,
+  "type": "manga",
+  "title": "Stray Dog",
+  "url": "https://anilist.co/manga/33303",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3303.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e0b9d06-cf97-4c12-9e0b-f6e41a72181b": {
+        "authors": [
+          "Arakawa Hiromu"
+        ],
+        "identifier": "3e0b9d06-cf97-4c12-9e0b-f6e41a72181b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Stray Dog",
+        "url": "https://mangadex.org/title/3e0b9d06-cf97-4c12-9e0b-f6e41a72181b",
+        "image": "https://uploads.mangadex.org/covers/3e0b9d06-cf97-4c12-9e0b-f6e41a72181b/fdf15728-fdad-4873-b691-94dc09535fa7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3303,
+        "aniId": 33303,
+        "createdAt": "2020-10-12T16:03:41.000Z",
+        "updatedAt": "2021-06-02T15:44:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "テイルズ オブ ジ アビス",
+    "ToA"
+  ],
+  "authors": [
+    "Rei",
+    "Bandai-Namco Entertainment"
+  ],
+  "id": 31756,
+  "malId": 1756,
+  "type": "manga",
+  "title": "Tales of the Abyss",
+  "url": "https://anilist.co/manga/31756",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31756-uluKQAG8GYHe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:53.000Z",
+  "updatedAt": "2021-05-20T14:36:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e929a5b7-4795-4641-af07-bcd8a656c6bc": {
+        "authors": [
+          "Bandai Namco Games",
+          "Rei",
+          "Namco Tales Studio"
+        ],
+        "identifier": "e929a5b7-4795-4641-af07-bcd8a656c6bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of the Abyss",
+        "url": "https://mangadex.org/title/e929a5b7-4795-4641-af07-bcd8a656c6bc",
+        "image": "https://uploads.mangadex.org/covers/e929a5b7-4795-4641-af07-bcd8a656c6bc/483a139f-0a2b-48c5-854e-3b963e6de049.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1756,
+        "aniId": 31756,
+        "createdAt": "2020-10-12T16:05:27.000Z",
+        "updatedAt": "2021-06-03T12:40:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tales-of-the-abyss": {
+        "authors": [
+          "Bandai Namco Games",
+          "Rei (1)"
+        ],
+        "identifier": "tales-of-the-abyss",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tales of the Abyss",
+        "url": "https://mangasee123.com/manga/Tales-Of-The-Abyss",
+        "image": "https://cover.nep.li/cover/Tales-Of-The-Abyss.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1756,
+        "aniId": 31756,
+        "createdAt": "2021-05-11T15:17:36.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

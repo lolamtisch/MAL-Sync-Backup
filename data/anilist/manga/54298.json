@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ぎんぎつね",
+    "Silver Fox"
+  ],
+  "authors": [
+    "Sayori Ochiai"
+  ],
+  "id": 54298,
+  "malId": 24298,
+  "type": "manga",
+  "title": "Gingitsune",
+  "url": "https://anilist.co/manga/54298",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54298-0WpcJPg7JJg6.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:43.000Z",
+  "updatedAt": "2021-05-20T14:46:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8d242e4c-0b6e-416f-abca-a08e7a3cea60": {
+        "authors": [
+          "OCHIAI Sayori"
+        ],
+        "identifier": "8d242e4c-0b6e-416f-abca-a08e7a3cea60",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gingitsune",
+        "url": "https://mangadex.org/title/8d242e4c-0b6e-416f-abca-a08e7a3cea60",
+        "image": "https://uploads.mangadex.org/covers/8d242e4c-0b6e-416f-abca-a08e7a3cea60/71bae2e8-2cc3-4581-a9d6-c1e497d71bc2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24298,
+        "aniId": 54298,
+        "createdAt": "2020-10-12T16:07:48.000Z",
+        "updatedAt": "2021-06-04T05:26:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gingitsune": {
+        "authors": [],
+        "identifier": "gingitsune",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gingitsune",
+        "url": "https://manganelo.com/manga/gingitsune",
+        "image": "https://avt.mkklcdnv6.com/18/x/2-1583466440.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24298,
+        "aniId": 54298,
+        "createdAt": "2020-10-12T16:23:06.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

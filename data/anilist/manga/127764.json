@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "巨蟲山脈"
+  ],
+  "authors": [
+    "Yasutaka Fujimi",
+    "Yousuke Sazanami"
+  ],
+  "id": 127764,
+  "malId": 132167,
+  "type": "manga",
+  "title": "Kyochuu Sanmyaku",
+  "url": "https://anilist.co/manga/127764",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b127764-nD2gWoXvTICg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:06.000Z",
+  "updatedAt": "2021-05-20T15:00:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "kyomushi_sanmyaku": {
+        "authors": [
+          "FUJIMI Yasutaka"
+        ],
+        "identifier": "kyomushi_sanmyaku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyomushi Sanmyaku",
+        "url": "https://fanfox.net/manga/kyomushi_sanmyaku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36581/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 132167,
+        "aniId": 127764,
+        "createdAt": "2021-01-02T15:20:21.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

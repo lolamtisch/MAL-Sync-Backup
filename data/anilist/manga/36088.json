@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Puppet",
+    "傀儡",
+    "Puppet",
+    "Kugutsu"
+  ],
+  "authors": [
+    "Akira Takahashi"
+  ],
+  "id": 36088,
+  "malId": 6088,
+  "type": "manga",
+  "title": "Kugutsu",
+  "url": "https://anilist.co/manga/36088",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6088.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:38.000Z",
+  "updatedAt": "2021-05-20T14:39:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c49bd378-a296-42d3-9360-2aa0659c0262": {
+        "authors": [
+          "TAKAHASHI Akira"
+        ],
+        "identifier": "c49bd378-a296-42d3-9360-2aa0659c0262",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kugutsu",
+        "url": "https://mangadex.org/title/c49bd378-a296-42d3-9360-2aa0659c0262",
+        "image": "https://uploads.mangadex.org/covers/c49bd378-a296-42d3-9360-2aa0659c0262/dfe172c0-478c-4d9c-b4da-40dd33e71281.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6088,
+        "aniId": 36088,
+        "createdAt": "2020-10-12T16:03:19.000Z",
+        "updatedAt": "2021-06-02T13:12:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

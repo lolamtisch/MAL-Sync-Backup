@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Hero's",
+    "Mashima HERO's"
+  ],
+  "authors": [
+    "Mashima, Hiro"
+  ],
+  "id": 122473,
+  "type": "manga",
+  "title": "Mashima Hero's",
+  "url": "https://myanimelist.net/manga/122473/Mashima_Heros",
+  "image": "https://cdn.myanimelist.net/images/manga/3/229267.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:09.000Z",
+  "updatedAt": "2021-04-30T23:04:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "95e964d3-55da-4218-b841-46f0f2db663c": {
+        "authors": [
+          "Mashima Hiro"
+        ],
+        "identifier": "95e964d3-55da-4218-b841-46f0f2db663c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mashima HERO'S",
+        "url": "https://mangadex.org/title/95e964d3-55da-4218-b841-46f0f2db663c",
+        "image": "https://uploads.mangadex.org/covers/95e964d3-55da-4218-b841-46f0f2db663c/5f55f791-8b5f-4626-9004-ba7ff973b034.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122473,
+        "aniId": 112531,
+        "createdAt": "2020-10-12T16:17:27.000Z",
+        "updatedAt": "2021-06-07T07:41:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nx920886": {
+        "authors": [],
+        "identifier": "nx920886",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hero's",
+        "url": "https://manganelo.com/manga/nx920886",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2284-nx920886.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122473,
+        "aniId": 112531,
+        "createdAt": "2020-10-12T16:24:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "heros": {
+        "authors": [
+          "MASHIMA Hiro"
+        ],
+        "identifier": "heros",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "HERO'S",
+        "url": "https://mangasee123.com/manga/HEROS",
+        "image": "https://cover.nep.li/cover/HEROS.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 122473,
+        "aniId": 112531,
+        "createdAt": "2020-12-11T19:18:33.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

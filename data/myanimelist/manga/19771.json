@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ボクの番台さん"
+  ],
+  "authors": [
+    "Azuma, Yuki"
+  ],
+  "id": 19771,
+  "type": "manga",
+  "title": "Boku no Bandai-san",
+  "url": "https://myanimelist.net/manga/19771/Boku_no_Bandai-san",
+  "image": "https://cdn.myanimelist.net/images/manga/3/53737.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:46.000Z",
+  "updatedAt": "2021-04-08T16:51:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1582171-e520-4d0e-88e4-c366b539808b": {
+        "authors": [
+          "Azuma Yuki"
+        ],
+        "identifier": "e1582171-e520-4d0e-88e4-c366b539808b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Bandai-san",
+        "url": "https://mangadex.org/title/e1582171-e520-4d0e-88e4-c366b539808b",
+        "image": "https://uploads.mangadex.org/covers/e1582171-e520-4d0e-88e4-c366b539808b/dc7d4fa9-5d87-4991-a407-8ab9e9893985.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19771,
+        "aniId": 49771,
+        "createdAt": "2020-10-12T16:04:30.000Z",
+        "updatedAt": "2021-06-02T21:31:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_no_bandaisan": {
+        "authors": [
+          "Azuma",
+          "Yuki"
+        ],
+        "identifier": "boku_no_bandaisan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku No Bandai-San",
+        "url": "https://manganelo.com/manga/boku_no_bandaisan",
+        "image": "https://avt.mkklcdnv6temp.com/40/d/6-1583475793.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19771,
+        "aniId": 49771,
+        "createdAt": "2021-04-08T16:51:19.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

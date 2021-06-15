@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "君のせい"
+  ],
+  "authors": [
+    "Chatani, Ami",
+    "Sakurairo"
+  ],
+  "id": 17963,
+  "type": "manga",
+  "title": "Kimi no Sei",
+  "url": "https://myanimelist.net/manga/17963/Kimi_no_Sei",
+  "image": "https://cdn.myanimelist.net/images/manga/3/28300.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:30.000Z",
+  "updatedAt": "2021-01-21T21:03:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "62984994-35e8-4d64-a519-22815715f447": {
+        "authors": [
+          "Sakura Iro",
+          "Chatani Ami"
+        ],
+        "identifier": "62984994-35e8-4d64-a519-22815715f447",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi no Sei",
+        "url": "https://mangadex.org/title/62984994-35e8-4d64-a519-22815715f447",
+        "image": "https://uploads.mangadex.org/covers/62984994-35e8-4d64-a519-22815715f447/73d27764-ffba-47cd-8175-5d6713429b6d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17963,
+        "aniId": 47963,
+        "createdAt": "2020-10-12T16:03:47.000Z",
+        "updatedAt": "2021-06-02T16:24:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kimi-no-sei": {
+        "authors": [
+          "CHATANI Ami",
+          "SAKURA Iro"
+        ],
+        "identifier": "kimi-no-sei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi no Sei",
+        "url": "https://mangasee123.com/manga/Kimi-No-Sei",
+        "image": "https://cover.nep.li/cover/Kimi-No-Sei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17963,
+        "aniId": 47963,
+        "createdAt": "2021-01-21T21:03:54.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Fragment"
+  ],
+  "authors": [
+    "Shiki Miyakata"
+  ],
+  "id": 59687,
+  "malId": 29687,
+  "type": "manga",
+  "title": "Fragment",
+  "url": "https://anilist.co/manga/59687",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/29687.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:37.000Z",
+  "updatedAt": "2021-05-20T14:47:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8787958d-a3f1-4d48-8220-fad148c7c28e": {
+        "authors": [
+          "Miyakata Shiki"
+        ],
+        "identifier": "8787958d-a3f1-4d48-8220-fad148c7c28e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fragment",
+        "url": "https://mangadex.org/title/8787958d-a3f1-4d48-8220-fad148c7c28e",
+        "image": "https://uploads.mangadex.org/covers/8787958d-a3f1-4d48-8220-fad148c7c28e/843ff872-05c8-4765-a5ad-1f9374e03a0a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29687,
+        "aniId": 59687,
+        "createdAt": "2020-10-12T16:03:32.000Z",
+        "updatedAt": "2021-06-02T14:45:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

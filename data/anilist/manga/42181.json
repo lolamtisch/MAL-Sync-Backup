@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "大東京トイボックス",
+    "Giga Tokyo Toybox",
+    "Dai Tokyo Toybox",
+    "Dai Tokyo Toy Box"
+  ],
+  "authors": [
+    "Ume"
+  ],
+  "id": 42181,
+  "malId": 12181,
+  "type": "manga",
+  "title": "Giga Tokyo Toy Box",
+  "url": "https://anilist.co/manga/42181",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12181.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "079151b3-85e9-4f6a-9a8d-ce527ddc011d": {
+        "authors": [
+          "UME"
+        ],
+        "identifier": "079151b3-85e9-4f6a-9a8d-ce527ddc011d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Giga Tokyo Toy Box",
+        "url": "https://mangadex.org/title/079151b3-85e9-4f6a-9a8d-ce527ddc011d",
+        "image": "https://uploads.mangadex.org/covers/079151b3-85e9-4f6a-9a8d-ce527ddc011d/4b5e7876-37e2-44d7-962d-fb9fffd91db4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12181,
+        "aniId": 42181,
+        "createdAt": "2020-10-12T16:07:14.000Z",
+        "updatedAt": "2021-06-04T01:21:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "giga_tokyo_toy_box": {
+        "authors": [],
+        "identifier": "giga_tokyo_toy_box",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Giga Tokyo Toy Box",
+        "url": "https://manganelo.com/manga/giga_tokyo_toy_box",
+        "image": "https://avt.mkklcdnv6.com/37/c/12-1583487222.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12181,
+        "aniId": 42181,
+        "createdAt": "2020-10-12T16:23:06.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

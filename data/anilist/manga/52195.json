@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "エンゼルの丘",
+    "Enzeru no Oka"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 52195,
+  "malId": 22195,
+  "type": "manga",
+  "title": "Angel no Oka",
+  "url": "https://anilist.co/manga/52195",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22195.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:29.000Z",
+  "updatedAt": "2021-05-20T14:46:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "322a1a87-e262-4e26-9603-5be9c460fbe0": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "322a1a87-e262-4e26-9603-5be9c460fbe0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Angel no Oka",
+        "url": "https://mangadex.org/title/322a1a87-e262-4e26-9603-5be9c460fbe0",
+        "image": "https://uploads.mangadex.org/covers/322a1a87-e262-4e26-9603-5be9c460fbe0/679230a9-5d1f-4984-ad9c-69e28c8ccde8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22195,
+        "aniId": 52195,
+        "createdAt": "2020-10-12T16:03:50.000Z",
+        "updatedAt": "2021-06-02T16:51:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "angel-no-oka": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "angel-no-oka",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Angel no Oka",
+        "url": "https://mangasee123.com/manga/Angel-No-Oka",
+        "image": "https://cover.nep.li/cover/Angel-No-Oka.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22195,
+        "aniId": 52195,
+        "createdAt": "2021-05-04T08:33:08.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

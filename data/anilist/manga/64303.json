@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "僕の後ろに魔女がいる",
+    "There is a Witch Behind Me"
+  ],
+  "authors": [
+    "Hitsuji Yamada"
+  ],
+  "id": 64303,
+  "malId": 34303,
+  "type": "manga",
+  "title": "Boku no Ushiro ni Majo ga Iru",
+  "url": "https://anilist.co/manga/64303",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/34303.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:59.000Z",
+  "updatedAt": "2021-05-20T14:47:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "67bcffa9-406d-45c8-a34c-e32b0d11c572": {
+        "authors": [
+          "Yamada Hitsuzi"
+        ],
+        "identifier": "67bcffa9-406d-45c8-a34c-e32b0d11c572",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Ushiro ni Majo ga Iru",
+        "url": "https://mangadex.org/title/67bcffa9-406d-45c8-a34c-e32b0d11c572",
+        "image": "https://uploads.mangadex.org/covers/67bcffa9-406d-45c8-a34c-e32b0d11c572/f19b18af-3fe3-40ea-a144-201827f2e98e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34303,
+        "aniId": 64303,
+        "createdAt": "2020-10-12T16:04:49.000Z",
+        "updatedAt": "2021-06-02T23:41:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_no_ushiro_ni_majo_ga_iru": {
+        "authors": [
+          "Yamada",
+          "Hitsuji"
+        ],
+        "identifier": "boku_no_ushiro_ni_majo_ga_iru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku No Ushiro Ni Majo Ga Iru",
+        "url": "https://manganelo.com/manga/boku_no_ushiro_ni_majo_ga_iru",
+        "image": "https://avt.mkklcdnv6.com/10/x/3-1583468070.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34303,
+        "aniId": 64303,
+        "createdAt": "2020-10-12T18:25:34.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "boku-no-ushiro-ni-majo-ga-iru": {
+        "authors": [
+          "YAMADA Hitsuji"
+        ],
+        "identifier": "boku-no-ushiro-ni-majo-ga-iru",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Boku no Ushiro ni Majo ga Iru",
+        "url": "https://mangasee123.com/manga/Boku-No-Ushiro-Ni-Majo-Ga-Iru",
+        "image": "https://cover.nep.li/cover/Boku-No-Ushiro-Ni-Majo-Ga-Iru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34303,
+        "aniId": 64303,
+        "createdAt": "2021-03-28T01:19:21.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

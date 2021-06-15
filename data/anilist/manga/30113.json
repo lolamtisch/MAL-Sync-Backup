@@ -1,0 +1,115 @@
+{
+  "altTitle": [
+    "Clover",
+    "Clover",
+    "Trèfle"
+  ],
+  "authors": [
+    "CLAMP",
+    "Karen McGillicuddy",
+    "Ray Yoshimoto"
+  ],
+  "id": 30113,
+  "malId": 113,
+  "type": "manga",
+  "title": "Clover",
+  "url": "https://anilist.co/manga/30113",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30113-GQ9zbawyrdUc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1f16ae6-28c4-4b03-936f-bf4dde8e9684": {
+        "authors": [
+          "CLAMP",
+          "Apapa Mokona",
+          "Ohkawa Ageha"
+        ],
+        "identifier": "e1f16ae6-28c4-4b03-936f-bf4dde8e9684",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Clover",
+        "url": "https://mangadex.org/title/e1f16ae6-28c4-4b03-936f-bf4dde8e9684",
+        "image": "https://uploads.mangadex.org/covers/e1f16ae6-28c4-4b03-936f-bf4dde8e9684/ccedb444-2ade-4939-aebe-4c861ee8a61f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113,
+        "aniId": 30113,
+        "createdAt": "2020-10-12T16:08:48.000Z",
+        "updatedAt": "2021-06-04T12:51:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "clover_tetsuhiro_hirakawa": {
+        "authors": [],
+        "identifier": "clover_tetsuhiro_hirakawa",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Clover (TETSUHIRO Hirakawa)",
+        "url": "https://manganelo.com/manga/clover_tetsuhiro_hirakawa",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/327-clover_tetsuhiro_hirakawa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113,
+        "aniId": 30113,
+        "createdAt": "2020-10-12T16:22:30.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "clover_clamp": {
+        "authors": [
+          "OHKAWA Ageha",
+          "CLAMP"
+        ],
+        "identifier": "clover_clamp",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Clover (Clamp)",
+        "url": "https://fanfox.net/manga/clover_clamp/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/222/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113,
+        "aniId": 30113,
+        "createdAt": "2021-02-10T13:40:41.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "clover": {
+        "authors": [
+          "CLAMP",
+          "OHKAWA Ageha"
+        ],
+        "identifier": "clover",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Clover",
+        "url": "https://mangasee123.com/manga/Clover",
+        "image": "https://cover.nep.li/cover/Clover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113,
+        "aniId": 30113,
+        "createdAt": "2021-03-13T12:39:18.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

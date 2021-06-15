@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yuzuha Ougi"
+  ],
+  "id": 32339,
+  "malId": 2339,
+  "type": "manga",
+  "title": "Star ni Ai",
+  "url": "https://anilist.co/manga/32339",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2339.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8519a5d5-c13e-4d11-9e72-b272bdfb1d3a": {
+        "authors": [
+          "Ougi Yuzuha"
+        ],
+        "identifier": "8519a5d5-c13e-4d11-9e72-b272bdfb1d3a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Star ni Ai",
+        "url": "https://mangadex.org/title/8519a5d5-c13e-4d11-9e72-b272bdfb1d3a",
+        "image": "https://uploads.mangadex.org/covers/8519a5d5-c13e-4d11-9e72-b272bdfb1d3a/f1d53309-12c5-4f82-8bb6-e161125aaa47.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2339,
+        "aniId": 32339,
+        "createdAt": "2020-10-12T16:17:32.000Z",
+        "updatedAt": "2021-06-07T08:27:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

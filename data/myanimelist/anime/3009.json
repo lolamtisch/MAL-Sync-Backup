@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "Tiger Mask",
+    "タイガーマスク"
+  ],
+  "id": 3009,
+  "type": "anime",
+  "title": "Tiger Mask",
+  "url": "https://myanimelist.net/anime/3009/Tiger_Mask",
+  "image": "https://cdn.myanimelist.net/images/anime/8/71351.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:34.000Z",
+  "updatedAt": "2021-04-27T16:19:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "tiger-mask-w": {
+        "identifier": "tiger-mask-w",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tiger Mask W",
+        "url": "https://www.gogoanime.movie/category/tiger-mask-w",
+        "image": "https://gogocdn.net/cover/tiger-mask-w.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3009,
+        "aniId": 3009,
+        "createdAt": "2020-10-12T16:02:05.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

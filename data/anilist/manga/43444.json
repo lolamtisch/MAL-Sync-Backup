@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "迷う男",
+    "A Man Who Cannot Decide It"
+  ],
+  "authors": [
+    "Shiuko Kano"
+  ],
+  "id": 43444,
+  "malId": 13444,
+  "type": "manga",
+  "title": "Mayou Otoko",
+  "url": "https://anilist.co/manga/43444",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43444-fKOjnLLYr1S4.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T14:19:28.000Z",
+  "updatedAt": "2021-06-05T14:19:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2fb5e568-4ee1-4052-9a73-a9200737e363": {
+        "authors": [
+          "Kano Shiuko"
+        ],
+        "identifier": "2fb5e568-4ee1-4052-9a73-a9200737e363",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayou Otoko",
+        "url": "https://mangadex.org/title/2fb5e568-4ee1-4052-9a73-a9200737e363",
+        "image": "https://uploads.mangadex.org/covers/2fb5e568-4ee1-4052-9a73-a9200737e363/bf11a0ca-5f4f-427e-9f55-2450d9454068.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13444,
+        "aniId": 43444,
+        "createdAt": "2020-10-12T16:12:12.000Z",
+        "updatedAt": "2021-06-05T15:28:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "설중언"
+  ],
+  "authors": [
+    "Song-Ha"
+  ],
+  "id": 90004,
+  "malId": 64563,
+  "type": "manga",
+  "title": "Muffled Message",
+  "url": "https://anilist.co/manga/90004",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b90004-apXI4o4hk1OT.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb44e9ed-1796-4f7d-90a4-14735e410b03": {
+        "authors": [
+          "Song ha"
+        ],
+        "identifier": "cb44e9ed-1796-4f7d-90a4-14735e410b03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Muffled Message",
+        "url": "https://mangadex.org/title/cb44e9ed-1796-4f7d-90a4-14735e410b03",
+        "image": "https://uploads.mangadex.org/covers/cb44e9ed-1796-4f7d-90a4-14735e410b03/4827f986-2f90-4eb1-9c2a-1beaf68c5788.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64563,
+        "aniId": 90004,
+        "createdAt": "2020-10-12T16:14:14.000Z",
+        "updatedAt": "2021-06-06T03:33:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

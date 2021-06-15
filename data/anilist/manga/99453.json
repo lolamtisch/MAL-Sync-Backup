@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "King of Eden",
+    "에덴의 왕",
+    "The King of Eden"
+  ],
+  "authors": [
+    "Takashi Nagasaki",
+    "Sang Cheol Lee",
+    "Abigail Blackman",
+    "Caleb Cook"
+  ],
+  "id": 99453,
+  "malId": 71825,
+  "type": "manga",
+  "title": "Edenui Wang",
+  "url": "https://anilist.co/manga/99453",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99453-BAjmpAJsqEiE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:35.000Z",
+  "updatedAt": "2021-05-20T14:51:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "ni_xi_ba_mo_wang": {
+        "authors": [],
+        "identifier": "ni_xi_ba_mo_wang",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ni Xi Ba Mo Wang!",
+        "url": "https://manganelo.com/manga/ni_xi_ba_mo_wang",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16451-ni_xi_ba_mo_wang.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71825,
+        "aniId": 99453,
+        "createdAt": "2020-10-12T16:24:32.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "330a33c3-760c-4907-a60c-516b3aaaf4fb": {
+        "authors": [
+          "Ignito",
+          "Nagasaki Takashi"
+        ],
+        "identifier": "330a33c3-760c-4907-a60c-516b3aaaf4fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "King of Eden",
+        "url": "https://mangadex.org/title/330a33c3-760c-4907-a60c-516b3aaaf4fb",
+        "image": "https://uploads.mangadex.org/covers/330a33c3-760c-4907-a60c-516b3aaaf4fb/ec3ce716-da15-469d-b204-09f6e1e2e402.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71825,
+        "aniId": 99453,
+        "createdAt": "2020-12-24T18:56:44.000Z",
+        "updatedAt": "2021-06-08T09:04:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "king-of-eden": {
+        "authors": [
+          "NAGASAKI Takashi"
+        ],
+        "identifier": "king-of-eden",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "King of Eden",
+        "url": "https://mangasee123.com/manga/King-of-Eden",
+        "image": "https://cover.nep.li/cover/King-of-Eden.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71825,
+        "aniId": 99453,
+        "createdAt": "2021-01-05T19:27:00.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

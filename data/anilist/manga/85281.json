@@ -1,0 +1,131 @@
+{
+  "altTitle": [
+    "Murciélago",
+    "MURCIÉLAGO-ムルシエラゴ-",
+    "Murcielago"
+  ],
+  "authors": [
+    "Kana Yoshimura",
+    "Alexis Eckerman",
+    "Christine Dashiell"
+  ],
+  "id": 85281,
+  "malId": 65705,
+  "type": "manga",
+  "title": "Murciélago",
+  "url": "https://anilist.co/manga/85281",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85281-nQMiUnSqg0F0.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:53.000Z",
+  "updatedAt": "2021-05-27T21:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd355881-6f89-4917-9a57-fc9f75377293": {
+        "authors": [
+          "Yoshimura Kana"
+        ],
+        "identifier": "cd355881-6f89-4917-9a57-fc9f75377293",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Murciélago",
+        "url": "https://mangadex.org/title/cd355881-6f89-4917-9a57-fc9f75377293",
+        "image": "https://uploads.mangadex.org/covers/cd355881-6f89-4917-9a57-fc9f75377293/f418f7f9-9fa6-4ad9-8ec0-c73ccf8790b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65705,
+        "aniId": 85281,
+        "createdAt": "2020-10-12T16:07:05.000Z",
+        "updatedAt": "2021-06-04T00:20:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "murcielago": {
+        "authors": [],
+        "identifier": "murcielago",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Murcielago",
+        "url": "https://manganelo.com/manga/murcielago/",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1879-murcielago.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65705,
+        "aniId": 85281,
+        "createdAt": "2020-10-12T16:24:25.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "murcielago": {
+        "authors": [
+          "YOSHIMURA Kana"
+        ],
+        "identifier": "murcielago",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Murcielago",
+        "url": "https://mangasee123.com/manga/Murcielago",
+        "image": "https://cover.nep.li/cover/Murcielago.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65705,
+        "aniId": 85281,
+        "createdAt": "2020-12-19T22:27:29.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "murcielago": {
+        "authors": [
+          "YOSHIMURA Kana"
+        ],
+        "identifier": "murcielago",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Murcielago",
+        "url": "https://fanfox.net/manga/murcielago/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13539/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65705,
+        "aniId": 85281,
+        "createdAt": "2020-12-25T22:56:23.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      },
+      "murcielago_arana": {
+        "authors": [
+          "YOSHIMURA Kana"
+        ],
+        "identifier": "murcielago_arana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Murcielago Arana",
+        "url": "https://fanfox.net/manga/murcielago_arana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31381/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65705,
+        "aniId": 85281,
+        "createdAt": "2021-01-31T13:31:47.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

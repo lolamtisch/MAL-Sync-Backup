@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ふたりよがり"
+  ],
+  "authors": [
+    "Kazuya Yoshiura"
+  ],
+  "id": 83685,
+  "malId": 53685,
+  "type": "manga",
+  "title": "Futari Yogari",
+  "url": "https://anilist.co/manga/83685",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx83685-eiieaToVhGNA.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:49:57.000Z",
+  "updatedAt": "2021-05-20T14:49:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90e5cde2-409d-4385-b40f-63e7ad549ef1": {
+        "authors": [
+          "Yoshiura Kazuya"
+        ],
+        "identifier": "90e5cde2-409d-4385-b40f-63e7ad549ef1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futari Yogari",
+        "url": "https://mangadex.org/title/90e5cde2-409d-4385-b40f-63e7ad549ef1",
+        "image": "https://uploads.mangadex.org/covers/90e5cde2-409d-4385-b40f-63e7ad549ef1/f3ad7ff1-eefc-4133-82a4-1621e50be232.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53685,
+        "aniId": 83685,
+        "createdAt": "2020-10-12T16:18:01.000Z",
+        "updatedAt": "2021-06-07T13:14:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

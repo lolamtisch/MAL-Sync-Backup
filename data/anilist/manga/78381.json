@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "수라도"
+  ],
+  "authors": [
+    "Jeong-uk Kim",
+    "Bo-Ha Choe"
+  ],
+  "id": 78381,
+  "malId": 48381,
+  "type": "manga",
+  "title": "Surado",
+  "url": "https://anilist.co/manga/78381",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78381-eA78ThCWEhEM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:39.000Z",
+  "updatedAt": "2021-05-20T14:49:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd6291bf-2621-4eb7-8774-cfb64720adcf": {
+        "authors": [
+          "Choi Bo Hwa",
+          "Kim Jung Wook"
+        ],
+        "identifier": "dd6291bf-2621-4eb7-8774-cfb64720adcf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Surado",
+        "url": "https://mangadex.org/title/dd6291bf-2621-4eb7-8774-cfb64720adcf",
+        "image": "https://uploads.mangadex.org/covers/dd6291bf-2621-4eb7-8774-cfb64720adcf/382ba306-cc05-426f-935a-51788642467b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48381,
+        "aniId": 78381,
+        "createdAt": "2020-10-12T16:03:21.000Z",
+        "updatedAt": "2021-06-02T13:23:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "surado": {
+        "authors": [
+          "Kim Jeong-uk"
+        ],
+        "identifier": "surado",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Surado",
+        "url": "https://fanfox.net/manga/surado/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9715/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48381,
+        "aniId": 78381,
+        "createdAt": "2021-05-03T12:33:57.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ハリガネサービス"
+  ],
+  "authors": [
+    "Tatsuya Ara"
+  ],
+  "id": 86260,
+  "malId": 76835,
+  "type": "manga",
+  "title": "Harigane Service",
+  "url": "https://anilist.co/manga/86260",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86260-cSTFyMdCSVDq.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:49.000Z",
+  "updatedAt": "2021-05-20T14:51:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a9ba73aa-6f3d-45c3-98be-1aeb92c66f00": {
+        "authors": [
+          "Ara Tatsuya"
+        ],
+        "identifier": "a9ba73aa-6f3d-45c3-98be-1aeb92c66f00",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Harigane Service",
+        "url": "https://mangadex.org/title/a9ba73aa-6f3d-45c3-98be-1aeb92c66f00",
+        "image": "https://uploads.mangadex.org/covers/a9ba73aa-6f3d-45c3-98be-1aeb92c66f00/8b70ea62-ef67-4d64-9f8a-4134adb316ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76835,
+        "aniId": 86260,
+        "createdAt": "2020-10-12T16:07:51.000Z",
+        "updatedAt": "2021-06-04T05:50:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "harigane_service": {
+        "authors": [],
+        "identifier": "harigane_service",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Harigane Service",
+        "url": "https://manganelo.com/manga/harigane_service",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1786-harigane_service.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76835,
+        "aniId": 86260,
+        "createdAt": "2020-10-12T16:23:16.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "harigane_service": {
+        "authors": [
+          "ARA Tatsuya"
+        ],
+        "identifier": "harigane_service",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Harigane Service",
+        "url": "https://fanfox.net/manga/harigane_service/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14039/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76835,
+        "aniId": 86260,
+        "createdAt": "2021-02-15T19:35:59.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

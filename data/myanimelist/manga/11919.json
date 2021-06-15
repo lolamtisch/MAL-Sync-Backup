@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "UmiKishi",
+    "海の綺士団"
+  ],
+  "authors": [
+    "Togawa, Mitomo"
+  ],
+  "id": 11919,
+  "type": "manga",
+  "title": "Umi no Kishidan",
+  "url": "https://myanimelist.net/manga/11919/Umi_no_Kishidan",
+  "image": "https://cdn.myanimelist.net/images/manga/2/192565.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:42.000Z",
+  "updatedAt": "2021-04-29T16:21:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9339a063-04ac-4562-8ddf-ea3ca0777e3a": {
+        "authors": [
+          "TOGAWA Mitomo"
+        ],
+        "identifier": "9339a063-04ac-4562-8ddf-ea3ca0777e3a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Umi no Kishidan",
+        "url": "https://mangadex.org/title/9339a063-04ac-4562-8ddf-ea3ca0777e3a",
+        "image": "https://uploads.mangadex.org/covers/9339a063-04ac-4562-8ddf-ea3ca0777e3a/424afa73-bd2c-4429-ac7d-374cda64574f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11919,
+        "aniId": 41919,
+        "createdAt": "2020-10-12T16:03:18.000Z",
+        "updatedAt": "2021-06-02T13:04:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "umi-no-kishidan": {
+        "authors": [
+          "TOGAWA Mitomo"
+        ],
+        "identifier": "umi-no-kishidan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Umi no Kishidan",
+        "url": "https://mangasee123.com/manga/Umi-No-Kishidan",
+        "image": "https://cover.nep.li/cover/Umi-No-Kishidan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11919,
+        "aniId": 41919,
+        "createdAt": "2021-04-29T16:21:27.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

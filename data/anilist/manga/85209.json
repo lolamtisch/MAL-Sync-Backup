@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "スーサイド・パラベラム"
+  ],
+  "authors": [
+    "Sayman Dowman"
+  ],
+  "id": 85209,
+  "malId": 65813,
+  "type": "manga",
+  "title": "Suicide Parabellum",
+  "url": "https://anilist.co/manga/85209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85209-eFgxoVTGXNr6.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:53.000Z",
+  "updatedAt": "2021-05-20T14:50:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27a81613-5600-4e4d-a3af-e8fa9930f932": {
+        "authors": [
+          "Dowman Sayman"
+        ],
+        "identifier": "27a81613-5600-4e4d-a3af-e8fa9930f932",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suicide Parabellum",
+        "url": "https://mangadex.org/title/27a81613-5600-4e4d-a3af-e8fa9930f932",
+        "image": "https://uploads.mangadex.org/covers/27a81613-5600-4e4d-a3af-e8fa9930f932/3ff98af2-b352-413a-ad87-ecb7221261fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65813,
+        "aniId": 85209,
+        "createdAt": "2020-10-12T16:07:05.000Z",
+        "updatedAt": "2021-06-04T00:13:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "suicide_parabellum": {
+        "authors": [],
+        "identifier": "suicide_parabellum",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suicide Parabellum",
+        "url": "https://manganelo.com/manga/suicide_parabellum",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/10546-suicide_parabellum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65813,
+        "aniId": 85209,
+        "createdAt": "2020-10-12T16:25:34.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

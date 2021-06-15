@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Himawari",
+    "ひまわりっ！！"
+  ],
+  "id": 1988,
+  "malId": 1988,
+  "type": "anime",
+  "title": "Himawari!!",
+  "url": "https://anilist.co/anime/1988",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1988.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:07.000Z",
+  "updatedAt": "2021-05-20T14:36:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "kx19": {
+        "identifier": "kx19",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Himawari!!",
+        "url": "https://www12.9anime.to/watch/himawari-too.kx19",
+        "image": "//static.9anime.to/i/cache/images/2018/04/857b3b0b52c29f942b87729c443ec458.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1988,
+        "aniId": 1988,
+        "createdAt": "2020-10-12T15:52:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "himawari-too": {
+        "identifier": "himawari-too",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Himawari Too!!",
+        "url": "https://www.gogoanime.movie/category/himawari-too",
+        "image": "https://gogocdn.net/cover/himawari-too.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1988,
+        "aniId": 1988,
+        "createdAt": "2020-10-12T16:00:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

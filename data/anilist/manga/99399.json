@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "꽃도사",
+    "Flower Guru",
+    "Flower Wizard",
+    "花道士",
+    "Huadaoshi"
+  ],
+  "authors": [
+    "Yong Ho Go",
+    "Mun Gyeong Kim"
+  ],
+  "id": 99399,
+  "malId": null,
+  "type": "manga",
+  "title": "Kkotdosa",
+  "url": "https://anilist.co/manga/99399",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99399-rw51Xfa69tm8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T05:49:18.000Z",
+  "updatedAt": "2021-06-05T05:49:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd9a81c7-9b61-4c37-90d7-d3f5db10383d": {
+        "authors": [
+          "Go Yong-Ho",
+          "Kim Mun-Gyeong"
+        ],
+        "identifier": "dd9a81c7-9b61-4c37-90d7-d3f5db10383d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flower Wizard",
+        "url": "https://mangadex.org/title/dd9a81c7-9b61-4c37-90d7-d3f5db10383d",
+        "image": "https://uploads.mangadex.org/covers/dd9a81c7-9b61-4c37-90d7-d3f5db10383d/89522a68-20d9-40fb-84a9-a6d65ab592c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99399,
+        "createdAt": "2020-10-12T16:11:03.000Z",
+        "updatedAt": "2021-06-05T08:45:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

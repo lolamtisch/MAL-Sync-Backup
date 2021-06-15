@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "花と頬",
+    "Flower and Cheek"
+  ],
+  "authors": [
+    "Kei Itoi"
+  ],
+  "id": 112171,
+  "malId": null,
+  "type": "manga",
+  "title": "Hana to Hoho",
+  "url": "https://anilist.co/manga/112171",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112171-fIv3APa5bUbb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T06:53:44.000Z",
+  "updatedAt": "2021-06-08T06:53:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86c38694-b2df-4848-afa7-1d89f78e2b46": {
+        "authors": [
+          "ITOI Kei"
+        ],
+        "identifier": "86c38694-b2df-4848-afa7-1d89f78e2b46",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana to Hoho",
+        "url": "https://mangadex.org/title/86c38694-b2df-4848-afa7-1d89f78e2b46",
+        "image": "https://uploads.mangadex.org/covers/86c38694-b2df-4848-afa7-1d89f78e2b46/09007830-9351-4157-aa34-f907bcc4127e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112171,
+        "createdAt": "2020-11-02T06:11:57.000Z",
+        "updatedAt": "2021-06-08T06:57:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

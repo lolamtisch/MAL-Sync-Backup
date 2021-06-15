@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "イナバラビッツ"
+  ],
+  "authors": [
+    "Tarou Chiaki"
+  ],
+  "id": 84885,
+  "malId": 54885,
+  "type": "manga",
+  "title": "Inaba Rabbits",
+  "url": "https://anilist.co/manga/84885",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx84885-oVmb7nTsTmEH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:01.000Z",
+  "updatedAt": "2021-05-20T14:50:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e9ffe65-cd6c-4e65-8ef6-3bd2354ee204": {
+        "authors": [
+          "Chiaki Tarou"
+        ],
+        "identifier": "8e9ffe65-cd6c-4e65-8ef6-3bd2354ee204",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inaba Rabbits",
+        "url": "https://mangadex.org/title/8e9ffe65-cd6c-4e65-8ef6-3bd2354ee204",
+        "image": "https://uploads.mangadex.org/covers/8e9ffe65-cd6c-4e65-8ef6-3bd2354ee204/24dd9462-65fe-4bd7-8299-8d28fdf74a15.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54885,
+        "aniId": 84885,
+        "createdAt": "2020-10-12T16:06:33.000Z",
+        "updatedAt": "2021-06-03T20:26:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "inaba-rabbits": {
+        "authors": [
+          "CHIAKI Tarou"
+        ],
+        "identifier": "inaba-rabbits",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Inaba Rabbits",
+        "url": "https://mangasee123.com/manga/Inaba-Rabbits",
+        "image": "https://cover.nep.li/cover/Inaba-Rabbits.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54885,
+        "aniId": 84885,
+        "createdAt": "2021-03-24T01:16:04.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

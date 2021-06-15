@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "MuvLuv Extra",
+    "マブラヴ"
+  ],
+  "authors": [
+    "Takao, Ukyou",
+    "Age"
+  ],
+  "id": 4208,
+  "type": "manga",
+  "title": "Muv-Luv",
+  "url": "https://myanimelist.net/manga/4208/Muv-Luv",
+  "image": "https://cdn.myanimelist.net/images/manga/3/135017.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:57.000Z",
+  "updatedAt": "2021-04-02T14:30:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3b28c9b6-6f8b-423c-8469-c05e81a81508": {
+        "authors": [
+          "Age",
+          "Takao Ukyou"
+        ],
+        "identifier": "3b28c9b6-6f8b-423c-8469-c05e81a81508",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MuvLuv",
+        "url": "https://mangadex.org/title/3b28c9b6-6f8b-423c-8469-c05e81a81508",
+        "image": "https://uploads.mangadex.org/covers/3b28c9b6-6f8b-423c-8469-c05e81a81508/e5ee3d50-b420-4eb5-9f31-9117b11c43ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4208,
+        "aniId": 34208,
+        "createdAt": "2020-10-12T16:04:35.000Z",
+        "updatedAt": "2021-06-02T22:02:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "muvluv": {
+        "authors": [
+          "Age"
+        ],
+        "identifier": "muvluv",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Muvluv",
+        "url": "https://manganelo.com/manga/muvluv",
+        "image": "https://avt.mkklcdnv6.com/35/i/10-1583483447.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4208,
+        "aniId": 34208,
+        "createdAt": "2020-12-09T22:46:54.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "muvluv": {
+        "authors": [
+          "Age"
+        ],
+        "identifier": "muvluv",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "MuvLuv",
+        "url": "https://fanfox.net/manga/muvluv/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1160/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 4208,
+        "aniId": 34208,
+        "createdAt": "2021-04-02T14:30:58.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

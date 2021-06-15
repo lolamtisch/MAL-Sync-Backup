@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "World! Come on",
+    "세상아 덤벼라!",
+    "Saesang Bring It On!",
+    "Dạ khúc World Bring it On!"
+  ],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 43071,
+  "malId": 13071,
+  "type": "manga",
+  "title": "World! Come on",
+  "url": "https://anilist.co/manga/43071",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13071.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:28.000Z",
+  "updatedAt": "2021-05-20T14:42:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48edffd1-77d4-4dfe-85d8-1973eb7c7e7b": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "48edffd1-77d4-4dfe-85d8-1973eb7c7e7b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "World! Bring It On!",
+        "url": "https://mangadex.org/title/48edffd1-77d4-4dfe-85d8-1973eb7c7e7b",
+        "image": "https://uploads.mangadex.org/covers/48edffd1-77d4-4dfe-85d8-1973eb7c7e7b/07aa7ee5-654e-492b-a592-d8d821c4cea9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13071,
+        "aniId": 43071,
+        "createdAt": "2020-10-12T16:02:48.000Z",
+        "updatedAt": "2021-06-02T09:36:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "saesang_bring_it_on": {
+        "authors": [],
+        "identifier": "saesang_bring_it_on",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Saesang Bring It On!",
+        "url": "https://manganelo.com/manga/saesang_bring_it_on",
+        "image": "https://avt.mkklcdnv6.com/19/l/4-1583470468.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13071,
+        "aniId": 43071,
+        "createdAt": "2020-10-12T16:25:17.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

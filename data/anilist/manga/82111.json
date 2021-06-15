@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "{UNREAL} -アンリアル-"
+  ],
+  "authors": [
+    "Tsuyoshi Takaki"
+  ],
+  "id": 82111,
+  "malId": 52111,
+  "type": "manga",
+  "title": "Unreal",
+  "url": "https://anilist.co/manga/82111",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx82111-7s3LZ0N8K7xE.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:52.000Z",
+  "updatedAt": "2021-05-20T14:49:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d3b2551e-d1b9-4767-b149-39c52467ee5b": {
+        "authors": [
+          "Takagi Tsuyoshi"
+        ],
+        "identifier": "d3b2551e-d1b9-4767-b149-39c52467ee5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Unreal",
+        "url": "https://mangadex.org/title/d3b2551e-d1b9-4767-b149-39c52467ee5b",
+        "image": "https://uploads.mangadex.org/covers/d3b2551e-d1b9-4767-b149-39c52467ee5b/f6f57849-492e-44ed-ad6f-ea8a666fd6d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52111,
+        "aniId": 82111,
+        "createdAt": "2020-10-12T16:06:27.000Z",
+        "updatedAt": "2021-06-03T19:44:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

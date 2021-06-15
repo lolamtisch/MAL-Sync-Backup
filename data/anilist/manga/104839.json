@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "きっと愛だから、いらない",
+    "Your love perhaps isn't needed for me."
+  ],
+  "authors": [
+    "Ai Minase"
+  ],
+  "id": 104839,
+  "malId": 113435,
+  "type": "manga",
+  "title": "Kitto Ai dakara, Iranai",
+  "url": "https://anilist.co/manga/104839",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104839-Ln8Hq1N6DDHr.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:01.000Z",
+  "updatedAt": "2021-06-05T06:20:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f266f053-08d8-4d4d-99ef-4f52ebda3d2b": {
+        "authors": [
+          "Minase Ai"
+        ],
+        "identifier": "f266f053-08d8-4d4d-99ef-4f52ebda3d2b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kitto ai Dakara, Iranai",
+        "url": "https://mangadex.org/title/f266f053-08d8-4d4d-99ef-4f52ebda3d2b",
+        "image": "https://uploads.mangadex.org/covers/f266f053-08d8-4d4d-99ef-4f52ebda3d2b/16dd3f91-6aba-483c-b1a4-ed37f1060c8c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113435,
+        "aniId": 104839,
+        "createdAt": "2020-10-12T16:11:10.000Z",
+        "updatedAt": "2021-06-05T09:07:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kitto_ai_dakara_iranai": {
+        "authors": [
+          "MINASE Ai"
+        ],
+        "identifier": "kitto_ai_dakara_iranai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kitto Ai dakara, Iranai",
+        "url": "https://fanfox.net/manga/kitto_ai_dakara_iranai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26988/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113435,
+        "aniId": 104839,
+        "createdAt": "2021-03-26T23:19:20.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

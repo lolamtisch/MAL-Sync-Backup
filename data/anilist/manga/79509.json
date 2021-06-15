@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "二度目の恋"
+  ],
+  "authors": [
+    "Shoko Hidaka"
+  ],
+  "id": 79509,
+  "malId": 49509,
+  "type": "manga",
+  "title": "Nidome no Koi",
+  "url": "https://anilist.co/manga/79509",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49509.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-03T18:18:58.000Z",
+  "updatedAt": "2021-06-03T18:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "741c2dc1-ccb5-4651-9940-ff5ced52be0c": {
+        "authors": [
+          "Hidaka Shoko"
+        ],
+        "identifier": "741c2dc1-ccb5-4651-9940-ff5ced52be0c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nidome no Koi",
+        "url": "https://mangadex.org/title/741c2dc1-ccb5-4651-9940-ff5ced52be0c",
+        "image": "https://uploads.mangadex.org/covers/741c2dc1-ccb5-4651-9940-ff5ced52be0c/2caa33d6-a516-4d72-b174-f385aecb3be3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49509,
+        "aniId": 79509,
+        "createdAt": "2020-10-12T16:06:13.000Z",
+        "updatedAt": "2021-06-03T18:23:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

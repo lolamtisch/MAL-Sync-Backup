@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Wonder 3",
+    "ワンダー3",
+    "Amazing Three",
+    "W3",
+    "Wandaa Surii"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 52300,
+  "malId": 22300,
+  "type": "manga",
+  "title": "Wonder 3",
+  "url": "https://anilist.co/manga/52300",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52300-BuZ2BMa53q9z.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:30.000Z",
+  "updatedAt": "2021-05-20T14:46:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e66e1441-a75a-4d7c-88a4-953fd9d3853d": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "e66e1441-a75a-4d7c-88a4-953fd9d3853d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "W3",
+        "url": "https://mangadex.org/title/e66e1441-a75a-4d7c-88a4-953fd9d3853d",
+        "image": "https://uploads.mangadex.org/covers/e66e1441-a75a-4d7c-88a4-953fd9d3853d/27f9a6e7-0f16-4aa2-9e4c-155d5d609f86.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22300,
+        "aniId": 52300,
+        "createdAt": "2020-10-12T16:05:33.000Z",
+        "updatedAt": "2021-06-03T13:23:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

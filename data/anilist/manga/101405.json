@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "花雷",
+    "Hanarai"
+  ],
+  "authors": [
+    "Toru Himura"
+  ],
+  "id": 101405,
+  "malId": 109144,
+  "type": "manga",
+  "title": "Hana Rai",
+  "url": "https://anilist.co/manga/101405",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101405-ZNVJXiC3AU09.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T02:50:30.000Z",
+  "updatedAt": "2021-06-05T02:50:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6dd92225-37d7-43f7-be05-a3dcac14f591": {
+        "authors": [
+          "Himura Toru"
+        ],
+        "identifier": "6dd92225-37d7-43f7-be05-a3dcac14f591",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanarai",
+        "url": "https://mangadex.org/title/6dd92225-37d7-43f7-be05-a3dcac14f591",
+        "image": "https://uploads.mangadex.org/covers/6dd92225-37d7-43f7-be05-a3dcac14f591/7252e18e-0150-4ceb-84c1-7e3de062f47f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109144,
+        "aniId": 101405,
+        "createdAt": "2020-10-12T16:10:42.000Z",
+        "updatedAt": "2021-06-05T08:58:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

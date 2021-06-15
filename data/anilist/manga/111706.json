@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "異世界の本屋さんへようこそ！",
+    "Welcome To My Book Store In Another World!"
+  ],
+  "authors": [
+    "Fuumi",
+    "Towako Aki",
+    "Omikuni"
+  ],
+  "id": 111706,
+  "malId": 102799,
+  "type": "manga",
+  "title": "Isekai no Honya-san e Youkoso!",
+  "url": "https://anilist.co/manga/111706",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111706-7P1YPS3nINDg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:01.000Z",
+  "updatedAt": "2021-05-20T14:55:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4aa41303-daf3-4581-9627-bc24694cdb48": {
+        "authors": [
+          "Omikuni",
+          "Aki Towako"
+        ],
+        "identifier": "4aa41303-daf3-4581-9627-bc24694cdb48",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Isekai no Honya-san e Youkoso!",
+        "url": "https://mangadex.org/title/4aa41303-daf3-4581-9627-bc24694cdb48",
+        "image": "https://uploads.mangadex.org/covers/4aa41303-daf3-4581-9627-bc24694cdb48/45f07ca5-2261-48d4-943c-5d9c11364a40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102799,
+        "aniId": 111706,
+        "createdAt": "2020-10-12T16:11:50.000Z",
+        "updatedAt": "2021-06-05T11:26:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zy923313": {
+        "authors": [],
+        "identifier": "zy923313",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Isekai No Honya-San E Youkoso!",
+        "url": "https://manganelo.com/manga/zy923313",
+        "image": "https://avt.mkklcdnv6.com/30/r/21-1592846360.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102799,
+        "aniId": 111706,
+        "createdAt": "2020-10-12T16:26:35.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

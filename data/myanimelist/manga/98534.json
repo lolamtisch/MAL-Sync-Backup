@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Little Witch's Collier",
+    "小さな魔女の首輪〈コリエ〉"
+  ],
+  "authors": [
+    "Chinoku"
+  ],
+  "id": 98534,
+  "type": "manga",
+  "title": "Chiisana Majo no Collier",
+  "url": "https://myanimelist.net/manga/98534/Chiisana_Majo_no_Collier",
+  "image": "https://cdn.myanimelist.net/images/manga/1/202995.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:30.000Z",
+  "updatedAt": "2021-01-23T18:24:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e391a53-da70-4827-874a-4895476d89d5": {
+        "authors": [
+          "Chinoku"
+        ],
+        "identifier": "8e391a53-da70-4827-874a-4895476d89d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chiisana Majo no Kubiwa",
+        "url": "https://mangadex.org/title/8e391a53-da70-4827-874a-4895476d89d5",
+        "image": "https://uploads.mangadex.org/covers/8e391a53-da70-4827-874a-4895476d89d5/28be6c09-16a6-4635-8cd0-a4c221db6f2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98534,
+        "aniId": 97242,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:40:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "qb921352": {
+        "authors": [],
+        "identifier": "qb921352",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Collide",
+        "url": "https://manganelo.com/manga/qb921352",
+        "image": "https://avt.mkklcdnv6.com/3/a/20-1583501108.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98534,
+        "aniId": 97242,
+        "createdAt": "2020-10-12T16:24:57.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "chiisana_majo_no_kubiwa": {
+        "authors": [
+          "Chinoku"
+        ],
+        "identifier": "chiisana_majo_no_kubiwa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chiisana Majo no Kubiwa",
+        "url": "https://fanfox.net/manga/chiisana_majo_no_kubiwa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37378/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 98534,
+        "aniId": 97242,
+        "createdAt": "2021-01-23T18:24:31.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

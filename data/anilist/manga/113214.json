@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "少女辞典",
+    "Girls Dictionary"
+  ],
+  "authors": [
+    "Marie Yasui"
+  ],
+  "id": 113214,
+  "malId": 109417,
+  "type": "manga",
+  "title": "Shoujo Jiten",
+  "url": "https://anilist.co/manga/113214",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113214-w0ODopPc1jxA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:05.000Z",
+  "updatedAt": "2021-05-20T14:56:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3867b8ae-9c02-4579-8a4a-c480fb92b9bb": {
+        "authors": [
+          "Yasui Marie"
+        ],
+        "identifier": "3867b8ae-9c02-4579-8a4a-c480fb92b9bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shoujo Jiten",
+        "url": "https://mangadex.org/title/3867b8ae-9c02-4579-8a4a-c480fb92b9bb",
+        "image": "https://uploads.mangadex.org/covers/3867b8ae-9c02-4579-8a4a-c480fb92b9bb/5b552dc2-16e6-4b1f-87e6-0d2e544c71f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109417,
+        "aniId": 113214,
+        "createdAt": "2020-10-12T16:19:19.000Z",
+        "updatedAt": "2021-06-07T21:36:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "wf922764": {
+        "authors": [],
+        "identifier": "wf922764",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shoujo Jiten",
+        "url": "https://manganelo.com/manga/wf922764",
+        "image": "https://avt.mkklcdnv6.com/7/j/21-1588393169.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109417,
+        "aniId": 113214,
+        "createdAt": "2020-10-12T16:26:08.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

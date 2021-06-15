@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Kigurumi―キグルミ―",
+    "KIG⊃R∩MI"
+  ],
+  "authors": [
+    "Shizumu Watanabe",
+    "Kei Kurokata"
+  ],
+  "id": 81725,
+  "malId": 51725,
+  "type": "manga",
+  "title": "Kigurumi",
+  "url": "https://anilist.co/manga/81725",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81725-CrnDm5CPe2BI.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:51.000Z",
+  "updatedAt": "2021-05-20T14:49:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "711efa93-ec5c-46d0-8514-df9974443d4e": {
+        "authors": [
+          "WATANABE Shizumu",
+          "KUROKATA Kei"
+        ],
+        "identifier": "711efa93-ec5c-46d0-8514-df9974443d4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kigurumi",
+        "url": "https://mangadex.org/title/711efa93-ec5c-46d0-8514-df9974443d4e",
+        "image": "https://uploads.mangadex.org/covers/711efa93-ec5c-46d0-8514-df9974443d4e/1f58779b-79b7-4366-8037-d5d36e0a24bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51725,
+        "aniId": 81725,
+        "createdAt": "2020-10-12T16:06:24.000Z",
+        "updatedAt": "2021-06-03T19:27:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kigurumi": {
+        "authors": [
+          "KUROKATA Kei"
+        ],
+        "identifier": "kigurumi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kigurumi",
+        "url": "https://fanfox.net/manga/kigurumi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12524/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51725,
+        "aniId": 81725,
+        "createdAt": "2021-05-10T00:18:15.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kigurumi": {
+        "authors": [
+          "KUROKATA Kei",
+          "WATANABE Shizumu"
+        ],
+        "identifier": "kigurumi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kigurumi",
+        "url": "https://mangasee123.com/manga/Kigurumi",
+        "image": "https://cover.nep.li/cover/Kigurumi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51725,
+        "aniId": 81725,
+        "createdAt": "2021-05-18T17:00:57.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

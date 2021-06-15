@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "たまゆらきつね"
+  ],
+  "authors": [
+    "Isshiki"
+  ],
+  "id": 102318,
+  "malId": 102893,
+  "type": "manga",
+  "title": "Tamayura Kitsune",
+  "url": "https://anilist.co/manga/102318",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102318-i5L3dQD4jmV8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:01.000Z",
+  "updatedAt": "2021-05-20T14:55:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "11fcb544-98f2-4635-b181-7824408a16b4": {
+        "authors": [
+          "Isshiki"
+        ],
+        "identifier": "11fcb544-98f2-4635-b181-7824408a16b4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tamayura Kitsune",
+        "url": "https://mangadex.org/title/11fcb544-98f2-4635-b181-7824408a16b4",
+        "image": "https://uploads.mangadex.org/covers/11fcb544-98f2-4635-b181-7824408a16b4/8235f687-4c62-47be-ab8a-6ee71a89c3a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102893,
+        "aniId": 102318,
+        "createdAt": "2020-10-12T16:09:10.000Z",
+        "updatedAt": "2021-06-04T15:34:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tamayura_kitsune1_error_auto": {
+        "authors": [],
+        "identifier": "tamayura_kitsune1_error_auto",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tamayura Kitsune",
+        "url": "https://manganelo.com/manga/tamayura_kitsune1_error_auto",
+        "image": "https://avt.mkklcdnv6.com/39/m/14-1583491122.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102893,
+        "aniId": 102318,
+        "createdAt": "2020-10-12T16:25:38.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tamayura_kitsune": {
+        "authors": [
+          "Isshiki"
+        ],
+        "identifier": "tamayura_kitsune",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tamayura Kitsune",
+        "url": "https://fanfox.net/manga/tamayura_kitsune/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22919/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102893,
+        "aniId": 102318,
+        "createdAt": "2021-04-08T08:50:59.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

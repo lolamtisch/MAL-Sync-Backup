@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "Venus Wars",
+    "ヴィナス戦記"
+  ],
+  "id": 544,
+  "malId": 544,
+  "type": "anime",
+  "title": "Venus Senki",
+  "url": "https://anilist.co/anime/544",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/544-Hp5n7x9QgllH.png",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:46.000Z",
+  "updatedAt": "2021-05-20T14:33:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "2665": {
+        "identifier": "2665",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Venus Wars (Dub)",
+        "url": "https://9anime.to/watch/venus-wars-dub.2665",
+        "image": "https://static.akacdn.ru/files/images/2018/04/4f680a63cba826dd76053ecd287d6c5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 544,
+        "aniId": 544,
+        "createdAt": "2020-10-12T15:48:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "y8z1": {
+        "identifier": "y8z1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Venus Senki",
+        "url": "https://9anime.ru/watch/venus-senki.y8z1",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-8QCXISwH8Pg/V_tIlHpDPyI/AAAAAAABF-0/YeXP8Rvq4LY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 544,
+        "aniId": 544,
+        "createdAt": "2020-10-12T15:56:51.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "venus-wars": {
+        "identifier": "venus-wars",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Venus Wars",
+        "url": "https://www7.gogoanime.io/category/venus-wars",
+        "image": "https://cdnimg.xyz/images/anime/V/Venus-Wars.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 544,
+        "aniId": 544,
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Twistmoe": {
+      "venus-senki": {
+        "identifier": "venus-senki",
+        "type": "anime",
+        "page": "Twistmoe",
+        "title": "Venus Senki",
+        "url": "https://twist.moe/a/venus-senki/1",
+        "image": null,
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 544,
+        "aniId": 544,
+        "createdAt": "2021-01-23T14:21:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

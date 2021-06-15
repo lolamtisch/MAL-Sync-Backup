@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "私は加護女",
+    "I am Kagome"
+  ],
+  "authors": [
+    "Takeshi Kondou",
+    "Yousuke Takahashi"
+  ],
+  "id": 46251,
+  "malId": 16251,
+  "type": "manga",
+  "title": "Watashi wa Kagome",
+  "url": "https://anilist.co/manga/46251",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16251.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:53.000Z",
+  "updatedAt": "2021-05-20T14:43:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0107ccdf-3b90-454d-9773-f0ebbada147a": {
+        "authors": [
+          "Takahashi Yousuke",
+          "Kondou Takeshi"
+        ],
+        "identifier": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi wa Kagome",
+        "url": "https://mangadex.org/title/0107ccdf-3b90-454d-9773-f0ebbada147a",
+        "image": "https://uploads.mangadex.org/covers/0107ccdf-3b90-454d-9773-f0ebbada147a/dca9ea9f-743a-4d6b-98ac-836b7776e730.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16251,
+        "aniId": 46251,
+        "createdAt": "2020-10-12T16:04:54.000Z",
+        "updatedAt": "2021-06-03T00:15:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "ジーンシャフト"
+  ],
+  "id": 909,
+  "malId": 909,
+  "type": "anime",
+  "title": "Geneshaft",
+  "url": "https://anilist.co/anime/909",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/909.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:51.000Z",
+  "updatedAt": "2021-05-20T14:34:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "55ym": {
+        "identifier": "55ym",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Geneshaft (Dub)",
+        "url": "https://9anime.ru/watch/geneshaft-dub.55ym",
+        "image": "https://static.akacdn.ru/files/images/2018/01/fb6777d378d7f01fa344cf36ddac446d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 909,
+        "aniId": 909,
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "yvmx": {
+        "identifier": "yvmx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Geneshaft",
+        "url": "https://9anime.ru/watch/geneshaft.yvmx",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-vFo9F9Fftgk/V64IxuOh88I/AAAAAAAA2rY/SZGfTHwpGX4/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 909,
+        "aniId": 909,
+        "createdAt": "2020-10-12T15:56:58.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "geneshaft": {
+        "identifier": "geneshaft",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Geneshaft",
+        "url": "https://gogoanime.so/category/geneshaft",
+        "image": "https://gogocdn.net/images/anime/G/geneshaft.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 909,
+        "aniId": 909,
+        "createdAt": "2020-11-15T08:15:20.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

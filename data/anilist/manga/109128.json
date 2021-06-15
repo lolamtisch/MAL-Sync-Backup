@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "My Pink Is Overflowing",
+    "あたしのピンクがあふれちゃう"
+  ],
+  "authors": [
+    "Yuki Monou"
+  ],
+  "id": 109128,
+  "malId": 119287,
+  "type": "manga",
+  "title": "Atashi no Pink ga Afurechau",
+  "url": "https://anilist.co/manga/109128",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109128-PpVq1T4rrnDm.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:58:08.000Z",
+  "updatedAt": "2021-05-21T11:42:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e39b29e1-5b03-48f6-a7ca-e1a203288c5a": {
+        "authors": [
+          "Kousaka Akiho"
+        ],
+        "identifier": "e39b29e1-5b03-48f6-a7ca-e1a203288c5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lamento &ndash; Overflow",
+        "url": "https://mangadex.org/title/e39b29e1-5b03-48f6-a7ca-e1a203288c5a",
+        "image": "https://uploads.mangadex.org/covers/e39b29e1-5b03-48f6-a7ca-e1a203288c5a/fbd4d9e4-56af-4615-8877-71ef7a2f15cc.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119287,
+        "aniId": 109128,
+        "createdAt": "2020-10-12T16:15:18.000Z",
+        "updatedAt": "2021-06-06T12:31:50.000Z",
+        "deletedAt": null
+      },
+      "453682d2-0d29-488f-a910-2775e9db4448": {
+        "authors": [
+          "Monou Yuki"
+        ],
+        "identifier": "453682d2-0d29-488f-a910-2775e9db4448",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Pink Is Overflowing",
+        "url": "https://mangadex.org/title/453682d2-0d29-488f-a910-2775e9db4448",
+        "image": "https://uploads.mangadex.org/covers/453682d2-0d29-488f-a910-2775e9db4448/919a0de5-3e6c-4f08-bcc3-73851af0072a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119287,
+        "aniId": 109128,
+        "createdAt": "2020-10-12T16:15:36.000Z",
+        "updatedAt": "2021-06-06T15:11:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "atashi-no-pink-ga-afurechau": {
+        "authors": [
+          "MONOU Yuki"
+        ],
+        "identifier": "atashi-no-pink-ga-afurechau",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Atashi no Pink ga Afurechau",
+        "url": "https://mangasee123.com/manga/Atashi-No-Pink-Ga-Afurechau",
+        "image": "https://cover.nep.li/cover/Atashi-No-Pink-Ga-Afurechau.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119287,
+        "aniId": 109128,
+        "createdAt": "2021-03-11T03:09:09.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

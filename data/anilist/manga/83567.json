@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "無刀ブラック"
+  ],
+  "authors": [
+    "Daijirou Nonoue"
+  ],
+  "id": 83567,
+  "malId": 53567,
+  "type": "manga",
+  "title": "Mutou Black",
+  "url": "https://anilist.co/manga/83567",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx83567-vhAl22Cv9xlK.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:57.000Z",
+  "updatedAt": "2021-05-20T14:49:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ca0206e1-7baf-40b2-a65b-89ca49a77e0a": {
+        "authors": [
+          "Nonoue Daijirou"
+        ],
+        "identifier": "ca0206e1-7baf-40b2-a65b-89ca49a77e0a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mutou Black",
+        "url": "https://mangadex.org/title/ca0206e1-7baf-40b2-a65b-89ca49a77e0a",
+        "image": "https://uploads.mangadex.org/covers/ca0206e1-7baf-40b2-a65b-89ca49a77e0a/b9db2fd1-a730-4c4e-a4c2-4869993fecf9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53567,
+        "aniId": 83567,
+        "createdAt": "2020-10-12T16:06:21.000Z",
+        "updatedAt": "2021-06-03T19:02:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mutou_black": {
+        "authors": [
+          "Nonoue",
+          "Daijirou"
+        ],
+        "identifier": "mutou_black",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mutou Black",
+        "url": "https://manganelo.com/manga/mutou_black",
+        "image": "https://avt.mkklcdnv6.com/31/t/9-1583481369.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53567,
+        "aniId": 83567,
+        "createdAt": "2020-12-27T00:26:30.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mutou_black": {
+        "authors": [
+          "NONOUE Daijirou"
+        ],
+        "identifier": "mutou_black",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mutou Black",
+        "url": "https://fanfox.net/manga/mutou_black/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12637/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53567,
+        "aniId": 83567,
+        "createdAt": "2021-04-23T20:57:31.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

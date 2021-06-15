@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Lemonade",
+    "レモネード",
+    "Lemon ade"
+  ],
+  "authors": [
+    "Teruko Shioya"
+  ],
+  "id": 85228,
+  "malId": 64477,
+  "type": "manga",
+  "title": "Lemonade",
+  "url": "https://anilist.co/manga/85228",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55228.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90fab1f9-1beb-4a6e-986f-eaf8a0616409": {
+        "authors": [
+          "Shioya Teruko"
+        ],
+        "identifier": "90fab1f9-1beb-4a6e-986f-eaf8a0616409",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lemonade",
+        "url": "https://mangadex.org/title/90fab1f9-1beb-4a6e-986f-eaf8a0616409",
+        "image": "https://uploads.mangadex.org/covers/90fab1f9-1beb-4a6e-986f-eaf8a0616409/55feac0f-0af8-4c9c-aa87-a70901a361fe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64477,
+        "aniId": 85228,
+        "createdAt": "2020-10-12T16:07:00.000Z",
+        "updatedAt": "2021-06-03T23:36:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

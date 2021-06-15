@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "東海道HISAME-陽炎",
+    "Tokaidou Hisame: Kagerou"
+  ],
+  "authors": [
+    "Kuuya Matsunaga"
+  ],
+  "id": 38364,
+  "malId": 8364,
+  "type": "manga",
+  "title": "Toukaidou Hisame: Kagerou",
+  "url": "https://anilist.co/manga/38364",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8364.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "46ad0815-0a6e-4e04-9a00-e12f6dc269e1": {
+        "authors": [
+          "Matsunaga Kuuya"
+        ],
+        "identifier": "46ad0815-0a6e-4e04-9a00-e12f6dc269e1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toukaidou HISAME -Kagerou-",
+        "url": "https://mangadex.org/title/46ad0815-0a6e-4e04-9a00-e12f6dc269e1",
+        "image": "https://uploads.mangadex.org/covers/46ad0815-0a6e-4e04-9a00-e12f6dc269e1/1f23b962-52b3-4608-ad7b-750bc797c12e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8364,
+        "aniId": 38364,
+        "createdAt": "2020-10-12T16:08:15.000Z",
+        "updatedAt": "2021-06-04T08:42:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "toukaidou_hisame_kagerou": {
+        "authors": [
+          "MATSUNAGA Kuuya"
+        ],
+        "identifier": "toukaidou_hisame_kagerou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Toukaidou Hisame - Kagerou",
+        "url": "https://fanfox.net/manga/toukaidou_hisame_kagerou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3235/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8364,
+        "aniId": 38364,
+        "createdAt": "2021-04-01T12:31:34.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

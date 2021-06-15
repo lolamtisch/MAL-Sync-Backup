@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "반항하지마"
+  ],
+  "authors": [
+    "Young-Hee Yeon"
+  ],
+  "id": 47491,
+  "malId": 17491,
+  "type": "manga",
+  "title": "Do Not Fight",
+  "url": "https://anilist.co/manga/47491",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17491.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:06.000Z",
+  "updatedAt": "2021-05-20T14:44:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a3fab004-1fe5-4cbf-be8f-1a1f538d09d7": {
+        "authors": [
+          "Yeon Young-Hee"
+        ],
+        "identifier": "a3fab004-1fe5-4cbf-be8f-1a1f538d09d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Do Not Fight",
+        "url": "https://mangadex.org/title/a3fab004-1fe5-4cbf-be8f-1a1f538d09d7",
+        "image": "https://uploads.mangadex.org/covers/a3fab004-1fe5-4cbf-be8f-1a1f538d09d7/0f1d4de9-14c3-4b5e-8964-0869f12bb02d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17491,
+        "aniId": 47491,
+        "createdAt": "2020-10-12T16:04:30.000Z",
+        "updatedAt": "2021-06-02T21:32:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "賭けからはじまるサヨナラの恋",
+    "始於賭約的告別之戀",
+    "Kakekoi",
+    "Goodbye's Love Begins With Betting"
+  ],
+  "authors": [
+    "Men Watanuki",
+    "Porun"
+  ],
+  "id": 122270,
+  "malId": 134644,
+  "type": "manga",
+  "title": "Kakekare Hajimaru Sayonara no Koi",
+  "url": "https://anilist.co/manga/122270",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122270-R5Tc3yKWiJWe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T11:48:58.000Z",
+  "updatedAt": "2021-06-05T11:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79e3fe1d-1013-4f82-9600-306e3084ec66": {
+        "authors": [
+          "Watanuki Men",
+          "Porun"
+        ],
+        "identifier": "79e3fe1d-1013-4f82-9600-306e3084ec66",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakekara Hajimaru Sayonara no Koi",
+        "url": "https://mangadex.org/title/79e3fe1d-1013-4f82-9600-306e3084ec66",
+        "image": "https://uploads.mangadex.org/covers/79e3fe1d-1013-4f82-9600-306e3084ec66/d006f6c7-b57d-4914-bf48-63a506158f78.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134644,
+        "aniId": 122270,
+        "createdAt": "2021-01-06T11:55:51.000Z",
+        "updatedAt": "2021-06-08T11:10:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kakekara_hajimaru_sayonara_no_koi": {
+        "authors": [
+          "Porun"
+        ],
+        "identifier": "kakekara_hajimaru_sayonara_no_koi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kakekara Hajimaru Sayonara no Koi",
+        "url": "https://fanfox.net/manga/kakekara_hajimaru_sayonara_no_koi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37155/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134644,
+        "aniId": 122270,
+        "createdAt": "2021-05-09T16:48:03.000Z",
+        "updatedAt": "2021-06-05T12:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "あかてん☆ヒーロー!",
+    "Akaten Hero"
+  ],
+  "authors": [
+    "Gureko Nankin"
+  ],
+  "id": 33328,
+  "malId": 3328,
+  "type": "manga",
+  "title": "Imperfect Hero",
+  "url": "https://anilist.co/manga/33328",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3328.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "038859cb-a920-4420-b5f5-43a8ca520c5d": {
+        "authors": [
+          "Nankin Gureko"
+        ],
+        "identifier": "038859cb-a920-4420-b5f5-43a8ca520c5d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akaten Hero!",
+        "url": "https://mangadex.org/title/038859cb-a920-4420-b5f5-43a8ca520c5d",
+        "image": "https://uploads.mangadex.org/covers/038859cb-a920-4420-b5f5-43a8ca520c5d/ee8715fe-52bb-4535-909b-5f08c11e5eba.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3328,
+        "aniId": 33328,
+        "createdAt": "2020-10-12T16:02:45.000Z",
+        "updatedAt": "2021-06-02T09:12:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akaten_hero": {
+        "authors": [],
+        "identifier": "akaten_hero",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akaten Hero!",
+        "url": "https://manganelo.com/manga/akaten_hero",
+        "image": "https://avt.mkklcdnv6.com/13/h/4-1583470212.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3328,
+        "aniId": 33328,
+        "createdAt": "2020-10-12T16:22:03.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

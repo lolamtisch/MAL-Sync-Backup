@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "MaliciousCode",
+    "MaliciousCode マリシャスコード"
+  ],
+  "authors": [
+    "Ikeno, Masahiro",
+    "Yakou, Hana"
+  ],
+  "id": 34321,
+  "type": "manga",
+  "title": "Malicious Code",
+  "url": "https://myanimelist.net/manga/34321/Malicious_Code",
+  "image": "https://cdn.myanimelist.net/images/manga/2/96915.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:49.000Z",
+  "updatedAt": "2021-05-05T11:33:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ff3c5eb-5308-4103-ad4e-e4977c858b78": {
+        "authors": [
+          "Ikeno Masahiro",
+          "Yakou Hana"
+        ],
+        "identifier": "3ff3c5eb-5308-4103-ad4e-e4977c858b78",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Malicious Code",
+        "url": "https://mangadex.org/title/3ff3c5eb-5308-4103-ad4e-e4977c858b78",
+        "image": "https://uploads.mangadex.org/covers/3ff3c5eb-5308-4103-ad4e-e4977c858b78/8e7df6cc-f8a9-4b84-b4be-7d55ec18044d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34321,
+        "aniId": 64321,
+        "createdAt": "2020-10-12T16:03:59.000Z",
+        "updatedAt": "2021-06-02T17:50:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "malicious-code": {
+        "authors": [
+          "IKENO Masahiro",
+          "YAKOU Hana"
+        ],
+        "identifier": "malicious-code",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Malicious Code",
+        "url": "https://mangasee123.com/manga/Malicious-Code",
+        "image": "https://cover.nep.li/cover/Malicious-Code.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34321,
+        "aniId": 64321,
+        "createdAt": "2021-05-11T15:19:45.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

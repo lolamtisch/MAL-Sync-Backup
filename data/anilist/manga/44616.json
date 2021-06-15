@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "I'm The Big Brother",
+    "僕はお兄ちゃん。",
+    "Boku wa Oniichan"
+  ],
+  "authors": [
+    "Kei Kanai"
+  ],
+  "id": 44616,
+  "malId": 14616,
+  "type": "manga",
+  "title": "Boku wa Oniichan.",
+  "url": "https://anilist.co/manga/44616",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14616.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:38.000Z",
+  "updatedAt": "2021-05-20T14:43:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f6b97aa7-cde7-46c1-a2a3-2ae1745235ff": {
+        "authors": [
+          "Kanai Kei"
+        ],
+        "identifier": "f6b97aa7-cde7-46c1-a2a3-2ae1745235ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku wa Oniichan",
+        "url": "https://mangadex.org/title/f6b97aa7-cde7-46c1-a2a3-2ae1745235ff",
+        "image": "https://uploads.mangadex.org/covers/f6b97aa7-cde7-46c1-a2a3-2ae1745235ff/fb550da5-3022-425d-bd96-85fff2711cbe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14616,
+        "aniId": 44616,
+        "createdAt": "2020-10-12T16:20:28.000Z",
+        "updatedAt": "2021-06-08T00:05:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

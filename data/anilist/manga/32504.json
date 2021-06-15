@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ねむの木の下宿荘",
+    "The Silk Tree Boarding House"
+  ],
+  "authors": [
+    "Sumomo Yumeka"
+  ],
+  "id": 32504,
+  "malId": 2504,
+  "type": "manga",
+  "title": "Nemunoki no Geshukusou",
+  "url": "https://anilist.co/manga/32504",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2504.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3740d61-feec-432c-81a6-1cc2a371befb": {
+        "authors": [
+          "Yumeka Sumomo"
+        ],
+        "identifier": "c3740d61-feec-432c-81a6-1cc2a371befb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nemunoki no Geshukusou",
+        "url": "https://mangadex.org/title/c3740d61-feec-432c-81a6-1cc2a371befb",
+        "image": "https://uploads.mangadex.org/covers/c3740d61-feec-432c-81a6-1cc2a371befb/ea8acc48-1579-4d54-86aa-3c31505457b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2504,
+        "aniId": 32504,
+        "createdAt": "2020-10-12T16:03:33.000Z",
+        "updatedAt": "2021-06-02T14:48:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

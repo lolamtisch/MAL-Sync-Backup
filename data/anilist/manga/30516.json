@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "Scrapped Princess",
+    "スクラップド・プリンセス"
+  ],
+  "authors": [
+    "Mogudan",
+    "Ichirou Sakaki",
+    "Gou Yabuki",
+    "Alethea Nibley",
+    "Athena Nibley"
+  ],
+  "id": 30516,
+  "malId": 516,
+  "type": "manga",
+  "title": "Scrapped Princess",
+  "url": "https://anilist.co/manga/30516",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30516-4hTTVDW8GNil.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3a92902b-40e3-4909-bd08-5288e0c99a11": {
+        "authors": [
+          "Yabuki Gou",
+          "Sakiki Ichiro"
+        ],
+        "identifier": "3a92902b-40e3-4909-bd08-5288e0c99a11",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Scrapped Princess",
+        "url": "https://mangadex.org/title/3a92902b-40e3-4909-bd08-5288e0c99a11",
+        "image": "https://uploads.mangadex.org/covers/3a92902b-40e3-4909-bd08-5288e0c99a11/1d815528-b802-4445-b617-62b92cce8375.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 516,
+        "aniId": 30516,
+        "createdAt": "2020-10-12T16:13:08.000Z",
+        "updatedAt": "2021-06-05T19:02:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

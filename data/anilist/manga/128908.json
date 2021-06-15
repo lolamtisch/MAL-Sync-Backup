@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ぬるめた",
+    "Nurumeta",
+    "Tepid"
+  ],
+  "authors": [
+    "Kokamumo"
+  ],
+  "id": 128908,
+  "malId": 134391,
+  "type": "manga",
+  "title": "Null Meta",
+  "url": "https://anilist.co/manga/128908",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128908-MASXEgbM8rVg.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T10:57:18.000Z",
+  "updatedAt": "2021-06-08T10:57:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4c64f461-8562-44f3-a13f-aea2a0382d63": {
+        "authors": [
+          "Kokamumo"
+        ],
+        "identifier": "4c64f461-8562-44f3-a13f-aea2a0382d63",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Null Meta",
+        "url": "https://mangadex.org/title/4c64f461-8562-44f3-a13f-aea2a0382d63",
+        "image": "https://uploads.mangadex.org/covers/4c64f461-8562-44f3-a13f-aea2a0382d63/c679e785-539e-4fa4-a1a0-cea9dd89f615.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134391,
+        "aniId": 128908,
+        "createdAt": "2021-01-29T20:55:23.000Z",
+        "updatedAt": "2021-06-08T11:09:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

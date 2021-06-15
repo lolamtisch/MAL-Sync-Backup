@@ -1,0 +1,200 @@
+{
+  "altTitle": [
+    "ディアーズ"
+  ],
+  "id": 63,
+  "malId": 63,
+  "type": "anime",
+  "title": "DearS",
+  "url": "https://anilist.co/anime/63",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx63-2EYTwbAK4CLR.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-05-20T14:33:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "ow7j": {
+        "identifier": "ow7j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oh Dear",
+        "url": "https://www11.9anime.to/watch/oh-dear.ow7j",
+        "image": "https://static.akacdn.ru/files/images/2018/07/6aaa7271d2790b5263cf3a0ac5de7b5e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-10-12T15:54:23.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "rwyq": {
+        "identifier": "rwyq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "DearS",
+        "url": "https://9anime.ru/watch/dears.rwyq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Vid4aK5nAw8/V62h6ih0KII/AAAAAAAA2iE/-sodO4JwNeM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-10-12T15:55:40.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "zxnp": {
+        "identifier": "zxnp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "DearS (Dub)",
+        "url": "https://9anime.ru/watch/dears-dub.zxnp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3PO9NgD5GkY/V65_z7Hh3YI/AAAAAAAA2ro/Bh2zphXHkyo/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-10-12T15:57:17.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "1909": {
+        "identifier": "1909",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "DearS",
+        "url": "https://aniwatch.me/anime/1909",
+        "image": "https://img.aniwatch.me/9A9491FEC3D047AABC62DF5EE187A429",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-10-12T15:58:10.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dears": {
+        "identifier": "dears",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "DearS",
+        "url": "https://www.gogoanime.movie/category/dears",
+        "image": "https://gogocdn.net/images/anime/D/dears.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-10-12T16:00:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "dears-dub": {
+        "identifier": "dears-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "DearS (Dub)",
+        "url": "https://www16.gogoanime.io/category/dears-dub",
+        "image": "https://gogocdn.net/cover/dears-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-10-12T16:00:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "320": {
+        "identifier": "320",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "DearS (GerDub)",
+        "url": "https://www.anime4you.one/show/1/aid/320",
+        "image": "https://cdn.anime4you.one/covers/310817060608083327.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-10-15T13:26:55.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "dears%20(dub)": {
+        "identifier": "dears%20(dub)",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "DearS (Dub)",
+        "url": "https://www.crunchyroll.com/dears?media_id=685549",
+        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ffc77cc9a7a4dede2217bc6318f457181442281187_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-10-29T12:42:25.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      },
+      "dears%20(sub)": {
+        "identifier": "dears%20(sub)",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "DearS (Sub)",
+        "url": "https://www.crunchyroll.com/dears?media_id=685523",
+        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/e27d7946fee66ce819bf595e3dbec15e1442279964_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2020-11-10T17:44:53.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1586": {
+        "identifier": "1586",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "DearS",
+        "url": "https://pahe.win/a/1586",
+        "image": "https://i.animepahe.com/posters/583f1b9d49ce4df1679103c0cfe6f6be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63,
+        "aniId": 63,
+        "createdAt": "2021-02-11T18:41:07.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

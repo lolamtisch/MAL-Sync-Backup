@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "okama"
+  ],
+  "id": 45030,
+  "malId": 15030,
+  "type": "manga",
+  "title": "Food Girls",
+  "url": "https://anilist.co/manga/45030",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45030-SoOX0b5Iu4wi.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:43.000Z",
+  "updatedAt": "2021-05-20T14:43:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b1fb3894-ae68-4e77-bd25-60c40c8b5283": {
+        "authors": [
+          "Okama"
+        ],
+        "identifier": "b1fb3894-ae68-4e77-bd25-60c40c8b5283",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Food Girls",
+        "url": "https://mangadex.org/title/b1fb3894-ae68-4e77-bd25-60c40c8b5283",
+        "image": "https://uploads.mangadex.org/covers/b1fb3894-ae68-4e77-bd25-60c40c8b5283/bcbb9b33-0142-49c9-8889-48aef4768a8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15030,
+        "aniId": 45030,
+        "createdAt": "2020-10-12T16:06:35.000Z",
+        "updatedAt": "2021-06-03T20:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

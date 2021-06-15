@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Love Catalogue",
+    "恋愛カタログ",
+    "Renai Catalogue",
+    "Renai Catalog",
+    "Ren-Cata",
+    "Love Catalog"
+  ],
+  "authors": [
+    "Masami Nagata"
+  ],
+  "id": 35186,
+  "malId": 5186,
+  "type": "manga",
+  "title": "Love Catalogue",
+  "url": "https://anilist.co/manga/35186",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5186.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4560b99b-a493-48fd-9b1b-61c31d7ed7a3": {
+        "authors": [
+          "NAGATA Masami"
+        ],
+        "identifier": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renai Catalog",
+        "url": "https://mangadex.org/title/4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
+        "image": "https://uploads.mangadex.org/covers/4560b99b-a493-48fd-9b1b-61c31d7ed7a3/3c52b8f9-e68e-428f-aca2-628db26100b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5186,
+        "aniId": 35186,
+        "createdAt": "2020-10-12T16:06:51.000Z",
+        "updatedAt": "2021-06-03T22:37:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

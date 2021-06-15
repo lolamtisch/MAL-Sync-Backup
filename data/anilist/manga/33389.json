@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "MVPは譲れない!",
+    "Can't Give Up MVP"
+  ],
+  "authors": [
+    "Yoshiki Nakamura"
+  ],
+  "id": 33389,
+  "malId": 3389,
+  "type": "manga",
+  "title": "MVP wa Yuzurenai!",
+  "url": "https://anilist.co/manga/33389",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33389-tZAkarOUbzAA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:08.000Z",
+  "updatedAt": "2021-05-20T14:38:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "65bcd45a-b38c-4f89-bb49-be4430a5c534": {
+        "authors": [
+          "Nakamura Yoshiki"
+        ],
+        "identifier": "65bcd45a-b38c-4f89-bb49-be4430a5c534",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MVP wa Yuzurenai!",
+        "url": "https://mangadex.org/title/65bcd45a-b38c-4f89-bb49-be4430a5c534",
+        "image": "https://uploads.mangadex.org/covers/65bcd45a-b38c-4f89-bb49-be4430a5c534/0ac4c9f6-5043-4e7b-9fb4-edb31afbe130.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3389,
+        "aniId": 33389,
+        "createdAt": "2020-10-12T16:04:09.000Z",
+        "updatedAt": "2021-06-02T19:06:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

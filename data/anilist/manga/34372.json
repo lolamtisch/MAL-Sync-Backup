@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Maria"
+  ],
+  "id": 34372,
+  "malId": 4372,
+  "type": "manga",
+  "title": "Lovesick",
+  "url": "https://anilist.co/manga/34372",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4372.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T15:51:40.000Z",
+  "updatedAt": "2021-06-04T15:51:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ed175e0f-580b-41f2-a6fa-fba6b47c5b44": {
+        "authors": [
+          "Maria"
+        ],
+        "identifier": "ed175e0f-580b-41f2-a6fa-fba6b47c5b44",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lovesick",
+        "url": "https://mangadex.org/title/ed175e0f-580b-41f2-a6fa-fba6b47c5b44",
+        "image": "https://uploads.mangadex.org/covers/ed175e0f-580b-41f2-a6fa-fba6b47c5b44/424e1137-2e1b-4255-9557-a22c32255d95.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4372,
+        "aniId": 34372,
+        "createdAt": "2020-10-12T16:09:11.000Z",
+        "updatedAt": "2021-06-04T22:09:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

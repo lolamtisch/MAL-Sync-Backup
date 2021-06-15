@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "The Journey Home",
+    "スペースバグ"
+  ],
+  "id": 37787,
+  "type": "anime",
+  "title": "Space Bug",
+  "url": "https://myanimelist.net/anime/37787/Space_Bug",
+  "image": "https://cdn.myanimelist.net/images/anime/1063/94832.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2021-04-29T05:49:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "pxo9": {
+        "identifier": "pxo9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Space Bug",
+        "url": "https://9anime.ru/watch/space-bug.pxo9",
+        "image": "http://static.akacdn.ru/static/images/2018/07/57e9b318f735b784616127d42e5296fa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37787,
+        "aniId": 102925,
+        "createdAt": "2020-10-12T15:54:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "the%20journey%20home": {
+        "identifier": "the%20journey%20home",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "The Journey Home",
+        "url": "https://www.crunchyroll.com/the-journey-home?media_id=774980",
+        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/bee66803529ff5b2c8f34add0054a7731531025307_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37787,
+        "aniId": 102925,
+        "createdAt": "2020-10-29T05:44:42.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "space-bug": {
+        "identifier": "space-bug",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Space Bug",
+        "url": "https://gogoanime.so/category/space-bug",
+        "image": "https://gogocdn.net/cover/space-bug.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37787,
+        "aniId": 102925,
+        "createdAt": "2020-11-04T21:58:55.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

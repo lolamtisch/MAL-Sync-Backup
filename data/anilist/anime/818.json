@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "桜通信",
+    "Sakura Diaries",
+    "Sakura Mail"
+  ],
+  "id": 818,
+  "malId": 818,
+  "type": "anime",
+  "title": "Sakura Tsuushin",
+  "url": "https://anilist.co/anime/818",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/818.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:46.000Z",
+  "updatedAt": "2021-05-20T14:34:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "7ypj": {
+        "identifier": "7ypj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakura Tsuushin (Dub)",
+        "url": "https://9anime.ru/watch/sakura-tsuushin-dub.7ypj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-jDeO1CdTfjI/WDkzddOnclI/AAAAAAABQew/BQPgMZdnVgw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 818,
+        "aniId": 818,
+        "createdAt": "2020-10-12T15:51:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "87qn": {
+        "identifier": "87qn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakura Tsuushin",
+        "url": "https://9anime.ru/watch/sakura-tsuushin.87qn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zLMBY1YH9M0/WDkzd3595iI/AAAAAAABQe0/V65nls-hh7c/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 818,
+        "aniId": 818,
+        "createdAt": "2020-10-12T15:51:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sakura-mail": {
+        "identifier": "sakura-mail",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sakura Mail",
+        "url": "https://www10.gogoanime.io/category/sakura-mail",
+        "image": "https://cdnimg.xyz/images/anime/S/Sakura Mail.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 818,
+        "aniId": 818,
+        "createdAt": "2020-10-12T16:01:45.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "sakura-diaries-dub": {
+        "identifier": "sakura-diaries-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sakura Diaries (Dub)",
+        "url": "https://www2.gogoanime.sh/category/sakura-diaries-dub",
+        "image": "https://gogocdn.net/cover/sakura-diaries-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 818,
+        "aniId": 818,
+        "createdAt": "2021-02-21T15:04:39.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

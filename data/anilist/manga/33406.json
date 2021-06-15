@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "みれみら"
+  ],
+  "authors": [
+    "Masahito Watari",
+    "Burger Suzuki"
+  ],
+  "id": 33406,
+  "malId": 3406,
+  "type": "manga",
+  "title": "Millenium Mirage",
+  "url": "https://anilist.co/manga/33406",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3406.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:08.000Z",
+  "updatedAt": "2021-05-20T14:38:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12c3e659-21a0-46ad-8ce0-28c775c4edf3": {
+        "authors": [
+          "Watari Masahito",
+          "Burger Suzuki"
+        ],
+        "identifier": "12c3e659-21a0-46ad-8ce0-28c775c4edf3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Millennium Mirage",
+        "url": "https://mangadex.org/title/12c3e659-21a0-46ad-8ce0-28c775c4edf3",
+        "image": "https://uploads.mangadex.org/covers/12c3e659-21a0-46ad-8ce0-28c775c4edf3/64a638e1-c5b8-4746-ad32-72697e67b508.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3406,
+        "aniId": 33406,
+        "createdAt": "2020-10-12T16:05:32.000Z",
+        "updatedAt": "2021-06-03T13:19:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

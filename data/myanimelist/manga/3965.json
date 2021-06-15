@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Area 88",
+    "エリア88"
+  ],
+  "authors": [
+    "Shintani, Kaoru"
+  ],
+  "id": 3965,
+  "type": "manga",
+  "title": "Area 88",
+  "url": "https://myanimelist.net/manga/3965/Area_88",
+  "image": "https://cdn.myanimelist.net/images/manga/2/73005.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:55.000Z",
+  "updatedAt": "2021-05-28T08:23:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8329fabe-41d2-4c63-8d06-41400185dcbc": {
+        "authors": [
+          "Shintani Kaoru"
+        ],
+        "identifier": "8329fabe-41d2-4c63-8d06-41400185dcbc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Area 88",
+        "url": "https://mangadex.org/title/8329fabe-41d2-4c63-8d06-41400185dcbc",
+        "image": "https://uploads.mangadex.org/covers/8329fabe-41d2-4c63-8d06-41400185dcbc/0bdffbfa-2a1d-42a2-bc0c-3d35c093b168.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3965,
+        "aniId": 33965,
+        "createdAt": "2020-10-12T16:09:35.000Z",
+        "updatedAt": "2021-06-04T18:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "area_88": {
+        "authors": [
+          "SHINTANI Kaoru"
+        ],
+        "identifier": "area_88",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Area 88",
+        "url": "https://fanfox.net/manga/area_88/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/439/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3965,
+        "aniId": 33965,
+        "createdAt": "2021-05-28T08:23:59.000Z",
+        "updatedAt": "2021-05-28T08:53:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

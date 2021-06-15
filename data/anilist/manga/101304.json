@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "はるがきた",
+    "Spring is here",
+    "Spring has come"
+  ],
+  "authors": [
+    "Kome Mochino"
+  ],
+  "id": 101304,
+  "malId": 111329,
+  "type": "manga",
+  "title": "Haru ga Kita",
+  "url": "https://anilist.co/manga/101304",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101304-JtERh6sEDPBH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:20.000Z",
+  "updatedAt": "2021-06-05T14:52:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2d1cbf95-d511-4a51-a8a8-87d7a431671e": {
+        "authors": [
+          "Mochino Kome"
+        ],
+        "identifier": "2d1cbf95-d511-4a51-a8a8-87d7a431671e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haru ga Kita",
+        "url": "https://mangadex.org/title/2d1cbf95-d511-4a51-a8a8-87d7a431671e",
+        "image": "https://uploads.mangadex.org/covers/2d1cbf95-d511-4a51-a8a8-87d7a431671e/d213131c-2931-42b0-831a-b131255f2d73.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111329,
+        "aniId": 101304,
+        "createdAt": "2020-10-12T16:12:24.000Z",
+        "updatedAt": "2021-06-05T15:32:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yx920948": {
+        "authors": [],
+        "identifier": "yx920948",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My King Hasn't Come Of Age",
+        "url": "https://manganelo.com/manga/yx920948",
+        "image": "https://avt.mkklcdnv6.com/37/u/19-1583500561.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111329,
+        "aniId": 101304,
+        "createdAt": "2020-10-12T16:26:28.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "五年生",
+    "The 5th Grade"
+  ],
+  "authors": [
+    "Shimoku Kio"
+  ],
+  "id": 79445,
+  "malId": 49445,
+  "type": "manga",
+  "title": "Gonensei",
+  "url": "https://anilist.co/manga/79445",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79445-CE2dmu92Jgje.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:42.000Z",
+  "updatedAt": "2021-05-20T14:49:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb18cf71-d279-4b9a-93d9-3b5428be11c9": {
+        "authors": [
+          "Kio Shimoku"
+        ],
+        "identifier": "eb18cf71-d279-4b9a-93d9-3b5428be11c9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gonensei",
+        "url": "https://mangadex.org/title/eb18cf71-d279-4b9a-93d9-3b5428be11c9",
+        "image": "https://uploads.mangadex.org/covers/eb18cf71-d279-4b9a-93d9-3b5428be11c9/36349af7-c5f1-4442-a731-8786dfdb544f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49445,
+        "aniId": 79445,
+        "createdAt": "2020-10-12T16:07:43.000Z",
+        "updatedAt": "2021-06-04T04:52:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gonensei": {
+        "authors": [
+          "KIO Shimoku"
+        ],
+        "identifier": "gonensei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gonensei",
+        "url": "https://mangasee123.com/manga/Gonensei",
+        "image": "https://cover.nep.li/cover/Gonensei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49445,
+        "aniId": 79445,
+        "createdAt": "2021-03-30T17:01:01.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

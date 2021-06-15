@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "レッする！ジ・アンダーグラウンド",
+    "Ressuru! The Under Ground"
+  ],
+  "authors": [
+    "Buredo"
+  ],
+  "id": 50066,
+  "malId": 20066,
+  "type": "manga",
+  "title": "Wrestle! The Under Ground",
+  "url": "https://anilist.co/manga/50066",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50066-v7PHjYYwTA63.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc74fb3b-6165-4b58-be35-3de9de9a2836": {
+        "authors": [
+          "Hamamura Toshikiri",
+          "Muramasa Mikado",
+          "Bureido"
+        ],
+        "identifier": "fc74fb3b-6165-4b58-be35-3de9de9a2836",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wrestle! The Under Ground",
+        "url": "https://mangadex.org/title/fc74fb3b-6165-4b58-be35-3de9de9a2836",
+        "image": "https://uploads.mangadex.org/covers/fc74fb3b-6165-4b58-be35-3de9de9a2836/6c1b79f5-c086-4594-8163-ea7d5bf44a28.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20066,
+        "aniId": 50066,
+        "createdAt": "2020-10-12T16:02:24.000Z",
+        "updatedAt": "2021-06-02T06:39:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "wrestle_the_under_ground": {
+        "authors": [],
+        "identifier": "wrestle_the_under_ground",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Wrestle! The Under Ground",
+        "url": "https://manganelo.com/manga/wrestle_the_under_ground",
+        "image": "https://avt.mkklcdnv6.com/15/i/8-1583478759.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20066,
+        "aniId": 50066,
+        "createdAt": "2020-10-12T16:26:11.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "wrestle_the_under_ground": {
+        "authors": [
+          "Buredo"
+        ],
+        "identifier": "wrestle_the_under_ground",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Wrestle! The Under Ground",
+        "url": "https://fanfox.net/manga/wrestle_the_under_ground/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8153/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20066,
+        "aniId": 50066,
+        "createdAt": "2021-01-06T14:00:02.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

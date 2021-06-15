@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "Cactus's Secret",
+    "サボテンの秘密",
+    "The Secret of Cactus",
+    "Haruta Nikki",
+    "Okosama Brat",
+    "Sono Saki no Sweet"
+  ],
+  "authors": [
+    "Nana Haruta",
+    "Deron Bennett",
+    "Su Mon Han",
+    "Deron Bennett"
+  ],
+  "id": 31329,
+  "malId": 1329,
+  "type": "manga",
+  "title": "Saboten no Himitsu",
+  "url": "https://anilist.co/manga/31329",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31329-pcCYJUXKvjd4.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-05-20T14:36:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fae75de0-0503-4f10-97fb-2aa5be509f2e": {
+        "authors": [
+          "Haruta Nana"
+        ],
+        "identifier": "fae75de0-0503-4f10-97fb-2aa5be509f2e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saboten no Himitsu",
+        "url": "https://mangadex.org/title/fae75de0-0503-4f10-97fb-2aa5be509f2e",
+        "image": "https://uploads.mangadex.org/covers/fae75de0-0503-4f10-97fb-2aa5be509f2e/42033e59-b61a-4350-8f3e-e803067716e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1329,
+        "aniId": 31329,
+        "createdAt": "2020-10-12T16:04:07.000Z",
+        "updatedAt": "2021-06-02T18:51:52.000Z",
+        "deletedAt": null
+      },
+      "1d0402ce-5149-4ecb-9052-fd2208dbc61e": {
+        "authors": [
+          "Unknown"
+        ],
+        "identifier": "1d0402ce-5149-4ecb-9052-fd2208dbc61e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aishi no Saboten",
+        "url": "https://mangadex.org/title/1d0402ce-5149-4ecb-9052-fd2208dbc61e",
+        "image": "https://uploads.mangadex.org/covers/1d0402ce-5149-4ecb-9052-fd2208dbc61e/892baeeb-280c-40e2-ac49-b01c777a68ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1329,
+        "aniId": 31329,
+        "createdAt": "2020-10-12T16:17:01.000Z",
+        "updatedAt": "2021-06-07T04:04:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cactus-secret": {
+        "authors": [
+          "HARUTA Nana"
+        ],
+        "identifier": "cactus-secret",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cactus's Secret",
+        "url": "https://mangasee123.com/manga/Cactus-Secret",
+        "image": "https://cover.nep.li/cover/Cactus-Secret.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1329,
+        "aniId": 31329,
+        "createdAt": "2021-06-02T06:01:31.000Z",
+        "updatedAt": "2021-06-02T06:30:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

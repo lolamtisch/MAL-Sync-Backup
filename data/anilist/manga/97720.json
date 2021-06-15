@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "また、片想う。",
+    "Mata Kata Omou.",
+    "다시 짝사랑하다."
+  ],
+  "authors": [
+    "Roku Tachibana"
+  ],
+  "id": 97720,
+  "malId": 100231,
+  "type": "manga",
+  "title": "Mata, Kataomou.",
+  "url": "https://anilist.co/manga/97720",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97720-2zAg7tl0WCjg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:45.000Z",
+  "updatedAt": "2021-05-20T14:54:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c90cdd9f-2a14-41cb-8ab4-3705fe2050b5": {
+        "authors": [
+          "Tachibana Roku"
+        ],
+        "identifier": "c90cdd9f-2a14-41cb-8ab4-3705fe2050b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mata, Kata Omou.",
+        "url": "https://mangadex.org/title/c90cdd9f-2a14-41cb-8ab4-3705fe2050b5",
+        "image": "https://uploads.mangadex.org/covers/c90cdd9f-2a14-41cb-8ab4-3705fe2050b5/d6a1cc04-d5ce-47da-af11-fb001af18e12.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100231,
+        "aniId": 97720,
+        "createdAt": "2020-10-12T16:10:10.000Z",
+        "updatedAt": "2021-06-04T22:53:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mata_kataomou": {
+        "authors": [],
+        "identifier": "mata_kataomou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mata, Kataomou",
+        "url": "https://manganelo.com/manga/mata_kataomou",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19911-mata_kataomou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100231,
+        "aniId": 97720,
+        "createdAt": "2020-10-12T16:24:16.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bt978728": {
+        "authors": [
+          "Tachibana Roku"
+        ],
+        "identifier": "manga-bt978728",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mata, Kataomou",
+        "url": "https://manganato.com/manga-bt978728",
+        "image": "https://avt.mkklcdnv6temp.com/14/z/16-1583494012.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100231,
+        "aniId": 97720,
+        "createdAt": "2021-06-02T23:02:23.000Z",
+        "updatedAt": "2021-06-02T23:30:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

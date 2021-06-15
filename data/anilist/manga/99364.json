@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Shoodan!",
+    "シューダン！"
+  ],
+  "authors": [
+    "Takuma Yokota"
+  ],
+  "id": 99364,
+  "malId": 107479,
+  "type": "manga",
+  "title": "Shuudan!",
+  "url": "https://anilist.co/manga/99364",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99364-pB54qbiR7uGZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:54.000Z",
+  "updatedAt": "2021-05-20T14:55:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "84d41b3a-a05d-4afd-b116-1a78bc7ff989": {
+        "authors": [
+          "Yokota Takuma"
+        ],
+        "identifier": "84d41b3a-a05d-4afd-b116-1a78bc7ff989",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shudan!",
+        "url": "https://mangadex.org/title/84d41b3a-a05d-4afd-b116-1a78bc7ff989",
+        "image": "https://uploads.mangadex.org/covers/84d41b3a-a05d-4afd-b116-1a78bc7ff989/95a408c5-2201-4fd3-9eae-d2122892ce55.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107479,
+        "aniId": 99364,
+        "createdAt": "2020-10-12T16:10:51.000Z",
+        "updatedAt": "2021-06-05T03:52:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shudan": {
+        "authors": [
+          "YOKOTA Takuma"
+        ],
+        "identifier": "shudan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shudan!",
+        "url": "https://fanfox.net/manga/shudan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26944/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107479,
+        "aniId": 99364,
+        "createdAt": "2020-12-22T16:56:53.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

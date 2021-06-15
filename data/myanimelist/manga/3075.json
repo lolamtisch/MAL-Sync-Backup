@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "haru*hana",
+    "Haru Hana",
+    "ハルハナ"
+  ],
+  "authors": [
+    "Kazumi, Yuana"
+  ],
+  "id": 3075,
+  "type": "manga",
+  "title": "HaruHana",
+  "url": "https://myanimelist.net/manga/3075/HaruHana",
+  "image": "https://cdn.myanimelist.net/images/manga/5/31528.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:47.000Z",
+  "updatedAt": "2021-03-14T08:39:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e3bfbc5-ec3a-48af-8b47-d8663b8af509": {
+        "authors": [
+          "KAZUMI Yuana"
+        ],
+        "identifier": "7e3bfbc5-ec3a-48af-8b47-d8663b8af509",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HaruHana",
+        "url": "https://mangadex.org/title/7e3bfbc5-ec3a-48af-8b47-d8663b8af509",
+        "image": "https://uploads.mangadex.org/covers/7e3bfbc5-ec3a-48af-8b47-d8663b8af509/c0c2bb0e-9a27-42f3-9367-fd6d6280546e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3075,
+        "aniId": 33075,
+        "createdAt": "2020-10-12T16:13:04.000Z",
+        "updatedAt": "2021-06-05T18:31:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hana_haru": {
+        "authors": [],
+        "identifier": "hana_haru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hana Haru",
+        "url": "https://manganelo.com/manga/hana_haru",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18802-hana_haru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3075,
+        "aniId": 33075,
+        "createdAt": "2020-10-12T16:23:15.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

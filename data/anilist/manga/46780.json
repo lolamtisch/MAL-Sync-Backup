@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Sun-Young Lee"
+  ],
+  "id": 46780,
+  "malId": 16780,
+  "type": "manga",
+  "title": "Deep Bloody Night",
+  "url": "https://anilist.co/manga/46780",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16780.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T13:52:50.000Z",
+  "updatedAt": "2021-06-04T13:52:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33c629b9-af7e-4483-bd77-4ce28a4b82b9": {
+        "authors": [
+          "Lee Sun-Young"
+        ],
+        "identifier": "33c629b9-af7e-4483-bd77-4ce28a4b82b9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Deep Bloody Night",
+        "url": "https://mangadex.org/title/33c629b9-af7e-4483-bd77-4ce28a4b82b9",
+        "image": "https://uploads.mangadex.org/covers/33c629b9-af7e-4483-bd77-4ce28a4b82b9/098acd99-5b77-4f1f-9e9c-9e51b70d82d1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16780,
+        "aniId": 46780,
+        "createdAt": "2020-10-12T16:08:54.000Z",
+        "updatedAt": "2021-06-04T14:37:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

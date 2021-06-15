@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Koi Beta!?",
+    "コイベタ!?",
+    "Koi Beta",
+    "コイベタ!?"
+  ],
+  "authors": [
+    "Shin Yumachi"
+  ],
+  "id": 37600,
+  "malId": 7600,
+  "type": "manga",
+  "title": "Koi Beta!?",
+  "url": "https://anilist.co/manga/37600",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7600.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:53.000Z",
+  "updatedAt": "2021-06-04T20:49:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc153200-f518-422d-88f6-ded5920c66f6": {
+        "authors": [
+          "Yumachi Shin"
+        ],
+        "identifier": "fc153200-f518-422d-88f6-ded5920c66f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi Beta!?",
+        "url": "https://mangadex.org/title/fc153200-f518-422d-88f6-ded5920c66f6",
+        "image": "https://uploads.mangadex.org/covers/fc153200-f518-422d-88f6-ded5920c66f6/ed0ba19d-c611-46c1-8104-d8b9a73c2198.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7600,
+        "aniId": 37600,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:59:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koi_beta": {
+        "authors": [
+          "Yumachi",
+          "Shin"
+        ],
+        "identifier": "koi_beta",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koi Beta!?",
+        "url": "https://manganelo.com/manga/koi_beta",
+        "image": "https://avt.mkklcdnv6temp.com/49/j/12-1583487692.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7600,
+        "aniId": 37600,
+        "createdAt": "2021-02-18T16:18:01.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

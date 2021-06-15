@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ダークグリーン"
+  ],
+  "authors": [
+    "Sasaki, Junko"
+  ],
+  "id": 19661,
+  "type": "manga",
+  "title": "Dark Green",
+  "url": "https://myanimelist.net/manga/19661/Dark_Green",
+  "image": "https://cdn.myanimelist.net/images/manga/3/30651.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:45.000Z",
+  "updatedAt": "2021-03-23T06:06:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "98bc359e-dac7-4f06-8335-bdd6602292bb": {
+        "authors": [
+          "Sasaki Junko"
+        ],
+        "identifier": "98bc359e-dac7-4f06-8335-bdd6602292bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dark Green",
+        "url": "https://mangadex.org/title/98bc359e-dac7-4f06-8335-bdd6602292bb",
+        "image": "https://uploads.mangadex.org/covers/98bc359e-dac7-4f06-8335-bdd6602292bb/6bf5309a-2e8f-4ed7-a4fa-0dbd74d02c2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19661,
+        "aniId": 49661,
+        "createdAt": "2020-10-12T16:10:11.000Z",
+        "updatedAt": "2021-06-04T22:58:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dark_green": {
+        "authors": [
+          "Sasaki",
+          "Junko"
+        ],
+        "identifier": "dark_green",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dark Green",
+        "url": "https://manganelo.com/manga/dark_green",
+        "image": "https://avt.mkklcdnv6temp.com/26/s/6-1583475231.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19661,
+        "aniId": 49661,
+        "createdAt": "2021-03-23T06:06:09.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

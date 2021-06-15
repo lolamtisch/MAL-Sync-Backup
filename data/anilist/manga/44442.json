@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "리니지",
+    "Riniji",
+    "红狮传说"
+  ],
+  "authors": [
+    "Il-Sook Shin"
+  ],
+  "id": 44442,
+  "malId": 14442,
+  "type": "manga",
+  "title": "Lineage",
+  "url": "https://anilist.co/manga/44442",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44442-G2ftPju44CPr.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:46.000Z",
+  "updatedAt": "2021-05-20T14:42:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "81381a3d-7740-4686-bd02-2c40a0d2a564": {
+        "authors": [
+          "SHIN Il-Sook"
+        ],
+        "identifier": "81381a3d-7740-4686-bd02-2c40a0d2a564",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lineage",
+        "url": "https://mangadex.org/title/81381a3d-7740-4686-bd02-2c40a0d2a564",
+        "image": "https://uploads.mangadex.org/covers/81381a3d-7740-4686-bd02-2c40a0d2a564/7e651523-1727-4f68-b615-dc998962078b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14442,
+        "aniId": 44442,
+        "createdAt": "2020-12-14T09:19:23.000Z",
+        "updatedAt": "2021-06-08T08:35:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

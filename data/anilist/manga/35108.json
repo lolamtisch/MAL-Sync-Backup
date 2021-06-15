@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "ザイオンの小枝",
+    "Chrysalis",
+    "Netsu no Ori",
+    "Paldias"
+  ],
+  "authors": [
+    "Fusanosuke Inariya"
+  ],
+  "id": 35108,
+  "malId": 5108,
+  "type": "manga",
+  "title": "Zion no Koeda",
+  "url": "https://anilist.co/manga/35108",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5108.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86b694cb-32a2-4b73-b75d-d7f09f71ce24": {
+        "authors": [
+          "Inariya Fusanosuke"
+        ],
+        "identifier": "86b694cb-32a2-4b73-b75d-d7f09f71ce24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zion no Koeda",
+        "url": "https://mangadex.org/title/86b694cb-32a2-4b73-b75d-d7f09f71ce24",
+        "image": "https://uploads.mangadex.org/covers/86b694cb-32a2-4b73-b75d-d7f09f71ce24/18e18bc6-ed91-44b8-95e9-3916d694ca3d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5108,
+        "aniId": 35108,
+        "createdAt": "2020-10-12T16:14:49.000Z",
+        "updatedAt": "2021-06-06T08:28:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

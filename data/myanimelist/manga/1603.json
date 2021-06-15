@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Sakura Diaries",
+    "Cherry Tree Communication",
+    "桜通信"
+  ],
+  "authors": [
+    "U-jin"
+  ],
+  "id": 1603,
+  "type": "manga",
+  "title": "Sakura Tsuushin",
+  "url": "https://myanimelist.net/manga/1603/Sakura_Tsuushin",
+  "image": "https://cdn.myanimelist.net/images/manga/1/53521.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:35.000Z",
+  "updatedAt": "2021-06-13T06:09:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "81341bcf-2ff0-4b6d-aff5-735a1f8ab22d": {
+        "authors": [
+          "U-jin"
+        ],
+        "identifier": "81341bcf-2ff0-4b6d-aff5-735a1f8ab22d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakura Tsuushin",
+        "url": "https://mangadex.org/title/81341bcf-2ff0-4b6d-aff5-735a1f8ab22d",
+        "image": "https://uploads.mangadex.org/covers/81341bcf-2ff0-4b6d-aff5-735a1f8ab22d/f478187b-7946-4ebe-939a-2b6fc6f42e58.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1603,
+        "aniId": 31603,
+        "createdAt": "2020-10-12T16:11:50.000Z",
+        "updatedAt": "2021-06-05T11:26:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sakura_tsuushin": {
+        "authors": [
+          "U-Jin"
+        ],
+        "identifier": "sakura_tsuushin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sakura Tsuushin",
+        "url": "https://manganelo.com/manga/sakura_tsuushin",
+        "image": "https://avt.mkklcdnv6.com/14/c/9-1583480630.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1603,
+        "aniId": 31603,
+        "createdAt": "2020-12-13T05:48:54.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

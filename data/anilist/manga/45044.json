@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "みのりの日々",
+    "Minori no Hibi"
+  ],
+  "authors": [
+    "Hirokazu Inoue"
+  ],
+  "id": 45044,
+  "malId": 15044,
+  "type": "manga",
+  "title": "Minori no Hibi",
+  "url": "https://anilist.co/manga/45044",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15044.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:43.000Z",
+  "updatedAt": "2021-05-20T14:43:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "366b3d23-648b-49c2-b056-9b6d09f540b1": {
+        "authors": [
+          "INOUE Hirokazu"
+        ],
+        "identifier": "366b3d23-648b-49c2-b056-9b6d09f540b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Minori no Hibi",
+        "url": "https://mangadex.org/title/366b3d23-648b-49c2-b056-9b6d09f540b1",
+        "image": "https://uploads.mangadex.org/covers/366b3d23-648b-49c2-b056-9b6d09f540b1/12dbe60f-6939-4424-acd9-69179fdc52ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15044,
+        "aniId": 45044,
+        "createdAt": "2020-10-12T16:05:03.000Z",
+        "updatedAt": "2021-06-03T09:58:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

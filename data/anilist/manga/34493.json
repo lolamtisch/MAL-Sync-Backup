@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "噂屋",
+    "Uwasa Ya"
+  ],
+  "authors": [
+    "Ayumu Hosaka",
+    "Natsume Hasumi"
+  ],
+  "id": 34493,
+  "malId": 4493,
+  "type": "manga",
+  "title": "Uwasaya",
+  "url": "https://anilist.co/manga/34493",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34493-ISMgL22WtaS3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:32.000Z",
+  "updatedAt": "2021-05-20T14:38:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2ea1f529-95db-42ab-9c00-d161cf8c8e28": {
+        "authors": [
+          "Hasumi Natsume",
+          "Hosaka Ayumu"
+        ],
+        "identifier": "2ea1f529-95db-42ab-9c00-d161cf8c8e28",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uwasaya",
+        "url": "https://mangadex.org/title/2ea1f529-95db-42ab-9c00-d161cf8c8e28",
+        "image": "https://uploads.mangadex.org/covers/2ea1f529-95db-42ab-9c00-d161cf8c8e28/dfc211d7-afd9-4dc6-a01e-2b1a873fb517.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4493,
+        "aniId": 34493,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:36:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

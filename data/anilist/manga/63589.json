@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "こいこい★生徒会",
+    "Koi Koi Seitokai",
+    "Koikoi Seitokai"
+  ],
+  "authors": [
+    "Kanao Araki"
+  ],
+  "id": 63589,
+  "malId": 33589,
+  "type": "manga",
+  "title": "Koi-koi★Seitokai",
+  "url": "https://anilist.co/manga/63589",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63589-uUWWZ21PRbzW.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:56.000Z",
+  "updatedAt": "2021-05-20T14:47:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac90429b-1664-40b1-acd2-a072fae16a4b": {
+        "authors": [
+          "ARAKI Kanao"
+        ],
+        "identifier": "ac90429b-1664-40b1-acd2-a072fae16a4b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi-koi Seitokai",
+        "url": "https://mangadex.org/title/ac90429b-1664-40b1-acd2-a072fae16a4b",
+        "image": "https://uploads.mangadex.org/covers/ac90429b-1664-40b1-acd2-a072fae16a4b/546c81a5-fdf1-4417-8a80-b4581eebb47a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33589,
+        "aniId": 63589,
+        "createdAt": "2020-10-12T16:03:49.000Z",
+        "updatedAt": "2021-06-02T16:45:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koi_koi_seitokai": {
+        "authors": [
+          "ARAKI Kanao"
+        ],
+        "identifier": "koi_koi_seitokai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koi-koi Seitokai",
+        "url": "https://fanfox.net/manga/koi_koi_seitokai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5300/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33589,
+        "aniId": 63589,
+        "createdAt": "2021-03-26T16:25:45.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

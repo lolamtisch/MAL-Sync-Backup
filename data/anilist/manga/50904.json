@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "夢中ノ人"
+  ],
+  "authors": [
+    "Suzuki Tanaka"
+  ],
+  "id": 50904,
+  "malId": 20904,
+  "type": "manga",
+  "title": "Muchuu no Hito",
+  "url": "https://anilist.co/manga/50904",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20904.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T03:48:59.000Z",
+  "updatedAt": "2021-06-05T03:48:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c551db6b-702e-4d27-b000-7102a06076a6": {
+        "authors": [
+          "Tanaka Suzuki"
+        ],
+        "identifier": "c551db6b-702e-4d27-b000-7102a06076a6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Muchuu no Hito",
+        "url": "https://mangadex.org/title/c551db6b-702e-4d27-b000-7102a06076a6",
+        "image": "https://uploads.mangadex.org/covers/c551db6b-702e-4d27-b000-7102a06076a6/8974eb7d-9ff0-431a-9792-a013340b1e17.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20904,
+        "aniId": 50904,
+        "createdAt": "2020-10-12T16:10:47.000Z",
+        "updatedAt": "2021-06-05T08:37:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

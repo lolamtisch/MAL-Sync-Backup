@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "人馬",
+    "Centaur"
+  ],
+  "authors": [
+    "Ryou Sumiyoshi"
+  ],
+  "id": 100460,
+  "malId": 104326,
+  "type": "manga",
+  "title": "Jinba",
+  "url": "https://anilist.co/manga/100460",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100460-XrLzzcJYu8YP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:11.000Z",
+  "updatedAt": "2021-05-20T14:55:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fdafcf14-c208-441b-a4f9-825ac3904cfd": {
+        "authors": [
+          "Sumiyoshi Ryo"
+        ],
+        "identifier": "fdafcf14-c208-441b-a4f9-825ac3904cfd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jimba",
+        "url": "https://mangadex.org/title/fdafcf14-c208-441b-a4f9-825ac3904cfd",
+        "image": "https://uploads.mangadex.org/covers/fdafcf14-c208-441b-a4f9-825ac3904cfd/62d659c2-69cd-44a0-ba7a-d2cd3c1cdd92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104326,
+        "aniId": 100460,
+        "createdAt": "2020-10-12T16:15:14.000Z",
+        "updatedAt": "2021-06-06T12:00:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

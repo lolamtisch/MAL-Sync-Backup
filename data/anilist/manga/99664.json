@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "For the Kid I Saw in My Dreams",
+    "夢で見たあの子のために",
+    "Echoes"
+  ],
+  "authors": [
+    "Kei Sanbe",
+    "Sheldon Drzka",
+    "Abigail Blackman"
+  ],
+  "id": 99664,
+  "malId": 108446,
+  "type": "manga",
+  "title": "Yume de Mita Ano Ko no Tame ni",
+  "url": "https://anilist.co/manga/99664",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99664-YokX3ZDV98hh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:58.000Z",
+  "updatedAt": "2021-05-20T14:55:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "935593f4-4ab5-463a-a9dd-a07501c413e2": {
+        "authors": [
+          "Sanbe Kei"
+        ],
+        "identifier": "935593f4-4ab5-463a-a9dd-a07501c413e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yume de Mita Ano Ko no Tame ni",
+        "url": "https://mangadex.org/title/935593f4-4ab5-463a-a9dd-a07501c413e2",
+        "image": "https://uploads.mangadex.org/covers/935593f4-4ab5-463a-a9dd-a07501c413e2/59674ec1-ab9a-4057-9dc8-67e0e0e68a91.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108446,
+        "aniId": 99664,
+        "createdAt": "2020-10-12T16:10:51.000Z",
+        "updatedAt": "2021-06-05T03:55:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yume-de-mita-ano-ko-no-tame-ni": {
+        "authors": [
+          "SANBE Kei"
+        ],
+        "identifier": "yume-de-mita-ano-ko-no-tame-ni",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yume de Mita Ano Ko no Tame ni",
+        "url": "https://mangasee123.com/manga/Yume-De-Mita-Ano-Ko-No-Tame-Ni",
+        "image": "https://cover.nep.li/cover/Yume-De-Mita-Ano-Ko-No-Tame-Ni.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108446,
+        "aniId": 99664,
+        "createdAt": "2020-12-19T14:26:48.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

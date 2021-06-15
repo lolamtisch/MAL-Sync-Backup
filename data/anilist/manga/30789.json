@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "Full Metal Panic",
+    "フルメタル・パニック！",
+    "FMP",
+    "Furu Metaru Panikku!"
+  ],
+  "authors": [
+    "Retsu Tateo",
+    "Shouji Gatou"
+  ],
+  "id": 30789,
+  "malId": 789,
+  "type": "manga",
+  "title": "Full Metal Panic!",
+  "url": "https://anilist.co/manga/30789",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/789.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-05-20T14:35:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c49df081-b955-4c04-936d-72106ff909cc": {
+        "authors": [
+          "Tateo Retsu",
+          "Shikidouji",
+          "Gatou Shouji"
+        ],
+        "identifier": "c49df081-b955-4c04-936d-72106ff909cc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Full Metal Panic!",
+        "url": "https://mangadex.org/title/c49df081-b955-4c04-936d-72106ff909cc",
+        "image": "https://uploads.mangadex.org/covers/c49df081-b955-4c04-936d-72106ff909cc/137d4e03-72f6-422f-b79a-49e795ad5b61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 789,
+        "aniId": 30789,
+        "createdAt": "2020-10-12T16:05:07.000Z",
+        "updatedAt": "2021-06-03T10:22:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "full_metal_panic": {
+        "authors": [],
+        "identifier": "full_metal_panic",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Full Metal Panic!",
+        "url": "https://manganelo.com/manga/full_metal_panic",
+        "image": "https://avt.mkklcdnv6.com/47/w/3-1583469562.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 789,
+        "aniId": 30789,
+        "createdAt": "2020-10-12T16:23:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "full-metal-panic": {
+        "authors": [
+          "GATOU Shouji",
+          "Shikidouji",
+          "TATEO Retsu"
+        ],
+        "identifier": "full-metal-panic",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Full Metal Panic!",
+        "url": "https://mangasee123.com/manga/Full-Metal-Panic",
+        "image": "https://cover.nep.li/cover/Full-Metal-Panic.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 789,
+        "aniId": 30789,
+        "createdAt": "2021-03-16T04:02:54.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

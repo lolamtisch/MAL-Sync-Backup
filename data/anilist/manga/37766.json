@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "真夜中エクスプレス",
+    "Midnight Express",
+    "Monday is a Secret Romance",
+    "Daydream",
+    "Class 2-G's Romeo and Juliet!"
+  ],
+  "authors": [
+    "Yasuko"
+  ],
+  "id": 37766,
+  "malId": 7766,
+  "type": "manga",
+  "title": "Mayonaka Express",
+  "url": "https://anilist.co/manga/37766",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7766.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:55.000Z",
+  "updatedAt": "2021-05-20T14:39:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "797d60d1-2a28-4c6c-91ca-882168431a38": {
+        "authors": [
+          "Yasuko"
+        ],
+        "identifier": "797d60d1-2a28-4c6c-91ca-882168431a38",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayonaka Express",
+        "url": "https://mangadex.org/title/797d60d1-2a28-4c6c-91ca-882168431a38",
+        "image": "https://uploads.mangadex.org/covers/797d60d1-2a28-4c6c-91ca-882168431a38/77015f02-4d7a-4db3-8394-fecbb6408ccc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7766,
+        "aniId": 37766,
+        "createdAt": "2020-10-12T16:09:11.000Z",
+        "updatedAt": "2021-06-04T15:42:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

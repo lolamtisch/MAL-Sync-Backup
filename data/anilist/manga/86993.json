@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "デスコ",
+    "Desco",
+    "Desuco"
+  ],
+  "authors": [
+    "Kaneko Atsushi"
+  ],
+  "id": 86993,
+  "malId": 89190,
+  "type": "manga",
+  "title": "Deathco",
+  "url": "https://anilist.co/manga/86993",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86993-AEZ5D7WgYkW0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-05-20T14:33:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "88510172-1e4c-4273-8f07-8503224f505c": {
+        "authors": [
+          "Kaneko Atsushi"
+        ],
+        "identifier": "88510172-1e4c-4273-8f07-8503224f505c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Deathco",
+        "url": "https://mangadex.org/title/88510172-1e4c-4273-8f07-8503224f505c",
+        "image": "https://uploads.mangadex.org/covers/88510172-1e4c-4273-8f07-8503224f505c/90f74b92-dfb6-4c80-aa10-bc681ab75022.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89190,
+        "aniId": 86993,
+        "createdAt": "2020-10-12T16:08:31.000Z",
+        "updatedAt": "2021-06-04T10:42:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "deathco": {
+        "authors": [
+          "Kaneko",
+          "Atsushi"
+        ],
+        "identifier": "deathco",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Deathco",
+        "url": "https://manganelo.com/manga/deathco",
+        "image": "https://avt.mkklcdnv6.com/37/s/22-1605505212.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89190,
+        "aniId": 86993,
+        "createdAt": "2021-01-18T07:33:05.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "deathco": {
+        "authors": [
+          "KANEKO Atsushi"
+        ],
+        "identifier": "deathco",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Deathco",
+        "url": "https://mangasee123.com/manga/Deathco",
+        "image": "https://cover.nep.li/cover/Deathco.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89190,
+        "aniId": 86993,
+        "createdAt": "2021-03-05T05:20:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

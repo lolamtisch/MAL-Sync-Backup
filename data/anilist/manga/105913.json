@@ -1,0 +1,113 @@
+{
+  "altTitle": [
+    "Wandering Witch: The Journey of Elaina",
+    "魔女の旅々",
+    "MajoTabi",
+    "Elainas Reise"
+  ],
+  "authors": [
+    "Jougi Shiraishi",
+    "Itsuki Nanao",
+    "Azuru",
+    "Taylor Engel",
+    "Bianca Pistillo"
+  ],
+  "id": 105913,
+  "malId": 116831,
+  "type": "manga",
+  "title": "Majo no Tabitabi",
+  "url": "https://anilist.co/manga/105913",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105913-A0w5OohVRfjb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:53.000Z",
+  "updatedAt": "2021-05-20T14:57:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b0c50912-623b-4bd7-84fc-7811f7961518": {
+        "authors": [
+          "Nanao Ikki",
+          "Shiraishi Jougi"
+        ],
+        "identifier": "b0c50912-623b-4bd7-84fc-7811f7961518",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Majo no Tabitabi",
+        "url": "https://mangadex.org/title/b0c50912-623b-4bd7-84fc-7811f7961518",
+        "image": "https://uploads.mangadex.org/covers/b0c50912-623b-4bd7-84fc-7811f7961518/e424257d-5bd6-438e-88c3-65938e3b4ba1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116831,
+        "aniId": 105913,
+        "createdAt": "2020-10-12T16:14:25.000Z",
+        "updatedAt": "2021-06-06T05:03:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ah917921": {
+        "authors": [],
+        "identifier": "ah917921",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Majo No Tabitabi: The Journey Of Elaina",
+        "url": "https://manganelo.com/manga/ah917921",
+        "image": "https://avt.mkklcdnv6.com/26/w/17-1583496219.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116831,
+        "aniId": 105913,
+        "createdAt": "2020-10-12T16:22:01.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "majo_no_tabitabi_the_journey_of_elaina": {
+        "authors": [
+          "SHIRAISHI Jougi"
+        ],
+        "identifier": "majo_no_tabitabi_the_journey_of_elaina",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Majo no Tabitabi: The Journey of Elaina",
+        "url": "https://fanfox.net/manga/majo_no_tabitabi_the_journey_of_elaina/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29538/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 116831,
+        "aniId": 105913,
+        "createdAt": "2021-04-06T16:48:38.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      },
+      "majo_no_tabitabi_novel": {
+        "authors": [
+          "SHIRAISHI Jougi"
+        ],
+        "identifier": "majo_no_tabitabi_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Majo no Tabitabi (Novel)",
+        "url": "https://fanfox.net/manga/majo_no_tabitabi_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34184/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116831,
+        "aniId": 105913,
+        "createdAt": "2021-04-06T16:48:47.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

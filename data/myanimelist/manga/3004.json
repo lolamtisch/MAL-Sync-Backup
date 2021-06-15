@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "インディゴ・ブルー"
+  ],
+  "authors": [
+    "Yamaji, Ebine"
+  ],
+  "id": 3004,
+  "type": "manga",
+  "title": "Indigo Blue",
+  "url": "https://myanimelist.net/manga/3004/Indigo_Blue",
+  "image": "https://cdn.myanimelist.net/images/manga/3/3985.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:47.000Z",
+  "updatedAt": "2021-04-27T21:19:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "da8b413c-41a7-45ee-be5d-fb01ad997b4d": {
+        "authors": [
+          "YAMAJI Ebine"
+        ],
+        "identifier": "da8b413c-41a7-45ee-be5d-fb01ad997b4d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Indigo Blue",
+        "url": "https://mangadex.org/title/da8b413c-41a7-45ee-be5d-fb01ad997b4d",
+        "image": "https://uploads.mangadex.org/covers/da8b413c-41a7-45ee-be5d-fb01ad997b4d/fce0e5aa-e891-4a30-9fa2-97184e371c74.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3004,
+        "aniId": 33004,
+        "createdAt": "2020-10-12T16:04:18.000Z",
+        "updatedAt": "2021-06-02T20:08:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "indigo_blue": {
+        "authors": [],
+        "identifier": "indigo_blue",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Indigo Blue",
+        "url": "https://manganelo.com/manga/indigo_blue",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/13008-indigo_blue.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3004,
+        "aniId": 33004,
+        "createdAt": "2020-10-12T16:23:33.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

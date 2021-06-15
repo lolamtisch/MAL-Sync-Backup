@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "SPRITE"
+  ],
+  "authors": [
+    "Arimura, Shinobu"
+  ],
+  "id": 86112,
+  "type": "manga",
+  "title": "Sprite",
+  "url": "https://myanimelist.net/manga/86112/Sprite",
+  "image": "https://cdn.myanimelist.net/images/manga/1/151657.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T18:21:19.000Z",
+  "updatedAt": "2021-06-05T18:21:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fd6ceb7f-922a-41cc-95a5-327631862361": {
+        "authors": [
+          "ARIMURA Shinobu"
+        ],
+        "identifier": "fd6ceb7f-922a-41cc-95a5-327631862361",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sprite",
+        "url": "https://mangadex.org/title/fd6ceb7f-922a-41cc-95a5-327631862361",
+        "image": "https://uploads.mangadex.org/covers/fd6ceb7f-922a-41cc-95a5-327631862361/620dcccd-fce3-44b3-a843-f7ae1e358ab5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86112,
+        "aniId": 93859,
+        "createdAt": "2020-10-12T16:12:59.000Z",
+        "updatedAt": "2021-06-05T18:26:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "altTitle": [
+    "Mebuki Kimidori",
+    "ReReハロ"
+  ],
+  "authors": [
+    "Minami, Touko"
+  ],
+  "id": 49537,
+  "type": "manga",
+  "title": "ReRe Hello",
+  "url": "https://myanimelist.net/manga/49537/ReRe_Hello",
+  "image": "https://cdn.myanimelist.net/images/manga/1/183754.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:33.000Z",
+  "updatedAt": "2021-06-04T06:49:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7aaaded7-9057-4e34-8dda-deeb69b1e400": {
+        "authors": [
+          "MINAMI Touko"
+        ],
+        "identifier": "7aaaded7-9057-4e34-8dda-deeb69b1e400",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ReRe Hello",
+        "url": "https://mangadex.org/title/7aaaded7-9057-4e34-8dda-deeb69b1e400",
+        "image": "https://uploads.mangadex.org/covers/7aaaded7-9057-4e34-8dda-deeb69b1e400/a17cc098-d84e-4d07-9bef-c1abdecf4492.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49537,
+        "aniId": 79537,
+        "createdAt": "2020-10-12T16:06:13.000Z",
+        "updatedAt": "2021-06-03T18:02:09.000Z",
+        "deletedAt": null
+      },
+      "76f7b28b-c0ed-41f1-844c-96651c5deabf": {
+        "authors": [
+          "Minami Touko"
+        ],
+        "identifier": "76f7b28b-c0ed-41f1-844c-96651c5deabf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mebuki Kimidori",
+        "url": "https://mangadex.org/title/76f7b28b-c0ed-41f1-844c-96651c5deabf",
+        "image": "https://uploads.mangadex.org/covers/76f7b28b-c0ed-41f1-844c-96651c5deabf/4684f2c9-87dc-47f0-8c08-b79ab52ef953.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49537,
+        "aniId": 79537,
+        "createdAt": "2020-10-12T16:08:00.000Z",
+        "updatedAt": "2021-06-04T08:47:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rere_hello": {
+        "authors": [],
+        "identifier": "rere_hello",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rere Hello",
+        "url": "https://manganelo.com/manga/rere_hello",
+        "image": "https://avt.mkklcdnv6.com/14/q/3-1583468220.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49537,
+        "aniId": 79537,
+        "createdAt": "2020-10-12T16:25:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "re-re-hello": {
+        "authors": [
+          "MINAMI Touko"
+        ],
+        "identifier": "re-re-hello",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "ReRe Hello",
+        "url": "https://mangasee123.com/manga/Re-Re-Hello",
+        "image": "https://cover.nep.li/cover/Re-Re-Hello.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49537,
+        "aniId": 79537,
+        "createdAt": "2021-05-03T18:33:41.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

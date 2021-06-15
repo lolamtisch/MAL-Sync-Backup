@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "The Witch Hunter",
+    "エル・カザド",
+    "El Cazador de la Bruja"
+  ],
+  "authors": [
+    "Kouichi Mashimo",
+    "Shuu Hirose",
+    "Kenichi Kanemaki"
+  ],
+  "id": 33716,
+  "malId": 3716,
+  "type": "manga",
+  "title": "El Cazador",
+  "url": "https://anilist.co/manga/33716",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33716-7IKMKO04k4mQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e1c8d4e-ef55-4a34-9c79-6358f7c01c3e": {
+        "authors": [
+          "Project Leviathan",
+          "HIROSE Shuu"
+        ],
+        "identifier": "8e1c8d4e-ef55-4a34-9c79-6358f7c01c3e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "El Cazador de la Bruja",
+        "url": "https://mangadex.org/title/8e1c8d4e-ef55-4a34-9c79-6358f7c01c3e",
+        "image": "https://uploads.mangadex.org/covers/8e1c8d4e-ef55-4a34-9c79-6358f7c01c3e/1ff7330d-0730-4cd7-9621-d2a67c7bc88c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3716,
+        "aniId": 33716,
+        "createdAt": "2020-10-12T16:08:57.000Z",
+        "updatedAt": "2021-06-04T13:57:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

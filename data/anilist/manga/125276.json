@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Zombies"
+  ],
+  "authors": [
+    "Kousuke Oono"
+  ],
+  "id": 125276,
+  "malId": 131035,
+  "type": "manga",
+  "title": "Zombies",
+  "url": "https://anilist.co/manga/125276",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125276-vUyMWEGrVm6r.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T03:20:47.000Z",
+  "updatedAt": "2021-06-08T03:20:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "20c55a6f-8262-45e3-89e9-6a4b25cc4501": {
+        "authors": [
+          "Oono Kousuke"
+        ],
+        "identifier": "20c55a6f-8262-45e3-89e9-6a4b25cc4501",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ZOMBIES",
+        "url": "https://mangadex.org/title/20c55a6f-8262-45e3-89e9-6a4b25cc4501",
+        "image": "https://uploads.mangadex.org/covers/20c55a6f-8262-45e3-89e9-6a4b25cc4501/854335da-7fe0-4417-b240-d2f44c382251.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131035,
+        "aniId": 125276,
+        "createdAt": "2020-10-12T16:21:48.000Z",
+        "updatedAt": "2021-06-08T06:41:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

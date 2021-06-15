@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "DOUBLE DECKER! ダグ&キリル"
+  ],
+  "authors": [
+    "Mizuki Sakakibara"
+  ],
+  "id": 104601,
+  "malId": 115750,
+  "type": "manga",
+  "title": "DOUBLE DECKER! Doug and Kirill",
+  "url": "https://anilist.co/manga/104601",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104601-SQJXtL7mp2BP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:20.000Z",
+  "updatedAt": "2021-05-20T14:57:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1bb1273-da66-4682-bd58-cf6a0c5861a4": {
+        "authors": [
+          "Sakakibara Mizuki",
+          "Suzuki Tomohiro"
+        ],
+        "identifier": "e1bb1273-da66-4682-bd58-cf6a0c5861a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "DOUBLE DECKER! Doug & Kirill",
+        "url": "https://mangadex.org/title/e1bb1273-da66-4682-bd58-cf6a0c5861a4",
+        "image": "https://uploads.mangadex.org/covers/e1bb1273-da66-4682-bd58-cf6a0c5861a4/1390beee-9f84-4c7d-b8cc-fcbd9e24c43f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115750,
+        "aniId": 104601,
+        "createdAt": "2020-10-12T16:15:43.000Z",
+        "updatedAt": "2021-06-06T16:11:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

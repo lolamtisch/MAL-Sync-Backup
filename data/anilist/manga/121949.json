@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "나비소리",
+    "Butterfly Sound",
+    "The Sound of a Butterfly"
+  ],
+  "authors": [
+    "ZZING"
+  ],
+  "id": 121949,
+  "malId": null,
+  "type": "manga",
+  "title": "Nabisori",
+  "url": "https://anilist.co/manga/121949",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121949-YUPzabR3CzFR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-31T18:23:05.000Z",
+  "updatedAt": "2021-05-31T18:23:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9b72abeb-b054-4db2-a871-a016bc59090c": {
+        "authors": [
+          "ZZING"
+        ],
+        "identifier": "9b72abeb-b054-4db2-a871-a016bc59090c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Sound of a Butterfly",
+        "url": "https://mangadex.org/title/9b72abeb-b054-4db2-a871-a016bc59090c",
+        "image": "https://uploads.mangadex.org/covers/9b72abeb-b054-4db2-a871-a016bc59090c/ef08ec14-5127-4030-b94c-5a86d8632824.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 121949,
+        "createdAt": "2020-10-12T16:14:07.000Z",
+        "updatedAt": "2021-06-09T08:06:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

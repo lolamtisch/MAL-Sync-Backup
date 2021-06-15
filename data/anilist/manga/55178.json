@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "よろこびは膝の上",
+    "Pleasure is on the Knee"
+  ],
+  "authors": [
+    "Setsuko Katou"
+  ],
+  "id": 55178,
+  "malId": 25178,
+  "type": "manga",
+  "title": "Yorokobi wa Hiza no Ue",
+  "url": "https://anilist.co/manga/55178",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25178.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "72dbeaa5-3198-409f-9613-820ed81f9a51": {
+        "authors": [
+          "Katou Setsuko"
+        ],
+        "identifier": "72dbeaa5-3198-409f-9613-820ed81f9a51",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yorokobi wa Hiza no Ue",
+        "url": "https://mangadex.org/title/72dbeaa5-3198-409f-9613-820ed81f9a51",
+        "image": "https://uploads.mangadex.org/covers/72dbeaa5-3198-409f-9613-820ed81f9a51/42acdd2a-812e-4270-989d-de66f6297f35.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25178,
+        "aniId": 55178,
+        "createdAt": "2020-10-12T16:18:45.000Z",
+        "updatedAt": "2021-06-07T19:50:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

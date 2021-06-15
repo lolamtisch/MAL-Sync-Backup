@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "シェア"
+  ],
+  "authors": [
+    "Anna Hanamaki"
+  ],
+  "id": 33858,
+  "malId": 3858,
+  "type": "manga",
+  "title": "Share",
+  "url": "https://anilist.co/manga/33858",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3858.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "223a1ec4-2dfd-46da-a138-2d9fc0e21e61": {
+        "authors": [
+          "Hanamaki Anna"
+        ],
+        "identifier": "223a1ec4-2dfd-46da-a138-2d9fc0e21e61",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Share",
+        "url": "https://mangadex.org/title/223a1ec4-2dfd-46da-a138-2d9fc0e21e61",
+        "image": "https://uploads.mangadex.org/covers/223a1ec4-2dfd-46da-a138-2d9fc0e21e61/521cb766-a4a1-4b9f-a825-bc93aac17dd2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3858,
+        "aniId": 33858,
+        "createdAt": "2020-10-12T16:21:14.000Z",
+        "updatedAt": "2021-06-08T01:56:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

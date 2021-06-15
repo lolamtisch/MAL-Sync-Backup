@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "夏の傷"
+  ],
+  "authors": [
+    "avogado6"
+  ],
+  "id": 111204,
+  "malId": null,
+  "type": "manga",
+  "title": "Natsu no Kizu",
+  "url": "https://anilist.co/manga/111204",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111204-jAAvKleZGb0r.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T02:31:16.000Z",
+  "updatedAt": "2021-06-02T02:31:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d028c78c-0f85-4f43-bd4a-819957fe25f4": {
+        "authors": [
+          "avogado6"
+        ],
+        "identifier": "d028c78c-0f85-4f43-bd4a-819957fe25f4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Natsu no Kizu",
+        "url": "https://mangadex.org/title/d028c78c-0f85-4f43-bd4a-819957fe25f4",
+        "image": "https://uploads.mangadex.org/covers/d028c78c-0f85-4f43-bd4a-819957fe25f4/8d48120b-2d21-4aa3-9952-61e49e8b5988.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111204,
+        "createdAt": "2020-10-12T16:16:59.000Z",
+        "updatedAt": "2021-06-07T07:36:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Battle Club",
+    "バトルクラブ"
+  ],
+  "authors": [
+    "Yuji Shiozaki"
+  ],
+  "id": 30141,
+  "malId": 141,
+  "type": "manga",
+  "title": "Battle Club",
+  "url": "https://anilist.co/manga/30141",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30141-ebZb5uqxpbSc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f89c59d6-197a-411f-ac27-5d856c64e415": {
+        "authors": [
+          "SHIOZAKI Yuji"
+        ],
+        "identifier": "f89c59d6-197a-411f-ac27-5d856c64e415",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Battle Club",
+        "url": "https://mangadex.org/title/f89c59d6-197a-411f-ac27-5d856c64e415",
+        "image": "https://uploads.mangadex.org/covers/f89c59d6-197a-411f-ac27-5d856c64e415/f94ffe51-b1ea-4df8-b5b0-798ebcce774b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141,
+        "aniId": 30141,
+        "createdAt": "2020-10-12T16:03:26.000Z",
+        "updatedAt": "2021-06-02T14:02:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "battle_club": {
+        "authors": [],
+        "identifier": "battle_club",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Battle Club",
+        "url": "https://manganelo.com/manga/battle_club",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4535-battle_club.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141,
+        "aniId": 30141,
+        "createdAt": "2020-10-12T16:22:14.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

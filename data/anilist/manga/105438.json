@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Yuri Life",
+    "ゆりぐらし"
+  ],
+  "authors": [
+    "Kurukuru Hime"
+  ],
+  "id": 105438,
+  "malId": 116650,
+  "type": "manga",
+  "title": "Yurigurashi",
+  "url": "https://anilist.co/manga/105438",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105438-Fl1EEIjq28Wc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:24.000Z",
+  "updatedAt": "2021-06-06T08:50:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4e59920a-8716-4095-9b9d-304abd3f5048": {
+        "authors": [
+          "Kurukuruhime"
+        ],
+        "identifier": "4e59920a-8716-4095-9b9d-304abd3f5048",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yurigurashi",
+        "url": "https://mangadex.org/title/4e59920a-8716-4095-9b9d-304abd3f5048",
+        "image": "https://uploads.mangadex.org/covers/4e59920a-8716-4095-9b9d-304abd3f5048/af931a2f-9421-4fbc-860a-418613043aa2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116650,
+        "aniId": 105438,
+        "createdAt": "2020-10-12T16:14:50.000Z",
+        "updatedAt": "2021-06-06T10:17:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nw918647": {
+        "authors": [],
+        "identifier": "nw918647",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yurigurashi",
+        "url": "https://manganelo.com/manga/nw918647",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/56-nw918647.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116650,
+        "aniId": 105438,
+        "createdAt": "2020-10-12T16:24:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yurigurashi": {
+        "authors": [
+          "Kurukuruhime"
+        ],
+        "identifier": "yurigurashi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yurigurashi",
+        "url": "https://fanfox.net/manga/yurigurashi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29582/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116650,
+        "aniId": 105438,
+        "createdAt": "2021-05-29T18:43:56.000Z",
+        "updatedAt": "2021-05-29T19:12:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

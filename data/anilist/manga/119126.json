@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "BNA ビー・エヌ・エー",
+    "Brand New Animal "
+  ],
+  "authors": [
+    "Asano",
+    "Kazuki Nakashima",
+    "Yuusuke Yoshigaki"
+  ],
+  "id": 119126,
+  "malId": 127080,
+  "type": "manga",
+  "title": "BNA",
+  "url": "https://anilist.co/manga/119126",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119126-ddCUOQIsxWmE.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:18.000Z",
+  "updatedAt": "2021-06-07T23:20:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "296aa81d-5411-4403-9bdb-c6c1f22f9a24": {
+        "authors": [
+          "STUDIO TRIGGER",
+          "asano"
+        ],
+        "identifier": "296aa81d-5411-4403-9bdb-c6c1f22f9a24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BNA",
+        "url": "https://mangadex.org/title/296aa81d-5411-4403-9bdb-c6c1f22f9a24",
+        "image": "https://uploads.mangadex.org/covers/296aa81d-5411-4403-9bdb-c6c1f22f9a24/72616b23-817b-470a-bf28-ce594ea2bdce.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127080,
+        "aniId": 119126,
+        "createdAt": "2020-10-12T16:19:56.000Z",
+        "updatedAt": "2021-06-08T00:22:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dx924469": {
+        "authors": [
+          "Asano"
+        ],
+        "identifier": "dx924469",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bna",
+        "url": "https://manganelo.com/manga/dx924469",
+        "image": "https://avt.mkklcdnv6.com/27/d/22-1602429760.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127080,
+        "aniId": 119126,
+        "createdAt": "2021-01-15T14:31:50.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

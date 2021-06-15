@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "The King's Beast",
+    "王の獣～掩蔽のアルカナ～",
+    "King's Beast"
+  ],
+  "authors": [
+    "Rei Touma"
+  ],
+  "id": 107544,
+  "malId": 123397,
+  "type": "manga",
+  "title": "Ou no Kemono: Enpei no Arcana",
+  "url": "https://anilist.co/manga/107544",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107544-r0fa0H1KDoOD.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:00.000Z",
+  "updatedAt": "2021-05-20T14:59:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "035c17a2-0a1c-40ab-a07d-0c23bf6f3ef6": {
+        "authors": [
+          "Toma Rei"
+        ],
+        "identifier": "035c17a2-0a1c-40ab-a07d-0c23bf6f3ef6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ou no Kemono",
+        "url": "https://mangadex.org/title/035c17a2-0a1c-40ab-a07d-0c23bf6f3ef6",
+        "image": "https://uploads.mangadex.org/covers/035c17a2-0a1c-40ab-a07d-0c23bf6f3ef6/b8e1d8de-6e21-4a0e-a956-d6451f2a75b0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123397,
+        "aniId": 107544,
+        "createdAt": "2020-10-12T16:17:17.000Z",
+        "updatedAt": "2021-06-07T06:30:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

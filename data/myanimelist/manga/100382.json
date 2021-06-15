@@ -1,0 +1,105 @@
+{
+  "altTitle": [
+    "Good Morning, Good Night and Then",
+    "おはようとおやすみとそのあとに"
+  ],
+  "authors": [
+    "Hamada, Kamome"
+  ],
+  "id": 100382,
+  "type": "manga",
+  "title": "Ohayou to Oyasumi to Sono Ato ni",
+  "url": "https://myanimelist.net/manga/100382/Ohayou_to_Oyasumi_to_Sono_Ato_ni",
+  "image": "https://cdn.myanimelist.net/images/manga/1/181818.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:41.000Z",
+  "updatedAt": "2021-06-04T23:49:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7fe6e6ac-bc18-4517-bc9c-a186f531890d": {
+        "authors": [
+          "Hamada Kamome"
+        ],
+        "identifier": "7fe6e6ac-bc18-4517-bc9c-a186f531890d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ohayou to Oyasumi to Sono Ato ni",
+        "url": "https://mangadex.org/title/7fe6e6ac-bc18-4517-bc9c-a186f531890d",
+        "image": "https://uploads.mangadex.org/covers/7fe6e6ac-bc18-4517-bc9c-a186f531890d/39548397-4b8f-451b-9ae6-4a0523485517.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100382,
+        "aniId": 98022,
+        "createdAt": "2020-10-12T16:10:16.000Z",
+        "updatedAt": "2021-06-04T23:50:14.000Z",
+        "deletedAt": null
+      },
+      "6702555e-1e20-4a06-9344-9c86f3372e4b": {
+        "authors": [
+          "Okuyama Kenichi"
+        ],
+        "identifier": "6702555e-1e20-4a06-9344-9c86f3372e4b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One Night Morning",
+        "url": "https://mangadex.org/title/6702555e-1e20-4a06-9344-9c86f3372e4b",
+        "image": "https://uploads.mangadex.org/covers/6702555e-1e20-4a06-9344-9c86f3372e4b/b273a7b5-2624-412e-8d2e-39edbd8f044f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100382,
+        "aniId": 98022,
+        "createdAt": "2020-10-12T16:17:20.000Z",
+        "updatedAt": "2021-06-07T06:57:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mq920781": {
+        "authors": [],
+        "identifier": "mq920781",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "One Night Morning",
+        "url": "https://manganelo.com/manga/mq920781",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2178-mq920781.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100382,
+        "aniId": 98022,
+        "createdAt": "2020-10-12T16:24:23.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ohayou_to_oyasumi_to_sono_ato_ni": {
+        "authors": [
+          "HAMADA Kamome"
+        ],
+        "identifier": "ohayou_to_oyasumi_to_sono_ato_ni",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ohayou to Oyasumi to Sono Ato ni",
+        "url": "https://fanfox.net/manga/ohayou_to_oyasumi_to_sono_ato_ni/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21573/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100382,
+        "aniId": 98022,
+        "createdAt": "2021-02-18T16:46:53.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

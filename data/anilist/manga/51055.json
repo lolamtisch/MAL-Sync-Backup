@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "愛があればいーのだ",
+    "All You Need Is Love",
+    "Ai ga Areba Ii Noda",
+    "It's Ok if There Is Love",
+    "My dear B・F"
+  ],
+  "authors": [
+    "Ryou Ikuemi"
+  ],
+  "id": 51055,
+  "malId": 21055,
+  "type": "manga",
+  "title": "Ai ga Areba Ii no da",
+  "url": "https://anilist.co/manga/51055",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51055-HghD7C5woC60.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:37.000Z",
+  "updatedAt": "2021-05-20T14:45:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d30a27c-b64d-4ee3-9c2f-2f2b9cc7b04a": {
+        "authors": [
+          "IKUEMI Ryou"
+        ],
+        "identifier": "7d30a27c-b64d-4ee3-9c2f-2f2b9cc7b04a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai ga Areba Ii no Da",
+        "url": "https://mangadex.org/title/7d30a27c-b64d-4ee3-9c2f-2f2b9cc7b04a",
+        "image": "https://uploads.mangadex.org/covers/7d30a27c-b64d-4ee3-9c2f-2f2b9cc7b04a/f5624863-ae22-40ee-82e1-fc8f788ffe43.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21055,
+        "aniId": 51055,
+        "createdAt": "2020-10-12T16:07:41.000Z",
+        "updatedAt": "2021-06-04T04:37:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ai_ga_areba_ii_noda": {
+        "authors": [
+          "IKUEMI Ryou"
+        ],
+        "identifier": "ai_ga_areba_ii_noda",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ai ga Areba Ii Noda",
+        "url": "https://fanfox.net/manga/ai_ga_areba_ii_noda/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8219/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21055,
+        "aniId": 51055,
+        "createdAt": "2021-04-01T14:01:13.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

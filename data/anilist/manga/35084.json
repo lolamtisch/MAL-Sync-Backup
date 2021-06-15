@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "I Can't Sleep Alone",
+    "今夜も一人で眠れない; 今夜も一人で眠れない / ちゃおホラーコレクション　3",
+    "I Can't Sleep Alone",
+    "Welcome to the World of the Picture-Book",
+    "I Want You Close",
+    "I See a Hen"
+  ],
+  "authors": [
+    "Kiyoko Arai",
+    "Miyuki Oobayashi",
+    "Satoru Takamiya",
+    "Eiko Komuro",
+    "Eriko Ono",
+    "Junko Kagari",
+    "Shinko Kumazaki",
+    "Sakura Yamada"
+  ],
+  "id": 35084,
+  "malId": 5084,
+  "type": "manga",
+  "title": "Konya mo Hitori de Nemurenai",
+  "url": "https://anilist.co/manga/35084",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5084.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c8bcb334-43df-42e2-ab47-3359a4ac1fc0": {
+        "authors": [
+          "Yamada Sakura",
+          "Oobayashi Miyuki",
+          "Ono Eriko",
+          "Kagari Junko",
+          "Kumazaki Shinko",
+          "Takamiya Satoru",
+          "Arai Kiyoko",
+          "Komuro Eiko"
+        ],
+        "identifier": "c8bcb334-43df-42e2-ab47-3359a4ac1fc0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Can&rsquo;t Sleep Alone",
+        "url": "https://mangadex.org/title/c8bcb334-43df-42e2-ab47-3359a4ac1fc0",
+        "image": "https://uploads.mangadex.org/covers/c8bcb334-43df-42e2-ab47-3359a4ac1fc0/dfda736d-8779-4f65-9748-56985e1336f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5084,
+        "aniId": 35084,
+        "createdAt": "2020-10-12T16:03:51.000Z",
+        "updatedAt": "2021-06-02T17:02:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "konya_mo_hitori_de_nemurenai": {
+        "authors": [
+          "Arai",
+          "Kiyoko"
+        ],
+        "identifier": "konya_mo_hitori_de_nemurenai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Konya Mo Hitori De Nemurenai",
+        "url": "https://manganelo.com/manga/konya_mo_hitori_de_nemurenai",
+        "image": "https://avt.mkklcdnv6.com/46/y/12-1583487604.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5084,
+        "aniId": 35084,
+        "createdAt": "2020-12-16T20:56:51.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

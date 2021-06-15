@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "今夜、ミスターで",
+    "Konya",
+    "Mr. de",
+    "Konya",
+    "Mr de"
+  ],
+  "authors": [
+    "Shimaji"
+  ],
+  "id": 55489,
+  "malId": 25489,
+  "type": "manga",
+  "title": "Konya, Mister de",
+  "url": "https://anilist.co/manga/55489",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25489.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:53.000Z",
+  "updatedAt": "2021-05-20T14:46:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b829c789-af94-4c12-ad96-ab18f99fdc29": {
+        "authors": [
+          "Shimaji"
+        ],
+        "identifier": "b829c789-af94-4c12-ad96-ab18f99fdc29",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Konya, Mister de",
+        "url": "https://mangadex.org/title/b829c789-af94-4c12-ad96-ab18f99fdc29",
+        "image": "https://uploads.mangadex.org/covers/b829c789-af94-4c12-ad96-ab18f99fdc29/c74c261d-0755-4560-8c13-8628e13c315c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25489,
+        "aniId": 55489,
+        "createdAt": "2020-10-12T16:07:01.000Z",
+        "updatedAt": "2021-06-03T23:51:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

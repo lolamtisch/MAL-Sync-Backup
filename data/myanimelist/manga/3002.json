@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Pani-Poni",
+    "ぱにぽに"
+  ],
+  "authors": [
+    "Hikawa, Hekiru"
+  ],
+  "id": 3002,
+  "type": "manga",
+  "title": "PaniPoni",
+  "url": "https://myanimelist.net/manga/3002/PaniPoni",
+  "image": "https://cdn.myanimelist.net/images/manga/1/179079.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:47.000Z",
+  "updatedAt": "2021-02-10T23:10:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "97ace6d3-cc83-4e9b-817c-d7da3c46eee5": {
+        "authors": [
+          "Hikawa Hekiru"
+        ],
+        "identifier": "97ace6d3-cc83-4e9b-817c-d7da3c46eee5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pani Poni",
+        "url": "https://mangadex.org/title/97ace6d3-cc83-4e9b-817c-d7da3c46eee5",
+        "image": "https://uploads.mangadex.org/covers/97ace6d3-cc83-4e9b-817c-d7da3c46eee5/d037bbc8-0900-4df1-9294-659cc3c2516f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3002,
+        "aniId": 33002,
+        "createdAt": "2020-10-12T16:05:52.000Z",
+        "updatedAt": "2021-06-03T15:32:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pani_poni": {
+        "authors": [
+          "Hikawa",
+          "Hekiru"
+        ],
+        "identifier": "pani_poni",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Pani Poni",
+        "url": "https://manganelo.com/manga/pani_poni",
+        "image": "https://avt.mkklcdnv6.com/1/e/8-1583480142.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3002,
+        "aniId": 33002,
+        "createdAt": "2021-02-10T23:10:52.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

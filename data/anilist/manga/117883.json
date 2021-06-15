@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ラブスコア"
+  ],
+  "authors": [
+    "LEN[A-7]"
+  ],
+  "id": 117883,
+  "malId": 131768,
+  "type": "manga",
+  "title": "Love Score",
+  "url": "https://anilist.co/manga/117883",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117883-khxbBzcTa74F.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T00:53:08.000Z",
+  "updatedAt": "2021-06-08T00:53:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12a94373-ef2c-4c07-8a8b-a29e631baf83": {
+        "authors": [
+          "LEN[A-7]"
+        ],
+        "identifier": "12a94373-ef2c-4c07-8a8b-a29e631baf83",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Score",
+        "url": "https://mangadex.org/title/12a94373-ef2c-4c07-8a8b-a29e631baf83",
+        "image": "https://uploads.mangadex.org/covers/12a94373-ef2c-4c07-8a8b-a29e631baf83/284a62a0-7a0e-4c3e-a3f2-f0f78df8b5f4.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131768,
+        "aniId": 117883,
+        "createdAt": "2020-10-12T16:20:36.000Z",
+        "updatedAt": "2021-06-08T00:54:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

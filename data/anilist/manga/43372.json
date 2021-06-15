@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ぼくのペット",
+    "My Pets"
+  ],
+  "authors": [
+    "Mizuo Shinonome"
+  ],
+  "id": 43372,
+  "malId": 13372,
+  "type": "manga",
+  "title": "Boku no Pet",
+  "url": "https://anilist.co/manga/43372",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13372.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "37ae44cf-4f5d-4856-b1fa-81eff90978cb": {
+        "authors": [
+          "Shinonome Mizuo"
+        ],
+        "identifier": "37ae44cf-4f5d-4856-b1fa-81eff90978cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Pet",
+        "url": "https://mangadex.org/title/37ae44cf-4f5d-4856-b1fa-81eff90978cb",
+        "image": "https://uploads.mangadex.org/covers/37ae44cf-4f5d-4856-b1fa-81eff90978cb/d0c7776c-3e2d-4780-8a85-eb80890a23a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13372,
+        "aniId": 43372,
+        "createdAt": "2020-10-12T16:12:08.000Z",
+        "updatedAt": "2021-06-05T13:37:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

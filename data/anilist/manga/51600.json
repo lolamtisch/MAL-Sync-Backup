@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "ジーまるえでぃしょん",
+    "(G) Edition",
+    "Ⓖ Edition"
+  ],
+  "authors": [
+    "Mizuki Kawashita"
+  ],
+  "id": 51600,
+  "malId": 21600,
+  "type": "manga",
+  "title": "G-Maru Edition",
+  "url": "https://anilist.co/manga/51600",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51600-8DSOdE3OhlPA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:43.000Z",
+  "updatedAt": "2021-05-20T14:45:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f2b1e488-9d17-4793-a614-72af7ae4ed48": {
+        "authors": [
+          "Kawashita Mizuki"
+        ],
+        "identifier": "f2b1e488-9d17-4793-a614-72af7ae4ed48",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "(G) Edition",
+        "url": "https://mangadex.org/title/f2b1e488-9d17-4793-a614-72af7ae4ed48",
+        "image": "https://uploads.mangadex.org/covers/f2b1e488-9d17-4793-a614-72af7ae4ed48/01d850c2-66ce-41d7-905f-d7f9f2b91a05.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21600,
+        "aniId": 51600,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:21:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "g_edition": {
+        "authors": [
+          "Kawashita",
+          "Mizuki"
+        ],
+        "identifier": "g_edition",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "(G) Edition",
+        "url": "https://manganelo.com/manga/g_edition",
+        "image": "https://avt.mkklcdnv6.com/15/i/4-1583470295.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21600,
+        "aniId": 51600,
+        "createdAt": "2021-01-13T14:39:55.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "g-edition": {
+        "authors": [
+          "KAWASHITA Mizuki"
+        ],
+        "identifier": "g-edition",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "(G) Edition",
+        "url": "https://mangasee123.com/manga/G-Edition",
+        "image": "https://cover.nep.li/cover/G-Edition.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21600,
+        "aniId": 51600,
+        "createdAt": "2021-01-20T23:32:53.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

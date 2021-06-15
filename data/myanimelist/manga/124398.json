@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "デリバリーオブザデッド"
+  ],
+  "authors": [
+    "Hori, Yuusuke"
+  ],
+  "id": 124398,
+  "type": "manga",
+  "title": "Delivery of the Dead",
+  "url": "https://myanimelist.net/manga/124398/Delivery_of_the_Dead",
+  "image": "https://cdn.myanimelist.net/images/manga/2/226971.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:13.000Z",
+  "updatedAt": "2021-06-01T15:42:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09e1c496-af6c-410b-8df5-62ab467d75fe": {
+        "authors": [
+          "Hori Yuusuke"
+        ],
+        "identifier": "09e1c496-af6c-410b-8df5-62ab467d75fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Delivery of the Dead",
+        "url": "https://mangadex.org/title/09e1c496-af6c-410b-8df5-62ab467d75fe",
+        "image": "https://uploads.mangadex.org/covers/09e1c496-af6c-410b-8df5-62ab467d75fe/ae289c92-b38e-43df-a8e2-2ead5dfac3e5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124398,
+        "aniId": 115102,
+        "createdAt": "2020-10-12T16:18:11.000Z",
+        "updatedAt": "2021-06-07T14:34:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "delivery_of_the_dead": {
+        "authors": [
+          "HORI Yuusuke"
+        ],
+        "identifier": "delivery_of_the_dead",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Delivery of the Dead",
+        "url": "https://fanfox.net/manga/delivery_of_the_dead/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32568/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124398,
+        "aniId": 115102,
+        "createdAt": "2021-01-13T20:39:57.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

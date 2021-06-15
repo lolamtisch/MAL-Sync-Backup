@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Baby Pop",
+    "ベイビーポップ"
+  ],
+  "authors": [
+    "Yayoi Ogawa"
+  ],
+  "id": 30834,
+  "malId": 834,
+  "type": "manga",
+  "title": "Baby Pop",
+  "url": "https://anilist.co/manga/30834",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/834.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-05-20T14:35:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2dff1466-363d-43c3-bdec-50c1ab870998": {
+        "authors": [
+          "Ogawa Yayoi"
+        ],
+        "identifier": "2dff1466-363d-43c3-bdec-50c1ab870998",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Baby Pop",
+        "url": "https://mangadex.org/title/2dff1466-363d-43c3-bdec-50c1ab870998",
+        "image": "https://uploads.mangadex.org/covers/2dff1466-363d-43c3-bdec-50c1ab870998/478b109d-c976-411c-8ef0-1f2994280cc6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 834,
+        "aniId": 30834,
+        "createdAt": "2020-10-12T16:03:19.000Z",
+        "updatedAt": "2021-06-02T13:11:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

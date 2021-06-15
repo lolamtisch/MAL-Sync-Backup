@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "The Embalmer",
+    "死化粧師"
+  ],
+  "authors": [
+    "Mihara, Mitsukazu"
+  ],
+  "id": 544,
+  "type": "manga",
+  "title": "Shigeshoushi",
+  "url": "https://myanimelist.net/manga/544/Shigeshoushi",
+  "image": "https://cdn.myanimelist.net/images/manga/3/89003.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:23.000Z",
+  "updatedAt": "2021-02-20T10:04:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ddfce20-dd51-425c-a6d7-02d03107c9d5": {
+        "authors": [
+          "Mihara Mitsukazu"
+        ],
+        "identifier": "4ddfce20-dd51-425c-a6d7-02d03107c9d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shigeshoushi",
+        "url": "https://mangadex.org/title/4ddfce20-dd51-425c-a6d7-02d03107c9d5",
+        "image": "https://uploads.mangadex.org/covers/4ddfce20-dd51-425c-a6d7-02d03107c9d5/50778036-e1f1-4841-9a4b-84dd00b22bee.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 544,
+        "aniId": 30544,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:01:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "the_embalmer": {
+        "authors": [
+          "Mihara",
+          "Mitsukazu"
+        ],
+        "identifier": "the_embalmer",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Embalmer",
+        "url": "https://manganelo.com/manga/the_embalmer",
+        "image": "https://avt.mkklcdnv6temp.com/44/u/8-1583479887.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 544,
+        "aniId": 30544,
+        "createdAt": "2021-02-20T10:04:01.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

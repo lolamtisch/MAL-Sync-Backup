@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "アタゴオル物語",
+    "Atagoul"
+  ],
+  "authors": [
+    "Hiroshi Masumura"
+  ],
+  "id": 42337,
+  "malId": 12337,
+  "type": "manga",
+  "title": "Atagoul Monogatari",
+  "url": "https://anilist.co/manga/42337",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12337.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:22.000Z",
+  "updatedAt": "2021-05-20T14:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "45214acc-5c19-4fe1-b4dd-d5e6f8e3d87c": {
+        "authors": [
+          "Masumura Hiroshi"
+        ],
+        "identifier": "45214acc-5c19-4fe1-b4dd-d5e6f8e3d87c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Atagoul Monogatari",
+        "url": "https://mangadex.org/title/45214acc-5c19-4fe1-b4dd-d5e6f8e3d87c",
+        "image": "https://uploads.mangadex.org/covers/45214acc-5c19-4fe1-b4dd-d5e6f8e3d87c/3683e5e9-f9e0-4056-a12f-c7df5ca673cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12337,
+        "aniId": 42337,
+        "createdAt": "2020-10-12T16:09:07.000Z",
+        "updatedAt": "2021-06-04T15:11:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

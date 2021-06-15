@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "かみさまお願い",
+    "Kamisama Onegai"
+  ],
+  "authors": [
+    "Q-ta Minami"
+  ],
+  "id": 33332,
+  "malId": 3332,
+  "type": "manga",
+  "title": "Kami-sama Onegai",
+  "url": "https://anilist.co/manga/33332",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33332-zAO6FWzYSui7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-06-04T13:51:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0548abc8-ded2-4ece-96d8-b16ff5a709ff": {
+        "authors": [
+          "Minami Q-ta"
+        ],
+        "identifier": "0548abc8-ded2-4ece-96d8-b16ff5a709ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kami-sama Onegai",
+        "url": "https://mangadex.org/title/0548abc8-ded2-4ece-96d8-b16ff5a709ff",
+        "image": "https://uploads.mangadex.org/covers/0548abc8-ded2-4ece-96d8-b16ff5a709ff/505d41db-4c3e-4226-b850-0e5944830472.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3332,
+        "aniId": 33332,
+        "createdAt": "2020-10-12T16:08:52.000Z",
+        "updatedAt": "2021-06-04T14:36:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "please_god": {
+        "authors": [
+          "Minami",
+          "Q-Ta"
+        ],
+        "identifier": "please_god",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Please God",
+        "url": "https://manganelo.com/manga/please_god",
+        "image": "https://avt.mkklcdnv6temp.com/41/i/2-1583467288.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3332,
+        "aniId": 33332,
+        "createdAt": "2021-05-06T02:33:37.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

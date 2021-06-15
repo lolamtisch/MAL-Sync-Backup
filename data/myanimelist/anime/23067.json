@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "Tenkai Knights",
+    "テンカイナイト"
+  ],
+  "id": 23067,
+  "type": "anime",
+  "title": "Tenkai Knights",
+  "url": "https://myanimelist.net/anime/23067/Tenkai_Knights",
+  "image": "https://cdn.myanimelist.net/images/anime/8/74140.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:39:26.000Z",
+  "updatedAt": "2021-04-18T19:15:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "lrjq": {
+        "identifier": "lrjq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenkai Knights (Dub)",
+        "url": "https://9anime.ru/watch/tenkai-knights-dub.lrjq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-GLWv4EjxU-c/V7LAqPslGLI/AAAAAAAA3eE/sgbnQyhWe-E/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23067,
+        "aniId": 20905,
+        "createdAt": "2020-10-12T15:53:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tenkai-knights": {
+        "identifier": "tenkai-knights",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenkai Knights",
+        "url": "https://gogoanime.so/category/tenkai-knights",
+        "image": "https://gogocdn.net/images/Tenkai-Knights.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23067,
+        "aniId": 20905,
+        "createdAt": "2021-01-27T06:08:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "tenkai-knights-dub": {
+        "identifier": "tenkai-knights-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tenkai Knights (Dub)",
+        "url": "https://gogoanime.ai/category/tenkai-knights-dub",
+        "image": "https://gogocdn.net/cover/tenkai-knights-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23067,
+        "aniId": 20905,
+        "createdAt": "2021-04-18T19:15:14.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

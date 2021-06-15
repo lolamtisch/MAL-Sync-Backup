@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "イヌっネコっジャンプ!",
+    "Dog Cat Jump!",
+    "Korekara mo Tsuzuku Ongaku"
+  ],
+  "authors": [
+    "Mitsuru Hattori"
+  ],
+  "id": 30978,
+  "malId": 978,
+  "type": "manga",
+  "title": "Inu Neko Jump!",
+  "url": "https://anilist.co/manga/30978",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30978-maIdTH0hE2EQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "83300ed5-3878-48a0-8968-246f02d2b794": {
+        "authors": [
+          "Hattori Mitsuru"
+        ],
+        "identifier": "83300ed5-3878-48a0-8968-246f02d2b794",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inu Neko Jump!",
+        "url": "https://mangadex.org/title/83300ed5-3878-48a0-8968-246f02d2b794",
+        "image": "https://uploads.mangadex.org/covers/83300ed5-3878-48a0-8968-246f02d2b794/fc5ee789-89a6-4dbe-9528-e1f322e49ac8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 978,
+        "aniId": 30978,
+        "createdAt": "2020-10-12T16:02:41.000Z",
+        "updatedAt": "2021-06-02T08:46:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "inu-neko-jump": {
+        "authors": [
+          "HATTORI Mitsuru"
+        ],
+        "identifier": "inu-neko-jump",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Inu Neko Jump!",
+        "url": "https://mangasee123.com/manga/Inu-Neko-Jump",
+        "image": "https://cover.nep.li/cover/Inu-Neko-Jump.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 978,
+        "aniId": 30978,
+        "createdAt": "2021-03-24T19:49:44.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

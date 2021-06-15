@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 43070,
+  "malId": 13070,
+  "type": "manga",
+  "title": "Wait! Wolf",
+  "url": "https://anilist.co/manga/43070",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13070.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:28.000Z",
+  "updatedAt": "2021-05-20T14:42:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f697a7bb-97f9-4e42-9935-24166654b642": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "f697a7bb-97f9-4e42-9935-24166654b642",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wait! Wolf",
+        "url": "https://mangadex.org/title/f697a7bb-97f9-4e42-9935-24166654b642",
+        "image": "https://uploads.mangadex.org/covers/f697a7bb-97f9-4e42-9935-24166654b642/1bd923a4-e505-4311-98dc-91a840c19ac7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13070,
+        "aniId": 43070,
+        "createdAt": "2020-10-12T16:02:33.000Z",
+        "updatedAt": "2021-06-02T07:50:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

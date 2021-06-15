@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "守ってあげます！",
+    "I'll protect you"
+  ],
+  "authors": [
+    "Nase Yamato"
+  ],
+  "id": 32242,
+  "malId": 2242,
+  "type": "manga",
+  "title": "Mamotte Agemasu!",
+  "url": "https://anilist.co/manga/32242",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32242-srKQENKL1s0g.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T19:52:08.000Z",
+  "updatedAt": "2021-06-04T19:52:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44b1ade4-9a44-4494-acb9-8f898c37d914": {
+        "authors": [
+          "Yamato Nase"
+        ],
+        "identifier": "44b1ade4-9a44-4494-acb9-8f898c37d914",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mamotte Agemasu!",
+        "url": "https://mangadex.org/title/44b1ade4-9a44-4494-acb9-8f898c37d914",
+        "image": "https://uploads.mangadex.org/covers/44b1ade4-9a44-4494-acb9-8f898c37d914/bf7c9615-7d0a-48f2-bf7b-9a79c54e9851.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2242,
+        "aniId": 32242,
+        "createdAt": "2020-10-12T16:09:44.000Z",
+        "updatedAt": "2021-06-04T22:09:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

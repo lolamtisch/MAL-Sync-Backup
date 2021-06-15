@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "アイコン"
+  ],
+  "authors": [
+    "Nekono, Mariko"
+  ],
+  "id": 106001,
+  "type": "manga",
+  "title": "Icon",
+  "url": "https://myanimelist.net/manga/106001/Icon",
+  "image": "https://cdn.myanimelist.net/images/manga/2/194182.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-30T04:14:32.000Z",
+  "updatedAt": "2021-04-30T04:21:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf0133f3-2eb3-4bb9-b266-47bc77293568": {
+        "authors": [
+          "Nekono Mariko"
+        ],
+        "identifier": "bf0133f3-2eb3-4bb9-b266-47bc77293568",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Icon",
+        "url": "https://mangadex.org/title/bf0133f3-2eb3-4bb9-b266-47bc77293568",
+        "image": "https://uploads.mangadex.org/covers/bf0133f3-2eb3-4bb9-b266-47bc77293568/91c905e1-b7d2-4d2e-a255-f364773f5519.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106001,
+        "aniId": 111000,
+        "createdAt": "2020-10-30T04:14:33.000Z",
+        "updatedAt": "2021-06-08T06:05:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "おそ松くん"
+  ],
+  "authors": [
+    "Fujio Akatsuka"
+  ],
+  "id": 54033,
+  "malId": 24033,
+  "type": "manga",
+  "title": "Osomatsu-kun",
+  "url": "https://anilist.co/manga/54033",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54033-j5St64STuMrs.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:42.000Z",
+  "updatedAt": "2021-06-06T10:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f51761b7-7fb6-49bf-9ec3-36fa579120ea": {
+        "authors": [
+          "Akatsuka Fujio"
+        ],
+        "identifier": "f51761b7-7fb6-49bf-9ec3-36fa579120ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Osomatsu-kun",
+        "url": "https://mangadex.org/title/f51761b7-7fb6-49bf-9ec3-36fa579120ea",
+        "image": "https://uploads.mangadex.org/covers/f51761b7-7fb6-49bf-9ec3-36fa579120ea/dd7ffe15-f6a0-44cf-a5b9-4403bee791e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24033,
+        "aniId": 54033,
+        "createdAt": "2020-10-12T16:09:27.000Z",
+        "updatedAt": "2021-06-04T17:39:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

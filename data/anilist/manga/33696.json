@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "夜の過客 Night Exile",
+    "Night Exile"
+  ],
+  "authors": [
+    "Matsuri Akino"
+  ],
+  "id": 33696,
+  "malId": 3696,
+  "type": "manga",
+  "title": "Yoru no Kakaku: Night Exile",
+  "url": "https://anilist.co/manga/33696",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33696-GMYBW1YUvXJK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:15.000Z",
+  "updatedAt": "2021-05-20T14:38:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e2e7643-7e62-42b6-b5f9-7e2fc40dfbad": {
+        "authors": [
+          "AKINO Matsuri"
+        ],
+        "identifier": "1e2e7643-7e62-42b6-b5f9-7e2fc40dfbad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Night Exile",
+        "url": "https://mangadex.org/title/1e2e7643-7e62-42b6-b5f9-7e2fc40dfbad",
+        "image": "https://uploads.mangadex.org/covers/1e2e7643-7e62-42b6-b5f9-7e2fc40dfbad/65817b42-cf61-43d1-bbaf-b97fe7369b1c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3696,
+        "aniId": 33696,
+        "createdAt": "2020-10-12T16:02:54.000Z",
+        "updatedAt": "2021-06-02T10:16:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

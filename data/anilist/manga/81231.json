@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ヒレントリップ"
+  ],
+  "authors": [
+    "Anashin"
+  ],
+  "id": 81231,
+  "malId": 51231,
+  "type": "manga",
+  "title": "Hiren Trip",
+  "url": "https://anilist.co/manga/81231",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81231-GQVUqPYm6YO1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:49.000Z",
+  "updatedAt": "2021-05-20T14:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "51803e71-af72-4503-8b52-35fa5da39a5a": {
+        "authors": [
+          "Anashin"
+        ],
+        "identifier": "51803e71-af72-4503-8b52-35fa5da39a5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hiren Trip",
+        "url": "https://mangadex.org/title/51803e71-af72-4503-8b52-35fa5da39a5a",
+        "image": "https://uploads.mangadex.org/covers/51803e71-af72-4503-8b52-35fa5da39a5a/c32b39a8-e443-4a19-8152-51d5b43cb402.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51231,
+        "aniId": 81231,
+        "createdAt": "2020-10-12T16:06:36.000Z",
+        "updatedAt": "2021-06-03T20:51:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hiren_trip": {
+        "authors": [
+          "Anashin"
+        ],
+        "identifier": "hiren_trip",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hiren Trip",
+        "url": "https://fanfox.net/manga/hiren_trip/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12813/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51231,
+        "aniId": 81231,
+        "createdAt": "2021-04-30T06:51:01.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hiren-trip": {
+        "authors": [
+          "Anashin"
+        ],
+        "identifier": "hiren-trip",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hiren Trip",
+        "url": "https://mangasee123.com/manga/Hiren-Trip",
+        "image": "https://cover.nep.li/cover/Hiren-Trip.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51231,
+        "aniId": 81231,
+        "createdAt": "2021-05-26T17:39:47.000Z",
+        "updatedAt": "2021-05-26T18:08:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

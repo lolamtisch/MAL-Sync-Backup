@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "さめない街の喫茶店",
+    "samenai machi no kissa-ten",
+    "A Coffee Shop in the Unwaking Town",
+    "A Coffee Shop with Nothing but Donuts "
+  ],
+  "authors": [
+    "Hasha"
+  ],
+  "id": 101192,
+  "malId": 112777,
+  "type": "manga",
+  "title": "Samenai Machi no Kissaten",
+  "url": "https://anilist.co/manga/101192",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101192-hDf0gtlcEXVS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:58.000Z",
+  "updatedAt": "2021-06-05T08:19:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f34ce716-92a7-4f68-94c4-edbae6905b70": {
+        "authors": [
+          "Hasha"
+        ],
+        "identifier": "f34ce716-92a7-4f68-94c4-edbae6905b70",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Samenai Machi no Kissaten",
+        "url": "https://mangadex.org/title/f34ce716-92a7-4f68-94c4-edbae6905b70",
+        "image": "https://uploads.mangadex.org/covers/f34ce716-92a7-4f68-94c4-edbae6905b70/73d99598-13e0-44c4-8460-cb11a9553501.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112777,
+        "aniId": 101192,
+        "createdAt": "2020-10-12T16:11:22.000Z",
+        "updatedAt": "2021-06-05T08:43:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "samenai_machi_no_kissaten": {
+        "authors": [],
+        "identifier": "samenai_machi_no_kissaten",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Samenai Machi No Kissaten",
+        "url": "https://manganelo.com/manga/samenai_machi_no_kissaten",
+        "image": "https://avt.mkklcdnv6.com/16/b/16-1583494048.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112777,
+        "aniId": 101192,
+        "createdAt": "2020-10-12T16:25:18.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

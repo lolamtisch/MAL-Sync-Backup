@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Remember",
+    "remember",
+    "记得",
+    "Jide"
+  ],
+  "authors": [
+    "Benjamin"
+  ],
+  "id": 47998,
+  "malId": 17998,
+  "type": "manga",
+  "title": "remember",
+  "url": "https://anilist.co/manga/47998",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b47998-A4bgwrfHeQ8G.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:14.000Z",
+  "updatedAt": "2021-05-20T14:44:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "728f9753-b081-4610-b64a-98f2383f7e5b": {
+        "authors": [
+          "Benjamin"
+        ],
+        "identifier": "728f9753-b081-4610-b64a-98f2383f7e5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Remember",
+        "url": "https://mangadex.org/title/728f9753-b081-4610-b64a-98f2383f7e5b",
+        "image": "https://uploads.mangadex.org/covers/728f9753-b081-4610-b64a-98f2383f7e5b/89a3dc74-4483-4bc5-9635-3c6a0f2d786b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17998,
+        "aniId": 47998,
+        "createdAt": "2020-10-12T16:04:57.000Z",
+        "updatedAt": "2021-06-03T00:42:02.000Z",
+        "deletedAt": null
+      },
+      "0f5a028c-e359-4a72-a8c7-5ad15362174e": {
+        "authors": [
+          "Gwa-in"
+        ],
+        "identifier": "0f5a028c-e359-4a72-a8c7-5ad15362174e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Night To Remember",
+        "url": "https://mangadex.org/title/0f5a028c-e359-4a72-a8c7-5ad15362174e",
+        "image": "https://uploads.mangadex.org/covers/0f5a028c-e359-4a72-a8c7-5ad15362174e/c7748575-3eee-4a9d-91e1-fcf3ffbaf7d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17998,
+        "aniId": 47998,
+        "createdAt": "2020-10-12T16:16:24.000Z",
+        "updatedAt": "2021-06-06T22:13:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ds919651": {
+        "authors": [],
+        "identifier": "ds919651",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "A Night to Remember",
+        "url": "https://manganelo.com/manga/ds919651",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1055-ds919651.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17998,
+        "aniId": 47998,
+        "createdAt": "2020-10-12T16:22:44.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

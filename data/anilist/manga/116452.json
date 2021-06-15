@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "国王万岁",
+    "Long Live The King",
+    "Hail The King"
+  ],
+  "authors": [
+    "Xiaolin  "
+  ],
+  "id": 116452,
+  "malId": null,
+  "type": "manga",
+  "title": "Guowang Wansui",
+  "url": "https://anilist.co/manga/116452",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116452-CA7rFt7QzuLD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T10:08:18.000Z",
+  "updatedAt": "2021-05-24T10:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ca698df5-2de5-46a3-a171-8211d5bbcede": {
+        "authors": [
+          "Warrying Blade",
+          "Xiao Lin"
+        ],
+        "identifier": "ca698df5-2de5-46a3-a171-8211d5bbcede",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Long Live the King",
+        "url": "https://mangadex.org/title/ca698df5-2de5-46a3-a171-8211d5bbcede",
+        "image": "https://uploads.mangadex.org/covers/ca698df5-2de5-46a3-a171-8211d5bbcede/7903cf0a-a748-41cc-a4ec-dd093115555a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116452,
+        "createdAt": "2020-10-12T16:10:52.000Z",
+        "updatedAt": "2021-06-05T08:43:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

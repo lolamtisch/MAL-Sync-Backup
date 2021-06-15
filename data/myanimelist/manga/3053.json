@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Once upon a Glashma",
+    "はじまりのグラシュマ"
+  ],
+  "authors": [
+    "Suekane, Kumiko"
+  ],
+  "id": 3053,
+  "type": "manga",
+  "title": "Hajimari no Glashma",
+  "url": "https://myanimelist.net/manga/3053/Hajimari_no_Glashma",
+  "image": "https://cdn.myanimelist.net/images/manga/2/3319.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:47.000Z",
+  "updatedAt": "2021-05-20T23:15:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a8169660-2e99-4e6d-b6e7-3bb0de996bac": {
+        "authors": [
+          "Suekane Kumiko"
+        ],
+        "identifier": "a8169660-2e99-4e6d-b6e7-3bb0de996bac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajimari no Glashma",
+        "url": "https://mangadex.org/title/a8169660-2e99-4e6d-b6e7-3bb0de996bac",
+        "image": "https://uploads.mangadex.org/covers/a8169660-2e99-4e6d-b6e7-3bb0de996bac/b0487769-1a1c-4cba-90f9-6f669508c176.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3053,
+        "aniId": 33053,
+        "createdAt": "2020-10-12T16:11:37.000Z",
+        "updatedAt": "2021-06-05T09:51:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hajimari_no_glashma": {
+        "authors": [
+          "SUEKANE Kumiko"
+        ],
+        "identifier": "hajimari_no_glashma",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hajimari no Glashma",
+        "url": "https://fanfox.net/manga/hajimari_no_glashma/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6821/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3053,
+        "aniId": 33053,
+        "createdAt": "2021-05-20T23:15:39.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

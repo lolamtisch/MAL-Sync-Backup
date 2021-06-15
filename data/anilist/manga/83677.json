@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ドリームガール",
+    "Excite!!",
+    "Happening"
+  ],
+  "authors": [
+    "DAIGO"
+  ],
+  "id": 83677,
+  "malId": 53677,
+  "type": "manga",
+  "title": "Dream Girl",
+  "url": "https://anilist.co/manga/83677",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/53677.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:49:57.000Z",
+  "updatedAt": "2021-05-20T14:49:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e256f793-0cf5-43ad-94cc-c1933ca46db9": {
+        "authors": [
+          "Daigo"
+        ],
+        "identifier": "e256f793-0cf5-43ad-94cc-c1933ca46db9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dream Girl",
+        "url": "https://mangadex.org/title/e256f793-0cf5-43ad-94cc-c1933ca46db9",
+        "image": "https://uploads.mangadex.org/covers/e256f793-0cf5-43ad-94cc-c1933ca46db9/e6e699d4-40fc-4f07-85c7-d88b26011d3e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53677,
+        "aniId": 83677,
+        "createdAt": "2020-10-12T16:16:58.000Z",
+        "updatedAt": "2021-06-07T03:35:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

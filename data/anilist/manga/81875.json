@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "いっツー"
+  ],
+  "authors": [
+    "Kazuto Okada"
+  ],
+  "id": 81875,
+  "malId": 51875,
+  "type": "manga",
+  "title": "Ittsuuu",
+  "url": "https://anilist.co/manga/81875",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81875-0Bq5XILqoeIF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:52.000Z",
+  "updatedAt": "2021-05-20T14:49:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4973acc8-9386-429e-99cf-2b5fb40594fc": {
+        "authors": [
+          "Okada Kazuto"
+        ],
+        "identifier": "4973acc8-9386-429e-99cf-2b5fb40594fc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ittsu",
+        "url": "https://mangadex.org/title/4973acc8-9386-429e-99cf-2b5fb40594fc",
+        "image": "https://uploads.mangadex.org/covers/4973acc8-9386-429e-99cf-2b5fb40594fc/cae073df-0455-4639-ab1c-ba76b14e78ad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51875,
+        "aniId": 81875,
+        "createdAt": "2021-01-10T02:21:37.000Z",
+        "updatedAt": "2021-06-08T09:39:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

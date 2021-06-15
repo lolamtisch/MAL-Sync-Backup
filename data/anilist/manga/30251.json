@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Il Gatto Sul G",
+    "G線上の猫"
+  ],
+  "authors": [
+    "Tooko Miyagi"
+  ],
+  "id": 30251,
+  "malId": 251,
+  "type": "manga",
+  "title": "G-Senjou no Neko",
+  "url": "https://anilist.co/manga/30251",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30251-KyEJbNYUQUQY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-06-04T18:50:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd2a215b-05a8-48a5-a8db-a81a04c86ab8": {
+        "authors": [
+          "Yoshinaga Fumi"
+        ],
+        "identifier": "cd2a215b-05a8-48a5-a8db-a81a04c86ab8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flower of Life",
+        "url": "https://mangadex.org/title/cd2a215b-05a8-48a5-a8db-a81a04c86ab8",
+        "image": "https://uploads.mangadex.org/covers/cd2a215b-05a8-48a5-a8db-a81a04c86ab8/ef0ba892-d73e-4987-8b4f-194bd3caf046.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 251,
+        "aniId": 30251,
+        "createdAt": "2020-10-12T16:09:34.000Z",
+        "updatedAt": "2021-06-04T19:28:36.000Z",
+        "deletedAt": null
+      },
+      "56409f88-d37e-4b43-a09f-7249bdef61fe": {
+        "authors": [
+          "Miyagi Tooko"
+        ],
+        "identifier": "56409f88-d37e-4b43-a09f-7249bdef61fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "G-Senjou no Neko",
+        "url": "https://mangadex.org/title/56409f88-d37e-4b43-a09f-7249bdef61fe",
+        "image": "https://uploads.mangadex.org/covers/56409f88-d37e-4b43-a09f-7249bdef61fe/e0b25776-4467-4b28-a162-eccb2dd45b71.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 251,
+        "aniId": 30251,
+        "createdAt": "2021-03-04T18:51:19.000Z",
+        "updatedAt": "2021-06-08T12:08:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

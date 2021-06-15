@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Masaki Sahara"
+  ],
+  "id": 67091,
+  "malId": null,
+  "type": "manga",
+  "title": "The City in the Sea",
+  "url": "https://anilist.co/manga/67091",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37091.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-23T13:42:58.000Z",
+  "updatedAt": "2021-06-04T17:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8ff7a0c0-9b3d-4735-a7bb-9d16dd8dc0ed": {
+        "authors": [
+          "Sahara Masaki"
+        ],
+        "identifier": "8ff7a0c0-9b3d-4735-a7bb-9d16dd8dc0ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "City in the Sea",
+        "url": "https://mangadex.org/title/8ff7a0c0-9b3d-4735-a7bb-9d16dd8dc0ed",
+        "image": "https://uploads.mangadex.org/covers/8ff7a0c0-9b3d-4735-a7bb-9d16dd8dc0ed/fee1b2b9-c480-410c-a5ca-107778e8fab1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 67091,
+        "createdAt": "2020-10-12T16:03:02.000Z",
+        "updatedAt": "2021-06-07T10:32:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Soul to Seoul",
+    "이스트 코스트",
+    "Eastcoast"
+  ],
+  "authors": [
+    "Jea-Eun Kim"
+  ],
+  "id": 30533,
+  "malId": 533,
+  "type": "manga",
+  "title": "Soul to Seoul",
+  "url": "https://anilist.co/manga/30533",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30533-RhTX4eFtY4hb.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "319d09b3-95b3-4d42-bf58-8d21bbb7a3a4": {
+        "authors": [
+          "Kim Jea-Eun"
+        ],
+        "identifier": "319d09b3-95b3-4d42-bf58-8d21bbb7a3a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eastcoast",
+        "url": "https://mangadex.org/title/319d09b3-95b3-4d42-bf58-8d21bbb7a3a4",
+        "image": "https://uploads.mangadex.org/covers/319d09b3-95b3-4d42-bf58-8d21bbb7a3a4/deeb8a22-2085-466e-958a-daf314cf7b8d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 533,
+        "aniId": 30533,
+        "createdAt": "2020-10-12T16:13:14.000Z",
+        "updatedAt": "2021-06-05T19:55:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

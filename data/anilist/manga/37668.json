@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "コンプレックス"
+  ],
+  "authors": [
+    "Ringo Manda"
+  ],
+  "id": 37668,
+  "malId": 7668,
+  "type": "manga",
+  "title": "Complex",
+  "url": "https://anilist.co/manga/37668",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37668-YYYx8PBFGZds.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:53.000Z",
+  "updatedAt": "2021-05-20T14:39:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ef724d30-0d7e-4237-8309-245bcfccc9f9": {
+        "authors": [
+          "Manda Ringo"
+        ],
+        "identifier": "ef724d30-0d7e-4237-8309-245bcfccc9f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Complex",
+        "url": "https://mangadex.org/title/ef724d30-0d7e-4237-8309-245bcfccc9f9",
+        "image": "https://uploads.mangadex.org/covers/ef724d30-0d7e-4237-8309-245bcfccc9f9/0bd1d4fa-7621-4403-82a1-b8e92eacee1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7668,
+        "aniId": 37668,
+        "createdAt": "2020-10-12T16:13:58.000Z",
+        "updatedAt": "2021-06-06T01:27:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

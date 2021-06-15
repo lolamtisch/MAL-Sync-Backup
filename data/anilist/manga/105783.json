@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "다정한 밤에 어서오세요",
+    "Welcome to the Intimate Night"
+  ],
+  "authors": [
+    "Gob"
+  ],
+  "id": 105783,
+  "malId": null,
+  "type": "manga",
+  "title": "Dajeonghan Bam-e Eoseooseyo",
+  "url": "https://anilist.co/manga/105783",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105783-GIG5LowBWrlW.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-06T00:49:29.000Z",
+  "updatedAt": "2021-06-06T00:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2d8e8659-b485-41e6-bfa2-d9cb07f092b1": {
+        "authors": [
+          "Gob"
+        ],
+        "identifier": "2d8e8659-b485-41e6-bfa2-d9cb07f092b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Welcome to the Intimate Night",
+        "url": "https://mangadex.org/title/2d8e8659-b485-41e6-bfa2-d9cb07f092b1",
+        "image": "https://uploads.mangadex.org/covers/2d8e8659-b485-41e6-bfa2-d9cb07f092b1/ea7482ab-b8dd-44ca-854c-d8235c16339e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 105783,
+        "createdAt": "2020-10-12T16:13:50.000Z",
+        "updatedAt": "2021-06-06T10:24:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

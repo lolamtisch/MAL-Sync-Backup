@@ -1,0 +1,83 @@
+{
+  "altTitle": [
+    "MAZE",
+    "Labyrinth"
+  ],
+  "authors": [
+    "Suou Kouzuki"
+  ],
+  "id": 75943,
+  "malId": 45943,
+  "type": "manga",
+  "title": "Maze",
+  "url": "https://anilist.co/manga/75943",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45943.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:29.000Z",
+  "updatedAt": "2021-05-20T14:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "814a5cf3-a708-44d8-a2cb-a909e76b261e": {
+        "authors": [
+          "VedaCcc",
+          "余烬 阿大家的熊"
+        ],
+        "identifier": "814a5cf3-a708-44d8-a2cb-a909e76b261e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Cat's Maze",
+        "url": "https://mangadex.org/title/814a5cf3-a708-44d8-a2cb-a909e76b261e",
+        "image": "https://uploads.mangadex.org/covers/814a5cf3-a708-44d8-a2cb-a909e76b261e/6b868c37-6005-49d7-97b8-09417b6f425c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45943,
+        "aniId": 75943,
+        "createdAt": "2020-10-12T16:18:27.000Z",
+        "updatedAt": "2021-06-07T16:59:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "emo_faze": {
+        "authors": [],
+        "identifier": "emo_faze",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Emo Faze",
+        "url": "https://manganelo.com/manga/emo_faze",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/840-emo_faze.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45943,
+        "aniId": 75943,
+        "createdAt": "2020-10-12T16:22:49.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "ig922089": {
+        "authors": [],
+        "identifier": "ig922089",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "A Cat's Maze",
+        "url": "https://manganelo.com/manga/ig922089",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3507-ig922089.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45943,
+        "aniId": 75943,
+        "createdAt": "2020-10-12T16:23:31.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

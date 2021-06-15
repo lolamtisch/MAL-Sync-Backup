@@ -1,0 +1,77 @@
+{
+  "altTitle": [
+    "Devilman",
+    "デビルマン",
+    "Debiruman"
+  ],
+  "id": 2252,
+  "malId": 2252,
+  "type": "anime",
+  "title": "Devilman",
+  "url": "https://anilist.co/anime/2252",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2252-j7TwAtCwqYuY.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:14.000Z",
+  "updatedAt": "2021-05-20T14:36:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "pm09": {
+        "identifier": "pm09",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Devilman",
+        "url": "https://9anime.ru/watch/devilman.pm09",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-JPtfc568oH8/V8PCJtR9YTI/AAAAAAAA6OU/NU4ExwmBqLk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2252,
+        "aniId": 2252,
+        "createdAt": "2020-10-12T15:54:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2801": {
+        "identifier": "2801",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Devilman",
+        "url": "https://aniwatch.me/anime/2801",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2252,
+        "aniId": 2252,
+        "createdAt": "2020-10-12T15:58:36.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "devilman-the-demon-bird": {
+        "identifier": "devilman-the-demon-bird",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Devilman The Demon Bird",
+        "url": "https://gogoanime.so/category/devilman-the-demon-bird",
+        "image": "https://gogocdn.net/images/04.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 2252,
+        "aniId": 2252,
+        "createdAt": "2020-12-29T05:22:38.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

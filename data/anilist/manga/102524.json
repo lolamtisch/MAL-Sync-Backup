@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "蟻飼いアンヌ",
+    "Ant Tamer Annu"
+  ],
+  "authors": [
+    "Takahiro Fuzuki"
+  ],
+  "id": 102524,
+  "malId": 96312,
+  "type": "manga",
+  "title": "Arikai Annu",
+  "url": "https://anilist.co/manga/102524",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102524-6M99ubzeLuye.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:02.000Z",
+  "updatedAt": "2021-05-20T14:54:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db3c863d-6b50-46bd-a094-32b36b5684e7": {
+        "authors": [
+          "FUDUKI Takahiro"
+        ],
+        "identifier": "db3c863d-6b50-46bd-a094-32b36b5684e7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Arikai Annu",
+        "url": "https://mangadex.org/title/db3c863d-6b50-46bd-a094-32b36b5684e7",
+        "image": "https://uploads.mangadex.org/covers/db3c863d-6b50-46bd-a094-32b36b5684e7/7e64fc67-93fd-41e7-abb5-db322dcdc5ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96312,
+        "aniId": 102524,
+        "createdAt": "2020-10-12T16:09:29.000Z",
+        "updatedAt": "2021-06-04T17:58:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "arikai_annu": {
+        "authors": [
+          "FUDUKI Takahiro"
+        ],
+        "identifier": "arikai_annu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Arikai Annu",
+        "url": "https://fanfox.net/manga/arikai_annu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18729/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96312,
+        "aniId": 102524,
+        "createdAt": "2021-02-22T12:04:53.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

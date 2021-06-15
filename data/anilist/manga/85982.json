@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "\"Nisekoi\"",
+    "偽コイ同盟。",
+    "Fake Love Alliance",
+    "'Nisekoi'"
+  ],
+  "authors": [
+    "Sakaki Aoi",
+    "Ayano"
+  ],
+  "id": 85982,
+  "malId": 83579,
+  "type": "manga",
+  "title": "Nisekoi Doumei.",
+  "url": "https://anilist.co/manga/85982",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85982-ipBb979KPHlV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:32.000Z",
+  "updatedAt": "2021-05-20T14:52:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ebb2ff2d-5b5d-4bce-b6bd-b6bd91dd5c61": {
+        "authors": [
+          "Sakaki Aoi",
+          "Ayano"
+        ],
+        "identifier": "ebb2ff2d-5b5d-4bce-b6bd-b6bd91dd5c61",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nisekoi Doumei.",
+        "url": "https://mangadex.org/title/ebb2ff2d-5b5d-4bce-b6bd-b6bd91dd5c61",
+        "image": "https://uploads.mangadex.org/covers/ebb2ff2d-5b5d-4bce-b6bd-b6bd91dd5c61/2417468c-8e5b-4817-aac1-471256ab5c57.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83579,
+        "aniId": 85982,
+        "createdAt": "2020-10-12T16:08:18.000Z",
+        "updatedAt": "2021-06-04T09:07:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "nisekoi-doumei": {
+        "authors": [
+          "Ayano",
+          "SAKAKI Aoi"
+        ],
+        "identifier": "nisekoi-doumei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Nisekoi Doumei",
+        "url": "https://mangasee123.com/manga/Nisekoi-Doumei",
+        "image": "https://cover.nep.li/cover/Nisekoi-Doumei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83579,
+        "aniId": 85982,
+        "createdAt": "2021-06-04T12:21:29.000Z",
+        "updatedAt": "2021-06-04T12:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

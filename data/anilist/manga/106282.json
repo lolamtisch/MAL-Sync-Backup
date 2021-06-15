@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "この愛は、異端。",
+    "The Heresey of Love",
+    "This Heretic Love.",
+    "此爱异端",
+    "Herezja miłości"
+  ],
+  "authors": [
+    "Ena Moriyama"
+  ],
+  "id": 106282,
+  "malId": 106198,
+  "type": "manga",
+  "title": "Kono Ai wa, Itan.",
+  "url": "https://anilist.co/manga/106282",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106282-YyW5MfiR4dFJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:45.000Z",
+  "updatedAt": "2021-05-20T14:55:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aba66f4a-5ac7-401b-be17-9b10ca9f1352": {
+        "authors": [
+          "Moriyama Ena"
+        ],
+        "identifier": "aba66f4a-5ac7-401b-be17-9b10ca9f1352",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kono Ai wa, Itan.",
+        "url": "https://mangadex.org/title/aba66f4a-5ac7-401b-be17-9b10ca9f1352",
+        "image": "https://uploads.mangadex.org/covers/aba66f4a-5ac7-401b-be17-9b10ca9f1352/4b620334-2c0d-46cf-824a-f061b2ff6d89.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106198,
+        "aniId": 106282,
+        "createdAt": "2020-10-12T16:15:19.000Z",
+        "updatedAt": "2021-06-06T12:36:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "db920105": {
+        "authors": [],
+        "identifier": "db920105",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Heresy of Love",
+        "url": "https://manganelo.com/manga/db920105",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1508-db920105.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106198,
+        "aniId": 106282,
+        "createdAt": "2020-10-12T16:22:35.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

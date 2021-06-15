@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "붉은 꽃의 정원",
+    "The Garden of Red Flowers",
+    "붉은 꽃의 정원"
+  ],
+  "authors": [
+    "Mar"
+  ],
+  "id": 123869,
+  "malId": null,
+  "type": "manga",
+  "title": "Bulgeun Kkochui Jeongwon",
+  "url": "https://anilist.co/manga/123869",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123869-VZKuR6J9DOIW.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-31T05:12:14.000Z",
+  "updatedAt": "2021-05-31T05:12:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "677b00fb-24c9-47b4-97c0-f51c6555e4d4": {
+        "authors": [
+          "Mareu"
+        ],
+        "identifier": "677b00fb-24c9-47b4-97c0-f51c6555e4d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Garden of Red Flowers",
+        "url": "https://mangadex.org/title/677b00fb-24c9-47b4-97c0-f51c6555e4d4",
+        "image": "https://uploads.mangadex.org/covers/677b00fb-24c9-47b4-97c0-f51c6555e4d4/4808eb28-0bab-4ec6-9c11-dda9c4f91864.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123869,
+        "createdAt": "2020-10-12T16:20:55.000Z",
+        "updatedAt": "2021-06-08T01:38:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

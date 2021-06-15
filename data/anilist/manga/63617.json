@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Gekisen!! Janken Shima"
+  ],
+  "authors": [
+    "Yoshio Sawai"
+  ],
+  "id": 63617,
+  "malId": 33617,
+  "type": "manga",
+  "title": "Gekisen!! Janken Shima",
+  "url": "https://anilist.co/manga/63617",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33617.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:56.000Z",
+  "updatedAt": "2021-05-20T14:47:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "429f803e-85f6-491f-ac08-dcc92ad9515f": {
+        "authors": [
+          "Sawai Yoshio"
+        ],
+        "identifier": "429f803e-85f6-491f-ac08-dcc92ad9515f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bobobo-bo Bo-bobo? - Sawai Yoshio Short Story Anthology",
+        "url": "https://mangadex.org/title/429f803e-85f6-491f-ac08-dcc92ad9515f",
+        "image": "https://uploads.mangadex.org/covers/429f803e-85f6-491f-ac08-dcc92ad9515f/539d816b-8734-4d02-8e85-0579f64d3084.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33617,
+        "aniId": 63617,
+        "createdAt": "2020-10-12T16:15:30.000Z",
+        "updatedAt": "2021-06-06T14:13:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

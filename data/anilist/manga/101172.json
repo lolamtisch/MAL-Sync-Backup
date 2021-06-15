@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Love is an Illusion!",
+    "사랑은 환상!"
+  ],
+  "authors": [
+    "Fargo"
+  ],
+  "id": 101172,
+  "malId": null,
+  "type": "manga",
+  "title": "Sarangeun Hwansang!",
+  "url": "https://anilist.co/manga/101172",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101172-ZQn6v7gowqEe.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-25T19:08:18.000Z",
+  "updatedAt": "2021-05-25T19:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "07eadf44-b1be-45df-9e7f-4262bfabcd2b": {
+        "authors": [
+          "Fargo"
+        ],
+        "identifier": "07eadf44-b1be-45df-9e7f-4262bfabcd2b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Is an Illusion",
+        "url": "https://mangadex.org/title/07eadf44-b1be-45df-9e7f-4262bfabcd2b",
+        "image": "https://uploads.mangadex.org/covers/07eadf44-b1be-45df-9e7f-4262bfabcd2b/f017866d-ad9e-4aec-b24c-04769159e860.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 101172,
+        "createdAt": "2020-10-12T16:11:24.000Z",
+        "updatedAt": "2021-06-05T08:52:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

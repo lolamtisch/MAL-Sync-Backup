@@ -1,0 +1,74 @@
+{
+  "altTitle": [
+    "Astro Boy",
+    "Mighty Atom",
+    "鉄腕アトム"
+  ],
+  "id": 2747,
+  "type": "anime",
+  "title": "Tetsuwan Atom",
+  "url": "https://myanimelist.net/anime/2747/Tetsuwan_Atom",
+  "image": "https://cdn.myanimelist.net/images/anime/10/79582.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:32.000Z",
+  "updatedAt": "2021-02-10T10:40:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "418j": {
+        "identifier": "418j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tetsuwan Atom (Dub)",
+        "url": "https://www12.9anime.to/watch/astro-boy-dub.418j",
+        "image": "//static.bunnycdn.ru/i/cache/images/2018/04/5765062250c20845e40069ef87a33f81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 2747,
+        "aniId": 2747,
+        "createdAt": "2020-10-12T15:49:59.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "lz5m": {
+        "identifier": "lz5m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tetsuwan Atom",
+        "url": "https://www12.9anime.to/watch/astro-boy.lz5m",
+        "image": "//static.9anime.to/i/cache/images/6/6d/6d91145a2bad3d0e5eaaf6ba3dc014f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2747,
+        "aniId": 2747,
+        "createdAt": "2020-12-09T14:02:11.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "astro-boy-1963-dub": {
+        "identifier": "astro-boy-1963-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Astro Boy (1963) (Dub)",
+        "url": "https://www9.gogoanime.io/category/astro-boy-1963-dub",
+        "image": "https://cdnimg.xyz/cover/astro-boy-1963-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2747,
+        "aniId": 2747,
+        "createdAt": "2020-10-12T15:59:53.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

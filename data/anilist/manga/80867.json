@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ここだけの秘密"
+  ],
+  "authors": [
+    "Naoki Iwamoto"
+  ],
+  "id": 80867,
+  "malId": 50867,
+  "type": "manga",
+  "title": "Kokodake no Himitsu",
+  "url": "https://anilist.co/manga/80867",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50867.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:49.000Z",
+  "updatedAt": "2021-05-20T14:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "893a6989-50af-42be-a5bd-0acdf78824ef": {
+        "authors": [
+          "Iwamoto Naoki"
+        ],
+        "identifier": "893a6989-50af-42be-a5bd-0acdf78824ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kokodake no Himitsu",
+        "url": "https://mangadex.org/title/893a6989-50af-42be-a5bd-0acdf78824ef",
+        "image": "https://uploads.mangadex.org/covers/893a6989-50af-42be-a5bd-0acdf78824ef/f9e34dd9-e434-4dfb-8490-43185330b071.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50867,
+        "aniId": 80867,
+        "createdAt": "2020-10-12T16:06:19.000Z",
+        "updatedAt": "2021-06-03T18:52:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

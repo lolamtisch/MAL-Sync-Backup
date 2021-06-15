@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ほむら先生はたぶんモテない"
+  ],
+  "authors": [
+    "Sekaneko"
+  ],
+  "id": 115393,
+  "malId": 128074,
+  "type": "manga",
+  "title": "Homura-sensei wa Tabun Motenai",
+  "url": "https://anilist.co/manga/115393",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115393-cxrXpdjjr9wD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:20.000Z",
+  "updatedAt": "2021-05-20T14:59:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b1598ed-6ac2-4c74-92cf-44fd0f3ab7fe": {
+        "authors": [
+          "Sekaneko"
+        ],
+        "identifier": "0b1598ed-6ac2-4c74-92cf-44fd0f3ab7fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Homura-sensei Is Probably Unpopular",
+        "url": "https://mangadex.org/title/0b1598ed-6ac2-4c74-92cf-44fd0f3ab7fe",
+        "image": "https://uploads.mangadex.org/covers/0b1598ed-6ac2-4c74-92cf-44fd0f3ab7fe/7aad0b66-b043-4866-81be-2494acca20eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128074,
+        "aniId": 115393,
+        "createdAt": "2020-10-12T16:17:51.000Z",
+        "updatedAt": "2021-06-07T11:44:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ts923207": {
+        "authors": [
+          "Sekaneko"
+        ],
+        "identifier": "ts923207",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Homura Sensei Is Probably Unpopular",
+        "url": "https://manganelo.com/manga/ts923207",
+        "image": "https://avt.mkklcdnv6temp.com/26/f/21-1591757900.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 128074,
+        "aniId": 115393,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "homura_sensei_wa_tabun_motenai": {
+        "authors": [
+          "Sekaneko"
+        ],
+        "identifier": "homura_sensei_wa_tabun_motenai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Homura-sensei wa Tabun Motenai",
+        "url": "https://fanfox.net/manga/homura_sensei_wa_tabun_motenai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34265/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128074,
+        "aniId": 115393,
+        "createdAt": "2021-03-10T14:40:50.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

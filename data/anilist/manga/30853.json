@@ -1,0 +1,110 @@
+{
+  "altTitle": [
+    "Yawara!",
+    "Yawara! A Fashionable Judo Girl",
+    "ヤワラ"
+  ],
+  "authors": [
+    "Naoki Urasawa",
+    "Thibaud Desbief"
+  ],
+  "id": 30853,
+  "malId": 853,
+  "type": "manga",
+  "title": "Yawara!",
+  "url": "https://anilist.co/manga/30853",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30853-kif2buZKAOf0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b8fb5be0-0d39-410e-b30b-a245ce2aa27a": {
+        "authors": [
+          "Urasawa Naoki"
+        ],
+        "identifier": "b8fb5be0-0d39-410e-b30b-a245ce2aa27a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yawara!",
+        "url": "https://mangadex.org/title/b8fb5be0-0d39-410e-b30b-a245ce2aa27a",
+        "image": "https://uploads.mangadex.org/covers/b8fb5be0-0d39-410e-b30b-a245ce2aa27a/103ecd47-dd0f-4981-a14a-964e68aae12b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 853,
+        "aniId": 30853,
+        "createdAt": "2020-10-12T16:03:49.000Z",
+        "updatedAt": "2021-06-02T16:43:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yawara": {
+        "authors": [],
+        "identifier": "yawara",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yawara!",
+        "url": "https://manganelo.com/manga/yawara",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3456-yawara.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 853,
+        "aniId": 30853,
+        "createdAt": "2020-10-12T16:26:20.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yawara": {
+        "authors": [
+          "Urasawa Naoki"
+        ],
+        "identifier": "yawara",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yawara!",
+        "url": "https://fanfox.net/manga/yawara/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1880/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 853,
+        "aniId": 30853,
+        "createdAt": "2021-02-28T23:45:56.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yawara": {
+        "authors": [
+          "URASAWA Naoki"
+        ],
+        "identifier": "yawara",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yawara!",
+        "url": "https://mangasee123.com/manga/Yawara",
+        "image": "https://cover.nep.li/cover/Yawara.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 853,
+        "aniId": 30853,
+        "createdAt": "2021-03-16T00:03:20.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

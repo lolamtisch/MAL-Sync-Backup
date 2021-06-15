@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "コルセーア",
+    "Koruseea"
+  ],
+  "authors": [
+    "Erii Misono",
+    "Fuuko Minami"
+  ],
+  "id": 40915,
+  "malId": 10915,
+  "type": "manga",
+  "title": "Corsair",
+  "url": "https://anilist.co/manga/40915",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40915-1UMVWBUtLfBq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "346561f0-5502-4698-855b-d13a0ac8684b": {
+        "authors": [
+          "Misono Erii",
+          "Minami Fuuko"
+        ],
+        "identifier": "346561f0-5502-4698-855b-d13a0ac8684b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Corsair",
+        "url": "https://mangadex.org/title/346561f0-5502-4698-855b-d13a0ac8684b",
+        "image": "https://uploads.mangadex.org/covers/346561f0-5502-4698-855b-d13a0ac8684b/3dd90134-f431-482a-bc42-9d19103aa9e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10915,
+        "aniId": 40915,
+        "createdAt": "2020-10-12T16:08:15.000Z",
+        "updatedAt": "2021-06-04T08:45:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hj959866": {
+        "authors": [
+          "Minami Fuuko"
+        ],
+        "identifier": "manga-hj959866",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Corsair",
+        "url": "https://manganato.com/manga-hj959866",
+        "image": "https://avt.mkklcdnv6temp.com/29/u/6-1583475333.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10915,
+        "aniId": 40915,
+        "createdAt": "2021-05-31T09:22:50.000Z",
+        "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

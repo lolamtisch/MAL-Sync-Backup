@@ -1,0 +1,134 @@
+{
+  "altTitle": [
+    "ACT-AGE",
+    "アクタージュ act-age"
+  ],
+  "authors": [
+    "Tatsuya Matsuki",
+    "Shiro Usazaki"
+  ],
+  "id": 100991,
+  "malId": 112115,
+  "type": "manga",
+  "title": "Act-Age",
+  "url": "https://anilist.co/manga/100991",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100991-iAa5tfGjInDf.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:52.000Z",
+  "updatedAt": "2021-05-20T14:56:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f1aa6ceb-4542-4b67-8c44-3cc4c429e4f2": {
+        "authors": [
+          "Usazaki Shiro",
+          "Matsuki Tatsuya"
+        ],
+        "identifier": "f1aa6ceb-4542-4b67-8c44-3cc4c429e4f2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Act-Age",
+        "url": "https://mangadex.org/title/f1aa6ceb-4542-4b67-8c44-3cc4c429e4f2",
+        "image": "https://uploads.mangadex.org/covers/f1aa6ceb-4542-4b67-8c44-3cc4c429e4f2/b519760c-0e74-45c1-a65d-7425279d688e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112115,
+        "aniId": 100991,
+        "createdAt": "2020-10-12T16:11:17.000Z",
+        "updatedAt": "2021-06-05T07:12:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "actage": {
+        "authors": [],
+        "identifier": "actage",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Act-Age",
+        "url": "https://manganelo.com/manga/actage",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20291-actage.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112115,
+        "aniId": 100991,
+        "createdAt": "2020-10-12T16:22:00.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "act-age": {
+        "authors": [
+          "MATSUKI Tatsuya",
+          "USAZAKI Shiro"
+        ],
+        "identifier": "act-age",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Act-Age",
+        "url": "https://mangasee123.com/manga/Act-Age",
+        "image": "https://cover.nep.li/cover/Act-Age.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112115,
+        "aniId": 100991,
+        "createdAt": "2021-01-01T03:11:55.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "act_age": {
+        "authors": [
+          "MATSUKI Tatsuya"
+        ],
+        "identifier": "act_age",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "ACT-AGE",
+        "url": "https://fanfox.net/manga/act_age/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27144/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112115,
+        "aniId": 100991,
+        "createdAt": "2021-01-02T18:50:24.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bi979117": {
+        "authors": [
+          "Matsuki Tatsuya",
+          "Usazaki Shiro"
+        ],
+        "identifier": "manga-bi979117",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Act-Age",
+        "url": "https://readmanganato.com/manga-bi979117",
+        "image": "https://avt.mkklcdnv6temp.com/29/m/16-1583494528.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112115,
+        "aniId": 100991,
+        "createdAt": "2021-06-01T15:36:51.000Z",
+        "updatedAt": "2021-06-01T16:01:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

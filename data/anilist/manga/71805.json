@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "HWAJA",
+    "화자",
+    "Hwa Ja"
+  ],
+  "authors": [
+    "Seong-Hyuk Hong"
+  ],
+  "id": 71805,
+  "malId": 41805,
+  "type": "manga",
+  "title": "Hwaja",
+  "url": "https://anilist.co/manga/71805",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41805.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:50.000Z",
+  "updatedAt": "2021-05-20T14:48:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7addda29-aac7-4c73-8b31-756689944f86": {
+        "authors": [
+          "Hong Jac-Ga"
+        ],
+        "identifier": "7addda29-aac7-4c73-8b31-756689944f86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hwaja",
+        "url": "https://mangadex.org/title/7addda29-aac7-4c73-8b31-756689944f86",
+        "image": "https://uploads.mangadex.org/covers/7addda29-aac7-4c73-8b31-756689944f86/43803bc9-2304-498d-995e-10dfe4ed4cc3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41805,
+        "aniId": 71805,
+        "createdAt": "2020-10-12T16:13:16.000Z",
+        "updatedAt": "2021-06-05T20:06:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hwaja": {
+        "authors": [
+          "Hong",
+          "Jac-Ga"
+        ],
+        "identifier": "hwaja",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hwaja",
+        "url": "https://manganelo.com/manga/hwaja",
+        "image": "https://avt.mkklcdnv6temp.com/33/a/3-1583468975.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41805,
+        "aniId": 71805,
+        "createdAt": "2021-05-15T19:24:47.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nc955259": {
+        "authors": [
+          "Hong Jac-Ga"
+        ],
+        "identifier": "manga-nc955259",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hwaja",
+        "url": "https://manganato.com/manga-nc955259",
+        "image": "https://avt.mkklcdnv6temp.com/33/a/3-1583468975.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41805,
+        "aniId": 71805,
+        "createdAt": "2021-06-01T15:47:52.000Z",
+        "updatedAt": "2021-06-01T16:01:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

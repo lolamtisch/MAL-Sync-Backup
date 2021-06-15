@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "うろしま物語",
+    "A Journey to Uroshima"
+  ],
+  "authors": [
+    "Youji Fukuyama"
+  ],
+  "id": 84317,
+  "malId": 54317,
+  "type": "manga",
+  "title": "Uroshima Monogatari",
+  "url": "https://anilist.co/manga/84317",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx84317-mC5JOAvzxeNe.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:59.000Z",
+  "updatedAt": "2021-05-20T14:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe77264c-eb8d-4e83-b962-39ec8c0b174e": {
+        "authors": [
+          "Fukuyama Youji"
+        ],
+        "identifier": "fe77264c-eb8d-4e83-b962-39ec8c0b174e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uroshima Monogatari",
+        "url": "https://mangadex.org/title/fe77264c-eb8d-4e83-b962-39ec8c0b174e",
+        "image": "https://uploads.mangadex.org/covers/fe77264c-eb8d-4e83-b962-39ec8c0b174e/57706626-47d4-4bd1-98b0-dbc53dd93689.gif",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54317,
+        "aniId": 84317,
+        "createdAt": "2020-10-12T16:18:34.000Z",
+        "updatedAt": "2021-06-07T17:57:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "キミを侵略せよ!",
+    "Kimi wo Shinryaku seyo!"
+  ],
+  "authors": [
+    "Kazusa Inaoka"
+  ],
+  "id": 102857,
+  "malId": 114558,
+  "type": "manga",
+  "title": "Kimi wo Shinryaku Seyo!",
+  "url": "https://anilist.co/manga/102857",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102857-bXDAtvTtlGWw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:10.000Z",
+  "updatedAt": "2021-05-20T14:57:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac02a883-71ee-46d6-aabb-ce05d923be48": {
+        "authors": [
+          "Kazusa Inaoka"
+        ],
+        "identifier": "ac02a883-71ee-46d6-aabb-ce05d923be48",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi wo Shinryakuseyo!",
+        "url": "https://mangadex.org/title/ac02a883-71ee-46d6-aabb-ce05d923be48",
+        "image": "https://uploads.mangadex.org/covers/ac02a883-71ee-46d6-aabb-ce05d923be48/d20dace7-4a10-4c29-a8bc-01388e10b32c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 114558,
+        "aniId": 102857,
+        "createdAt": "2020-10-12T16:13:24.000Z",
+        "updatedAt": "2021-06-05T22:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kimi_wo_shinryakuseyo": {
+        "authors": [
+          "Kazusa",
+          "Inaoka"
+        ],
+        "identifier": "kimi_wo_shinryakuseyo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kimi Wo Shinryakuseyo!",
+        "url": "https://manganelo.com/manga/kimi_wo_shinryakuseyo",
+        "image": "https://avt.mkklcdnv6temp.com/38/f/16-1583494839.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114558,
+        "aniId": 102857,
+        "createdAt": "2021-03-21T01:04:31.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

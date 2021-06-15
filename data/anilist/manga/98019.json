@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Full Drum",
+    "フルドラム"
+  ],
+  "authors": [
+    "Tooru Hakoishi"
+  ],
+  "id": 98019,
+  "malId": 103009,
+  "type": "manga",
+  "title": "Full Drum",
+  "url": "https://anilist.co/manga/98019",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98019-U4wfZuxtT6Vv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:01.000Z",
+  "updatedAt": "2021-05-20T14:55:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9ff36bf4-03e2-4b30-937c-71a195e3aca1": {
+        "authors": [
+          "Hakoishi Tooru"
+        ],
+        "identifier": "9ff36bf4-03e2-4b30-937c-71a195e3aca1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fulldrum",
+        "url": "https://mangadex.org/title/9ff36bf4-03e2-4b30-937c-71a195e3aca1",
+        "image": "https://uploads.mangadex.org/covers/9ff36bf4-03e2-4b30-937c-71a195e3aca1/f4b4099d-cddb-4c85-82a5-9c53838708f7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103009,
+        "aniId": 98019,
+        "createdAt": "2020-10-12T16:10:34.000Z",
+        "updatedAt": "2021-06-05T01:42:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fulldrum": {
+        "authors": [],
+        "identifier": "fulldrum",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fulldrum",
+        "url": "https://manganelo.com/manga/fulldrum",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18575-fulldrum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103009,
+        "aniId": 98019,
+        "createdAt": "2020-10-12T16:23:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fulldrum": {
+        "authors": [
+          "HAKOISHI Tooru"
+        ],
+        "identifier": "fulldrum",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fulldrum",
+        "url": "https://mangasee123.com/manga/Fulldrum",
+        "image": "https://cover.nep.li/cover/Fulldrum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103009,
+        "aniId": 98019,
+        "createdAt": "2021-02-18T19:36:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Careless Cherry",
+    "うっかりチェリー",
+    "Nemurenu Yoru ni Nomikonda Hoshi"
+  ],
+  "authors": [
+    "Miu Ootsuki"
+  ],
+  "id": 44402,
+  "malId": 14402,
+  "type": "manga",
+  "title": "Ukkari Cherry",
+  "url": "https://anilist.co/manga/44402",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14402.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:46.000Z",
+  "updatedAt": "2021-05-20T14:42:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64ccfd8c-789c-48e2-92f3-ed81c47d7cfb": {
+        "authors": [
+          "Ootsuki Miu"
+        ],
+        "identifier": "64ccfd8c-789c-48e2-92f3-ed81c47d7cfb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ukkari Cherry",
+        "url": "https://mangadex.org/title/64ccfd8c-789c-48e2-92f3-ed81c47d7cfb",
+        "image": "https://uploads.mangadex.org/covers/64ccfd8c-789c-48e2-92f3-ed81c47d7cfb/dcd4715b-3d05-47de-b2a8-17a04b04641c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14402,
+        "aniId": 44402,
+        "createdAt": "2020-10-12T16:07:21.000Z",
+        "updatedAt": "2021-06-04T02:12:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

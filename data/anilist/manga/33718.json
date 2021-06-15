@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "宇宙 英雄 物語",
+    "Space Hero Story",
+    "Space Hero Tales",
+    "Uchuu Eiyuu Monogatari"
+  ],
+  "authors": [
+    "Takehiko Itou"
+  ],
+  "id": 33718,
+  "malId": 3718,
+  "type": "manga",
+  "title": "Future-Retro Hero Story",
+  "url": "https://anilist.co/manga/33718",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3718.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4abc9504-d465-40b3-a7c5-47b60c51c03b": {
+        "authors": [
+          "Ito Takehiko"
+        ],
+        "identifier": "4abc9504-d465-40b3-a7c5-47b60c51c03b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uchuu Eiyuu Monogatari",
+        "url": "https://mangadex.org/title/4abc9504-d465-40b3-a7c5-47b60c51c03b",
+        "image": "https://uploads.mangadex.org/covers/4abc9504-d465-40b3-a7c5-47b60c51c03b/e9a5481f-b4da-435a-a701-35ae07695c44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3718,
+        "aniId": 33718,
+        "createdAt": "2020-10-12T16:07:39.000Z",
+        "updatedAt": "2021-06-04T04:22:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "uchuu_eiyuu_monogatari": {
+        "authors": [
+          "Ito",
+          "Takehiko"
+        ],
+        "identifier": "uchuu_eiyuu_monogatari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Uchuu Eiyuu Monogatari",
+        "url": "https://manganelo.com/manga/uchuu_eiyuu_monogatari",
+        "image": "https://avt.mkklcdnv6temp.com/6/l/3-1583467889.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3718,
+        "aniId": 33718,
+        "createdAt": "2021-04-11T16:51:07.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

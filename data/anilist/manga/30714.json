@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Duck Prince",
+    "あひるの王子さま",
+    "Der Entenprinz"
+  ],
+  "authors": [
+    "Ai Morinaga"
+  ],
+  "id": 30714,
+  "malId": 714,
+  "type": "manga",
+  "title": "Ahiru no Oujisama",
+  "url": "https://anilist.co/manga/30714",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30714-E9EsiVTwOdzQ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:41.000Z",
+  "updatedAt": "2021-05-20T14:35:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27174389-bc10-43e7-b111-345f1ecb9d24": {
+        "authors": [
+          "Morinaga Ai"
+        ],
+        "identifier": "27174389-bc10-43e7-b111-345f1ecb9d24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ahiru no Oujisama",
+        "url": "https://mangadex.org/title/27174389-bc10-43e7-b111-345f1ecb9d24",
+        "image": "https://uploads.mangadex.org/covers/27174389-bc10-43e7-b111-345f1ecb9d24/a2a318a1-3e98-4b3a-960b-4695bbcde27b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 714,
+        "aniId": 30714,
+        "createdAt": "2020-10-12T16:04:18.000Z",
+        "updatedAt": "2021-06-02T20:13:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "we920579": {
+        "authors": [],
+        "identifier": "we920579",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Duck Prince (Kazao)",
+        "url": "https://manganelo.com/manga/we920579",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1976-we920579.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 714,
+        "aniId": 30714,
+        "createdAt": "2020-10-12T16:26:08.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ahiru_no_oujisama": {
+        "authors": [
+          "MORINAGA Ai"
+        ],
+        "identifier": "ahiru_no_oujisama",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ahiru no Oujisama",
+        "url": "https://fanfox.net/manga/ahiru_no_oujisama/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1485/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 714,
+        "aniId": 30714,
+        "createdAt": "2021-05-21T00:14:12.000Z",
+        "updatedAt": "2021-05-21T00:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Wolf in the House",
+    "울프 인더 하우스"
+  ],
+  "authors": [
+    "Ji-Yeon Park"
+  ],
+  "id": 99628,
+  "malId": 120748,
+  "type": "manga",
+  "title": "Wolf in the House",
+  "url": "https://anilist.co/manga/99628",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99628-AM0mkWUl1mBm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:16.000Z",
+  "updatedAt": "2021-05-20T14:58:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c780ebc0-b2af-4f69-bc52-5465c96e4258": {
+        "authors": [
+          "박지연"
+        ],
+        "identifier": "c780ebc0-b2af-4f69-bc52-5465c96e4258",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wolf in the House",
+        "url": "https://mangadex.org/title/c780ebc0-b2af-4f69-bc52-5465c96e4258",
+        "image": "https://uploads.mangadex.org/covers/c780ebc0-b2af-4f69-bc52-5465c96e4258/04d14011-544a-438e-90d1-aedc129e1b72.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120748,
+        "aniId": 99628,
+        "createdAt": "2020-10-12T16:17:53.000Z",
+        "updatedAt": "2021-06-07T11:53:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

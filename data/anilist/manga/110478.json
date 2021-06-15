@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "You're My Favorite Toy",
+    "君は僕のおきにいり"
+  ],
+  "authors": [
+    "Arashi Arima"
+  ],
+  "id": 110478,
+  "malId": 126149,
+  "type": "manga",
+  "title": "Kimi wa Boku no Okiniiri",
+  "url": "https://anilist.co/manga/110478",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110478-y3NgaZy6FCCR.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:59:13.000Z",
+  "updatedAt": "2021-05-20T14:59:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "486dff34-bb80-48ee-95b4-8e57d7729c3e": {
+        "authors": [
+          "Arima Arashi"
+        ],
+        "identifier": "486dff34-bb80-48ee-95b4-8e57d7729c3e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi wa Boku no Okiniiri",
+        "url": "https://mangadex.org/title/486dff34-bb80-48ee-95b4-8e57d7729c3e",
+        "image": "https://uploads.mangadex.org/covers/486dff34-bb80-48ee-95b4-8e57d7729c3e/66a7de65-2e93-48ce-a9b1-13563a96bdf8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126149,
+        "aniId": 110478,
+        "createdAt": "2020-11-09T23:13:28.000Z",
+        "updatedAt": "2021-06-08T06:59:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "altTitle": [
+    "Seven Days",
+    "Seven Days - Monday to Thursday, Seven Days - Friday to Sunday",
+    "セブンデイズ"
+  ],
+  "authors": [
+    "Takarai, Rihito",
+    "Tachibana, Venio"
+  ],
+  "id": 9296,
+  "type": "manga",
+  "title": "Seven Days",
+  "url": "https://myanimelist.net/manga/9296/Seven_Days",
+  "image": "https://cdn.myanimelist.net/images/manga/1/130103.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:23.000Z",
+  "updatedAt": "2021-06-01T15:36:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90d53cf3-7184-46fa-b293-c15d4d0da937": {
+        "authors": [
+          "Takarai Rihito",
+          "Tachibana Venio"
+        ],
+        "identifier": "90d53cf3-7184-46fa-b293-c15d4d0da937",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seven Days",
+        "url": "https://mangadex.org/title/90d53cf3-7184-46fa-b293-c15d4d0da937",
+        "image": "https://uploads.mangadex.org/covers/90d53cf3-7184-46fa-b293-c15d4d0da937/ff4d5de1-f1e0-4324-ab88-6c59b240bad8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9296,
+        "aniId": 39296,
+        "createdAt": "2020-10-12T16:03:14.000Z",
+        "updatedAt": "2021-06-02T12:37:32.000Z",
+        "deletedAt": null
+      },
+      "ff525108-1f13-4b11-a311-db8d3cbbaf41": {
+        "authors": [
+          "Matsumoto Aya",
+          "Matchaya (Circle)"
+        ],
+        "identifier": "ff525108-1f13-4b11-a311-db8d3cbbaf41",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou - Coming Out and Seven Days (Doujinshi)",
+        "url": "https://mangadex.org/title/ff525108-1f13-4b11-a311-db8d3cbbaf41",
+        "image": "https://uploads.mangadex.org/covers/ff525108-1f13-4b11-a311-db8d3cbbaf41/18508005-d0ac-4ea9-b890-1cce30826cdd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9296,
+        "aniId": 39296,
+        "createdAt": "2020-10-12T16:18:53.000Z",
+        "updatedAt": "2021-06-07T20:55:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lj918816": {
+        "authors": [],
+        "identifier": "lj918816",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Last Seven Days",
+        "url": "https://manganelo.com/manga/lj918816",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/219-lj918816.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9296,
+        "aniId": 39296,
+        "createdAt": "2020-10-12T16:24:08.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "seven_days": {
+        "authors": [],
+        "identifier": "seven_days",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seven Days",
+        "url": "https://manganelo.com/manga/seven_days",
+        "image": "https://avt.mkklcdnv6.com/31/v/3-1583468929.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9296,
+        "aniId": 39296,
+        "createdAt": "2020-10-12T16:25:22.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

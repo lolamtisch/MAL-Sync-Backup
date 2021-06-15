@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "ガサラキ"
+  ],
+  "id": 782,
+  "malId": 782,
+  "type": "anime",
+  "title": "Gasaraki",
+  "url": "https://anilist.co/anime/782",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx782-2DNw8xRZb3RK.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:44.000Z",
+  "updatedAt": "2021-05-20T14:34:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "nppk": {
+        "identifier": "nppk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gasaraki (Dub)",
+        "url": "https://9anime.ru/watch/gasaraki-dub.nppk",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uMBdwRP6DEw/V6rAGnfVqkI/AAAAAAAA15Y/VWVhkiMkC0s/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 782,
+        "aniId": 782,
+        "createdAt": "2020-10-12T15:53:58.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "v8rl": {
+        "identifier": "v8rl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gasaraki",
+        "url": "https://9anime.ru/watch/gasaraki.v8rl",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-u8Hs-A_YJdo/V_o_YgrOp0I/AAAAAAABFqU/eut0SvuBA3M/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 782,
+        "aniId": 782,
+        "createdAt": "2020-10-12T15:55:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gasaraki": {
+        "identifier": "gasaraki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gasaraki",
+        "url": "https://www2.gogoanime.video/category/gasaraki",
+        "image": "https://gogocdn.net/images/anime/G/gasaraki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 782,
+        "aniId": 782,
+        "createdAt": "2020-10-12T16:00:29.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "gasaraki%20(sub)": {
+        "identifier": "gasaraki%20(sub)",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Gasaraki (Sub)",
+        "url": "https://www.crunchyroll.com/gasaraki?media_id=730175",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/fa01872439bc94b94608262ac851f8961487005699_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 782,
+        "aniId": 782,
+        "createdAt": "2020-10-27T23:41:27.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "都合のいいキミ"
+  ],
+  "authors": [
+    "Yukari Yashiki"
+  ],
+  "id": 32752,
+  "malId": 2752,
+  "type": "manga",
+  "title": "Tsugou no Ii Kimi",
+  "url": "https://anilist.co/manga/32752",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2752.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-06-05T05:20:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e99a3e7-9bb9-4f0c-ac90-5df61c3a72d0": {
+        "authors": [
+          "Yashiki Yukari"
+        ],
+        "identifier": "1e99a3e7-9bb9-4f0c-ac90-5df61c3a72d0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsugou no Ii Kimi",
+        "url": "https://mangadex.org/title/1e99a3e7-9bb9-4f0c-ac90-5df61c3a72d0",
+        "image": "https://uploads.mangadex.org/covers/1e99a3e7-9bb9-4f0c-ac90-5df61c3a72d0/3e9f6b59-9009-41a2-84f9-2923e46a7881.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2752,
+        "aniId": 32752,
+        "createdAt": "2020-10-12T16:11:00.000Z",
+        "updatedAt": "2021-06-05T08:56:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tsugou_no_ii_kimi": {
+        "authors": [
+          "Yashiki",
+          "Yukari"
+        ],
+        "identifier": "tsugou_no_ii_kimi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsugou No Ii Kimi",
+        "url": "https://manganelo.com/manga/tsugou_no_ii_kimi",
+        "image": "https://avt.mkklcdnv6.com/28/w/11-1583485054.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2752,
+        "aniId": 32752,
+        "createdAt": "2020-12-04T00:22:42.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

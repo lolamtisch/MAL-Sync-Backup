@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "ハダカノタイヨウ",
+    "The Naked Sun"
+  ],
+  "authors": [
+    "Masakazu Yoshiki"
+  ],
+  "id": 69775,
+  "malId": 39775,
+  "type": "manga",
+  "title": "Hadaka no Taiyou",
+  "url": "https://anilist.co/manga/69775",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39775.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "328af8b9-a561-4b12-9962-079fe1b2a21a": {
+        "authors": [
+          "Yoshiki Masakazu"
+        ],
+        "identifier": "328af8b9-a561-4b12-9962-079fe1b2a21a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hadaka no Taiyou",
+        "url": "https://mangadex.org/title/328af8b9-a561-4b12-9962-079fe1b2a21a",
+        "image": "https://uploads.mangadex.org/covers/328af8b9-a561-4b12-9962-079fe1b2a21a/75f3fbb8-747c-4966-8a09-b36117eed3e6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39775,
+        "aniId": 69775,
+        "createdAt": "2020-10-12T16:05:35.000Z",
+        "updatedAt": "2021-06-03T13:34:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hadaka_no_taiyou": {
+        "authors": [
+          "Yoshiki",
+          "Masakazu"
+        ],
+        "identifier": "hadaka_no_taiyou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hadaka No Taiyou",
+        "url": "https://manganelo.com/manga/hadaka_no_taiyou",
+        "image": "https://avt.mkklcdnv6temp.com/8/c/11-1583484294.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39775,
+        "aniId": 69775,
+        "createdAt": "2021-03-30T23:01:13.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

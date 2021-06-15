@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ピンクDEピンク",
+    "Pinku de Pinku"
+  ],
+  "authors": [
+    "Tesshin Azuma"
+  ],
+  "id": 44773,
+  "malId": 14773,
+  "type": "manga",
+  "title": "Pink de Pink",
+  "url": "https://anilist.co/manga/44773",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44773-b0cWwYKhb3kP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:40.000Z",
+  "updatedAt": "2021-05-20T14:43:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3cdfa6bc-e237-4317-8b20-b91ca73fbbf6": {
+        "authors": [
+          "Azuma Tesshin"
+        ],
+        "identifier": "3cdfa6bc-e237-4317-8b20-b91ca73fbbf6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pink de Pink",
+        "url": "https://mangadex.org/title/3cdfa6bc-e237-4317-8b20-b91ca73fbbf6",
+        "image": "https://uploads.mangadex.org/covers/3cdfa6bc-e237-4317-8b20-b91ca73fbbf6/c4fa3497-0e93-44c2-beb2-570f220de8de.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14773,
+        "aniId": 44773,
+        "createdAt": "2020-10-12T16:02:30.000Z",
+        "updatedAt": "2021-06-02T07:15:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pink_de_pink": {
+        "authors": [],
+        "identifier": "pink_de_pink",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Pink De Pink",
+        "url": "https://manganelo.com/manga/pink_de_pink",
+        "image": "https://avt.mkklcdnv6.com/42/z/4-1583471467.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14773,
+        "aniId": 44773,
+        "createdAt": "2020-10-12T16:24:51.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

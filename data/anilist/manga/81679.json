@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "おんがくのじかん",
+    "Music Time"
+  ],
+  "authors": [
+    "Shou Ichikawa"
+  ],
+  "id": 81679,
+  "malId": 51679,
+  "type": "manga",
+  "title": "Ongaku no Jikan",
+  "url": "https://anilist.co/manga/81679",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/51679.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:51.000Z",
+  "updatedAt": "2021-05-20T14:49:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3486d5ba-f1f5-4dc8-b20d-829e215edb89": {
+        "authors": [
+          "Ichikawa Shou"
+        ],
+        "identifier": "3486d5ba-f1f5-4dc8-b20d-829e215edb89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ongaku no Jikan",
+        "url": "https://mangadex.org/title/3486d5ba-f1f5-4dc8-b20d-829e215edb89",
+        "image": "https://uploads.mangadex.org/covers/3486d5ba-f1f5-4dc8-b20d-829e215edb89/257fa731-91c7-428f-9323-479de812e916.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51679,
+        "aniId": 81679,
+        "createdAt": "2020-10-12T16:06:24.000Z",
+        "updatedAt": "2021-06-03T19:24:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

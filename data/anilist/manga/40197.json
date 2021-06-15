@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "男おいどん",
+    "I Am A Man"
+  ],
+  "authors": [
+    "Leiji Matsumoto"
+  ],
+  "id": 40197,
+  "malId": 10197,
+  "type": "manga",
+  "title": "Otoko Oidon",
+  "url": "https://anilist.co/manga/40197",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10197.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f9c891a-9825-4c15-a3d6-5b9673eb2dcd": {
+        "authors": [
+          "MATSUMOTO Leiji"
+        ],
+        "identifier": "4f9c891a-9825-4c15-a3d6-5b9673eb2dcd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otoko Oidon",
+        "url": "https://mangadex.org/title/4f9c891a-9825-4c15-a3d6-5b9673eb2dcd",
+        "image": "https://uploads.mangadex.org/covers/4f9c891a-9825-4c15-a3d6-5b9673eb2dcd/e74ab1eb-862e-463d-bac1-c22d99f46ee6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10197,
+        "aniId": 40197,
+        "createdAt": "2020-10-12T16:06:47.000Z",
+        "updatedAt": "2021-06-03T22:06:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "ヴァーリアの花婿",
+    "Vahlia's Bridegroom",
+    "Ginsekai no Shoumei",
+    "The Snowscape's Emblem",
+    "Otogibanashi no Fude",
+    "Narzeczony Vahlii"
+  ],
+  "authors": [
+    "Sorata Akizuki"
+  ],
+  "id": 55148,
+  "malId": 25148,
+  "type": "manga",
+  "title": "Vahlia no Hanamuko",
+  "url": "https://anilist.co/manga/55148",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55148-Rra64JiF8X69.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90a47b16-5060-4ed5-8e85-dec1c87ca04c": {
+        "authors": [
+          "Akizuki Sorata"
+        ],
+        "identifier": "90a47b16-5060-4ed5-8e85-dec1c87ca04c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vahlia no Hanamuko",
+        "url": "https://mangadex.org/title/90a47b16-5060-4ed5-8e85-dec1c87ca04c",
+        "image": "https://uploads.mangadex.org/covers/90a47b16-5060-4ed5-8e85-dec1c87ca04c/efca86fe-7339-4969-a30f-83dfadeb7266.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25148,
+        "aniId": 55148,
+        "createdAt": "2020-10-12T16:06:37.000Z",
+        "updatedAt": "2021-06-03T20:55:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ginsekai_no_shoumei": {
+        "authors": [],
+        "identifier": "ginsekai_no_shoumei",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ginsekai No Shoumei",
+        "url": "https://manganelo.com/manga/ginsekai_no_shoumei",
+        "image": "https://avt.mkklcdnv6.com/9/s/11-1583484359.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25148,
+        "aniId": 55148,
+        "createdAt": "2020-10-12T16:23:06.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "vahlia_no_hanamuko": {
+        "authors": [],
+        "identifier": "vahlia_no_hanamuko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Vahlia No Hanamuko",
+        "url": "https://manganelo.com/manga/vahlia_no_hanamuko",
+        "image": "https://avt.mkklcdnv6.com/27/g/9-1583481169.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25148,
+        "aniId": 55148,
+        "createdAt": "2020-10-12T16:26:00.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "凤于九天"
+  ],
+  "authors": [
+    "Yi Wang",
+    "Nong Feng"
+  ],
+  "id": 53728,
+  "malId": 23728,
+  "type": "manga",
+  "title": "Feng Yu Jiu Tian",
+  "url": "https://anilist.co/manga/53728",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23728.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:40.000Z",
+  "updatedAt": "2021-05-20T14:46:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c1574cfe-b17f-4e72-a625-416b1bbcfede": {
+        "authors": [
+          "Feng Nong",
+          "Liu Wei",
+          "Wang Yi"
+        ],
+        "identifier": "c1574cfe-b17f-4e72-a625-416b1bbcfede",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Feng Yu Jiu Tian",
+        "url": "https://mangadex.org/title/c1574cfe-b17f-4e72-a625-416b1bbcfede",
+        "image": "https://uploads.mangadex.org/covers/c1574cfe-b17f-4e72-a625-416b1bbcfede/3af68e9a-b4d4-49f8-aaa1-f5e56621795d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23728,
+        "aniId": 53728,
+        "createdAt": "2020-10-12T16:08:37.000Z",
+        "updatedAt": "2021-06-04T11:30:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "feng_yu_jiu_tian": {
+        "authors": [],
+        "identifier": "feng_yu_jiu_tian",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Feng Yu Jiu Tian",
+        "url": "https://manganelo.com/manga/feng_yu_jiu_tian",
+        "image": "https://avt.mkklcdnv6.com/30/r/7-1583477425.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23728,
+        "aniId": 53728,
+        "createdAt": "2020-10-12T16:22:54.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

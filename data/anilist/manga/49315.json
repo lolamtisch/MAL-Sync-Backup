@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "イナズマイレブン",
+    "Inazuma 11"
+  ],
+  "authors": [
+    "Tenya Yabuno",
+    "Edward Kondo"
+  ],
+  "id": 49315,
+  "malId": 19315,
+  "type": "manga",
+  "title": "Inazuma Eleven",
+  "url": "https://anilist.co/manga/49315",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx49315-2AqZShRMXyfx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:18.000Z",
+  "updatedAt": "2021-06-12T21:08:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "af0f31a0-372d-4aa5-a632-f2e2b769ab83": {
+        "authors": [
+          "Level Five",
+          "YABUNO Tenya"
+        ],
+        "identifier": "af0f31a0-372d-4aa5-a632-f2e2b769ab83",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inazuma Eleven",
+        "url": "https://mangadex.org/title/af0f31a0-372d-4aa5-a632-f2e2b769ab83",
+        "image": "https://uploads.mangadex.org/covers/af0f31a0-372d-4aa5-a632-f2e2b769ab83/d3277fc1-5095-4080-9c0f-5c0aa745f879.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19315,
+        "aniId": 49315,
+        "createdAt": "2020-10-12T16:04:37.000Z",
+        "updatedAt": "2021-06-02T22:13:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "inazuma_eleven_heir_of_the_penguins": {
+        "authors": [],
+        "identifier": "inazuma_eleven_heir_of_the_penguins",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Inazuma Eleven ~Heir of the Penguins",
+        "url": "https://manganelo.com/manga/inazuma_eleven_heir_of_the_penguins",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21112-inazuma_eleven_heir_of_the_penguins.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19315,
+        "aniId": 49315,
+        "createdAt": "2020-10-12T16:23:33.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Heaven's Prison",
+    "天獄",
+    "Heaven's Prison"
+  ],
+  "authors": [
+    "Hiroyuki Utatane"
+  ],
+  "id": 33078,
+  "malId": 3078,
+  "type": "manga",
+  "title": "Tengoku",
+  "url": "https://anilist.co/manga/33078",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3078.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:02.000Z",
+  "updatedAt": "2021-05-20T14:38:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "49de0617-6707-40f4-803a-e0c0436dfc80": {
+        "authors": [
+          "Utatane Hiroyuki"
+        ],
+        "identifier": "49de0617-6707-40f4-803a-e0c0436dfc80",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tengoku",
+        "url": "https://mangadex.org/title/49de0617-6707-40f4-803a-e0c0436dfc80",
+        "image": "https://uploads.mangadex.org/covers/49de0617-6707-40f4-803a-e0c0436dfc80/7dd5ff16-4f90-4649-b0d4-af7113f8b58c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3078,
+        "aniId": 33078,
+        "createdAt": "2020-10-12T16:05:02.000Z",
+        "updatedAt": "2021-06-03T09:44:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tengoku": {
+        "authors": [
+          "UTATANE Hiroyuki"
+        ],
+        "identifier": "tengoku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tengoku",
+        "url": "https://mangasee123.com/manga/Tengoku",
+        "image": "https://cover.nep.li/cover/Tengoku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3078,
+        "aniId": 33078,
+        "createdAt": "2020-11-10T16:14:10.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "heavens_prison": {
+        "authors": [
+          "Utatane",
+          "Hiroyuki"
+        ],
+        "identifier": "heavens_prison",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Heaven's Prison",
+        "url": "https://manganelo.com/manga/heavens_prison",
+        "image": "https://avt.mkklcdnv6temp.com/24/b/8-1583479091.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3078,
+        "aniId": 33078,
+        "createdAt": "2021-05-05T01:03:01.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

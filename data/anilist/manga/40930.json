@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ストリートファイター3 RYU FINAL"
+  ],
+  "authors": [
+    "Masahiko Nakahira"
+  ],
+  "id": 40930,
+  "malId": 10930,
+  "type": "manga",
+  "title": "Street Fighter III RYU FINAL",
+  "url": "https://anilist.co/manga/40930",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10930.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T11:19:18.000Z",
+  "updatedAt": "2021-06-05T11:19:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ae8e217a-6a5e-4b9a-923d-4f4b31ef9e90": {
+        "authors": [
+          "Nakahira Masahiko"
+        ],
+        "identifier": "ae8e217a-6a5e-4b9a-923d-4f4b31ef9e90",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Street Fighter III: Ryu Final",
+        "url": "https://mangadex.org/title/ae8e217a-6a5e-4b9a-923d-4f4b31ef9e90",
+        "image": "https://uploads.mangadex.org/covers/ae8e217a-6a5e-4b9a-923d-4f4b31ef9e90/7984ca73-836e-4807-91bc-9e4d7bb90457.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10930,
+        "aniId": 40930,
+        "createdAt": "2020-10-12T16:11:46.000Z",
+        "updatedAt": "2021-06-05T12:43:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

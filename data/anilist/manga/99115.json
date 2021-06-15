@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "球詠"
+  ],
+  "authors": [
+    "Mountain Pukuichi"
+  ],
+  "id": 99115,
+  "malId": 111606,
+  "type": "manga",
+  "title": "Tamayomi",
+  "url": "https://anilist.co/manga/99115",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99115-Zc87eq7dZFQ9.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:48.000Z",
+  "updatedAt": "2021-05-20T14:56:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e156c7f8-5fa9-490b-98a9-a0696f5e7e3b": {
+        "authors": [
+          "Ponpon-O (Cricle)",
+          "Mountain Pukuichi"
+        ],
+        "identifier": "e156c7f8-5fa9-490b-98a9-a0696f5e7e3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tamayomi",
+        "url": "https://mangadex.org/title/e156c7f8-5fa9-490b-98a9-a0696f5e7e3b",
+        "image": "https://uploads.mangadex.org/covers/e156c7f8-5fa9-490b-98a9-a0696f5e7e3b/a871c726-ec13-4590-9de8-79c3b7c8cb6b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111606,
+        "aniId": 99115,
+        "createdAt": "2020-10-12T16:10:57.000Z",
+        "updatedAt": "2021-06-05T04:33:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tamayomi": {
+        "authors": [
+          "Mountain",
+          "Pukuichi"
+        ],
+        "identifier": "tamayomi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tamayomi",
+        "url": "https://manganelo.com/manga/tamayomi",
+        "image": "https://avt.mkklcdnv6.com/44/c/15-1583493246.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111606,
+        "aniId": 99115,
+        "createdAt": "2020-11-19T04:20:40.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

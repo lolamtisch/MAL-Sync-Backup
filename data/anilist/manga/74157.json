@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "出口ゼロ"
+  ],
+  "authors": [
+    "Haruhi Seta"
+  ],
+  "id": 74157,
+  "malId": 44157,
+  "type": "manga",
+  "title": "Deguchi Zero",
+  "url": "https://anilist.co/manga/74157",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx74157-cd50kQZporZf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:00.000Z",
+  "updatedAt": "2021-05-20T14:49:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aca645f3-f3ba-4e80-8ee5-0ad937556172": {
+        "authors": [
+          "SETA Haruhi"
+        ],
+        "identifier": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Deguchi Zero",
+        "url": "https://mangadex.org/title/aca645f3-f3ba-4e80-8ee5-0ad937556172",
+        "image": "https://uploads.mangadex.org/covers/aca645f3-f3ba-4e80-8ee5-0ad937556172/c8d14e00-5d49-4e18-9d9e-2d1e084e610b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44157,
+        "aniId": 74157,
+        "createdAt": "2020-10-12T16:06:25.000Z",
+        "updatedAt": "2021-06-03T19:32:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "deguchi_zero": {
+        "authors": [],
+        "identifier": "deguchi_zero",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Deguchi Zero",
+        "url": "https://manganelo.com/manga/deguchi_zero",
+        "image": "https://avt.mkklcdnv6.com/44/q/7-1583477966.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44157,
+        "aniId": 74157,
+        "createdAt": "2020-10-12T16:22:37.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

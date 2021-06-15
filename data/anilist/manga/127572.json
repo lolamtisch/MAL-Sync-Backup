@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "かんどちゃんには触っちゃダメ！"
+  ],
+  "authors": [
+    "Shiro Inaba"
+  ],
+  "id": 127572,
+  "malId": 136406,
+  "type": "manga",
+  "title": "Kando-chan ni wa Sawaccha dame!",
+  "url": "https://anilist.co/manga/127572",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127572-NjOXllj9SQHQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T06:21:08.000Z",
+  "updatedAt": "2021-06-08T06:21:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86b10a26-920d-43bd-ab1d-bbf4e5cde574": {
+        "authors": [
+          "Inaba Shiro"
+        ],
+        "identifier": "86b10a26-920d-43bd-ab1d-bbf4e5cde574",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Don't Touch Kando-chan!",
+        "url": "https://mangadex.org/title/86b10a26-920d-43bd-ab1d-bbf4e5cde574",
+        "image": "https://uploads.mangadex.org/covers/86b10a26-920d-43bd-ab1d-bbf4e5cde574/7a6ccfde-3573-4dad-95c9-bf036a4e07bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 136406,
+        "aniId": 127572,
+        "createdAt": "2020-10-29T04:42:18.000Z",
+        "updatedAt": "2021-06-08T06:40:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "テイルズ オブ エクシリア SIDE;JUDE"
+  ],
+  "authors": [
+    "Bandai-Namco Entertainment",
+    "Yuuko Satou"
+  ],
+  "id": 66869,
+  "malId": 36869,
+  "type": "manga",
+  "title": "Tales of Xillia: Side;Jude",
+  "url": "https://anilist.co/manga/66869",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66869-OUiiJ2hvqmLA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T13:20:23.000Z",
+  "updatedAt": "2021-06-05T13:20:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f9888579-8596-4f82-bda7-056d98dfd29a": {
+        "authors": [
+          "SATOU Yuuko"
+        ],
+        "identifier": "f9888579-8596-4f82-bda7-056d98dfd29a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of Xillia SIDE;JUDE",
+        "url": "https://mangadex.org/title/f9888579-8596-4f82-bda7-056d98dfd29a",
+        "image": "https://uploads.mangadex.org/covers/f9888579-8596-4f82-bda7-056d98dfd29a/2ea60a73-959d-4a75-b6d4-6f751ab7a80b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 36869,
+        "aniId": 66869,
+        "createdAt": "2020-10-12T16:12:02.000Z",
+        "updatedAt": "2021-06-05T14:09:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

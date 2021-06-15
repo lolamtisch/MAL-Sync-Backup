@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Gokko Asobi",
+    "SMごっこ"
+  ],
+  "authors": [
+    "Mitsui, Tsubaki"
+  ],
+  "id": 111059,
+  "type": "manga",
+  "title": "SM Gokko",
+  "url": "https://myanimelist.net/manga/111059/SM_Gokko",
+  "image": "https://cdn.myanimelist.net/images/manga/1/221693.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-03-07T08:03:06.000Z",
+  "updatedAt": "2021-06-05T06:49:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1175206e-0761-4038-a13c-973928c9e80f": {
+        "authors": [
+          "Mitsui Tsubaki"
+        ],
+        "identifier": "1175206e-0761-4038-a13c-973928c9e80f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "SM Gokko",
+        "url": "https://mangadex.org/title/1175206e-0761-4038-a13c-973928c9e80f",
+        "image": "https://uploads.mangadex.org/covers/1175206e-0761-4038-a13c-973928c9e80f/2b3ea061-bf5a-45b7-92be-9ea6f1b42a92.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111059,
+        "aniId": 101558,
+        "createdAt": "2020-10-12T16:11:14.000Z",
+        "updatedAt": "2021-06-05T08:39:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sm_gokko": {
+        "authors": [
+          "Mitsui",
+          "Tsubaki"
+        ],
+        "identifier": "sm_gokko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sm Gokko",
+        "url": "https://manganelo.com/manga/sm_gokko",
+        "image": "https://avt.mkklcdnv6temp.com/48/q/15-1583493414.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111059,
+        "aniId": 101558,
+        "createdAt": "2021-03-07T08:03:06.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "セイシュンノート",
+    "Youth Note",
+    "Lovely Notes"
+  ],
+  "authors": [
+    "Umi Ayase"
+  ],
+  "id": 85861,
+  "malId": 85247,
+  "type": "manga",
+  "title": "Seishun Note",
+  "url": "https://anilist.co/manga/85861",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85861-fSJ4CBklir1O.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:36.000Z",
+  "updatedAt": "2021-05-20T14:52:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "abacf0b6-ec01-408f-aa66-7e73aa0f0268": {
+        "authors": [
+          "Ayase Umi"
+        ],
+        "identifier": "abacf0b6-ec01-408f-aa66-7e73aa0f0268",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seishun Note",
+        "url": "https://mangadex.org/title/abacf0b6-ec01-408f-aa66-7e73aa0f0268",
+        "image": "https://uploads.mangadex.org/covers/abacf0b6-ec01-408f-aa66-7e73aa0f0268/de6a856d-983e-49b2-b406-79c57909b583.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85247,
+        "aniId": 85861,
+        "createdAt": "2020-10-12T16:08:23.000Z",
+        "updatedAt": "2021-06-04T09:43:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

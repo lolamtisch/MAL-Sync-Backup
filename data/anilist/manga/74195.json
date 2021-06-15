@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "＆ドロップアウト"
+  ],
+  "authors": [
+    "TOmoe"
+  ],
+  "id": 74195,
+  "malId": 44195,
+  "type": "manga",
+  "title": "&Dropout",
+  "url": "https://anilist.co/manga/74195",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/44195.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:00.000Z",
+  "updatedAt": "2021-05-20T14:49:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c4e3cfc0-f682-4e49-a79d-ce1b542dacb1": {
+        "authors": [
+          "TOmoe"
+        ],
+        "identifier": "c4e3cfc0-f682-4e49-a79d-ce1b542dacb1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "& Dropout",
+        "url": "https://mangadex.org/title/c4e3cfc0-f682-4e49-a79d-ce1b542dacb1",
+        "image": "https://uploads.mangadex.org/covers/c4e3cfc0-f682-4e49-a79d-ce1b542dacb1/5b4e2129-c78d-4266-8301-11a47cae832a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44195,
+        "aniId": 74195,
+        "createdAt": "2020-10-12T16:21:17.000Z",
+        "updatedAt": "2021-06-08T01:59:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "_dropout": {
+        "authors": [],
+        "identifier": "_dropout",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "& Dropout",
+        "url": "https://manganelo.com/manga/_dropout",
+        "image": "https://avt.mkklcdnv6.com/19/p/5-1583472609.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44195,
+        "aniId": 74195,
+        "createdAt": "2020-10-12T16:21:58.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

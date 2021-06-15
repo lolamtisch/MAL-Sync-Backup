@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "アオのハコ",
+    "Blue Box",
+    "青色之箱"
+  ],
+  "authors": [
+    "Kouji Miura"
+  ],
+  "id": 122342,
+  "malId": 128694,
+  "type": "manga",
+  "title": "Ao no Hako",
+  "url": "https://anilist.co/manga/122342",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122342-50btLRhAOhsk.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:21:59.000Z",
+  "updatedAt": "2021-06-08T01:21:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e0511fc5-c114-4447-824e-96cb3db37078": {
+        "authors": [
+          "Kouji Miura"
+        ],
+        "identifier": "e0511fc5-c114-4447-824e-96cb3db37078",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ao no Hako",
+        "url": "https://mangadex.org/title/e0511fc5-c114-4447-824e-96cb3db37078",
+        "image": "https://uploads.mangadex.org/covers/e0511fc5-c114-4447-824e-96cb3db37078/ecff763c-302d-4e80-81ad-8afbdd43aa3e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128694,
+        "aniId": 122342,
+        "createdAt": "2020-10-12T16:20:56.000Z",
+        "updatedAt": "2021-06-08T01:39:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "普通の夜",
+    "A Normal Night"
+  ],
+  "authors": [],
+  "id": 95844,
+  "malId": 92402,
+  "type": "manga",
+  "title": "Futsuu no Yoru",
+  "url": "https://anilist.co/manga/95844",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95844-Q8iNGrbsc002.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:38.000Z",
+  "updatedAt": "2021-05-20T14:53:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "499c597c-2ba6-421b-9900-82d60435b518": {
+        "authors": [
+          "IZUMI Masayuki"
+        ],
+        "identifier": "499c597c-2ba6-421b-9900-82d60435b518",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Normal Night",
+        "url": "https://mangadex.org/title/499c597c-2ba6-421b-9900-82d60435b518",
+        "image": "https://uploads.mangadex.org/covers/499c597c-2ba6-421b-9900-82d60435b518/9b2d8325-8360-422f-bbe3-44db9aef3e9a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92402,
+        "aniId": 95844,
+        "createdAt": "2020-10-12T16:08:44.000Z",
+        "updatedAt": "2021-06-04T12:20:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

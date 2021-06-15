@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ばけむこ"
+  ],
+  "authors": [
+    "Hatsu Edaya"
+  ],
+  "id": 104696,
+  "malId": 120852,
+  "type": "manga",
+  "title": "Bakemuko",
+  "url": "https://anilist.co/manga/104696",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104696-WcwZ1huxQUlI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:18.000Z",
+  "updatedAt": "2021-05-20T14:58:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8278149b-8fc6-4314-b7c1-6cb3a4ba3c87": {
+        "authors": [
+          "EDAYA Hatsu"
+        ],
+        "identifier": "8278149b-8fc6-4314-b7c1-6cb3a4ba3c87",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bakemuko",
+        "url": "https://mangadex.org/title/8278149b-8fc6-4314-b7c1-6cb3a4ba3c87",
+        "image": "https://uploads.mangadex.org/covers/8278149b-8fc6-4314-b7c1-6cb3a4ba3c87/84d9f426-294f-4a99-a75c-26f77b46824d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120852,
+        "aniId": 104696,
+        "createdAt": "2020-10-12T16:19:45.000Z",
+        "updatedAt": "2021-06-07T22:33:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

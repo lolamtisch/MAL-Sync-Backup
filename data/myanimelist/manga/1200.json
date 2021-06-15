@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Dash!",
+    "Cheeky",
+    "ダッシュ!"
+  ],
+  "authors": [
+    "Natsume, Isaku"
+  ],
+  "id": 1200,
+  "type": "manga",
+  "title": "Dash!",
+  "url": "https://myanimelist.net/manga/1200/Dash",
+  "image": "https://cdn.myanimelist.net/images/manga/1/5904.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:31.000Z",
+  "updatedAt": "2021-06-05T19:19:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d5d24f90-926b-4d68-bc00-3535c0a6e871": {
+        "authors": [
+          "Natsume Isaku"
+        ],
+        "identifier": "d5d24f90-926b-4d68-bc00-3535c0a6e871",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dash!",
+        "url": "https://mangadex.org/title/d5d24f90-926b-4d68-bc00-3535c0a6e871",
+        "image": "https://uploads.mangadex.org/covers/d5d24f90-926b-4d68-bc00-3535c0a6e871/ca19cfb1-c202-4788-9772-b0ab32149e5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1200,
+        "aniId": 31200,
+        "createdAt": "2020-10-12T16:13:07.000Z",
+        "updatedAt": "2021-06-05T20:21:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dash__spin_chousoku_sonic": {
+        "authors": [],
+        "identifier": "dash__spin_chousoku_sonic",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dash & Spin Chousoku Sonic",
+        "url": "https://manganelo.com/manga/dash__spin_chousoku_sonic",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2055-dash_spin_chousoku_sonic.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1200,
+        "aniId": 31200,
+        "createdAt": "2020-10-12T16:22:35.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

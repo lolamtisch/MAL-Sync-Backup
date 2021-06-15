@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "LOVE-もっと愛して-",
+    "Bust Complex",
+    "Second Chance"
+  ],
+  "authors": [
+    "Rika Oouchi"
+  ],
+  "id": 41001,
+  "malId": 11001,
+  "type": "manga",
+  "title": "Love -Motto Aishite-",
+  "url": "https://anilist.co/manga/41001",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11001.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce7e0b98-5429-4447-aa0d-1691769e6b30": {
+        "authors": [
+          "Ouchi Rika"
+        ],
+        "identifier": "ce7e0b98-5429-4447-aa0d-1691769e6b30",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love - Motto Aishite",
+        "url": "https://mangadex.org/title/ce7e0b98-5429-4447-aa0d-1691769e6b30",
+        "image": "https://uploads.mangadex.org/covers/ce7e0b98-5429-4447-aa0d-1691769e6b30/2143c9cb-c5fb-4b5b-b31f-e023300957cf.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11001,
+        "aniId": 41001,
+        "createdAt": "2020-10-12T16:04:10.000Z",
+        "updatedAt": "2021-06-02T19:14:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

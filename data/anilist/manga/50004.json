@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Heart Induced Passion",
+    "エキサイト・上等",
+    "Excite LOVE Joutou",
+    "Ekisaito Joutou",
+    "Ekisaito Love Joutou"
+  ],
+  "authors": [
+    "Kaede Ibuki"
+  ],
+  "id": 50004,
+  "malId": 20004,
+  "type": "manga",
+  "title": "Excite Joutou!",
+  "url": "https://anilist.co/manga/50004",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20004.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d007fbea-a0f7-42ef-98b0-70ceb3ae441a": {
+        "authors": [
+          "Ibuki Kaede"
+        ],
+        "identifier": "d007fbea-a0f7-42ef-98b0-70ceb3ae441a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Excite Love Joutou!",
+        "url": "https://mangadex.org/title/d007fbea-a0f7-42ef-98b0-70ceb3ae441a",
+        "image": "https://uploads.mangadex.org/covers/d007fbea-a0f7-42ef-98b0-70ceb3ae441a/f96ea59c-283c-4091-8831-2570a1f19d1f.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20004,
+        "aniId": 50004,
+        "createdAt": "2020-10-12T16:09:15.000Z",
+        "updatedAt": "2021-06-04T16:19:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

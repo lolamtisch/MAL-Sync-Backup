@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "ファミリア"
+  ],
+  "authors": [
+    "Ootsuki, Miu"
+  ],
+  "id": 30903,
+  "type": "manga",
+  "title": "Familiar",
+  "url": "https://myanimelist.net/manga/30903/Familiar",
+  "image": "https://cdn.myanimelist.net/images/manga/1/55525.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:42.000Z",
+  "updatedAt": "2021-05-31T12:54:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1223fb01-8307-4011-8ee0-f4e23d68c318": {
+        "authors": [
+          "Ootsuki Miu"
+        ],
+        "identifier": "1223fb01-8307-4011-8ee0-f4e23d68c318",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Familiar",
+        "url": "https://mangadex.org/title/1223fb01-8307-4011-8ee0-f4e23d68c318",
+        "image": "https://uploads.mangadex.org/covers/1223fb01-8307-4011-8ee0-f4e23d68c318/ebca994c-17aa-4605-a01b-1d52bc40f575.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30903,
+        "aniId": 60903,
+        "createdAt": "2020-10-12T16:06:52.000Z",
+        "updatedAt": "2021-06-03T22:39:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

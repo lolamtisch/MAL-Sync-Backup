@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Eden"
+  ],
+  "authors": [
+    "Yukiru Sugisaki",
+    "Yuu Kagami"
+  ],
+  "id": 43574,
+  "malId": 13574,
+  "type": "manga",
+  "title": "Eden",
+  "url": "https://anilist.co/manga/43574",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13574.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-05-20T14:42:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc0d97d7-1ad0-4922-8442-267f5d425505": {
+        "authors": [
+          "Sugisaki Yukiru",
+          "Okada Shunpei"
+        ],
+        "identifier": "cc0d97d7-1ad0-4922-8442-267f5d425505",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eden (SUGISAKI Yukiru)",
+        "url": "https://mangadex.org/title/cc0d97d7-1ad0-4922-8442-267f5d425505",
+        "image": "https://uploads.mangadex.org/covers/cc0d97d7-1ad0-4922-8442-267f5d425505/52bdac73-f20f-4d65-96f5-faff19023749.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13574,
+        "aniId": 43574,
+        "createdAt": "2020-10-12T16:03:59.000Z",
+        "updatedAt": "2021-06-02T17:52:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

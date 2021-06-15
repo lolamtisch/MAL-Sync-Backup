@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "MeltyMoment -メルティモーメント-",
+    "Melty Moment "
+  ],
+  "authors": [
+    "Tomekichi",
+    "Hooksoft"
+  ],
+  "id": 85466,
+  "malId": 70547,
+  "type": "manga",
+  "title": "MeltyMoment",
+  "url": "https://anilist.co/manga/85466",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85466-qHwqxoTwyFIK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:31.000Z",
+  "updatedAt": "2021-05-20T14:51:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "75d1875c-4a6e-411c-944d-cf0e154439f3": {
+        "authors": [
+          "HOOKSOFT",
+          "Tomekichi"
+        ],
+        "identifier": "75d1875c-4a6e-411c-944d-cf0e154439f3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Melty Moment",
+        "url": "https://mangadex.org/title/75d1875c-4a6e-411c-944d-cf0e154439f3",
+        "image": "https://uploads.mangadex.org/covers/75d1875c-4a6e-411c-944d-cf0e154439f3/6af182c9-bce7-4d64-85f3-e5b5e04a39e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70547,
+        "aniId": 85466,
+        "createdAt": "2020-10-12T16:07:32.000Z",
+        "updatedAt": "2021-06-04T03:30:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "melty_moment": {
+        "authors": [
+          "Hooksoft"
+        ],
+        "identifier": "melty_moment",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Melty Moment",
+        "url": "https://fanfox.net/manga/melty_moment/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13893/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70547,
+        "aniId": 85466,
+        "createdAt": "2021-02-09T08:15:28.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

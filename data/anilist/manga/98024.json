@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ひより下駄"
+  ],
+  "authors": [
+    "Yutaka Hiiragi"
+  ],
+  "id": 98024,
+  "malId": 81441,
+  "type": "manga",
+  "title": "Hiyorigeta",
+  "url": "https://anilist.co/manga/98024",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/98024-dMrS1zdcFpxA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:02.000Z",
+  "updatedAt": "2021-05-20T14:52:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0c66cb3d-5220-41e0-9be4-25bf4ebfc9f7": {
+        "authors": [
+          "Daily Bridge (Circle)",
+          "Hiiragi Yutaka"
+        ],
+        "identifier": "0c66cb3d-5220-41e0-9be4-25bf4ebfc9f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hiyorigeta",
+        "url": "https://mangadex.org/title/0c66cb3d-5220-41e0-9be4-25bf4ebfc9f7",
+        "image": "https://uploads.mangadex.org/covers/0c66cb3d-5220-41e0-9be4-25bf4ebfc9f7/8fc0713d-a373-4a74-b50e-89861018d51c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81441,
+        "aniId": 98024,
+        "createdAt": "2020-10-12T16:08:33.000Z",
+        "updatedAt": "2021-06-04T11:00:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

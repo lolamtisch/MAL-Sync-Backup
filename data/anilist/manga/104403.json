@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "かいじゅう色の島",
+    "Kaiju Island",
+    "Monster-Colored Island"
+  ],
+  "authors": [
+    "Mitsuru Hattori"
+  ],
+  "id": 104403,
+  "malId": 116210,
+  "type": "manga",
+  "title": "Kaijuu Iro no Shima",
+  "url": "https://anilist.co/manga/104403",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104403-ICScsUxSCEiL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:23.000Z",
+  "updatedAt": "2021-05-20T14:57:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c014afcd-ec06-4d97-8a9e-c6f3ef9be950": {
+        "authors": [
+          "Hattori Mitsuru"
+        ],
+        "identifier": "c014afcd-ec06-4d97-8a9e-c6f3ef9be950",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaijuu Iro no Shima",
+        "url": "https://mangadex.org/title/c014afcd-ec06-4d97-8a9e-c6f3ef9be950",
+        "image": "https://uploads.mangadex.org/covers/c014afcd-ec06-4d97-8a9e-c6f3ef9be950/c30428f5-4127-4942-bc10-fa13b9e5c5fa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116210,
+        "aniId": 104403,
+        "createdAt": "2020-10-12T16:13:59.000Z",
+        "updatedAt": "2021-06-06T01:34:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kaijuu_iro_no_shima": {
+        "authors": [],
+        "identifier": "kaijuu_iro_no_shima",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kaijuu Iro no Shima",
+        "url": "https://manganelo.com/manga/kaijuu_iro_no_shima",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21042-kaijuu_iro_no_shima.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116210,
+        "aniId": 104403,
+        "createdAt": "2020-10-12T16:23:48.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kaijuu_iro_no_shima": {
+        "authors": [
+          "HATTORI Mitsuru"
+        ],
+        "identifier": "kaijuu_iro_no_shima",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kaijuu-iro no Shima",
+        "url": "https://fanfox.net/manga/kaijuu_iro_no_shima/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28703/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116210,
+        "aniId": 104403,
+        "createdAt": "2020-12-24T08:57:31.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "EX-VITA"
+  ],
+  "authors": [
+    "Shinya Komi",
+    "HiRock"
+  ],
+  "id": 76600,
+  "malId": 46600,
+  "type": "manga",
+  "title": "EX-VITA",
+  "url": "https://anilist.co/manga/76600",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46600.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:30.000Z",
+  "updatedAt": "2021-05-20T14:49:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ca211e7-9078-42ee-a888-db07b32f0b0f": {
+        "authors": [
+          "Komi Shinya"
+        ],
+        "identifier": "4ca211e7-9078-42ee-a888-db07b32f0b0f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "EX-VITA",
+        "url": "https://mangadex.org/title/4ca211e7-9078-42ee-a888-db07b32f0b0f",
+        "image": "https://uploads.mangadex.org/covers/4ca211e7-9078-42ee-a888-db07b32f0b0f/4d7bd51e-d8bf-4980-be46-30271b7494fe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46600,
+        "aniId": 76600,
+        "createdAt": "2020-10-12T16:18:15.000Z",
+        "updatedAt": "2021-06-07T15:19:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

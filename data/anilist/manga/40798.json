@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "三つ目がとおる",
+    "L'enfant Aux Trois Yeux",
+    "The Three-Eyed One"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 40798,
+  "malId": 10798,
+  "type": "manga",
+  "title": "Mitsume ga Tooru",
+  "url": "https://anilist.co/manga/40798",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b40798-PqPOdiQ6PBYU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T15:49:18.000Z",
+  "updatedAt": "2021-06-05T15:49:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e769e80-6c2c-4b3a-8149-839114b54f09": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "1e769e80-6c2c-4b3a-8149-839114b54f09",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Three Eyed One",
+        "url": "https://mangadex.org/title/1e769e80-6c2c-4b3a-8149-839114b54f09",
+        "image": "https://uploads.mangadex.org/covers/1e769e80-6c2c-4b3a-8149-839114b54f09/26534fd0-7d93-4274-9314-01a5adedbf36.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10798,
+        "aniId": 40798,
+        "createdAt": "2020-10-12T16:12:34.000Z",
+        "updatedAt": "2021-06-05T16:10:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

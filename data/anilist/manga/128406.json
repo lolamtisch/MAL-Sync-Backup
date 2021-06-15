@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ガールクラッシュ"
+  ],
+  "authors": [
+    "Midori Tayama"
+  ],
+  "id": 128406,
+  "malId": null,
+  "type": "manga",
+  "title": "Girl Crush",
+  "url": "https://anilist.co/manga/128406",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128406-CoM1eJXdBCqV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-27T22:58:44.000Z",
+  "updatedAt": "2021-05-27T22:58:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0fb8ef3e-794a-4bdd-9d3c-6566d63a785b": {
+        "authors": [
+          "Tayama Midori"
+        ],
+        "identifier": "0fb8ef3e-794a-4bdd-9d3c-6566d63a785b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girl Crush",
+        "url": "https://mangadex.org/title/0fb8ef3e-794a-4bdd-9d3c-6566d63a785b",
+        "image": "https://uploads.mangadex.org/covers/0fb8ef3e-794a-4bdd-9d3c-6566d63a785b/7b82b896-b1b6-41b7-9b08-f8443d983aa3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 128406,
+        "createdAt": "2021-01-10T07:52:13.000Z",
+        "updatedAt": "2021-06-08T10:43:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

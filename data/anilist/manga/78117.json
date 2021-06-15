@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "ストロボスコープ",
+    "Chain Gang",
+    "Devil's Thoroughbred",
+    "Strobo Scope",
+    "Good Morning, Bad Day"
+  ],
+  "authors": [
+    "Tomoko Yamashita"
+  ],
+  "id": 78117,
+  "malId": 48117,
+  "type": "manga",
+  "title": "Stroboscope",
+  "url": "https://anilist.co/manga/78117",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78117-THQ5NcKyKw8o.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:37.000Z",
+  "updatedAt": "2021-06-04T02:49:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "944d89ce-55ba-47fe-aa28-b0d8cb32a17d": {
+        "authors": [
+          "Yamashita Tomoko"
+        ],
+        "identifier": "944d89ce-55ba-47fe-aa28-b0d8cb32a17d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Stroboscope",
+        "url": "https://mangadex.org/title/944d89ce-55ba-47fe-aa28-b0d8cb32a17d",
+        "image": "https://uploads.mangadex.org/covers/944d89ce-55ba-47fe-aa28-b0d8cb32a17d/745c4d83-cab0-4a64-84f3-661288af188d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48117,
+        "aniId": 78117,
+        "createdAt": "2020-10-12T16:07:24.000Z",
+        "updatedAt": "2021-06-04T08:47:43.000Z",
+        "deletedAt": null
+      },
+      "ae583e18-37f0-4836-84f7-8972d838bcc1": {
+        "authors": [
+          "ZOYANG"
+        ],
+        "identifier": "ae583e18-37f0-4836-84f7-8972d838bcc1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "No scope",
+        "url": "https://mangadex.org/title/ae583e18-37f0-4836-84f7-8972d838bcc1",
+        "image": "https://uploads.mangadex.org/covers/ae583e18-37f0-4836-84f7-8972d838bcc1/48952a6d-4718-4d77-9822-bcb840df00ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48117,
+        "aniId": 78117,
+        "createdAt": "2020-10-12T16:19:03.000Z",
+        "updatedAt": "2021-06-07T21:07:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

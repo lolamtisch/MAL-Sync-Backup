@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "君香シャーレ",
+    "Elementare Gefühle"
+  ],
+  "authors": [
+    "Nikke Taino"
+  ],
+  "id": 99492,
+  "malId": 102574,
+  "type": "manga",
+  "title": "Kunkou Schale",
+  "url": "https://anilist.co/manga/99492",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99492-JT0e4u9KnWNF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:59.000Z",
+  "updatedAt": "2021-05-20T14:54:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80c9d369-595d-4faa-9d2b-eab2146d367a": {
+        "authors": [
+          "Taino Nikke"
+        ],
+        "identifier": "80c9d369-595d-4faa-9d2b-eab2146d367a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kunkou Schale",
+        "url": "https://mangadex.org/title/80c9d369-595d-4faa-9d2b-eab2146d367a",
+        "image": "https://uploads.mangadex.org/covers/80c9d369-595d-4faa-9d2b-eab2146d367a/fc8961c6-32de-4954-b8ce-3f6fb26e7ffb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102574,
+        "aniId": 99492,
+        "createdAt": "2020-10-12T16:11:05.000Z",
+        "updatedAt": "2021-06-05T05:35:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kunkou_schale": {
+        "authors": [
+          "TAINO Nikke"
+        ],
+        "identifier": "kunkou_schale",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kunkou Schale",
+        "url": "https://fanfox.net/manga/kunkou_schale/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26649/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102574,
+        "aniId": 99492,
+        "createdAt": "2021-05-24T03:38:28.000Z",
+        "updatedAt": "2021-05-24T04:08:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

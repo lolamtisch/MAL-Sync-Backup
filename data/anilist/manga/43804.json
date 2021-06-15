@@ -1,0 +1,53 @@
+{
+  "altTitle": [
+    "セツナイコイ"
+  ],
+  "authors": [
+    "Kanae Hazuki",
+    "Sakura Fujisue",
+    "Kumiko Saiki",
+    "Nanako Matsumoto",
+    "Ibuki Haneda",
+    "Tomoko Noguchi"
+  ],
+  "id": 43804,
+  "malId": 13804,
+  "type": "manga",
+  "title": "Setsunai Koi",
+  "url": "https://anilist.co/manga/43804",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13804.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:38.000Z",
+  "updatedAt": "2021-05-20T14:42:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "89677ca6-a8a2-4be1-aba2-b716063f5c96": {
+        "authors": [
+          "Tomoko Noguchi",
+          "Kumiko Saiki",
+          "Haneda Ibuki",
+          "Hazuki Kanae",
+          "Matsumoto Nanako",
+          "Fujisue Sakura"
+        ],
+        "identifier": "89677ca6-a8a2-4be1-aba2-b716063f5c96",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Setsunai Koi",
+        "url": "https://mangadex.org/title/89677ca6-a8a2-4be1-aba2-b716063f5c96",
+        "image": "https://uploads.mangadex.org/covers/89677ca6-a8a2-4be1-aba2-b716063f5c96/227d3b4f-283e-45c5-94ef-93271f0557c1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13804,
+        "aniId": 43804,
+        "createdAt": "2020-10-12T16:04:46.000Z",
+        "updatedAt": "2021-06-02T23:17:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

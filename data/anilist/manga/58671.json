@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "赤い鳩〈アピル〉",
+    "Akai Hato Apiru",
+    "赤い鳩アピル"
+  ],
+  "authors": [
+    "Ryoichi Ikegami",
+    "Kazuo Koike"
+  ],
+  "id": 58671,
+  "malId": 28671,
+  "type": "manga",
+  "title": "Akai Hato",
+  "url": "https://anilist.co/manga/58671",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx58671-46E9JidmtT1Y.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:32.000Z",
+  "updatedAt": "2021-05-20T14:47:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9aeedca4-bc3d-4c25-93b3-df100ba08b84": {
+        "authors": [
+          "Ikegami Ryoichi",
+          "Koike Kazuo"
+        ],
+        "identifier": "9aeedca4-bc3d-4c25-93b3-df100ba08b84",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Apiru",
+        "url": "https://mangadex.org/title/9aeedca4-bc3d-4c25-93b3-df100ba08b84",
+        "image": "https://uploads.mangadex.org/covers/9aeedca4-bc3d-4c25-93b3-df100ba08b84/119f759e-ecec-432d-8697-6dc52b0cf1f8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28671,
+        "aniId": 58671,
+        "createdAt": "2020-10-12T16:15:45.000Z",
+        "updatedAt": "2021-06-06T16:33:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

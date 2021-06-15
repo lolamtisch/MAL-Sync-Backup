@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "お願い、せんせい",
+    "Please, Teacher",
+    "Amai Namida wa Koi no Aji",
+    "Sweet Tear is the Flavor of Love",
+    "Altair no Koibumi",
+    "Altair's Love Letter",
+    "Nemuri no Kuni no Shounen",
+    "The Boy from the Sleeping Country"
+  ],
+  "authors": [
+    "Taamo"
+  ],
+  "id": 39625,
+  "malId": 9625,
+  "type": "manga",
+  "title": "Onegai, Sensei",
+  "url": "https://anilist.co/manga/39625",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39625-Kj2QVHd29SWy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:58.000Z",
+  "updatedAt": "2021-05-20T14:40:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc7dec5e-2e8b-415d-9327-87ba7c50f525": {
+        "authors": [
+          "Taamo"
+        ],
+        "identifier": "cc7dec5e-2e8b-415d-9327-87ba7c50f525",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onegai, Sensei",
+        "url": "https://mangadex.org/title/cc7dec5e-2e8b-415d-9327-87ba7c50f525",
+        "image": "https://uploads.mangadex.org/covers/cc7dec5e-2e8b-415d-9327-87ba7c50f525/1d100185-07fc-43cd-9c8a-c1d3a68385eb.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9625,
+        "aniId": 39625,
+        "createdAt": "2020-10-12T16:03:51.000Z",
+        "updatedAt": "2021-06-02T16:54:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "onegai_sensei": {
+        "authors": [],
+        "identifier": "onegai_sensei",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Onegai, Sensei",
+        "url": "https://manganelo.com/manga/onegai_sensei",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/12484-onegai_sensei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9625,
+        "aniId": 39625,
+        "createdAt": "2020-10-12T16:24:42.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "クレイジーLOVEゲーム",
+    "Tsukinami Rose",
+    "Princess Ship"
+  ],
+  "authors": [
+    "Kana Nanajima"
+  ],
+  "id": 43559,
+  "malId": 13559,
+  "type": "manga",
+  "title": "Crazy Love Game",
+  "url": "https://anilist.co/manga/43559",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13559.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:35.000Z",
+  "updatedAt": "2021-05-20T14:42:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2554df5-2907-4ba7-9a24-d65db1141f37": {
+        "authors": [
+          "NANAJIMA Kana"
+        ],
+        "identifier": "e2554df5-2907-4ba7-9a24-d65db1141f37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crazy Love Game",
+        "url": "https://mangadex.org/title/e2554df5-2907-4ba7-9a24-d65db1141f37",
+        "image": "https://uploads.mangadex.org/covers/e2554df5-2907-4ba7-9a24-d65db1141f37/57ccb4ae-04a4-4a94-9b5d-a7edf64f0d14.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13559,
+        "aniId": 43559,
+        "createdAt": "2020-10-12T16:06:30.000Z",
+        "updatedAt": "2021-06-03T20:05:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dw921474": {
+        "authors": [],
+        "identifier": "dw921474",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love Game",
+        "url": "https://manganelo.com/manga/dw921474",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2875-dw921474.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13559,
+        "aniId": 43559,
+        "createdAt": "2020-10-12T16:22:45.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "A Law of Love"
+  ],
+  "authors": [
+    "Asami Tohjoh"
+  ],
+  "id": 32096,
+  "malId": 2096,
+  "type": "manga",
+  "title": "Koi no Okite",
+  "url": "https://anilist.co/manga/32096",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2096.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ff83fe0-45ff-4dc5-b932-ee0fe2de8874": {
+        "authors": [
+          "Tohjoh Asami"
+        ],
+        "identifier": "4ff83fe0-45ff-4dc5-b932-ee0fe2de8874",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi no Okite",
+        "url": "https://mangadex.org/title/4ff83fe0-45ff-4dc5-b932-ee0fe2de8874",
+        "image": "https://uploads.mangadex.org/covers/4ff83fe0-45ff-4dc5-b932-ee0fe2de8874/a98daefe-d0c3-40cc-a56a-cfc01c9aff52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2096,
+        "aniId": 32096,
+        "createdAt": "2020-10-12T16:15:30.000Z",
+        "updatedAt": "2021-06-06T14:12:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

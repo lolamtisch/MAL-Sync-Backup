@@ -1,0 +1,110 @@
+{
+  "altTitle": [
+    "HERO MASK part II",
+    "HERO MASK part II"
+  ],
+  "id": 110686,
+  "malId": 40154,
+  "type": "anime",
+  "title": "HERO MASK part II",
+  "url": "https://anilist.co/anime/110686",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110686-TYgBN21PMjNK.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:56.000Z",
+  "updatedAt": "2021-05-20T14:45:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "3mk9": {
+        "identifier": "3mk9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hero Mask (2019) (Dub)",
+        "url": "https://9anime.ru/watch/hero-mask-2019-dub.3mk9",
+        "image": "https://static.akacdn.ru/files/images/2019/08/84a6b7557cf0ec8debe7129a6ae3bf0b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "createdAt": "2020-10-12T15:49:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "xylw": {
+        "identifier": "xylw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hero Mask (2019)",
+        "url": "https://9anime.ru/watch/hero-mask-2019.xylw",
+        "image": "https://static.akacdn.ru/files/images/2019/08/0a0da03a7ace9e0b3f3d3a4a246f94f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "createdAt": "2020-10-12T15:56:34.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "1685": {
+        "identifier": "1685",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Hero Mask (2019)",
+        "url": "https://aniwatch.me/anime/1685",
+        "image": "https://img.aniwatch.me/E9C24365269A9761E10C4F10622EF30C",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "createdAt": "2020-10-12T15:58:03.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hero-mask-2019": {
+        "identifier": "hero-mask-2019",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hero Mask (2019)",
+        "url": "https://www9.gogoanime.io/category/hero-mask-2019",
+        "image": "https://cdnimg.xyz/cover/hero-mask-2019.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "hero-mask-2019-dub": {
+        "identifier": "hero-mask-2019-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hero Mask (2019) (Dub)",
+        "url": "https://www9.gogoanime.io/category/hero-mask-2019-dub",
+        "image": "https://cdnimg.xyz/cover/hero-mask-2019-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40154,
+        "aniId": 110686,
+        "createdAt": "2020-10-12T16:00:42.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

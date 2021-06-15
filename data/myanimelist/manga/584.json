@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "Future Diary",
+    "未来日記"
+  ],
+  "authors": [
+    "Esuno, Sakae"
+  ],
+  "id": 584,
+  "type": "manga",
+  "title": "Mirai Nikki",
+  "url": "https://myanimelist.net/manga/584/Mirai_Nikki",
+  "image": "https://cdn.myanimelist.net/images/manga/5/16174.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:23.000Z",
+  "updatedAt": "2021-05-18T08:01:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7bcdff73-7d1a-4c88-8501-58b027e1632c": {
+        "authors": [
+          "Esuno Sakae"
+        ],
+        "identifier": "7bcdff73-7d1a-4c88-8501-58b027e1632c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mirai Nikki",
+        "url": "https://mangadex.org/title/7bcdff73-7d1a-4c88-8501-58b027e1632c",
+        "image": "https://uploads.mangadex.org/covers/7bcdff73-7d1a-4c88-8501-58b027e1632c/5e7b52cc-6824-4b41-8a78-77a1bbcede7b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 584,
+        "aniId": 30584,
+        "createdAt": "2020-10-12T16:02:37.000Z",
+        "updatedAt": "2021-06-02T08:19:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mirai_nikki": {
+        "authors": [],
+        "identifier": "mirai_nikki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mirai Nikki",
+        "url": "https://manganelo.com/manga/mirai_nikki",
+        "image": "https://avt.mkklcdnv6.com/37/x/10-1583483542.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 584,
+        "aniId": 30584,
+        "createdAt": "2020-10-12T16:24:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mirai-nikki": {
+        "authors": [
+          "ESUNO Sakae"
+        ],
+        "identifier": "mirai-nikki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mirai Nikki",
+        "url": "https://mangasee123.com/manga/Mirai-Nikki",
+        "image": "https://cover.nep.li/cover/Mirai-Nikki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 584,
+        "aniId": 30584,
+        "createdAt": "2021-02-02T13:31:46.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mirai_nikki": {
+        "authors": [
+          "ESUNO Sakae"
+        ],
+        "identifier": "mirai_nikki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mirai Nikki",
+        "url": "https://fanfox.net/manga/mirai_nikki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/386/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 584,
+        "aniId": 30584,
+        "createdAt": "2021-05-18T08:01:34.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

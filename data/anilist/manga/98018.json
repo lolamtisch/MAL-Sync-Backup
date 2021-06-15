@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "新約Märchen",
+    "New Testament Marchen",
+    "7th Story",
+    "Seventh Story Märchen",
+    "Shinyaku Marchen"
+  ],
+  "authors": [
+    "Yasuyuki Torikai",
+    "Sound Horizon"
+  ],
+  "id": 98018,
+  "malId": 88707,
+  "type": "manga",
+  "title": "Shinyaku Märchen",
+  "url": "https://anilist.co/manga/98018",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98018-DSCVQE8tFVgR.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:56.000Z",
+  "updatedAt": "2021-05-20T14:52:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "89587333-6177-48a8-9d54-9c5047a18ff7": {
+        "authors": [
+          "Torikai Yasuyuki",
+          "Sound Horizon"
+        ],
+        "identifier": "89587333-6177-48a8-9d54-9c5047a18ff7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shin'yaku M&auml;rchen",
+        "url": "https://mangadex.org/title/89587333-6177-48a8-9d54-9c5047a18ff7",
+        "image": "https://uploads.mangadex.org/covers/89587333-6177-48a8-9d54-9c5047a18ff7/430edae7-6110-405d-917d-ce46286c1efa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88707,
+        "aniId": 98018,
+        "createdAt": "2020-10-12T16:09:03.000Z",
+        "updatedAt": "2021-06-04T14:43:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shinyaku_marchen": {
+        "authors": [],
+        "identifier": "shinyaku_marchen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shinyaku Marchen",
+        "url": "https://manganelo.com/manga/shinyaku_marchen",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1282-shinyaku_marchen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88707,
+        "aniId": 98018,
+        "createdAt": "2020-10-12T16:25:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "消え去りしもの",
+    "Missing Link"
+  ],
+  "authors": [
+    "Reiko Okano"
+  ],
+  "id": 112593,
+  "malId": 123014,
+  "type": "manga",
+  "title": "Kiesarishi Mono",
+  "url": "https://anilist.co/manga/112593",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112593-2ybTqpNcMcHi.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T09:20:41.000Z",
+  "updatedAt": "2021-06-07T09:20:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44a92e60-ca1b-4c6a-9a6b-aaceef267475": {
+        "authors": [
+          "OKANO Reiko"
+        ],
+        "identifier": "44a92e60-ca1b-4c6a-9a6b-aaceef267475",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Missing Link",
+        "url": "https://mangadex.org/title/44a92e60-ca1b-4c6a-9a6b-aaceef267475",
+        "image": "https://uploads.mangadex.org/covers/44a92e60-ca1b-4c6a-9a6b-aaceef267475/d7a66b49-db4c-4a94-8b1e-c1745c631097.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123014,
+        "aniId": 112593,
+        "createdAt": "2020-10-12T16:17:38.000Z",
+        "updatedAt": "2021-06-07T10:01:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

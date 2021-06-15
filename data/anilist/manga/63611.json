@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "まつるかみ",
+    "Matsurukami"
+  ],
+  "authors": [
+    "Gunjou"
+  ],
+  "id": 63611,
+  "malId": 33611,
+  "type": "manga",
+  "title": "Matsuru Kami",
+  "url": "https://anilist.co/manga/63611",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63611-UqW1t8u742CY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:56.000Z",
+  "updatedAt": "2021-05-20T14:47:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4a4ae634-3c01-486f-8222-72645bd94c4e": {
+        "authors": [
+          "Gunjou"
+        ],
+        "identifier": "4a4ae634-3c01-486f-8222-72645bd94c4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Matsuru Kami",
+        "url": "https://mangadex.org/title/4a4ae634-3c01-486f-8222-72645bd94c4e",
+        "image": "https://uploads.mangadex.org/covers/4a4ae634-3c01-486f-8222-72645bd94c4e/cf0a33fd-8444-4a53-9cd2-28b3dbb5f115.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33611,
+        "aniId": 63611,
+        "createdAt": "2020-10-12T16:05:55.000Z",
+        "updatedAt": "2021-06-03T15:57:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

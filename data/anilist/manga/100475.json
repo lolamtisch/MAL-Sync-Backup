@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "まよなかのワルツ",
+    "Midnight Waltz"
+  ],
+  "authors": [
+    "Nagabe"
+  ],
+  "id": 100475,
+  "malId": null,
+  "type": "manga",
+  "title": "Mayonaka no Waltz",
+  "url": "https://anilist.co/manga/100475",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100475-KasF9GRhc5xZ.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T05:49:39.000Z",
+  "updatedAt": "2021-06-05T05:49:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cf0c0b39-3f9d-43f4-aaa2-a0b1872e710e": {
+        "authors": [
+          "Nagabe"
+        ],
+        "identifier": "cf0c0b39-3f9d-43f4-aaa2-a0b1872e710e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayonaka no Waltz",
+        "url": "https://mangadex.org/title/cf0c0b39-3f9d-43f4-aaa2-a0b1872e710e",
+        "image": "https://uploads.mangadex.org/covers/cf0c0b39-3f9d-43f4-aaa2-a0b1872e710e/a3acfcdb-f972-4f25-880f-3701d409547c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100475,
+        "createdAt": "2020-10-12T16:11:05.000Z",
+        "updatedAt": "2021-06-05T09:07:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

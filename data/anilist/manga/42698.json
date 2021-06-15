@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "学校ホテル",
+    "Gakkou Hoteru",
+    "School Hotel"
+  ],
+  "authors": [
+    "Satoshi Morie"
+  ],
+  "id": 42698,
+  "malId": 12698,
+  "type": "manga",
+  "title": "Gakkou Hotel",
+  "url": "https://anilist.co/manga/42698",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42698-A1dPlRfojgDE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2e65310-3880-4c1e-835f-99e32de19c66": {
+        "authors": [
+          "Morie Satoshi"
+        ],
+        "identifier": "d2e65310-3880-4c1e-835f-99e32de19c66",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gakkou Hotel",
+        "url": "https://mangadex.org/title/d2e65310-3880-4c1e-835f-99e32de19c66",
+        "image": "https://uploads.mangadex.org/covers/d2e65310-3880-4c1e-835f-99e32de19c66/923e83c3-428b-4659-8faf-f0509e179c47.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12698,
+        "aniId": 42698,
+        "createdAt": "2020-10-12T16:03:54.000Z",
+        "updatedAt": "2021-06-02T17:17:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

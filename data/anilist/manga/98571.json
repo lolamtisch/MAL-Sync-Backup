@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "好きよりも近く",
+    "More Than Love"
+  ],
+  "authors": [
+    "Makino"
+  ],
+  "id": 98571,
+  "malId": 68225,
+  "type": "manga",
+  "title": "Suki yori mo Chikaku",
+  "url": "https://anilist.co/manga/98571",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98571-fwvVni50F4yS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:02.000Z",
+  "updatedAt": "2021-05-20T14:51:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "87776fee-0209-4239-a358-51c038cad5f9": {
+        "authors": [
+          "Makino"
+        ],
+        "identifier": "87776fee-0209-4239-a358-51c038cad5f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suki yori mo Chikaku",
+        "url": "https://mangadex.org/title/87776fee-0209-4239-a358-51c038cad5f9",
+        "image": "https://uploads.mangadex.org/covers/87776fee-0209-4239-a358-51c038cad5f9/e2aa0b88-85b6-4d79-98f3-ab9556ab65bf.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68225,
+        "aniId": 98571,
+        "createdAt": "2020-10-12T16:06:32.000Z",
+        "updatedAt": "2021-06-03T20:20:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "vv921741": {
+        "authors": [],
+        "identifier": "vv921741",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suki Yori Mo Chikaku",
+        "url": "https://manganelo.com/manga/vv921741",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3148-vv921741.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68225,
+        "aniId": 98571,
+        "createdAt": "2020-10-12T16:26:05.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

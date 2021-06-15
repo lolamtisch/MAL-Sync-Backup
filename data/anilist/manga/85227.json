@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "elDLIVE",
+    "エルドライブ 【ēlDLIVE】"
+  ],
+  "authors": [
+    "Akira Amano"
+  ],
+  "id": 85227,
+  "malId": 56945,
+  "type": "manga",
+  "title": "ēlDLIVE",
+  "url": "https://anilist.co/manga/85227",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85227-nYRXrENSOdFJ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:29.000Z",
+  "updatedAt": "2021-05-20T14:50:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80ac2c7c-c438-489c-8b95-bea3837316b1": {
+        "authors": [
+          "Amano Akira"
+        ],
+        "identifier": "80ac2c7c-c438-489c-8b95-bea3837316b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "elDLIVE",
+        "url": "https://mangadex.org/title/80ac2c7c-c438-489c-8b95-bea3837316b1",
+        "image": "https://uploads.mangadex.org/covers/80ac2c7c-c438-489c-8b95-bea3837316b1/8ff3e71b-804e-4421-a17e-9621579c393d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56945,
+        "aniId": 85227,
+        "createdAt": "2020-10-12T16:06:59.000Z",
+        "updatedAt": "2021-06-03T23:28:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eldlive": {
+        "authors": [],
+        "identifier": "eldlive",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "elDLIVE",
+        "url": "https://manganelo.com/manga/eldlive",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3022-eldlive.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56945,
+        "aniId": 85227,
+        "createdAt": "2020-10-12T16:22:49.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "el-d-l-i-v-e": {
+        "authors": [
+          "AMANO Akira"
+        ],
+        "identifier": "el-d-l-i-v-e",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "elDLIVE",
+        "url": "https://mangasee123.com/manga/el-D-L-I-V-E",
+        "image": "https://cover.nep.li/cover/el-D-L-I-V-E.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56945,
+        "aniId": 85227,
+        "createdAt": "2021-03-20T07:35:02.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

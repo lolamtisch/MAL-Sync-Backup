@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "테이밍 마스터"
+  ],
+  "authors": [
+    "Bing-go Bing",
+    "Tae-seok Park"
+  ],
+  "id": 125816,
+  "malId": null,
+  "type": "manga",
+  "title": "Taming Master",
+  "url": "https://anilist.co/manga/125816",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125816-gpd5qI6tOpmh.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T23:12:57.000Z",
+  "updatedAt": "2021-06-05T06:19:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "534c1b5b-aff6-44fd-bf68-7294e6526fb3": {
+        "authors": [
+          "Bing Bing Go",
+          "Park Taeseok"
+        ],
+        "identifier": "534c1b5b-aff6-44fd-bf68-7294e6526fb3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Taming Master",
+        "url": "https://mangadex.org/title/534c1b5b-aff6-44fd-bf68-7294e6526fb3",
+        "image": "https://uploads.mangadex.org/covers/534c1b5b-aff6-44fd-bf68-7294e6526fb3/18ee2b06-bbaf-48eb-98e2-db63746ab90b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 125816,
+        "createdAt": "2020-10-31T20:44:20.000Z",
+        "updatedAt": "2021-06-08T06:54:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

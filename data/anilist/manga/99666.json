@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "하도메",
+    "ハドメ"
+  ],
+  "authors": [
+    "Choe Namsae"
+  ],
+  "id": 99666,
+  "malId": null,
+  "type": "manga",
+  "title": "Hadomae",
+  "url": "https://anilist.co/manga/99666",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99666-f3oP8kB5TqzL.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-24T04:08:18.000Z",
+  "updatedAt": "2021-06-07T23:23:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6bd9726d-b824-4274-b40f-5e2777e02100": {
+        "authors": [
+          "Choe Namsae"
+        ],
+        "identifier": "6bd9726d-b824-4274-b40f-5e2777e02100",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hadomae",
+        "url": "https://mangadex.org/title/6bd9726d-b824-4274-b40f-5e2777e02100",
+        "image": "https://uploads.mangadex.org/covers/6bd9726d-b824-4274-b40f-5e2777e02100/3a89e44a-b483-473b-a337-85356f158bad.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99666,
+        "createdAt": "2020-10-12T16:19:53.000Z",
+        "updatedAt": "2021-06-08T00:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

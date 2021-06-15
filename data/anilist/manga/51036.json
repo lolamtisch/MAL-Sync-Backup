@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "/Blush",
+    "/Blush 1 スラッシュ・ブラッシュ",
+    "/ Blush"
+  ],
+  "authors": [
+    "Maya Miyazaki"
+  ],
+  "id": 51036,
+  "malId": 21036,
+  "type": "manga",
+  "title": "/Blush",
+  "url": "https://anilist.co/manga/51036",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21036.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:45:37.000Z",
+  "updatedAt": "2021-05-20T14:45:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "blush_dc": {
+        "authors": [
+          "MIYAZAKI Maya"
+        ],
+        "identifier": "blush_dc",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "/Blush-DC.",
+        "url": "https://fanfox.net/manga/blush_dc/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10641/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21036,
+        "aniId": 51036,
+        "createdAt": "2021-02-13T01:05:45.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

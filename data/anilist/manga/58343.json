@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Hide and Seek",
+    "秘めごとあそび"
+  ],
+  "authors": [
+    "Yaya Sakuragi"
+  ],
+  "id": 58343,
+  "malId": 28343,
+  "type": "manga",
+  "title": "Himegoto Asobi",
+  "url": "https://anilist.co/manga/58343",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx58343-uoujDb7rWXKz.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:47:30.000Z",
+  "updatedAt": "2021-05-20T14:47:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80ca9b2b-752d-45ba-bbba-fce30560b482": {
+        "authors": [
+          "Sakuragi Yaya"
+        ],
+        "identifier": "80ca9b2b-752d-45ba-bbba-fce30560b482",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himegoto Asobi",
+        "url": "https://mangadex.org/title/80ca9b2b-752d-45ba-bbba-fce30560b482",
+        "image": "https://uploads.mangadex.org/covers/80ca9b2b-752d-45ba-bbba-fce30560b482/d43881d0-6d1c-42f4-aded-5f82e9e1e3cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28343,
+        "aniId": 58343,
+        "createdAt": "2020-10-12T16:03:02.000Z",
+        "updatedAt": "2021-06-02T11:17:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "アダムとイブ",
+    "Adam and Eve"
+  ],
+  "authors": [
+    "Ryoichi Ikegami",
+    "Hideo Yamamoto"
+  ],
+  "id": 96124,
+  "malId": 93432,
+  "type": "manga",
+  "title": "Adam to Eve",
+  "url": "https://anilist.co/manga/96124",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96124-SAjsXRxoVqyf.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:47.000Z",
+  "updatedAt": "2021-05-20T14:53:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33fcf28c-9282-43ed-b01d-17113fbbb092": {
+        "authors": [
+          "Ikegami Ryoichi",
+          "Yamamoto Hideo"
+        ],
+        "identifier": "33fcf28c-9282-43ed-b01d-17113fbbb092",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Adam and Eve",
+        "url": "https://mangadex.org/title/33fcf28c-9282-43ed-b01d-17113fbbb092",
+        "image": "https://uploads.mangadex.org/covers/33fcf28c-9282-43ed-b01d-17113fbbb092/7cbf9184-4786-413e-90c8-db668b84d7ae.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93432,
+        "aniId": 96124,
+        "createdAt": "2020-10-12T16:09:56.000Z",
+        "updatedAt": "2021-06-04T21:06:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "adam__eve": {
+        "authors": [],
+        "identifier": "adam__eve",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Adam & Eve",
+        "url": "https://manganelo.com/manga/adam__eve",
+        "image": "https://avt.mkklcdnv6.com/3/x/14-1583489826.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93432,
+        "aniId": 96124,
+        "createdAt": "2020-10-12T16:22:00.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

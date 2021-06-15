@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "シークレットノート"
+  ],
+  "authors": [
+    "Acta"
+  ],
+  "id": 129338,
+  "type": "manga",
+  "title": "Secret Note",
+  "url": "https://myanimelist.net/manga/129338/Secret_Note",
+  "image": "https://cdn.myanimelist.net/images/manga/1/236697.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T07:50:40.000Z",
+  "updatedAt": "2021-06-07T07:50:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "75206ead-9209-4908-8fee-5f2adc649005": {
+        "authors": [
+          "Sawada Akuta"
+        ],
+        "identifier": "75206ead-9209-4908-8fee-5f2adc649005",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secret Note",
+        "url": "https://mangadex.org/title/75206ead-9209-4908-8fee-5f2adc649005",
+        "image": "https://uploads.mangadex.org/covers/75206ead-9209-4908-8fee-5f2adc649005/b3f21e94-38fb-46f5-b7e9-74a1f65107c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 129338,
+        "aniId": 121877,
+        "createdAt": "2020-10-12T16:16:10.000Z",
+        "updatedAt": "2021-06-07T08:10:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "どうにもならない",
+    "Dou-imo Nara Nai",
+    "Douimo Nara Nai",
+    "Dou ni mo Nara Nai",
+    "It Can't Be Helped"
+  ],
+  "authors": [
+    "Kiriyu Kiyoi"
+  ],
+  "id": 45507,
+  "malId": 15507,
+  "type": "manga",
+  "title": "Dounimo Naranai",
+  "url": "https://anilist.co/manga/45507",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15507.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:46.000Z",
+  "updatedAt": "2021-05-20T14:43:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "23a29f15-2510-4a6e-900d-97598e669195": {
+        "authors": [
+          "Kiriyu Kiyoi"
+        ],
+        "identifier": "23a29f15-2510-4a6e-900d-97598e669195",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dounimo Naranai",
+        "url": "https://mangadex.org/title/23a29f15-2510-4a6e-900d-97598e669195",
+        "image": "https://uploads.mangadex.org/covers/23a29f15-2510-4a6e-900d-97598e669195/5f4306e1-6a6e-4794-9dbf-64889eaf9ce2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15507,
+        "aniId": 45507,
+        "createdAt": "2020-10-12T16:07:42.000Z",
+        "updatedAt": "2021-06-04T04:40:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "douimo_nara_nai": {
+        "authors": [
+          "Kiriyu",
+          "Kiyoi"
+        ],
+        "identifier": "douimo_nara_nai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dou-Imo Nara Nai",
+        "url": "https://manganelo.com/manga/douimo_nara_nai",
+        "image": "https://avt.mkklcdnv6.com/50/w/3-1583469682.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15507,
+        "aniId": 45507,
+        "createdAt": "2020-11-10T10:42:13.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "うさぎ装束",
+    "Usagi Souzoku",
+    "Rabbit Costume"
+  ],
+  "authors": [
+    "Nodoka Tsurimaki"
+  ],
+  "id": 74317,
+  "malId": 44317,
+  "type": "manga",
+  "title": "Usagi Shouzoku",
+  "url": "https://anilist.co/manga/74317",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74317-qVmttyUodpig.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:00.000Z",
+  "updatedAt": "2021-05-20T14:49:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c9b970c-de2e-4d20-b0f9-d6727c8fdf68": {
+        "authors": [
+          "Tsurimaki Nodoka"
+        ],
+        "identifier": "8c9b970c-de2e-4d20-b0f9-d6727c8fdf68",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Usagi Shouzoku",
+        "url": "https://mangadex.org/title/8c9b970c-de2e-4d20-b0f9-d6727c8fdf68",
+        "image": "https://uploads.mangadex.org/covers/8c9b970c-de2e-4d20-b0f9-d6727c8fdf68/4e792cff-a4be-461e-82e0-a31371bf67eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44317,
+        "aniId": 74317,
+        "createdAt": "2020-10-12T16:09:01.000Z",
+        "updatedAt": "2021-06-04T14:28:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fq917690": {
+        "authors": [],
+        "identifier": "fq917690",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Usagi Shouzoku",
+        "url": "https://manganelo.com/manga/fq917690",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21309-fq917690.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44317,
+        "aniId": 74317,
+        "createdAt": "2020-10-12T16:22:58.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

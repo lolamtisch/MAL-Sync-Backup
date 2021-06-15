@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Angelic",
+    "天使のようなもの"
+  ],
+  "authors": [
+    "Yaya Takaesu"
+  ],
+  "id": 100982,
+  "malId": null,
+  "type": "manga",
+  "title": "Tenshi no yo na Mono",
+  "url": "https://anilist.co/manga/100982",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100982-gDwtjr61phuY.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T04:19:42.000Z",
+  "updatedAt": "2021-06-05T04:19:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec26524b-1df2-4722-900f-71afee535a43": {
+        "authors": [
+          "Takaesu Yaya"
+        ],
+        "identifier": "ec26524b-1df2-4722-900f-71afee535a43",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Angelic",
+        "url": "https://mangadex.org/title/ec26524b-1df2-4722-900f-71afee535a43",
+        "image": "https://uploads.mangadex.org/covers/ec26524b-1df2-4722-900f-71afee535a43/3c7b46e1-f7d9-4e5e-871c-39b75fd4849f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100982,
+        "createdAt": "2020-10-12T16:10:52.000Z",
+        "updatedAt": "2021-06-05T08:44:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

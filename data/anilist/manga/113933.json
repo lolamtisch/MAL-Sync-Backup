@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "それは、君が見た青だった",
+    "That was the blue you saw "
+  ],
+  "authors": [
+    "Wao Mitsunaga"
+  ],
+  "id": 113933,
+  "malId": 131110,
+  "type": "manga",
+  "title": "Sore wa, Kimi ga Mita Ao Datta",
+  "url": "https://anilist.co/manga/113933",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113933-yteDQRTqiciM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:33.000Z",
+  "updatedAt": "2021-05-20T14:59:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ca409f5d-a24f-41bb-89eb-5035d0b62101": {
+        "authors": [
+          "Mitsunaga Wao"
+        ],
+        "identifier": "ca409f5d-a24f-41bb-89eb-5035d0b62101",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sore wa, Kimi ga Mita Ao Datta",
+        "url": "https://mangadex.org/title/ca409f5d-a24f-41bb-89eb-5035d0b62101",
+        "image": "https://uploads.mangadex.org/covers/ca409f5d-a24f-41bb-89eb-5035d0b62101/a95cc88c-e8a8-4fc8-ae4b-335a9054388f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131110,
+        "aniId": 113933,
+        "createdAt": "2020-10-12T16:21:42.000Z",
+        "updatedAt": "2021-06-08T02:57:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jc925745": {
+        "authors": [
+          "Mitsunaga",
+          "Wao"
+        ],
+        "identifier": "jc925745",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sore Wa, Kimi Ga Mita Ao Datta",
+        "url": "https://manganelo.com/manga/jc925745",
+        "image": "https://avt.mkklcdnv6temp.com/29/k/23-1613923540.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131110,
+        "aniId": 113933,
+        "createdAt": "2021-02-21T19:33:32.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

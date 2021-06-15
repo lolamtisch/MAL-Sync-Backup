@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Very! Very! Sweet",
+    "Very! Very! 다이스키",
+    "Very! Very! Daisuki"
+  ],
+  "authors": [
+    "Ji-Sang Shin",
+    "Geo"
+  ],
+  "id": 35287,
+  "malId": 5287,
+  "type": "manga",
+  "title": "Very! Very! Sweet",
+  "url": "https://anilist.co/manga/35287",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5287.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:27.000Z",
+  "updatedAt": "2021-05-20T14:39:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "11294fb9-585a-438a-be1b-ab5165507c30": {
+        "authors": [
+          "Geo",
+          "SHIN Ji-Sang"
+        ],
+        "identifier": "11294fb9-585a-438a-be1b-ab5165507c30",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Very! Very! Daisuki",
+        "url": "https://mangadex.org/title/11294fb9-585a-438a-be1b-ab5165507c30",
+        "image": "https://uploads.mangadex.org/covers/11294fb9-585a-438a-be1b-ab5165507c30/24e06659-b9db-471c-9d21-d2f76707afd4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5287,
+        "aniId": 35287,
+        "createdAt": "2020-10-12T16:13:10.000Z",
+        "updatedAt": "2021-06-05T19:22:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

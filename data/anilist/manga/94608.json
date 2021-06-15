@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Girls Aloud!!"
+  ],
+  "authors": [
+    "Mahone Arekusa"
+  ],
+  "id": 94608,
+  "malId": 88205,
+  "type": "manga",
+  "title": "Girls Aloud!!",
+  "url": "https://anilist.co/manga/94608",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94608-2FSHtMBvRlXf.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:52:54.000Z",
+  "updatedAt": "2021-05-20T14:52:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b31d5ea9-c3b0-4f52-bd96-0409f6622f8d": {
+        "authors": [
+          "Arekusa Mahone",
+          "Arekusa Thunder"
+        ],
+        "identifier": "b31d5ea9-c3b0-4f52-bd96-0409f6622f8d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "GirlS Aloud!!",
+        "url": "https://mangadex.org/title/b31d5ea9-c3b0-4f52-bd96-0409f6622f8d",
+        "image": "https://uploads.mangadex.org/covers/b31d5ea9-c3b0-4f52-bd96-0409f6622f8d/4a08f8f2-b956-4913-be28-f23894987222.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88205,
+        "aniId": 94608,
+        "createdAt": "2020-10-12T16:12:54.000Z",
+        "updatedAt": "2021-06-05T17:24:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

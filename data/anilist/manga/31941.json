@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Mobile Suit Gundam Wing: Ground Zero",
+    "新機動戦記ガンダムＷ グランド・ゼロ",
+    "Shin Kidou Senki Gundam Wing: Ground Zero",
+    "Shin Kidou Senki Gundam Wing: Ground Zero"
+  ],
+  "authors": [
+    "Hajime Yatate",
+    "Yoshiyuki Tomino",
+    "Reku Fuyunagi"
+  ],
+  "id": 31941,
+  "malId": 1941,
+  "type": "manga",
+  "title": "Mobile Suit Gundam Wing: Ground Zero",
+  "url": "https://anilist.co/manga/31941",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1941.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:56.000Z",
+  "updatedAt": "2021-05-20T14:36:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d57bf3e8-a834-436b-8a96-b46c0a7b27fc": {
+        "authors": [
+          "Fuyunagi Reku"
+        ],
+        "identifier": "d57bf3e8-a834-436b-8a96-b46c0a7b27fc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shin Kidou Senki Gundam W - Ground Zero",
+        "url": "https://mangadex.org/title/d57bf3e8-a834-436b-8a96-b46c0a7b27fc",
+        "image": "https://uploads.mangadex.org/covers/d57bf3e8-a834-436b-8a96-b46c0a7b27fc/490e34c5-f00c-46b5-97b2-47b490e808de.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1941,
+        "aniId": 31941,
+        "createdAt": "2020-10-12T16:05:00.000Z",
+        "updatedAt": "2021-06-03T09:37:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shin_kidou_senki_gundam_w_ground_zero": {
+        "authors": [],
+        "identifier": "shin_kidou_senki_gundam_w_ground_zero",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shin Kidou Senki Gundam W: Ground Zero",
+        "url": "https://manganelo.com/manga/shin_kidou_senki_gundam_w_ground_zero",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/5881-shin_kidou_senki_gundam_w_ground_zero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1941,
+        "aniId": 31941,
+        "createdAt": "2020-10-12T16:25:25.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

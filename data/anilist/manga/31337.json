@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ガールフレンド"
+  ],
+  "authors": [
+    "Masaya Hokazono",
+    "Court Betten"
+  ],
+  "id": 31337,
+  "malId": 1337,
+  "type": "manga",
+  "title": "Girlfriend",
+  "url": "https://anilist.co/manga/31337",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31337-tNLMmKmOOKpu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-05-20T14:36:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "386376f9-0311-4532-9a7b-76402ac80b05": {
+        "authors": [
+          "Hokazono Masaya",
+          "Betten Court"
+        ],
+        "identifier": "386376f9-0311-4532-9a7b-76402ac80b05",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girl Friend",
+        "url": "https://mangadex.org/title/386376f9-0311-4532-9a7b-76402ac80b05",
+        "image": "https://uploads.mangadex.org/covers/386376f9-0311-4532-9a7b-76402ac80b05/32f7ba09-4e7c-4a65-8cc3-249d0149bb0e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1337,
+        "aniId": 31337,
+        "createdAt": "2020-10-12T16:05:37.000Z",
+        "updatedAt": "2021-06-03T13:51:17.000Z",
+        "deletedAt": null
+      },
+      "e43ccb49-90fb-4c5f-b6c6-560bb7d5d5a3": {
+        "authors": [
+          "Fuminosuke"
+        ],
+        "identifier": "e43ccb49-90fb-4c5f-b6c6-560bb7d5d5a3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Puppy Girlfriend",
+        "url": "https://mangadex.org/title/e43ccb49-90fb-4c5f-b6c6-560bb7d5d5a3",
+        "image": "https://uploads.mangadex.org/covers/e43ccb49-90fb-4c5f-b6c6-560bb7d5d5a3/d3a4f7f9-9402-4dee-8f42-f1b8d0e3472e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1337,
+        "aniId": 31337,
+        "createdAt": "2020-10-12T16:18:54.000Z",
+        "updatedAt": "2021-06-07T20:57:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "girlfriend": {
+        "authors": [],
+        "identifier": "girlfriend",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Girlfriend",
+        "url": "https://manganelo.com/manga/girlfriend",
+        "image": "https://avt.mkklcdnv6.com/36/q/12-1583487202.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1337,
+        "aniId": 31337,
+        "createdAt": "2020-10-12T16:23:06.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

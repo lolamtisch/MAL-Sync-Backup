@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "Hakkenden",
+    "八犬伝-東方八犬異聞",
+    "Hakkenden - Touhou Hakken Ibun"
+  ],
+  "authors": [
+    "Miyuki Abe"
+  ],
+  "id": 35685,
+  "malId": 5685,
+  "type": "manga",
+  "title": "Hakkenden",
+  "url": "https://anilist.co/manga/35685",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35685-lPYoQFn9dHmb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:32.000Z",
+  "updatedAt": "2021-05-20T14:39:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7dad2def-bf82-49b3-a4f0-beb6a3c2bf79": {
+        "authors": [
+          "Abe Miyuki",
+          "Takizawa Bakin"
+        ],
+        "identifier": "7dad2def-bf82-49b3-a4f0-beb6a3c2bf79",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakkenden: Touhou Hakken Ibun",
+        "url": "https://mangadex.org/title/7dad2def-bf82-49b3-a4f0-beb6a3c2bf79",
+        "image": "https://uploads.mangadex.org/covers/7dad2def-bf82-49b3-a4f0-beb6a3c2bf79/4d9e6ad4-61e2-4652-aac0-f91f097e846b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5685,
+        "aniId": 35685,
+        "createdAt": "2020-10-12T16:06:09.000Z",
+        "updatedAt": "2021-06-03T17:31:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hakkenden": {
+        "authors": [],
+        "identifier": "hakkenden",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hakkenden",
+        "url": "https://manganelo.com/manga/hakkenden",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1416-hakkenden.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5685,
+        "aniId": 35685,
+        "createdAt": "2020-10-12T16:23:14.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hakkenden": {
+        "authors": [
+          "ABE Miyuki",
+          "TAKIZAWA Bakin"
+        ],
+        "identifier": "hakkenden",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hakkenden - Touhou Hakken Ibun",
+        "url": "https://mangasee123.com/manga/Hakkenden",
+        "image": "https://cover.nep.li/cover/Hakkenden.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5685,
+        "aniId": 35685,
+        "createdAt": "2021-03-24T19:49:23.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pj952944": {
+        "authors": [
+          "Abe Miyuki"
+        ],
+        "identifier": "manga-pj952944",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hakkenden",
+        "url": "https://manganato.com/manga-pj952944",
+        "image": "https://avt.mkklcdnv6temp.com/6/m/2-1583465941.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 5685,
+        "aniId": 35685,
+        "createdAt": "2021-05-31T09:15:41.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

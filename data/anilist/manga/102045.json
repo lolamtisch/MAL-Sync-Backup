@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "ぶっカフェ!",
+    "Buddha Cafe",
+    "Buccafé!",
+    "Buddha Café",
+    "Buccafe"
+  ],
+  "authors": [
+    "Roku Kobayashi"
+  ],
+  "id": 102045,
+  "malId": 110900,
+  "type": "manga",
+  "title": "Buccafe!",
+  "url": "https://anilist.co/manga/102045",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102045-w6dZE0dPVDnJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:17.000Z",
+  "updatedAt": "2021-05-20T14:56:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "476e8775-5da1-404d-93ba-86b9be376c99": {
+        "authors": [
+          "Kobayashi Roku"
+        ],
+        "identifier": "476e8775-5da1-404d-93ba-86b9be376c99",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Buddha Cafe",
+        "url": "https://mangadex.org/title/476e8775-5da1-404d-93ba-86b9be376c99",
+        "image": "https://uploads.mangadex.org/covers/476e8775-5da1-404d-93ba-86b9be376c99/11ac7ef6-f89a-4487-934d-25f0c58a52f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110900,
+        "aniId": 102045,
+        "createdAt": "2020-10-12T16:11:29.000Z",
+        "updatedAt": "2021-06-05T08:43:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "buccafe": {
+        "authors": [],
+        "identifier": "buccafe",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Buccafé!",
+        "url": "https://manganelo.com/manga/buccafe",
+        "image": "https://avt.mkklcdnv6.com/16/z/16-1583494085.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110900,
+        "aniId": 102045,
+        "createdAt": "2020-10-12T16:22:22.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "buddha_cafe": {
+        "authors": [
+          "KOBAYASHI Roku"
+        ],
+        "identifier": "buddha_cafe",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Buddha Cafe",
+        "url": "https://fanfox.net/manga/buddha_cafe/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28059/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110900,
+        "aniId": 102045,
+        "createdAt": "2021-03-23T16:05:09.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

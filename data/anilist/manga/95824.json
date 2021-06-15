@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "グリモワールの庭",
+    "Garden of grimoire",
+    "Dark Grimoire"
+  ],
+  "authors": [
+    "Sakurana Haru",
+    "Miyako Slocombe"
+  ],
+  "id": 95824,
+  "malId": 92306,
+  "type": "manga",
+  "title": "Grimoire no Niwa",
+  "url": "https://anilist.co/manga/95824",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95824-MSPvyKKLIwcU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:38.000Z",
+  "updatedAt": "2021-05-20T14:53:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c30937e8-0f02-4b32-9c16-d459e13bff45": {
+        "authors": [
+          "HARU Sakurana"
+        ],
+        "identifier": "c30937e8-0f02-4b32-9c16-d459e13bff45",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Grimoire no Niwa",
+        "url": "https://mangadex.org/title/c30937e8-0f02-4b32-9c16-d459e13bff45",
+        "image": "https://uploads.mangadex.org/covers/c30937e8-0f02-4b32-9c16-d459e13bff45/67f51801-eb69-4cef-abec-56f7b99e9e95.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92306,
+        "aniId": 95824,
+        "createdAt": "2020-10-12T16:11:09.000Z",
+        "updatedAt": "2021-06-05T06:09:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

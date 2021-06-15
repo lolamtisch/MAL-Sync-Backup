@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Unico",
+    "ユニコ"
+  ],
+  "authors": [
+    "Osamu Tezuka",
+    "Ben Applegate"
+  ],
+  "id": 47240,
+  "malId": 17240,
+  "type": "manga",
+  "title": "Unico",
+  "url": "https://anilist.co/manga/47240",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17240.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:05.000Z",
+  "updatedAt": "2021-05-20T14:44:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b917b99-8fa0-4c11-9488-17bca1314f65": {
+        "authors": [
+          "",
+          "Tezuka Osamu"
+        ],
+        "identifier": "7b917b99-8fa0-4c11-9488-17bca1314f65",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Unico",
+        "url": "https://mangadex.org/title/7b917b99-8fa0-4c11-9488-17bca1314f65",
+        "image": "https://uploads.mangadex.org/covers/7b917b99-8fa0-4c11-9488-17bca1314f65/a3f42d4b-6c7d-446c-bca0-11fca830282d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17240,
+        "aniId": 47240,
+        "createdAt": "2020-10-12T16:15:38.000Z",
+        "updatedAt": "2021-06-06T15:33:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "unico": {
+        "authors": [],
+        "identifier": "unico",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Unico",
+        "url": "https://manganelo.com/manga/unico",
+        "image": "https://avt.mkklcdnv6.com/2/d/8-1583478253.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17240,
+        "aniId": 47240,
+        "createdAt": "2020-10-12T16:25:57.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

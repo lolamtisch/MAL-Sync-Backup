@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ミルキーウェイ",
+    "Change",
+    "Sansaro Story"
+  ],
+  "authors": [
+    "Reiko Shimizu"
+  ],
+  "id": 34027,
+  "malId": 4027,
+  "type": "manga",
+  "title": "Milky Way",
+  "url": "https://anilist.co/manga/34027",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4027.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T15:49:27.000Z",
+  "updatedAt": "2021-06-05T15:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3d8030a-9425-4f9f-a3ae-aad6fa5f929b": {
+        "authors": [
+          "Shimizu Reiko"
+        ],
+        "identifier": "b3d8030a-9425-4f9f-a3ae-aad6fa5f929b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Milky Way",
+        "url": "https://mangadex.org/title/b3d8030a-9425-4f9f-a3ae-aad6fa5f929b",
+        "image": "https://uploads.mangadex.org/covers/b3d8030a-9425-4f9f-a3ae-aad6fa5f929b/63d23cc4-a523-4ffc-8966-0685e7f5107c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4027,
+        "aniId": 34027,
+        "createdAt": "2020-10-12T16:12:39.000Z",
+        "updatedAt": "2021-06-05T16:10:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

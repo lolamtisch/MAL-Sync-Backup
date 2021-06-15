@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Dr.チェリー",
+    "Doctor Cherry"
+  ],
+  "authors": [
+    "Aruto Aoyama"
+  ],
+  "id": 92212,
+  "malId": 75629,
+  "type": "manga",
+  "title": "Dr. Cherry",
+  "url": "https://anilist.co/manga/92212",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92212-Yxwg2K3QuuBi.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:51:45.000Z",
+  "updatedAt": "2021-05-20T14:51:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f5b93234-915a-46f9-896a-9f023b98f1a5": {
+        "authors": [
+          "Aoyama Aruto"
+        ],
+        "identifier": "f5b93234-915a-46f9-896a-9f023b98f1a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dr. Cherry",
+        "url": "https://mangadex.org/title/f5b93234-915a-46f9-896a-9f023b98f1a5",
+        "image": "https://uploads.mangadex.org/covers/f5b93234-915a-46f9-896a-9f023b98f1a5/ca7c008f-b835-4c2b-8b51-a6ab36503258.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75629,
+        "aniId": 92212,
+        "createdAt": "2020-10-12T16:07:17.000Z",
+        "updatedAt": "2021-06-04T01:38:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

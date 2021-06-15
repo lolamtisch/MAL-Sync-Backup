@@ -1,0 +1,60 @@
+{
+  "authors": [
+    "WATASE Yuu"
+  ],
+  "identifier": "alice-19th",
+  "type": "manga",
+  "page": "MangaSee",
+  "title": "Alice 19th",
+  "url": "https://mangasee123.com/manga/Alice-19th",
+  "image": "https://cover.nep.li/cover/Alice-19th.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 77,
+  "aniId": 30077,
+  "createdAt": "2021-05-04T03:34:12.000Z",
+  "updatedAt": "2021-05-20T15:39:24.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Alice 19th",
+      "ありす19th"
+    ],
+    "authors": [
+      "Watase, Yuu"
+    ],
+    "id": 77,
+    "type": "manga",
+    "title": "Alice 19th",
+    "url": "https://myanimelist.net/manga/77/Alice_19th",
+    "image": "https://cdn.myanimelist.net/images/manga/2/5392.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2021-05-29T15:13:24.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Alice 19th",
+      "ありす19th"
+    ],
+    "authors": [
+      "Yuu Watase"
+    ],
+    "id": 30077,
+    "malId": 77,
+    "type": "manga",
+    "title": "Alice 19th",
+    "url": "https://anilist.co/manga/30077",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30077-7KNGMZjUUNmB.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:23.000Z",
+    "updatedAt": "2021-05-20T14:35:23.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/77/Alice_19th"
+}

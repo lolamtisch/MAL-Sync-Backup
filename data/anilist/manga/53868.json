@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "IS〈インフィニット・ストラトス〉"
+  ],
+  "authors": [
+    "Izuru Yumizuru",
+    "Kenji Akahoshi",
+    "okiura",
+    "Zengo!"
+  ],
+  "id": 53868,
+  "malId": 23868,
+  "type": "manga",
+  "title": "IS: Infinite Stratos",
+  "url": "https://anilist.co/manga/53868",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53868-HAvQCGgupm9M.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:40.000Z",
+  "updatedAt": "2021-05-20T14:46:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0995e648-2e90-4243-91ac-fdb493a86c62": {
+        "authors": [
+          "Yumizuru Izuru",
+          "Akaboshi Kenji"
+        ],
+        "identifier": "0995e648-2e90-4243-91ac-fdb493a86c62",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Infinite Stratos",
+        "url": "https://mangadex.org/title/0995e648-2e90-4243-91ac-fdb493a86c62",
+        "image": "https://uploads.mangadex.org/covers/0995e648-2e90-4243-91ac-fdb493a86c62/dad3e518-4b1c-4060-8e6b-49a777b6341b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23868,
+        "aniId": 53868,
+        "createdAt": "2020-10-12T16:02:34.000Z",
+        "updatedAt": "2021-06-02T07:59:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "if921477": {
+        "authors": [],
+        "identifier": "if921477",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Infinite Sky",
+        "url": "https://manganelo.com/manga/if921477",
+        "image": "https://avt.mkklcdnv6.com/7/t/20-1583501322.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23868,
+        "aniId": 53868,
+        "createdAt": "2020-10-12T16:23:30.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "infinite-stratos-y-u-u-k-i-homura": {
+        "authors": [
+          "YUMIZURU Izuru",
+          "YUUKI Homura"
+        ],
+        "identifier": "infinite-stratos-y-u-u-k-i-homura",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Infinite Stratos (YUUKI Homura)",
+        "url": "https://mangasee123.com/manga/Infinite-Stratos-Y-U-U-K-I-Homura",
+        "image": "https://cover.nep.li/cover/Infinite-Stratos-Y-U-U-K-I-Homura.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23868,
+        "aniId": 53868,
+        "createdAt": "2021-03-10T06:10:33.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "静寂の月",
+    "Der stille Mond"
+  ],
+  "authors": [
+    "Peco Morishima",
+    "Anemu Anemura"
+  ],
+  "id": 110161,
+  "malId": 115860,
+  "type": "manga",
+  "title": "Shijima no Tsuki",
+  "url": "https://anilist.co/manga/110161",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110161-cWFBzmeckaIz.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-25T11:08:18.000Z",
+  "updatedAt": "2021-05-25T11:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5d1abf3e-dff0-4d71-81d2-b7c3bcb1dd8e": {
+        "authors": [
+          "Anemura Anemu",
+          "Morishima Peco"
+        ],
+        "identifier": "5d1abf3e-dff0-4d71-81d2-b7c3bcb1dd8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shijima no Tsuki",
+        "url": "https://mangadex.org/title/5d1abf3e-dff0-4d71-81d2-b7c3bcb1dd8e",
+        "image": "https://uploads.mangadex.org/covers/5d1abf3e-dff0-4d71-81d2-b7c3bcb1dd8e/651bb2c6-2395-48e1-8c65-1346cc3d3bf0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 115860,
+        "aniId": 110161,
+        "createdAt": "2020-10-12T16:13:50.000Z",
+        "updatedAt": "2021-06-06T10:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

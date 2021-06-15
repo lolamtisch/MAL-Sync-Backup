@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "그 책에 마음을 주지 마세요",
+    "Don't Concern Yourself With That Book",
+    "Don't Give Your Heart to That Book"
+  ],
+  "authors": [
+    "Sihyun Moon",
+    "PESA"
+  ],
+  "id": 121639,
+  "malId": null,
+  "type": "manga",
+  "title": "Geu Chaege Maeumeul Juji Maseyo",
+  "url": "https://anilist.co/manga/121639",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121639-nLxadWQUkY3D.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-06T23:49:39.000Z",
+  "updatedAt": "2021-06-06T23:49:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4dcf41e3-9248-42ea-b36d-b8b444128bd4": {
+        "authors": [
+          "PESA",
+          "Moon Sihyun"
+        ],
+        "identifier": "4dcf41e3-9248-42ea-b36d-b8b444128bd4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Don't Concern Yourself With That Book (Promo)",
+        "url": "https://mangadex.org/title/4dcf41e3-9248-42ea-b36d-b8b444128bd4",
+        "image": "https://uploads.mangadex.org/covers/4dcf41e3-9248-42ea-b36d-b8b444128bd4/97096e0b-84e0-4f01-9608-ef4b023f5768.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 121639,
+        "createdAt": "2020-10-12T16:18:56.000Z",
+        "updatedAt": "2021-06-07T21:25:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

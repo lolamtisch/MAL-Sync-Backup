@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "ブリザードアクセル"
+  ],
+  "authors": [
+    "Suzuki, Nakaba"
+  ],
+  "id": 4101,
+  "type": "manga",
+  "title": "Blizzard Axel",
+  "url": "https://myanimelist.net/manga/4101/Blizzard_Axel",
+  "image": "https://cdn.myanimelist.net/images/manga/1/130983.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:56.000Z",
+  "updatedAt": "2021-01-18T09:33:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "23c2820c-a236-43ac-a0b3-1e575eae9828": {
+        "authors": [
+          "Suzuki Nakaba"
+        ],
+        "identifier": "23c2820c-a236-43ac-a0b3-1e575eae9828",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blizzard Axel",
+        "url": "https://mangadex.org/title/23c2820c-a236-43ac-a0b3-1e575eae9828",
+        "image": "https://uploads.mangadex.org/covers/23c2820c-a236-43ac-a0b3-1e575eae9828/f180059f-7f7f-4ace-8dc8-77f73ddbd203.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4101,
+        "aniId": 34101,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-02T22:44:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "blizzard_axel": {
+        "authors": [],
+        "identifier": "blizzard_axel",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Blizzard Axel",
+        "url": "https://manganelo.com/manga/blizzard_axel",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7521-blizzard_axel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4101,
+        "aniId": 34101,
+        "createdAt": "2020-10-12T16:22:18.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

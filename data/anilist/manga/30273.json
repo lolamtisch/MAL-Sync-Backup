@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "Deja-vu: Spring, Summer, Fall, Winter",
+    "데자부",
+    "Déjà-vu"
+  ],
+  "authors": [
+    "In-Wan Youn",
+    "Seung-Ki Yoon",
+    "Kyung-Il Yang",
+    "Vin Lee",
+    "Sung-Woo Park",
+    "Tae-hyung Kim",
+    "Byun Byung Jun"
+  ],
+  "id": 30273,
+  "malId": 273,
+  "type": "manga",
+  "title": "Deja-vu",
+  "url": "https://anilist.co/manga/30273",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30273-z77xlmyEKlc1.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6a2ca903-08ca-4c06-b004-d92a89240d80": {
+        "authors": [
+          "Xiao Chu Chu"
+        ],
+        "identifier": "6a2ca903-08ca-4c06-b004-d92a89240d80",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Winter to Summer",
+        "url": "https://mangadex.org/title/6a2ca903-08ca-4c06-b004-d92a89240d80",
+        "image": "https://uploads.mangadex.org/covers/6a2ca903-08ca-4c06-b004-d92a89240d80/b42b47ac-a4bb-4d46-8284-e69d6afcb444.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 273,
+        "aniId": 30273,
+        "createdAt": "2020-10-12T16:13:53.000Z",
+        "updatedAt": "2021-06-06T00:41:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hr920865": {
+        "authors": [],
+        "identifier": "hr920865",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Spring, Summer, And Winter Have Been Cursed!",
+        "url": "https://manganelo.com/manga/hr920865",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2263-hr920865.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 273,
+        "aniId": 30273,
+        "createdAt": "2020-10-12T16:23:25.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

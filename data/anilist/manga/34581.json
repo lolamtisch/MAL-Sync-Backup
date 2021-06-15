@@ -1,0 +1,108 @@
+{
+  "altTitle": [
+    "비비"
+  ],
+  "authors": [
+    "Kyung-ah Choi"
+  ],
+  "id": 34581,
+  "malId": 4581,
+  "type": "manga",
+  "title": "Bibi",
+  "url": "https://anilist.co/manga/34581",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4581.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:33.000Z",
+  "updatedAt": "2021-05-20T14:38:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fb95e11c-978c-448b-82de-52f0b393168c": {
+        "authors": [
+          "CHOI Kyung-ah"
+        ],
+        "identifier": "fb95e11c-978c-448b-82de-52f0b393168c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bibi",
+        "url": "https://mangadex.org/title/fb95e11c-978c-448b-82de-52f0b393168c",
+        "image": "https://uploads.mangadex.org/covers/fb95e11c-978c-448b-82de-52f0b393168c/91a19f31-7c3f-4cdc-9b8f-f33d550d36e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4581,
+        "aniId": 34581,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:49:52.000Z",
+        "deletedAt": null
+      },
+      "6c992ea4-b0a6-4327-abc6-424dc7286145": {
+        "authors": [
+          "Syundei"
+        ],
+        "identifier": "6c992ea4-b0a6-4327-abc6-424dc7286145",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bibibi!!",
+        "url": "https://mangadex.org/title/6c992ea4-b0a6-4327-abc6-424dc7286145",
+        "image": "https://uploads.mangadex.org/covers/6c992ea4-b0a6-4327-abc6-424dc7286145/3cf8ef77-a2ea-4aef-ad73-9642ff222732.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4581,
+        "aniId": 34581,
+        "createdAt": "2020-10-12T16:15:52.000Z",
+        "updatedAt": "2021-06-06T17:33:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bibi": {
+        "authors": [
+          "CHOI Kyung-ah"
+        ],
+        "identifier": "bibi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bibi",
+        "url": "https://mangasee123.com/manga/Bibi",
+        "image": "https://cover.nep.li/cover/Bibi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4581,
+        "aniId": 34581,
+        "createdAt": "2021-01-29T21:25:32.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bibi": {
+        "authors": [
+          "Choi",
+          "Kyung-Ah"
+        ],
+        "identifier": "bibi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bibi",
+        "url": "https://manganelo.com/manga/bibi",
+        "image": "https://avt.mkklcdnv6temp.com/6/g/3-1583467882.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4581,
+        "aniId": 34581,
+        "createdAt": "2021-03-27T10:49:07.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "破天荒"
+  ],
+  "authors": [
+    "Naoya Sugita"
+  ],
+  "id": 31918,
+  "malId": 1918,
+  "type": "manga",
+  "title": "Hatenkou",
+  "url": "https://anilist.co/manga/31918",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1918.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:56.000Z",
+  "updatedAt": "2021-05-20T14:36:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a1c142dc-62cb-4d71-a4fa-60e63429a426": {
+        "authors": [
+          "Sugita Naoya"
+        ],
+        "identifier": "a1c142dc-62cb-4d71-a4fa-60e63429a426",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatenkou",
+        "url": "https://mangadex.org/title/a1c142dc-62cb-4d71-a4fa-60e63429a426",
+        "image": "https://uploads.mangadex.org/covers/a1c142dc-62cb-4d71-a4fa-60e63429a426/7e287b1a-61fe-4af1-a249-ac1dd4b3a57d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1918,
+        "aniId": 31918,
+        "createdAt": "2020-10-12T16:02:53.000Z",
+        "updatedAt": "2021-06-02T10:08:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

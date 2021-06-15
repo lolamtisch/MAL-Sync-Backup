@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "バトルスピリッツ サーガブレイヴ"
+  ],
+  "id": 111121,
+  "malId": 38916,
+  "type": "anime",
+  "title": "Battle Spirits: Saga Brave",
+  "url": "https://anilist.co/anime/111121",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111121-XNfGkAnvzM3X.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:53.000Z",
+  "updatedAt": "2021-05-20T14:44:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "nlxn": {
+        "identifier": "nlxn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Battle Spirits: Saga Brave",
+        "url": "https://www.9anime.ru/watch/battle-spirits-saga-brave.nlxn",
+        "image": "https://static.akacdn.ru/files/images/2019/10/e01c2f89d74b07e9828931e3d86b9708.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38916,
+        "aniId": 111121,
+        "createdAt": "2020-10-12T15:53:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "battle-spirits-saga-brave": {
+        "identifier": "battle-spirits-saga-brave",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Battle Spirits: Saga Brave",
+        "url": "https://www9.gogoanime.io/category/battle-spirits-saga-brave",
+        "image": "https://cdnimg.xyz/cover/battle-spirits-saga-brave.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38916,
+        "aniId": 111121,
+        "createdAt": "2020-10-12T15:59:57.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Rock Paper Scissors",
+    "ロック・ペーパー・シザーズ"
+  ],
+  "authors": [
+    "Shinichi Kimura",
+    "MAX"
+  ],
+  "id": 85372,
+  "malId": 69097,
+  "type": "manga",
+  "title": "Rock Paper Scissors",
+  "url": "https://anilist.co/manga/85372",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85372-8dLGHjcwGKbV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:03.000Z",
+  "updatedAt": "2021-05-20T14:51:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "82866efd-7755-4269-a4f8-70a4c7760682": {
+        "authors": [
+          "Kimura Shinichi",
+          "Makutsu"
+        ],
+        "identifier": "82866efd-7755-4269-a4f8-70a4c7760682",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rock Paper Scissors",
+        "url": "https://mangadex.org/title/82866efd-7755-4269-a4f8-70a4c7760682",
+        "image": "https://uploads.mangadex.org/covers/82866efd-7755-4269-a4f8-70a4c7760682/3fb54356-d3d8-4da0-aa4f-bc4e23054ca6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69097,
+        "aniId": 85372,
+        "createdAt": "2020-10-12T16:07:11.000Z",
+        "updatedAt": "2021-06-04T00:59:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "be919195": {
+        "authors": [],
+        "identifier": "be919195",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ultimate Rock-Paper-Scissors",
+        "url": "https://manganelo.com/manga/be919195",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/595-be919195.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69097,
+        "aniId": 85372,
+        "createdAt": "2020-10-12T16:22:14.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

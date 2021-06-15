@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "どげせん"
+  ],
+  "authors": [
+    "Keisuke Itagaki"
+  ],
+  "id": 53552,
+  "malId": 23552,
+  "type": "manga",
+  "title": "Dogesen",
+  "url": "https://anilist.co/manga/53552",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23552.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:38.000Z",
+  "updatedAt": "2021-05-20T14:46:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3755c8f3-3fee-4144-a38b-4dce73c53a5b": {
+        "authors": [
+          "Rin",
+          "Itagaki Keisuke"
+        ],
+        "identifier": "3755c8f3-3fee-4144-a38b-4dce73c53a5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dogesen",
+        "url": "https://mangadex.org/title/3755c8f3-3fee-4144-a38b-4dce73c53a5b",
+        "image": "https://uploads.mangadex.org/covers/3755c8f3-3fee-4144-a38b-4dce73c53a5b/076483b7-53c3-428f-bac8-66cea9b35ab6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23552,
+        "aniId": 53552,
+        "createdAt": "2020-10-12T16:07:30.000Z",
+        "updatedAt": "2021-06-04T03:20:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "同居人が不安定でして"
+  ],
+  "authors": [
+    "Fumiko Takada"
+  ],
+  "id": 130981,
+  "malId": 109787,
+  "type": "manga",
+  "title": "Doukyonin ga Fuantei deshite",
+  "url": "https://anilist.co/manga/130981",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130981-cHUsCkx1Eemh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:08.000Z",
+  "updatedAt": "2021-05-20T14:56:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e6ec1724-5145-4a1b-b043-4a54164f2023": {
+        "authors": [
+          "Takada Fumiko"
+        ],
+        "identifier": "e6ec1724-5145-4a1b-b043-4a54164f2023",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doukyonin ga Fuantei Deshite",
+        "url": "https://mangadex.org/title/e6ec1724-5145-4a1b-b043-4a54164f2023",
+        "image": "https://uploads.mangadex.org/covers/e6ec1724-5145-4a1b-b043-4a54164f2023/351a6f21-f1fc-46c4-9501-a30cb44ccc79.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109787,
+        "aniId": 130981,
+        "createdAt": "2021-02-09T23:40:42.000Z",
+        "updatedAt": "2021-06-08T11:05:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "doukyonin_ga_fuantei_de_shite": {
+        "authors": [
+          "TAKADA Fumiko"
+        ],
+        "identifier": "doukyonin_ga_fuantei_de_shite",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Doukyonin ga Fuantei de Shite",
+        "url": "https://fanfox.net/manga/doukyonin_ga_fuantei_de_shite/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37580/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109787,
+        "aniId": 130981,
+        "createdAt": "2021-02-10T00:40:31.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

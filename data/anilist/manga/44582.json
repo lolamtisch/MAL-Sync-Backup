@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "我間乱 〜GAMARAN〜"
+  ],
+  "authors": [
+    "Yousuke Nakamaru"
+  ],
+  "id": 44582,
+  "malId": 14582,
+  "type": "manga",
+  "title": "Gamaran",
+  "url": "https://anilist.co/manga/44582",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b44582-TXZOfp3kZeFk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:38.000Z",
+  "updatedAt": "2021-05-20T14:43:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "650dec11-364b-4c0e-a33a-1edb4ca28bc9": {
+        "authors": [
+          "Nakamaru Yousuke"
+        ],
+        "identifier": "650dec11-364b-4c0e-a33a-1edb4ca28bc9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gamaran",
+        "url": "https://mangadex.org/title/650dec11-364b-4c0e-a33a-1edb4ca28bc9",
+        "image": "https://uploads.mangadex.org/covers/650dec11-364b-4c0e-a33a-1edb4ca28bc9/04fa13dd-3c86-4e8b-a78e-83fbb47f5993.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14582,
+        "aniId": 44582,
+        "createdAt": "2020-10-12T16:02:34.000Z",
+        "updatedAt": "2021-06-02T08:00:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gamaran": {
+        "authors": [],
+        "identifier": "gamaran",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gamaran",
+        "url": "https://manganelo.com/manga/gamaran",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4478-gamaran.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14582,
+        "aniId": 44582,
+        "createdAt": "2020-10-12T16:23:02.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gamaran": {
+        "authors": [
+          "NAKAMARU Yousuke"
+        ],
+        "identifier": "gamaran",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gamaran",
+        "url": "https://mangasee123.com/manga/Gamaran",
+        "image": "https://cover.nep.li/cover/Gamaran.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14582,
+        "aniId": 44582,
+        "createdAt": "2021-04-11T22:51:31.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

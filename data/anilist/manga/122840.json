@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Daisy Jealousy",
+    "デイジージェラシー"
+  ],
+  "authors": [
+    "Ogeretsu Tanaka"
+  ],
+  "id": 122840,
+  "malId": 119917,
+  "type": "manga",
+  "title": "Daisy Jealousy",
+  "url": "https://anilist.co/manga/122840",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122840-6dHuTKYfSfyA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:13.000Z",
+  "updatedAt": "2021-05-20T14:58:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ea4a08f-df80-4cba-9898-4d059cf934c1": {
+        "authors": [
+          "Ogeretsu Tanaka"
+        ],
+        "identifier": "4ea4a08f-df80-4cba-9898-4d059cf934c1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Daisy Jealousy",
+        "url": "https://mangadex.org/title/4ea4a08f-df80-4cba-9898-4d059cf934c1",
+        "image": "https://uploads.mangadex.org/covers/4ea4a08f-df80-4cba-9898-4d059cf934c1/e58bc23f-d8c4-4b5c-a9c9-a0b1d11c360b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119917,
+        "aniId": 122840,
+        "createdAt": "2020-10-12T16:20:04.000Z",
+        "updatedAt": "2021-06-07T23:24:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

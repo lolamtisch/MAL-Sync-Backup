@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "まにあってます！",
+    "Nie, dziękuję!",
+    "No Thanks!"
+  ],
+  "authors": [
+    "Ai Morinaga"
+  ],
+  "id": 31089,
+  "malId": 1089,
+  "type": "manga",
+  "title": "Maniattemasu!",
+  "url": "https://anilist.co/manga/31089",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1089.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6f5be2a-4c2f-470c-a7f5-e5939d9280ca": {
+        "authors": [
+          "MORINAGA Ai"
+        ],
+        "identifier": "b6f5be2a-4c2f-470c-a7f5-e5939d9280ca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maniattemasu!",
+        "url": "https://mangadex.org/title/b6f5be2a-4c2f-470c-a7f5-e5939d9280ca",
+        "image": "https://uploads.mangadex.org/covers/b6f5be2a-4c2f-470c-a7f5-e5939d9280ca/5cbc00ac-b11e-4791-89f4-ceb2a7db5089.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1089,
+        "aniId": 31089,
+        "createdAt": "2020-10-12T16:04:19.000Z",
+        "updatedAt": "2021-06-02T20:17:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

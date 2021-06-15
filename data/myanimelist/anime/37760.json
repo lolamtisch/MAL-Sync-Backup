@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "Mechanical Arms",
+    "メカウデ"
+  ],
+  "id": 37760,
+  "type": "anime",
+  "title": "Mecha-ude",
+  "url": "https://myanimelist.net/anime/37760/Mecha-ude",
+  "image": "https://cdn.myanimelist.net/images/anime/1625/92925.jpg",
+  "category": "ONA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:02.000Z",
+  "updatedAt": "2021-05-01T08:03:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "9v00": {
+        "identifier": "9v00",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mechanical Arms (Dub)",
+        "url": "https://9anime.ru/watch/mechanical-arms-dub.9v00",
+        "image": "https://static.akacdn.ru/files/images/2019/05/f9ba7d291e3e7dc8b9da36d7530b7664.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37760,
+        "aniId": 101915,
+        "createdAt": "2020-10-12T15:51:51.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "j9w8": {
+        "identifier": "j9w8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mechanical Arms",
+        "url": "https://9anime.ru/watch/mechanical-arms.j9w8",
+        "image": "http://static.akacdn.ru/static/images/2018/05/402d878bbd7e14b36e6f5412f503a90a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37760,
+        "aniId": 101915,
+        "createdAt": "2020-10-12T15:52:08.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mecha-ude": {
+        "identifier": "mecha-ude",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mecha-ude",
+        "url": "https://gogoanime.so/category/mecha-ude",
+        "image": "https://cdnimg.xyz/cover/mecha-ude.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37760,
+        "aniId": 101915,
+        "createdAt": "2020-10-12T16:01:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

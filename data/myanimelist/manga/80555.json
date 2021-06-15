@@ -1,0 +1,129 @@
+{
+  "altTitle": [
+    "Magical Girl Raising Project",
+    "魔法少女育成計画"
+  ],
+  "authors": [
+    "Edoya, Pochi",
+    "Endou, Asari"
+  ],
+  "id": 80555,
+  "type": "manga",
+  "title": "Mahou Shoujo Ikusei Keikaku",
+  "url": "https://myanimelist.net/manga/80555/Mahou_Shoujo_Ikusei_Keikaku",
+  "image": "https://cdn.myanimelist.net/images/manga/2/163622.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:34.000Z",
+  "updatedAt": "2021-03-25T03:19:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "467728dd-594c-47f9-87fc-194cfbef3b55": {
+        "authors": [
+          "ENDOU Asari",
+          "EDOYA Pochi"
+        ],
+        "identifier": "467728dd-594c-47f9-87fc-194cfbef3b55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Shoujo Ikusei Keikaku",
+        "url": "https://mangadex.org/title/467728dd-594c-47f9-87fc-194cfbef3b55",
+        "image": "https://uploads.mangadex.org/covers/467728dd-594c-47f9-87fc-194cfbef3b55/37be7230-c198-4752-93fd-cc5d169227fe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80555,
+        "aniId": 99815,
+        "createdAt": "2020-10-12T16:08:52.000Z",
+        "updatedAt": "2021-06-04T13:22:18.000Z",
+        "deletedAt": null
+      },
+      "fb195258-400d-43e5-add7-8ecba3a18703": {
+        "authors": [
+          "Sawamura Mariko"
+        ],
+        "identifier": "fb195258-400d-43e5-add7-8ecba3a18703",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Do S Ikusei Keikaku",
+        "url": "https://mangadex.org/title/fb195258-400d-43e5-add7-8ecba3a18703",
+        "image": "https://uploads.mangadex.org/covers/fb195258-400d-43e5-add7-8ecba3a18703/6d4af210-fa51-43ef-a0a8-e5a738870059.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80555,
+        "aniId": 99815,
+        "createdAt": "2020-10-12T16:20:10.000Z",
+        "updatedAt": "2021-06-07T23:31:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mahou_shoujo_ikusei_keikaku_novel": {
+        "authors": [],
+        "identifier": "mahou_shoujo_ikusei_keikaku_novel",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mahou Shoujo Ikusei Keikaku (Novel)",
+        "url": "https://manganelo.com/manga/mahou_shoujo_ikusei_keikaku_novel",
+        "image": "https://avt.mkklcdnv6.com/38/f/14-1583491078.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80555,
+        "aniId": 99815,
+        "createdAt": "2020-10-12T16:24:14.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "mahou_shoujo_ikusei_keikaku_fp2": {
+        "authors": [
+          "Endou",
+          "Asari"
+        ],
+        "identifier": "mahou_shoujo_ikusei_keikaku_fp2",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mahou Shoujo Ikusei Keikaku Fp2",
+        "url": "https://manganelo.com/manga/mahou_shoujo_ikusei_keikaku_fp2",
+        "image": "https://avt.mkklcdnv6temp.com/38/e/14-1583491077.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80555,
+        "aniId": 99815,
+        "createdAt": "2021-03-29T06:19:40.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mahou-shoujo-ikusei-keikaku": {
+        "authors": [
+          "EDOYA Pochi",
+          "ENDOU Asari"
+        ],
+        "identifier": "mahou-shoujo-ikusei-keikaku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mahou Shoujo Ikusei Keikaku",
+        "url": "https://mangasee123.com/manga/Mahou-Shoujo-Ikusei-Keikaku",
+        "image": "https://cover.nep.li/cover/Mahou-Shoujo-Ikusei-Keikaku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80555,
+        "aniId": 99815,
+        "createdAt": "2021-03-25T03:19:13.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "風と木の詩",
+    "The Song of Wind and Trees",
+    "KazeKi",
+    "The Poem of the Wind and the Trees",
+    "The Song of the Wind and the Trees",
+    "La Balada del Viento y los Árboles",
+    "The Poem of Wind and Trees"
+  ],
+  "authors": [
+    "Keiko Takemiya"
+  ],
+  "id": 31365,
+  "malId": 1365,
+  "type": "manga",
+  "title": "Kaze to Ki no Uta",
+  "url": "https://anilist.co/manga/31365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31365-ucezaL74sIgK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-05-20T14:36:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b": {
+        "authors": [
+          "Takemiya Keiko"
+        ],
+        "identifier": "9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaze to Ki no Uta",
+        "url": "https://mangadex.org/title/9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b",
+        "image": "https://uploads.mangadex.org/covers/9bab499d-d2ca-4aa2-82bf-f7b017f9fe3b/ad036c75-3a12-4ad2-aad5-061dc85c20bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1365,
+        "aniId": 31365,
+        "createdAt": "2020-10-12T16:05:56.000Z",
+        "updatedAt": "2021-06-03T16:01:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kaze_to_ki_no_uta": {
+        "authors": [
+          "TAKEMIYA Keiko"
+        ],
+        "identifier": "kaze_to_ki_no_uta",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kaze To Ki No Uta",
+        "url": "https://fanfox.net/manga/kaze_to_ki_no_uta/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2233/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1365,
+        "aniId": 31365,
+        "createdAt": "2021-06-04T13:21:18.000Z",
+        "updatedAt": "2021-06-04T13:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

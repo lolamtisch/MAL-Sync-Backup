@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "From Eroica with Love",
+    "エロイカより愛をこめて",
+    "Eroika Yori Ai wo Komote"
+  ],
+  "authors": [
+    "Yasuko Aoike"
+  ],
+  "id": 31022,
+  "malId": 1022,
+  "type": "manga",
+  "title": "Eroica Yori Ai wo Komete",
+  "url": "https://anilist.co/manga/31022",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31022-Lviw5DJ057ni.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "576d59fb-1885-4642-81ad-93b58dd5e57f": {
+        "authors": [
+          "Aoike Yasuko"
+        ],
+        "identifier": "576d59fb-1885-4642-81ad-93b58dd5e57f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "From Eroica with Love",
+        "url": "https://mangadex.org/title/576d59fb-1885-4642-81ad-93b58dd5e57f",
+        "image": "https://uploads.mangadex.org/covers/576d59fb-1885-4642-81ad-93b58dd5e57f/77c0e684-f82e-4551-808c-621e7df3c484.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1022,
+        "aniId": 31022,
+        "createdAt": "2020-10-12T16:07:59.000Z",
+        "updatedAt": "2021-06-04T06:43:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "eroica_yori_ai_wo_komete": {
+        "authors": [
+          "AOIKE Yasuko"
+        ],
+        "identifier": "eroica_yori_ai_wo_komete",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Eroica Yori Ai wo Komete",
+        "url": "https://fanfox.net/manga/eroica_yori_ai_wo_komete/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5525/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1022,
+        "aniId": 31022,
+        "createdAt": "2021-05-05T03:02:01.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

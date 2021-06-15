@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "閑雅なスプーン",
+    "Elegant Spoon",
+    "Kangana Spoon"
+  ],
+  "authors": [
+    "Reibun Ike"
+  ],
+  "id": 31865,
+  "malId": 1865,
+  "type": "manga",
+  "title": "Kanga na Spoon",
+  "url": "https://anilist.co/manga/31865",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1865.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:54.000Z",
+  "updatedAt": "2021-06-04T06:51:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a006165d-1b1b-4848-96bd-ed6080af632a": {
+        "authors": [
+          "Ike Reibun"
+        ],
+        "identifier": "a006165d-1b1b-4848-96bd-ed6080af632a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanga na Spoon",
+        "url": "https://mangadex.org/title/a006165d-1b1b-4848-96bd-ed6080af632a",
+        "image": "https://uploads.mangadex.org/covers/a006165d-1b1b-4848-96bd-ed6080af632a/973d564d-f38d-4443-aef7-54fc612f05d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1865,
+        "aniId": 31865,
+        "createdAt": "2020-10-12T16:07:59.000Z",
+        "updatedAt": "2021-06-04T08:58:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "so_ho_kang_ho": {
+        "authors": [],
+        "identifier": "so_ho_kang_ho",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "So Ho Kang Ho",
+        "url": "https://manganelo.com/manga/so_ho_kang_ho",
+        "image": "https://avt.mkklcdnv6.com/22/f/14-1583490541.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1865,
+        "aniId": 31865,
+        "createdAt": "2020-10-12T16:25:29.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

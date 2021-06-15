@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "謝男"
+  ],
+  "authors": [
+    "Keisuke Itagaki"
+  ],
+  "id": 112854,
+  "malId": 106061,
+  "type": "manga",
+  "title": "Shaman",
+  "url": "https://anilist.co/manga/112854",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112854-aPF5Tiqty5L3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:45.000Z",
+  "updatedAt": "2021-05-20T14:55:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f01d0bec-0aa9-47fe-a77b-436a83180d87": {
+        "authors": [
+          "Dam Poong"
+        ],
+        "identifier": "f01d0bec-0aa9-47fe-a77b-436a83180d87",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shaman",
+        "url": "https://mangadex.org/title/f01d0bec-0aa9-47fe-a77b-436a83180d87",
+        "image": "https://uploads.mangadex.org/covers/f01d0bec-0aa9-47fe-a77b-436a83180d87/0de95a85-e5aa-4ab5-a1f3-6f2b295e6ece.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106061,
+        "aniId": 112854,
+        "createdAt": "2020-10-12T16:02:49.000Z",
+        "updatedAt": "2021-06-02T09:37:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zh918839": {
+        "authors": [
+          "Keisuke",
+          "Itagaki"
+        ],
+        "identifier": "zh918839",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shaman",
+        "url": "https://manganelo.com/manga/zh918839",
+        "image": "https://avt.mkklcdnv6temp.com/10/b/18-1583497469.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 106061,
+        "aniId": 112854,
+        "createdAt": "2020-11-29T14:23:49.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

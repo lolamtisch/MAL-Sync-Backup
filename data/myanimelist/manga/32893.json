@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "どうぞ、召し上がれ"
+  ],
+  "authors": [
+    "Sakisaka, Mea"
+  ],
+  "id": 32893,
+  "type": "manga",
+  "title": "Douzo, Meshiagare",
+  "url": "https://myanimelist.net/manga/32893/Douzo_Meshiagare",
+  "image": "https://cdn.myanimelist.net/images/manga/1/84027.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:46.000Z",
+  "updatedAt": "2021-05-05T06:33:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e45250a5-bf9b-42ef-8fb5-e1bf89735729": {
+        "authors": [
+          "SAKISAKA Mea"
+        ],
+        "identifier": "e45250a5-bf9b-42ef-8fb5-e1bf89735729",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Douzo, Meshiagare",
+        "url": "https://mangadex.org/title/e45250a5-bf9b-42ef-8fb5-e1bf89735729",
+        "image": "https://uploads.mangadex.org/covers/e45250a5-bf9b-42ef-8fb5-e1bf89735729/89d8e86e-18c0-4d66-869e-224bb5166326.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32893,
+        "aniId": 62893,
+        "createdAt": "2020-10-12T16:04:13.000Z",
+        "updatedAt": "2021-06-02T19:38:12.000Z",
+        "deletedAt": null
+      },
+      "b9c2c079-f14f-415d-834c-3dfec1310669": {
+        "authors": [
+          "Tamago Kake Gohan"
+        ],
+        "identifier": "b9c2c079-f14f-415d-834c-3dfec1310669",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoku Kakimazete Meshiagare",
+        "url": "https://mangadex.org/title/b9c2c079-f14f-415d-834c-3dfec1310669",
+        "image": "https://uploads.mangadex.org/covers/b9c2c079-f14f-415d-834c-3dfec1310669/8688f792-1c60-4687-bb5c-7c9ce9093f2b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32893,
+        "aniId": 62893,
+        "createdAt": "2020-10-12T16:20:10.000Z",
+        "updatedAt": "2021-06-07T23:30:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

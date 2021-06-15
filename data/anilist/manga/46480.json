@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ドブレッツ"
+  ],
+  "authors": [
+    "Kyuugou"
+  ],
+  "id": 46480,
+  "malId": 16480,
+  "type": "manga",
+  "title": "Doublets",
+  "url": "https://anilist.co/manga/46480",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16480.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:55.000Z",
+  "updatedAt": "2021-05-20T14:43:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "be157d01-7dbf-4ac1-9e84-6f80950c25f7": {
+        "authors": [
+          "Kyuugou"
+        ],
+        "identifier": "be157d01-7dbf-4ac1-9e84-6f80950c25f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doublets",
+        "url": "https://mangadex.org/title/be157d01-7dbf-4ac1-9e84-6f80950c25f7",
+        "image": "https://uploads.mangadex.org/covers/be157d01-7dbf-4ac1-9e84-6f80950c25f7/dd600e60-086a-4b6d-8974-26ba90620d45.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16480,
+        "aniId": 46480,
+        "createdAt": "2020-10-12T16:03:19.000Z",
+        "updatedAt": "2021-06-02T13:10:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

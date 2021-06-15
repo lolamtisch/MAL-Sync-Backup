@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "서브 콤플렉스",
+    "Second Lead Complex"
+  ],
+  "authors": [
+    "Soi"
+  ],
+  "id": 121474,
+  "malId": null,
+  "type": "manga",
+  "title": "Sub Complex",
+  "url": "https://anilist.co/manga/121474",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121474-AcbtFTIzDdsC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T10:13:07.000Z",
+  "updatedAt": "2021-06-07T23:23:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "81245ee2-4145-4622-a18b-3c98afaf13f9": {
+        "authors": [
+          "Soi (소이)"
+        ],
+        "identifier": "81245ee2-4145-4622-a18b-3c98afaf13f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Second Lead Complex",
+        "url": "https://mangadex.org/title/81245ee2-4145-4622-a18b-3c98afaf13f9",
+        "image": "https://uploads.mangadex.org/covers/81245ee2-4145-4622-a18b-3c98afaf13f9/f37f9742-7127-40fc-8bdf-28c46ec8d889.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 121474,
+        "createdAt": "2020-10-12T16:19:54.000Z",
+        "updatedAt": "2021-06-09T08:06:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

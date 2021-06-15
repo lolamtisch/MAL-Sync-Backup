@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "绝命响应",
+    "Deadly Response"
+  ],
+  "id": 110264,
+  "malId": 41080,
+  "type": "anime",
+  "title": "Jueming Xiangying",
+  "url": "https://anilist.co/anime/110264",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110264-Y8gt64pUn9YP.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:02.000Z",
+  "updatedAt": "2021-05-20T14:46:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "4k2k": {
+        "identifier": "4k2k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Deadly Response",
+        "url": "https://www11.9anime.to/watch/deadly-response.4k2k",
+        "image": "https://static.akacdn.ru/files/images/2020/08/d7563d0064debb202ef8afcbf705c332.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41080,
+        "aniId": 110264,
+        "createdAt": "2020-10-12T15:50:04.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jue-ming-xiang-ying": {
+        "identifier": "jue-ming-xiang-ying",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jue Ming Xiang Ying",
+        "url": "https://www18.gogoanime.io/category/jue-ming-xiang-ying",
+        "image": "https://gogocdn.net/cover/jue-ming-xiang-ying.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41080,
+        "aniId": 110264,
+        "createdAt": "2020-10-12T16:00:53.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

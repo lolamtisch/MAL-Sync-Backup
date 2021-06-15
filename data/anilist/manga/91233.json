@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "迷走！アンダーワールド"
+  ],
+  "authors": [],
+  "id": 91233,
+  "malId": 70703,
+  "type": "manga",
+  "title": "Meisou! Underworld",
+  "url": "https://anilist.co/manga/91233",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91233-7BnowpfymDnx.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:32.000Z",
+  "updatedAt": "2021-05-20T14:51:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f785be34-c8e7-42e8-ab17-efae46b6801d": {
+        "authors": [
+          "Kuroi Shiro"
+        ],
+        "identifier": "f785be34-c8e7-42e8-ab17-efae46b6801d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hotel of the Underworld",
+        "url": "https://mangadex.org/title/f785be34-c8e7-42e8-ab17-efae46b6801d",
+        "image": "https://uploads.mangadex.org/covers/f785be34-c8e7-42e8-ab17-efae46b6801d/bf87fab4-d2ba-48e3-9012-21666d03b9c0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70703,
+        "aniId": 91233,
+        "createdAt": "2020-10-12T16:15:34.000Z",
+        "updatedAt": "2021-06-06T14:57:38.000Z",
+        "deletedAt": null
+      },
+      "2cd6a27f-c13e-4768-8376-dc14e550f154": {
+        "authors": [
+          "Ari",
+          "Yang Eunji"
+        ],
+        "identifier": "2cd6a27f-c13e-4768-8376-dc14e550f154",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love in the Underworld",
+        "url": "https://mangadex.org/title/2cd6a27f-c13e-4768-8376-dc14e550f154",
+        "image": "https://uploads.mangadex.org/covers/2cd6a27f-c13e-4768-8376-dc14e550f154/4c1cccce-6c47-45e3-95a9-df4981f730ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70703,
+        "aniId": 91233,
+        "createdAt": "2020-10-12T16:17:49.000Z",
+        "updatedAt": "2021-06-07T11:19:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "il922565": {
+        "authors": [],
+        "identifier": "il922565",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love In The Underworld",
+        "url": "https://manganelo.com/manga/il922565",
+        "image": "https://avt.mkklcdnv6.com/48/y/20-1585498377.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70703,
+        "aniId": 91233,
+        "createdAt": "2020-10-12T16:23:32.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

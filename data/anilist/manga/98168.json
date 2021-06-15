@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "カラーレシピ"
+  ],
+  "authors": [
+    "Harada"
+  ],
+  "id": 98168,
+  "malId": 90822,
+  "type": "manga",
+  "title": "Color Recipe",
+  "url": "https://anilist.co/manga/98168",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98168-16X4yG0TIzui.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:53:07.000Z",
+  "updatedAt": "2021-05-20T14:53:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96baa44e-cdad-44fe-805c-ca49ae782bc3": {
+        "authors": [
+          "Harada"
+        ],
+        "identifier": "96baa44e-cdad-44fe-805c-ca49ae782bc3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Color Recipe",
+        "url": "https://mangadex.org/title/96baa44e-cdad-44fe-805c-ca49ae782bc3",
+        "image": "https://uploads.mangadex.org/covers/96baa44e-cdad-44fe-805c-ca49ae782bc3/f8726400-23ea-4a29-a351-67665cf02e66.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90822,
+        "aniId": 98168,
+        "createdAt": "2020-10-12T16:10:04.000Z",
+        "updatedAt": "2021-06-04T22:07:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "color_recipe": {
+        "authors": [
+          "Harada"
+        ],
+        "identifier": "color_recipe",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Color Recipe",
+        "url": "https://manganelo.com/manga/color_recipe",
+        "image": "https://avt.mkklcdnv6.com/49/w/13-1583489679.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90822,
+        "aniId": 98168,
+        "createdAt": "2020-10-31T21:42:46.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

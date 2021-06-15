@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Sugar Princess: Skating to Win",
+    "シュガープリンセス"
+  ],
+  "authors": [
+    "Hisaya Nakajo"
+  ],
+  "id": 32143,
+  "malId": 2143,
+  "type": "manga",
+  "title": "Sugar Princess",
+  "url": "https://anilist.co/manga/32143",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32143-rwivvCF6qIHD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "768caa5f-fcf6-4794-a479-0a7762d81758": {
+        "authors": [
+          "Nakajo Hisaya"
+        ],
+        "identifier": "768caa5f-fcf6-4794-a479-0a7762d81758",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sugar Princess",
+        "url": "https://mangadex.org/title/768caa5f-fcf6-4794-a479-0a7762d81758",
+        "image": "https://uploads.mangadex.org/covers/768caa5f-fcf6-4794-a479-0a7762d81758/e42f9fff-ed59-40e5-9a6c-8551621b93f6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2143,
+        "aniId": 32143,
+        "createdAt": "2020-10-12T16:05:03.000Z",
+        "updatedAt": "2021-06-03T09:55:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

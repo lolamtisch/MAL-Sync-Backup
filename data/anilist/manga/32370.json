@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Kakeochi Kakugo"
+  ],
+  "authors": [
+    "Hisami Shimada"
+  ],
+  "id": 32370,
+  "malId": 2370,
+  "type": "manga",
+  "title": "Kakeochi Kakugo!",
+  "url": "https://anilist.co/manga/32370",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2370.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "637d6176-a227-4123-ade8-4e5dd906d2e3": {
+        "authors": [
+          "Shimada Hisami"
+        ],
+        "identifier": "637d6176-a227-4123-ade8-4e5dd906d2e3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakeochi Kakugo!",
+        "url": "https://mangadex.org/title/637d6176-a227-4123-ade8-4e5dd906d2e3",
+        "image": "https://uploads.mangadex.org/covers/637d6176-a227-4123-ade8-4e5dd906d2e3/cd7f5be4-9814-4859-93f4-325c85b3f292.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2370,
+        "aniId": 32370,
+        "createdAt": "2020-10-12T16:20:38.000Z",
+        "updatedAt": "2021-06-08T00:31:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

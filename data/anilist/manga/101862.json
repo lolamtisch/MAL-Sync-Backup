@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "君は少女"
+  ],
+  "authors": [
+    "Fuji Nanatsu"
+  ],
+  "id": 101862,
+  "malId": 111550,
+  "type": "manga",
+  "title": "Kimi wa Shoujo",
+  "url": "https://anilist.co/manga/101862",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101862-5IRT9V4IL2ZA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:48.000Z",
+  "updatedAt": "2021-05-20T14:56:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "743f1f7c-4eb9-4dfc-a8d7-c67bd85c483b": {
+        "authors": [
+          "Nanatsu Fuji"
+        ],
+        "identifier": "743f1f7c-4eb9-4dfc-a8d7-c67bd85c483b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi wa Shoujo",
+        "url": "https://mangadex.org/title/743f1f7c-4eb9-4dfc-a8d7-c67bd85c483b",
+        "image": "https://uploads.mangadex.org/covers/743f1f7c-4eb9-4dfc-a8d7-c67bd85c483b/d429833f-8147-4174-9d94-18c71d1783f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111550,
+        "aniId": 101862,
+        "createdAt": "2020-10-12T16:12:33.000Z",
+        "updatedAt": "2021-06-05T15:13:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kimi_wa_shoujo": {
+        "authors": [],
+        "identifier": "kimi_wa_shoujo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kimi Wa Shoujo",
+        "url": "https://manganelo.com/manga/kimi_wa_shoujo",
+        "image": "https://avt.mkklcdnv6.com/21/l/16-1583494238.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111550,
+        "aniId": 101862,
+        "createdAt": "2020-10-12T16:23:54.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

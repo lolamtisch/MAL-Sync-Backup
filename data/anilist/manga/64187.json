@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "スモーカー"
+  ],
+  "authors": [
+    "Satou Inoue"
+  ],
+  "id": 64187,
+  "malId": 34187,
+  "type": "manga",
+  "title": "Smoker",
+  "url": "https://anilist.co/manga/64187",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx64187-e2LNdiBze5W5.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:57.000Z",
+  "updatedAt": "2021-05-20T14:47:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0e79d7ee-2696-44b1-9b99-8986c05a5ddf": {
+        "authors": [
+          "Inoue Satou"
+        ],
+        "identifier": "0e79d7ee-2696-44b1-9b99-8986c05a5ddf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Smoker",
+        "url": "https://mangadex.org/title/0e79d7ee-2696-44b1-9b99-8986c05a5ddf",
+        "image": "https://uploads.mangadex.org/covers/0e79d7ee-2696-44b1-9b99-8986c05a5ddf/0608c076-8ea1-4db7-bc08-f4efb47f90c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34187,
+        "aniId": 64187,
+        "createdAt": "2020-10-12T16:06:19.000Z",
+        "updatedAt": "2021-06-03T18:54:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

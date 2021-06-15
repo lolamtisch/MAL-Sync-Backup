@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "Panorama Island",
+    "パノラマ島綺譚",
+    "The Strange Tale of Panorama Island",
+    "Panorama Tōkitan"
+  ],
+  "authors": [
+    "Suehiro Maruo",
+    "Rampo Edogawa"
+  ],
+  "id": 40675,
+  "malId": 10675,
+  "type": "manga",
+  "title": "Panorama Toukitan",
+  "url": "https://anilist.co/manga/40675",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10675.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:08.000Z",
+  "updatedAt": "2021-05-20T14:41:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8bbf7f06-7847-4d59-b188-b7b1a84985fa": {
+        "authors": [
+          "Maruo Suehiro",
+          "Edogawa Ranpo"
+        ],
+        "identifier": "8bbf7f06-7847-4d59-b188-b7b1a84985fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Strange Tale of Panorama Island",
+        "url": "https://mangadex.org/title/8bbf7f06-7847-4d59-b188-b7b1a84985fa",
+        "image": "https://uploads.mangadex.org/covers/8bbf7f06-7847-4d59-b188-b7b1a84985fa/021cfeb5-3f99-4623-94d9-106f705b0056.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10675,
+        "aniId": 40675,
+        "createdAt": "2020-10-12T16:07:06.000Z",
+        "updatedAt": "2021-06-04T00:23:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-strange-tale-of-panorama-island": {
+        "authors": [
+          "EDOGAWA Ranpo",
+          "MARUO Suehiro"
+        ],
+        "identifier": "the-strange-tale-of-panorama-island",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Strange Tale of Panorama Island",
+        "url": "https://mangasee123.com/manga/The-Strange-Tale-Of-Panorama-Island",
+        "image": "https://cover.nep.li/cover/The-Strange-Tale-Of-Panorama-Island.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10675,
+        "aniId": 40675,
+        "createdAt": "2020-12-12T18:47:53.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

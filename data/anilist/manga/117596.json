@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "マンガ家先生と座敷わらし"
+  ],
+  "authors": [
+    "Nukku"
+  ],
+  "id": 117596,
+  "malId": null,
+  "type": "manga",
+  "title": "Mangaka Sensei to Zashiki Warashi",
+  "url": "https://anilist.co/manga/117596",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117596-kOMAtIRrALqA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T15:34:37.000Z",
+  "updatedAt": "2021-06-07T15:34:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6d86a45c-cd07-474f-908c-43d87fe84fe0": {
+        "authors": [
+          "Nukku"
+        ],
+        "identifier": "6d86a45c-cd07-474f-908c-43d87fe84fe0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mangaka-sensei to Zashiki Warashi",
+        "url": "https://mangadex.org/title/6d86a45c-cd07-474f-908c-43d87fe84fe0",
+        "image": "https://uploads.mangadex.org/covers/6d86a45c-cd07-474f-908c-43d87fe84fe0/eb745894-c3c5-403a-94a1-f0822aeb05d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 117596,
+        "createdAt": "2020-10-12T16:18:15.000Z",
+        "updatedAt": "2021-06-07T16:25:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

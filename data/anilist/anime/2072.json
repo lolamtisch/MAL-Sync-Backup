@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "アイドルプロジェクト"
+  ],
+  "id": 2072,
+  "malId": 2072,
+  "type": "anime",
+  "title": "Idol Project",
+  "url": "https://anilist.co/anime/2072",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2072.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:08.000Z",
+  "updatedAt": "2021-05-20T14:36:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "3lxy": {
+        "identifier": "3lxy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Idol Project",
+        "url": "https://9anime.ru/watch/idol-project.3lxy",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uWMsE0958qI/WVC95AF_smI/AAAAAAAAAeY/Kw7HBilJ3JAIkCQ9hEwDicRx6L_al_mDwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2072,
+        "aniId": 2072,
+        "createdAt": "2020-10-12T15:49:46.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "4mx7": {
+        "identifier": "4mx7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Idol Project (Dub)",
+        "url": "https://9anime.ru/watch/idol-project-dub.4mx7",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nqAN9kFEbQ8/WVC9zXovwQI/AAAAAAAAAeU/oMG8xVpQVpIibYMPx7VoU8J4u3TBUuJRACHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2072,
+        "aniId": 2072,
+        "createdAt": "2020-10-12T15:50:08.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "idol-project": {
+        "identifier": "idol-project",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Idol Project",
+        "url": "https://gogoanime.so/category/idol-project",
+        "image": "https://gogocdn.net/cover/idol-project.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2072,
+        "aniId": 2072,
+        "createdAt": "2020-10-12T17:55:46.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "僕は恥っこが好き",
+    "Bokuhaji"
+  ],
+  "authors": [
+    "Ken Wakai"
+  ],
+  "id": 62201,
+  "malId": 32201,
+  "type": "manga",
+  "title": "Boku wa Hajikko ga Suki",
+  "url": "https://anilist.co/manga/62201",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx62201-Ve9GizoPed1u.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:49.000Z",
+  "updatedAt": "2021-05-20T14:47:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8410f7e4-deda-4e72-aa6b-b1953eace585": {
+        "authors": [
+          "Wakai Ken"
+        ],
+        "identifier": "8410f7e4-deda-4e72-aa6b-b1953eace585",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku wa Hajikko ga Suki",
+        "url": "https://mangadex.org/title/8410f7e4-deda-4e72-aa6b-b1953eace585",
+        "image": "https://uploads.mangadex.org/covers/8410f7e4-deda-4e72-aa6b-b1953eace585/69362578-b9b4-4ca5-baee-669837f225b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32201,
+        "aniId": 62201,
+        "createdAt": "2020-10-12T16:04:44.000Z",
+        "updatedAt": "2021-06-02T23:03:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_wa_hajikko_ga_suki": {
+        "authors": [],
+        "identifier": "boku_wa_hajikko_ga_suki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku Wa Hajikko Ga Suki",
+        "url": "https://manganelo.com/manga/boku_wa_hajikko_ga_suki",
+        "image": "https://avt.mkklcdnv6.com/39/n/6-1583475761.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32201,
+        "aniId": 62201,
+        "createdAt": "2020-10-12T16:22:19.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_wa_hajikko_ga_suki": {
+        "authors": [
+          "WAKAI Ken"
+        ],
+        "identifier": "boku_wa_hajikko_ga_suki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku wa Hajikko ga Suki",
+        "url": "https://fanfox.net/manga/boku_wa_hajikko_ga_suki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10649/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32201,
+        "aniId": 62201,
+        "createdAt": "2021-01-27T09:10:27.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

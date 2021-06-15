@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ReCollection",
+    "ReCollection"
+  ],
+  "authors": [
+    "Takano, Ichigo"
+  ],
+  "id": 51709,
+  "type": "manga",
+  "title": "ReCollection",
+  "url": "https://myanimelist.net/manga/51709/ReCollection",
+  "image": "https://cdn.myanimelist.net/images/manga/2/169613.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:42.000Z",
+  "updatedAt": "2021-06-02T10:00:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e23b45c-bc7d-4524-b1d2-6391c83d72c3": {
+        "authors": [
+          "TAKANO Ichigo"
+        ],
+        "identifier": "1e23b45c-bc7d-4524-b1d2-6391c83d72c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Re Collection",
+        "url": "https://mangadex.org/title/1e23b45c-bc7d-4524-b1d2-6391c83d72c3",
+        "image": "https://uploads.mangadex.org/covers/1e23b45c-bc7d-4524-b1d2-6391c83d72c3/0a4aa678-956e-4942-961b-d6580159357a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51709,
+        "aniId": 81709,
+        "createdAt": "2020-10-12T16:06:29.000Z",
+        "updatedAt": "2021-06-03T19:58:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "re_collection": {
+        "authors": [
+          "TAKANO Ichigo"
+        ],
+        "identifier": "re_collection",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Re Collection",
+        "url": "https://fanfox.net/manga/re_collection/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13309/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51709,
+        "aniId": 81709,
+        "createdAt": "2021-05-01T18:03:31.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

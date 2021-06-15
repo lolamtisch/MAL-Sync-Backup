@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ままならないもんで",
+    "(B)Romance"
+  ],
+  "authors": [
+    "Kai Asou"
+  ],
+  "id": 101713,
+  "malId": 111156,
+  "type": "manga",
+  "title": "Mamanaranai Mon de",
+  "url": "https://anilist.co/manga/101713",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/101713-W6UIqnXDtXEO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:18.000Z",
+  "updatedAt": "2021-05-20T14:56:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2245988-ae60-4c57-9e0e-c1784939f0d8": {
+        "authors": [
+          "Asou Kai"
+        ],
+        "identifier": "d2245988-ae60-4c57-9e0e-c1784939f0d8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mamanaranai Mon de",
+        "url": "https://mangadex.org/title/d2245988-ae60-4c57-9e0e-c1784939f0d8",
+        "image": "https://uploads.mangadex.org/covers/d2245988-ae60-4c57-9e0e-c1784939f0d8/b22c0222-a93e-4e39-9d59-e21d96f82c77.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111156,
+        "aniId": 101713,
+        "createdAt": "2020-10-12T16:13:33.000Z",
+        "updatedAt": "2021-06-05T22:11:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

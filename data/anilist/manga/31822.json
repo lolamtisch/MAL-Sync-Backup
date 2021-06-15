@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Kanon"
+  ],
+  "authors": [
+    "Key",
+    "Petit Morishima"
+  ],
+  "id": 31822,
+  "malId": 1822,
+  "type": "manga",
+  "title": "Kanon",
+  "url": "https://anilist.co/manga/31822",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31822-BNGMaIsXnV6f.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:54.000Z",
+  "updatedAt": "2021-05-20T14:36:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "85cef40d-c954-4cf9-9d6e-cb5d6b9e5135": {
+        "authors": [
+          "Key",
+          "MORISHIMA Petit"
+        ],
+        "identifier": "85cef40d-c954-4cf9-9d6e-cb5d6b9e5135",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanon (Key)",
+        "url": "https://mangadex.org/title/85cef40d-c954-4cf9-9d6e-cb5d6b9e5135",
+        "image": "https://uploads.mangadex.org/covers/85cef40d-c954-4cf9-9d6e-cb5d6b9e5135/4c415f20-8338-4193-8826-65c87e05a1dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1822,
+        "aniId": 31822,
+        "createdAt": "2020-10-12T16:07:31.000Z",
+        "updatedAt": "2021-06-04T03:25:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

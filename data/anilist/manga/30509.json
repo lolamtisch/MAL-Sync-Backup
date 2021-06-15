@@ -1,0 +1,131 @@
+{
+  "altTitle": [
+    "Saiyuki",
+    "最遊記",
+    "Gensomaden Saiyuki"
+  ],
+  "authors": [
+    "Kazuya Minekura",
+    "Alethea Nibley",
+    "Athena Nibley"
+  ],
+  "id": 30509,
+  "malId": 509,
+  "type": "manga",
+  "title": "Saiyuuki",
+  "url": "https://anilist.co/manga/30509",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30509-dyDz0HuHxtpZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc8643f2-5ede-4b0a-9bcd-8994a201b45b": {
+        "authors": [
+          "Minekura Kazuya"
+        ],
+        "identifier": "cc8643f2-5ede-4b0a-9bcd-8994a201b45b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saiyuki",
+        "url": "https://mangadex.org/title/cc8643f2-5ede-4b0a-9bcd-8994a201b45b",
+        "image": "https://uploads.mangadex.org/covers/cc8643f2-5ede-4b0a-9bcd-8994a201b45b/27c99186-3786-4a2a-80d0-589e5773ab81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 509,
+        "aniId": 30509,
+        "createdAt": "2020-10-12T16:04:52.000Z",
+        "updatedAt": "2021-06-03T00:03:13.000Z",
+        "deletedAt": null
+      },
+      "f48e9dc6-354d-45fb-a26f-cb14fa91f0c6": {
+        "authors": [
+          "Variety Art Works"
+        ],
+        "identifier": "f48e9dc6-354d-45fb-a26f-cb14fa91f0c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saiyuuki",
+        "url": "https://mangadex.org/title/f48e9dc6-354d-45fb-a26f-cb14fa91f0c6",
+        "image": "https://uploads.mangadex.org/covers/f48e9dc6-354d-45fb-a26f-cb14fa91f0c6/1feaded2-0c98-42f8-9acc-bfa40679f78b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 509,
+        "aniId": 30509,
+        "createdAt": "2020-10-12T16:17:18.000Z",
+        "updatedAt": "2021-06-07T06:38:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mt918947": {
+        "authors": [],
+        "identifier": "mt918947",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Last Saiyuki",
+        "url": "https://manganelo.com/manga/mt918947",
+        "image": "https://avt.mkklcdnv6.com/13/z/18-1583497627.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 509,
+        "aniId": 30509,
+        "createdAt": "2020-10-12T16:24:24.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "saiyuki": {
+        "authors": [
+          "MINEKURA Kazuya"
+        ],
+        "identifier": "saiyuki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Saiyuki",
+        "url": "https://mangasee123.com/manga/Saiyuki",
+        "image": "https://cover.nep.li/cover/Saiyuki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 509,
+        "aniId": 30509,
+        "createdAt": "2020-12-30T18:48:43.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "saiyuki": {
+        "authors": [
+          "MINEKURA Kazuya"
+        ],
+        "identifier": "saiyuki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Saiyuki",
+        "url": "https://fanfox.net/manga/saiyuki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/187/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 509,
+        "aniId": 30509,
+        "createdAt": "2021-02-20T02:03:40.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "ハコニワ"
+  ],
+  "authors": [
+    "Homerun Ken"
+  ],
+  "id": 90256,
+  "type": "manga",
+  "title": "Hakoniwa",
+  "url": "https://myanimelist.net/manga/90256/Hakoniwa",
+  "image": "https://cdn.myanimelist.net/images/manga/3/158342.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:22:28.000Z",
+  "updatedAt": "2021-06-04T16:22:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c6354c14-c355-4418-845c-c2014dbde2ed": {
+        "authors": [
+          "Homerun Ken"
+        ],
+        "identifier": "c6354c14-c355-4418-845c-c2014dbde2ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakoniwa",
+        "url": "https://mangadex.org/title/c6354c14-c355-4418-845c-c2014dbde2ed",
+        "image": "https://uploads.mangadex.org/covers/c6354c14-c355-4418-845c-c2014dbde2ed/4093e750-3262-4eaa-9e48-c059e1f328ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90256,
+        "aniId": 95241,
+        "createdAt": "2020-10-12T16:09:13.000Z",
+        "updatedAt": "2021-06-04T22:08:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

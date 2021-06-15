@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ソールトリガー"
+  ],
+  "authors": [
+    "Sakaki Yoshioka"
+  ],
+  "id": 75632,
+  "malId": 45632,
+  "type": "manga",
+  "title": "Sol Trigger",
+  "url": "https://anilist.co/manga/75632",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75632-zII4Dg3jJFIy.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:27.000Z",
+  "updatedAt": "2021-05-20T14:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4a996091-0244-45dc-99d4-94b5d3f0cb76": {
+        "authors": [
+          "Yoshioka Sakaki",
+          "Imageepoch"
+        ],
+        "identifier": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sol Trigger",
+        "url": "https://mangadex.org/title/4a996091-0244-45dc-99d4-94b5d3f0cb76",
+        "image": "https://uploads.mangadex.org/covers/4a996091-0244-45dc-99d4-94b5d3f0cb76/3a992a89-7d71-480d-a514-8f8c7f2b8814.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45632,
+        "aniId": 75632,
+        "createdAt": "2020-10-12T16:05:39.000Z",
+        "updatedAt": "2021-06-03T14:03:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

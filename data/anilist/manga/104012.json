@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "傘寿まり子",
+    "Mariko at 80"
+  ],
+  "authors": [
+    "Yuki Ozawa"
+  ],
+  "id": 104012,
+  "malId": 111365,
+  "type": "manga",
+  "title": "Sanju Mariko",
+  "url": "https://anilist.co/manga/104012",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104012-oN2bwUmcC0nB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:20.000Z",
+  "updatedAt": "2021-05-20T14:56:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d579c665-7cdb-4c5f-9370-942231fd35bc": {
+        "authors": [
+          "OZAWA Yuki"
+        ],
+        "identifier": "d579c665-7cdb-4c5f-9370-942231fd35bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sanju Mariko",
+        "url": "https://mangadex.org/title/d579c665-7cdb-4c5f-9370-942231fd35bc",
+        "image": "https://uploads.mangadex.org/covers/d579c665-7cdb-4c5f-9370-942231fd35bc/13faad1f-436d-45b7-b56f-d8a0ad668050.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111365,
+        "aniId": 104012,
+        "createdAt": "2020-10-12T16:13:44.000Z",
+        "updatedAt": "2021-06-05T23:37:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sanju_mariko": {
+        "authors": [],
+        "identifier": "sanju_mariko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sanju Mariko",
+        "url": "https://manganelo.com/manga/sanju_mariko",
+        "image": "https://avt.mkklcdnv6.com/47/z/16-1583495191.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111365,
+        "aniId": 104012,
+        "createdAt": "2020-10-12T16:25:18.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

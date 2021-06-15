@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "SKIN"
+  ],
+  "authors": [
+    "Nemui Asada"
+  ],
+  "id": 87392,
+  "malId": 100294,
+  "type": "manga",
+  "title": "Skin",
+  "url": "https://anilist.co/manga/87392",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87392-te4GKSNib5Xr.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:54:49.000Z",
+  "updatedAt": "2021-05-20T14:54:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6430950-89f4-4a55-8a05-ab807f0c708f": {
+        "authors": [
+          "Asada Nemui"
+        ],
+        "identifier": "b6430950-89f4-4a55-8a05-ab807f0c708f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Skin",
+        "url": "https://mangadex.org/title/b6430950-89f4-4a55-8a05-ab807f0c708f",
+        "image": "https://uploads.mangadex.org/covers/b6430950-89f4-4a55-8a05-ab807f0c708f/c4648ac9-d07b-48a5-b981-13691a950696.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100294,
+        "aniId": 87392,
+        "createdAt": "2020-10-12T16:09:30.000Z",
+        "updatedAt": "2021-06-04T18:02:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

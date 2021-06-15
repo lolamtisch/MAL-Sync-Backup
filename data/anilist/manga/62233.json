@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "スカイブルー",
+    "Skyblue"
+  ],
+  "authors": [
+    "Daiki Kobayashi"
+  ],
+  "id": 62233,
+  "malId": 32233,
+  "type": "manga",
+  "title": "Sky Blue",
+  "url": "https://anilist.co/manga/62233",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32233.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:49.000Z",
+  "updatedAt": "2021-05-20T14:47:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "02f624ce-2853-428a-a85f-0ebdf36e44f2": {
+        "authors": [
+          "KOBAYASHI Daiki"
+        ],
+        "identifier": "02f624ce-2853-428a-a85f-0ebdf36e44f2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sky Blue",
+        "url": "https://mangadex.org/title/02f624ce-2853-428a-a85f-0ebdf36e44f2",
+        "image": "https://uploads.mangadex.org/covers/02f624ce-2853-428a-a85f-0ebdf36e44f2/b354bf7a-0345-4d02-b53f-c39e6983d428.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32233,
+        "aniId": 62233,
+        "createdAt": "2020-10-12T16:04:07.000Z",
+        "updatedAt": "2021-06-02T18:51:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sky_blue": {
+        "authors": [],
+        "identifier": "sky_blue",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sky Blue",
+        "url": "https://manganelo.com/manga/sky_blue",
+        "image": "https://avt.mkklcdnv6.com/11/o/2-1583466146.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32233,
+        "aniId": 62233,
+        "createdAt": "2020-10-12T16:25:28.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sky-blue": {
+        "authors": [
+          "KOBAYASHI Daiki"
+        ],
+        "identifier": "sky-blue",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sky Blue",
+        "url": "https://mangasee123.com/manga/Sky-Blue",
+        "image": "https://cover.nep.li/cover/Sky-Blue.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32233,
+        "aniId": 62233,
+        "createdAt": "2021-04-12T18:47:08.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

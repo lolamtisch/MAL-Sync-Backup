@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Noodle Shop Affair",
+    "秘密な関係; ナイショな関係; ホントの関係",
+    "Secret Connection",
+    "Naisho na Kankei",
+    "Honto no Kankei"
+  ],
+  "authors": [
+    "CJ Michalski"
+  ],
+  "id": 42578,
+  "malId": 12578,
+  "type": "manga",
+  "title": "Himitsu na Kankei",
+  "url": "https://anilist.co/manga/42578",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12578.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:23.000Z",
+  "updatedAt": "2021-06-07T00:19:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b2d45a52-dc2f-4473-9bda-ef52252dee2e": {
+        "authors": [
+          "CJ Michalski"
+        ],
+        "identifier": "b2d45a52-dc2f-4473-9bda-ef52252dee2e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secret Connection",
+        "url": "https://mangadex.org/title/b2d45a52-dc2f-4473-9bda-ef52252dee2e",
+        "image": "https://uploads.mangadex.org/covers/b2d45a52-dc2f-4473-9bda-ef52252dee2e/855ee6d5-a1d0-417c-9838-21108908afd7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12578,
+        "aniId": 42578,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-06-07T07:31:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "alphario_the_world_connection": {
+        "authors": [],
+        "identifier": "alphario_the_world_connection",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Alphario: The World Connection",
+        "url": "https://manganelo.com/manga/alphario_the_world_connection",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17538-alphario_the_world_connection.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12578,
+        "aniId": 42578,
+        "createdAt": "2020-10-12T16:22:04.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

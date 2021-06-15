@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Panikuru Iko-san",
+    "ぱにくるイ子さん！"
+  ],
+  "authors": [
+    "Haru Wamusato"
+  ],
+  "id": 50210,
+  "malId": 20210,
+  "type": "manga",
+  "title": "Panikuru Iko-san!",
+  "url": "https://anilist.co/manga/50210",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20210.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:28.000Z",
+  "updatedAt": "2021-05-20T14:45:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4fc31eed-e273-411b-8edc-013a96938f75": {
+        "authors": [
+          "WAMUSATO Haru"
+        ],
+        "identifier": "4fc31eed-e273-411b-8edc-013a96938f75",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Panikuru Iko-san!",
+        "url": "https://mangadex.org/title/4fc31eed-e273-411b-8edc-013a96938f75",
+        "image": "https://uploads.mangadex.org/covers/4fc31eed-e273-411b-8edc-013a96938f75/4c93ab7b-0260-46d4-9dca-81c5b97dc07c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20210,
+        "aniId": 50210,
+        "createdAt": "2020-10-12T16:05:08.000Z",
+        "updatedAt": "2021-06-03T10:29:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

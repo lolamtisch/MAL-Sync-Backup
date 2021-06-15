@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Pansy",
+    "光のパンジー",
+    "Hikari no Panji"
+  ],
+  "authors": [
+    "Mariko Okumura"
+  ],
+  "id": 35966,
+  "malId": 5966,
+  "type": "manga",
+  "title": "Hikari no Pansy",
+  "url": "https://anilist.co/manga/35966",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5966.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:36.000Z",
+  "updatedAt": "2021-05-20T14:39:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6cc7f078-88c1-4748-b4b9-34db7472aa7c": {
+        "authors": [
+          "Okumura Mariko"
+        ],
+        "identifier": "6cc7f078-88c1-4748-b4b9-34db7472aa7c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hikari no Pansy",
+        "url": "https://mangadex.org/title/6cc7f078-88c1-4748-b4b9-34db7472aa7c",
+        "image": "https://uploads.mangadex.org/covers/6cc7f078-88c1-4748-b4b9-34db7472aa7c/7790c95f-735d-4fae-94bb-9911e0dd749c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5966,
+        "aniId": 35966,
+        "createdAt": "2020-10-12T16:03:41.000Z",
+        "updatedAt": "2021-06-02T15:48:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

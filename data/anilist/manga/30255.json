@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "HERO・HEEL 英雄と悪漢",
+    "HERO HEEL",
+    "Hero-Heel"
+  ],
+  "authors": [
+    "Makoto Tateno"
+  ],
+  "id": 30255,
+  "malId": 255,
+  "type": "manga",
+  "title": "HERO HEEL: Eiyuu to Akkan",
+  "url": "https://anilist.co/manga/30255",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30255-ZnQA4LxALpBN.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9c46e8e8-9487-464e-b2b0-cf9d0d0ae277": {
+        "authors": [
+          "TATENO Makoto"
+        ],
+        "identifier": "9c46e8e8-9487-464e-b2b0-cf9d0d0ae277",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hero Heel",
+        "url": "https://mangadex.org/title/9c46e8e8-9487-464e-b2b0-cf9d0d0ae277",
+        "image": "https://uploads.mangadex.org/covers/9c46e8e8-9487-464e-b2b0-cf9d0d0ae277/edc29366-045d-4121-8bbe-03b8e3c88c92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 255,
+        "aniId": 30255,
+        "createdAt": "2020-12-14T11:49:26.000Z",
+        "updatedAt": "2021-06-08T08:36:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

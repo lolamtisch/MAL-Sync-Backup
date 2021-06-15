@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ヤオツクモ"
+  ],
+  "authors": [
+    "Suzuki, Sanami"
+  ],
+  "id": 47457,
+  "type": "manga",
+  "title": "Yaotsukumo",
+  "url": "https://myanimelist.net/manga/47457/Yaotsukumo",
+  "image": "https://cdn.myanimelist.net/images/manga/1/194891.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:29.000Z",
+  "updatedAt": "2021-05-07T10:17:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52f4c0a6-2919-4427-aa62-4b25d0b5f05c": {
+        "authors": [
+          "SUZUKI Sanami"
+        ],
+        "identifier": "52f4c0a6-2919-4427-aa62-4b25d0b5f05c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yaotsukumo",
+        "url": "https://mangadex.org/title/52f4c0a6-2919-4427-aa62-4b25d0b5f05c",
+        "image": "https://uploads.mangadex.org/covers/52f4c0a6-2919-4427-aa62-4b25d0b5f05c/1789cbeb-349a-4842-91d1-0217d92ff699.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47457,
+        "aniId": 77457,
+        "createdAt": "2020-10-12T16:05:58.000Z",
+        "updatedAt": "2021-06-03T16:09:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yaotsukumo": {
+        "authors": [
+          "Suzuki",
+          "Sanami"
+        ],
+        "identifier": "yaotsukumo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yaotsukumo",
+        "url": "https://manganelo.com/manga/yaotsukumo",
+        "image": "https://avt.mkklcdnv6temp.com/40/i/7-1583477800.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47457,
+        "aniId": 77457,
+        "createdAt": "2021-05-16T21:55:47.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

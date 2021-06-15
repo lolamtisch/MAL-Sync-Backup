@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "秘密には向かない職業"
+  ],
+  "authors": [
+    "Kanai, Kei"
+  ],
+  "id": 131086,
+  "type": "manga",
+  "title": "Himitsu ni wa Mukanai Shokugyou",
+  "url": "https://myanimelist.net/manga/131086/Himitsu_ni_wa_Mukanai_Shokugyou",
+  "image": "https://cdn.myanimelist.net/images/manga/3/238311.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:24:06.000Z",
+  "updatedAt": "2021-06-08T07:24:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e9d13d5-0166-4ff7-9939-b01dbed1f0c6": {
+        "authors": [
+          "Kanai Kei"
+        ],
+        "identifier": "3e9d13d5-0166-4ff7-9939-b01dbed1f0c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himitsu Niwa Mukanai Syokugyou",
+        "url": "https://mangadex.org/title/3e9d13d5-0166-4ff7-9939-b01dbed1f0c6",
+        "image": "https://uploads.mangadex.org/covers/3e9d13d5-0166-4ff7-9939-b01dbed1f0c6/cfb7c02b-2d97-4215-a94d-77df6f3f70b4.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131086,
+        "aniId": 123572,
+        "createdAt": "2020-10-12T16:21:07.000Z",
+        "updatedAt": "2021-06-08T07:27:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

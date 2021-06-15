@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Wish",
+    "Wish"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 109,
+  "type": "manga",
+  "title": "Wish",
+  "url": "https://myanimelist.net/manga/109/Wish",
+  "image": "https://cdn.myanimelist.net/images/manga/4/17942.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:18.000Z",
+  "updatedAt": "2021-06-05T19:50:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2c478f2-31ce-47bc-90bf-7beb6c1dd8ac": {
+        "authors": [
+          "CLAMP",
+          "OHKAWA Ageha",
+          "NEKOI Tsubaki"
+        ],
+        "identifier": "d2c478f2-31ce-47bc-90bf-7beb6c1dd8ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wish",
+        "url": "https://mangadex.org/title/d2c478f2-31ce-47bc-90bf-7beb6c1dd8ac",
+        "image": "https://uploads.mangadex.org/covers/d2c478f2-31ce-47bc-90bf-7beb6c1dd8ac/dfeaa038-be94-4905-aaef-3279b19b7aa8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109,
+        "aniId": 30109,
+        "createdAt": "2020-10-12T16:13:11.000Z",
+        "updatedAt": "2021-06-05T20:21:31.000Z",
+        "deletedAt": null
+      },
+      "aabdc4af-02fc-4f27-8865-39ecf1895102": {
+        "authors": [
+          "Once"
+        ],
+        "identifier": "aabdc4af-02fc-4f27-8865-39ecf1895102",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wish Me Love",
+        "url": "https://mangadex.org/title/aabdc4af-02fc-4f27-8865-39ecf1895102",
+        "image": "https://uploads.mangadex.org/covers/aabdc4af-02fc-4f27-8865-39ecf1895102/83a967c0-c6ff-4417-b82a-852feaa712a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109,
+        "aniId": 30109,
+        "createdAt": "2020-10-12T16:16:35.000Z",
+        "updatedAt": "2021-06-07T00:02:53.000Z",
+        "deletedAt": null
+      },
+      "8f43d0a2-8f21-4b78-8f31-206e1b905e89": {
+        "authors": [
+          "Kawai Rou"
+        ],
+        "identifier": "8f43d0a2-8f21-4b78-8f31-206e1b905e89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Her True Wish",
+        "url": "https://mangadex.org/title/8f43d0a2-8f21-4b78-8f31-206e1b905e89",
+        "image": "https://uploads.mangadex.org/covers/8f43d0a2-8f21-4b78-8f31-206e1b905e89/6013e303-14a2-4f4d-b70f-6c42aa045ca2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109,
+        "aniId": 30109,
+        "createdAt": "2020-10-12T16:16:52.000Z",
+        "updatedAt": "2021-06-07T02:39:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

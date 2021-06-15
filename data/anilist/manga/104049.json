@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "I Don't Like That Smile",
+    "その笑顔好きじゃない"
+  ],
+  "authors": [
+    "Hiroshi Daken"
+  ],
+  "id": 104049,
+  "malId": null,
+  "type": "manga",
+  "title": "Sono Egao Suki ja Nai",
+  "url": "https://anilist.co/manga/104049",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104049-jDQZiJSg7MDA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-29T03:12:13.000Z",
+  "updatedAt": "2021-06-07T06:49:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2a0fe6c-9b21-481d-be5d-cd6794c75083": {
+        "authors": [
+          "Hiroshi Daken"
+        ],
+        "identifier": "e2a0fe6c-9b21-481d-be5d-cd6794c75083",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sono Egao Suki Janai",
+        "url": "https://mangadex.org/title/e2a0fe6c-9b21-481d-be5d-cd6794c75083",
+        "image": "https://uploads.mangadex.org/covers/e2a0fe6c-9b21-481d-be5d-cd6794c75083/6a125a03-7183-4185-8d2c-5108ec794c2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 104049,
+        "createdAt": "2021-01-20T17:02:56.000Z",
+        "updatedAt": "2021-06-08T10:44:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kp988050": {
+        "authors": [
+          "Daken Hiroshi"
+        ],
+        "identifier": "manga-kp988050",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Don’T Like That Smile",
+        "url": "https://manganato.com/manga-kp988050",
+        "image": "https://avt.mkklcdnv6temp.com/22/u/23-1612838078.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 109508,
+        "aniId": 104049,
+        "createdAt": "2021-05-31T13:24:37.000Z",
+        "updatedAt": "2021-06-06T13:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

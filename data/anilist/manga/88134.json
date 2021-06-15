@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "先生のことが好きなんです"
+  ],
+  "authors": [
+    "Ryou Misaki"
+  ],
+  "id": 88134,
+  "malId": 56109,
+  "type": "manga",
+  "title": "Sensei no Koto ga Suki nan desu",
+  "url": "https://anilist.co/manga/88134",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88134-8hjUzNYB3Vrl.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:27.000Z",
+  "updatedAt": "2021-05-20T14:50:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ae4e5ec4-9090-4cbf-9305-a53097528705": {
+        "authors": [
+          "MISAKI Ryou"
+        ],
+        "identifier": "ae4e5ec4-9090-4cbf-9305-a53097528705",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sensei no Koto Ga Suki nan Desu",
+        "url": "https://mangadex.org/title/ae4e5ec4-9090-4cbf-9305-a53097528705",
+        "image": "https://uploads.mangadex.org/covers/ae4e5ec4-9090-4cbf-9305-a53097528705/a6ad4e6f-0d9b-452f-a587-3a976a190337.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56109,
+        "aniId": 88134,
+        "createdAt": "2020-10-12T16:06:46.000Z",
+        "updatedAt": "2021-06-03T22:00:09.000Z",
+        "deletedAt": null
+      },
+      "9f07f46a-9f6e-4b05-9b40-bb4868960ebd": {
+        "authors": [
+          "Sek",
+          "Kurisu-kun"
+        ],
+        "identifier": "9f07f46a-9f6e-4b05-9b40-bb4868960ebd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "WataShu",
+        "url": "https://mangadex.org/title/9f07f46a-9f6e-4b05-9b40-bb4868960ebd",
+        "image": "https://uploads.mangadex.org/covers/9f07f46a-9f6e-4b05-9b40-bb4868960ebd/d85a3e93-2dcd-44be-bb19-e4dea4a03c10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56109,
+        "aniId": 88134,
+        "createdAt": "2020-10-12T16:10:18.000Z",
+        "updatedAt": "2021-06-04T23:40:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "The Forest of Chicks",
+    "ザ・雛ノ森",
+    "The Hinanomori"
+  ],
+  "authors": [
+    "Tamaki Kirishima"
+  ],
+  "id": 45115,
+  "malId": 15115,
+  "type": "manga",
+  "title": "The Hina no Mori",
+  "url": "https://anilist.co/manga/45115",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15115.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:43.000Z",
+  "updatedAt": "2021-05-20T14:43:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2a1019f5-ecab-4e75-b522-c3bd9c3a8207": {
+        "authors": [
+          "Kirishima Tamaki"
+        ],
+        "identifier": "2a1019f5-ecab-4e75-b522-c3bd9c3a8207",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Hinanomori",
+        "url": "https://mangadex.org/title/2a1019f5-ecab-4e75-b522-c3bd9c3a8207",
+        "image": "https://uploads.mangadex.org/covers/2a1019f5-ecab-4e75-b522-c3bd9c3a8207/45cfa09a-69c6-4a94-94ce-5d518a14587a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15115,
+        "aniId": 45115,
+        "createdAt": "2020-10-12T16:13:31.000Z",
+        "updatedAt": "2021-06-05T22:02:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ヘクセンハンマー"
+  ],
+  "authors": [
+    "Aguri Ooue"
+  ],
+  "id": 117902,
+  "malId": null,
+  "type": "manga",
+  "title": "Hexenhammer",
+  "url": "https://anilist.co/manga/117902",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117902-nxMMzQ5PKpd9.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-07T21:51:58.000Z",
+  "updatedAt": "2021-06-07T21:51:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "45c8fab1-a97c-4dd9-ad7a-3de5c740b7d6": {
+        "authors": [
+          "Ohue Aguri"
+        ],
+        "identifier": "45c8fab1-a97c-4dd9-ad7a-3de5c740b7d6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hexenhammer",
+        "url": "https://mangadex.org/title/45c8fab1-a97c-4dd9-ad7a-3de5c740b7d6",
+        "image": "https://uploads.mangadex.org/covers/45c8fab1-a97c-4dd9-ad7a-3de5c740b7d6/7974bf12-1070-432b-9df3-b9683750c225.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117902,
+        "createdAt": "2020-10-12T16:19:05.000Z",
+        "updatedAt": "2021-06-07T21:57:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

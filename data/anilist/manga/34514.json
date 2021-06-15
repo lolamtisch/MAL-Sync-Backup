@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "今日、恋をはじめます",
+    "Today",
+    "We'll Start Our Love"
+  ],
+  "authors": [
+    "Kanan Minami"
+  ],
+  "id": 34514,
+  "malId": 4514,
+  "type": "manga",
+  "title": "Kyou, Koi wo Hajimemasu",
+  "url": "https://anilist.co/manga/34514",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4514-1Qi1whLn2uZg.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:32.000Z",
+  "updatedAt": "2021-05-20T14:38:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc748028-38c9-4ce3-84a3-d74f3c692c97": {
+        "authors": [
+          "Minami Kanan"
+        ],
+        "identifier": "fc748028-38c9-4ce3-84a3-d74f3c692c97",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyou, Koi wo Hajimemasu",
+        "url": "https://mangadex.org/title/fc748028-38c9-4ce3-84a3-d74f3c692c97",
+        "image": "https://uploads.mangadex.org/covers/fc748028-38c9-4ce3-84a3-d74f3c692c97/fc7c8af4-4e7c-4d26-b8ad-479c90355def.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4514,
+        "aniId": 34514,
+        "createdAt": "2020-10-12T16:02:39.000Z",
+        "updatedAt": "2021-06-02T08:34:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kyou_koi_wo_hajimemasu": {
+        "authors": [],
+        "identifier": "kyou_koi_wo_hajimemasu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kyou, Koi wo Hajimemasu",
+        "url": "https://manganelo.com/manga/kyou_koi_wo_hajimemasu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4777-kyou_koi_wo_hajimemasu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4514,
+        "aniId": 34514,
+        "createdAt": "2020-10-12T16:24:04.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fh957116": {
+        "authors": [
+          "Minami Kanan"
+        ],
+        "identifier": "manga-fh957116",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kyou, Koi Wo Hajimemasu",
+        "url": "https://manganato.com/manga-fh957116",
+        "image": "https://avt.mkklcdnv6temp.com/35/m/4-1583471147.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4514,
+        "aniId": 34514,
+        "createdAt": "2021-05-31T09:10:27.000Z",
+        "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

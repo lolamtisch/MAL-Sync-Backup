@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Nightmare Campus",
+    "外道学園",
+    "Black Board Jungle",
+    "Gendô Gakuen Black Board Jungle"
+  ],
+  "authors": [
+    "Toshio Maeda"
+  ],
+  "id": 42566,
+  "malId": 12566,
+  "type": "manga",
+  "title": "Gedou Gakuen",
+  "url": "https://anilist.co/manga/42566",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12566.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:42:23.000Z",
+  "updatedAt": "2021-05-20T14:42:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44830b40-3421-447e-ad25-9043fa2f36e2": {
+        "authors": [
+          "MAEDA Toshio"
+        ],
+        "identifier": "44830b40-3421-447e-ad25-9043fa2f36e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nightmare Campus: Black Board Jungle",
+        "url": "https://mangadex.org/title/44830b40-3421-447e-ad25-9043fa2f36e2",
+        "image": "https://uploads.mangadex.org/covers/44830b40-3421-447e-ad25-9043fa2f36e2/423d9dc0-6095-48b6-a460-e48b44f843b4.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12566,
+        "aniId": 42566,
+        "createdAt": "2020-10-12T16:14:03.000Z",
+        "updatedAt": "2021-06-06T02:03:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

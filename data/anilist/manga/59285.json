@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "猫絵十兵衛 御伽草紙",
+    "Nekoe Juubee Otogi Soushi"
+  ],
+  "authors": [
+    "Maru Nagao"
+  ],
+  "id": 59285,
+  "malId": 29285,
+  "type": "manga",
+  "title": "Edo Nekoe Jubei Otogizoshi",
+  "url": "https://anilist.co/manga/59285",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59285-VAQrHp8ZFhUO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:36.000Z",
+  "updatedAt": "2021-05-20T14:47:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a13cd24-4729-4068-8665-87bfd1affc20": {
+        "authors": [
+          "NAGAO Maru"
+        ],
+        "identifier": "8a13cd24-4729-4068-8665-87bfd1affc20",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nekoe Juubee Otogi Soushi",
+        "url": "https://mangadex.org/title/8a13cd24-4729-4068-8665-87bfd1affc20",
+        "image": "https://uploads.mangadex.org/covers/8a13cd24-4729-4068-8665-87bfd1affc20/cfbe653f-c770-4c31-bc7b-11b90ccf42f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29285,
+        "aniId": 59285,
+        "createdAt": "2020-10-12T16:13:12.000Z",
+        "updatedAt": "2021-06-05T19:32:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

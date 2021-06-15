@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Kodomo no Jikan",
+    "こどものじかん",
+    "A Child's Time",
+    "Kojika",
+    "Nymphet"
+  ],
+  "authors": [
+    "Kaworu Watashiya",
+    "Sebastien Azar",
+    "Sharlie Garnet"
+  ],
+  "id": 30582,
+  "malId": 582,
+  "type": "manga",
+  "title": "Kodomo no Jikan",
+  "url": "https://anilist.co/manga/30582",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30582-YvVkjMplMxPz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-30T17:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "60d417e7-97d6-4b78-b33b-495489c20230": {
+        "authors": [
+          "Watashiya Kaworu"
+        ],
+        "identifier": "60d417e7-97d6-4b78-b33b-495489c20230",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kodomo no Jikan",
+        "url": "https://mangadex.org/title/60d417e7-97d6-4b78-b33b-495489c20230",
+        "image": "https://uploads.mangadex.org/covers/60d417e7-97d6-4b78-b33b-495489c20230/a35c9214-814a-4f36-842c-18408d531139.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 582,
+        "aniId": 30582,
+        "createdAt": "2020-10-12T16:05:19.000Z",
+        "updatedAt": "2021-06-03T11:42:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kodomo_no_jikan": {
+        "authors": [],
+        "identifier": "kodomo_no_jikan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kodomo no Jikan",
+        "url": "https://manganelo.com/manga/kodomo_no_jikan",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/5109-kodomo_no_jikan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 582,
+        "aniId": 30582,
+        "createdAt": "2020-10-12T16:23:57.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kodomo-no-jikan": {
+        "authors": [
+          "WATASHIYA Kaworu"
+        ],
+        "identifier": "kodomo-no-jikan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kodomo no Jikan",
+        "url": "https://mangasee123.com/manga/Kodomo-No-Jikan",
+        "image": "https://cover.nep.li/cover/Kodomo-No-Jikan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 582,
+        "aniId": 30582,
+        "createdAt": "2021-02-01T03:36:17.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

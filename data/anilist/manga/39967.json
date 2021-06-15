@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "世界樹の迷宮Ⅱ ～六花の少女～",
+    "World Tree Labyrinth II",
+    "Etrian Odyssey II",
+    "Sekaiju no Meikyuu 2"
+  ],
+  "authors": [
+    "FLIPFLOPs"
+  ],
+  "id": 39967,
+  "malId": 9967,
+  "type": "manga",
+  "title": "Sekaiju no Meikyuu II ~Rikka no Shoujo~",
+  "url": "https://anilist.co/manga/39967",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9967.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:59.000Z",
+  "updatedAt": "2021-05-20T14:40:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c51bfb68-f09c-4fdf-8545-b7731a24eea6": {
+        "authors": [
+          "FLIPFLOPs",
+          "Atlus"
+        ],
+        "identifier": "c51bfb68-f09c-4fdf-8545-b7731a24eea6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sekaiju no Meikyuu II ~Rikka no Shoujo~",
+        "url": "https://mangadex.org/title/c51bfb68-f09c-4fdf-8545-b7731a24eea6",
+        "image": "https://uploads.mangadex.org/covers/c51bfb68-f09c-4fdf-8545-b7731a24eea6/02fd4294-1a79-4057-9eab-2ad360d3e869.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9967,
+        "aniId": 39967,
+        "createdAt": "2020-10-12T16:07:08.000Z",
+        "updatedAt": "2021-06-04T00:37:59.000Z",
+        "deletedAt": null
+      },
+      "2c1ed758-4d64-4735-949e-e5148afa389e": {
+        "authors": [
+          "Himukai Yuji",
+          "Atlus"
+        ],
+        "identifier": "2c1ed758-4d64-4735-949e-e5148afa389e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sekaiju no Meikyuu Comics",
+        "url": "https://mangadex.org/title/2c1ed758-4d64-4735-949e-e5148afa389e",
+        "image": "https://uploads.mangadex.org/covers/2c1ed758-4d64-4735-949e-e5148afa389e/4fac0f33-3f23-4274-8d09-711830741f06.gif",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9967,
+        "aniId": 39967,
+        "createdAt": "2020-10-12T16:15:13.000Z",
+        "updatedAt": "2021-06-06T11:43:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

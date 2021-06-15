@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "草雲雀",
+    "Grass Cricket"
+  ],
+  "authors": [
+    "Ikuko Hatoyama"
+  ],
+  "id": 107988,
+  "malId": null,
+  "type": "manga",
+  "title": "Kusahibari",
+  "url": "https://anilist.co/manga/107988",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107988-SXhooS1QwXBo.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:24:16.000Z",
+  "updatedAt": "2021-06-08T07:24:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a72cb67a-a981-4a4a-9d73-6dbf96b45e56": {
+        "authors": [
+          "HATOYAMA Ikuko"
+        ],
+        "identifier": "a72cb67a-a981-4a4a-9d73-6dbf96b45e56",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Grass Cricket",
+        "url": "https://mangadex.org/title/a72cb67a-a981-4a4a-9d73-6dbf96b45e56",
+        "image": "https://uploads.mangadex.org/covers/a72cb67a-a981-4a4a-9d73-6dbf96b45e56/9b4b09db-c598-4ce7-8473-ae927d607d46.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 107988,
+        "createdAt": "2020-11-09T19:13:59.000Z",
+        "updatedAt": "2021-06-08T07:27:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

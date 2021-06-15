@@ -1,0 +1,106 @@
+{
+  "altTitle": [
+    "Hyakunichikan!!",
+    "ひゃくにちかん!!",
+    "100天",
+    "100 Days!!"
+  ],
+  "authors": [
+    "Kokone Nata"
+  ],
+  "id": 97599,
+  "malId": 93562,
+  "type": "manga",
+  "title": "Hyakunichikan!!",
+  "url": "https://anilist.co/manga/97599",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97599-fe6jYe4IR9cT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:47.000Z",
+  "updatedAt": "2021-05-20T14:53:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09480bed-a2d9-4879-9d38-b7b2c84e1f5a": {
+        "authors": [
+          "Nata Kokone"
+        ],
+        "identifier": "09480bed-a2d9-4879-9d38-b7b2c84e1f5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hyakunichikan!!",
+        "url": "https://mangadex.org/title/09480bed-a2d9-4879-9d38-b7b2c84e1f5a",
+        "image": "https://uploads.mangadex.org/covers/09480bed-a2d9-4879-9d38-b7b2c84e1f5a/40d8056c-b9c4-4c03-afb3-5a24f7848f25.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93562,
+        "aniId": 97599,
+        "createdAt": "2020-10-12T16:08:57.000Z",
+        "updatedAt": "2021-06-04T13:58:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "di921809": {
+        "authors": [],
+        "identifier": "di921809",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hyakunichigo Ni Shinu Wani",
+        "url": "https://manganelo.com/manga/di921809",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3216-di921809.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93562,
+        "aniId": 97599,
+        "createdAt": "2020-10-12T16:22:39.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "hyakunichikan": {
+        "authors": [],
+        "identifier": "hyakunichikan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hyakunichikan!!",
+        "url": "https://manganelo.com/manga/hyakunichikan",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17052-hyakunichikan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93562,
+        "aniId": 97599,
+        "createdAt": "2020-10-12T16:23:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hyakunichikan": {
+        "authors": [
+          "NATA Kokone"
+        ],
+        "identifier": "hyakunichikan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hyakunichikan!!",
+        "url": "https://fanfox.net/manga/hyakunichikan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20799/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93562,
+        "aniId": 97599,
+        "createdAt": "2021-06-02T04:31:31.000Z",
+        "updatedAt": "2021-06-02T05:01:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

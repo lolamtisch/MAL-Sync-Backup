@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "機動戦士ガンダムＳＥＥＤ ＤＥＳＴＩＮＹ ＡＳＴＲＡＹ",
+    "Kidou Senshi Gundam SEED Destiny Astray"
+  ],
+  "authors": [
+    "Chiba Tomohiro",
+    "Kouichi Tokita"
+  ],
+  "id": 40982,
+  "malId": 10982,
+  "type": "manga",
+  "title": "Mobile Suit Gundam SEED Destiny Astray",
+  "url": "https://anilist.co/manga/40982",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10982.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0e63cc18-26d3-4a8a-9951-6a015e1a46dd": {
+        "authors": [
+          "Chiba Tomohiro",
+          "Tokita Koichi"
+        ],
+        "identifier": "0e63cc18-26d3-4a8a-9951-6a015e1a46dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kidou Senshi Gundam SEED Destiny Astray",
+        "url": "https://mangadex.org/title/0e63cc18-26d3-4a8a-9951-6a015e1a46dd",
+        "image": "https://uploads.mangadex.org/covers/0e63cc18-26d3-4a8a-9951-6a015e1a46dd/ee9aaf93-3271-494b-a4b5-5e60dd32f3ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10982,
+        "aniId": 40982,
+        "createdAt": "2020-10-12T16:05:58.000Z",
+        "updatedAt": "2021-06-03T16:13:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kidou_senshi_gundam_seed_destiny_astray": {
+        "authors": [],
+        "identifier": "kidou_senshi_gundam_seed_destiny_astray",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kidou Senshi Gundam Seed Destiny Astray",
+        "url": "https://manganelo.com/manga/kidou_senshi_gundam_seed_destiny_astray",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/12888-kidou_senshi_gundam_seed_destiny_astray.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10982,
+        "aniId": 40982,
+        "createdAt": "2020-10-12T16:23:53.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

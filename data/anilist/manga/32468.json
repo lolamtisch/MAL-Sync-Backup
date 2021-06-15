@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Shuuko Nishimura"
+  ],
+  "id": 32468,
+  "malId": 2468,
+  "type": "manga",
+  "title": "Love Trivia",
+  "url": "https://anilist.co/manga/32468",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2468.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f1bc91c4-14bf-45bd-bda6-54ba90bb8a4e": {
+        "authors": [
+          "Nishimura Shuuko"
+        ],
+        "identifier": "f1bc91c4-14bf-45bd-bda6-54ba90bb8a4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Trivia",
+        "url": "https://mangadex.org/title/f1bc91c4-14bf-45bd-bda6-54ba90bb8a4e",
+        "image": "https://uploads.mangadex.org/covers/f1bc91c4-14bf-45bd-bda6-54ba90bb8a4e/dcf3c5c6-ca41-4557-83ba-081df3b1d5e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2468,
+        "aniId": 32468,
+        "createdAt": "2020-11-24T12:56:25.000Z",
+        "updatedAt": "2021-06-08T07:37:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

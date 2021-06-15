@@ -1,0 +1,42 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yu Lang Huang"
+  ],
+  "id": 80471,
+  "malId": 50471,
+  "type": "manga",
+  "title": "Ultraman Tiga",
+  "url": "https://anilist.co/manga/80471",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50471.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-05-20T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "53cd425f-115c-49c5-89c2-8ebe52ff3463": {
+        "authors": [
+          "Khoo Fuk-Lung",
+          "Tony Wong"
+        ],
+        "identifier": "53cd425f-115c-49c5-89c2-8ebe52ff3463",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ultraman Tiga",
+        "url": "https://mangadex.org/title/53cd425f-115c-49c5-89c2-8ebe52ff3463",
+        "image": "https://uploads.mangadex.org/covers/53cd425f-115c-49c5-89c2-8ebe52ff3463/18251210-ee27-409d-8107-4247825b4d16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50471,
+        "aniId": 80471,
+        "createdAt": "2020-10-12T16:06:17.000Z",
+        "updatedAt": "2021-06-03T18:32:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

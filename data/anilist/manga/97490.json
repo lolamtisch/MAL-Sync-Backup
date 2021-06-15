@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "バツギャル",
+    "Punishment Gal",
+    "Batsu Gyaru"
+  ],
+  "authors": [
+    "Egumi Sora"
+  ],
+  "id": 97490,
+  "malId": 100027,
+  "type": "manga",
+  "title": "Batsu Gal",
+  "url": "https://anilist.co/manga/97490",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97490-eEZbbIi1i16u.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:45.000Z",
+  "updatedAt": "2021-05-20T14:54:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1024bc97-4d46-48a6-9365-ba4cc521b24a": {
+        "authors": [
+          "Egumi Sora"
+        ],
+        "identifier": "1024bc97-4d46-48a6-9365-ba4cc521b24a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Batsu-Gyaru",
+        "url": "https://mangadex.org/title/1024bc97-4d46-48a6-9365-ba4cc521b24a",
+        "image": "https://uploads.mangadex.org/covers/1024bc97-4d46-48a6-9365-ba4cc521b24a/03e01a75-0867-4067-98e2-e0bdcb8659f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100027,
+        "aniId": 97490,
+        "createdAt": "2020-10-12T16:10:00.000Z",
+        "updatedAt": "2021-06-04T21:34:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "batsugyaru": {
+        "authors": [],
+        "identifier": "batsugyaru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Batsu-Gyaru",
+        "url": "https://manganelo.com/manga/batsugyaru",
+        "image": "https://avt.mkklcdnv6.com/12/j/14-1583490183.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100027,
+        "aniId": 97490,
+        "createdAt": "2020-10-12T16:22:13.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "batsu_gyaru": {
+        "authors": [
+          "SORA Egumi"
+        ],
+        "identifier": "batsu_gyaru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Batsu-Gyaru",
+        "url": "https://fanfox.net/manga/batsu_gyaru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21171/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100027,
+        "aniId": 97490,
+        "createdAt": "2021-06-11T09:38:55.000Z",
+        "updatedAt": "2021-06-11T10:08:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

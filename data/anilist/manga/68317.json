@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ひめごとっ！",
+    "Marionette",
+    "Bitter & Sweet"
+  ],
+  "authors": [
+    "Magoroku"
+  ],
+  "id": 68317,
+  "malId": 38317,
+  "type": "manga",
+  "title": "Himegoto!",
+  "url": "https://anilist.co/manga/68317",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx68317-lDXbgCGJKNZj.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:48:37.000Z",
+  "updatedAt": "2021-05-20T14:48:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e13015f7-72fa-4f6a-8a7d-18126f310628": {
+        "authors": [
+          "Kokuryuugan"
+        ],
+        "identifier": "e13015f7-72fa-4f6a-8a7d-18126f310628",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himegoto!",
+        "url": "https://mangadex.org/title/e13015f7-72fa-4f6a-8a7d-18126f310628",
+        "image": "https://uploads.mangadex.org/covers/e13015f7-72fa-4f6a-8a7d-18126f310628/b995b167-1fb6-4179-ac78-d8bc22a53695.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38317,
+        "aniId": 68317,
+        "createdAt": "2020-10-12T16:19:50.000Z",
+        "updatedAt": "2021-06-07T22:53:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "殺し屋だって見守りたい"
+  ],
+  "authors": [
+    "Sae Kumanami"
+  ],
+  "id": 111806,
+  "malId": 127952,
+  "type": "manga",
+  "title": "Koroshiya datte Mimamoritai",
+  "url": "https://anilist.co/manga/111806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111806-WirDTkHFqa7M.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:20.000Z",
+  "updatedAt": "2021-05-20T14:59:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6b95be62-e7ae-4ffd-b951-e7eb20985370": {
+        "authors": [
+          "KUMANAMI Sae"
+        ],
+        "identifier": "6b95be62-e7ae-4ffd-b951-e7eb20985370",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koroshiya Datte Mimamoritai",
+        "url": "https://mangadex.org/title/6b95be62-e7ae-4ffd-b951-e7eb20985370",
+        "image": "https://uploads.mangadex.org/covers/6b95be62-e7ae-4ffd-b951-e7eb20985370/e05efb3e-1c24-4419-be5a-b8cb19d5f3d4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127952,
+        "aniId": 111806,
+        "createdAt": "2020-10-12T16:18:52.000Z",
+        "updatedAt": "2021-06-07T20:52:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ba922540": {
+        "authors": [
+          "Kumanami",
+          "Sae"
+        ],
+        "identifier": "ba922540",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koroshiya Datte Mimamoritai",
+        "url": "https://manganelo.com/manga/ba922540",
+        "image": "https://avt.mkklcdnv6.com/47/y/20-1585238280.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 127952,
+        "aniId": 111806,
+        "createdAt": "2020-10-12T16:22:12.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ha985009": {
+        "authors": [
+          "Kumanami Sae"
+        ],
+        "identifier": "manga-ha985009",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koroshiya Datte Mimamoritai",
+        "url": "https://manganato.com/manga-ha985009",
+        "image": "https://avt.mkklcdnv6temp.com/47/y/20-1585238280.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127952,
+        "aniId": 111806,
+        "createdAt": "2021-06-01T16:03:06.000Z",
+        "updatedAt": "2021-06-01T16:31:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

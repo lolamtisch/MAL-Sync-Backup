@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "Another0",
+    "Another Zero",
+    "アナザー 0"
+  ],
+  "authors": [
+    "Hiro Kiyohara",
+    "Yukito Ayatsuji",
+    "Edward Kondo"
+  ],
+  "id": 66199,
+  "malId": 36199,
+  "type": "manga",
+  "title": "Another 0",
+  "url": "https://anilist.co/manga/66199",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66199-HzM2vQlor1X3.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f639282-5667-4283-bc52-ccc78986eb71": {
+        "authors": [
+          "Kiyohara Hiro",
+          "Ayatsuji Yukito"
+        ],
+        "identifier": "4f639282-5667-4283-bc52-ccc78986eb71",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Another &Oslash;",
+        "url": "https://mangadex.org/title/4f639282-5667-4283-bc52-ccc78986eb71",
+        "image": "https://uploads.mangadex.org/covers/4f639282-5667-4283-bc52-ccc78986eb71/df7545ee-77da-422d-920e-4d327c332df8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36199,
+        "aniId": 66199,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:47:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "another0": {
+        "authors": [
+          "AYATSUJI Yukito",
+          "KIYOHARA Hiro"
+        ],
+        "identifier": "another0",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Another 0",
+        "url": "https://mangasee123.com/manga/Another0",
+        "image": "https://cover.nep.li/cover/Another0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36199,
+        "aniId": 66199,
+        "createdAt": "2021-06-08T10:57:18.000Z",
+        "updatedAt": "2021-06-08T11:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

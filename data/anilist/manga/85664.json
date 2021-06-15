@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "すきになったよ"
+  ],
+  "authors": [
+    "Kazune Kawahara"
+  ],
+  "id": 85664,
+  "malId": 66787,
+  "type": "manga",
+  "title": "Suki ni Natta yo",
+  "url": "https://anilist.co/manga/85664",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55664.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:59.000Z",
+  "updatedAt": "2021-05-20T14:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bfc56e68-64f4-4b19-a907-ed90d1372104": {
+        "authors": [
+          "KAWAHARA Kazune"
+        ],
+        "identifier": "bfc56e68-64f4-4b19-a907-ed90d1372104",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suki ni Natta yo",
+        "url": "https://mangadex.org/title/bfc56e68-64f4-4b19-a907-ed90d1372104",
+        "image": "https://uploads.mangadex.org/covers/bfc56e68-64f4-4b19-a907-ed90d1372104/b68327f7-071f-4a90-bb6f-786db7b608f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66787,
+        "aniId": 85664,
+        "createdAt": "2020-10-12T16:07:10.000Z",
+        "updatedAt": "2021-06-04T00:52:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "suki_ni_natta_yo": {
+        "authors": [],
+        "identifier": "suki_ni_natta_yo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suki Ni Natta Yo",
+        "url": "https://manganelo.com/manga/suki_ni_natta_yo",
+        "image": "https://avt.mkklcdnv6.com/5/u/9-1583480320.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66787,
+        "aniId": 85664,
+        "createdAt": "2020-10-12T16:25:34.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

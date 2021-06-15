@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "卒業M",
+    "Graduation M",
+    "卒M",
+    "Male Graduation"
+  ],
+  "authors": [
+    "Yukiru Sugisaki",
+    "Kei Arisugawa"
+  ],
+  "id": 37418,
+  "malId": 7418,
+  "type": "manga",
+  "title": "Sotsugyou M",
+  "url": "https://anilist.co/manga/37418",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37418-Jtw9qWxTAjpR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:52.000Z",
+  "updatedAt": "2021-05-20T14:39:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c490fd44-92a8-4e53-ae49-8b8e8e7c2500": {
+        "authors": [
+          "Sugisaki Yukiru",
+          "Arisugawa Kei"
+        ],
+        "identifier": "c490fd44-92a8-4e53-ae49-8b8e8e7c2500",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sotsugyou M",
+        "url": "https://mangadex.org/title/c490fd44-92a8-4e53-ae49-8b8e8e7c2500",
+        "image": "https://uploads.mangadex.org/covers/c490fd44-92a8-4e53-ae49-8b8e8e7c2500/7868c754-3b9a-4ddc-a9d2-411b8814ac64.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7418,
+        "aniId": 37418,
+        "createdAt": "2020-10-12T16:05:15.000Z",
+        "updatedAt": "2021-06-03T11:11:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "理想の恋人",
+    "An Ideal Lover"
+  ],
+  "authors": [
+    "Mio Tennouji"
+  ],
+  "id": 48284,
+  "malId": 18284,
+  "type": "manga",
+  "title": "Risou no Koibito",
+  "url": "https://anilist.co/manga/48284",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18284.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:11.000Z",
+  "updatedAt": "2021-05-20T14:45:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ec958ce-d614-4d49-ade5-7d4af06ecfc6": {
+        "authors": [
+          "Tennouji Mio"
+        ],
+        "identifier": "0ec958ce-d614-4d49-ade5-7d4af06ecfc6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Risou no Koibito",
+        "url": "https://mangadex.org/title/0ec958ce-d614-4d49-ade5-7d4af06ecfc6",
+        "image": "https://uploads.mangadex.org/covers/0ec958ce-d614-4d49-ade5-7d4af06ecfc6/85798d7e-8da1-45ed-a56e-35ed5998e773.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18284,
+        "aniId": 48284,
+        "createdAt": "2020-10-12T16:13:33.000Z",
+        "updatedAt": "2021-06-05T22:12:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

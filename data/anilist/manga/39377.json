@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ファラオの墓",
+    "The Pyramid of Pharaoh",
+    "The Pharaoh's Tomb"
+  ],
+  "authors": [
+    "Keiko Takemiya"
+  ],
+  "id": 39377,
+  "malId": 9377,
+  "type": "manga",
+  "title": "Pharaoh no Haka",
+  "url": "https://anilist.co/manga/39377",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b39377-PIjFjQHBK7CG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:56.000Z",
+  "updatedAt": "2021-05-20T14:40:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "845bcd50-4faf-4033-8898-005abe6ff593": {
+        "authors": [
+          "Takemiya Keiko"
+        ],
+        "identifier": "845bcd50-4faf-4033-8898-005abe6ff593",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pharaoh no Haka",
+        "url": "https://mangadex.org/title/845bcd50-4faf-4033-8898-005abe6ff593",
+        "image": "https://uploads.mangadex.org/covers/845bcd50-4faf-4033-8898-005abe6ff593/78f51f9f-1133-4e9d-8347-0c4dc8dd489b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9377,
+        "aniId": 39377,
+        "createdAt": "2020-10-12T16:05:54.000Z",
+        "updatedAt": "2021-06-03T15:50:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

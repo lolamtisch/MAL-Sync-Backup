@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Maid of the Dead",
+    "死者のメイド"
+  ],
+  "id": 20460,
+  "malId": 20811,
+  "type": "anime",
+  "title": "Maid of the Dead",
+  "url": "https://anilist.co/anime/20460",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20460.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:37.000Z",
+  "updatedAt": "2021-05-20T14:40:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "q1r5": {
+        "identifier": "q1r5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maid of the Dead",
+        "url": "https://9anime.to/watch/maid-of-the-dead.q1r5",
+        "image": "https://static.akacdn.ru/files/images/d/da/dab2c8038c0aa8e811372c8525796fc3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20811,
+        "aniId": 20460,
+        "createdAt": "2020-10-12T15:54:55.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "maid-of-the-dead": {
+        "identifier": "maid-of-the-dead",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Maid of the Dead",
+        "url": "https://www19.gogoanime.io/category/maid-of-the-dead",
+        "image": "https://gogocdn.net/cover/maid-of-the-dead.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20811,
+        "aniId": 20460,
+        "createdAt": "2020-10-12T16:01:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "斬"
+  ],
+  "authors": [
+    "Naoya Sugita"
+  ],
+  "id": 31570,
+  "malId": 1570,
+  "type": "manga",
+  "title": "Zan",
+  "url": "https://anilist.co/manga/31570",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1570.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:47.000Z",
+  "updatedAt": "2021-05-20T14:36:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "513813e6-df42-449b-9af8-abc11399296c": {
+        "authors": [
+          "Sugita Naoya"
+        ],
+        "identifier": "513813e6-df42-449b-9af8-abc11399296c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zan",
+        "url": "https://mangadex.org/title/513813e6-df42-449b-9af8-abc11399296c",
+        "image": "https://uploads.mangadex.org/covers/513813e6-df42-449b-9af8-abc11399296c/193db297-f5f2-4c52-8136-7afbf641beee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1570,
+        "aniId": 31570,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:25:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

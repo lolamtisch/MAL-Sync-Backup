@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "King of the Lamp",
+    "ランプの王様",
+    "Lamp no Ousama"
+  ],
+  "authors": [
+    "Takako Shigematsu"
+  ],
+  "id": 34375,
+  "malId": 4375,
+  "type": "manga",
+  "title": "King of the Lamp",
+  "url": "https://anilist.co/manga/34375",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4375.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:28.000Z",
+  "updatedAt": "2021-05-20T14:38:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b77305f3-3b86-4ec4-bc77-994ed02dd850": {
+        "authors": [
+          "KANG Full"
+        ],
+        "identifier": "b77305f3-3b86-4ec4-bc77-994ed02dd850",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shop of the Lamp",
+        "url": "https://mangadex.org/title/b77305f3-3b86-4ec4-bc77-994ed02dd850",
+        "image": "https://uploads.mangadex.org/covers/b77305f3-3b86-4ec4-bc77-994ed02dd850/186cab45-b758-4d38-9dae-94df89333ea3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4375,
+        "aniId": 34375,
+        "createdAt": "2020-10-12T16:20:01.000Z",
+        "updatedAt": "2021-06-07T23:05:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

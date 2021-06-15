@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "RWBY",
+    "RWBY",
+    "Ruby"
+  ],
+  "authors": [
+    "Shirow Miwa",
+    "Monyreak Oum"
+  ],
+  "id": 86560,
+  "malId": 93675,
+  "type": "manga",
+  "title": "RWBY",
+  "url": "https://anilist.co/manga/86560",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86560-x93mJ0oEZwcL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:49.000Z",
+  "updatedAt": "2021-05-20T14:53:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1075e0c2-3baf-438e-80d9-f8f788b017cd": {
+        "authors": [
+          "Rooster Teeth Productions",
+          "Miwa Shirow",
+          "Monty Oum"
+        ],
+        "identifier": "1075e0c2-3baf-438e-80d9-f8f788b017cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RWBY",
+        "url": "https://mangadex.org/title/1075e0c2-3baf-438e-80d9-f8f788b017cd",
+        "image": "https://uploads.mangadex.org/covers/1075e0c2-3baf-438e-80d9-f8f788b017cd/3b5f31df-67a2-4176-9479-17de5bcfad3e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93675,
+        "aniId": 86560,
+        "createdAt": "2020-10-12T16:09:03.000Z",
+        "updatedAt": "2021-06-04T14:42:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rwby": {
+        "authors": [],
+        "identifier": "rwby",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "RWBY",
+        "url": "https://manganelo.com/manga/rwby",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1323-rwby.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93675,
+        "aniId": 86560,
+        "createdAt": "2020-10-12T16:25:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "r-w-b-y": {
+        "authors": [
+          "MIWA Shirow",
+          "Monty Oum",
+          "Rooster Teeth Productions"
+        ],
+        "identifier": "r-w-b-y",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "RWBY",
+        "url": "https://mangasee123.com/manga/R-W-B-Y",
+        "image": "https://cover.nep.li/cover/R-W-B-Y.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93675,
+        "aniId": 86560,
+        "createdAt": "2021-03-14T21:39:55.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

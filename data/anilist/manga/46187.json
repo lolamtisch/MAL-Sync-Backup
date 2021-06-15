@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Akari of the Forest Bookshop",
+    "本屋の森のあかり"
+  ],
+  "authors": [
+    "Yuki Isoya"
+  ],
+  "id": 46187,
+  "malId": 16187,
+  "type": "manga",
+  "title": "Honya no Mori no Akari",
+  "url": "https://anilist.co/manga/46187",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16187.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:53.000Z",
+  "updatedAt": "2021-05-20T14:43:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1a1c044f-4cab-468f-ba97-5d53b5ab84c9": {
+        "authors": [
+          "Isoya Yuki"
+        ],
+        "identifier": "1a1c044f-4cab-468f-ba97-5d53b5ab84c9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honya no Mori no Akari",
+        "url": "https://mangadex.org/title/1a1c044f-4cab-468f-ba97-5d53b5ab84c9",
+        "image": "https://uploads.mangadex.org/covers/1a1c044f-4cab-468f-ba97-5d53b5ab84c9/38eebc77-5795-42e8-bfbe-d6ce7c0010bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16187,
+        "aniId": 46187,
+        "createdAt": "2020-10-12T16:05:43.000Z",
+        "updatedAt": "2021-06-03T14:49:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

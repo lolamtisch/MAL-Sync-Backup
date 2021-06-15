@@ -1,0 +1,131 @@
+{
+  "altTitle": [
+    "アルゲートオンライン"
+  ],
+  "authors": [
+    "Tsumugu Touno",
+    "Rei",
+    "Genyaky"
+  ],
+  "id": 99859,
+  "malId": 108164,
+  "type": "manga",
+  "title": "Argate Online",
+  "url": "https://anilist.co/manga/99859",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99859-XywGq1O5aaf4.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:57.000Z",
+  "updatedAt": "2021-05-20T14:55:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "24e5f5b0-c14b-4597-bb0a-606c583a657c": {
+        "authors": [
+          "Touno Tsumugu",
+          "Rei"
+        ],
+        "identifier": "24e5f5b0-c14b-4597-bb0a-606c583a657c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Argate Online",
+        "url": "https://mangadex.org/title/24e5f5b0-c14b-4597-bb0a-606c583a657c",
+        "image": "https://uploads.mangadex.org/covers/24e5f5b0-c14b-4597-bb0a-606c583a657c/74d07f3f-914e-40e7-848c-637a6b69ac6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108164,
+        "aniId": 99859,
+        "createdAt": "2020-10-12T16:10:50.000Z",
+        "updatedAt": "2021-06-05T03:40:28.000Z",
+        "deletedAt": null
+      },
+      "eac114df-439f-47cc-a90d-37786e3a4c65": {
+        "authors": [
+          "Kichijou Terae",
+          "Suigyoku Itachi"
+        ],
+        "identifier": "eac114df-439f-47cc-a90d-37786e3a4c65",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gate of Amitilicia Online - Burari Isekai Kui \"Taoshi\" Tabi",
+        "url": "https://mangadex.org/title/eac114df-439f-47cc-a90d-37786e3a4c65",
+        "image": "https://uploads.mangadex.org/covers/eac114df-439f-47cc-a90d-37786e3a4c65/00be9115-84aa-4ffd-9bf1-48362a5f941e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108164,
+        "aniId": 99859,
+        "createdAt": "2020-10-12T16:15:20.000Z",
+        "updatedAt": "2021-06-06T12:44:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "argate_online": {
+        "authors": [],
+        "identifier": "argate_online",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Argate online",
+        "url": "https://manganelo.com/manga/argate_online",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19161-argate_online.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108164,
+        "aniId": 99859,
+        "createdAt": "2020-10-12T16:22:08.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "argate-online": {
+        "authors": [
+          "TOUNO Tsumugu"
+        ],
+        "identifier": "argate-online",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Argate Online",
+        "url": "https://mangasee123.com/manga/Argate-Online",
+        "image": "https://cover.nep.li/cover/Argate-Online.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108164,
+        "aniId": 99859,
+        "createdAt": "2020-12-17T23:56:50.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "argate_online": {
+        "authors": [
+          "TOUNO Tsumugu"
+        ],
+        "identifier": "argate_online",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Argate online",
+        "url": "https://fanfox.net/manga/argate_online/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25907/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108164,
+        "aniId": 99859,
+        "createdAt": "2021-04-05T11:08:08.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

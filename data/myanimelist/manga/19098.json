@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Gelatin Boy",
+    "銀塩少年"
+  ],
+  "authors": [
+    "Gotou, Junpei"
+  ],
+  "id": 19098,
+  "type": "manga",
+  "title": "Ginen Shounen",
+  "url": "https://myanimelist.net/manga/19098/Ginen_Shounen",
+  "image": "https://cdn.myanimelist.net/images/manga/3/29280.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:42.000Z",
+  "updatedAt": "2021-03-22T17:04:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb36c723-0f9f-489f-8dc2-3937842e1667": {
+        "authors": [
+          "Gotou Junpei"
+        ],
+        "identifier": "cb36c723-0f9f-489f-8dc2-3937842e1667",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ginen Shounen",
+        "url": "https://mangadex.org/title/cb36c723-0f9f-489f-8dc2-3937842e1667",
+        "image": "https://uploads.mangadex.org/covers/cb36c723-0f9f-489f-8dc2-3937842e1667/931223d3-2f76-4603-8afa-73dea29d641e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19098,
+        "aniId": 49098,
+        "createdAt": "2020-10-12T16:02:25.000Z",
+        "updatedAt": "2021-06-02T06:42:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ginen_shounen": {
+        "authors": [
+          "Gotou",
+          "Junpei"
+        ],
+        "identifier": "ginen_shounen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ginen Shounen",
+        "url": "https://manganelo.com/manga/ginen_shounen",
+        "image": "https://avt.mkklcdnv6temp.com/9/u/11-1583484362.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19098,
+        "aniId": 49098,
+        "createdAt": "2021-03-22T17:04:37.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

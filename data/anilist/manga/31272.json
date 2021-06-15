@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "우리는 아직"
+  ],
+  "authors": [
+    "Ji Lee"
+  ],
+  "id": 31272,
+  "malId": 1272,
+  "type": "manga",
+  "title": "We Are Still...!",
+  "url": "https://anilist.co/manga/31272",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1272.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:57.000Z",
+  "updatedAt": "2021-05-20T14:35:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2386f03-febe-4bfb-917d-622e005c4487": {
+        "authors": [
+          "LEE Jee"
+        ],
+        "identifier": "d2386f03-febe-4bfb-917d-622e005c4487",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "We Are Still...!",
+        "url": "https://mangadex.org/title/d2386f03-febe-4bfb-917d-622e005c4487",
+        "image": "https://uploads.mangadex.org/covers/d2386f03-febe-4bfb-917d-622e005c4487/3ebe963e-b655-4731-8d34-a8aa972a7867.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1272,
+        "aniId": 31272,
+        "createdAt": "2020-10-12T16:15:39.000Z",
+        "updatedAt": "2021-06-06T15:36:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

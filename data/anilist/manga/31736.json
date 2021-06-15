@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "R20"
+  ],
+  "authors": [
+    "Yoshiyuki Sadamoto"
+  ],
+  "id": 31736,
+  "malId": 1736,
+  "type": "manga",
+  "title": "Route 20",
+  "url": "https://anilist.co/manga/31736",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1736.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:53.000Z",
+  "updatedAt": "2021-05-20T14:36:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79a30612-eaa6-46ef-b857-152243bbf5a2": {
+        "authors": [
+          "SADAMOTO Yoshiyuki"
+        ],
+        "identifier": "79a30612-eaa6-46ef-b857-152243bbf5a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Route 20",
+        "url": "https://mangadex.org/title/79a30612-eaa6-46ef-b857-152243bbf5a2",
+        "image": "https://uploads.mangadex.org/covers/79a30612-eaa6-46ef-b857-152243bbf5a2/51cd1bab-f134-4287-b569-e63c6570c9e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1736,
+        "aniId": 31736,
+        "createdAt": "2020-10-12T16:02:55.000Z",
+        "updatedAt": "2021-06-02T10:19:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

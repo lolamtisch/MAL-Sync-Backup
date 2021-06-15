@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "THE COMIQ",
+    "THE COMIQ",
+    "ザコミック",
+    "Za Komikku"
+  ],
+  "authors": [
+    "Kazuki Takahashi"
+  ],
+  "id": 104604,
+  "malId": 117328,
+  "type": "manga",
+  "title": "THE COMIQ",
+  "url": "https://anilist.co/manga/104604",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104604-yveLOw2XBKkm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:55.000Z",
+  "updatedAt": "2021-05-20T14:57:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48a2c29e-42f7-4e5b-8f3a-534f1e8f11cd": {
+        "authors": [
+          "Takahashi Kazuki"
+        ],
+        "identifier": "48a2c29e-42f7-4e5b-8f3a-534f1e8f11cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The ComiQ",
+        "url": "https://mangadex.org/title/48a2c29e-42f7-4e5b-8f3a-534f1e8f11cd",
+        "image": "https://uploads.mangadex.org/covers/48a2c29e-42f7-4e5b-8f3a-534f1e8f11cd/43bf7f2d-6aef-4554-9cfe-d988747737f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117328,
+        "aniId": 104604,
+        "createdAt": "2020-11-17T01:44:56.000Z",
+        "updatedAt": "2021-06-08T07:25:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mt924749": {
+        "authors": [
+          "Takahashi",
+          "Kazuki"
+        ],
+        "identifier": "mt924749",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Comiq",
+        "url": "https://manganelo.com/manga/mt924749",
+        "image": "https://avt.mkklcdnv6temp.com/38/l/22-1605713623.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117328,
+        "aniId": 104604,
+        "createdAt": "2021-03-23T01:34:44.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

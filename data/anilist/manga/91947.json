@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "SECRET×SIBLINGS 〜シークレット×シブリングス〜",
+    "SECRET×SIBLINGS"
+  ],
+  "authors": [
+    "Yuta Nohara"
+  ],
+  "id": 91947,
+  "malId": 74161,
+  "type": "manga",
+  "title": "Secret x Siblings",
+  "url": "https://anilist.co/manga/91947",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91947-y1iOwbl44jy9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:42.000Z",
+  "updatedAt": "2021-05-20T14:51:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "40660a4b-1b11-404b-bbc6-290c28d7cd9a": {
+        "authors": [
+          "Nohara Yuta"
+        ],
+        "identifier": "40660a4b-1b11-404b-bbc6-290c28d7cd9a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secret x Siblings",
+        "url": "https://mangadex.org/title/40660a4b-1b11-404b-bbc6-290c28d7cd9a",
+        "image": "https://uploads.mangadex.org/covers/40660a4b-1b11-404b-bbc6-290c28d7cd9a/7be13bb3-24df-446f-b523-d46f517b1783.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74161,
+        "aniId": 91947,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-06-07T00:25:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dc920695": {
+        "authors": [],
+        "identifier": "dc920695",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Secret x Siblings",
+        "url": "https://manganelo.com/manga/dc920695",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2092-dc920695.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74161,
+        "aniId": 91947,
+        "createdAt": "2020-10-12T16:22:36.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

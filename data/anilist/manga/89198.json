@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "TRACE"
+  ],
+  "authors": [
+    "Yeong-Hun Go",
+    "Amematsu"
+  ],
+  "id": 89198,
+  "malId": 61221,
+  "type": "manga",
+  "title": "Trace",
+  "url": "https://anilist.co/manga/89198",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89198-dpeXKTSX7eSS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:40.000Z",
+  "updatedAt": "2021-05-20T14:50:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "hyullas_race": {
+        "authors": [],
+        "identifier": "hyullas_race",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hyulla's Race",
+        "url": "https://manganelo.com/manga/hyullas_race",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3638-hyullas_race.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61221,
+        "aniId": 89198,
+        "createdAt": "2020-10-12T16:23:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

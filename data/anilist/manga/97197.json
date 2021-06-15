@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "おにいさんと呼びなさい"
+  ],
+  "authors": [
+    "Usachiko Matsuda"
+  ],
+  "id": 97197,
+  "malId": 98356,
+  "type": "manga",
+  "title": "Oniisan to Yobinasai",
+  "url": "https://anilist.co/manga/97197",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97197-1NVVAyXU9JY0.jpg",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:54:12.000Z",
+  "updatedAt": "2021-05-20T14:54:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f2733cd-7437-4c72-b965-1c44edcaba3d": {
+        "authors": [
+          "Matsuda Usachiko"
+        ],
+        "identifier": "8f2733cd-7437-4c72-b965-1c44edcaba3d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doushiyoumonai",
+        "url": "https://mangadex.org/title/8f2733cd-7437-4c72-b965-1c44edcaba3d",
+        "image": "https://uploads.mangadex.org/covers/8f2733cd-7437-4c72-b965-1c44edcaba3d/cb77bdef-5d43-49e9-869a-9f305b435424.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98356,
+        "aniId": 97197,
+        "createdAt": "2020-10-12T16:10:03.000Z",
+        "updatedAt": "2021-06-04T22:00:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

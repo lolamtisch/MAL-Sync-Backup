@@ -1,0 +1,104 @@
+{
+  "altTitle": [
+    "こみっくがーるず"
+  ],
+  "authors": [
+    "Hanzawa, Kaori"
+  ],
+  "id": 96240,
+  "type": "manga",
+  "title": "Comic Girls",
+  "url": "https://myanimelist.net/manga/96240/Comic_Girls",
+  "image": "https://cdn.myanimelist.net/images/manga/1/172062.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:24.000Z",
+  "updatedAt": "2020-12-24T14:56:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8ee7d7b1-1f85-4b8e-9861-66c8b7b53929": {
+        "authors": [
+          "Hanzawa Kaori"
+        ],
+        "identifier": "8ee7d7b1-1f85-4b8e-9861-66c8b7b53929",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Comic Girls",
+        "url": "https://mangadex.org/title/8ee7d7b1-1f85-4b8e-9861-66c8b7b53929",
+        "image": "https://uploads.mangadex.org/covers/8ee7d7b1-1f85-4b8e-9861-66c8b7b53929/9feb0dbc-d56b-43fc-bad2-5e4254890dac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96240,
+        "aniId": 87369,
+        "createdAt": "2020-10-12T16:09:27.000Z",
+        "updatedAt": "2021-06-04T17:43:58.000Z",
+        "deletedAt": null
+      },
+      "3deacba2-8296-452d-b240-db48862c1a0c": {
+        "authors": [
+          "Hanzawa Kaori"
+        ],
+        "identifier": "3deacba2-8296-452d-b240-db48862c1a0c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Comic Girls Anthology",
+        "url": "https://mangadex.org/title/3deacba2-8296-452d-b240-db48862c1a0c",
+        "image": "https://uploads.mangadex.org/covers/3deacba2-8296-452d-b240-db48862c1a0c/0ae07d47-ad19-4c38-8dcf-0847dc411dac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96240,
+        "aniId": 87369,
+        "createdAt": "2020-10-12T16:13:27.000Z",
+        "updatedAt": "2021-06-05T21:28:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rqhp187411573819808": {
+        "authors": [],
+        "identifier": "rqhp187411573819808",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Comic Girls",
+        "url": "https://manganelo.com/manga/rqhp187411573819808",
+        "image": "https://avt.mkklcdnv6.com/21/h/13-1583488514.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96240,
+        "aniId": 87369,
+        "createdAt": "2020-10-12T16:25:14.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "comic_girls": {
+        "authors": [
+          "HANZAWA Kaori"
+        ],
+        "identifier": "comic_girls",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Comic Girls",
+        "url": "https://fanfox.net/manga/comic_girls/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18751/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96240,
+        "aniId": 87369,
+        "createdAt": "2020-12-24T14:56:18.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

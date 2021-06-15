@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "アンデッド"
+  ],
+  "authors": [
+    "Hikaru Kitamura"
+  ],
+  "id": 105397,
+  "malId": 101831,
+  "type": "manga",
+  "title": "UNDEAD",
+  "url": "https://anilist.co/manga/105397",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105397-JzGhTl5e6tHw.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:54.000Z",
+  "updatedAt": "2021-05-20T14:54:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "654a91b6-e087-40c5-83d7-1b0b6a389b7d": {
+        "authors": [
+          "Kitamura Hikaru"
+        ],
+        "identifier": "654a91b6-e087-40c5-83d7-1b0b6a389b7d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Undead (Kitamura Hikaru)",
+        "url": "https://mangadex.org/title/654a91b6-e087-40c5-83d7-1b0b6a389b7d",
+        "image": "https://uploads.mangadex.org/covers/654a91b6-e087-40c5-83d7-1b0b6a389b7d/72627111-7485-4c03-9efc-426960f177cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101831,
+        "aniId": 105397,
+        "createdAt": "2020-10-12T16:10:40.000Z",
+        "updatedAt": "2021-06-05T02:31:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

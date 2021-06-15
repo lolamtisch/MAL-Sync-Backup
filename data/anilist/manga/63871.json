@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "愛こそすべて"
+  ],
+  "authors": [
+    "Keiko Kinoshita"
+  ],
+  "id": 63871,
+  "malId": 33871,
+  "type": "manga",
+  "title": "Ai Koso Subete",
+  "url": "https://anilist.co/manga/63871",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33871.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T02:19:07.000Z",
+  "updatedAt": "2021-06-05T02:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "745f2e61-192b-4f30-a680-debc4baf3f16": {
+        "authors": [
+          "Kinoshita Keiko"
+        ],
+        "identifier": "745f2e61-192b-4f30-a680-debc4baf3f16",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai Koso Subete",
+        "url": "https://mangadex.org/title/745f2e61-192b-4f30-a680-debc4baf3f16",
+        "image": "https://uploads.mangadex.org/covers/745f2e61-192b-4f30-a680-debc4baf3f16/595e5029-38a4-456b-8ab4-44978c3afa4b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33871,
+        "aniId": 63871,
+        "createdAt": "2020-10-12T16:10:36.000Z",
+        "updatedAt": "2021-06-05T08:34:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

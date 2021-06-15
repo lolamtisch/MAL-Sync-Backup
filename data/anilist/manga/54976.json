@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "アテンションプリーズ"
+  ],
+  "authors": [
+    "Shunya Yamashita"
+  ],
+  "id": 54976,
+  "malId": 24976,
+  "type": "manga",
+  "title": "Attention Please",
+  "url": "https://anilist.co/manga/54976",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24976.jpg",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:48.000Z",
+  "updatedAt": "2021-05-20T14:46:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "339f91ec-f345-4424-8069-fc972a487e77": {
+        "authors": [
+          "YAMASHITA Shunya"
+        ],
+        "identifier": "339f91ec-f345-4424-8069-fc972a487e77",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Attention Please",
+        "url": "https://mangadex.org/title/339f91ec-f345-4424-8069-fc972a487e77",
+        "image": "https://uploads.mangadex.org/covers/339f91ec-f345-4424-8069-fc972a487e77/30be38fa-be8c-4c94-8218-cfbddb2307a3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24976,
+        "aniId": 54976,
+        "createdAt": "2020-10-12T16:18:59.000Z",
+        "updatedAt": "2021-06-07T21:02:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

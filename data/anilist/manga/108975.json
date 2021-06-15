@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "鬼と天国",
+    "Un démon au paradis"
+  ],
+  "authors": [
+    "Aga  Naomi",
+    "Kyouko Oyoshikawa "
+  ],
+  "id": 108975,
+  "malId": 121940,
+  "type": "manga",
+  "title": "Oni to Tengoku",
+  "url": "https://anilist.co/manga/108975",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108975-uC9B4x8NFiiV.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:58:26.000Z",
+  "updatedAt": "2021-05-20T14:58:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "54b0e09b-c1e3-40ab-9b5e-0e0f0f0b49ca": {
+        "authors": [
+          "Oyoshikawa Kyouko",
+          "Aga Naomi"
+        ],
+        "identifier": "54b0e09b-c1e3-40ab-9b5e-0e0f0f0b49ca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oni to Tengoku",
+        "url": "https://mangadex.org/title/54b0e09b-c1e3-40ab-9b5e-0e0f0f0b49ca",
+        "image": "https://uploads.mangadex.org/covers/54b0e09b-c1e3-40ab-9b5e-0e0f0f0b49ca/213359fa-e655-4378-88b6-8ab223f8f7d5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 121940,
+        "aniId": 108975,
+        "createdAt": "2020-10-12T16:16:14.000Z",
+        "updatedAt": "2021-06-07T07:48:59.000Z",
+        "deletedAt": null
+      },
+      "526e7b8d-ba4f-4c01-abda-e8ecb2ac65eb": {
+        "authors": [
+          "Oyoshikawa Kyouko",
+          "Aga Naomi"
+        ],
+        "identifier": "526e7b8d-ba4f-4c01-abda-e8ecb2ac65eb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oni to Tengoku Sai",
+        "url": "https://mangadex.org/title/526e7b8d-ba4f-4c01-abda-e8ecb2ac65eb",
+        "image": "https://uploads.mangadex.org/covers/526e7b8d-ba4f-4c01-abda-e8ecb2ac65eb/433d9761-6c3c-475e-90ad-8f899a4a4ee4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121940,
+        "aniId": 108975,
+        "createdAt": "2021-03-05T23:50:35.000Z",
+        "updatedAt": "2021-06-08T12:10:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ns920304": {
+        "authors": [],
+        "identifier": "ns920304",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Oni To Tengoku",
+        "url": "https://manganelo.com/manga/ns920304",
+        "image": "https://avt.mkklcdnv6.com/13/z/19-1583499625.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121940,
+        "aniId": 108975,
+        "createdAt": "2020-10-12T16:24:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

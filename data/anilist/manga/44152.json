@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ブランディッシュ"
+  ],
+  "authors": [
+    "Rusty Soul",
+    "Seneka Aruto"
+  ],
+  "id": 44152,
+  "malId": 14152,
+  "type": "manga",
+  "title": "Brandish",
+  "url": "https://anilist.co/manga/44152",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx44152-cueOG5okDbjj.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:42:43.000Z",
+  "updatedAt": "2021-05-20T14:42:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c80f206e-5e4f-47d8-8335-1bd843405257": {
+        "authors": [
+          "Rusty Soul",
+          "Alto Seneka"
+        ],
+        "identifier": "c80f206e-5e4f-47d8-8335-1bd843405257",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Brandish",
+        "url": "https://mangadex.org/title/c80f206e-5e4f-47d8-8335-1bd843405257",
+        "image": "https://uploads.mangadex.org/covers/c80f206e-5e4f-47d8-8335-1bd843405257/7a7fb42e-55a6-4116-90b1-91dfe6874e1f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14152,
+        "aniId": 44152,
+        "createdAt": "2020-10-12T16:15:10.000Z",
+        "updatedAt": "2021-06-06T11:24:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

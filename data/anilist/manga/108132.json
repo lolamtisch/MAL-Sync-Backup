@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "きっと王子様がなんて",
+    "Kitto Oujisama ga Nante"
+  ],
+  "authors": [
+    "Tachi Kuzukawa"
+  ],
+  "id": 108132,
+  "malId": 118306,
+  "type": "manga",
+  "title": "Kitto Ouji-sama ga Nante",
+  "url": "https://anilist.co/manga/108132",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108132-2BwtHkgAh4Ms.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T11:49:27.000Z",
+  "updatedAt": "2021-06-06T11:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9e9980c-0a16-4a60-828d-7b3813d61337": {
+        "authors": [
+          "Kuzukawa Tachi"
+        ],
+        "identifier": "e9e9980c-0a16-4a60-828d-7b3813d61337",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kitto Oujisama ga Nante",
+        "url": "https://mangadex.org/title/e9e9980c-0a16-4a60-828d-7b3813d61337",
+        "image": "https://uploads.mangadex.org/covers/e9e9980c-0a16-4a60-828d-7b3813d61337/44cb03ca-53b2-42fb-bab4-d4c59543896c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118306,
+        "aniId": 108132,
+        "createdAt": "2020-10-12T16:15:12.000Z",
+        "updatedAt": "2021-06-06T13:38:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

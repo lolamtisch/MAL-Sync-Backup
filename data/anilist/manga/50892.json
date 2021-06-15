@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "鬼に発情",
+    "Sypiając z diabłem"
+  ],
+  "authors": [
+    "Reno Amagi"
+  ],
+  "id": 50892,
+  "malId": 20892,
+  "type": "manga",
+  "title": "Oni ni Hatsujou",
+  "url": "https://anilist.co/manga/50892",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20892.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:36.000Z",
+  "updatedAt": "2021-06-04T04:19:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5b2197a2-0c9d-4e2e-9866-fb6bd3793aff": {
+        "authors": [
+          "Amagi Reno"
+        ],
+        "identifier": "5b2197a2-0c9d-4e2e-9866-fb6bd3793aff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oni ni Hatsujou",
+        "url": "https://mangadex.org/title/5b2197a2-0c9d-4e2e-9866-fb6bd3793aff",
+        "image": "https://uploads.mangadex.org/covers/5b2197a2-0c9d-4e2e-9866-fb6bd3793aff/789b2510-b5b6-481d-bfaa-94eb1bfa7bd7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20892,
+        "aniId": 50892,
+        "createdAt": "2020-10-12T16:07:37.000Z",
+        "updatedAt": "2021-06-04T08:39:43.000Z",
+        "deletedAt": null
+      },
+      "b0028a0d-73eb-4069-8131-ebe302e3b230": {
+        "authors": [
+          "Dhibi"
+        ],
+        "identifier": "b0028a0d-73eb-4069-8131-ebe302e3b230",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatsujou to Choukyou no Aida",
+        "url": "https://mangadex.org/title/b0028a0d-73eb-4069-8131-ebe302e3b230",
+        "image": "https://uploads.mangadex.org/covers/b0028a0d-73eb-4069-8131-ebe302e3b230/d6f74af5-89c4-495e-8ed0-ecb42af6589b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20892,
+        "aniId": 50892,
+        "createdAt": "2020-10-12T16:14:10.000Z",
+        "updatedAt": "2021-06-06T03:00:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

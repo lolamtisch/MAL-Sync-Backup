@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "King's Game",
+    "王様ゲーム"
+  ],
+  "authors": [
+    "Renda, Hitori",
+    "Kanazawa, Nobuaki"
+  ],
+  "id": 24836,
+  "type": "manga",
+  "title": "Ousama Game",
+  "url": "https://myanimelist.net/manga/24836/Ousama_Game",
+  "image": "https://cdn.myanimelist.net/images/manga/1/116343.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:15.000Z",
+  "updatedAt": "2021-05-20T22:15:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d9c57ae-58f4-4fe6-8032-6d344457f3b3": {
+        "authors": [
+          "Kanazawa Nobuaki",
+          "Renda Hitori"
+        ],
+        "identifier": "0d9c57ae-58f4-4fe6-8032-6d344457f3b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ousama Game",
+        "url": "https://mangadex.org/title/0d9c57ae-58f4-4fe6-8032-6d344457f3b3",
+        "image": "https://uploads.mangadex.org/covers/0d9c57ae-58f4-4fe6-8032-6d344457f3b3/8f3c682d-5a50-431e-9874-f99114b69a54.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24836,
+        "aniId": 54836,
+        "createdAt": "2020-10-12T16:02:36.000Z",
+        "updatedAt": "2021-06-02T08:12:18.000Z",
+        "deletedAt": null
+      },
+      "0dca33ec-7f20-40de-8752-3f7ffcecdf89": {
+        "authors": [
+          "SUGIYAMA Miwako"
+        ],
+        "identifier": "0dca33ec-7f20-40de-8752-3f7ffcecdf89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bite Maker ~Ousama no Omega~",
+        "url": "https://mangadex.org/title/0dca33ec-7f20-40de-8752-3f7ffcecdf89",
+        "image": "https://uploads.mangadex.org/covers/0dca33ec-7f20-40de-8752-3f7ffcecdf89/78e4f1c2-a53a-48dd-b19b-adcec5ac6835.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24836,
+        "aniId": 54836,
+        "createdAt": "2020-10-12T16:17:45.000Z",
+        "updatedAt": "2021-06-07T10:45:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ousama_game_renda_hitori": {
+        "authors": [
+          "Kanazawa",
+          "Nobuaki"
+        ],
+        "identifier": "ousama_game_renda_hitori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ousama Game (Renda Hitori)",
+        "url": "https://manganelo.com/manga/ousama_game_renda_hitori",
+        "image": "https://avt.mkklcdnv6.com/47/w/8-1583480004.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24836,
+        "aniId": 54836,
+        "createdAt": "2020-10-31T19:40:52.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ousama-game-r-e-n-d-a-hitori": {
+        "authors": [
+          "KANAZAWA Nobuaki",
+          "RENDA Hitori"
+        ],
+        "identifier": "ousama-game-r-e-n-d-a-hitori",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ousama Game (RENDA Hitori)",
+        "url": "https://mangasee123.com/manga/Ousama-Game-R-E-N-D-A-Hitori",
+        "image": "https://cover.nep.li/cover/Ousama-Game-R-E-N-D-A-Hitori.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24836,
+        "aniId": 54836,
+        "createdAt": "2020-12-24T08:26:07.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "My Great Sword",
+    "我的大宝剑",
+    "Sword's Curse"
+  ],
+  "authors": [
+    "Ciwei Mao Yuedu"
+  ],
+  "id": 111153,
+  "malId": null,
+  "type": "manga",
+  "title": "Wo de da Baojian",
+  "url": "https://anilist.co/manga/111153",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111153-ibJ6G3Essx11.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-31T14:22:55.000Z",
+  "updatedAt": "2021-05-31T14:22:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d3f46464-f190-463f-9941-15d5a3fded49": {
+        "authors": [
+          "Ciweimao"
+        ],
+        "identifier": "d3f46464-f190-463f-9941-15d5a3fded49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Great Sword",
+        "url": "https://mangadex.org/title/d3f46464-f190-463f-9941-15d5a3fded49",
+        "image": "https://uploads.mangadex.org/covers/d3f46464-f190-463f-9941-15d5a3fded49/736b253d-b4e2-4831-ac59-4d7dbde09796.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111153,
+        "createdAt": "2020-10-12T16:14:07.000Z",
+        "updatedAt": "2021-06-06T10:13:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

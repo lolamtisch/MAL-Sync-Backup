@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "黒鍵",
+    "Black Keys"
+  ],
+  "authors": [
+    "Tomo Matsumoto"
+  ],
+  "id": 61993,
+  "malId": 31993,
+  "type": "manga",
+  "title": "Kokken",
+  "url": "https://anilist.co/manga/61993",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31993.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:47.000Z",
+  "updatedAt": "2021-05-20T14:47:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb591c33-24e2-44f1-9f76-5edbe36ad3d1": {
+        "authors": [
+          "Matsumoto Tomo"
+        ],
+        "identifier": "bb591c33-24e2-44f1-9f76-5edbe36ad3d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kokken",
+        "url": "https://mangadex.org/title/bb591c33-24e2-44f1-9f76-5edbe36ad3d1",
+        "image": "https://uploads.mangadex.org/covers/bb591c33-24e2-44f1-9f76-5edbe36ad3d1/c4a3afe8-0c7d-4a71-b2f1-241bbbbf1dab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31993,
+        "aniId": 61993,
+        "createdAt": "2020-10-12T16:03:48.000Z",
+        "updatedAt": "2021-06-02T16:35:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

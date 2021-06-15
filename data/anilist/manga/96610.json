@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "惑星",
+    "Planet"
+  ],
+  "authors": [
+    "Shigeru Mizuki"
+  ],
+  "id": 96610,
+  "malId": 95318,
+  "type": "manga",
+  "title": "Wakusei",
+  "url": "https://anilist.co/manga/96610",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96610-spyGatYDtQgG.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-26T05:38:20.000Z",
+  "updatedAt": "2021-05-26T05:38:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3cfbe8bd-7f9c-43d8-a15b-d295110e85d4": {
+        "authors": [
+          "Mizuki Shigeru"
+        ],
+        "identifier": "3cfbe8bd-7f9c-43d8-a15b-d295110e85d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wakusei",
+        "url": "https://mangadex.org/title/3cfbe8bd-7f9c-43d8-a15b-d295110e85d4",
+        "image": "https://uploads.mangadex.org/covers/3cfbe8bd-7f9c-43d8-a15b-d295110e85d4/332216a4-ed8b-4b47-b952-74bb3ede1400.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95318,
+        "aniId": 96610,
+        "createdAt": "2020-10-12T16:09:18.000Z",
+        "updatedAt": "2021-06-04T18:36:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

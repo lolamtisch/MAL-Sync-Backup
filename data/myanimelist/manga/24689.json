@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Flower and The Beast",
+    "花にけだもの"
+  ],
+  "authors": [
+    "Sugiyama, Miwako"
+  ],
+  "id": 24689,
+  "type": "manga",
+  "title": "Hana ni Kedamono",
+  "url": "https://myanimelist.net/manga/24689/Hana_ni_Kedamono",
+  "image": "https://cdn.myanimelist.net/images/manga/3/39706.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:14.000Z",
+  "updatedAt": "2021-06-02T03:01:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "47861a82-91bb-4033-8f6e-589ef1a7ab9d": {
+        "authors": [
+          "SUGIYAMA Miwako"
+        ],
+        "identifier": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana ni Kedamono",
+        "url": "https://mangadex.org/title/47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+        "image": "https://uploads.mangadex.org/covers/47861a82-91bb-4033-8f6e-589ef1a7ab9d/25eb803c-119f-4543-a807-9a4f6de39412.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24689,
+        "aniId": 54689,
+        "createdAt": "2020-10-12T16:04:17.000Z",
+        "updatedAt": "2021-06-02T20:05:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hana_ni_kedamono": {
+        "authors": [],
+        "identifier": "hana_ni_kedamono",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hana Ni Kedamono",
+        "url": "https://manganelo.com/manga/hana_ni_kedamono",
+        "image": "https://avt.mkklcdnv6.com/44/t/7-1583477971.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24689,
+        "aniId": 54689,
+        "createdAt": "2020-10-12T16:23:15.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

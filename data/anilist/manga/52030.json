@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "リライト",
+    "Riraito",
+    "Rewrite"
+  ],
+  "authors": [
+    "Key",
+    "Sakana Tojo",
+    "Romeo Tanaka"
+  ],
+  "id": 52030,
+  "malId": 22030,
+  "type": "manga",
+  "title": "Rewrite: Side-B",
+  "url": "https://anilist.co/manga/52030",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b52030-yCuMBql2eDeA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:45.000Z",
+  "updatedAt": "2021-05-20T14:45:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "81a56f27-14dd-485e-b56f-ef950f504653": {
+        "authors": [
+          "Key",
+          "Tojo Sakana"
+        ],
+        "identifier": "81a56f27-14dd-485e-b56f-ef950f504653",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rewrite: SIDE-B",
+        "url": "https://mangadex.org/title/81a56f27-14dd-485e-b56f-ef950f504653",
+        "image": "https://uploads.mangadex.org/covers/81a56f27-14dd-485e-b56f-ef950f504653/c2a05a92-c3a2-44c4-9dc8-55bfade08e98.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22030,
+        "aniId": 52030,
+        "createdAt": "2020-10-12T16:02:44.000Z",
+        "updatedAt": "2021-06-02T09:08:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rewrite_sideb": {
+        "authors": [
+          "Key"
+        ],
+        "identifier": "rewrite_sideb",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rewrite: Side-B",
+        "url": "https://manganelo.com/manga/rewrite_sideb",
+        "image": "https://avt.mkklcdnv6.com/25/k/10-1583483091.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22030,
+        "aniId": 52030,
+        "createdAt": "2020-12-12T02:48:13.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

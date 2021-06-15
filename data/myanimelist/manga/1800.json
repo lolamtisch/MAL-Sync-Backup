@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Eat-Man",
+    "EAT-MAN"
+  ],
+  "authors": [
+    "Yoshitomi, Akihito"
+  ],
+  "id": 1800,
+  "type": "manga",
+  "title": "Eat-Man",
+  "url": "https://myanimelist.net/manga/1800/Eat-Man",
+  "image": "https://cdn.myanimelist.net/images/manga/2/173371.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:37.000Z",
+  "updatedAt": "2021-04-27T05:51:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aa4b9037-cbe9-4c9c-b03e-49c10dca3d52": {
+        "authors": [
+          "Yoshitomi Akihito"
+        ],
+        "identifier": "aa4b9037-cbe9-4c9c-b03e-49c10dca3d52",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eat-Man",
+        "url": "https://mangadex.org/title/aa4b9037-cbe9-4c9c-b03e-49c10dca3d52",
+        "image": "https://uploads.mangadex.org/covers/aa4b9037-cbe9-4c9c-b03e-49c10dca3d52/11b38fc3-b459-4af5-a885-9d5f7501ce3f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1800,
+        "aniId": 31800,
+        "createdAt": "2020-10-12T16:04:01.000Z",
+        "updatedAt": "2021-06-02T18:06:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eatman": {
+        "authors": [
+          "Yoshitomi",
+          "Akihito"
+        ],
+        "identifier": "eatman",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eat-Man",
+        "url": "https://manganelo.com/manga/eatman",
+        "image": "https://avt.mkklcdnv6temp.com/50/f/3-1583469654.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1800,
+        "aniId": 31800,
+        "createdAt": "2021-05-03T19:03:20.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

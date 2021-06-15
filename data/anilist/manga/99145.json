@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "はにかむハニー",
+    "Honey Come Honey"
+  ],
+  "authors": [
+    "Yuki Shiraishi"
+  ],
+  "id": 99145,
+  "malId": 105903,
+  "type": "manga",
+  "title": "Hanikamu Honey",
+  "url": "https://anilist.co/manga/99145",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99145-NMhKx4rQclVe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:44.000Z",
+  "updatedAt": "2021-05-20T14:55:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "527a2da3-7248-4a4d-b14d-791970e00a61": {
+        "authors": [
+          "Shiraishi Yuki"
+        ],
+        "identifier": "527a2da3-7248-4a4d-b14d-791970e00a61",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honey Come Honey",
+        "url": "https://mangadex.org/title/527a2da3-7248-4a4d-b14d-791970e00a61",
+        "image": "https://uploads.mangadex.org/covers/527a2da3-7248-4a4d-b14d-791970e00a61/0d3fc3b0-4f7c-44ba-bfb5-3ce248f2160c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105903,
+        "aniId": 99145,
+        "createdAt": "2020-10-12T16:10:30.000Z",
+        "updatedAt": "2021-06-05T01:11:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "honey_come_honey": {
+        "authors": [],
+        "identifier": "honey_come_honey",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Honey Come Honey",
+        "url": "https://manganelo.com/manga/honey_come_honey",
+        "image": "https://avt.mkklcdnv6.com/31/c/15-1583492695.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105903,
+        "aniId": 99145,
+        "createdAt": "2020-10-12T16:23:23.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "honey_come_honey": {
+        "authors": [
+          "SHIRAISHI Yuki"
+        ],
+        "identifier": "honey_come_honey",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Honey come honey",
+        "url": "https://fanfox.net/manga/honey_come_honey/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25629/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105903,
+        "aniId": 99145,
+        "createdAt": "2021-01-01T22:22:05.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

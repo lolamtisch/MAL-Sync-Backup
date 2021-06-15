@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ヒミツにしろよ",
+    "Keep it Secret!!"
+  ],
+  "authors": [
+    "Mami Satomaru"
+  ],
+  "id": 102185,
+  "malId": 107726,
+  "type": "manga",
+  "title": "Himitsu ni Shiro yo!!",
+  "url": "https://anilist.co/manga/102185",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102185-tAk8gFKDuQRk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:55.000Z",
+  "updatedAt": "2021-05-20T14:55:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "60cd78bd-2205-4d43-8aec-1a525d5302ff": {
+        "authors": [
+          "Satomaru Mami"
+        ],
+        "identifier": "60cd78bd-2205-4d43-8aec-1a525d5302ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himitsu ni Shiroyo!!",
+        "url": "https://mangadex.org/title/60cd78bd-2205-4d43-8aec-1a525d5302ff",
+        "image": "https://uploads.mangadex.org/covers/60cd78bd-2205-4d43-8aec-1a525d5302ff/1ed4c9ab-9b08-42bd-a3b5-0cb100421754.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107726,
+        "aniId": 102185,
+        "createdAt": "2020-10-12T16:14:03.000Z",
+        "updatedAt": "2021-06-06T02:05:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

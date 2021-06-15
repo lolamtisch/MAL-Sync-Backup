@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "恋するなんて聞いてない"
+  ],
+  "authors": [
+    "Tata Muro"
+  ],
+  "id": 97280,
+  "malId": 98749,
+  "type": "manga",
+  "title": "Koisuru nante Kiite Nai",
+  "url": "https://anilist.co/manga/97280",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97280-qneYUG3YbY7v.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:39.000Z",
+  "updatedAt": "2021-05-20T14:54:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "188ba398-341c-4b02-bde2-62e4bade04bc": {
+        "authors": [
+          "Muro Tata"
+        ],
+        "identifier": "188ba398-341c-4b02-bde2-62e4bade04bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koisuru Nante Kiitenai",
+        "url": "https://mangadex.org/title/188ba398-341c-4b02-bde2-62e4bade04bc",
+        "image": "https://uploads.mangadex.org/covers/188ba398-341c-4b02-bde2-62e4bade04bc/16c907d1-6c31-4398-b55f-326ce5e4a978.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98749,
+        "aniId": 97280,
+        "createdAt": "2020-10-12T16:10:01.000Z",
+        "updatedAt": "2021-06-04T21:41:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

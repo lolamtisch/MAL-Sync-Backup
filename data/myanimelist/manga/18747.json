@@ -1,0 +1,82 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Han, Yu-Rang"
+  ],
+  "id": 18747,
+  "type": "manga",
+  "title": "The Bear-Like Fox Meets The Wolf",
+  "url": "https://myanimelist.net/manga/18747/The_Bear-Like_Fox_Meets_The_Wolf",
+  "image": "https://cdn.myanimelist.net/images/manga/3/28727.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:40.000Z",
+  "updatedAt": "2021-05-27T00:58:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "37840a5d-09ab-42a6-8576-e447b06f8f6d": {
+        "authors": [
+          "HAN Yu-Rang"
+        ],
+        "identifier": "37840a5d-09ab-42a6-8576-e447b06f8f6d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Bear-Like Fox Meets The Wolf",
+        "url": "https://mangadex.org/title/37840a5d-09ab-42a6-8576-e447b06f8f6d",
+        "image": "https://uploads.mangadex.org/covers/37840a5d-09ab-42a6-8576-e447b06f8f6d/9d7641e3-46da-48e3-968b-95d192ddc871.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18747,
+        "aniId": 48747,
+        "createdAt": "2020-10-12T16:03:30.000Z",
+        "updatedAt": "2021-06-02T14:25:42.000Z",
+        "deletedAt": null
+      },
+      "053ab7fa-48bd-4b7d-947d-5c0298e5d138": {
+        "authors": [
+          "Yi Lee"
+        ],
+        "identifier": "053ab7fa-48bd-4b7d-947d-5c0298e5d138",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Wolf and A Bear",
+        "url": "https://mangadex.org/title/053ab7fa-48bd-4b7d-947d-5c0298e5d138",
+        "image": "https://uploads.mangadex.org/covers/053ab7fa-48bd-4b7d-947d-5c0298e5d138/5872647e-c035-4fdf-b7ce-3e65d780702b.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18747,
+        "aniId": 48747,
+        "createdAt": "2020-10-12T16:17:14.000Z",
+        "updatedAt": "2021-06-07T06:01:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_fox_meets_the_wolf": {
+        "authors": [
+          "Han Yu-Rang"
+        ],
+        "identifier": "the_fox_meets_the_wolf",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Bear-Like Fox Meets The Wolf",
+        "url": "https://fanfox.net/manga/the_fox_meets_the_wolf/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7732/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18747,
+        "aniId": 48747,
+        "createdAt": "2021-05-27T00:58:54.000Z",
+        "updatedAt": "2021-05-27T01:28:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

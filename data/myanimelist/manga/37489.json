@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Junjou Cider",
+    "純情ドロップ."
+  ],
+  "authors": [
+    "Nakahara, Aya"
+  ],
+  "id": 37489,
+  "type": "manga",
+  "title": "Junjou Drop",
+  "url": "https://myanimelist.net/manga/37489/Junjou_Drop",
+  "image": "https://cdn.myanimelist.net/images/manga/3/67409.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:02.000Z",
+  "updatedAt": "2021-03-31T23:31:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0056e7a5-33fc-4aa3-97e1-6a74170c7f50": {
+        "authors": [
+          "Nakahara Aya"
+        ],
+        "identifier": "0056e7a5-33fc-4aa3-97e1-6a74170c7f50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Junjou Drop",
+        "url": "https://mangadex.org/title/0056e7a5-33fc-4aa3-97e1-6a74170c7f50",
+        "image": "https://uploads.mangadex.org/covers/0056e7a5-33fc-4aa3-97e1-6a74170c7f50/7bcf7eb6-3700-4c98-a250-9bbaac8b9bdd.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37489,
+        "aniId": 67489,
+        "createdAt": "2020-10-12T16:04:29.000Z",
+        "updatedAt": "2021-06-02T21:19:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "junjou_drop": {
+        "authors": [
+          "Nakahara",
+          "Aya"
+        ],
+        "identifier": "junjou_drop",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Junjou Drop",
+        "url": "https://manganelo.com/manga/junjou_drop",
+        "image": "https://avt.mkklcdnv6temp.com/21/c/4-1583470532.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37489,
+        "aniId": 67489,
+        "createdAt": "2021-03-31T23:31:01.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

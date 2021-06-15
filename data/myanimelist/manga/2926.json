@@ -1,0 +1,82 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yagami, Chitose"
+  ],
+  "id": 2926,
+  "type": "manga",
+  "title": "Ikenai Navigation",
+  "url": "https://myanimelist.net/manga/2926/Ikenai_Navigation",
+  "image": "https://cdn.myanimelist.net/images/manga/3/3152.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:46.000Z",
+  "updatedAt": "2021-03-02T11:51:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "551897e5-ab53-425c-8328-43534a21468e": {
+        "authors": [
+          "YAGAMI Chitose"
+        ],
+        "identifier": "551897e5-ab53-425c-8328-43534a21468e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ikenai Navigation",
+        "url": "https://mangadex.org/title/551897e5-ab53-425c-8328-43534a21468e",
+        "image": "https://uploads.mangadex.org/covers/551897e5-ab53-425c-8328-43534a21468e/a785783a-b39d-41fd-9426-67f8724810f3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2926,
+        "aniId": 32926,
+        "createdAt": "2020-10-12T16:13:17.000Z",
+        "updatedAt": "2021-06-05T20:10:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ikenai_navigation": {
+        "authors": [],
+        "identifier": "ikenai_navigation",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ikenai Navigation",
+        "url": "https://manganelo.com/manga/ikenai_navigation",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/15879-ikenai_navigation.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2926,
+        "aniId": 32926,
+        "createdAt": "2020-10-12T16:23:32.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ikenai_navigation": {
+        "authors": [
+          "YAGAMI Chitose"
+        ],
+        "identifier": "ikenai_navigation",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ikenai Navigation",
+        "url": "https://fanfox.net/manga/ikenai_navigation/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1245/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2926,
+        "aniId": 32926,
+        "createdAt": "2021-01-19T10:34:17.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

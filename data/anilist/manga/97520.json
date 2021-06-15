@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "BOZE",
+    "Monk",
+    "Bouzu"
+  ],
+  "authors": [
+    "Ryouji Hirano"
+  ],
+  "id": 97520,
+  "malId": null,
+  "type": "manga",
+  "title": "Boze",
+  "url": "https://anilist.co/manga/97520",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97520-hySmaqiSXKki.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T21:48:57.000Z",
+  "updatedAt": "2021-06-04T21:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "486a558b-8d3e-4d59-b017-8edcd9b52f53": {
+        "authors": [
+          "Hirano Ryouji"
+        ],
+        "identifier": "486a558b-8d3e-4d59-b017-8edcd9b52f53",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BOZE",
+        "url": "https://mangadex.org/title/486a558b-8d3e-4d59-b017-8edcd9b52f53",
+        "image": "https://uploads.mangadex.org/covers/486a558b-8d3e-4d59-b017-8edcd9b52f53/97ff133e-21a2-43dd-8f79-e18a286e0c50.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 100281,
+        "aniId": 97520,
+        "createdAt": "2020-10-12T16:09:58.000Z",
+        "updatedAt": "2021-06-04T22:05:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "死線の召喚師",
+    "Deadline Summonnr"
+  ],
+  "authors": [
+    "Takemaru Inui"
+  ],
+  "id": 69723,
+  "malId": 39723,
+  "type": "manga",
+  "title": "Shisen no Shoukan Shi",
+  "url": "https://anilist.co/manga/69723",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39723.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d3926b1-15a2-49eb-ba4f-e28cf6340177": {
+        "authors": [
+          "Inui Takemaru (Okayado)"
+        ],
+        "identifier": "9d3926b1-15a2-49eb-ba4f-e28cf6340177",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shisen no Shoukanshi",
+        "url": "https://mangadex.org/title/9d3926b1-15a2-49eb-ba4f-e28cf6340177",
+        "image": "https://uploads.mangadex.org/covers/9d3926b1-15a2-49eb-ba4f-e28cf6340177/a22e4067-16c7-41ec-b470-a919eab7145a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39723,
+        "aniId": 69723,
+        "createdAt": "2020-10-12T16:04:46.000Z",
+        "updatedAt": "2021-06-02T23:19:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

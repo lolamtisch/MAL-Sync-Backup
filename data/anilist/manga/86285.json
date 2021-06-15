@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "どーきょにん",
+    "Roommates"
+  ],
+  "authors": [
+    "Tamamushi Oku"
+  ],
+  "id": 86285,
+  "malId": null,
+  "type": "manga",
+  "title": "Doukyonin",
+  "url": "https://anilist.co/manga/86285",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86285-4Y2wkmvZWCzg.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T12:31:12.000Z",
+  "updatedAt": "2021-06-02T12:31:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0f931c68-eede-4e5b-b56c-3c8d06935e27": {
+        "authors": [
+          "Oku Tamamushi"
+        ],
+        "identifier": "0f931c68-eede-4e5b-b56c-3c8d06935e27",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Roommates",
+        "url": "https://mangadex.org/title/0f931c68-eede-4e5b-b56c-3c8d06935e27",
+        "image": "https://uploads.mangadex.org/covers/0f931c68-eede-4e5b-b56c-3c8d06935e27/9c1b0edc-e05e-4c6b-8c70-300aba4cf8ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 86285,
+        "createdAt": "2020-10-12T16:03:09.000Z",
+        "updatedAt": "2021-06-02T13:03:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

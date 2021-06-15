@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "傷心男に春のあらし"
+  ],
+  "authors": [
+    "Cocomi"
+  ],
+  "id": 115509,
+  "malId": 124825,
+  "type": "manga",
+  "title": "Shoushin Otoko ni Haru no Arashi",
+  "url": "https://anilist.co/manga/115509",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115509-U1mMcUGblrY2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:08.000Z",
+  "updatedAt": "2021-06-07T17:36:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3bca7bf5-5926-42c6-bfb1-daf36c53d619": {
+        "authors": [
+          "Cocomi"
+        ],
+        "identifier": "3bca7bf5-5926-42c6-bfb1-daf36c53d619",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shoushin Otoko ni Haru no Arashi",
+        "url": "https://mangadex.org/title/3bca7bf5-5926-42c6-bfb1-daf36c53d619",
+        "image": "https://uploads.mangadex.org/covers/3bca7bf5-5926-42c6-bfb1-daf36c53d619/d02b8ab1-be41-412d-8b00-c8299f7ccd83.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124825,
+        "aniId": 115509,
+        "createdAt": "2020-10-12T16:18:30.000Z",
+        "updatedAt": "2021-06-07T19:18:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

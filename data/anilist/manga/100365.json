@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "部長はオネエ",
+    "The Boss is a Sister",
+    "Le patron est une copine"
+  ],
+  "authors": [
+    "Nagabe",
+    "Aline Kukor"
+  ],
+  "id": 100365,
+  "malId": 91139,
+  "type": "manga",
+  "title": "Buchou wa Onee",
+  "url": "https://anilist.co/manga/100365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100365-vzVVWbb7qeeq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:08.000Z",
+  "updatedAt": "2021-05-20T14:53:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd2fcc58-fe80-4122-af9c-fcf09181f279": {
+        "authors": [
+          "Nagabe"
+        ],
+        "identifier": "dd2fcc58-fe80-4122-af9c-fcf09181f279",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Buchou wa Onee",
+        "url": "https://mangadex.org/title/dd2fcc58-fe80-4122-af9c-fcf09181f279",
+        "image": "https://uploads.mangadex.org/covers/dd2fcc58-fe80-4122-af9c-fcf09181f279/c4462d35-d894-4bbb-95fe-66185b43380c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91139,
+        "aniId": 100365,
+        "createdAt": "2020-11-26T16:01:52.000Z",
+        "updatedAt": "2021-06-08T07:57:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "buchou_wa_onee": {
+        "authors": [
+          "Nagabe"
+        ],
+        "identifier": "buchou_wa_onee",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Buchou wa Onee",
+        "url": "https://fanfox.net/manga/buchou_wa_onee/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37877/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91139,
+        "aniId": 100365,
+        "createdAt": "2021-03-20T19:35:13.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

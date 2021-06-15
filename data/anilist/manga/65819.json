@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "邪童のアマネ"
+  ],
+  "authors": [
+    "Kotora Byaku"
+  ],
+  "id": 65819,
+  "malId": 35819,
+  "type": "manga",
+  "title": "Jappa no Amane",
+  "url": "https://anilist.co/manga/65819",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35819.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b8b80880-6e9c-4e18-b938-d1961bb4469e": {
+        "authors": [
+          "Byaku Kotora"
+        ],
+        "identifier": "b8b80880-6e9c-4e18-b938-d1961bb4469e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jappa no Amane",
+        "url": "https://mangadex.org/title/b8b80880-6e9c-4e18-b938-d1961bb4469e",
+        "image": "https://uploads.mangadex.org/covers/b8b80880-6e9c-4e18-b938-d1961bb4469e/0cb8fc65-0e0f-4361-bd28-6ab5951df204.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35819,
+        "aniId": 65819,
+        "createdAt": "2020-10-12T16:06:24.000Z",
+        "updatedAt": "2021-06-03T19:30:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jappa_no_amane": {
+        "authors": [
+          "Byaku",
+          "Kotora"
+        ],
+        "identifier": "jappa_no_amane",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jappa No Amane",
+        "url": "https://manganelo.com/manga/jappa_no_amane",
+        "image": "https://avt.mkklcdnv6temp.com/38/r/4-1583471275.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35819,
+        "aniId": 65819,
+        "createdAt": "2021-02-24T22:55:51.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

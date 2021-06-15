@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "世の中あざやか",
+    "Yo no Naka Azayaka",
+    "Vivid in a World"
+  ],
+  "authors": [
+    "Mille Feuille"
+  ],
+  "id": 60151,
+  "malId": 30151,
+  "type": "manga",
+  "title": "Yononaka Azayaka",
+  "url": "https://anilist.co/manga/60151",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30151.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:47:39.000Z",
+  "updatedAt": "2021-05-20T14:47:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1116bb4c-9c39-47e0-8c6d-29dd9c947e15": {
+        "authors": [
+          "Millefeuille"
+        ],
+        "identifier": "1116bb4c-9c39-47e0-8c6d-29dd9c947e15",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yononaka Azayaka",
+        "url": "https://mangadex.org/title/1116bb4c-9c39-47e0-8c6d-29dd9c947e15",
+        "image": "https://uploads.mangadex.org/covers/1116bb4c-9c39-47e0-8c6d-29dd9c947e15/0ba0cb70-c4e9-4220-a051-46704f855078.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30151,
+        "aniId": 60151,
+        "createdAt": "2020-10-12T16:19:05.000Z",
+        "updatedAt": "2021-06-07T21:22:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

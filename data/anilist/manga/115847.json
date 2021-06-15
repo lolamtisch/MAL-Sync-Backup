@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "冬の詩",
+    "Winter Poem"
+  ],
+  "authors": [
+    "Tamamushi Oku"
+  ],
+  "id": 115847,
+  "malId": null,
+  "type": "manga",
+  "title": "Fuyu no Shi",
+  "url": "https://anilist.co/manga/115847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115847-oULsWeROTQ2B.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T12:31:12.000Z",
+  "updatedAt": "2021-06-02T12:31:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "68a9a2c8-c190-40f1-b54c-3b0a332adc76": {
+        "authors": [
+          "Oku Tamamushi"
+        ],
+        "identifier": "68a9a2c8-c190-40f1-b54c-3b0a332adc76",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Winter Poem",
+        "url": "https://mangadex.org/title/68a9a2c8-c190-40f1-b54c-3b0a332adc76",
+        "image": "https://uploads.mangadex.org/covers/68a9a2c8-c190-40f1-b54c-3b0a332adc76/2deaf263-46fa-43cf-a87d-ac19c4fef3e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 115847,
+        "createdAt": "2020-10-12T16:03:09.000Z",
+        "updatedAt": "2021-06-02T13:03:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "愛はカラダで語るもの",
+    "Esprimo un amore con il mio corpo"
+  ],
+  "authors": [
+    "Mayuri Tsukihara"
+  ],
+  "id": 42167,
+  "malId": 12167,
+  "type": "manga",
+  "title": "Ai wa Karada de Kataru Mono",
+  "url": "https://anilist.co/manga/42167",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12167.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ef3114ef-8ea7-40b5-8329-3293d9657863": {
+        "authors": [
+          "TSUKIHARA Mayuri"
+        ],
+        "identifier": "ef3114ef-8ea7-40b5-8329-3293d9657863",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai wa Karada de Kataru Mono",
+        "url": "https://mangadex.org/title/ef3114ef-8ea7-40b5-8329-3293d9657863",
+        "image": "https://uploads.mangadex.org/covers/ef3114ef-8ea7-40b5-8329-3293d9657863/85ebc12a-9461-4b40-a215-436636dbd8a7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12167,
+        "aniId": 42167,
+        "createdAt": "2020-11-06T10:29:04.000Z",
+        "updatedAt": "2021-06-08T06:52:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

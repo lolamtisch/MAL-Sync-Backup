@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "今日から俺は！！",
+    "Kyoukara Ore Wa!!",
+    "Kyoukara Ore Wa!",
+    "Today",
+    "It's My Turn!!"
+  ],
+  "authors": [
+    "Hiroyuki Nishimori"
+  ],
+  "id": 36812,
+  "malId": 6812,
+  "type": "manga",
+  "title": "Kyou Kara Ore Wa!!",
+  "url": "https://anilist.co/manga/36812",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36812-zCZCCJzKo0O8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:43.000Z",
+  "updatedAt": "2021-05-20T14:39:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd7632cf-1317-4878-8fd6-9a38fadad76a": {
+        "authors": [
+          "Nishimori Hiroyuki"
+        ],
+        "identifier": "dd7632cf-1317-4878-8fd6-9a38fadad76a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyou kara Ore wa!!",
+        "url": "https://mangadex.org/title/dd7632cf-1317-4878-8fd6-9a38fadad76a",
+        "image": "https://uploads.mangadex.org/covers/dd7632cf-1317-4878-8fd6-9a38fadad76a/a7e10de8-cd53-4a14-9e27-bab0fb4f8cf7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6812,
+        "aniId": 36812,
+        "createdAt": "2020-10-12T16:02:26.000Z",
+        "updatedAt": "2021-06-02T06:52:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kyou_kara_ore_wa": {
+        "authors": [],
+        "identifier": "kyou_kara_ore_wa",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kyou Kara Ore Wa!!",
+        "url": "https://manganelo.com/manga/kyou_kara_ore_wa",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4534-kyou_kara_ore_wa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6812,
+        "aniId": 36812,
+        "createdAt": "2020-10-12T16:24:04.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kyou-kara-ore-wa": {
+        "authors": [
+          "NISHIMORI Hiroyuki"
+        ],
+        "identifier": "kyou-kara-ore-wa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kyou kara Ore wa!!",
+        "url": "https://mangasee123.com/manga/Kyou-Kara-Ore-Wa",
+        "image": "https://cover.nep.li/cover/Kyou-Kara-Ore-Wa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6812,
+        "aniId": 36812,
+        "createdAt": "2021-05-16T15:55:28.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

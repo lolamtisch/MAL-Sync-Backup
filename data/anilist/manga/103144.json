@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Blissful Land",
+    "テンジュの国",
+    "Beztroska Kraina"
+  ],
+  "authors": [
+    "Ichimon Izumi",
+    "Christine Dashiell",
+    "Carlo Vanstiphout"
+  ],
+  "id": 103144,
+  "malId": 114932,
+  "type": "manga",
+  "title": "Tenju no Kuni",
+  "url": "https://anilist.co/manga/103144",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103144-4LePwpixNLp0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:13.000Z",
+  "updatedAt": "2021-05-20T14:57:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "519a8d57-2c3a-4da3-9873-ee8165830eb8": {
+        "authors": [
+          "Izumi Ichimon"
+        ],
+        "identifier": "519a8d57-2c3a-4da3-9873-ee8165830eb8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenju no Kuni",
+        "url": "https://mangadex.org/title/519a8d57-2c3a-4da3-9873-ee8165830eb8",
+        "image": "https://uploads.mangadex.org/covers/519a8d57-2c3a-4da3-9873-ee8165830eb8/8c17afb3-bc5c-4b76-a4c1-a279f081497a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114932,
+        "aniId": 103144,
+        "createdAt": "2020-10-12T16:13:30.000Z",
+        "updatedAt": "2021-06-05T21:58:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "blissful_land": {
+        "authors": [],
+        "identifier": "blissful_land",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Blissful Land",
+        "url": "https://manganelo.com/manga/blissful_land",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20654-blissful_land.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114932,
+        "aniId": 103144,
+        "createdAt": "2020-10-12T16:22:18.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tenju-no-kuni": {
+        "authors": [
+          "IZUMI Ichimon"
+        ],
+        "identifier": "tenju-no-kuni",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tenju no Kuni",
+        "url": "https://mangasee123.com/manga/Tenju-No-Kuni",
+        "image": "https://cover.nep.li/cover/Tenju-No-Kuni.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114932,
+        "aniId": 103144,
+        "createdAt": "2021-01-28T18:56:01.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

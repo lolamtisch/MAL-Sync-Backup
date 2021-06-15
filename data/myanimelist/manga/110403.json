@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "蝶々事件"
+  ],
+  "authors": [
+    "Shouoto, Aya"
+  ],
+  "id": 110403,
+  "type": "manga",
+  "title": "Chouchou Jiken",
+  "url": "https://myanimelist.net/manga/110403/Chouchou_Jiken",
+  "image": "https://cdn.myanimelist.net/images/manga/1/202302.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:19.000Z",
+  "updatedAt": "2021-06-05T00:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "668823c8-4e13-43b8-b38f-22777c65ef37": {
+        "authors": [
+          "SHOUOTO Aya",
+          "Red",
+          "Otomate"
+        ],
+        "identifier": "668823c8-4e13-43b8-b38f-22777c65ef37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chouchou Jiken",
+        "url": "https://mangadex.org/title/668823c8-4e13-43b8-b38f-22777c65ef37",
+        "image": "https://uploads.mangadex.org/covers/668823c8-4e13-43b8-b38f-22777c65ef37/9d2d6f4a-6e30-43c0-866d-2e02918761fe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 110403,
+        "aniId": 99854,
+        "createdAt": "2020-10-12T16:10:24.000Z",
+        "updatedAt": "2021-06-05T09:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fb918940": {
+        "authors": [
+          "Aya",
+          "Shouoto"
+        ],
+        "identifier": "fb918940",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chouchou Jiken",
+        "url": "https://manganelo.com/manga/fb918940",
+        "image": "https://avt.mkklcdnv6.com/13/s/18-1583497618.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110403,
+        "aniId": 99854,
+        "createdAt": "2020-11-04T02:54:53.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

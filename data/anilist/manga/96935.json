@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "鈴木さんの鈴木くん"
+  ],
+  "authors": [
+    "Akino Miyabi"
+  ],
+  "id": 96935,
+  "malId": 97072,
+  "type": "manga",
+  "title": "Suzuki-san no Suzuki-kun",
+  "url": "https://anilist.co/manga/96935",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96935-j99yCsmCPKos.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:07.000Z",
+  "updatedAt": "2021-05-20T14:54:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1eff7e8d-44df-4c08-8afc-49dd38548272": {
+        "authors": [
+          "Maabou",
+          "Miyabi Akino"
+        ],
+        "identifier": "1eff7e8d-44df-4c08-8afc-49dd38548272",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suzuki-san no Suzuki-kun",
+        "url": "https://mangadex.org/title/1eff7e8d-44df-4c08-8afc-49dd38548272",
+        "image": "https://uploads.mangadex.org/covers/1eff7e8d-44df-4c08-8afc-49dd38548272/9ecf59ae-6a9c-4fbc-98f9-80e06369ed07.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97072,
+        "aniId": 96935,
+        "createdAt": "2020-10-12T16:08:45.000Z",
+        "updatedAt": "2021-06-04T12:26:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "suzukisan_no_suzukikun": {
+        "authors": [],
+        "identifier": "suzukisan_no_suzukikun",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suzuki-San No Suzuki-Kun",
+        "url": "https://manganelo.com/manga/suzukisan_no_suzukikun",
+        "image": "https://avt.mkklcdnv6.com/24/u/13-1583488638.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97072,
+        "aniId": 96935,
+        "createdAt": "2020-10-12T16:25:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

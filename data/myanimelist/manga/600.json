@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Orfina",
+    "オルフィーナ"
+  ],
+  "authors": [
+    "Tennouji, Kitsune"
+  ],
+  "id": 600,
+  "type": "manga",
+  "title": "Orfina",
+  "url": "https://myanimelist.net/manga/600/Orfina",
+  "image": "https://cdn.myanimelist.net/images/manga/2/1097.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:24.000Z",
+  "updatedAt": "2021-04-26T08:28:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fbd43b58-5895-4feb-983f-040178020db2": {
+        "authors": [
+          "Park Sung-Woo"
+        ],
+        "identifier": "fbd43b58-5895-4feb-983f-040178020db2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ChunRangYulJun",
+        "url": "https://mangadex.org/title/fbd43b58-5895-4feb-983f-040178020db2",
+        "image": "https://uploads.mangadex.org/covers/fbd43b58-5895-4feb-983f-040178020db2/b0bc73e8-ac47-4742-8f67-81b6e8d60f77.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 600,
+        "aniId": 30600,
+        "createdAt": "2020-10-12T16:03:29.000Z",
+        "updatedAt": "2021-06-02T14:22:02.000Z",
+        "deletedAt": null
+      },
+      "5d911470-7bd0-4cb3-ba33-ec17d09e4fb4": {
+        "authors": [
+          "Tennouji Kitsune"
+        ],
+        "identifier": "5d911470-7bd0-4cb3-ba33-ec17d09e4fb4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Orfina",
+        "url": "https://mangadex.org/title/5d911470-7bd0-4cb3-ba33-ec17d09e4fb4",
+        "image": "https://uploads.mangadex.org/covers/5d911470-7bd0-4cb3-ba33-ec17d09e4fb4/27416f7c-bcb0-402e-9790-294bd95bfbe1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 600,
+        "aniId": 30600,
+        "createdAt": "2020-10-12T16:05:19.000Z",
+        "updatedAt": "2021-06-03T11:41:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

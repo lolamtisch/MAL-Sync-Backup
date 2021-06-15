@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いとしのご主人サマ",
+    "Itoshi no Goshujinsama"
+  ],
+  "authors": [
+    "Nana Haruta"
+  ],
+  "id": 34567,
+  "malId": 4567,
+  "type": "manga",
+  "title": "Itoshi no Goshujin-sama",
+  "url": "https://anilist.co/manga/34567",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b34567-z9wRruaGclo1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:33.000Z",
+  "updatedAt": "2021-05-20T14:38:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c96a11b0-1330-48c6-8e42-12a7b3e66683": {
+        "authors": [
+          "Haruta Nana"
+        ],
+        "identifier": "c96a11b0-1330-48c6-8e42-12a7b3e66683",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itoshi no Goshujinsama",
+        "url": "https://mangadex.org/title/c96a11b0-1330-48c6-8e42-12a7b3e66683",
+        "image": "https://uploads.mangadex.org/covers/c96a11b0-1330-48c6-8e42-12a7b3e66683/6cc924e3-8a16-441b-8722-e8eaaa0b563e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4567,
+        "aniId": 34567,
+        "createdAt": "2020-10-12T16:06:04.000Z",
+        "updatedAt": "2021-06-03T16:56:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

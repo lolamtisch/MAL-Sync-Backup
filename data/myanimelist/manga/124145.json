@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Epic of Gilgamesh, Ae Neulgeuni",
+    "애늙은이"
+  ],
+  "authors": [
+    "Hwan Daeng"
+  ],
+  "id": 124145,
+  "type": "manga",
+  "title": "Gilgamesh",
+  "url": "https://myanimelist.net/manga/124145/Gilgamesh",
+  "image": "https://cdn.myanimelist.net/images/manga/3/226439.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-11-02T17:54:21.000Z",
+  "updatedAt": "2021-01-21T11:34:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0499fc91-fc19-434b-8e66-7dc2fd93a2d7": {
+        "authors": [
+          "Hwan Daeng"
+        ],
+        "identifier": "0499fc91-fc19-434b-8e66-7dc2fd93a2d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Epic of Gilgamesh",
+        "url": "https://mangadex.org/title/0499fc91-fc19-434b-8e66-7dc2fd93a2d7",
+        "image": "https://uploads.mangadex.org/covers/0499fc91-fc19-434b-8e66-7dc2fd93a2d7/d30a2ada-f0a7-4ab4-bfcd-33860e3ed687.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124145,
+        "aniId": 87416,
+        "createdAt": "2020-10-12T16:10:10.000Z",
+        "updatedAt": "2021-06-04T22:51:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "epic_of_gilgamesh": {
+        "authors": [
+          "Hwan",
+          "Daeng"
+        ],
+        "identifier": "epic_of_gilgamesh",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Epic Of Gilgamesh",
+        "url": "https://manganelo.com/manga/epic_of_gilgamesh",
+        "image": "https://avt.mkklcdnv6.com/38/u/13-1583489135.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 124145,
+        "aniId": 87416,
+        "createdAt": "2020-10-12T16:22:50.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "epic_of_gilgamesh": {
+        "authors": [
+          "Hwan Daeng"
+        ],
+        "identifier": "epic_of_gilgamesh",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Epic of Gilgamesh",
+        "url": "https://fanfox.net/manga/epic_of_gilgamesh/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19731/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124145,
+        "aniId": 87416,
+        "createdAt": "2021-01-21T11:34:35.000Z",
+        "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

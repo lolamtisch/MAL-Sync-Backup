@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Melty Night"
+  ],
+  "authors": [
+    "Ami Oyamada"
+  ],
+  "id": 95348,
+  "malId": 90750,
+  "type": "manga",
+  "title": "Melty Night",
+  "url": "https://anilist.co/manga/95348",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95348-tmIkDgT7ZCv5.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-04T12:20:29.000Z",
+  "updatedAt": "2021-06-04T12:20:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ebfc45d4-b866-4fff-9e9a-79e7addf597d": {
+        "authors": [
+          "Oyamada Ami"
+        ],
+        "identifier": "ebfc45d4-b866-4fff-9e9a-79e7addf597d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Melty Night",
+        "url": "https://mangadex.org/title/ebfc45d4-b866-4fff-9e9a-79e7addf597d",
+        "image": "https://uploads.mangadex.org/covers/ebfc45d4-b866-4fff-9e9a-79e7addf597d/824f1bc7-d844-4a37-abc6-f0dd19cfaa61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90750,
+        "aniId": 95348,
+        "createdAt": "2020-10-12T16:08:40.000Z",
+        "updatedAt": "2021-06-04T12:47:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

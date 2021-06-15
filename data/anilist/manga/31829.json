@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Kの葬列",
+    "The Funeral Procession of K"
+  ],
+  "authors": [
+    "Maki Kusumoto"
+  ],
+  "id": 31829,
+  "malId": 1829,
+  "type": "manga",
+  "title": "K no Souretsu",
+  "url": "https://anilist.co/manga/31829",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31829-XTMybgKxLLLN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:54.000Z",
+  "updatedAt": "2021-05-20T14:36:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e46cd518-e8cf-4c4d-bfa9-1ccd162a8f51": {
+        "authors": [
+          "KUSUMOTO Maki"
+        ],
+        "identifier": "e46cd518-e8cf-4c4d-bfa9-1ccd162a8f51",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "K no Souretsu",
+        "url": "https://mangadex.org/title/e46cd518-e8cf-4c4d-bfa9-1ccd162a8f51",
+        "image": "https://uploads.mangadex.org/covers/e46cd518-e8cf-4c4d-bfa9-1ccd162a8f51/f7cfcb9e-6889-4eb2-a010-dccba22766d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1829,
+        "aniId": 31829,
+        "createdAt": "2020-10-12T16:03:32.000Z",
+        "updatedAt": "2021-06-02T14:46:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "k_no_souretsu": {
+        "authors": [
+          "KUSUMOTO Maki"
+        ],
+        "identifier": "k_no_souretsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "K no Souretsu",
+        "url": "https://fanfox.net/manga/k_no_souretsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2403/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1829,
+        "aniId": 31829,
+        "createdAt": "2020-12-20T19:56:06.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "兄弟"
+  ],
+  "authors": [
+    "Shinichirou Naruie"
+  ],
+  "id": 43710,
+  "malId": 13710,
+  "type": "manga",
+  "title": "Brothers",
+  "url": "https://anilist.co/manga/43710",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13710.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-05-20T14:42:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab371a0b-7f3b-49be-bb21-fede23f405e8": {
+        "authors": [
+          "Naruse Yoshiki"
+        ],
+        "identifier": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Brothers",
+        "url": "https://mangadex.org/title/ab371a0b-7f3b-49be-bb21-fede23f405e8",
+        "image": "https://uploads.mangadex.org/covers/ab371a0b-7f3b-49be-bb21-fede23f405e8/3cb26d3e-81b2-40d1-bf94-cbccdf683a35.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13710,
+        "aniId": 43710,
+        "createdAt": "2020-10-12T16:05:19.000Z",
+        "updatedAt": "2021-06-03T11:50:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

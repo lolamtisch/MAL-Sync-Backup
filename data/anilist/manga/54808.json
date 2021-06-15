@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "神の子供",
+    "God's Child"
+  ],
+  "authors": [
+    "Nishioka Kyoudai"
+  ],
+  "id": 54808,
+  "malId": 24808,
+  "type": "manga",
+  "title": "Kami no Kodomo",
+  "url": "https://anilist.co/manga/54808",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24808.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:46.000Z",
+  "updatedAt": "2021-05-20T14:46:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac23805e-6d7a-498f-9c58-b45a2d5e7326": {
+        "authors": [
+          "NISHIOKA Kyoudai"
+        ],
+        "identifier": "ac23805e-6d7a-498f-9c58-b45a2d5e7326",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "God's Child",
+        "url": "https://mangadex.org/title/ac23805e-6d7a-498f-9c58-b45a2d5e7326",
+        "image": "https://uploads.mangadex.org/covers/ac23805e-6d7a-498f-9c58-b45a2d5e7326/aead3ce2-526b-4bac-a5f6-31255fe8c67d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24808,
+        "aniId": 54808,
+        "createdAt": "2020-10-12T16:02:56.000Z",
+        "updatedAt": "2021-06-02T10:34:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kami_no_kodomo": {
+        "authors": [],
+        "identifier": "kami_no_kodomo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kami No Kodomo",
+        "url": "https://manganelo.com/manga/kami_no_kodomo",
+        "image": "https://avt.mkklcdnv6.com/6/y/13-1583487981.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24808,
+        "aniId": 54808,
+        "createdAt": "2020-10-12T16:23:49.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

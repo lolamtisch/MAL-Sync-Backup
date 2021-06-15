@@ -1,0 +1,40 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Sakura, Bun7"
+  ],
+  "id": 2862,
+  "type": "manga",
+  "title": "My Eternal Master",
+  "url": "https://myanimelist.net/manga/2862/My_Eternal_Master",
+  "image": "https://cdn.myanimelist.net/images/manga/3/3069.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-12-29T06:53:02.000Z",
+  "updatedAt": "2021-02-23T12:55:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "51fc65fe-5112-4b1e-bd8d-1b6db75098ff": {
+        "authors": [
+          "Sakura Bunshichi"
+        ],
+        "identifier": "51fc65fe-5112-4b1e-bd8d-1b6db75098ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Eternal Master",
+        "url": "https://mangadex.org/title/51fc65fe-5112-4b1e-bd8d-1b6db75098ff",
+        "image": "https://uploads.mangadex.org/covers/51fc65fe-5112-4b1e-bd8d-1b6db75098ff/37cbd194-f1fc-4144-8da8-f13b06e4b250.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2862,
+        "aniId": 32862,
+        "createdAt": "2020-12-29T06:53:02.000Z",
+        "updatedAt": "2021-06-08T09:08:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

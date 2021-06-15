@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ひめはじめ"
+  ],
+  "authors": [
+    "Kiya Shii"
+  ],
+  "id": 105799,
+  "malId": 108811,
+  "type": "manga",
+  "title": "Himehajime",
+  "url": "https://anilist.co/manga/105799",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105799-X5lVIH5oS3hQ.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-06T07:49:07.000Z",
+  "updatedAt": "2021-06-06T07:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "58adcc92-342e-427b-99fe-cbe77d74472e": {
+        "authors": [
+          "Kiya Shii"
+        ],
+        "identifier": "58adcc92-342e-427b-99fe-cbe77d74472e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hime Hajime",
+        "url": "https://mangadex.org/title/58adcc92-342e-427b-99fe-cbe77d74472e",
+        "image": "https://uploads.mangadex.org/covers/58adcc92-342e-427b-99fe-cbe77d74472e/c714c246-36e9-4284-8687-67a20caec204.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108811,
+        "aniId": 105799,
+        "createdAt": "2020-10-12T16:14:44.000Z",
+        "updatedAt": "2021-06-06T10:14:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

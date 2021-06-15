@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Takidani High Manga Club",
+    "滝谷高校漫画倶楽部"
+  ],
+  "authors": [
+    "Maybe"
+  ],
+  "id": 17741,
+  "type": "manga",
+  "title": "Takidani Koukou Manga Club",
+  "url": "https://myanimelist.net/manga/17741/Takidani_Koukou_Manga_Club",
+  "image": "https://cdn.myanimelist.net/images/manga/2/27011.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:28.000Z",
+  "updatedAt": "2021-05-02T14:02:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a": {
+        "authors": [
+          "Maybe"
+        ],
+        "identifier": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Takidani Koukou Manga Club",
+        "url": "https://mangadex.org/title/d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
+        "image": "https://uploads.mangadex.org/covers/d80e18e0-4d5a-48a7-a4b7-1c218db42b1a/9c2dd3c5-2af7-463f-9df1-27fd74392e60.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17741,
+        "aniId": 47741,
+        "createdAt": "2020-10-12T16:04:07.000Z",
+        "updatedAt": "2021-06-02T18:49:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "takidani_koukou_manga_club": {
+        "authors": [],
+        "identifier": "takidani_koukou_manga_club",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Takidani Koukou Manga Club",
+        "url": "https://manganelo.com/manga/takidani_koukou_manga_club",
+        "image": "https://avt.mkklcdnv6.com/47/m/2-1583467515.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17741,
+        "aniId": 47741,
+        "createdAt": "2020-10-12T16:25:38.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "takidani_koukou_manga_club": {
+        "authors": [
+          "Maybe"
+        ],
+        "identifier": "takidani_koukou_manga_club",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Takidani Koukou Manga Club",
+        "url": "https://fanfox.net/manga/takidani_koukou_manga_club/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7164/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17741,
+        "aniId": 47741,
+        "createdAt": "2021-05-09T15:17:23.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

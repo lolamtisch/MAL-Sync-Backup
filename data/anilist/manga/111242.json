@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "하우스키퍼"
+  ],
+  "authors": [
+    "Taek Chae Yong",
+    "You Hyun"
+  ],
+  "id": 111242,
+  "malId": null,
+  "type": "manga",
+  "title": "Housekeeper",
+  "url": "https://anilist.co/manga/111242",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111242-X7FZDr34BXoj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T14:08:19.000Z",
+  "updatedAt": "2021-05-24T14:08:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb24ecc9-155b-448d-aa74-bf31eb25e480": {
+        "authors": [
+          "Yu Hyeon",
+          "Chae Yong-Taek"
+        ],
+        "identifier": "bb24ecc9-155b-448d-aa74-bf31eb25e480",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Housekeeper",
+        "url": "https://mangadex.org/title/bb24ecc9-155b-448d-aa74-bf31eb25e480",
+        "image": "https://uploads.mangadex.org/covers/bb24ecc9-155b-448d-aa74-bf31eb25e480/6cd73511-6393-4b95-8015-c698d8206815.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 111242,
+        "createdAt": "2020-10-12T16:15:06.000Z",
+        "updatedAt": "2021-06-06T13:38:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

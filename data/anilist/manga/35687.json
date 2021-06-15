@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Mayuko Wada"
+  ],
+  "id": 35687,
+  "malId": 5687,
+  "type": "manga",
+  "title": "Oyasumi Darling",
+  "url": "https://anilist.co/manga/35687",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5687.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:32.000Z",
+  "updatedAt": "2021-05-20T14:39:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3efa926e-2363-4540-b7dc-4ed25ffe2f31": {
+        "authors": [
+          "Wada Mayuko"
+        ],
+        "identifier": "3efa926e-2363-4540-b7dc-4ed25ffe2f31",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oyasumi Darling",
+        "url": "https://mangadex.org/title/3efa926e-2363-4540-b7dc-4ed25ffe2f31",
+        "image": "https://uploads.mangadex.org/covers/3efa926e-2363-4540-b7dc-4ed25ffe2f31/0d733713-9ed7-42d8-a8da-8e848cfc7933.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5687,
+        "aniId": 35687,
+        "createdAt": "2020-11-10T09:44:00.000Z",
+        "updatedAt": "2021-06-08T06:59:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "PON PON PON!"
+  ],
+  "authors": [
+    "emily"
+  ],
+  "id": 118912,
+  "malId": null,
+  "type": "manga",
+  "title": "PON PON PON!",
+  "url": "https://anilist.co/manga/118912",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118912-pRQlwseI4FC0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T12:06:44.000Z",
+  "updatedAt": "2021-06-07T12:06:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "452844eb-188b-46b0-a0ca-7e2f389c0d69": {
+        "authors": [
+          "emily"
+        ],
+        "identifier": "452844eb-188b-46b0-a0ca-7e2f389c0d69",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "PON PON PON!",
+        "url": "https://mangadex.org/title/452844eb-188b-46b0-a0ca-7e2f389c0d69",
+        "image": "https://uploads.mangadex.org/covers/452844eb-188b-46b0-a0ca-7e2f389c0d69/537bb07a-a203-44c1-9b1d-c32fe8e3a980.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118912,
+        "createdAt": "2020-10-12T16:17:51.000Z",
+        "updatedAt": "2021-06-07T13:42:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

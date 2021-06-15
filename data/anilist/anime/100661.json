@@ -1,0 +1,78 @@
+{
+  "altTitle": [
+    "Hugtto! Precure",
+    "HUGっと！プリキュア",
+    "Hugtto! Pretty Cure",
+    "Hug tto! Precure"
+  ],
+  "id": 100661,
+  "malId": 36593,
+  "type": "anime",
+  "title": "Hugtto! Precure",
+  "url": "https://anilist.co/anime/100661",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100661-zrozfnaAgN1s.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:28.000Z",
+  "updatedAt": "2021-05-20T14:44:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "qjw3": {
+        "identifier": "qjw3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hug tto! Precure",
+        "url": "https://9anime.ru/watch/hug-tto-precure.qjw3",
+        "image": "http://static.akacdn.ru/static/images/2018/04/db869721f91c230b09165976445c5969.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36593,
+        "aniId": 100661,
+        "createdAt": "2020-10-12T15:55:07.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hugtto-precure": {
+        "identifier": "hugtto-precure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hugtto! Precure",
+        "url": "https://gogoanime.so/category/hugtto-precure",
+        "image": "https://cdnimg.xyz/cover/hugtto-precure.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36593,
+        "aniId": 100661,
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Twistmoe": {
+      "hugtto-precure": {
+        "identifier": "hugtto-precure",
+        "type": "anime",
+        "page": "Twistmoe",
+        "title": "Hugtto! Precure",
+        "url": "https://twist.moe/a/hugtto-precure/1",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36593,
+        "aniId": 100661,
+        "createdAt": "2020-10-12T16:26:55.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

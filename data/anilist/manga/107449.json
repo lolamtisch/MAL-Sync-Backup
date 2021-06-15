@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Land Lock",
+    "Land Lock"
+  ],
+  "authors": [
+    "Ai Odahara"
+  ],
+  "id": 107449,
+  "malId": 117625,
+  "type": "manga",
+  "title": "Land Lock",
+  "url": "https://anilist.co/manga/107449",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107449-45C1CNoaBpZZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:56.000Z",
+  "updatedAt": "2021-05-20T14:57:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "61ccc3db-198b-4165-a619-3e763fa16a94": {
+        "authors": [
+          "Odahara Ai"
+        ],
+        "identifier": "61ccc3db-198b-4165-a619-3e763fa16a94",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "LAND LOCK",
+        "url": "https://mangadex.org/title/61ccc3db-198b-4165-a619-3e763fa16a94",
+        "image": "https://uploads.mangadex.org/covers/61ccc3db-198b-4165-a619-3e763fa16a94/53fb6e0f-d315-44c7-a246-587984bc03af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117625,
+        "aniId": 107449,
+        "createdAt": "2020-10-12T16:15:17.000Z",
+        "updatedAt": "2021-06-06T12:29:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jh918915": {
+        "authors": [],
+        "identifier": "jh918915",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Land Lock",
+        "url": "https://manganelo.com/manga/jh918915",
+        "image": "https://avt.mkklcdnv6.com/12/v/18-1583497585.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117625,
+        "aniId": 107449,
+        "createdAt": "2020-10-12T16:23:41.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "land_lock": {
+        "authors": [
+          "ODAHARA Ai"
+        ],
+        "identifier": "land_lock",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Land Lock",
+        "url": "https://fanfox.net/manga/land_lock/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30370/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117625,
+        "aniId": 107449,
+        "createdAt": "2021-01-08T08:51:43.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

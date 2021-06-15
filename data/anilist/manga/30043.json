@@ -1,0 +1,119 @@
+{
+  "altTitle": [
+    "アイシールド21"
+  ],
+  "authors": [
+    "Riichirou Inagaki",
+    "Yuusuke Murata",
+    "Eiji Masuda",
+    "Yukinori Kawaguchi",
+    "Kouhei Fujino",
+    "Ryousuke Takeuchi",
+    "Yoshiyuki Nishi",
+    "Yuuichi Itakura",
+    "Masaru Miyokawa",
+    "Yuuki Nakashima"
+  ],
+  "id": 30043,
+  "malId": 43,
+  "type": "manga",
+  "title": "Eyeshield 21",
+  "url": "https://anilist.co/manga/30043",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30043-b2SqUjwSzfIH.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:21.000Z",
+  "updatedAt": "2021-05-20T14:35:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "30460ee1-e7c1-4b1a-90a0-6861f9992c17": {
+        "authors": [
+          "Inagaki Riichiro",
+          "Murata Yuusuke"
+        ],
+        "identifier": "30460ee1-e7c1-4b1a-90a0-6861f9992c17",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eyeshield 21",
+        "url": "https://mangadex.org/title/30460ee1-e7c1-4b1a-90a0-6861f9992c17",
+        "image": "https://uploads.mangadex.org/covers/30460ee1-e7c1-4b1a-90a0-6861f9992c17/5d7a89a2-fb1f-4ab1-a951-81f8dbc6e92e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43,
+        "aniId": 30043,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:20:42.000Z",
+        "deletedAt": null
+      },
+      "282a8dd3-ff00-4a81-86b0-8c9ac4271bdb": {
+        "authors": [
+          "",
+          "(Alpha Star)",
+          "Umeda Ichijiku",
+          "Oshimi Ikamu"
+        ],
+        "identifier": "282a8dd3-ff00-4a81-86b0-8c9ac4271bdb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eyeshield 21 - Midsummer Miracle (Doujinshi)",
+        "url": "https://mangadex.org/title/282a8dd3-ff00-4a81-86b0-8c9ac4271bdb",
+        "image": "https://uploads.mangadex.org/covers/282a8dd3-ff00-4a81-86b0-8c9ac4271bdb/13e4896d-2285-4a70-b8d5-72ee9ea57329.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43,
+        "aniId": 30043,
+        "createdAt": "2020-10-12T16:13:27.000Z",
+        "updatedAt": "2021-06-05T21:32:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_eyeshield_21_manga": {
+        "authors": [],
+        "identifier": "read_eyeshield_21_manga",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eyeshield 21",
+        "url": "https://manganelo.com/manga/read_eyeshield_21_manga",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3833-read_eyeshield_21_manga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43,
+        "aniId": 30043,
+        "createdAt": "2020-10-12T16:25:05.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "eyeshield21": {
+        "authors": [
+          "INAGAKI Riichiro",
+          "MURATA Yuusuke"
+        ],
+        "identifier": "eyeshield21",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Eyeshield 21",
+        "url": "https://mangasee123.com/manga/Eyeshield21",
+        "image": "https://cover.nep.li/cover/Eyeshield21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43,
+        "aniId": 30043,
+        "createdAt": "2020-12-18T19:26:21.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

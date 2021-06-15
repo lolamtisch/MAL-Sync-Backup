@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "おしまい"
+  ],
+  "authors": [
+    "Tadataka Kawasaki"
+  ],
+  "id": 119448,
+  "malId": null,
+  "type": "manga",
+  "title": "Oshimai",
+  "url": "https://anilist.co/manga/119448",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119448-Ejy1z4g1mnJJ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:23:40.000Z",
+  "updatedAt": "2021-06-07T23:23:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "831b12b8-2d0e-4397-8719-1efee4c32f40": {
+        "authors": [
+          "Kawasaki Tadataka"
+        ],
+        "identifier": "831b12b8-2d0e-4397-8719-1efee4c32f40",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oshimai",
+        "url": "https://mangadex.org/title/831b12b8-2d0e-4397-8719-1efee4c32f40",
+        "image": "https://uploads.mangadex.org/covers/831b12b8-2d0e-4397-8719-1efee4c32f40/1d387431-eb38-40e9-bc6e-97e4ea4092dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119448,
+        "createdAt": "2020-10-12T16:19:54.000Z",
+        "updatedAt": "2021-06-08T00:45:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

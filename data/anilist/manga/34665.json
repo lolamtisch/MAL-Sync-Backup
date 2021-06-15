@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Egg of Tomorrow",
+    "あしたのタマゴ",
+    "Ashitama"
+  ],
+  "authors": [
+    "Kaimu Tachibana"
+  ],
+  "id": 34665,
+  "malId": 4665,
+  "type": "manga",
+  "title": "Ashita no Tamago",
+  "url": "https://anilist.co/manga/34665",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4665.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "47885c4b-4b5c-4010-927b-256de0de81bc": {
+        "authors": [
+          "Tachibana Kaim"
+        ],
+        "identifier": "47885c4b-4b5c-4010-927b-256de0de81bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ashita no Tamago",
+        "url": "https://mangadex.org/title/47885c4b-4b5c-4010-927b-256de0de81bc",
+        "image": "https://uploads.mangadex.org/covers/47885c4b-4b5c-4010-927b-256de0de81bc/bcc8014c-74cc-480c-a2cd-ded8d5f50361.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4665,
+        "aniId": 34665,
+        "createdAt": "2020-12-25T21:55:06.000Z",
+        "updatedAt": "2021-06-08T09:05:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

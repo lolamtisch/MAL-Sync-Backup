@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Atsushi Suzumi"
+  ],
+  "id": 86172,
+  "malId": null,
+  "type": "manga",
+  "title": "Bloody Little Circus",
+  "url": "https://anilist.co/manga/86172",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56172-XgsJz92Wzpv8.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-02T15:32:02.000Z",
+  "updatedAt": "2021-06-02T15:32:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "936b0977-3aa4-45e0-b5eb-561964d7456c": {
+        "authors": [
+          "Suzumi Atsushi"
+        ],
+        "identifier": "936b0977-3aa4-45e0-b5eb-561964d7456c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bloody Little Circus",
+        "url": "https://mangadex.org/title/936b0977-3aa4-45e0-b5eb-561964d7456c",
+        "image": "https://uploads.mangadex.org/covers/936b0977-3aa4-45e0-b5eb-561964d7456c/1e467096-2dfd-44bb-93bb-8b62563814e7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 86172,
+        "createdAt": "2020-10-12T16:03:37.000Z",
+        "updatedAt": "2021-06-02T20:11:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

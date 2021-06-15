@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Sarang SOS",
+    "사랑 SOS"
+  ],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 33383,
+  "malId": 3383,
+  "type": "manga",
+  "title": "Love SOS",
+  "url": "https://anilist.co/manga/33383",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3383.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:08.000Z",
+  "updatedAt": "2021-05-20T14:38:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d3beab96-7574-4fa9-a1cd-8ac7e1dc4e5c": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "d3beab96-7574-4fa9-a1cd-8ac7e1dc4e5c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love SOS",
+        "url": "https://mangadex.org/title/d3beab96-7574-4fa9-a1cd-8ac7e1dc4e5c",
+        "image": "https://uploads.mangadex.org/covers/d3beab96-7574-4fa9-a1cd-8ac7e1dc4e5c/4bc0fc54-0657-41a2-b228-26499b5f8b2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3383,
+        "aniId": 33383,
+        "createdAt": "2020-10-12T16:03:05.000Z",
+        "updatedAt": "2021-06-02T11:38:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

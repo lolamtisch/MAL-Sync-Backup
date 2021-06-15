@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "残酷な童話たち",
+    "Zankoku na Douwatachi",
+    "Cruel Fairytales",
+    "Cruel Fairy Tales",
+    "Blanche"
+  ],
+  "authors": [
+    "Kaori Yuki"
+  ],
+  "id": 31909,
+  "malId": 1909,
+  "type": "manga",
+  "title": "Zankoku na Douwa-tachi",
+  "url": "https://anilist.co/manga/31909",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31909-K6fW2fLwCVHP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:56.000Z",
+  "updatedAt": "2021-05-20T14:36:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52": {
+        "authors": [
+          "Yuki Kaori"
+        ],
+        "identifier": "e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cruel Fairytales",
+        "url": "https://mangadex.org/title/e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52",
+        "image": "https://uploads.mangadex.org/covers/e2d016cf-5b7f-4c8a-8f8d-34ec5d7cfc52/19a43422-701a-46f2-b378-1b9707268470.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1909,
+        "aniId": 31909,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:32:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

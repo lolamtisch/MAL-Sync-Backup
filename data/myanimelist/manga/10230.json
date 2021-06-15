@@ -1,0 +1,83 @@
+{
+  "altTitle": [
+    "Raiders",
+    "레이더스"
+  ],
+  "authors": [
+    "Park, Jin-Jun"
+  ],
+  "id": 10230,
+  "type": "manga",
+  "title": "Raiders",
+  "url": "https://myanimelist.net/manga/10230/Raiders",
+  "image": "https://cdn.myanimelist.net/images/manga/3/13722.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:26.000Z",
+  "updatedAt": "2020-12-26T07:56:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "50c71fe0-16f8-49ef-8776-58ca6ae912df": {
+        "authors": [
+          "Park Jin-Joon"
+        ],
+        "identifier": "50c71fe0-16f8-49ef-8776-58ca6ae912df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Raiders",
+        "url": "https://mangadex.org/title/50c71fe0-16f8-49ef-8776-58ca6ae912df",
+        "image": "https://uploads.mangadex.org/covers/50c71fe0-16f8-49ef-8776-58ca6ae912df/cca1d6f7-4928-4c51-a9d9-7f4b053de6d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10230,
+        "aniId": 40230,
+        "createdAt": "2020-10-12T16:05:11.000Z",
+        "updatedAt": "2021-06-03T10:50:27.000Z",
+        "deletedAt": null
+      },
+      "52070b82-d2b0-4dd5-ad39-dda678538f3b": {
+        "authors": [
+          "Kim Junghyun"
+        ],
+        "identifier": "52070b82-d2b0-4dd5-ad39-dda678538f3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Raid (SF)",
+        "url": "https://mangadex.org/title/52070b82-d2b0-4dd5-ad39-dda678538f3b",
+        "image": "https://uploads.mangadex.org/covers/52070b82-d2b0-4dd5-ad39-dda678538f3b/546a26db-c5ba-4ab4-ad7a-79ba5df40efe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10230,
+        "aniId": 40230,
+        "createdAt": "2020-10-12T16:16:32.000Z",
+        "updatedAt": "2021-06-06T23:34:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "raiders": {
+        "authors": [],
+        "identifier": "raiders",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Raiders",
+        "url": "https://manganelo.com/manga/raiders",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/12358-raiders.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10230,
+        "aniId": 40230,
+        "createdAt": "2020-10-12T16:25:02.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

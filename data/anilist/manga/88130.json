@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "公園",
+    "Koen",
+    "Park"
+  ],
+  "authors": [
+    "Katsuhiro Ootomo"
+  ],
+  "id": 88130,
+  "malId": 56087,
+  "type": "manga",
+  "title": "Kouen",
+  "url": "https://anilist.co/manga/88130",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88130-IVg7OiwNoMFe.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-03T21:21:30.000Z",
+  "updatedAt": "2021-06-03T21:21:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "091ebfe2-5f04-49ae-b17c-1cc1829b8d6e": {
+        "authors": [
+          "OTOMO Katsuhiro"
+        ],
+        "identifier": "091ebfe2-5f04-49ae-b17c-1cc1829b8d6e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Park",
+        "url": "https://mangadex.org/title/091ebfe2-5f04-49ae-b17c-1cc1829b8d6e",
+        "image": "https://uploads.mangadex.org/covers/091ebfe2-5f04-49ae-b17c-1cc1829b8d6e/9d83aabe-8646-44cd-892c-b6f313322c9d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56087,
+        "aniId": 88130,
+        "createdAt": "2020-10-12T16:06:37.000Z",
+        "updatedAt": "2021-06-03T21:41:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

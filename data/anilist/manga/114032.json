@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "うちのピーちゃん"
+  ],
+  "authors": [
+    "Syuji Yukimoto"
+  ],
+  "id": 114032,
+  "malId": 120454,
+  "type": "manga",
+  "title": "Uchi no Pi-chan",
+  "url": "https://anilist.co/manga/114032",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114032-8s3CXq1PDwcq.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:15.000Z",
+  "updatedAt": "2021-05-20T14:58:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "322773cb-d279-412c-82e1-708a4dfca6f8": {
+        "authors": [
+          "Yukimoto Syuji"
+        ],
+        "identifier": "322773cb-d279-412c-82e1-708a4dfca6f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uchi no Pi-chan",
+        "url": "https://mangadex.org/title/322773cb-d279-412c-82e1-708a4dfca6f8",
+        "image": "https://uploads.mangadex.org/covers/322773cb-d279-412c-82e1-708a4dfca6f8/fd2e2597-fdc9-43d7-ada1-8d6956304ced.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120454,
+        "aniId": 114032,
+        "createdAt": "2020-10-12T16:13:59.000Z",
+        "updatedAt": "2021-06-06T01:33:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "uchi_no_pi_chan": {
+        "authors": [
+          "Yoshimoto Shuuji"
+        ],
+        "identifier": "uchi_no_pi_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Uchi no Pi-chan",
+        "url": "https://fanfox.net/manga/uchi_no_pi_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28689/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120454,
+        "aniId": 114032,
+        "createdAt": "2021-02-22T12:05:03.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

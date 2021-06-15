@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "8番目の罪"
+  ],
+  "authors": [
+    "Yamada, Komomo"
+  ],
+  "id": 36483,
+  "type": "manga",
+  "title": "8-banme no Tsumi",
+  "url": "https://myanimelist.net/manga/36483/8-banme_no_Tsumi",
+  "image": "https://cdn.myanimelist.net/images/manga/2/67327.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:00.000Z",
+  "updatedAt": "2021-03-27T07:19:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3321ad22-16b5-4171-8a2f-af5210e8f70b": {
+        "authors": [
+          "YAMADA Komomo"
+        ],
+        "identifier": "3321ad22-16b5-4171-8a2f-af5210e8f70b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "8-banme no Tsumi",
+        "url": "https://mangadex.org/title/3321ad22-16b5-4171-8a2f-af5210e8f70b",
+        "image": "https://uploads.mangadex.org/covers/3321ad22-16b5-4171-8a2f-af5210e8f70b/d407fb99-6dac-49a5-9421-138988d48cbe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36483,
+        "aniId": 66483,
+        "createdAt": "2020-10-12T16:04:19.000Z",
+        "updatedAt": "2021-06-02T20:15:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "8-banme-no-tsumi": {
+        "authors": [
+          "YAMADA Komomo"
+        ],
+        "identifier": "8-banme-no-tsumi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "8-banme no Tsumi",
+        "url": "https://mangasee123.com/manga/8-Banme-No-Tsumi",
+        "image": "https://cover.nep.li/cover/8-Banme-No-Tsumi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36483,
+        "aniId": 66483,
+        "createdAt": "2021-03-27T07:19:15.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

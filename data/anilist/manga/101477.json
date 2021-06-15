@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Solmi's Channel",
+    "그녀의 채널",
+    "彼女のチャンネル"
+  ],
+  "authors": [
+    "Dabble",
+    "Cigarette Head"
+  ],
+  "id": 101477,
+  "malId": null,
+  "type": "manga",
+  "title": "Geunyeoui Chaeneol",
+  "url": "https://anilist.co/manga/101477",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101477-bnsb6OEDcO19.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-24T23:08:17.000Z",
+  "updatedAt": "2021-05-24T23:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c22de1d-c253-4aa8-9e1d-044cc6dffd52": {
+        "authors": [
+          "Dabble",
+          "Cigarette Head"
+        ],
+        "identifier": "3c22de1d-c253-4aa8-9e1d-044cc6dffd52",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Solmi's Channel",
+        "url": "https://mangadex.org/title/3c22de1d-c253-4aa8-9e1d-044cc6dffd52",
+        "image": "https://uploads.mangadex.org/covers/3c22de1d-c253-4aa8-9e1d-044cc6dffd52/dcb9c695-b02f-4dcd-b00c-5c9143791b4b.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 101477,
+        "createdAt": "2020-10-12T16:13:34.000Z",
+        "updatedAt": "2021-06-06T00:22:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Clamp School Detectives",
+    "CLAMP学園探偵団",
+    "Clamp Campus Detectives"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 30130,
+  "malId": 130,
+  "type": "manga",
+  "title": "Clamp Gakuen Tanteidan",
+  "url": "https://anilist.co/manga/30130",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30130-9SjimLK1MihU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1bea48e3-51c0-4d60-a58a-78769e516cec": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "1bea48e3-51c0-4d60-a58a-78769e516cec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Clamp Gakuen Tanteidan",
+        "url": "https://mangadex.org/title/1bea48e3-51c0-4d60-a58a-78769e516cec",
+        "image": "https://uploads.mangadex.org/covers/1bea48e3-51c0-4d60-a58a-78769e516cec/5786c6c2-d12a-45cd-9d8d-a8f807dc84b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130,
+        "aniId": 30130,
+        "createdAt": "2020-10-12T16:16:06.000Z",
+        "updatedAt": "2021-06-06T19:34:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

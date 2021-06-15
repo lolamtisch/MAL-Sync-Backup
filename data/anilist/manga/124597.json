@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "결혼? 해드립니다!",
+    "Marry You? Yes, I Will!  "
+  ],
+  "authors": [
+    "MANTA"
+  ],
+  "id": 124597,
+  "malId": null,
+  "type": "manga",
+  "title": "Gyeolhon? Haedeurimnida!",
+  "url": "https://anilist.co/manga/124597",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b124597-Tmb04BB2sSAL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T13:06:20.000Z",
+  "updatedAt": "2021-06-07T13:06:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ecd20731-55a0-41bd-b04d-8c86dfa6ea32": {
+        "authors": [
+          "Manta"
+        ],
+        "identifier": "ecd20731-55a0-41bd-b04d-8c86dfa6ea32",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Marry You? Yes, I Will!",
+        "url": "https://mangadex.org/title/ecd20731-55a0-41bd-b04d-8c86dfa6ea32",
+        "image": "https://uploads.mangadex.org/covers/ecd20731-55a0-41bd-b04d-8c86dfa6ea32/1d69fdf1-05d2-4e5c-a880-7d70bf0521be.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 124597,
+        "createdAt": "2020-10-12T16:18:00.000Z",
+        "updatedAt": "2021-06-07T13:42:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

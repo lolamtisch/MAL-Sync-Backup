@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "레이드"
+  ],
+  "authors": [
+    " Choi Jong Hyuk"
+  ],
+  "id": 107524,
+  "malId": null,
+  "type": "manga",
+  "title": "Raid",
+  "url": "https://anilist.co/manga/107524",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107524-jSL8Kwq26u7H.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T17:12:57.000Z",
+  "updatedAt": "2021-06-06T08:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc74909f-a5ab-483c-8ecd-b1939fc48cdf": {
+        "authors": [
+          "Choi Jong Hyuk"
+        ],
+        "identifier": "cc74909f-a5ab-483c-8ecd-b1939fc48cdf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Raid",
+        "url": "https://mangadex.org/title/cc74909f-a5ab-483c-8ecd-b1939fc48cdf",
+        "image": "https://uploads.mangadex.org/covers/cc74909f-a5ab-483c-8ecd-b1939fc48cdf/a64c01f2-de63-4cb1-9352-0b419a26762d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 107524,
+        "createdAt": "2020-10-12T16:14:46.000Z",
+        "updatedAt": "2021-06-06T10:14:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dh980616": {
+        "authors": [
+          "Choi Jong Hyuk"
+        ],
+        "identifier": "manga-dh980616",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Raid",
+        "url": "https://manganato.com/manga-dh980616",
+        "image": "https://avt.mkklcdnv6temp.com/35/j/17-1583496530.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 107524,
+        "createdAt": "2021-05-29T01:42:37.000Z",
+        "updatedAt": "2021-05-29T01:42:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

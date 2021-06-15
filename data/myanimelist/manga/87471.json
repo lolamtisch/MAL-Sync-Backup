@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Mikami's Secret",
+    "三神くんのヒミツ"
+  ],
+  "authors": [
+    "Konatsu"
+  ],
+  "id": 87471,
+  "type": "manga",
+  "title": "Mikami-kun no Himitsu",
+  "url": "https://myanimelist.net/manga/87471/Mikami-kun_no_Himitsu",
+  "image": "https://cdn.myanimelist.net/images/manga/1/152629.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:55.000Z",
+  "updatedAt": "2021-05-09T15:48:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e96064cb-0f58-40ae-a19c-d70deca1fa77": {
+        "authors": [
+          "Konatsu"
+        ],
+        "identifier": "e96064cb-0f58-40ae-a19c-d70deca1fa77",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mikami-kun no Himitsu",
+        "url": "https://mangadex.org/title/e96064cb-0f58-40ae-a19c-d70deca1fa77",
+        "image": "https://uploads.mangadex.org/covers/e96064cb-0f58-40ae-a19c-d70deca1fa77/d44de7fa-6408-4035-a4b3-828ce590a483.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87471,
+        "aniId": 94372,
+        "createdAt": "2020-10-12T16:08:25.000Z",
+        "updatedAt": "2021-06-04T10:01:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mikami_kun_no_himitsu": {
+        "authors": [
+          "Konatsu"
+        ],
+        "identifier": "mikami_kun_no_himitsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mikami-kun no Himitsu",
+        "url": "https://fanfox.net/manga/mikami_kun_no_himitsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15397/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87471,
+        "aniId": 94372,
+        "createdAt": "2021-05-09T15:48:04.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

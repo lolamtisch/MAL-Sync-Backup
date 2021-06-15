@@ -1,0 +1,103 @@
+{
+  "altTitle": [
+    "ビッグオーダー"
+  ],
+  "authors": [
+    "Sakae Esuno"
+  ],
+  "id": 58697,
+  "malId": 28697,
+  "type": "manga",
+  "title": "Big Order",
+  "url": "https://anilist.co/manga/58697",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28697.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:32.000Z",
+  "updatedAt": "2021-05-20T14:47:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "590f3345-e715-4023-b1cb-75ea31b43bc4": {
+        "authors": [
+          "Esuno Sakae"
+        ],
+        "identifier": "590f3345-e715-4023-b1cb-75ea31b43bc4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Big Order",
+        "url": "https://mangadex.org/title/590f3345-e715-4023-b1cb-75ea31b43bc4",
+        "image": "https://uploads.mangadex.org/covers/590f3345-e715-4023-b1cb-75ea31b43bc4/af3bb698-12ec-4c2c-a3f5-fa2561fa1b30.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28697,
+        "aniId": 58697,
+        "createdAt": "2020-10-12T16:03:08.000Z",
+        "updatedAt": "2021-06-02T12:01:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "big_order": {
+        "authors": [],
+        "identifier": "big_order",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Big Order",
+        "url": "https://manganelo.com/manga/big_order",
+        "image": "https://avt.mkklcdnv6.com/13/d/2-1583466208.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28697,
+        "aniId": 58697,
+        "createdAt": "2020-10-12T16:22:16.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "fategudaguda_order": {
+        "authors": [],
+        "identifier": "fategudaguda_order",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fate/gudaguda Order",
+        "url": "https://manganelo.com/manga/fategudaguda_order",
+        "image": "https://avt.mkklcdnv6.com/49/m/15-1583493443.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28697,
+        "aniId": 58697,
+        "createdAt": "2020-10-12T16:22:53.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "big-order": {
+        "authors": [
+          "ESUNO Sakae"
+        ],
+        "identifier": "big-order",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Big Order",
+        "url": "https://mangasee123.com/manga/Big-Order",
+        "image": "https://cover.nep.li/cover/Big-Order.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28697,
+        "aniId": 58697,
+        "createdAt": "2021-04-16T14:44:25.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

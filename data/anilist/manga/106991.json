@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "美人为馅",
+    "Memory Lost"
+  ],
+  "authors": [
+    "Kuang Sheng Dongman",
+    "Ding Mo"
+  ],
+  "id": 106991,
+  "malId": null,
+  "type": "manga",
+  "title": "Meiren Wei Xian",
+  "url": "https://anilist.co/manga/106991",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106991-gro8v8SHZq1l.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T15:49:57.000Z",
+  "updatedAt": "2021-06-05T15:49:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8": {
+        "authors": [
+          "Unknown",
+          "Ding Mo"
+        ],
+        "identifier": "e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Memory Lost",
+        "url": "https://mangadex.org/title/e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8",
+        "image": "https://uploads.mangadex.org/covers/e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8/b15f6553-1d02-45a1-964d-19d65f497edc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 106991,
+        "createdAt": "2020-10-12T16:12:37.000Z",
+        "updatedAt": "2021-06-05T16:10:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

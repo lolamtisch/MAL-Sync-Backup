@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "まだ魔法なんかに頼ってらっしゃるのでしょうか？"
+  ],
+  "authors": [
+    "Kochou Shio"
+  ],
+  "id": 105344,
+  "malId": null,
+  "type": "manga",
+  "title": "Mada Mahou Nanka ni Tayotte Rassharu no Deshou ka?",
+  "url": "https://anilist.co/manga/105344",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105344-bsxxf68NLLDG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T14:36:41.000Z",
+  "updatedAt": "2021-06-07T14:36:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a873026d-2de3-4721-a865-b07b72fd9834": {
+        "authors": [
+          "Shio Kocho"
+        ],
+        "identifier": "a873026d-2de3-4721-a865-b07b72fd9834",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "You Still Rely on MAGIC?",
+        "url": "https://mangadex.org/title/a873026d-2de3-4721-a865-b07b72fd9834",
+        "image": "https://uploads.mangadex.org/covers/a873026d-2de3-4721-a865-b07b72fd9834/dbcd6b28-ff09-43f9-82bc-fb97843863f3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 105344,
+        "createdAt": "2020-10-12T16:18:08.000Z",
+        "updatedAt": "2021-06-07T14:51:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

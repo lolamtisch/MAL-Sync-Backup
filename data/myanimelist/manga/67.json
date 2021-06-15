@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "2001 Nights",
+    "2001夜物語"
+  ],
+  "authors": [
+    "Hoshino, Yukinobu"
+  ],
+  "id": 67,
+  "type": "manga",
+  "title": "2001-ya Monogatari",
+  "url": "https://myanimelist.net/manga/67/2001-ya_Monogatari",
+  "image": "https://cdn.myanimelist.net/images/manga/5/131711.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:17.000Z",
+  "updatedAt": "2021-04-25T22:28:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7882bc0d-f0b6-4cb5-8c30-d632ad214abd": {
+        "authors": [
+          "Hoshino Yukinobu"
+        ],
+        "identifier": "7882bc0d-f0b6-4cb5-8c30-d632ad214abd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "2001 Nights",
+        "url": "https://mangadex.org/title/7882bc0d-f0b6-4cb5-8c30-d632ad214abd",
+        "image": "https://uploads.mangadex.org/covers/7882bc0d-f0b6-4cb5-8c30-d632ad214abd/f0b0929d-93ac-4200-8891-f28d21173d0b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67,
+        "aniId": 30067,
+        "createdAt": "2020-10-12T16:11:31.000Z",
+        "updatedAt": "2021-06-05T09:03:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "2001_nights": {
+        "authors": [
+          "Hoshino",
+          "Yukinobu"
+        ],
+        "identifier": "2001_nights",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "2001 Nights",
+        "url": "https://manganelo.com/manga/2001_nights",
+        "image": "https://avt.mkklcdnv6.com/10/h/7-1583476682.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67,
+        "aniId": 30067,
+        "createdAt": "2020-11-05T07:57:04.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

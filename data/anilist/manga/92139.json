@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "はじまりの合図"
+  ],
+  "authors": [],
+  "id": 92139,
+  "malId": 75179,
+  "type": "manga",
+  "title": "Hajimari no Aizu",
+  "url": "https://anilist.co/manga/92139",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92139-Gm9zS7NlctUK.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:44.000Z",
+  "updatedAt": "2021-05-20T14:51:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6ee4053d-530c-4439-9c48-ec7ae11dc16e": {
+        "authors": [
+          "Isa Minaki"
+        ],
+        "identifier": "6ee4053d-530c-4439-9c48-ec7ae11dc16e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajimari no Aizu",
+        "url": "https://mangadex.org/title/6ee4053d-530c-4439-9c48-ec7ae11dc16e",
+        "image": "https://uploads.mangadex.org/covers/6ee4053d-530c-4439-9c48-ec7ae11dc16e/fc592697-6645-4788-910b-01686c9f8f66.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75179,
+        "aniId": 92139,
+        "createdAt": "2020-10-12T16:08:13.000Z",
+        "updatedAt": "2021-06-04T08:31:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

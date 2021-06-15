@@ -1,0 +1,110 @@
+{
+  "altTitle": [
+    "Granblue Fantasy",
+    "グランブルーファンタジー"
+  ],
+  "authors": [
+    "Fuugetsu, Makoto",
+    "cocho"
+  ],
+  "id": 106800,
+  "type": "manga",
+  "title": "Granblue Fantasy",
+  "url": "https://myanimelist.net/manga/106800/Granblue_Fantasy",
+  "image": "https://cdn.myanimelist.net/images/manga/1/198694.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:04.000Z",
+  "updatedAt": "2021-05-04T23:33:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9c39faf7-83f2-4050-8c98-5e3048ac0f06": {
+        "authors": [
+          "Fuugetsu Makoto",
+          "Cygames",
+          "cocho"
+        ],
+        "identifier": "9c39faf7-83f2-4050-8c98-5e3048ac0f06",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Granblue Fantasy",
+        "url": "https://mangadex.org/title/9c39faf7-83f2-4050-8c98-5e3048ac0f06",
+        "image": "https://uploads.mangadex.org/covers/9c39faf7-83f2-4050-8c98-5e3048ac0f06/7ce8d0b9-37e7-44a8-a2d1-29b6e35464ef.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106800,
+        "aniId": 103102,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:22:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "granblue_fantasy": {
+        "authors": [],
+        "identifier": "granblue_fantasy",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Granblue Fantasy",
+        "url": "https://manganelo.com/manga/granblue_fantasy",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17000-granblue_fantasy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106800,
+        "aniId": 103102,
+        "createdAt": "2020-10-12T16:23:09.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "granblue-fantasy": {
+        "authors": [
+          "FUUGETSU Makoto"
+        ],
+        "identifier": "granblue-fantasy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Granblue Fantasy",
+        "url": "https://mangasee123.com/manga/Granblue-Fantasy",
+        "image": "https://cover.nep.li/cover/Granblue-Fantasy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106800,
+        "aniId": 103102,
+        "createdAt": "2021-04-02T06:30:55.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "granblue_fantasy": {
+        "authors": [
+          "FUUGETSU Makoto"
+        ],
+        "identifier": "granblue_fantasy",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Granblue Fantasy",
+        "url": "https://fanfox.net/manga/granblue_fantasy/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20665/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106800,
+        "aniId": 103102,
+        "createdAt": "2021-05-04T23:33:23.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

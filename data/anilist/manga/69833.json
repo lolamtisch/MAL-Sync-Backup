@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "お帰り下さい勇者様!",
+    "Please Leave",
+    "Hero!"
+  ],
+  "authors": [
+    "Karihito Kugatsu"
+  ],
+  "id": 69833,
+  "malId": 39833,
+  "type": "manga",
+  "title": "Okaeri Kudasai Yuushasama!",
+  "url": "https://anilist.co/manga/69833",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39833.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:41.000Z",
+  "updatedAt": "2021-05-20T14:48:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "36cc6ade-0220-4dc4-b0b3-7a9ffd78105d": {
+        "authors": [
+          "KUGATSU Karihito"
+        ],
+        "identifier": "36cc6ade-0220-4dc4-b0b3-7a9ffd78105d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Okaeri Kudasai Yuushasama!",
+        "url": "https://mangadex.org/title/36cc6ade-0220-4dc4-b0b3-7a9ffd78105d",
+        "image": "https://uploads.mangadex.org/covers/36cc6ade-0220-4dc4-b0b3-7a9ffd78105d/0ef488c3-2180-42fd-a250-5ffa11910c2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39833,
+        "aniId": 69833,
+        "createdAt": "2020-10-12T16:12:58.000Z",
+        "updatedAt": "2021-06-05T17:57:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

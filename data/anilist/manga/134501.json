@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ペルソナ3 ポータブル コミックアンソロジー 〜Dear Girl's〜"
+  ],
+  "authors": [
+    "Atlus"
+  ],
+  "id": 134501,
+  "malId": 20809,
+  "type": "manga",
+  "title": "Persona 3 Portable Comic Anthology: Dear Girl's",
+  "url": "https://anilist.co/manga/134501",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b134501-dSjBjb507IlJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T04:38:17.000Z",
+  "updatedAt": "2021-05-24T04:38:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80bc6ef8-395c-47d9-a9a3-9bf3038b32c1": {
+        "authors": [
+          "Anthology"
+        ],
+        "identifier": "80bc6ef8-395c-47d9-a9a3-9bf3038b32c1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Persona 3 Portable Dear Girls Comic Anthology",
+        "url": "https://mangadex.org/title/80bc6ef8-395c-47d9-a9a3-9bf3038b32c1",
+        "image": "https://uploads.mangadex.org/covers/80bc6ef8-395c-47d9-a9a3-9bf3038b32c1/010bbb35-6fbf-4cf6-b7b9-3b0f6845f00e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20809,
+        "aniId": 134501,
+        "createdAt": "2020-10-12T16:20:03.000Z",
+        "updatedAt": "2021-06-07T23:23:27.000Z",
+        "deletedAt": null
+      },
+      "2c7a17e4-c233-4936-81cc-b10deaadd5dc": {
+        "authors": [
+          "Anthology"
+        ],
+        "identifier": "2c7a17e4-c233-4936-81cc-b10deaadd5dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Persona 3 Portable 4Koma Maximum Boys Character Hen",
+        "url": "https://mangadex.org/title/2c7a17e4-c233-4936-81cc-b10deaadd5dc",
+        "image": "https://uploads.mangadex.org/covers/2c7a17e4-c233-4936-81cc-b10deaadd5dc/4d5d11b6-5f8d-49d9-9791-23f192d20770.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20809,
+        "aniId": 134501,
+        "createdAt": "2020-10-12T16:20:04.000Z",
+        "updatedAt": "2021-06-07T23:24:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

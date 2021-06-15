@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ブレイクダウン"
+  ],
+  "authors": [
+    "Takao Saitou"
+  ],
+  "id": 47143,
+  "malId": 17143,
+  "type": "manga",
+  "title": "Breakdown",
+  "url": "https://anilist.co/manga/47143",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47143-6XjovPg1wQUD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:03.000Z",
+  "updatedAt": "2021-05-20T14:44:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d216339-2b1a-46db-a956-bb4899562010": {
+        "authors": [
+          "Saito Takao"
+        ],
+        "identifier": "9d216339-2b1a-46db-a956-bb4899562010",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Breakdown",
+        "url": "https://mangadex.org/title/9d216339-2b1a-46db-a956-bb4899562010",
+        "image": "https://uploads.mangadex.org/covers/9d216339-2b1a-46db-a956-bb4899562010/1819d0fc-e9bc-4e56-bec6-2419f56e007b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17143,
+        "aniId": 47143,
+        "createdAt": "2020-10-12T16:14:51.000Z",
+        "updatedAt": "2021-06-06T08:38:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zk918140": {
+        "authors": [
+          "Takao",
+          "Saitou"
+        ],
+        "identifier": "zk918140",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Breakdown",
+        "url": "https://manganelo.com/manga/zk918140",
+        "image": "https://avt.mkklcdnv6temp.com/35/c/17-1583496521.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17143,
+        "aniId": 47143,
+        "createdAt": "2021-04-16T11:14:20.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

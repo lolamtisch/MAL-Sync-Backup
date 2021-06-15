@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "PiNKS"
+  ],
+  "authors": [
+    "Atsushi Kuragane"
+  ],
+  "id": 102028,
+  "malId": 106796,
+  "type": "manga",
+  "title": "PiNKS",
+  "url": "https://anilist.co/manga/102028",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102028-HxOCbSVUJ9fN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:48.000Z",
+  "updatedAt": "2021-05-20T14:55:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2120754d-aead-44c7-ad15-6187e2f40411": {
+        "authors": [
+          "KURAKANE Atsushi"
+        ],
+        "identifier": "2120754d-aead-44c7-ad15-6187e2f40411",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pinks",
+        "url": "https://mangadex.org/title/2120754d-aead-44c7-ad15-6187e2f40411",
+        "image": "https://uploads.mangadex.org/covers/2120754d-aead-44c7-ad15-6187e2f40411/30f8d97c-3b13-47d3-b9ac-a02b47fef0c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106796,
+        "aniId": 102028,
+        "createdAt": "2020-10-12T16:10:13.000Z",
+        "updatedAt": "2021-06-04T23:07:30.000Z",
+        "deletedAt": null
+      },
+      "3f6e7ed2-ee03-46a0-a463-7b8d3c14d2f1": {
+        "authors": [
+          "Miyuki Mitsubachi"
+        ],
+        "identifier": "3f6e7ed2-ee03-46a0-a463-7b8d3c14d2f1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pinkscrap",
+        "url": "https://mangadex.org/title/3f6e7ed2-ee03-46a0-a463-7b8d3c14d2f1",
+        "image": "https://uploads.mangadex.org/covers/3f6e7ed2-ee03-46a0-a463-7b8d3c14d2f1/68a9ca9a-ffad-4d16-956a-d582751ea206.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106796,
+        "aniId": 102028,
+        "createdAt": "2020-10-12T16:13:27.000Z",
+        "updatedAt": "2021-06-05T21:31:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

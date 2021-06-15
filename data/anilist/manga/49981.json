@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "다크 메이지"
+  ],
+  "authors": [
+    "Jae-Sin Kang",
+    "Jung Ryul Kim"
+  ],
+  "id": 49981,
+  "malId": 19981,
+  "type": "manga",
+  "title": "Dark Mage",
+  "url": "https://anilist.co/manga/49981",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19981.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:25.000Z",
+  "updatedAt": "2021-05-20T14:45:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3743f23e-535e-4a25-98e8-61d58627a961": {
+        "authors": [
+          "Jung Ryul Kim",
+          "Jae-Sin Kang"
+        ],
+        "identifier": "3743f23e-535e-4a25-98e8-61d58627a961",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dark Mage",
+        "url": "https://mangadex.org/title/3743f23e-535e-4a25-98e8-61d58627a961",
+        "image": "https://uploads.mangadex.org/covers/3743f23e-535e-4a25-98e8-61d58627a961/79d1309a-5ec5-4264-8d40-a48278e0ca31.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19981,
+        "aniId": 49981,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:05:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dark-mage": {
+        "authors": [
+          "KANG Jae-Sin",
+          "KIM Jung-Ryul"
+        ],
+        "identifier": "dark-mage",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dark Mage",
+        "url": "https://mangasee123.com/manga/Dark-Mage",
+        "image": "https://cover.nep.li/cover/Dark-Mage.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19981,
+        "aniId": 49981,
+        "createdAt": "2020-12-31T14:04:35.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

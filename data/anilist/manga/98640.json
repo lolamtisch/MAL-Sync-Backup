@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "夜廻り猫"
+  ],
+  "authors": [
+    "Kahoru Fukaya"
+  ],
+  "id": 98640,
+  "malId": 99701,
+  "type": "manga",
+  "title": "Yomawari Neko",
+  "url": "https://anilist.co/manga/98640",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98640-yWx1O9Pfy8P7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:44.000Z",
+  "updatedAt": "2021-05-20T14:54:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a16ce0c1-da89-45c0-b453-4eba7cf6b28d": {
+        "authors": [
+          "Fukaya Kaoru"
+        ],
+        "identifier": "a16ce0c1-da89-45c0-b453-4eba7cf6b28d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yomawari Neko",
+        "url": "https://mangadex.org/title/a16ce0c1-da89-45c0-b453-4eba7cf6b28d",
+        "image": "https://uploads.mangadex.org/covers/a16ce0c1-da89-45c0-b453-4eba7cf6b28d/bd7d86c0-6f37-4e85-8ed3-b34bc96a1a1c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99701,
+        "aniId": 98640,
+        "createdAt": "2020-10-12T16:13:39.000Z",
+        "updatedAt": "2021-06-05T23:02:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

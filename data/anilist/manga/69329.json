@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "南Q阿伝",
+    "Na Q Aden",
+    "Nakuaden",
+    "Naqua-den"
+  ],
+  "authors": [
+    "Yasunori Mitsunaga"
+  ],
+  "id": 69329,
+  "malId": 39329,
+  "type": "manga",
+  "title": "NaQaden",
+  "url": "https://anilist.co/manga/69329",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39329.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:39.000Z",
+  "updatedAt": "2021-05-20T14:48:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79128fe4-ae34-4c98-994d-99b779431675": {
+        "authors": [
+          "Mitsunaga Yasunori"
+        ],
+        "identifier": "79128fe4-ae34-4c98-994d-99b779431675",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Naqua-Den",
+        "url": "https://mangadex.org/title/79128fe4-ae34-4c98-994d-99b779431675",
+        "image": "https://uploads.mangadex.org/covers/79128fe4-ae34-4c98-994d-99b779431675/d0b39e46-a46d-4927-9d9a-277b29771489.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39329,
+        "aniId": 69329,
+        "createdAt": "2020-10-12T16:06:37.000Z",
+        "updatedAt": "2021-06-03T20:55:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "naqua-den": {
+        "authors": [
+          "MITSUNAGA Yasunori"
+        ],
+        "identifier": "naqua-den",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Naqua-Den",
+        "url": "https://mangasee123.com/manga/Naqua-Den",
+        "image": "https://cover.nep.li/cover/Naqua-Den.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39329,
+        "aniId": 69329,
+        "createdAt": "2021-02-28T12:15:35.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

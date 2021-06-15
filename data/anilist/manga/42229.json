@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "夜の童話",
+    "Evening Fairytale",
+    "Evening Fairy-tales",
+    "Fairy-tales of Nightfall",
+    "Tales of the Night"
+  ],
+  "authors": [
+    "Kita Konno"
+  ],
+  "id": 42229,
+  "malId": 12229,
+  "type": "manga",
+  "title": "Yoru no Douwa",
+  "url": "https://anilist.co/manga/42229",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42229-TZKbU5oENr5d.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56e8da22-e17c-4592-8512-23bb41c32e4d": {
+        "authors": [
+          "Konno Kita"
+        ],
+        "identifier": "56e8da22-e17c-4592-8512-23bb41c32e4d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoru no Douwa",
+        "url": "https://mangadex.org/title/56e8da22-e17c-4592-8512-23bb41c32e4d",
+        "image": "https://uploads.mangadex.org/covers/56e8da22-e17c-4592-8512-23bb41c32e4d/db00bd62-d64e-471e-9d9a-2b4d71461942.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12229,
+        "aniId": 42229,
+        "createdAt": "2020-10-12T16:10:47.000Z",
+        "updatedAt": "2021-06-05T03:14:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yoru_no_douwa": {
+        "authors": [],
+        "identifier": "yoru_no_douwa",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yoru no Douwa",
+        "url": "https://manganelo.com/manga/yoru_no_douwa",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19032-yoru_no_douwa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12229,
+        "aniId": 42229,
+        "createdAt": "2020-10-12T16:26:24.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

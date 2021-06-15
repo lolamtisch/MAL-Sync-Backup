@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "QQ Sweeper",
+    "QQスイーパー"
+  ],
+  "authors": [
+    "Motomi, Kyousuke"
+  ],
+  "id": 67397,
+  "type": "manga",
+  "title": "QQ Sweeper",
+  "url": "https://myanimelist.net/manga/67397/QQ_Sweeper",
+  "image": "https://cdn.myanimelist.net/images/manga/3/150693.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:12.000Z",
+  "updatedAt": "2021-04-24T08:57:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "02f5dade-938a-4e5f-b05c-63ac14239e55": {
+        "authors": [
+          "MOTOMI Kyousuke"
+        ],
+        "identifier": "02f5dade-938a-4e5f-b05c-63ac14239e55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "QQ Sweeper",
+        "url": "https://mangadex.org/title/02f5dade-938a-4e5f-b05c-63ac14239e55",
+        "image": "https://uploads.mangadex.org/covers/02f5dade-938a-4e5f-b05c-63ac14239e55/704a49d2-a5ed-4e00-b5e3-5eb735b1ba1d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67397,
+        "aniId": 85303,
+        "createdAt": "2020-10-12T16:07:17.000Z",
+        "updatedAt": "2021-06-04T01:39:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "q-q-sweeper": {
+        "authors": [
+          "MOTOMI Kyousuke"
+        ],
+        "identifier": "q-q-sweeper",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "QQ Sweeper",
+        "url": "https://mangasee123.com/manga/Q-Q-Sweeper",
+        "image": "https://cover.nep.li/cover/Q-Q-Sweeper.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67397,
+        "aniId": 85303,
+        "createdAt": "2021-01-24T13:14:00.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

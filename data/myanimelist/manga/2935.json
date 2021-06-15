@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    ".hack//XXXX",
+    ".hack//X Fourth",
+    ".hack//XXXX"
+  ],
+  "authors": [
+    "Kikuya, Megane",
+    "Matsuyama, Hiroshi"
+  ],
+  "id": 2935,
+  "type": "manga",
+  "title": ".hack//XXXX",
+  "url": "https://myanimelist.net/manga/2935/hack__XXXX",
+  "image": "https://cdn.myanimelist.net/images/manga/2/126083.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:46.000Z",
+  "updatedAt": "2021-04-27T20:19:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "140a20e4-a7ab-4e3c-a7c8-84d6255ab4ef": {
+        "authors": [
+          "Kikuya Megane",
+          "Matsuyama Hirashi"
+        ],
+        "identifier": "140a20e4-a7ab-4e3c-a7c8-84d6255ab4ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": ".hack//XXXX",
+        "url": "https://mangadex.org/title/140a20e4-a7ab-4e3c-a7c8-84d6255ab4ef",
+        "image": "https://uploads.mangadex.org/covers/140a20e4-a7ab-4e3c-a7c8-84d6255ab4ef/c9fe6745-255b-4fef-ab37-78255ef928f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2935,
+        "aniId": 32935,
+        "createdAt": "2020-10-12T16:05:52.000Z",
+        "updatedAt": "2021-06-03T15:31:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hack_xxxx": {
+        "authors": [
+          "MATSUYAMA Hirashi"
+        ],
+        "identifier": "hack_xxxx",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": ".hack//XXXX",
+        "url": "https://fanfox.net/manga/hack_xxxx/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1377/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2935,
+        "aniId": 32935,
+        "createdAt": "2021-05-04T05:03:12.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

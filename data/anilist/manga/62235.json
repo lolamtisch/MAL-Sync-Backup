@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "魔王ボイス"
+  ],
+  "authors": [
+    "Kei Kawaguchi"
+  ],
+  "id": 62235,
+  "malId": 32235,
+  "type": "manga",
+  "title": "Maou Voice",
+  "url": "https://anilist.co/manga/62235",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32235.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T18:19:17.000Z",
+  "updatedAt": "2021-06-04T18:19:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ac5e2ec-9a36-4857-b648-824ee67b7092": {
+        "authors": [
+          "KAWAGUCHI Kei"
+        ],
+        "identifier": "5ac5e2ec-9a36-4857-b648-824ee67b7092",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maou Voice",
+        "url": "https://mangadex.org/title/5ac5e2ec-9a36-4857-b648-824ee67b7092",
+        "image": "https://uploads.mangadex.org/covers/5ac5e2ec-9a36-4857-b648-824ee67b7092/f9537e66-7bd5-46b6-8374-f51d7dab97f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32235,
+        "aniId": 62235,
+        "createdAt": "2020-10-12T16:09:31.000Z",
+        "updatedAt": "2021-06-04T18:34:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

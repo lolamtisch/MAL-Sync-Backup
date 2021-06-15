@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "星が原あおまんじゅうの森",
+    "Aomanjû: El Bosque Mágico de Hoshigahara",
+    "Aomanjuskogen"
+  ],
+  "authors": [
+    "Hisae Iwaoka"
+  ],
+  "id": 53953,
+  "malId": 23953,
+  "type": "manga",
+  "title": "Hoshigahara Aomanjuu no Mori",
+  "url": "https://anilist.co/manga/53953",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53953-OjqrTfvJQUjG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:42.000Z",
+  "updatedAt": "2021-05-20T14:46:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c0d17cc2-f854-409e-9cf5-0550134d9a7b": {
+        "authors": [
+          "Iwaoka Hisae"
+        ],
+        "identifier": "c0d17cc2-f854-409e-9cf5-0550134d9a7b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshigahara Ao Manjuu no Mori",
+        "url": "https://mangadex.org/title/c0d17cc2-f854-409e-9cf5-0550134d9a7b",
+        "image": "https://uploads.mangadex.org/covers/c0d17cc2-f854-409e-9cf5-0550134d9a7b/423b5f77-5b5b-4c52-8152-d4a9aeaf025d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23953,
+        "aniId": 53953,
+        "createdAt": "2020-10-12T16:08:28.000Z",
+        "updatedAt": "2021-06-04T10:27:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hoshi_ga_hara_aa_manjuu_no_mori": {
+        "authors": [
+          "Iwaoka",
+          "Hisae"
+        ],
+        "identifier": "hoshi_ga_hara_aa_manjuu_no_mori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hoshi Ga Hara Aa Manjuu No Mori",
+        "url": "https://manganelo.com/manga/hoshi_ga_hara_aa_manjuu_no_mori",
+        "image": "https://avt.mkklcdnv6temp.com/47/s/7-1583478089.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23953,
+        "aniId": 53953,
+        "createdAt": "2021-04-29T13:51:13.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

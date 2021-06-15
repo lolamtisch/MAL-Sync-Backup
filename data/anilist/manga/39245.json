@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ミッドナイト"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 39245,
+  "malId": 9245,
+  "type": "manga",
+  "title": "Midnight",
+  "url": "https://anilist.co/manga/39245",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39245-7ehgQR7q1lwC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:55.000Z",
+  "updatedAt": "2021-05-20T14:40:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "93b49513-33fa-4fef-9bf2-36e95db5c07f": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "93b49513-33fa-4fef-9bf2-36e95db5c07f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Midnight",
+        "url": "https://mangadex.org/title/93b49513-33fa-4fef-9bf2-36e95db5c07f",
+        "image": "https://uploads.mangadex.org/covers/93b49513-33fa-4fef-9bf2-36e95db5c07f/79d007bd-0e30-4d1b-b7a3-b049c6961d8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9245,
+        "aniId": 39245,
+        "createdAt": "2020-10-12T16:08:01.000Z",
+        "updatedAt": "2021-06-04T06:58:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "midnight": {
+        "authors": [],
+        "identifier": "midnight",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Midnight",
+        "url": "https://manganelo.com/manga/midnight",
+        "image": "https://avt.mkklcdnv6.com/34/t/1-1583465064.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9245,
+        "aniId": 39245,
+        "createdAt": "2020-10-12T16:24:19.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

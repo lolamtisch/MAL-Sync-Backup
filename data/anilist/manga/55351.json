@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "王子ひろいました"
+  ],
+  "authors": [
+    "Miu Ootsuki"
+  ],
+  "id": 55351,
+  "malId": 25351,
+  "type": "manga",
+  "title": "Ouji Hiroimashita",
+  "url": "https://anilist.co/manga/55351",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25351.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T21:20:58.000Z",
+  "updatedAt": "2021-06-03T21:20:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6195cf50-d272-4adf-baff-d4aad522d698": {
+        "authors": [
+          "Ootsuki Miu"
+        ],
+        "identifier": "6195cf50-d272-4adf-baff-d4aad522d698",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ouji Hiroimashita",
+        "url": "https://mangadex.org/title/6195cf50-d272-4adf-baff-d4aad522d698",
+        "image": "https://uploads.mangadex.org/covers/6195cf50-d272-4adf-baff-d4aad522d698/a50e6134-2b44-4837-add6-d80972ac94dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25351,
+        "aniId": 55351,
+        "createdAt": "2020-10-12T16:06:40.000Z",
+        "updatedAt": "2021-06-03T21:40:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

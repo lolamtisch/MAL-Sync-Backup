@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "生まれてはじめて",
+    "First Time"
+  ],
+  "authors": [
+    "Mille Feuille"
+  ],
+  "id": 55139,
+  "malId": 25139,
+  "type": "manga",
+  "title": "Umarete Hajimete",
+  "url": "https://anilist.co/manga/55139",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25139.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "35b673bf-bcfa-4f85-a275-2d1954916bb3": {
+        "authors": [
+          "Millefeuille"
+        ],
+        "identifier": "35b673bf-bcfa-4f85-a275-2d1954916bb3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Umarete Hajimete",
+        "url": "https://mangadex.org/title/35b673bf-bcfa-4f85-a275-2d1954916bb3",
+        "image": "https://uploads.mangadex.org/covers/35b673bf-bcfa-4f85-a275-2d1954916bb3/306442ab-3a9a-489e-8790-2ffe1903dcb4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25139,
+        "aniId": 55139,
+        "createdAt": "2020-10-12T16:19:20.000Z",
+        "updatedAt": "2021-06-07T21:52:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

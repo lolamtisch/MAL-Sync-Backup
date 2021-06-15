@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "きみのご冥福なんていのらない"
+  ],
+  "authors": [
+    "Aki Matsuo"
+  ],
+  "id": 129887,
+  "malId": null,
+  "type": "manga",
+  "title": "Kimi no Gomeifuku nante Inoranai",
+  "url": "https://anilist.co/manga/129887",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129887-pCX1YtXAZ3YS.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T12:26:32.000Z",
+  "updatedAt": "2021-06-08T12:26:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eece6d75-0897-4ebc-9f5c-57d250bc634b": {
+        "authors": [
+          "Matsuo Aki"
+        ],
+        "identifier": "eece6d75-0897-4ebc-9f5c-57d250bc634b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Don't Rest in Peace",
+        "url": "https://mangadex.org/title/eece6d75-0897-4ebc-9f5c-57d250bc634b",
+        "image": "https://uploads.mangadex.org/covers/eece6d75-0897-4ebc-9f5c-57d250bc634b/1526a77d-fbdd-4b25-b471-3608ec34e0ee.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 129887,
+        "createdAt": "2021-02-28T23:16:02.000Z",
+        "updatedAt": "2021-06-08T15:05:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

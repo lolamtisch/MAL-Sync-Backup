@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "初恋ダンデライオン"
+  ],
+  "authors": [
+    "Kayoru"
+  ],
+  "id": 85355,
+  "malId": 68825,
+  "type": "manga",
+  "title": "Hatsukoi Dandelion",
+  "url": "https://anilist.co/manga/85355",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55355-y3gVkJTFSz10.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:03.000Z",
+  "updatedAt": "2021-05-20T14:51:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "84516be3-4a28-4c54-8f57-afd4cb12ff64": {
+        "authors": [
+          "Kayoru"
+        ],
+        "identifier": "84516be3-4a28-4c54-8f57-afd4cb12ff64",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatsukoi Dandelion",
+        "url": "https://mangadex.org/title/84516be3-4a28-4c54-8f57-afd4cb12ff64",
+        "image": "https://uploads.mangadex.org/covers/84516be3-4a28-4c54-8f57-afd4cb12ff64/2628dc20-b594-4da8-8aea-26d3842af2ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68825,
+        "aniId": 85355,
+        "createdAt": "2020-10-12T16:07:15.000Z",
+        "updatedAt": "2021-06-04T01:26:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hatsukoi-dandelion": {
+        "authors": [
+          "Kayoru"
+        ],
+        "identifier": "hatsukoi-dandelion",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hatsukoi Dandelion",
+        "url": "https://mangasee123.com/manga/Hatsukoi-Dandelion",
+        "image": "https://cover.nep.li/cover/Hatsukoi-Dandelion.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68825,
+        "aniId": 85355,
+        "createdAt": "2021-04-07T17:21:20.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

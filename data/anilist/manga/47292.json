@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "キッズログ",
+    "Kids' Log",
+    "Kids Log"
+  ],
+  "authors": [
+    "Maki Hashiba"
+  ],
+  "id": 47292,
+  "malId": 17292,
+  "type": "manga",
+  "title": "Kid's Log",
+  "url": "https://anilist.co/manga/47292",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17292.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T19:50:28.000Z",
+  "updatedAt": "2021-06-04T19:50:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "78a84798-d7f4-4088-b2f2-ee9512ecab38": {
+        "authors": [
+          "Hashiba Maki"
+        ],
+        "identifier": "78a84798-d7f4-4088-b2f2-ee9512ecab38",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kids Log",
+        "url": "https://mangadex.org/title/78a84798-d7f4-4088-b2f2-ee9512ecab38",
+        "image": "https://uploads.mangadex.org/covers/78a84798-d7f4-4088-b2f2-ee9512ecab38/bc660b70-6104-4d19-a193-1ba9ac40ccd4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17292,
+        "aniId": 47292,
+        "createdAt": "2020-10-12T16:09:42.000Z",
+        "updatedAt": "2021-06-04T20:12:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

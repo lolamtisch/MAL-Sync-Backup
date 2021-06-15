@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "9th Sleep",
+    "ナインス スリープ"
+  ],
+  "authors": [
+    "Makoto Tateno"
+  ],
+  "id": 30202,
+  "malId": 202,
+  "type": "manga",
+  "title": "9th Sleep",
+  "url": "https://anilist.co/manga/30202",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30202-UMExXpXEs1Oa.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "62dfccdc-c0ab-43e6-ac9f-781a532d6a33": {
+        "authors": [
+          "Tateno Makoto"
+        ],
+        "identifier": "62dfccdc-c0ab-43e6-ac9f-781a532d6a33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "9th Sleep",
+        "url": "https://mangadex.org/title/62dfccdc-c0ab-43e6-ac9f-781a532d6a33",
+        "image": "https://uploads.mangadex.org/covers/62dfccdc-c0ab-43e6-ac9f-781a532d6a33/711c9229-5df1-4ec1-bad6-43feaa1f86da.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 202,
+        "aniId": 30202,
+        "createdAt": "2020-10-12T16:05:15.000Z",
+        "updatedAt": "2021-06-03T11:19:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

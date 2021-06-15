@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "オーマイヒーロー！"
+  ],
+  "authors": [
+    "Cocomi"
+  ],
+  "id": 108329,
+  "type": "manga",
+  "title": "Oh My Hero!",
+  "url": "https://myanimelist.net/manga/108329/Oh_My_Hero",
+  "image": "https://cdn.myanimelist.net/images/manga/3/206901.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:08.000Z",
+  "updatedAt": "2020-12-31T16:43:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73778e58-f1c1-473a-b8c3-adc4440747bc": {
+        "authors": [
+          "Cocomi"
+        ],
+        "identifier": "73778e58-f1c1-473a-b8c3-adc4440747bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oh My Hero!",
+        "url": "https://mangadex.org/title/73778e58-f1c1-473a-b8c3-adc4440747bc",
+        "image": "https://uploads.mangadex.org/covers/73778e58-f1c1-473a-b8c3-adc4440747bc/981df213-95e5-47bd-aad7-4d4cd3ae0060.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108329,
+        "aniId": 101438,
+        "createdAt": "2020-10-12T16:15:00.000Z",
+        "updatedAt": "2021-06-06T09:56:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

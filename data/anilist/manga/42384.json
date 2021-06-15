@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "やまンこ!"
+  ],
+  "authors": [
+    "Gou Zappa",
+    "Ryou Itou"
+  ],
+  "id": 42384,
+  "malId": 12384,
+  "type": "manga",
+  "title": "Yamanko!",
+  "url": "https://anilist.co/manga/42384",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42384-rAc2p4QaAA4R.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:22.000Z",
+  "updatedAt": "2021-05-20T14:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6650ebb9-391a-458f-a85a-28e1dc41d48a": {
+        "authors": [
+          "Zappa Go",
+          "Itou Ryou"
+        ],
+        "identifier": "6650ebb9-391a-458f-a85a-28e1dc41d48a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yamanko!",
+        "url": "https://mangadex.org/title/6650ebb9-391a-458f-a85a-28e1dc41d48a",
+        "image": "https://uploads.mangadex.org/covers/6650ebb9-391a-458f-a85a-28e1dc41d48a/978f4547-7790-4189-8b2e-7c17aad7f4f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12384,
+        "aniId": 42384,
+        "createdAt": "2020-10-12T16:04:05.000Z",
+        "updatedAt": "2021-06-02T18:39:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yamanko": {
+        "authors": [
+          "Zappa",
+          "Go"
+        ],
+        "identifier": "yamanko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yamanko!",
+        "url": "https://manganelo.com/manga/yamanko",
+        "image": "https://avt.mkklcdnv6.com/22/n/4-1583470604.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12384,
+        "aniId": 42384,
+        "createdAt": "2020-10-29T00:14:12.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

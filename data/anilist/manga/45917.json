@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "思考少年",
+    "Thought Boy"
+  ],
+  "authors": [
+    "Kaoru Fujiwara"
+  ],
+  "id": 45917,
+  "malId": 15917,
+  "type": "manga",
+  "title": "Shikou Shounen",
+  "url": "https://anilist.co/manga/45917",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45917-N1TbcFSPsgJe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:49.000Z",
+  "updatedAt": "2021-05-20T14:43:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "18d15342-e478-4073-9e13-175af4c182a1": {
+        "authors": [
+          "Fujiwara Kaoru"
+        ],
+        "identifier": "18d15342-e478-4073-9e13-175af4c182a1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shikou Shounen",
+        "url": "https://mangadex.org/title/18d15342-e478-4073-9e13-175af4c182a1",
+        "image": "https://uploads.mangadex.org/covers/18d15342-e478-4073-9e13-175af4c182a1/41ce1f6c-406a-4237-bea7-0430cf0c8626.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15917,
+        "aniId": 45917,
+        "createdAt": "2020-10-12T16:08:48.000Z",
+        "updatedAt": "2021-06-04T12:55:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shikou-shounen": {
+        "authors": [
+          "FUJIWARA Kaoru"
+        ],
+        "identifier": "shikou-shounen",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shikou Shounen",
+        "url": "https://mangasee123.com/manga/Shikou-Shounen",
+        "image": "https://cover.nep.li/cover/Shikou-Shounen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15917,
+        "aniId": 45917,
+        "createdAt": "2021-05-18T03:24:57.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

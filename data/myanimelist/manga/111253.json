@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "アーモンドを七粒"
+  ],
+  "authors": [
+    "Natsumizu, Ritsu"
+  ],
+  "id": 111253,
+  "type": "manga",
+  "title": "Almond wo Nanatsubu",
+  "url": "https://myanimelist.net/manga/111253/Almond_wo_Nanatsubu",
+  "image": "https://cdn.myanimelist.net/images/manga/3/225743.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-02-24T03:25:48.000Z",
+  "updatedAt": "2021-05-27T08:59:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f449567c-8114-48eb-8184-9a804f9419e9": {
+        "authors": [
+          "Natsumizu Ritsu"
+        ],
+        "identifier": "f449567c-8114-48eb-8184-9a804f9419e9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Almond o Nanatsubu",
+        "url": "https://mangadex.org/title/f449567c-8114-48eb-8184-9a804f9419e9",
+        "image": "https://uploads.mangadex.org/covers/f449567c-8114-48eb-8184-9a804f9419e9/395eefb7-2d9f-4446-8ef1-f6a0965e722f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111253,
+        "aniId": 105711,
+        "createdAt": "2021-02-24T03:25:49.000Z",
+        "updatedAt": "2021-06-08T11:40:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "almond_o_nanatsubu": {
+        "authors": [
+          "Natsumizu",
+          "Ritsu"
+        ],
+        "identifier": "almond_o_nanatsubu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Almond O Nanatsubu",
+        "url": "https://manganelo.com/manga/almond_o_nanatsubu",
+        "image": "https://avt.mkklcdnv6temp.com/30/x/16-1583494580.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111253,
+        "aniId": 105711,
+        "createdAt": "2021-05-27T08:59:13.000Z",
+        "updatedAt": "2021-05-27T09:28:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

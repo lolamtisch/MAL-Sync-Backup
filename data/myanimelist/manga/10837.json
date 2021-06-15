@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Work Using Voice!",
+    "こえでおしごと!"
+  ],
+  "authors": [
+    "Konno, Azure"
+  ],
+  "id": 10837,
+  "type": "manga",
+  "title": "Koe de Oshigoto!",
+  "url": "https://myanimelist.net/manga/10837/Koe_de_Oshigoto",
+  "image": "https://cdn.myanimelist.net/images/manga/2/51873.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:30.000Z",
+  "updatedAt": "2020-12-17T21:26:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c8f5d773-dcb5-4dc0-98c8-6ee0f19bba9f": {
+        "authors": [
+          "Konno Azure"
+        ],
+        "identifier": "c8f5d773-dcb5-4dc0-98c8-6ee0f19bba9f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koe de Oshigoto!",
+        "url": "https://mangadex.org/title/c8f5d773-dcb5-4dc0-98c8-6ee0f19bba9f",
+        "image": "https://uploads.mangadex.org/covers/c8f5d773-dcb5-4dc0-98c8-6ee0f19bba9f/d2f8fc25-f4aa-41ea-80b5-5de656f6e345.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10837,
+        "aniId": 40837,
+        "createdAt": "2020-10-12T16:05:41.000Z",
+        "updatedAt": "2021-06-03T14:21:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koe_de_oshigoto": {
+        "authors": [],
+        "identifier": "koe_de_oshigoto",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koe De Oshigoto!",
+        "url": "https://manganelo.com/manga/koe_de_oshigoto",
+        "image": "https://avt.mkklcdnv6.com/31/d/2-1583466901.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10837,
+        "aniId": 40837,
+        "createdAt": "2020-10-12T16:23:57.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "koe-de-oshigoto": {
+        "authors": [
+          "KONNO Azure"
+        ],
+        "identifier": "koe-de-oshigoto",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Koe de Oshigoto!",
+        "url": "https://mangasee123.com/manga/Koe-De-Oshigoto",
+        "image": "https://cover.nep.li/cover/Koe-De-Oshigoto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10837,
+        "aniId": 40837,
+        "createdAt": "2020-12-23T11:56:05.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Gin Tsubasa",
+    "les ailes d'argent"
+  ],
+  "authors": [
+    "Ayumi Tachihara"
+  ],
+  "id": 41365,
+  "malId": 11365,
+  "type": "manga",
+  "title": "Tsubasa",
+  "url": "https://anilist.co/manga/41365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11365.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:18.000Z",
+  "updatedAt": "2021-05-20T14:41:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c09c5f7e-50fe-4d0a-ae78-746bd578061e": {
+        "authors": [
+          "TACHIHARA Ayumi"
+        ],
+        "identifier": "c09c5f7e-50fe-4d0a-ae78-746bd578061e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsubasa",
+        "url": "https://mangadex.org/title/c09c5f7e-50fe-4d0a-ae78-746bd578061e",
+        "image": "https://uploads.mangadex.org/covers/c09c5f7e-50fe-4d0a-ae78-746bd578061e/c26ec327-da10-4bca-93c5-17bbb4f412db.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11365,
+        "aniId": 41365,
+        "createdAt": "2020-10-12T16:03:31.000Z",
+        "updatedAt": "2021-06-02T14:40:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

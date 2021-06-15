@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "천개의 꽃잎",
+    "Cheongaeui Kkoch-ip"
+  ],
+  "authors": [
+    "Sirial"
+  ],
+  "id": 95923,
+  "malId": 92689,
+  "type": "manga",
+  "title": "A Thousand Petals",
+  "url": "https://anilist.co/manga/95923",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95923-xYVt3OB3xfRk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:40.000Z",
+  "updatedAt": "2021-05-20T14:53:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c60e8e84-7ee8-4b3a-9ced-cbea009d1b0d": {
+        "authors": [
+          "Sirial"
+        ],
+        "identifier": "c60e8e84-7ee8-4b3a-9ced-cbea009d1b0d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Thousand Petals",
+        "url": "https://mangadex.org/title/c60e8e84-7ee8-4b3a-9ced-cbea009d1b0d",
+        "image": "https://uploads.mangadex.org/covers/c60e8e84-7ee8-4b3a-9ced-cbea009d1b0d/54ddf5df-6386-4045-b5b0-a90b16e2ec43.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92689,
+        "aniId": 95923,
+        "createdAt": "2020-10-12T16:08:17.000Z",
+        "updatedAt": "2021-06-04T09:00:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "a-thousand-petals": {
+        "authors": [
+          "Sirial"
+        ],
+        "identifier": "a-thousand-petals",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "A Thousand Petals",
+        "url": "https://mangasee123.com/manga/A-Thousand-Petals",
+        "image": "https://cover.nep.li/cover/A-Thousand-Petals.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92689,
+        "aniId": 95923,
+        "createdAt": "2021-02-15T07:06:08.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "The Gourmet",
+    "美味しんぼ"
+  ],
+  "id": 1093,
+  "type": "anime",
+  "title": "Oishinbo",
+  "url": "https://myanimelist.net/anime/1093/Oishinbo",
+  "image": "https://cdn.myanimelist.net/images/anime/1681/109663.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:12.000Z",
+  "updatedAt": "2021-04-26T11:57:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "3zj2": {
+        "identifier": "3zj2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Oishinbo",
+        "url": "https://9anime.ru/watch/oishinbo.3zj2",
+        "image": "https://static.akacdn.ru/static/images/2018/04/d7e2317dab88f1f266c50c589aebf981.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1093,
+        "aniId": 1093,
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "oishinbo": {
+        "identifier": "oishinbo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Oishinbo",
+        "url": "https://www9.gogoanime.io/category/oishinbo",
+        "image": "https://cdnimg.xyz/cover/oishinbo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1093,
+        "aniId": 1093,
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "君が降ってきた日",
+    "The Day You Came Falling Down"
+  ],
+  "authors": [
+    "Gaku Kuze"
+  ],
+  "id": 112365,
+  "malId": null,
+  "type": "manga",
+  "title": "Kimi ga Futte Kita Hi",
+  "url": "https://anilist.co/manga/112365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112365-3bWLjc1QfAC6.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-31T00:12:13.000Z",
+  "updatedAt": "2021-05-31T00:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2a64630-45b8-44b5-a735-1403eacb38af": {
+        "authors": [
+          "Kuze Gaku"
+        ],
+        "identifier": "d2a64630-45b8-44b5-a735-1403eacb38af",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi ga Futte Kita Hi",
+        "url": "https://mangadex.org/title/d2a64630-45b8-44b5-a735-1403eacb38af",
+        "image": "https://uploads.mangadex.org/covers/d2a64630-45b8-44b5-a735-1403eacb38af/f819ac76-c443-4300-bd11-d176f9930dc1.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112365,
+        "createdAt": "2020-10-12T16:17:11.000Z",
+        "updatedAt": "2021-06-07T07:29:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

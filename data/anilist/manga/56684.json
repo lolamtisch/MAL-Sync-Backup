@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "Same Difference",
+    "どっちもどっち"
+  ],
+  "authors": [
+    "Nozomu Hiiragi"
+  ],
+  "id": 56684,
+  "malId": 26684,
+  "type": "manga",
+  "title": "Docchi mo Docchi",
+  "url": "https://anilist.co/manga/56684",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56684-spYSAtIFNk7t.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:04.000Z",
+  "updatedAt": "2021-06-03T18:19:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7f1fab2c-0cfe-4115-88f7-483402fea1b8": {
+        "authors": [
+          "Hiiragi Nozomu"
+        ],
+        "identifier": "7f1fab2c-0cfe-4115-88f7-483402fea1b8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Docchi mo Docchi",
+        "url": "https://mangadex.org/title/7f1fab2c-0cfe-4115-88f7-483402fea1b8",
+        "image": "https://uploads.mangadex.org/covers/7f1fab2c-0cfe-4115-88f7-483402fea1b8/2f23e978-d04f-4194-93ce-8ca8c37ec2c0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26684,
+        "aniId": 56684,
+        "createdAt": "2020-10-12T16:06:13.000Z",
+        "updatedAt": "2021-06-03T18:23:15.000Z",
+        "deletedAt": null
+      },
+      "685873b5-7df5-43ea-9bd2-f913be4a6bd4": {
+        "authors": [
+          "Yokoyama Mitsuteru"
+        ],
+        "identifier": "685873b5-7df5-43ea-9bd2-f913be4a6bd4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Giant Robo: Reference",
+        "url": "https://mangadex.org/title/685873b5-7df5-43ea-9bd2-f913be4a6bd4",
+        "image": "https://uploads.mangadex.org/covers/685873b5-7df5-43ea-9bd2-f913be4a6bd4/9da7930b-92de-45c5-b757-82940e3599c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26684,
+        "aniId": 56684,
+        "createdAt": "2020-10-12T16:13:54.000Z",
+        "updatedAt": "2021-06-06T00:57:28.000Z",
+        "deletedAt": null
+      },
+      "8af959c9-2231-43f0-bdb4-2e27a9175e95": {
+        "authors": [
+          "Eriae"
+        ],
+        "identifier": "8af959c9-2231-43f0-bdb4-2e27a9175e95",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Limerence",
+        "url": "https://mangadex.org/title/8af959c9-2231-43f0-bdb4-2e27a9175e95",
+        "image": "https://uploads.mangadex.org/covers/8af959c9-2231-43f0-bdb4-2e27a9175e95/1aade3d8-ec8e-4d55-bbd1-2812ddfdc4f1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26684,
+        "aniId": 56684,
+        "createdAt": "2020-10-12T16:20:07.000Z",
+        "updatedAt": "2021-06-07T23:27:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

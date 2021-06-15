@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Ohikkoshi",
+    "おひっこし"
+  ],
+  "authors": [
+    "Hiroaki Samura"
+  ],
+  "id": 31126,
+  "malId": 1126,
+  "type": "manga",
+  "title": "Ohikkoshi",
+  "url": "https://anilist.co/manga/31126",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31126-9DYMRXC2xxjn.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:54.000Z",
+  "updatedAt": "2021-05-20T14:35:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a14d7eca-0974-4227-9220-31c8d0316e37": {
+        "authors": [
+          "Samura Hiroaki"
+        ],
+        "identifier": "a14d7eca-0974-4227-9220-31c8d0316e37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ohikkoshi",
+        "url": "https://mangadex.org/title/a14d7eca-0974-4227-9220-31c8d0316e37",
+        "image": "https://uploads.mangadex.org/covers/a14d7eca-0974-4227-9220-31c8d0316e37/cb5ebf6c-0470-446f-8b4e-062e899e0c03.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1126,
+        "aniId": 31126,
+        "createdAt": "2020-10-12T16:09:54.000Z",
+        "updatedAt": "2021-06-04T20:54:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ho920718": {
+        "authors": [],
+        "identifier": "ho920718",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Oshi no Idol ga Tonari no Heya ni Hikkoshite Kita",
+        "url": "https://manganelo.com/manga/ho920718",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2115-ho920718.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1126,
+        "aniId": 31126,
+        "createdAt": "2020-10-12T16:23:22.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

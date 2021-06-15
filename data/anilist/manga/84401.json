@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Jia Li Huang"
+  ],
+  "id": 84401,
+  "malId": 54401,
+  "type": "manga",
+  "title": "Flying Free",
+  "url": "https://anilist.co/manga/84401",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/54401.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:59.000Z",
+  "updatedAt": "2021-05-20T14:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2379e944-c9c6-4581-b3ea-b782af4da317": {
+        "authors": [
+          "Huang Jia Li"
+        ],
+        "identifier": "2379e944-c9c6-4581-b3ea-b782af4da317",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flying Free",
+        "url": "https://mangadex.org/title/2379e944-c9c6-4581-b3ea-b782af4da317",
+        "image": "https://uploads.mangadex.org/covers/2379e944-c9c6-4581-b3ea-b782af4da317/cf011da9-4e8c-42ee-996c-c432bd3512e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54401,
+        "aniId": 84401,
+        "createdAt": "2020-10-12T16:04:28.000Z",
+        "updatedAt": "2021-06-02T21:17:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

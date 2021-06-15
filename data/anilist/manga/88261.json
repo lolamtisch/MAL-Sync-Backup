@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "饕餮"
+  ],
+  "authors": [
+    "Boichi",
+    "Yuusuke Takeda"
+  ],
+  "id": 88261,
+  "malId": 56663,
+  "type": "manga",
+  "title": "Toutetsu",
+  "url": "https://anilist.co/manga/88261",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88261-UTqnqVYBX2W8.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:29.000Z",
+  "updatedAt": "2021-05-20T14:50:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "312d3ae6-32aa-4279-8756-5c17f2601c9a": {
+        "authors": [
+          "Yusuke Takeda",
+          "Boichi"
+        ],
+        "identifier": "312d3ae6-32aa-4279-8756-5c17f2601c9a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toutetsu",
+        "url": "https://mangadex.org/title/312d3ae6-32aa-4279-8756-5c17f2601c9a",
+        "image": "https://uploads.mangadex.org/covers/312d3ae6-32aa-4279-8756-5c17f2601c9a/ad193e2b-38d8-41a1-996f-92cdd0f981b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56663,
+        "aniId": 88261,
+        "createdAt": "2020-10-12T16:06:38.000Z",
+        "updatedAt": "2021-06-03T21:00:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

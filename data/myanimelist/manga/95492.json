@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "友情を終えるということ"
+  ],
+  "authors": [
+    "Rocky"
+  ],
+  "id": 95492,
+  "type": "manga",
+  "title": "Yuujou wo Oeru to Iukoto",
+  "url": "https://myanimelist.net/manga/95492/Yuujou_wo_Oeru_to_Iukoto",
+  "image": "https://cdn.myanimelist.net/images/manga/1/171527.jpg",
+  "category": "Doujinshi",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:22.000Z",
+  "updatedAt": "2021-05-13T10:26:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2182be5e-09ec-49cb-a785-d50ce3e3f191": {
+        "authors": [
+          "Rocky"
+        ],
+        "identifier": "2182be5e-09ec-49cb-a785-d50ce3e3f191",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuujou wo Oeru to Iu Koto",
+        "url": "https://mangadex.org/title/2182be5e-09ec-49cb-a785-d50ce3e3f191",
+        "image": "https://uploads.mangadex.org/covers/2182be5e-09ec-49cb-a785-d50ce3e3f191/331411ab-6f6f-4660-b3bb-6498ef936590.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95492,
+        "aniId": 101675,
+        "createdAt": "2020-10-12T16:13:30.000Z",
+        "updatedAt": "2021-06-05T21:55:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yuujou_wo_oeru_to_iu_koto": {
+        "authors": [
+          "Rocky"
+        ],
+        "identifier": "yuujou_wo_oeru_to_iu_koto",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yuujou Wo Oeru To Iu Koto",
+        "url": "https://manganelo.com/manga/yuujou_wo_oeru_to_iu_koto",
+        "image": "https://avt.mkklcdnv6temp.com/35/m/3-1583469070.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95492,
+        "aniId": 101675,
+        "createdAt": "2021-05-13T10:26:21.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

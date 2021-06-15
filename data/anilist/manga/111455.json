@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "アヒルの王子様"
+  ],
+  "authors": [
+    "Kazao"
+  ],
+  "id": 111455,
+  "malId": 122472,
+  "type": "manga",
+  "title": "Ahiru no Oujisama",
+  "url": "https://anilist.co/manga/111455",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111455-9H7XIAgtx9cl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T05:20:40.000Z",
+  "updatedAt": "2021-06-07T05:20:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "11e8f351-dc49-47d9-90e1-a512253c1571": {
+        "authors": [
+          "Kazao"
+        ],
+        "identifier": "11e8f351-dc49-47d9-90e1-a512253c1571",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ahiru no Oujisama",
+        "url": "https://mangadex.org/title/11e8f351-dc49-47d9-90e1-a512253c1571",
+        "image": "https://uploads.mangadex.org/covers/11e8f351-dc49-47d9-90e1-a512253c1571/43363326-bde0-400b-98db-1ef0ff6ba31f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 122472,
+        "aniId": 111455,
+        "createdAt": "2020-10-12T16:17:09.000Z",
+        "updatedAt": "2021-06-07T07:48:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

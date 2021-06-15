@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Cat Cafe",
+    "ねこきっさ"
+  ],
+  "authors": [
+    "Nemigi Toto"
+  ],
+  "id": 36722,
+  "malId": 6722,
+  "type": "manga",
+  "title": "Neko Kissa",
+  "url": "https://anilist.co/manga/36722",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6722.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:42.000Z",
+  "updatedAt": "2021-05-20T14:39:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b620cbe1-9e1f-4e79-add0-cae616c826f6": {
+        "authors": [
+          "Toto Nemigi"
+        ],
+        "identifier": "b620cbe1-9e1f-4e79-add0-cae616c826f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko Kissa",
+        "url": "https://mangadex.org/title/b620cbe1-9e1f-4e79-add0-cae616c826f6",
+        "image": "https://uploads.mangadex.org/covers/b620cbe1-9e1f-4e79-add0-cae616c826f6/e7c567b0-504c-49b4-bca2-0af3530812cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6722,
+        "aniId": 36722,
+        "createdAt": "2020-10-12T16:11:32.000Z",
+        "updatedAt": "2021-06-05T09:06:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

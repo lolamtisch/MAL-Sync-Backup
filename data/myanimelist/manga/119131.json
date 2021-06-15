@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "個人差あり〼"
+  ],
+  "authors": [
+    "Higurashi, Kinoko"
+  ],
+  "id": 119131,
+  "type": "manga",
+  "title": "Kojinsa Arimasu",
+  "url": "https://myanimelist.net/manga/119131/Kojinsa_Arimasu",
+  "image": "https://cdn.myanimelist.net/images/manga/3/217088.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-01-30T04:59:15.000Z",
+  "updatedAt": "2021-03-26T13:50:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "350f8d87-de7e-434b-a4a6-3157a7f29b07": {
+        "authors": [
+          "Higurashi Kinoko"
+        ],
+        "identifier": "350f8d87-de7e-434b-a4a6-3157a7f29b07",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kojinsa Arimasu",
+        "url": "https://mangadex.org/title/350f8d87-de7e-434b-a4a6-3157a7f29b07",
+        "image": "https://uploads.mangadex.org/covers/350f8d87-de7e-434b-a4a6-3157a7f29b07/0c21b97c-98eb-4895-b734-812605943956.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119131,
+        "aniId": 105647,
+        "createdAt": "2020-10-12T16:14:27.000Z",
+        "updatedAt": "2021-06-06T05:11:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kojinsa_arimasu": {
+        "authors": [
+          "HIGURASHI Kinoko"
+        ],
+        "identifier": "kojinsa_arimasu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kojinsa arimasu",
+        "url": "https://fanfox.net/manga/kojinsa_arimasu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37386/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119131,
+        "aniId": 105647,
+        "createdAt": "2021-03-26T13:50:57.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

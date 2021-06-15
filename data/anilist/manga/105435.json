@@ -1,0 +1,108 @@
+{
+  "altTitle": [
+    "めぐみとつぐみ"
+  ],
+  "authors": [
+    "Mitsuru Si"
+  ],
+  "id": 105435,
+  "malId": 118085,
+  "type": "manga",
+  "title": "Megumi to Tsugumi",
+  "url": "https://anilist.co/manga/105435",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105435-YvofR6ViW2dn.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:57:59.000Z",
+  "updatedAt": "2021-06-06T10:49:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c2dd15d-4f52-43ee-98fb-32947f808e60": {
+        "authors": [
+          "Si Mitsuru"
+        ],
+        "identifier": "8c2dd15d-4f52-43ee-98fb-32947f808e60",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Megumi to Tsugumi",
+        "url": "https://mangadex.org/title/8c2dd15d-4f52-43ee-98fb-32947f808e60",
+        "image": "https://uploads.mangadex.org/covers/8c2dd15d-4f52-43ee-98fb-32947f808e60/2ea72782-588e-4bf1-9f18-a35e57896ffa.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 118085,
+        "aniId": 105435,
+        "createdAt": "2020-10-12T16:15:04.000Z",
+        "updatedAt": "2021-06-06T13:37:54.000Z",
+        "deletedAt": null
+      },
+      "8fd5feeb-3a62-4425-a581-8937a1692c1a": {
+        "authors": [
+          "Si Mitsuru"
+        ],
+        "identifier": "8fd5feeb-3a62-4425-a581-8937a1692c1a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Megumi and Tsugumi",
+        "url": "https://mangadex.org/title/8fd5feeb-3a62-4425-a581-8937a1692c1a",
+        "image": "https://uploads.mangadex.org/covers/8fd5feeb-3a62-4425-a581-8937a1692c1a/e35e6873-4245-48dc-ad10-2c2bfab9843f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118085,
+        "aniId": 105435,
+        "createdAt": "2021-02-24T10:25:48.000Z",
+        "updatedAt": "2021-06-08T11:40:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "megumi_to_tsugumi": {
+        "authors": [
+          "SI Mitsuru"
+        ],
+        "identifier": "megumi_to_tsugumi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Megumi to Tsugumi",
+        "url": "https://fanfox.net/manga/megumi_to_tsugumi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29788/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118085,
+        "aniId": 105435,
+        "createdAt": "2021-02-24T11:55:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ia918562": {
+        "authors": [
+          "Si",
+          "Mitsuru"
+        ],
+        "identifier": "ia918562",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Megumi And Tsugumi",
+        "url": "https://manganelo.com/manga/ia918562",
+        "image": "https://avt.mkklcdnv6temp.com/50/e/17-1583497080.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118085,
+        "aniId": 105435,
+        "createdAt": "2021-04-21T11:27:00.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

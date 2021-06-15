@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "原来你在这里"
+  ],
+  "authors": [
+    "DJUN"
+  ],
+  "id": 100805,
+  "malId": 119072,
+  "type": "manga",
+  "title": "Here U Are",
+  "url": "https://anilist.co/manga/100805",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100805-l4Cs536x6Eee.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:06.000Z",
+  "updatedAt": "2021-05-20T14:58:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33d1ba42-be1f-4a99-9943-aa8da1a02bdf": {
+        "authors": [
+          "D-Jun"
+        ],
+        "identifier": "33d1ba42-be1f-4a99-9943-aa8da1a02bdf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Here U Are",
+        "url": "https://mangadex.org/title/33d1ba42-be1f-4a99-9943-aa8da1a02bdf",
+        "image": "https://uploads.mangadex.org/covers/33d1ba42-be1f-4a99-9943-aa8da1a02bdf/fd865f54-b92a-474c-8ee3-f093edcfaa1e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119072,
+        "aniId": 100805,
+        "createdAt": "2020-10-12T16:11:39.000Z",
+        "updatedAt": "2021-06-05T10:00:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

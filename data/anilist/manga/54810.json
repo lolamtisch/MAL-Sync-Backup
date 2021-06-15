@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "花舞小枝で会いましょう"
+  ],
+  "authors": [
+    "Maki Kazumi",
+    "Ayumi Kano"
+  ],
+  "id": 54810,
+  "malId": 24810,
+  "type": "manga",
+  "title": "Hanamai Koeda de Aimashou",
+  "url": "https://anilist.co/manga/54810",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24810.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:46.000Z",
+  "updatedAt": "2021-05-20T14:46:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64f98e25-f7c1-4ca7-aa5f-ed386d22bb12": {
+        "authors": [
+          "Kano Ayumi",
+          "Kazumi Maki"
+        ],
+        "identifier": "64f98e25-f7c1-4ca7-aa5f-ed386d22bb12",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanamai Koeda de Aimashou",
+        "url": "https://mangadex.org/title/64f98e25-f7c1-4ca7-aa5f-ed386d22bb12",
+        "image": "https://uploads.mangadex.org/covers/64f98e25-f7c1-4ca7-aa5f-ed386d22bb12/b2f6444f-a6c9-42a1-9e7c-8f120ce39e98.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24810,
+        "aniId": 54810,
+        "createdAt": "2020-10-12T16:04:17.000Z",
+        "updatedAt": "2021-06-02T20:03:31.000Z",
+        "deletedAt": null
+      },
+      "da74b047-f5ae-480c-9646-a28f7435c32d": {
+        "authors": [
+          "Saeki Pointy",
+          "Chikyuu no Osakana Pon-chan"
+        ],
+        "identifier": "da74b047-f5ae-480c-9646-a28f7435c32d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Waidan bar de aimashou",
+        "url": "https://mangadex.org/title/da74b047-f5ae-480c-9646-a28f7435c32d",
+        "image": "https://uploads.mangadex.org/covers/da74b047-f5ae-480c-9646-a28f7435c32d/5b40b64f-3a03-423f-a1fa-c2d304692c51.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24810,
+        "aniId": 54810,
+        "createdAt": "2020-10-12T16:17:50.000Z",
+        "updatedAt": "2021-06-07T11:24:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

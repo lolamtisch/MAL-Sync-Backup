@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "黒の獅子",
+    "Black Lion"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 72785,
+  "malId": 42785,
+  "type": "manga",
+  "title": "Kuro no Shishi",
+  "url": "https://anilist.co/manga/72785",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42785.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-31T00:42:13.000Z",
+  "updatedAt": "2021-05-31T00:42:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "51eec904-6b06-476d-9cc4-7b23f75484d8": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "51eec904-6b06-476d-9cc4-7b23f75484d8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Lion",
+        "url": "https://mangadex.org/title/51eec904-6b06-476d-9cc4-7b23f75484d8",
+        "image": "https://uploads.mangadex.org/covers/51eec904-6b06-476d-9cc4-7b23f75484d8/e3c66a3e-140f-47f2-97f6-0ba8664939cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42785,
+        "aniId": 72785,
+        "createdAt": "2020-10-12T16:05:26.000Z",
+        "updatedAt": "2021-06-03T15:30:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "black-lion": {
+        "authors": [
+          "NAGAI Go"
+        ],
+        "identifier": "black-lion",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Black Lion",
+        "url": "https://mangasee123.com/manga/Black-Lion",
+        "image": "https://cover.nep.li/cover/Black-Lion.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42785,
+        "aniId": 72785,
+        "createdAt": "2021-06-08T05:21:15.000Z",
+        "updatedAt": "2021-06-08T05:50:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Harold Sakuishi"
+  ],
+  "id": 43232,
+  "malId": 13232,
+  "type": "manga",
+  "title": "Stopper Busujima",
+  "url": "https://anilist.co/manga/43232",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13232.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:32.000Z",
+  "updatedAt": "2021-05-20T14:42:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9704318c-7a2c-4e29-baa9-6206fcef7dd9": {
+        "authors": [
+          "HAROLD Sakuishi"
+        ],
+        "identifier": "9704318c-7a2c-4e29-baa9-6206fcef7dd9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Stopper Busujima",
+        "url": "https://mangadex.org/title/9704318c-7a2c-4e29-baa9-6206fcef7dd9",
+        "image": "https://uploads.mangadex.org/covers/9704318c-7a2c-4e29-baa9-6206fcef7dd9/5da20bb5-5e6d-40d8-a6a3-9e97239edb7f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13232,
+        "aniId": 43232,
+        "createdAt": "2020-10-12T16:06:24.000Z",
+        "updatedAt": "2021-06-03T19:25:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

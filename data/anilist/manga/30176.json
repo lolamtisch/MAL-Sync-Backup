@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Chocotto Sister",
+    "ちょこッとSister",
+    "Chokotto Sister",
+    "Chocosis"
+  ],
+  "authors": [
+    "Gou Zappa",
+    "Sakura Takeuchi"
+  ],
+  "id": 30176,
+  "malId": 176,
+  "type": "manga",
+  "title": "Chocotto Sister",
+  "url": "https://anilist.co/manga/30176",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30176-vPYVh6QybynF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2c815ea7-3dee-4944-8614-03c9d020c9c0": {
+        "authors": [
+          "Zappa Go",
+          "Takeuchi Sakura"
+        ],
+        "identifier": "2c815ea7-3dee-4944-8614-03c9d020c9c0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chokotto Sister",
+        "url": "https://mangadex.org/title/2c815ea7-3dee-4944-8614-03c9d020c9c0",
+        "image": "https://uploads.mangadex.org/covers/2c815ea7-3dee-4944-8614-03c9d020c9c0/50a5b11f-b26c-4299-9bd0-e51a9baa5989.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 176,
+        "aniId": 30176,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-02T22:44:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chokotto_sister": {
+        "authors": [],
+        "identifier": "chokotto_sister",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chokotto Sister",
+        "url": "https://manganelo.com/manga/chokotto_sister",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3974-chokotto_sister.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 176,
+        "aniId": 30176,
+        "createdAt": "2020-10-12T16:22:28.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

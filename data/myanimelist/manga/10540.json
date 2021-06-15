@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "LittleLittle",
+    "リトル・リトル"
+  ],
+  "authors": [
+    "Rokuko"
+  ],
+  "id": 10540,
+  "type": "manga",
+  "title": "Little Little",
+  "url": "https://myanimelist.net/manga/10540/Little_Little",
+  "image": "https://cdn.myanimelist.net/images/manga/3/122523.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:28.000Z",
+  "updatedAt": "2021-05-06T05:32:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "11ee5877-68b5-4046-9cc1-c1dee78f40d3": {
+        "authors": [
+          "Rokuko"
+        ],
+        "identifier": "11ee5877-68b5-4046-9cc1-c1dee78f40d3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Little Little",
+        "url": "https://mangadex.org/title/11ee5877-68b5-4046-9cc1-c1dee78f40d3",
+        "image": "https://uploads.mangadex.org/covers/11ee5877-68b5-4046-9cc1-c1dee78f40d3/d08e988d-32af-4734-a104-ea2562243bf0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10540,
+        "aniId": 40540,
+        "createdAt": "2020-10-12T16:03:02.000Z",
+        "updatedAt": "2021-06-02T11:14:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "little-little": {
+        "authors": [
+          "Rokuko"
+        ],
+        "identifier": "little-little",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Little Little",
+        "url": "https://mangasee123.com/manga/Little-Little",
+        "image": "https://cover.nep.li/cover/Little-Little.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10540,
+        "aniId": 40540,
+        "createdAt": "2021-05-06T05:32:58.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

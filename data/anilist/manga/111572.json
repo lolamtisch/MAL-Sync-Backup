@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "純愛ドロップアウト",
+    "Jun'ai Dropout"
+  ],
+  "authors": [
+    "Niumu Misaka"
+  ],
+  "id": 111572,
+  "malId": 122046,
+  "type": "manga",
+  "title": "Junai Dropout",
+  "url": "https://anilist.co/manga/111572",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111572-gaYTAtJJDs5L.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-27T00:28:42.000Z",
+  "updatedAt": "2021-05-27T00:28:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f46dc19c-3c9c-4153-b2e9-05cac8c00f51": {
+        "authors": [
+          "Misaka Niumu"
+        ],
+        "identifier": "f46dc19c-3c9c-4153-b2e9-05cac8c00f51",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jun'ai Dropout",
+        "url": "https://mangadex.org/title/f46dc19c-3c9c-4153-b2e9-05cac8c00f51",
+        "image": "https://uploads.mangadex.org/covers/f46dc19c-3c9c-4153-b2e9-05cac8c00f51/8c603b9e-ec3d-4696-a96d-ac6032a2ccd8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 122046,
+        "aniId": 111572,
+        "createdAt": "2020-10-12T16:17:01.000Z",
+        "updatedAt": "2021-06-07T07:48:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "3(THREE)",
+    "3",
+    "THREE",
+    "3-THREE-"
+  ],
+  "authors": [
+    "Fuyumi Souryou"
+  ],
+  "id": 34360,
+  "malId": 4360,
+  "type": "manga",
+  "title": "THREE",
+  "url": "https://anilist.co/manga/34360",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34360-Yh41gNQEsTEb.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:28.000Z",
+  "updatedAt": "2021-05-20T14:38:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "58bb34a5-452a-49a3-bd08-e167d654dbe4": {
+        "authors": [
+          "Souryo Fuyumi"
+        ],
+        "identifier": "58bb34a5-452a-49a3-bd08-e167d654dbe4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "3",
+        "url": "https://mangadex.org/title/58bb34a5-452a-49a3-bd08-e167d654dbe4",
+        "image": "https://uploads.mangadex.org/covers/58bb34a5-452a-49a3-bd08-e167d654dbe4/5377dee2-3656-4617-be42-b43bd40f25ec.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4360,
+        "aniId": 34360,
+        "createdAt": "2020-10-12T16:09:23.000Z",
+        "updatedAt": "2021-06-04T17:09:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

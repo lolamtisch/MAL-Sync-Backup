@@ -1,0 +1,39 @@
+{
+  "altTitle": [],
+  "authors": [],
+  "id": 49927,
+  "malId": 19927,
+  "type": "manga",
+  "title": "Me, Him, and Her",
+  "url": "https://anilist.co/manga/49927",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19927.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T21:20:38.000Z",
+  "updatedAt": "2021-06-05T21:20:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fa6a46a3-5d93-4812-916f-a8ff8362b066": {
+        "authors": [
+          "Unknown"
+        ],
+        "identifier": "fa6a46a3-5d93-4812-916f-a8ff8362b066",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Me, Him and Her",
+        "url": "https://mangadex.org/title/fa6a46a3-5d93-4812-916f-a8ff8362b066",
+        "image": "https://uploads.mangadex.org/covers/fa6a46a3-5d93-4812-916f-a8ff8362b066/86cc374c-21a6-4cab-9ffe-9e043d24f74f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19927,
+        "aniId": 49927,
+        "createdAt": "2020-10-12T16:13:24.000Z",
+        "updatedAt": "2021-06-05T22:32:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

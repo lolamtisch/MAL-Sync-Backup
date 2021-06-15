@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Harlem Beat",
+    "ハーレムビート",
+    "Rebound"
+  ],
+  "authors": [
+    "Yuriko Nishiyama"
+  ],
+  "id": 30355,
+  "malId": 355,
+  "type": "manga",
+  "title": "Harlem Beat",
+  "url": "https://anilist.co/manga/30355",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30355-cekp81Hfq3sC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:31.000Z",
+  "updatedAt": "2021-05-20T14:35:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1eb43f62-df9f-4f45-9d9d-c48c241f8615": {
+        "authors": [
+          "Nishiyama Yuriko"
+        ],
+        "identifier": "1eb43f62-df9f-4f45-9d9d-c48c241f8615",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Harlem Beat",
+        "url": "https://mangadex.org/title/1eb43f62-df9f-4f45-9d9d-c48c241f8615",
+        "image": "https://uploads.mangadex.org/covers/1eb43f62-df9f-4f45-9d9d-c48c241f8615/6bad6d0b-1683-4504-b474-6bc547071af8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 355,
+        "aniId": 30355,
+        "createdAt": "2020-10-12T16:14:53.000Z",
+        "updatedAt": "2021-06-06T08:56:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zx918606": {
+        "authors": [],
+        "identifier": "zx918606",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Harlem Beat",
+        "url": "https://manganelo.com/manga/zx918606",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/15-zx918606.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 355,
+        "aniId": 30355,
+        "createdAt": "2020-10-12T16:26:34.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

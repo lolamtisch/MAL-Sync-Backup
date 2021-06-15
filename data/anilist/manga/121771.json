@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "こじ恋",
+    "自卑戀",
+    "Niepewne serca"
+  ],
+  "authors": [
+    "Tohru Tagura",
+    "Karin Takaoka"
+  ],
+  "id": 121771,
+  "malId": 110361,
+  "type": "manga",
+  "title": "Koji Koi",
+  "url": "https://anilist.co/manga/121771",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121771-zggjfI5S3nw0.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:14.000Z",
+  "updatedAt": "2021-06-05T05:19:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7134dd52-eaab-4f04-8f41-3ce8f77c85db": {
+        "authors": [
+          "Izawa Meguru",
+          "Tagura Tohru"
+        ],
+        "identifier": "7134dd52-eaab-4f04-8f41-3ce8f77c85db",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koji Koi",
+        "url": "https://mangadex.org/title/7134dd52-eaab-4f04-8f41-3ce8f77c85db",
+        "image": "https://uploads.mangadex.org/covers/7134dd52-eaab-4f04-8f41-3ce8f77c85db/31578389-83cb-431a-bc2e-0483bc7ba01c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110361,
+        "aniId": 121771,
+        "createdAt": "2020-10-12T16:10:59.000Z",
+        "updatedAt": "2021-06-05T08:45:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "at923824": {
+        "authors": [
+          "Tagura",
+          "Tohru"
+        ],
+        "identifier": "at923824",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koji Koi",
+        "url": "https://manganelo.com/manga/at923824",
+        "image": "https://avt.mkklcdnv6.com/50/y/21-1597896063.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110361,
+        "aniId": 121771,
+        "createdAt": "2020-11-13T21:23:06.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

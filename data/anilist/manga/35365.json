@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ハコイリ",
+    "My Dearest"
+  ],
+  "authors": [
+    "Cuvie"
+  ],
+  "id": 35365,
+  "malId": 5365,
+  "type": "manga",
+  "title": "Hakoiri",
+  "url": "https://anilist.co/manga/35365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35365-FrbOJJ8UDGhR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:28.000Z",
+  "updatedAt": "2021-05-20T14:39:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b4de5c14-bed1-4054-81f5-c294633f607f": {
+        "authors": [
+          "Cuvie"
+        ],
+        "identifier": "b4de5c14-bed1-4054-81f5-c294633f607f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakoiri",
+        "url": "https://mangadex.org/title/b4de5c14-bed1-4054-81f5-c294633f607f",
+        "image": "https://uploads.mangadex.org/covers/b4de5c14-bed1-4054-81f5-c294633f607f/42387c0a-0893-413d-af42-8c7bce07b280.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5365,
+        "aniId": 35365,
+        "createdAt": "2020-12-06T13:41:16.000Z",
+        "updatedAt": "2021-06-08T08:27:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

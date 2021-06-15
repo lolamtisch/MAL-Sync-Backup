@@ -1,0 +1,83 @@
+{
+  "altTitle": [
+    "プレゼントは真珠"
+  ],
+  "authors": [
+    "Ken Saitou"
+  ],
+  "id": 53532,
+  "malId": 23532,
+  "type": "manga",
+  "title": "Present wa Shinju",
+  "url": "https://anilist.co/manga/53532",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53532-c6O7tgqkdBeQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:38.000Z",
+  "updatedAt": "2021-06-03T18:20:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fce24f32-1694-4c7c-9cba-ffe907b382a0": {
+        "authors": [
+          "Kamata Kimiko"
+        ],
+        "identifier": "fce24f32-1694-4c7c-9cba-ffe907b382a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dream Eater",
+        "url": "https://mangadex.org/title/fce24f32-1694-4c7c-9cba-ffe907b382a0",
+        "image": "https://uploads.mangadex.org/covers/fce24f32-1694-4c7c-9cba-ffe907b382a0/0f62e4e6-fb2d-419b-89ee-a4535d543258.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23532,
+        "aniId": 53532,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T13:34:33.000Z",
+        "deletedAt": null
+      },
+      "23f1d1b1-5828-472d-964d-6e55c528f74b": {
+        "authors": [
+          "Saitou Ken"
+        ],
+        "identifier": "23f1d1b1-5828-472d-964d-6e55c528f74b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yume Kurai",
+        "url": "https://mangadex.org/title/23f1d1b1-5828-472d-964d-6e55c528f74b",
+        "image": "https://uploads.mangadex.org/covers/23f1d1b1-5828-472d-964d-6e55c528f74b/36c155e5-282a-4dcf-af3c-2dd2a27847d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23532,
+        "aniId": 53532,
+        "createdAt": "2020-10-12T16:04:44.000Z",
+        "updatedAt": "2021-06-02T23:08:43.000Z",
+        "deletedAt": null
+      },
+      "9840348d-ef50-4490-bf35-7950df51b208": {
+        "authors": [
+          "Saitou Ken"
+        ],
+        "identifier": "9840348d-ef50-4490-bf35-7950df51b208",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Present wa Shinju",
+        "url": "https://mangadex.org/title/9840348d-ef50-4490-bf35-7950df51b208",
+        "image": "https://uploads.mangadex.org/covers/9840348d-ef50-4490-bf35-7950df51b208/85238a99-96d6-4990-b5e7-dcc73ebbc37d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23532,
+        "aniId": 53532,
+        "createdAt": "2020-10-12T16:06:15.000Z",
+        "updatedAt": "2021-06-03T18:23:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

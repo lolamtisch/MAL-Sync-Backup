@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "はないばら",
+    "Hana-Ibara",
+    "Dirge"
+  ],
+  "authors": [
+    "Mio Kawahara"
+  ],
+  "id": 92074,
+  "malId": 74821,
+  "type": "manga",
+  "title": "Hanaibara",
+  "url": "https://anilist.co/manga/92074",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92074-LfZmwzUCQs49.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T10:21:09.000Z",
+  "updatedAt": "2021-06-04T10:21:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5cda39a8-8685-4003-9e49-2920c735fa64": {
+        "authors": [
+          "KAWAHARA Mio"
+        ],
+        "identifier": "5cda39a8-8685-4003-9e49-2920c735fa64",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanaibara",
+        "url": "https://mangadex.org/title/5cda39a8-8685-4003-9e49-2920c735fa64",
+        "image": "https://uploads.mangadex.org/covers/5cda39a8-8685-4003-9e49-2920c735fa64/5a3a2b37-c5f9-4c62-9bfb-b527ecb2f91e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74821,
+        "aniId": 92074,
+        "createdAt": "2020-10-12T16:08:26.000Z",
+        "updatedAt": "2021-06-04T12:50:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

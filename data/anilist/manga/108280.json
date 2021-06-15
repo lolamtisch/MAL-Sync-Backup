@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "薔薇達ー火の鳥ー",
+    "Baratachi: Hi no Tori",
+    "Roses: The Fire Bird",
+    "Bara-tachi"
+  ],
+  "authors": [
+    "Hideko Mizuno"
+  ],
+  "id": 108280,
+  "malId": null,
+  "type": "manga",
+  "title": "Baratachi: Fire Bird",
+  "url": "https://anilist.co/manga/108280",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108280-cJ33N4l4cJWv.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T13:22:09.000Z",
+  "updatedAt": "2021-06-04T13:22:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22b68c71-2478-4484-a00f-cbb056db587d": {
+        "authors": [
+          "Mizuno Hideko"
+        ],
+        "identifier": "22b68c71-2478-4484-a00f-cbb056db587d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Roses - The Firebird",
+        "url": "https://mangadex.org/title/22b68c71-2478-4484-a00f-cbb056db587d",
+        "image": "https://uploads.mangadex.org/covers/22b68c71-2478-4484-a00f-cbb056db587d/06cd3054-5f37-4494-ac5c-a57fdd39f5f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 108280,
+        "createdAt": "2020-10-12T16:08:49.000Z",
+        "updatedAt": "2021-06-04T13:25:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

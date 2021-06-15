@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "病月"
+  ],
+  "authors": [
+    "Mochi Au Lait",
+    "Kaidou Minoda"
+  ],
+  "id": 113682,
+  "malId": null,
+  "type": "manga",
+  "title": "Yamitsuki",
+  "url": "https://anilist.co/manga/113682",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113682-i6ifUlruBVpO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T12:06:36.000Z",
+  "updatedAt": "2021-06-07T12:06:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "af2a07a8-0662-4774-ad77-9191b4d2527e": {
+        "authors": [
+          "Minoda Kaidou",
+          "Mochi Au Lait"
+        ],
+        "identifier": "af2a07a8-0662-4774-ad77-9191b4d2527e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yamitsuki",
+        "url": "https://mangadex.org/title/af2a07a8-0662-4774-ad77-9191b4d2527e",
+        "image": "https://uploads.mangadex.org/covers/af2a07a8-0662-4774-ad77-9191b4d2527e/079f6b4c-9234-4b87-a050-37876b2f99c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113682,
+        "createdAt": "2020-10-12T16:17:52.000Z",
+        "updatedAt": "2021-06-07T13:41:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "レイニーシーズン"
+  ],
+  "authors": [
+    "Shino Shinomiya"
+  ],
+  "id": 71783,
+  "malId": 41783,
+  "type": "manga",
+  "title": "Rainy Season",
+  "url": "https://anilist.co/manga/71783",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71783-h0ICDKUAZHQ0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:50.000Z",
+  "updatedAt": "2021-05-20T14:48:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aec39b35-04a1-41a3-8cd8-99a30626c609": {
+        "authors": [
+          "Xun Xun"
+        ],
+        "identifier": "aec39b35-04a1-41a3-8cd8-99a30626c609",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rainy Season's Guest",
+        "url": "https://mangadex.org/title/aec39b35-04a1-41a3-8cd8-99a30626c609",
+        "image": "https://uploads.mangadex.org/covers/aec39b35-04a1-41a3-8cd8-99a30626c609/3dff20dd-7f54-4479-9b06-64c77c5c5dfe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41783,
+        "aniId": 71783,
+        "createdAt": "2020-10-12T16:17:23.000Z",
+        "updatedAt": "2021-06-07T07:09:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

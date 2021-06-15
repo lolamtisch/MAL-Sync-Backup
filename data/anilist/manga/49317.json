@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "天乞"
+  ],
+  "authors": [
+    "Kobato Teika"
+  ],
+  "id": 49317,
+  "malId": 19317,
+  "type": "manga",
+  "title": "Amagoi",
+  "url": "https://anilist.co/manga/49317",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19317.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:18.000Z",
+  "updatedAt": "2021-05-20T14:45:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "081e148a-218e-44af-bbbf-b8de0eefba2c": {
+        "authors": [
+          "Teika Kobato"
+        ],
+        "identifier": "081e148a-218e-44af-bbbf-b8de0eefba2c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Amagoi",
+        "url": "https://mangadex.org/title/081e148a-218e-44af-bbbf-b8de0eefba2c",
+        "image": "https://uploads.mangadex.org/covers/081e148a-218e-44af-bbbf-b8de0eefba2c/6a9ac707-eb8d-4cfb-96fb-0f62b7c8b579.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19317,
+        "aniId": 49317,
+        "createdAt": "2020-10-12T16:02:36.000Z",
+        "updatedAt": "2021-06-02T08:12:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

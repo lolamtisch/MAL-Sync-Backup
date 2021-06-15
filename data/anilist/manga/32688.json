@@ -1,0 +1,61 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yutta Narumi"
+  ],
+  "id": 32688,
+  "malId": 2688,
+  "type": "manga",
+  "title": "Karappo na Bokutachi",
+  "url": "https://anilist.co/manga/32688",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2688.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "karappo_na_bokutachi": {
+        "authors": [],
+        "identifier": "karappo_na_bokutachi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Karappo Na Bokutachi",
+        "url": "https://manganelo.com/manga/karappo_na_bokutachi",
+        "image": "https://avt.mkklcdnv6.com/5/y/13-1583487941.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2688,
+        "aniId": 32688,
+        "createdAt": "2020-10-12T16:23:50.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "8e54b6d3-ba91-4a17-a20f-5d618a8eeeb3": {
+        "authors": [
+          "Narumi Yutta"
+        ],
+        "identifier": "8e54b6d3-ba91-4a17-a20f-5d618a8eeeb3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Karappo na Bokutachi",
+        "url": "https://mangadex.org/title/8e54b6d3-ba91-4a17-a20f-5d618a8eeeb3",
+        "image": "https://uploads.mangadex.org/covers/8e54b6d3-ba91-4a17-a20f-5d618a8eeeb3/923339d7-3022-47c5-b657-83a539725f23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2688,
+        "aniId": 32688,
+        "createdAt": "2020-11-17T06:14:52.000Z",
+        "updatedAt": "2021-06-08T07:26:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

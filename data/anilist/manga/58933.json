@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "たまゆら"
+  ],
+  "authors": [
+    "Junichi Satou",
+    "Momo"
+  ],
+  "id": 58933,
+  "malId": 28933,
+  "type": "manga",
+  "title": "Tamayura",
+  "url": "https://anilist.co/manga/58933",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28933.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:36.000Z",
+  "updatedAt": "2021-05-20T14:47:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d74e1778-699c-4ee7-a739-7c0ee5b99a68": {
+        "authors": [
+          "Momo",
+          "Junichi Sato"
+        ],
+        "identifier": "d74e1778-699c-4ee7-a739-7c0ee5b99a68",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tamayura",
+        "url": "https://mangadex.org/title/d74e1778-699c-4ee7-a739-7c0ee5b99a68",
+        "image": "https://uploads.mangadex.org/covers/d74e1778-699c-4ee7-a739-7c0ee5b99a68/c82a2baa-9929-40f7-8a6b-8ebc301695b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28933,
+        "aniId": 58933,
+        "createdAt": "2020-10-12T16:03:04.000Z",
+        "updatedAt": "2021-06-02T11:35:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

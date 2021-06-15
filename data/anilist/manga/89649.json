@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "ぎょらん",
+    "Roe"
+  ],
+  "authors": [],
+  "id": 89649,
+  "malId": 63043,
+  "type": "manga",
+  "title": "Gyoran",
+  "url": "https://anilist.co/manga/89649",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89649-SjXxpQhmA9Zi.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:47.000Z",
+  "updatedAt": "2021-05-20T14:50:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "05953f79-61b7-4ffb-bd45-28d668912675": {
+        "authors": [
+          "Tono"
+        ],
+        "identifier": "05953f79-61b7-4ffb-bd45-28d668912675",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Roe",
+        "url": "https://mangadex.org/title/05953f79-61b7-4ffb-bd45-28d668912675",
+        "image": "https://uploads.mangadex.org/covers/05953f79-61b7-4ffb-bd45-28d668912675/e01203fe-fe57-48d2-bbf4-b7945f8c8efc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63043,
+        "aniId": 89649,
+        "createdAt": "2020-10-12T16:06:57.000Z",
+        "updatedAt": "2021-06-03T23:22:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

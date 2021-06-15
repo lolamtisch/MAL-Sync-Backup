@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Boys Be...",
+    "ボーイズ・ビー"
+  ],
+  "id": 105,
+  "type": "anime",
+  "title": "Boys Be...",
+  "url": "https://myanimelist.net/anime/105/Boys_Be",
+  "image": "https://cdn.myanimelist.net/images/anime/1/2223.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:37:59.000Z",
+  "updatedAt": "2021-05-14T07:25:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "57zj": {
+        "identifier": "57zj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boys Be... (Dub)",
+        "url": "https://9anime.ru/watch/boys-be-dub.57zj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3L92B4zb-8A/WK75tdim1_I/AAAAAAABdwk/a9SnCreCnQw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105,
+        "aniId": 105,
+        "createdAt": "2020-10-12T15:50:25.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "qnw5": {
+        "identifier": "qnw5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Boys Be...",
+        "url": "https://9anime.ru/watch/boys-be.qnw5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3Ik8levpgUE/V7KJveJuBiI/AAAAAAAA3W4/PEri6ZSJazk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105,
+        "aniId": 105,
+        "createdAt": "2020-10-12T15:55:10.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "boys-be-dub": {
+        "identifier": "boys-be-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Boys Be... (Dub)",
+        "url": "https://gogoanime.ai/category/boys-be-dub",
+        "image": "https://gogocdn.net/cover/boys-be-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105,
+        "aniId": 105,
+        "createdAt": "2021-04-20T16:57:00.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "boys-be": {
+        "identifier": "boys-be",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Boys Be…",
+        "url": "https://gogoanime.ai/category/boys-be",
+        "image": "https://gogocdn.net/images/anime/B/boys-be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 105,
+        "aniId": 105,
+        "createdAt": "2021-04-20T16:57:09.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

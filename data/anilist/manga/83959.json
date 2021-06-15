@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "姫はじめ",
+    "Sex Education",
+    "Sleeping Beauty"
+  ],
+  "authors": [
+    "Chunrouzan"
+  ],
+  "id": 83959,
+  "malId": 53959,
+  "type": "manga",
+  "title": "Hime Hajime",
+  "url": "https://anilist.co/manga/83959",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/53959.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:49:59.000Z",
+  "updatedAt": "2021-05-20T14:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d3c4087-89f9-47fb-9a20-fbc4c79b18ab": {
+        "authors": [
+          "Chunrouzan"
+        ],
+        "identifier": "9d3c4087-89f9-47fb-9a20-fbc4c79b18ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hime Hajime",
+        "url": "https://mangadex.org/title/9d3c4087-89f9-47fb-9a20-fbc4c79b18ab",
+        "image": "https://uploads.mangadex.org/covers/9d3c4087-89f9-47fb-9a20-fbc4c79b18ab/2477282b-8680-4e91-9a81-5d344c726141.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53959,
+        "aniId": 83959,
+        "createdAt": "2020-10-12T16:19:45.000Z",
+        "updatedAt": "2021-06-07T22:34:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

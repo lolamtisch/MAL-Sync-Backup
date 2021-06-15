@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Summer Storm!",
+    "夏のあらし!"
+  ],
+  "authors": [
+    "Kobayashi, Jin"
+  ],
+  "id": 3728,
+  "type": "manga",
+  "title": "Natsu no Arashi!",
+  "url": "https://myanimelist.net/manga/3728/Natsu_no_Arashi",
+  "image": "https://cdn.myanimelist.net/images/manga/2/55599.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:53.000Z",
+  "updatedAt": "2021-04-28T08:50:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "89ed5db9-c9e5-4a90-b29b-87fbca7a6f86": {
+        "authors": [
+          "Kobayashi Jin"
+        ],
+        "identifier": "89ed5db9-c9e5-4a90-b29b-87fbca7a6f86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Natsu no Arashi!",
+        "url": "https://mangadex.org/title/89ed5db9-c9e5-4a90-b29b-87fbca7a6f86",
+        "image": "https://uploads.mangadex.org/covers/89ed5db9-c9e5-4a90-b29b-87fbca7a6f86/cc9da940-777d-4f42-9f8b-8a348fcca768.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3728,
+        "aniId": 33728,
+        "createdAt": "2020-10-12T16:04:23.000Z",
+        "updatedAt": "2021-06-02T20:41:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "natsu-no-arashi": {
+        "authors": [
+          "KOBAYASHI Jin"
+        ],
+        "identifier": "natsu-no-arashi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Natsu no Arashi",
+        "url": "https://mangasee123.com/manga/Natsu-No-Arashi",
+        "image": "https://cover.nep.li/cover/Natsu-No-Arashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3728,
+        "aniId": 33728,
+        "createdAt": "2021-04-30T05:18:33.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

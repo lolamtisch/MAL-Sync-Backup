@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Animal Academy",
+    "はこぶね白書"
+  ],
+  "authors": [
+    "Asa Kuwayoshi"
+  ],
+  "id": 34119,
+  "malId": 4119,
+  "type": "manga",
+  "title": "Hakobune Hakusho",
+  "url": "https://anilist.co/manga/34119",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4119.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:25.000Z",
+  "updatedAt": "2021-05-20T14:38:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ea3f9663-d872-4221-9ca0-c1fba45c2c14": {
+        "authors": [
+          "Fujino Moyamu"
+        ],
+        "identifier": "ea3f9663-d872-4221-9ca0-c1fba45c2c14",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakobune Hakusho",
+        "url": "https://mangadex.org/title/ea3f9663-d872-4221-9ca0-c1fba45c2c14",
+        "image": "https://uploads.mangadex.org/covers/ea3f9663-d872-4221-9ca0-c1fba45c2c14/b163af11-b58b-4142-9a9c-4140fd7aba31.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4119,
+        "aniId": 34119,
+        "createdAt": "2020-10-12T16:11:37.000Z",
+        "updatedAt": "2021-06-05T09:52:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hakobune_hakusho": {
+        "authors": [],
+        "identifier": "hakobune_hakusho",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hakobune Hakusho",
+        "url": "https://manganelo.com/manga/hakobune_hakusho",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11686-hakobune_hakusho.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4119,
+        "aniId": 34119,
+        "createdAt": "2020-10-12T16:23:14.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

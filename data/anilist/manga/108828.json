@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "クダンノゴトシ"
+  ],
+  "authors": [
+    "Jun Watanabe"
+  ],
+  "id": 108828,
+  "malId": 92369,
+  "type": "manga",
+  "title": "Kudan no Gotoshi",
+  "url": "https://anilist.co/manga/108828",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108828-tijHdGbELhB0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:38.000Z",
+  "updatedAt": "2021-05-20T14:53:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2907909f-ee05-4fd5-b1c7-30bb11b0ac95": {
+        "authors": [
+          "Watanabe Jun"
+        ],
+        "identifier": "2907909f-ee05-4fd5-b1c7-30bb11b0ac95",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kudan no Gotoshi",
+        "url": "https://mangadex.org/title/2907909f-ee05-4fd5-b1c7-30bb11b0ac95",
+        "image": "https://uploads.mangadex.org/covers/2907909f-ee05-4fd5-b1c7-30bb11b0ac95/7bf2aecc-efbf-4aa9-ad6e-8e2811fab6c2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92369,
+        "aniId": 108828,
+        "createdAt": "2020-10-12T16:15:22.000Z",
+        "updatedAt": "2021-06-06T13:05:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pu918807": {
+        "authors": [],
+        "identifier": "pu918807",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kudan No Gotoshi",
+        "url": "https://manganelo.com/manga/pu918807",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/210-pu918807.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92369,
+        "aniId": 108828,
+        "createdAt": "2020-10-12T16:24:55.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kudan_no_gotoshi": {
+        "authors": [
+          "WATANABE Jun"
+        ],
+        "identifier": "kudan_no_gotoshi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kudan no Gotoshi",
+        "url": "https://fanfox.net/manga/kudan_no_gotoshi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30190/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92369,
+        "aniId": 108828,
+        "createdAt": "2021-03-20T18:05:46.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

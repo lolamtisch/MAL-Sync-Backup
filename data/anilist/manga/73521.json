@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ショショリカ",
+    "Shiyo Shiyo Rika",
+    "Shyo Shyo Rika"
+  ],
+  "authors": [
+    "Takumi Uesugi"
+  ],
+  "id": 73521,
+  "malId": 43521,
+  "type": "manga",
+  "title": "Sho Sho Rika",
+  "url": "https://anilist.co/manga/73521",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx73521-sXbsNiTHTeQ6.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T13:19:58.000Z",
+  "updatedAt": "2021-06-03T13:19:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1377ee5e-828d-4efe-a2c6-5122c8faf8b5": {
+        "authors": [
+          "Uesugi Takumi"
+        ],
+        "identifier": "1377ee5e-828d-4efe-a2c6-5122c8faf8b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shyo Shyo Rika",
+        "url": "https://mangadex.org/title/1377ee5e-828d-4efe-a2c6-5122c8faf8b5",
+        "image": "https://uploads.mangadex.org/covers/1377ee5e-828d-4efe-a2c6-5122c8faf8b5/db2285c7-83be-4657-ab26-d6c414e8af92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43521,
+        "aniId": 73521,
+        "createdAt": "2020-10-12T16:05:30.000Z",
+        "updatedAt": "2021-06-03T15:30:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Gichi Gichi Kun",
+    "ギチギチくん"
+  ],
+  "authors": [
+    "Suehiro Maruo",
+    "Miyako Slocombe"
+  ],
+  "id": 44259,
+  "malId": 14259,
+  "type": "manga",
+  "title": "Gichi Gichi-Kun",
+  "url": "https://anilist.co/manga/44259",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44259-P7hX7Ft0a1HE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:45.000Z",
+  "updatedAt": "2021-05-20T14:42:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b8db8f7b-8dca-4518-a56e-9bbde31f7383": {
+        "authors": [
+          "Maruo Suehiro"
+        ],
+        "identifier": "b8db8f7b-8dca-4518-a56e-9bbde31f7383",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gichi Gichi-kun",
+        "url": "https://mangadex.org/title/b8db8f7b-8dca-4518-a56e-9bbde31f7383",
+        "image": "https://uploads.mangadex.org/covers/b8db8f7b-8dca-4518-a56e-9bbde31f7383/91ce6abc-291c-4537-912f-e4545df4e325.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14259,
+        "aniId": 44259,
+        "createdAt": "2020-10-12T16:03:01.000Z",
+        "updatedAt": "2021-06-02T11:09:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gichi_gichi": {
+        "authors": [],
+        "identifier": "gichi_gichi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gichi Gichi",
+        "url": "https://manganelo.com/manga/gichi_gichi",
+        "image": "https://avt.mkklcdnv6.com/47/a/5-1583473730.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14259,
+        "aniId": 44259,
+        "createdAt": "2020-10-12T16:23:06.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

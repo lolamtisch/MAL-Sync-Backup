@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "华氏99度",
+    "99 Degrees Fahrenheit"
+  ],
+  "authors": [
+    "Xue Yang"
+  ],
+  "id": 115300,
+  "malId": null,
+  "type": "manga",
+  "title": "Huashi 99 Du",
+  "url": "https://anilist.co/manga/115300",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b115300-WbCjv1eah7ZG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T11:19:07.000Z",
+  "updatedAt": "2021-06-06T11:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb96dd8d-d97f-4471-93c7-e546ca154929": {
+        "authors": [
+          "Xue Yang"
+        ],
+        "identifier": "cb96dd8d-d97f-4471-93c7-e546ca154929",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "99 Degrees Fahrenheit",
+        "url": "https://mangadex.org/title/cb96dd8d-d97f-4471-93c7-e546ca154929",
+        "image": "https://uploads.mangadex.org/covers/cb96dd8d-d97f-4471-93c7-e546ca154929/f16cbd9b-8dec-4a35-a660-74d7b6628c02.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 115300,
+        "createdAt": "2020-10-12T16:15:08.000Z",
+        "updatedAt": "2021-06-06T13:38:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

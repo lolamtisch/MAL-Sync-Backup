@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "蹴球少女",
+    "Football Girl",
+    "Soccer Girl"
+  ],
+  "authors": [
+    "Hiroaki Wakamiya"
+  ],
+  "id": 50874,
+  "malId": 20874,
+  "type": "manga",
+  "title": "Shuukyuu Shoujo",
+  "url": "https://anilist.co/manga/50874",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50874-URmqbPWKKoyI.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:35.000Z",
+  "updatedAt": "2021-05-20T14:45:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b9b58c6c-a31a-4c51-9da8-4f2a661ea150": {
+        "authors": [
+          "Wakamiya Hiroaki"
+        ],
+        "identifier": "b9b58c6c-a31a-4c51-9da8-4f2a661ea150",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shuukyuu Shoujo",
+        "url": "https://mangadex.org/title/b9b58c6c-a31a-4c51-9da8-4f2a661ea150",
+        "image": "https://uploads.mangadex.org/covers/b9b58c6c-a31a-4c51-9da8-4f2a661ea150/5ea9a89a-885f-488e-addb-5565707a55d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20874,
+        "aniId": 50874,
+        "createdAt": "2020-10-12T16:02:39.000Z",
+        "updatedAt": "2021-06-02T08:34:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shuukyuu_shoujo": {
+        "authors": [
+          "Wakamiya",
+          "Hiroaki"
+        ],
+        "identifier": "shuukyuu_shoujo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shuukyuu Shoujo",
+        "url": "https://manganelo.com/manga/shuukyuu_shoujo",
+        "image": "https://avt.mkklcdnv6temp.com/28/r/1-1583464817.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20874,
+        "aniId": 50874,
+        "createdAt": "2021-04-10T20:51:42.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

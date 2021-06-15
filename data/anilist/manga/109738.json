@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ぎゃんぷりん",
+    "Gambling Princess"
+  ],
+  "authors": [
+    "Rensuke Oshikiri"
+  ],
+  "id": 109738,
+  "malId": 100367,
+  "type": "manga",
+  "title": "GamPrin",
+  "url": "https://anilist.co/manga/109738",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109738-HpSCvq6IHqQT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T10:20:29.000Z",
+  "updatedAt": "2021-06-05T10:20:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b1fcdeb-1d39-4f21-a687-6d34e4c52c82": {
+        "authors": [
+          "Oshikiri Rensuke"
+        ],
+        "identifier": "7b1fcdeb-1d39-4f21-a687-6d34e4c52c82",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gamprin",
+        "url": "https://mangadex.org/title/7b1fcdeb-1d39-4f21-a687-6d34e4c52c82",
+        "image": "https://uploads.mangadex.org/covers/7b1fcdeb-1d39-4f21-a687-6d34e4c52c82/918effb9-9041-4ab2-96dd-e82214fb8082.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100367,
+        "aniId": 109738,
+        "createdAt": "2020-10-12T16:11:38.000Z",
+        "updatedAt": "2021-06-05T12:45:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

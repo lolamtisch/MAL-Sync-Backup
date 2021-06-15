@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Tokyo ESP",
+    "東京ESP"
+  ],
+  "authors": [
+    "Segawa, Hajime"
+  ],
+  "id": 18619,
+  "type": "manga",
+  "title": "Tokyo ESP",
+  "url": "https://myanimelist.net/manga/18619/Tokyo_ESP",
+  "image": "https://cdn.myanimelist.net/images/manga/3/105767.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:37.000Z",
+  "updatedAt": "2021-04-09T05:21:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "efa1976e-1364-44d2-8225-980691ecedd6": {
+        "authors": [
+          "Segawa Hajime"
+        ],
+        "identifier": "efa1976e-1364-44d2-8225-980691ecedd6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo ESP",
+        "url": "https://mangadex.org/title/efa1976e-1364-44d2-8225-980691ecedd6",
+        "image": "https://uploads.mangadex.org/covers/efa1976e-1364-44d2-8225-980691ecedd6/d5c13e83-d271-4ff1-bc51-b7dec1e3f9c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18619,
+        "aniId": 48619,
+        "createdAt": "2020-10-12T16:02:49.000Z",
+        "updatedAt": "2021-06-02T09:39:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tokyo-e-s-p": {
+        "authors": [
+          "SEGAWA Hajime"
+        ],
+        "identifier": "tokyo-e-s-p",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tokyo ESP",
+        "url": "https://mangasee123.com/manga/Tokyo-E-S-P",
+        "image": "https://cover.nep.li/cover/Tokyo-E-S-P.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18619,
+        "aniId": 48619,
+        "createdAt": "2020-12-28T03:23:23.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tokyo_esp": {
+        "authors": [
+          "SEGAWA Hajime"
+        ],
+        "identifier": "tokyo_esp",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Toukyou ESP",
+        "url": "https://fanfox.net/manga/tokyo_esp/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7517/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 18619,
+        "aniId": 48619,
+        "createdAt": "2021-04-09T05:21:08.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

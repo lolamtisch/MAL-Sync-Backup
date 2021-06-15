@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "悪魔は微笑む",
+    "The Demon Smiles",
+    "The Devil Smiles"
+  ],
+  "authors": [
+    "Hiro Madarame"
+  ],
+  "id": 49638,
+  "malId": 19638,
+  "type": "manga",
+  "title": "Akuma wa Hohoemu",
+  "url": "https://anilist.co/manga/49638",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx49638-iBhkEzpf54IC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:23.000Z",
+  "updatedAt": "2021-05-20T14:45:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1787652f-685d-46dd-8ac7-36a7697c80ee": {
+        "authors": [
+          "Madarame Hiro"
+        ],
+        "identifier": "1787652f-685d-46dd-8ac7-36a7697c80ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akuma wa Hohoemu",
+        "url": "https://mangadex.org/title/1787652f-685d-46dd-8ac7-36a7697c80ee",
+        "image": "https://uploads.mangadex.org/covers/1787652f-685d-46dd-8ac7-36a7697c80ee/89acc43e-863c-4987-af41-442206f4b409.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19638,
+        "aniId": 49638,
+        "createdAt": "2020-10-12T16:10:05.000Z",
+        "updatedAt": "2021-06-04T22:09:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

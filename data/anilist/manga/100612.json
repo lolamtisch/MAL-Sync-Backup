@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "マイ・リトル・ヴァンパイア"
+  ],
+  "authors": [
+    "Maki Masaki"
+  ],
+  "id": 100612,
+  "malId": 110989,
+  "type": "manga",
+  "title": "My Little Vampire",
+  "url": "https://anilist.co/manga/100612",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100612-w8xgkEXFOnQk.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:56:17.000Z",
+  "updatedAt": "2021-06-02T16:00:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4b6c4743-0891-4ac1-8007-c30d89d457d1": {
+        "authors": [
+          "Masaki Maki"
+        ],
+        "identifier": "4b6c4743-0891-4ac1-8007-c30d89d457d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Little Vampire",
+        "url": "https://mangadex.org/title/4b6c4743-0891-4ac1-8007-c30d89d457d1",
+        "image": "https://uploads.mangadex.org/covers/4b6c4743-0891-4ac1-8007-c30d89d457d1/2a018677-c39e-4448-a8ff-8da56fc40f4c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110989,
+        "aniId": 100612,
+        "createdAt": "2020-10-12T16:11:06.000Z",
+        "updatedAt": "2021-06-05T05:42:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

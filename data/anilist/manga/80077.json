@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "百合遊戯",
+    "Yuri Game"
+  ],
+  "authors": [
+    "CHI-RAN"
+  ],
+  "id": 80077,
+  "malId": 50077,
+  "type": "manga",
+  "title": "Yuri Yuugi",
+  "url": "https://anilist.co/manga/80077",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx80077-UUvhPLkiDWZl.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:46.000Z",
+  "updatedAt": "2021-05-20T14:49:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1ca4a952-d888-407a-8ba7-fef5a5d17e25": {
+        "authors": [
+          "Chi-Ran"
+        ],
+        "identifier": "1ca4a952-d888-407a-8ba7-fef5a5d17e25",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuri Game",
+        "url": "https://mangadex.org/title/1ca4a952-d888-407a-8ba7-fef5a5d17e25",
+        "image": "https://uploads.mangadex.org/covers/1ca4a952-d888-407a-8ba7-fef5a5d17e25/06c494c6-4df7-4eef-9a78-f7dc9c25fcd0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50077,
+        "aniId": 80077,
+        "createdAt": "2020-10-12T16:06:14.000Z",
+        "updatedAt": "2021-06-03T18:13:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "あたしのバンビ",
+    "Atashi no Banbi"
+  ],
+  "authors": [
+    "Akira Ozaki"
+  ],
+  "id": 67069,
+  "malId": 37069,
+  "type": "manga",
+  "title": "Atashi no Bambi",
+  "url": "https://anilist.co/manga/67069",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx67069-K2LsN6flEI7C.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:30.000Z",
+  "updatedAt": "2021-05-20T14:48:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ef80bbd-7593-448d-bf4b-726f91f3e53f": {
+        "authors": [
+          "OZAKI Akira"
+        ],
+        "identifier": "5ef80bbd-7593-448d-bf4b-726f91f3e53f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Atashi no Banbi",
+        "url": "https://mangadex.org/title/5ef80bbd-7593-448d-bf4b-726f91f3e53f",
+        "image": "https://uploads.mangadex.org/covers/5ef80bbd-7593-448d-bf4b-726f91f3e53f/43789b1d-46de-48b1-9d16-9fcf1c5c7695.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37069,
+        "aniId": 67069,
+        "createdAt": "2020-10-12T16:04:24.000Z",
+        "updatedAt": "2021-06-02T20:49:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "atashi_no_banbi": {
+        "authors": [],
+        "identifier": "atashi_no_banbi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Atashi No Banbi",
+        "url": "https://manganelo.com/manga/atashi_no_banbi",
+        "image": "https://avt.mkklcdnv6.com/10/m/4-1583470095.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37069,
+        "aniId": 67069,
+        "createdAt": "2020-10-12T16:22:10.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "atashi-no-banbi": {
+        "authors": [
+          "OZAKI Akira"
+        ],
+        "identifier": "atashi-no-banbi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Atashi no Banbi",
+        "url": "https://mangasee123.com/manga/Atashi-No-Banbi",
+        "image": "https://cover.nep.li/cover/Atashi-No-Banbi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37069,
+        "aniId": 67069,
+        "createdAt": "2021-05-11T15:18:25.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

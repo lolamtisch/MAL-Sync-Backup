@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Pixie Pop",
+    "ゴックン! ぷーちょ",
+    "Pixie Pop: Gokkun Pucho"
+  ],
+  "authors": [
+    "Ema Tooyama"
+  ],
+  "id": 30329,
+  "malId": 329,
+  "type": "manga",
+  "title": "Gokkun! Pucho",
+  "url": "https://anilist.co/manga/30329",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30329-sP379QcUaJho.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T09:25:22.000Z",
+  "updatedAt": "2021-06-03T09:25:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b591c68-61a0-4402-af87-30a1ecb5a6c4": {
+        "authors": [
+          "TOOYAMA Ema"
+        ],
+        "identifier": "7b591c68-61a0-4402-af87-30a1ecb5a6c4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gokkun! Pucho",
+        "url": "https://mangadex.org/title/7b591c68-61a0-4402-af87-30a1ecb5a6c4",
+        "image": "https://uploads.mangadex.org/covers/7b591c68-61a0-4402-af87-30a1ecb5a6c4/c1050f6e-d09d-494b-9cdb-3a79e9f172f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 329,
+        "aniId": 30329,
+        "createdAt": "2020-10-12T16:04:58.000Z",
+        "updatedAt": "2021-06-03T15:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Mahiro Satou"
+  ],
+  "id": 61313,
+  "malId": 31313,
+  "type": "manga",
+  "title": "Fizon Core",
+  "url": "https://anilist.co/manga/61313",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31313.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:46.000Z",
+  "updatedAt": "2021-05-20T14:47:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "059a37a9-844f-4fe0-8269-974dc9c338cc": {
+        "authors": [
+          "SATOU Mahiro"
+        ],
+        "identifier": "059a37a9-844f-4fe0-8269-974dc9c338cc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fizon Core",
+        "url": "https://mangadex.org/title/059a37a9-844f-4fe0-8269-974dc9c338cc",
+        "image": "https://uploads.mangadex.org/covers/059a37a9-844f-4fe0-8269-974dc9c338cc/044e211f-1eed-4c22-b0ea-4869a429ea6b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31313,
+        "aniId": 61313,
+        "createdAt": "2020-10-12T16:03:15.000Z",
+        "updatedAt": "2021-06-02T12:39:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

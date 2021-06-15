@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "Nae ID neun Gangnam Miin",
+    "내 ID는 강남미인"
+  ],
+  "authors": [
+    "Gi, Maeng-gi"
+  ],
+  "id": 118736,
+  "type": "manga",
+  "title": "My ID Is Gangnam Beauty",
+  "url": "https://myanimelist.net/manga/118736/My_ID_Is_Gangnam_Beauty",
+  "image": "https://cdn.myanimelist.net/images/manga/2/222337.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:54.000Z",
+  "updatedAt": "2021-06-04T21:20:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb22200f-2167-4dbe-8e4e-3f2966437771": {
+        "authors": [
+          "Gi Meng-gi"
+        ],
+        "identifier": "eb22200f-2167-4dbe-8e4e-3f2966437771",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My ID Is Gangnam Beauty",
+        "url": "https://mangadex.org/title/eb22200f-2167-4dbe-8e4e-3f2966437771",
+        "image": "https://uploads.mangadex.org/covers/eb22200f-2167-4dbe-8e4e-3f2966437771/19601584-4c08-4d75-8a36-2a5335e19d69.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 118736,
+        "aniId": 102904,
+        "createdAt": "2020-10-12T16:09:55.000Z",
+        "updatedAt": "2021-06-04T22:18:57.000Z",
+        "deletedAt": null
+      },
+      "97171bdf-dc27-44ca-a6f3-6bb455fe84c7": {
+        "authors": [
+          "Lee Kyung-Min",
+          "Song Joon-Hyuk"
+        ],
+        "identifier": "97171bdf-dc27-44ca-a6f3-6bb455fe84c7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gangnam Dokkaebi",
+        "url": "https://mangadex.org/title/97171bdf-dc27-44ca-a6f3-6bb455fe84c7",
+        "image": "https://uploads.mangadex.org/covers/97171bdf-dc27-44ca-a6f3-6bb455fe84c7/c5333f6f-af1f-42b3-958b-1dabefbbad46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118736,
+        "aniId": 102904,
+        "createdAt": "2020-10-12T16:18:50.000Z",
+        "updatedAt": "2021-06-07T20:43:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "my_id_is_gangnam_beauty": {
+        "authors": [],
+        "identifier": "my_id_is_gangnam_beauty",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Id Is Gangnam Beauty",
+        "url": "https://manganelo.com/manga/my_id_is_gangnam_beauty",
+        "image": "https://avt.mkklcdnv6.com/6/b/14-1583489926.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118736,
+        "aniId": 102904,
+        "createdAt": "2020-10-12T16:24:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

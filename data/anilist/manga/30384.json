@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "Kamikaze",
+    "神・風",
+    "神風",
+    "Kami-Kaze",
+    "Kamikaze"
+  ],
+  "authors": [
+    "Satoshi Shiki"
+  ],
+  "id": 30384,
+  "malId": 384,
+  "type": "manga",
+  "title": "Kami Kaze",
+  "url": "https://anilist.co/manga/30384",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30384-TCL8W7mJrzNA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:31.000Z",
+  "updatedAt": "2021-05-20T14:35:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "93a67cf1-949a-4a89-b66a-da131fe2fea3": {
+        "authors": [
+          "Shiki Satoshi"
+        ],
+        "identifier": "93a67cf1-949a-4a89-b66a-da131fe2fea3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamikaze",
+        "url": "https://mangadex.org/title/93a67cf1-949a-4a89-b66a-da131fe2fea3",
+        "image": "https://uploads.mangadex.org/covers/93a67cf1-949a-4a89-b66a-da131fe2fea3/1bc7fdda-893d-4b5f-9e22-97e615e35fba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 384,
+        "aniId": 30384,
+        "createdAt": "2020-10-12T16:04:09.000Z",
+        "updatedAt": "2021-06-02T19:04:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kamikaze": {
+        "authors": [
+          "SHIKI Satoshi"
+        ],
+        "identifier": "kamikaze",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kamikaze",
+        "url": "https://mangasee123.com/manga/Kamikaze",
+        "image": "https://cover.nep.li/cover/Kamikaze.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 384,
+        "aniId": 30384,
+        "createdAt": "2021-04-28T14:19:41.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kamikaze": {
+        "authors": [
+          "Shiki",
+          "Satoshi"
+        ],
+        "identifier": "kamikaze",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kamikaze",
+        "url": "https://manganelo.com/manga/kamikaze",
+        "image": "https://avt.mkklcdnv6temp.com/6/t/13-1583487974.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 384,
+        "aniId": 30384,
+        "createdAt": "2021-05-06T17:18:50.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

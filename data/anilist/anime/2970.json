@@ -1,0 +1,74 @@
+{
+  "altTitle": [
+    "ナイトウィザード",
+    "Night Wizard The Animation"
+  ],
+  "id": 2970,
+  "malId": 2970,
+  "type": "anime",
+  "title": "Night Wizard",
+  "url": "https://anilist.co/anime/2970",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2970.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:33.000Z",
+  "updatedAt": "2021-05-20T14:36:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "lrqm": {
+        "identifier": "lrqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Night Wizard",
+        "url": "https://9anime.ru/watch/night-wizard.lrqm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-_uySzU2XQWs/V7GFfrX6WYI/AAAAAAAA3PY/v5NZ5OX7AKk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2970,
+        "aniId": 2970,
+        "createdAt": "2020-10-12T15:53:16.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "night-wizard": {
+        "identifier": "night-wizard",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Night Wizard",
+        "url": "https://www10.gogoanime.io/category/night-wizard",
+        "image": "https://cdnimg.xyz/images/anime/N/night-wizard.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2970,
+        "aniId": 2970,
+        "createdAt": "2020-10-12T16:01:25.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "the-wizard-of-oz-1982-dub": {
+        "identifier": "the-wizard-of-oz-1982-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Wizard of Oz (1982) (Dub)",
+        "url": "https://gogoanime.so/category/the-wizard-of-oz-1982-dub",
+        "image": "https://gogocdn.net/cover/the-wizard-of-oz-1982-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 2970,
+        "aniId": 2970,
+        "createdAt": "2021-01-05T08:26:48.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

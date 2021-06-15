@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "No-Rin",
+    "のうりん"
+  ],
+  "authors": [
+    "Asakura, Maru",
+    "Shiratori, Shirow"
+  ],
+  "id": 48719,
+  "type": "manga",
+  "title": "Nourin",
+  "url": "https://myanimelist.net/manga/48719/Nourin",
+  "image": "https://cdn.myanimelist.net/images/manga/1/147675.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:31.000Z",
+  "updatedAt": "2021-06-10T18:08:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8abf7e9f-133b-4a00-b678-93708ee1c148": {
+        "authors": [
+          "Asakura Maru",
+          "Shiratori Shirow"
+        ],
+        "identifier": "8abf7e9f-133b-4a00-b678-93708ee1c148",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nourin",
+        "url": "https://mangadex.org/title/8abf7e9f-133b-4a00-b678-93708ee1c148",
+        "image": "https://uploads.mangadex.org/covers/8abf7e9f-133b-4a00-b678-93708ee1c148/0b5f4469-addf-46bf-a073-a822c8d5d0dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48719,
+        "aniId": 78719,
+        "createdAt": "2020-10-12T16:07:05.000Z",
+        "updatedAt": "2021-06-04T00:20:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nourin": {
+        "authors": [
+          "Shiratori",
+          "Shirow"
+        ],
+        "identifier": "nourin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nourin",
+        "url": "https://manganelo.com/manga/nourin",
+        "image": "https://avt.mkklcdnv6.com/45/a/7-1583477981.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48719,
+        "aniId": 78719,
+        "createdAt": "2020-12-10T17:46:31.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

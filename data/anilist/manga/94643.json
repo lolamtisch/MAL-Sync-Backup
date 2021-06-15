@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "饗愛カタストロフィ"
+  ],
+  "authors": [
+    "Haruta Mayuzumi"
+  ],
+  "id": 94643,
+  "malId": 88303,
+  "type": "manga",
+  "title": "Kyouai Catastrophe",
+  "url": "https://anilist.co/manga/94643",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94643-iErtDL3wu58J.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:54.000Z",
+  "updatedAt": "2021-05-20T14:52:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ef7fa88b-53b2-480e-a20d-2868885a8b24": {
+        "authors": [
+          "Mayuzumi Haruta"
+        ],
+        "identifier": "ef7fa88b-53b2-480e-a20d-2868885a8b24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyouai Catastrophe",
+        "url": "https://mangadex.org/title/ef7fa88b-53b2-480e-a20d-2868885a8b24",
+        "image": "https://uploads.mangadex.org/covers/ef7fa88b-53b2-480e-a20d-2868885a8b24/7642bd98-3ac6-4a04-9790-718057da88ce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88303,
+        "aniId": 94643,
+        "createdAt": "2020-10-12T16:09:39.000Z",
+        "updatedAt": "2021-06-04T19:00:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kyouai_catastrophe": {
+        "authors": [
+          "Mayuzumi",
+          "Haruta"
+        ],
+        "identifier": "kyouai_catastrophe",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kyouai Catastrophe",
+        "url": "https://manganelo.com/manga/kyouai_catastrophe",
+        "image": "https://avt.mkklcdnv6.com/33/m/13-1583488938.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88303,
+        "aniId": 94643,
+        "createdAt": "2021-01-29T09:50:30.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

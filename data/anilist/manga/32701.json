@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yoshihisa Tagami"
+  ],
+  "id": 32701,
+  "malId": 2701,
+  "type": "manga",
+  "title": "Grey",
+  "url": "https://anilist.co/manga/32701",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2701.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a6be8fe2-df38-4450-b9f3-78bd6cdcaebf": {
+        "authors": [
+          "Tagami Yoshihisa"
+        ],
+        "identifier": "a6be8fe2-df38-4450-b9f3-78bd6cdcaebf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Grey",
+        "url": "https://mangadex.org/title/a6be8fe2-df38-4450-b9f3-78bd6cdcaebf",
+        "image": "https://uploads.mangadex.org/covers/a6be8fe2-df38-4450-b9f3-78bd6cdcaebf/943abd0e-41c7-4951-aa31-c0947a85f694.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2701,
+        "aniId": 32701,
+        "createdAt": "2020-10-12T16:12:05.000Z",
+        "updatedAt": "2021-06-05T13:10:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

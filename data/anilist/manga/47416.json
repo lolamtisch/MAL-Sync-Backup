@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "なかよしわんこ",
+    "Buddy Buddy Puppy"
+  ],
+  "authors": [
+    "Inaki Matsumoto"
+  ],
+  "id": 47416,
+  "malId": 17416,
+  "type": "manga",
+  "title": "Nakayoshi Wanko",
+  "url": "https://anilist.co/manga/47416",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17416.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:44:06.000Z",
+  "updatedAt": "2021-05-20T14:44:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b9cf6951-6c28-4af3-9fee-e35f568df8f5": {
+        "authors": [
+          "Matsumoto Inaki"
+        ],
+        "identifier": "b9cf6951-6c28-4af3-9fee-e35f568df8f5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nakayoshi Wanko",
+        "url": "https://mangadex.org/title/b9cf6951-6c28-4af3-9fee-e35f568df8f5",
+        "image": "https://uploads.mangadex.org/covers/b9cf6951-6c28-4af3-9fee-e35f568df8f5/dca5d0dc-a0e8-49d8-b8f0-545d4662f535.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17416,
+        "aniId": 47416,
+        "createdAt": "2020-10-12T16:16:31.000Z",
+        "updatedAt": "2021-06-06T23:27:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

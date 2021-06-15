@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "メリーバッドエンド"
+  ],
+  "authors": [
+    "Mayu Sakai"
+  ],
+  "id": 85923,
+  "malId": 68937,
+  "type": "manga",
+  "title": "Merry Bad End",
+  "url": "https://anilist.co/manga/85923",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85923-rnq6VQAslBjx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:03.000Z",
+  "updatedAt": "2021-05-20T14:51:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b5073b9-bf5a-4501-bd83-f4fc8d956a49": {
+        "authors": [
+          "Sakai Mayu"
+        ],
+        "identifier": "7b5073b9-bf5a-4501-bd83-f4fc8d956a49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Merry Bad End",
+        "url": "https://mangadex.org/title/7b5073b9-bf5a-4501-bd83-f4fc8d956a49",
+        "image": "https://uploads.mangadex.org/covers/7b5073b9-bf5a-4501-bd83-f4fc8d956a49/f0c9c23c-f13d-4798-9f94-a19ab387df5a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68937,
+        "aniId": 85923,
+        "createdAt": "2020-10-12T16:07:14.000Z",
+        "updatedAt": "2021-06-04T01:24:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "merry-bad-end": {
+        "authors": [
+          "SAKAI Mayu"
+        ],
+        "identifier": "merry-bad-end",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Merry Bad End",
+        "url": "https://mangasee123.com/manga/Merry-Bad-End",
+        "image": "https://cover.nep.li/cover/Merry-Bad-End.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68937,
+        "aniId": 85923,
+        "createdAt": "2021-05-31T09:21:20.000Z",
+        "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

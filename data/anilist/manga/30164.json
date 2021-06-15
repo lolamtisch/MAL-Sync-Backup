@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Nosatsu Junkie",
+    "悩殺ジャンキー",
+    "Charming Junkie",
+    "Junkie"
+  ],
+  "authors": [
+    "Ryouko Fukuyama",
+    "Alethea Nibley",
+    "Athena Nibley"
+  ],
+  "id": 30164,
+  "malId": 164,
+  "type": "manga",
+  "title": "Nousatsu Junkie",
+  "url": "https://anilist.co/manga/30164",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30164-HDB7NGBfGxeO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dde3dcec-8c0d-4c33-934d-efffd634eeed": {
+        "authors": [
+          "Fukuyama Ryoko"
+        ],
+        "identifier": "dde3dcec-8c0d-4c33-934d-efffd634eeed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nousatsu Junkie",
+        "url": "https://mangadex.org/title/dde3dcec-8c0d-4c33-934d-efffd634eeed",
+        "image": "https://uploads.mangadex.org/covers/dde3dcec-8c0d-4c33-934d-efffd634eeed/332f6487-3ae6-4225-bd1e-616eaa84a0c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 164,
+        "aniId": 30164,
+        "createdAt": "2020-10-12T16:03:21.000Z",
+        "updatedAt": "2021-06-02T13:23:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "charming-junkie": {
+        "authors": [
+          "FUKUYAMA Ryoko"
+        ],
+        "identifier": "charming-junkie",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Charming Junkie",
+        "url": "https://mangasee123.com/manga/Charming-Junkie",
+        "image": "https://cover.nep.li/cover/Charming-Junkie.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 164,
+        "aniId": 30164,
+        "createdAt": "2021-05-03T18:33:42.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Desire Pandora",
+    "欲望パンドラ",
+    "Desire Pandra"
+  ],
+  "authors": [
+    "Akira Hizuki"
+  ],
+  "id": 112850,
+  "malId": 109168,
+  "type": "manga",
+  "title": "Yokubou Pandora",
+  "url": "https://anilist.co/manga/112850",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112850-np8z6bDJiPVD.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:56:05.000Z",
+  "updatedAt": "2021-05-20T14:56:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69b4df2d-5ca3-4e58-91bd-74827629dcce": {
+        "authors": [
+          "Hizuki Akira"
+        ],
+        "identifier": "69b4df2d-5ca3-4e58-91bd-74827629dcce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yokubou Pandora",
+        "url": "https://mangadex.org/title/69b4df2d-5ca3-4e58-91bd-74827629dcce",
+        "image": "https://uploads.mangadex.org/covers/69b4df2d-5ca3-4e58-91bd-74827629dcce/392cada9-60a8-46fe-b28c-1950641afe17.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109168,
+        "aniId": 112850,
+        "createdAt": "2020-10-12T16:10:56.000Z",
+        "updatedAt": "2021-06-05T04:30:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yokubou_pandora": {
+        "authors": [
+          "Hizuki Akira"
+        ],
+        "identifier": "yokubou_pandora",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yokubou Pandora",
+        "url": "https://fanfox.net/manga/yokubou_pandora/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26279/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109168,
+        "aniId": 112850,
+        "createdAt": "2020-12-17T06:26:24.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

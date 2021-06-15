@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "幼馴染は僕のヒーロー!",
+    "My Childhood Friend is My Hero!"
+  ],
+  "authors": [
+    "Tama Mizuki"
+  ],
+  "id": 103999,
+  "malId": 115077,
+  "type": "manga",
+  "title": "Osananajimi wa Boku no Hero!",
+  "url": "https://anilist.co/manga/103999",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b103999-u6GtHffAUzp7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:13.000Z",
+  "updatedAt": "2021-05-20T14:57:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec60c00e-d5f3-47f1-bbf0-42c3e132fad0": {
+        "authors": [
+          "Mizuki Tama"
+        ],
+        "identifier": "ec60c00e-d5f3-47f1-bbf0-42c3e132fad0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Osananajimi wa Boku no Hero!",
+        "url": "https://mangadex.org/title/ec60c00e-d5f3-47f1-bbf0-42c3e132fad0",
+        "image": "https://uploads.mangadex.org/covers/ec60c00e-d5f3-47f1-bbf0-42c3e132fad0/37e5171c-e8c3-48db-b968-fab904184b20.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115077,
+        "aniId": 103999,
+        "createdAt": "2020-10-12T16:13:29.000Z",
+        "updatedAt": "2021-06-05T21:43:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

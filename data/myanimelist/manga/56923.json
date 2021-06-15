@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Iris on Rainy Days",
+    "雨の日のアイリス"
+  ],
+  "authors": [
+    "Matsuyama, Takeshi",
+    "Hirasato"
+  ],
+  "id": 56923,
+  "type": "manga",
+  "title": "Ame no Hi no Iris",
+  "url": "https://myanimelist.net/manga/56923/Ame_no_Hi_no_Iris",
+  "image": "https://cdn.myanimelist.net/images/manga/3/164392.jpg",
+  "category": "Light Novel",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:49.000Z",
+  "updatedAt": "2021-05-08T15:47:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ff1e69ec-31c5-4fd9-ac6b-cb89eaba31ed": {
+        "authors": [
+          "Umishima Senbon"
+        ],
+        "identifier": "ff1e69ec-31c5-4fd9-ac6b-cb89eaba31ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ame no Hi",
+        "url": "https://mangadex.org/title/ff1e69ec-31c5-4fd9-ac6b-cb89eaba31ed",
+        "image": "https://uploads.mangadex.org/covers/ff1e69ec-31c5-4fd9-ac6b-cb89eaba31ed/1bbbf3af-db5b-47a8-a636-d1698768ff27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56923,
+        "aniId": 85926,
+        "createdAt": "2020-10-12T16:13:43.000Z",
+        "updatedAt": "2021-06-05T23:33:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

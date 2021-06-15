@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "タイムレター",
+    "Taimu Retaa"
+  ],
+  "authors": [
+    "avogado6"
+  ],
+  "id": 120940,
+  "malId": null,
+  "type": "manga",
+  "title": "Time Letter",
+  "url": "https://anilist.co/manga/120940",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120940-gm1frVI0tUCs.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-28T14:23:47.000Z",
+  "updatedAt": "2021-05-28T14:23:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ade51b4d-9d62-47af-8e11-d2bf1fc1a615": {
+        "authors": [
+          "avogado6"
+        ],
+        "identifier": "ade51b4d-9d62-47af-8e11-d2bf1fc1a615",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Time Letter",
+        "url": "https://mangadex.org/title/ade51b4d-9d62-47af-8e11-d2bf1fc1a615",
+        "image": "https://uploads.mangadex.org/covers/ade51b4d-9d62-47af-8e11-d2bf1fc1a615/a031d1aa-b3da-4eae-a613-8fea3f1188f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120940,
+        "createdAt": "2020-10-12T16:19:58.000Z",
+        "updatedAt": "2021-06-08T00:35:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

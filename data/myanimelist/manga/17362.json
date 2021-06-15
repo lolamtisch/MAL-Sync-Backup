@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Chicken Club",
+    "Toriniku Kurabu",
+    "鶏肉倶楽部"
+  ],
+  "authors": [
+    "Nakamura, Asumiko"
+  ],
+  "id": 17362,
+  "type": "manga",
+  "title": "Toriniku Club",
+  "url": "https://myanimelist.net/manga/17362/Toriniku_Club",
+  "image": "https://cdn.myanimelist.net/images/manga/3/26226.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:26.000Z",
+  "updatedAt": "2021-06-08T10:27:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf84ec00-daa9-4486-bc25-99d55862df3b": {
+        "authors": [
+          "",
+          "Guan Zi Imagination"
+        ],
+        "identifier": "bf84ec00-daa9-4486-bc25-99d55862df3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jeff the Chicken",
+        "url": "https://mangadex.org/title/bf84ec00-daa9-4486-bc25-99d55862df3b",
+        "image": "https://uploads.mangadex.org/covers/bf84ec00-daa9-4486-bc25-99d55862df3b/75619ea9-73ce-469b-951a-40e3efba76fc.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17362,
+        "aniId": 47362,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-06-07T00:26:29.000Z",
+        "deletedAt": null
+      },
+      "5c030b3e-de82-4515-a83e-a9ffe73bba82": {
+        "authors": [
+          "Nakamura Asumiko"
+        ],
+        "identifier": "5c030b3e-de82-4515-a83e-a9ffe73bba82",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toriniku Kurabu",
+        "url": "https://mangadex.org/title/5c030b3e-de82-4515-a83e-a9ffe73bba82",
+        "image": "https://uploads.mangadex.org/covers/5c030b3e-de82-4515-a83e-a9ffe73bba82/0d488d12-6cc4-49a2-913e-d78060cb97e9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17362,
+        "aniId": 47362,
+        "createdAt": "2021-01-15T12:32:43.000Z",
+        "updatedAt": "2021-06-08T10:44:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

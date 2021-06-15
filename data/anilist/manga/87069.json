@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "BORDER"
+  ],
+  "authors": [
+    "Kazuki Kaneshiro",
+    "Yua Kotegawa"
+  ],
+  "id": 87069,
+  "malId": 60993,
+  "type": "manga",
+  "title": "Border",
+  "url": "https://anilist.co/manga/87069",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87069-U3ky9vaTQcOx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:40.000Z",
+  "updatedAt": "2021-05-20T14:50:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cedf867f-340f-41c4-8f92-a6e5c64d054d": {
+        "authors": [
+          "Kotegawa Yua",
+          "Kaneshiro Kazuki"
+        ],
+        "identifier": "cedf867f-340f-41c4-8f92-a6e5c64d054d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BORDER",
+        "url": "https://mangadex.org/title/cedf867f-340f-41c4-8f92-a6e5c64d054d",
+        "image": "https://uploads.mangadex.org/covers/cedf867f-340f-41c4-8f92-a6e5c64d054d/48b095b3-51d2-4efb-a4af-3ccb7d1f24fb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60993,
+        "aniId": 87069,
+        "createdAt": "2020-10-12T16:09:29.000Z",
+        "updatedAt": "2021-06-04T17:54:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

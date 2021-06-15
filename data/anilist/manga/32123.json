@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "ぼくの好きな先生",
+    "Boku na Suki no Sensei",
+    "Boku no Sukina Sensei",
+    "The Teacher I Like",
+    "The Teacher I Love"
+  ],
+  "authors": [
+    "Sakurako Gokurakuin"
+  ],
+  "id": 32123,
+  "malId": 2123,
+  "type": "manga",
+  "title": "Boku no Suki na Sensei",
+  "url": "https://anilist.co/manga/32123",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32123-zzCh0ks2H115.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1fd53e93-3956-4fc6-95a5-33342931b159": {
+        "authors": [
+          "Gokurakuin Sakurako"
+        ],
+        "identifier": "1fd53e93-3956-4fc6-95a5-33342931b159",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Suki na Sensei (Gokurakuin Sakurako)",
+        "url": "https://mangadex.org/title/1fd53e93-3956-4fc6-95a5-33342931b159",
+        "image": "https://uploads.mangadex.org/covers/1fd53e93-3956-4fc6-95a5-33342931b159/a64a84b4-ac30-4b8c-a0cf-883b075cb5f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2123,
+        "aniId": 32123,
+        "createdAt": "2020-10-12T16:13:11.000Z",
+        "updatedAt": "2021-06-05T19:26:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

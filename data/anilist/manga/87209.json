@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Wonderland",
+    "ワンダーランド"
+  ],
+  "authors": [
+    "Yuugo Ishikawa"
+  ],
+  "id": 87209,
+  "malId": 89747,
+  "type": "manga",
+  "title": "Wonderland",
+  "url": "https://anilist.co/manga/87209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87209-QmhdzEFt8AkR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:02.000Z",
+  "updatedAt": "2021-05-20T14:53:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fae13676-c7fb-47a7-9b55-23b30375449b": {
+        "authors": [
+          "Ishikawa Yugo"
+        ],
+        "identifier": "fae13676-c7fb-47a7-9b55-23b30375449b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wonderland",
+        "url": "https://mangadex.org/title/fae13676-c7fb-47a7-9b55-23b30375449b",
+        "image": "https://uploads.mangadex.org/covers/fae13676-c7fb-47a7-9b55-23b30375449b/a18a487f-8a7e-4fbd-a75c-7033f8f33e42.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89747,
+        "aniId": 87209,
+        "createdAt": "2020-10-12T16:09:45.000Z",
+        "updatedAt": "2021-06-04T19:43:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

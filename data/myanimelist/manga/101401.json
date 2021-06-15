@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ばいばいリバティー"
+  ],
+  "authors": [
+    "Hatta, Ayuko"
+  ],
+  "id": 101401,
+  "type": "manga",
+  "title": "Bye-bye Liberty",
+  "url": "https://myanimelist.net/manga/101401/Bye-bye_Liberty",
+  "image": "https://cdn.myanimelist.net/images/manga/1/195027.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:43.000Z",
+  "updatedAt": "2021-05-13T03:55:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0ac3e41-cbc5-4bd7-aee0-1db70a8be83d": {
+        "authors": [
+          "Hatta Ayuko"
+        ],
+        "identifier": "a0ac3e41-cbc5-4bd7-aee0-1db70a8be83d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ByeBye Liberty",
+        "url": "https://mangadex.org/title/a0ac3e41-cbc5-4bd7-aee0-1db70a8be83d",
+        "image": "https://uploads.mangadex.org/covers/a0ac3e41-cbc5-4bd7-aee0-1db70a8be83d/2cc1ce10-0f5a-437d-845a-87711e43762c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101401,
+        "aniId": 98303,
+        "createdAt": "2020-10-12T16:10:09.000Z",
+        "updatedAt": "2021-06-04T22:39:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "byebye_liberty": {
+        "authors": [
+          "HATTA Ayuko"
+        ],
+        "identifier": "byebye_liberty",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Byebye Liberty",
+        "url": "https://fanfox.net/manga/byebye_liberty/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22055/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101401,
+        "aniId": 98303,
+        "createdAt": "2021-03-03T15:22:18.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "byebye_liberty": {
+        "authors": [
+          "Hatta",
+          "Ayuko"
+        ],
+        "identifier": "byebye_liberty",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Byebye Liberty",
+        "url": "https://manganelo.com/manga/byebye_liberty",
+        "image": "https://avt.mkklcdnv6temp.com/26/l/14-1583490682.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101401,
+        "aniId": 98303,
+        "createdAt": "2021-05-13T03:55:31.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

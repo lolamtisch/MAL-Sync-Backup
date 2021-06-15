@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "Candy Hatsukoi",
+    "キャンディ"
+  ],
+  "authors": [
+    "Suzuki, Yufuko"
+  ],
+  "id": 39395,
+  "type": "manga",
+  "title": "Candy",
+  "url": "https://myanimelist.net/manga/39395/Candy",
+  "image": "https://cdn.myanimelist.net/images/manga/3/112595.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:05.000Z",
+  "updatedAt": "2021-05-31T09:07:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73510872-48a1-4303-9881-17705df9cfe9": {
+        "authors": [
+          "Suzuki Yufuko"
+        ],
+        "identifier": "73510872-48a1-4303-9881-17705df9cfe9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Candy",
+        "url": "https://mangadex.org/title/73510872-48a1-4303-9881-17705df9cfe9",
+        "image": "https://uploads.mangadex.org/covers/73510872-48a1-4303-9881-17705df9cfe9/763c30e8-4861-4590-aede-788f80d3baa9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39395,
+        "aniId": 69395,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-02T22:39:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fy920068": {
+        "authors": [],
+        "identifier": "fy920068",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Red Candy",
+        "url": "https://manganelo.com/manga/fy920068",
+        "image": "https://avt.mkklcdnv6.com/5/k/19-1583499283.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39395,
+        "aniId": 69395,
+        "createdAt": "2020-10-12T16:23:01.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "candy_suzuki_yufuko": {
+        "authors": [
+          "Suzuki",
+          "Yufuko"
+        ],
+        "identifier": "candy_suzuki_yufuko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Candy (Suzuki Yufuko)",
+        "url": "https://manganelo.com/manga/candy_suzuki_yufuko",
+        "image": "https://avt.mkklcdnv6temp.com/36/j/6-1583475602.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 39395,
+        "aniId": 69395,
+        "createdAt": "2021-04-08T01:20:58.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

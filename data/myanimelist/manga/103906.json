@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Unrequited Love Family",
+    "片恋家族"
+  ],
+  "authors": [
+    "Chishanomi"
+  ],
+  "id": 103906,
+  "type": "manga",
+  "title": "Katakoi Kazoku",
+  "url": "https://myanimelist.net/manga/103906/Katakoi_Kazoku",
+  "image": "https://cdn.myanimelist.net/images/manga/2/190485.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-03-29T22:31:01.000Z",
+  "updatedAt": "2021-06-05T17:19:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0159c0bf-b9c0-450f-92d0-c7026180a0e2": {
+        "authors": [
+          "Chishanomi"
+        ],
+        "identifier": "0159c0bf-b9c0-450f-92d0-c7026180a0e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Katakoi Kazoku",
+        "url": "https://mangadex.org/title/0159c0bf-b9c0-450f-92d0-c7026180a0e2",
+        "image": "https://uploads.mangadex.org/covers/0159c0bf-b9c0-450f-92d0-c7026180a0e2/957bb55c-eb65-403d-981f-aaf040680de9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103906,
+        "aniId": 107306,
+        "createdAt": "2020-10-12T16:12:50.000Z",
+        "updatedAt": "2021-06-05T17:57:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "katakoi_kazoku": {
+        "authors": [
+          "Chishanomi"
+        ],
+        "identifier": "katakoi_kazoku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Katakoi Kazoku",
+        "url": "https://manganelo.com/manga/katakoi_kazoku",
+        "image": "https://avt.mkklcdnv6temp.com/43/i/14-1583491249.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103906,
+        "aniId": 107306,
+        "createdAt": "2021-03-29T22:31:01.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

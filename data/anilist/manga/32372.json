@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Kaikan Fortune"
+  ],
+  "authors": [
+    "Hisami Shimada"
+  ],
+  "id": 32372,
+  "malId": 2372,
+  "type": "manga",
+  "title": "Pleasure Fortune",
+  "url": "https://anilist.co/manga/32372",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2372.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c350735-6b8a-4a30-bde3-d68129ea136f": {
+        "authors": [
+          "Shimada Hisami"
+        ],
+        "identifier": "7c350735-6b8a-4a30-bde3-d68129ea136f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaikan Fortune",
+        "url": "https://mangadex.org/title/7c350735-6b8a-4a30-bde3-d68129ea136f",
+        "image": "https://uploads.mangadex.org/covers/7c350735-6b8a-4a30-bde3-d68129ea136f/6f6440da-a31a-49b8-836a-c185de527cc5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2372,
+        "aniId": 32372,
+        "createdAt": "2020-10-12T16:20:30.000Z",
+        "updatedAt": "2021-06-08T00:23:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

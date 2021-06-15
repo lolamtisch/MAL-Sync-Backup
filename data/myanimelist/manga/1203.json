@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "スローステップ"
+  ],
+  "authors": [
+    "Adachi, Mitsuru"
+  ],
+  "id": 1203,
+  "type": "manga",
+  "title": "Slow Step",
+  "url": "https://myanimelist.net/manga/1203/Slow_Step",
+  "image": "https://cdn.myanimelist.net/images/manga/3/26703.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:31.000Z",
+  "updatedAt": "2021-02-15T05:36:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "61e87d66-7950-430e-944a-9334e379b09a": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "61e87d66-7950-430e-944a-9334e379b09a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Slow Step",
+        "url": "https://mangadex.org/title/61e87d66-7950-430e-944a-9334e379b09a",
+        "image": "https://uploads.mangadex.org/covers/61e87d66-7950-430e-944a-9334e379b09a/64690a23-d6c3-412c-8b50-2e350d6b09e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1203,
+        "aniId": 31203,
+        "createdAt": "2020-10-12T16:05:25.000Z",
+        "updatedAt": "2021-06-03T12:33:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "slow_step": {
+        "authors": [
+          "Adachi",
+          "Mitsuru"
+        ],
+        "identifier": "slow_step",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Slow Step",
+        "url": "https://manganelo.com/manga/slow_step",
+        "image": "https://avt.mkklcdnv6temp.com/39/o/4-1583471314.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1203,
+        "aniId": 31203,
+        "createdAt": "2021-02-18T16:16:33.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

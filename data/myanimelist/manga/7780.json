@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Lady Equation, Princess Equation",
+    "プリンセスVer.1"
+  ],
+  "authors": [
+    "Miyawaki, Yukino"
+  ],
+  "id": 7780,
+  "type": "manga",
+  "title": "Princess Ver.1",
+  "url": "https://myanimelist.net/manga/7780/Princess_Ver1",
+  "image": "https://cdn.myanimelist.net/images/manga/3/210422.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:16.000Z",
+  "updatedAt": "2021-05-20T20:42:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9f28a200-faf5-4621-9deb-403d9ea6702d": {
+        "authors": [
+          "MIYAWAKI Yukino"
+        ],
+        "identifier": "9f28a200-faf5-4621-9deb-403d9ea6702d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Princess Ver. 1",
+        "url": "https://mangadex.org/title/9f28a200-faf5-4621-9deb-403d9ea6702d",
+        "image": "https://uploads.mangadex.org/covers/9f28a200-faf5-4621-9deb-403d9ea6702d/9a8b9eac-9716-4097-a54a-d4a06a10503d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7780,
+        "aniId": 37780,
+        "createdAt": "2020-10-12T16:15:50.000Z",
+        "updatedAt": "2021-06-06T17:09:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "princess_ver_1": {
+        "authors": [
+          "MIYAWAKI Yukino"
+        ],
+        "identifier": "princess_ver_1",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Princess Ver.1",
+        "url": "https://fanfox.net/manga/princess_ver_1/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1687/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7780,
+        "aniId": 37780,
+        "createdAt": "2021-05-20T20:42:59.000Z",
+        "updatedAt": "2021-05-20T21:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

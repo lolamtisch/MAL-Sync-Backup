@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Voiceful",
+    "Voiceful",
+    "Voice",
+    "A Special Person",
+    "Someone Special",
+    "Opening"
+  ],
+  "authors": [
+    "Nawoko"
+  ],
+  "id": 35248,
+  "malId": 5248,
+  "type": "manga",
+  "title": "Voiceful",
+  "url": "https://anilist.co/manga/35248",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx35248-0cV2OwbnM2Pz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8678193d-51ed-4355-8ea9-9a02cfb4fa3c": {
+        "authors": [
+          "Nawoko"
+        ],
+        "identifier": "8678193d-51ed-4355-8ea9-9a02cfb4fa3c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Voiceful",
+        "url": "https://mangadex.org/title/8678193d-51ed-4355-8ea9-9a02cfb4fa3c",
+        "image": "https://uploads.mangadex.org/covers/8678193d-51ed-4355-8ea9-9a02cfb4fa3c/4b3ca84a-e79b-4b05-860d-80a063d75c64.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5248,
+        "aniId": 35248,
+        "createdAt": "2020-10-12T16:04:57.000Z",
+        "updatedAt": "2021-06-03T00:41:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "voiceful": {
+        "authors": [],
+        "identifier": "voiceful",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Voiceful",
+        "url": "https://manganelo.com/manga/voiceful",
+        "image": "https://avt.mkklcdnv6.com/24/c/11-1583484886.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5248,
+        "aniId": 35248,
+        "createdAt": "2020-10-12T16:26:03.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

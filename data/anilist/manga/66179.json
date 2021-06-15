@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "おじ恋"
+  ],
+  "authors": [
+    "Kakeru Tsutsumi"
+  ],
+  "id": 66179,
+  "malId": 36179,
+  "type": "manga",
+  "title": "Ojikoi",
+  "url": "https://anilist.co/manga/66179",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36179.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5284fe4e-ce3f-47ec-b4bc-c67c0349f3b6": {
+        "authors": [
+          "TSUTSUMI Kakeru"
+        ],
+        "identifier": "5284fe4e-ce3f-47ec-b4bc-c67c0349f3b6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ojikoi",
+        "url": "https://mangadex.org/title/5284fe4e-ce3f-47ec-b4bc-c67c0349f3b6",
+        "image": "https://uploads.mangadex.org/covers/5284fe4e-ce3f-47ec-b4bc-c67c0349f3b6/8d69e0b0-4f6e-4b99-919d-4935d517ffac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36179,
+        "aniId": 66179,
+        "createdAt": "2020-10-12T16:04:22.000Z",
+        "updatedAt": "2021-06-02T20:37:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ojikoi": {
+        "authors": [
+          "Tsutsumi",
+          "Kakeru"
+        ],
+        "identifier": "ojikoi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ojikoi",
+        "url": "https://manganelo.com/manga/ojikoi",
+        "image": "https://avt.mkklcdnv6temp.com/48/k/8-1583480029.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36179,
+        "aniId": 66179,
+        "createdAt": "2021-04-22T18:57:08.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

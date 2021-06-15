@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "花冠のラージャ",
+    "Flower Crown"
+  ],
+  "authors": [
+    "Toki Yajima"
+  ],
+  "id": 60201,
+  "malId": 30201,
+  "type": "manga",
+  "title": "Kakan no Raja",
+  "url": "https://anilist.co/manga/60201",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30201.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:39.000Z",
+  "updatedAt": "2021-05-20T14:47:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df1461ec-becf-4918-93c2-360ffc64fdae": {
+        "authors": [
+          "Yajima Toki"
+        ],
+        "identifier": "df1461ec-becf-4918-93c2-360ffc64fdae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flower Crown",
+        "url": "https://mangadex.org/title/df1461ec-becf-4918-93c2-360ffc64fdae",
+        "image": "https://uploads.mangadex.org/covers/df1461ec-becf-4918-93c2-360ffc64fdae/35d8d8a6-d6ea-4d3c-b6af-d7f7e2398fc6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30201,
+        "aniId": 60201,
+        "createdAt": "2020-10-12T16:03:47.000Z",
+        "updatedAt": "2021-06-02T16:33:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

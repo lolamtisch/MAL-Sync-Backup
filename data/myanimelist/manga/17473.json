@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Ane Panic",
+    "姉パニッ"
+  ],
+  "authors": [
+    "Taguchi, Kenji"
+  ],
+  "id": 17473,
+  "type": "manga",
+  "title": "Ane Pani",
+  "url": "https://myanimelist.net/manga/17473/Ane_Pani",
+  "image": "https://cdn.myanimelist.net/images/manga/2/26563.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:27.000Z",
+  "updatedAt": "2021-05-21T00:15:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cff67ddb-91c8-4a5a-b5dc-edb0b5fadc37": {
+        "authors": [
+          "Taguchi Kenji"
+        ],
+        "identifier": "cff67ddb-91c8-4a5a-b5dc-edb0b5fadc37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ane Pani",
+        "url": "https://mangadex.org/title/cff67ddb-91c8-4a5a-b5dc-edb0b5fadc37",
+        "image": "https://uploads.mangadex.org/covers/cff67ddb-91c8-4a5a-b5dc-edb0b5fadc37/e32af96a-70b0-4d3c-89d7-cff360c27261.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17473,
+        "aniId": 47473,
+        "createdAt": "2020-10-12T16:05:20.000Z",
+        "updatedAt": "2021-06-03T11:51:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ane_pani": {
+        "authors": [
+          "TAGUCHI Kenji"
+        ],
+        "identifier": "ane_pani",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ane Pani",
+        "url": "https://fanfox.net/manga/ane_pani/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6994/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17473,
+        "aniId": 47473,
+        "createdAt": "2021-05-21T00:15:11.000Z",
+        "updatedAt": "2021-05-21T00:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

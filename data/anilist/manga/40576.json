@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Visitor's Business",
+    "門客商売"
+  ],
+  "authors": [
+    "Kenn Kurogane"
+  ],
+  "id": 40576,
+  "malId": 10576,
+  "type": "manga",
+  "title": "Visitor's Business",
+  "url": "https://anilist.co/manga/40576",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10576.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0505df65-db6c-4a5f-aa35-ef0dc878d23c": {
+        "authors": [
+          "Lito Perezito’s"
+        ],
+        "identifier": "0505df65-db6c-4a5f-aa35-ef0dc878d23c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lito Perezito’s REED 900: Family Business",
+        "url": "https://mangadex.org/title/0505df65-db6c-4a5f-aa35-ef0dc878d23c",
+        "image": "https://uploads.mangadex.org/covers/0505df65-db6c-4a5f-aa35-ef0dc878d23c/e583a2a4-659c-4e8f-af82-4e3e2a3b4c81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10576,
+        "aniId": 40576,
+        "createdAt": "2020-10-12T16:18:02.000Z",
+        "updatedAt": "2021-06-07T13:16:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

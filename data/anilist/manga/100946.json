@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "The Brightest Place on This Planet",
+    "この星でいちばん明るいところ",
+    "Kono Hoshi de Ichiban Akarui Tokoro - Yuki no Baai"
+  ],
+  "authors": [
+    "Nako Mike"
+  ],
+  "id": 100946,
+  "malId": 111022,
+  "type": "manga",
+  "title": "Kono Hoshi de Ichiban Akarui Tokoro",
+  "url": "https://anilist.co/manga/100946",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100946-3AabmfQyOkx0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T06:49:59.000Z",
+  "updatedAt": "2021-06-05T06:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c555f8d7-27bd-44d0-a7b2-06cb6ccda065": {
+        "authors": [
+          "Mike Nako"
+        ],
+        "identifier": "c555f8d7-27bd-44d0-a7b2-06cb6ccda065",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kono Hoshi de Ichiban Akarui Tokoro",
+        "url": "https://mangadex.org/title/c555f8d7-27bd-44d0-a7b2-06cb6ccda065",
+        "image": "https://uploads.mangadex.org/covers/c555f8d7-27bd-44d0-a7b2-06cb6ccda065/1387241e-9066-48b7-af18-e921e2a05a37.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111022,
+        "aniId": 100946,
+        "createdAt": "2020-10-12T16:11:14.000Z",
+        "updatedAt": "2021-06-05T08:45:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "西行纪",
+    "Journey to the West",
+    " Westbound",
+    " Westbound Discipline",
+    "西游"
+  ],
+  "authors": [
+    "Zhihui Deng",
+    "Jianhe Zheng"
+  ],
+  "id": 102196,
+  "malId": 109143,
+  "type": "manga",
+  "title": "Xixing Ji",
+  "url": "https://anilist.co/manga/102196",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102196-MUEQZeLjcCrx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:04.000Z",
+  "updatedAt": "2021-05-20T14:56:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1a4c6dbe-47f0-441c-b762-06c1166bc223": {
+        "authors": [
+          "Tang Chi Fai",
+          "Cheng Kin Wo"
+        ],
+        "identifier": "1a4c6dbe-47f0-441c-b762-06c1166bc223",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Journey To The West",
+        "url": "https://mangadex.org/title/1a4c6dbe-47f0-441c-b762-06c1166bc223",
+        "image": "https://uploads.mangadex.org/covers/1a4c6dbe-47f0-441c-b762-06c1166bc223/9730ff2f-4bbb-4d1b-87ec-f88a689acb65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109143,
+        "aniId": 102196,
+        "createdAt": "2020-10-12T16:10:34.000Z",
+        "updatedAt": "2021-06-05T01:43:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "journey_to_the_west": {
+        "authors": [],
+        "identifier": "journey_to_the_west",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Journey to the West",
+        "url": "https://manganelo.com/manga/journey_to_the_west",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18678-journey_to_the_west.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109143,
+        "aniId": 102196,
+        "createdAt": "2020-10-12T16:23:45.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

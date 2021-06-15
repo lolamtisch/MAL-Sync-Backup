@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Silent Blue"
+  ],
+  "authors": [
+    "Ikori Andou"
+  ],
+  "id": 100329,
+  "malId": 110546,
+  "type": "manga",
+  "title": "Silent Blue",
+  "url": "https://anilist.co/manga/100329",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100329-WDfBVjcmmvy2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:15.000Z",
+  "updatedAt": "2021-05-20T14:56:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9ff7fa8b-d6e0-4315-9b11-dddd664871df": {
+        "authors": [
+          "Ando Icori"
+        ],
+        "identifier": "9ff7fa8b-d6e0-4315-9b11-dddd664871df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Silent Blue",
+        "url": "https://mangadex.org/title/9ff7fa8b-d6e0-4315-9b11-dddd664871df",
+        "image": "https://uploads.mangadex.org/covers/9ff7fa8b-d6e0-4315-9b11-dddd664871df/bf94033c-6749-4dc6-a543-77e217895d08.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110546,
+        "aniId": 100329,
+        "createdAt": "2020-10-12T16:11:03.000Z",
+        "updatedAt": "2021-06-05T05:25:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

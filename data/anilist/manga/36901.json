@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Ghost Logic"
+  ],
+  "authors": [
+    "Akira Hamanaka",
+    "Wosamu Kine"
+  ],
+  "id": 36901,
+  "malId": 6901,
+  "type": "manga",
+  "title": "Ghost Logic",
+  "url": "https://anilist.co/manga/36901",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6901.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:43.000Z",
+  "updatedAt": "2021-05-20T14:39:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0daf338e-86f5-416a-9771-e054fc7da1c6": {
+        "authors": [
+          "Nemoto Setsu",
+          "Hamanaka Akira"
+        ],
+        "identifier": "0daf338e-86f5-416a-9771-e054fc7da1c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ghost Logic",
+        "url": "https://mangadex.org/title/0daf338e-86f5-416a-9771-e054fc7da1c6",
+        "image": "https://uploads.mangadex.org/covers/0daf338e-86f5-416a-9771-e054fc7da1c6/7446480d-8d2e-4432-af95-5b734d508a1d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6901,
+        "aniId": 36901,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:35:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "魔法少女リリカルなのはINNOCENTS"
+  ],
+  "authors": [
+    "Masaki Tsuzuki",
+    "Shuuichi Kawakami"
+  ],
+  "id": 94866,
+  "malId": 88984,
+  "type": "manga",
+  "title": "Mahou Shoujo Lyrical Nanoha InnocentS",
+  "url": "https://anilist.co/manga/94866",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94866-Z90DgSX38zVJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:56.000Z",
+  "updatedAt": "2021-06-04T15:19:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2d4cab5a-d1f3-4b75-be08-ae5dbbec6acd": {
+        "authors": [
+          "Tsuzuki Masaki",
+          "Kawakami Shuuichi"
+        ],
+        "identifier": "2d4cab5a-d1f3-4b75-be08-ae5dbbec6acd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Shoujo Lyrical Nanoha INNOCENTS",
+        "url": "https://mangadex.org/title/2d4cab5a-d1f3-4b75-be08-ae5dbbec6acd",
+        "image": "https://uploads.mangadex.org/covers/2d4cab5a-d1f3-4b75-be08-ae5dbbec6acd/b93f58b8-639f-439b-bf14-1ee6a78cc8eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88984,
+        "aniId": 94866,
+        "createdAt": "2020-10-12T16:09:05.000Z",
+        "updatedAt": "2021-06-04T15:24:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mahou_shoujo_lyrical_nanoha_innocents": {
+        "authors": [
+          "TSUZUKI Masaki"
+        ],
+        "identifier": "mahou_shoujo_lyrical_nanoha_innocents",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahou Shoujo Lyrical Nanoha Innocents",
+        "url": "https://fanfox.net/manga/mahou_shoujo_lyrical_nanoha_innocents/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17399/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88984,
+        "aniId": 94866,
+        "createdAt": "2021-04-11T00:51:33.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

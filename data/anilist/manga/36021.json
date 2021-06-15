@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "The Promised Finger"
+  ],
+  "authors": [
+    "Seiro Yuzuha"
+  ],
+  "id": 36021,
+  "malId": 6021,
+  "type": "manga",
+  "title": "The Promised Finger",
+  "url": "https://anilist.co/manga/36021",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6021.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:36.000Z",
+  "updatedAt": "2021-05-20T14:39:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "38b4bcd8-36a1-4c5d-9ba0-cce62630c7a2": {
+        "authors": [
+          "Seiro Yuzuha"
+        ],
+        "identifier": "38b4bcd8-36a1-4c5d-9ba0-cce62630c7a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The promised finger",
+        "url": "https://mangadex.org/title/38b4bcd8-36a1-4c5d-9ba0-cce62630c7a2",
+        "image": "https://uploads.mangadex.org/covers/38b4bcd8-36a1-4c5d-9ba0-cce62630c7a2/675c039b-7d9f-4fc9-a8e6-061d42caf25d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6021,
+        "aniId": 36021,
+        "createdAt": "2020-10-12T16:18:48.000Z",
+        "updatedAt": "2021-06-07T20:16:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

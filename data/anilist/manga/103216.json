@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ネコ×ネコ"
+  ],
+  "authors": [
+    "Mio Tatsumoto"
+  ],
+  "id": 103216,
+  "malId": 114642,
+  "type": "manga",
+  "title": "Neko x Neko",
+  "url": "https://anilist.co/manga/103216",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n103216-FdvSA3NeJaK5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:10.000Z",
+  "updatedAt": "2021-05-20T14:57:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "295f05b8-cef7-4b41-b003-393a3016a650": {
+        "authors": [
+          "Tatsumoto Mio"
+        ],
+        "identifier": "295f05b8-cef7-4b41-b003-393a3016a650",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko x Neko",
+        "url": "https://mangadex.org/title/295f05b8-cef7-4b41-b003-393a3016a650",
+        "image": "https://uploads.mangadex.org/covers/295f05b8-cef7-4b41-b003-393a3016a650/73a5825b-d1bf-4473-9674-d1979cb603d3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114642,
+        "aniId": 103216,
+        "createdAt": "2020-10-12T16:14:22.000Z",
+        "updatedAt": "2021-06-06T04:35:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "That Guy was Splendid",
+    "그놈은 멋있었다",
+    "That guy was handsome",
+    "You were Cool",
+    "He was Cool "
+  ],
+  "authors": [
+    "Jea-Eun Kim",
+    "Ni-Gwi Yeo"
+  ],
+  "id": 45403,
+  "malId": 15403,
+  "type": "manga",
+  "title": "Geunomeun Meosisseotda",
+  "url": "https://anilist.co/manga/45403",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45403-iXUctmVJDcMx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:46.000Z",
+  "updatedAt": "2021-05-20T14:43:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb54eb4d-fa42-4243-b7b4-bccaba5add89": {
+        "authors": [
+          "Kim Jea-Eun",
+          "Gui Yeoni"
+        ],
+        "identifier": "eb54eb4d-fa42-4243-b7b4-bccaba5add89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "He Was Cool",
+        "url": "https://mangadex.org/title/eb54eb4d-fa42-4243-b7b4-bccaba5add89",
+        "image": "https://uploads.mangadex.org/covers/eb54eb4d-fa42-4243-b7b4-bccaba5add89/0e2120c5-e63b-46aa-baa2-ac98ce5051a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15403,
+        "aniId": 45403,
+        "createdAt": "2020-10-12T16:04:28.000Z",
+        "updatedAt": "2021-06-02T21:15:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

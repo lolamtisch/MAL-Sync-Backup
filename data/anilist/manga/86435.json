@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "星くずドロップ",
+    "Stardust Drop"
+  ],
+  "authors": [
+    "Lalako Kojima"
+  ],
+  "id": 86435,
+  "malId": 82885,
+  "type": "manga",
+  "title": "Hoshikuzu Drop",
+  "url": "https://anilist.co/manga/86435",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86435-qYFeK4A2yR3F.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:05.000Z",
+  "updatedAt": "2021-05-20T14:52:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "28d50b6c-efe9-4f54-b953-40fe7c7c1866": {
+        "authors": [
+          "Kojima Lalako"
+        ],
+        "identifier": "28d50b6c-efe9-4f54-b953-40fe7c7c1866",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshikuzu Drop",
+        "url": "https://mangadex.org/title/28d50b6c-efe9-4f54-b953-40fe7c7c1866",
+        "image": "https://uploads.mangadex.org/covers/28d50b6c-efe9-4f54-b953-40fe7c7c1866/90c49120-444d-4863-8175-c13071cbe347.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82885,
+        "aniId": 86435,
+        "createdAt": "2020-10-12T16:08:39.000Z",
+        "updatedAt": "2021-06-04T11:39:59.000Z",
+        "deletedAt": null
+      },
+      "c47acc80-1b11-4ff8-a2ed-95bac541c7db": {
+        "authors": [
+          "Uzui"
+        ],
+        "identifier": "c47acc80-1b11-4ff8-a2ed-95bac541c7db",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshikusa no Ue no Jouji",
+        "url": "https://mangadex.org/title/c47acc80-1b11-4ff8-a2ed-95bac541c7db",
+        "image": "https://uploads.mangadex.org/covers/c47acc80-1b11-4ff8-a2ed-95bac541c7db/115a6033-4bdb-4c58-9c3f-3bcf2ecc1e74.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82885,
+        "aniId": 86435,
+        "createdAt": "2020-10-12T16:17:50.000Z",
+        "updatedAt": "2021-06-07T11:25:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hoshikuzu_drop": {
+        "authors": [],
+        "identifier": "hoshikuzu_drop",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hoshikuzu Drop",
+        "url": "https://manganelo.com/manga/hoshikuzu_drop",
+        "image": "https://avt.mkklcdnv6.com/6/r/3-1583467897.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82885,
+        "aniId": 86435,
+        "createdAt": "2020-10-12T16:23:24.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

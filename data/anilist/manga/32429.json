@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "from dusk till dawn"
+  ],
+  "authors": [
+    "Ellie Mamahara"
+  ],
+  "id": 32429,
+  "malId": 2429,
+  "type": "manga",
+  "title": "from dusk till dawn",
+  "url": "https://anilist.co/manga/32429",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32429-tdWcmAW9e043.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "from_dusk_till_dawn": {
+        "authors": [
+          "Mamahara",
+          "Ellie"
+        ],
+        "identifier": "from_dusk_till_dawn",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "From Dusk Till Dawn",
+        "url": "https://manganelo.com/manga/from_dusk_till_dawn",
+        "image": "https://avt.mkklcdnv6.com/24/x/7-1583477194.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2429,
+        "aniId": 32429,
+        "createdAt": "2021-01-04T12:26:57.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "a95ae8b7-d164-46da-af82-cd8ca9a4a440": {
+        "authors": [
+          "Mamahara Ellie"
+        ],
+        "identifier": "a95ae8b7-d164-46da-af82-cd8ca9a4a440",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "From Dusk Till Dawn",
+        "url": "https://mangadex.org/title/a95ae8b7-d164-46da-af82-cd8ca9a4a440",
+        "image": "https://uploads.mangadex.org/covers/a95ae8b7-d164-46da-af82-cd8ca9a4a440/0130d01e-2dfb-4d50-a2b6-b454109bac81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2429,
+        "aniId": 32429,
+        "createdAt": "2021-02-09T18:10:52.000Z",
+        "updatedAt": "2021-06-08T11:05:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

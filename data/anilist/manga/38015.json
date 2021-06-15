@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "成城紅茶館の事情"
+  ],
+  "authors": [
+    "Kumiko Suekane"
+  ],
+  "id": 38015,
+  "malId": 8015,
+  "type": "manga",
+  "title": "Seijou Kouchakan no Jijou",
+  "url": "https://anilist.co/manga/38015",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38015-h3gaXHM9vbuZ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:56.000Z",
+  "updatedAt": "2021-05-20T14:39:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a25a411d-4e97-42f4-a2d1-b32c88c092f2": {
+        "authors": [
+          "Suakane Kumiko"
+        ],
+        "identifier": "a25a411d-4e97-42f4-a2d1-b32c88c092f2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seijou Kouchakan no Jijou",
+        "url": "https://mangadex.org/title/a25a411d-4e97-42f4-a2d1-b32c88c092f2",
+        "image": "https://uploads.mangadex.org/covers/a25a411d-4e97-42f4-a2d1-b32c88c092f2/37cbcb50-2ca4-4765-b80f-34b0f5c67c88.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8015,
+        "aniId": 38015,
+        "createdAt": "2020-10-12T16:03:00.000Z",
+        "updatedAt": "2021-06-02T11:04:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "seijou_kouchakan_no_jijou": {
+        "authors": [
+          "SUEKANE Kumiko"
+        ],
+        "identifier": "seijou_kouchakan_no_jijou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seijou Kouchakan no Jijou",
+        "url": "https://fanfox.net/manga/seijou_kouchakan_no_jijou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3683/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8015,
+        "aniId": 38015,
+        "createdAt": "2021-03-26T16:49:25.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "seijou_kouchakan_no_jijou": {
+        "authors": [
+          "Suekane",
+          "Kumiko"
+        ],
+        "identifier": "seijou_kouchakan_no_jijou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seijou Kouchakan No Jijou",
+        "url": "https://manganelo.com/manga/seijou_kouchakan_no_jijou",
+        "image": "https://avt.mkklcdnv6temp.com/45/q/4-1583471609.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8015,
+        "aniId": 38015,
+        "createdAt": "2021-04-22T02:27:20.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

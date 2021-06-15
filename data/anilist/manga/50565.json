@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "いぬとねこ。",
+    "犬と猫",
+    "Puppy and Kitten",
+    "Dog and Cat"
+  ],
+  "authors": [
+    "Chiharu Kawai"
+  ],
+  "id": 50565,
+  "malId": 20565,
+  "type": "manga",
+  "title": "Inu to Neko",
+  "url": "https://anilist.co/manga/50565",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50565-O9TJa7IlBlLo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "25897645-6177-4681-bdba-4e7e938cc759": {
+        "authors": [
+          "Kawai Chiharu"
+        ],
+        "identifier": "25897645-6177-4681-bdba-4e7e938cc759",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inu to Neko.",
+        "url": "https://mangadex.org/title/25897645-6177-4681-bdba-4e7e938cc759",
+        "image": "https://uploads.mangadex.org/covers/25897645-6177-4681-bdba-4e7e938cc759/334f9aff-6afe-446a-8929-68d2aeb71f85.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20565,
+        "aniId": 50565,
+        "createdAt": "2020-10-12T16:09:45.000Z",
+        "updatedAt": "2021-06-04T19:49:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

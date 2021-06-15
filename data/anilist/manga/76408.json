@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "アゲイン"
+  ],
+  "authors": [
+    "Kazuo Umezu"
+  ],
+  "id": 76408,
+  "malId": 46408,
+  "type": "manga",
+  "title": "Again",
+  "url": "https://anilist.co/manga/76408",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46408.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:30.000Z",
+  "updatedAt": "2021-05-20T14:49:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7dfcd0bf-ff44-4586-a80b-84d591a0d58a": {
+        "authors": [
+          "Umezu Kazuo"
+        ],
+        "identifier": "7dfcd0bf-ff44-4586-a80b-84d591a0d58a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Again",
+        "url": "https://mangadex.org/title/7dfcd0bf-ff44-4586-a80b-84d591a0d58a",
+        "image": "https://uploads.mangadex.org/covers/7dfcd0bf-ff44-4586-a80b-84d591a0d58a/beb2a22c-375c-4048-8e53-248db3b6b3f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46408,
+        "aniId": 76408,
+        "createdAt": "2020-10-12T16:13:57.000Z",
+        "updatedAt": "2021-06-06T01:25:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

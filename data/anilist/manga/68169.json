@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "メイプルさんの紅茶時間",
+    "Maple-san no Kocha Jikan",
+    "Mayple-san no Tea Time",
+    "Ms. Mayple's Afternoon Tea Time",
+    "Miss Mayple's Afternoon Tea Time"
+  ],
+  "authors": [
+    "Kuuta Aoi"
+  ],
+  "id": 68169,
+  "malId": 38169,
+  "type": "manga",
+  "title": "Mayple-san no Koucha Jikan",
+  "url": "https://anilist.co/manga/68169",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/38169.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:37.000Z",
+  "updatedAt": "2021-05-20T14:48:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22fe3fa0-73ff-467f-8c49-dc18f74ef518": {
+        "authors": [
+          "AOI Kuuta"
+        ],
+        "identifier": "22fe3fa0-73ff-467f-8c49-dc18f74ef518",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ms. Mayple's Afternoon Tea Time",
+        "url": "https://mangadex.org/title/22fe3fa0-73ff-467f-8c49-dc18f74ef518",
+        "image": "https://uploads.mangadex.org/covers/22fe3fa0-73ff-467f-8c49-dc18f74ef518/1ff4160d-32cc-42e8-8d04-8c4421a8a375.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38169,
+        "aniId": 68169,
+        "createdAt": "2020-10-12T16:04:37.000Z",
+        "updatedAt": "2021-06-02T22:16:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

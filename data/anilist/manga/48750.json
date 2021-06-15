@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Love Story",
+    "ラブストーリー",
+    "Paradise Paradise"
+  ],
+  "authors": [
+    "Higashi Nishida"
+  ],
+  "id": 48750,
+  "malId": 18750,
+  "type": "manga",
+  "title": "Love Story",
+  "url": "https://anilist.co/manga/48750",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18750.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:14.000Z",
+  "updatedAt": "2021-05-20T14:45:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9389f45c-f2e8-46c0-ab45-4219cd5748a2": {
+        "authors": [
+          "Nishida Higashi"
+        ],
+        "identifier": "9389f45c-f2e8-46c0-ab45-4219cd5748a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Story",
+        "url": "https://mangadex.org/title/9389f45c-f2e8-46c0-ab45-4219cd5748a2",
+        "image": "https://uploads.mangadex.org/covers/9389f45c-f2e8-46c0-ab45-4219cd5748a2/d3164bfb-c059-495c-ba1a-9e40e51b02c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18750,
+        "aniId": 48750,
+        "createdAt": "2020-10-12T16:16:32.000Z",
+        "updatedAt": "2021-06-06T23:33:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

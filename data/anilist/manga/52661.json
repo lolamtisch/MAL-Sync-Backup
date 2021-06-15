@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "197X"
+  ],
+  "authors": [
+    "Naoki Yamamoto"
+  ],
+  "id": 52661,
+  "malId": 22661,
+  "type": "manga",
+  "title": "Blue",
+  "url": "https://anilist.co/manga/52661",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22661.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:32.000Z",
+  "updatedAt": "2021-05-20T14:46:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f51b443-a2f1-4b05-bca7-53f68b608749": {
+        "authors": [
+          "Yamamoto Naoki"
+        ],
+        "identifier": "2f51b443-a2f1-4b05-bca7-53f68b608749",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blue and Other Short Pieces",
+        "url": "https://mangadex.org/title/2f51b443-a2f1-4b05-bca7-53f68b608749",
+        "image": "https://uploads.mangadex.org/covers/2f51b443-a2f1-4b05-bca7-53f68b608749/5331be13-9e68-4788-9bfc-ff81d9ded573.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22661,
+        "aniId": 52661,
+        "createdAt": "2020-10-12T16:06:06.000Z",
+        "updatedAt": "2021-06-03T17:10:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

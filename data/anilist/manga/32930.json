@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "You Win",
+    "きみの勝ち",
+    "You Win",
+    "You Have Won",
+    "His Back",
+    "His Heart"
+  ],
+  "authors": [
+    "Yuuki Obata"
+  ],
+  "id": 32930,
+  "malId": 2930,
+  "type": "manga",
+  "title": "Kimi no Kachi",
+  "url": "https://anilist.co/manga/32930",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2930.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:16.000Z",
+  "updatedAt": "2021-05-20T14:37:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc447fd8-f1b1-4425-8953-38f7b7087f7b": {
+        "authors": [
+          "OBATA Yuuki"
+        ],
+        "identifier": "bc447fd8-f1b1-4425-8953-38f7b7087f7b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi no Kachi",
+        "url": "https://mangadex.org/title/bc447fd8-f1b1-4425-8953-38f7b7087f7b",
+        "image": "https://uploads.mangadex.org/covers/bc447fd8-f1b1-4425-8953-38f7b7087f7b/84cafc7c-ca12-40e1-a05b-2b69832b5dbe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2930,
+        "aniId": 32930,
+        "createdAt": "2020-10-12T16:06:31.000Z",
+        "updatedAt": "2021-06-03T20:12:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "悪魔に抱かれる",
+    "Devil's Clasp"
+  ],
+  "authors": [
+    "Maasu Matsuo"
+  ],
+  "id": 33137,
+  "malId": 3137,
+  "type": "manga",
+  "title": "Akuma ni Dakareru",
+  "url": "https://anilist.co/manga/33137",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3137.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "45071130-2ba4-442d-80fa-e253cc8c8a6f": {
+        "authors": [
+          "Matsuo Maasu"
+        ],
+        "identifier": "45071130-2ba4-442d-80fa-e253cc8c8a6f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akuma ni Dakareru",
+        "url": "https://mangadex.org/title/45071130-2ba4-442d-80fa-e253cc8c8a6f",
+        "image": "https://uploads.mangadex.org/covers/45071130-2ba4-442d-80fa-e253cc8c8a6f/25c96ee7-7052-4f8a-8caa-bf9fff56e4a0.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3137,
+        "aniId": 33137,
+        "createdAt": "2020-11-03T07:54:21.000Z",
+        "updatedAt": "2021-06-08T06:30:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

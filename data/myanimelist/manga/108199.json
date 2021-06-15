@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Hakata Pork Bones Ramens",
+    "博多豚骨ラーメンズ"
+  ],
+  "authors": [
+    "Akino, Kisara",
+    "Kisaki, Chiaki"
+  ],
+  "id": 108199,
+  "type": "manga",
+  "title": "Hakata Tonkotsu Ramens",
+  "url": "https://myanimelist.net/manga/108199/Hakata_Tonkotsu_Ramens",
+  "image": "https://cdn.myanimelist.net/images/manga/1/198596.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:08.000Z",
+  "updatedAt": "2021-04-30T22:19:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d01fe39d-5c63-4ad0-bd75-72dd3d5b2092": {
+        "authors": [
+          "Kisaki Chiaki",
+          "Akino Kisara"
+        ],
+        "identifier": "d01fe39d-5c63-4ad0-bd75-72dd3d5b2092",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakata Tonkotsu Ramens",
+        "url": "https://mangadex.org/title/d01fe39d-5c63-4ad0-bd75-72dd3d5b2092",
+        "image": "https://uploads.mangadex.org/covers/d01fe39d-5c63-4ad0-bd75-72dd3d5b2092/003d8435-0166-483b-bfaa-32faa763a16a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108199,
+        "aniId": 100988,
+        "createdAt": "2020-10-12T16:16:24.000Z",
+        "updatedAt": "2021-06-06T22:25:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hakata_tonkotsu_ramens": {
+        "authors": [
+          "KISAKI Chiaki"
+        ],
+        "identifier": "hakata_tonkotsu_ramens",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hakata Tonkotsu Ramens",
+        "url": "https://fanfox.net/manga/hakata_tonkotsu_ramens/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30761/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108199,
+        "aniId": 100988,
+        "createdAt": "2021-04-30T22:19:36.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

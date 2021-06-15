@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ストロベリーシェイクSWEET",
+    "草莓奶昔"
+  ],
+  "authors": [
+    "Shizuru Hayashiya"
+  ],
+  "id": 33935,
+  "malId": 3935,
+  "type": "manga",
+  "title": "Strawberry Shake Sweet",
+  "url": "https://anilist.co/manga/33935",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33935-ezWb877KkY2R.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:22.000Z",
+  "updatedAt": "2021-05-20T14:38:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2945a255-d107-442b-b720-05f91245cfd3": {
+        "authors": [
+          "Hayashiya Shizuru"
+        ],
+        "identifier": "2945a255-d107-442b-b720-05f91245cfd3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Strawberry Shake Sweet",
+        "url": "https://mangadex.org/title/2945a255-d107-442b-b720-05f91245cfd3",
+        "image": "https://uploads.mangadex.org/covers/2945a255-d107-442b-b720-05f91245cfd3/137113f4-9947-4b53-8d85-323918c84c21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3935,
+        "aniId": 33935,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:24:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sp958450": {
+        "authors": [
+          "Hayashiya Shizuru"
+        ],
+        "identifier": "manga-sp958450",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Strawberry Shake",
+        "url": "https://manganato.com/manga-sp958450",
+        "image": "https://avt.mkklcdnv6temp.com/26/p/5-1583472867.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3935,
+        "aniId": 33935,
+        "createdAt": "2021-06-04T20:21:09.000Z",
+        "updatedAt": "2021-06-04T20:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

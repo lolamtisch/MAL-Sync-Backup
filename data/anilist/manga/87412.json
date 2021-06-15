@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "12時からはじまる",
+    "Es beginnt um Mitternacht"
+  ],
+  "authors": [
+    "Ayane Ukyou"
+  ],
+  "id": 87412,
+  "malId": 93525,
+  "type": "manga",
+  "title": "12-ji Kara Hajimaru",
+  "url": "https://anilist.co/manga/87412",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87412-8KQtUmR89wqq.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:53:47.000Z",
+  "updatedAt": "2021-05-20T14:53:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "63a15aa6-0eaf-40b3-a956-e417d68978f9": {
+        "authors": [
+          "Sakyou Aya"
+        ],
+        "identifier": "63a15aa6-0eaf-40b3-a956-e417d68978f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "12-ji Kara Hajimaru",
+        "url": "https://mangadex.org/title/63a15aa6-0eaf-40b3-a956-e417d68978f9",
+        "image": "https://uploads.mangadex.org/covers/63a15aa6-0eaf-40b3-a956-e417d68978f9/ef8f635b-92a7-4726-9525-39acd783a2fa.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93525,
+        "aniId": 87412,
+        "createdAt": "2020-10-12T16:08:48.000Z",
+        "updatedAt": "2021-06-04T12:51:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

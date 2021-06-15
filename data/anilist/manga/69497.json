@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ひらひら"
+  ],
+  "authors": [
+    "Arare Ame"
+  ],
+  "id": 69497,
+  "malId": 39497,
+  "type": "manga",
+  "title": "Hira Hira",
+  "url": "https://anilist.co/manga/69497",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39497.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "373919be-607c-4e9d-af35-65f0ee95df87": {
+        "authors": [
+          "Ame Arare"
+        ],
+        "identifier": "373919be-607c-4e9d-af35-65f0ee95df87",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hira Hira",
+        "url": "https://mangadex.org/title/373919be-607c-4e9d-af35-65f0ee95df87",
+        "image": "https://uploads.mangadex.org/covers/373919be-607c-4e9d-af35-65f0ee95df87/f1c93a4c-326d-4ac1-a621-605550e235a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39497,
+        "aniId": 69497,
+        "createdAt": "2020-10-12T16:04:09.000Z",
+        "updatedAt": "2021-06-02T19:09:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

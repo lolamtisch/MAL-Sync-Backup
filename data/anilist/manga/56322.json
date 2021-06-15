@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "フースケ",
+    "L'homme qui aimait les fesses"
+  ],
+  "authors": [
+    "Osamu Tezuka",
+    "Jacques Lalloz",
+    "Rodolphe Masse"
+  ],
+  "id": 56322,
+  "malId": 26322,
+  "type": "manga",
+  "title": "Fuusuke",
+  "url": "https://anilist.co/manga/56322",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56322-Tyyrc58rWLgH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:02.000Z",
+  "updatedAt": "2021-06-14T23:27:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "21e66b71-4a24-469d-888e-0012a75089ef": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "21e66b71-4a24-469d-888e-0012a75089ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fuusuke",
+        "url": "https://mangadex.org/title/21e66b71-4a24-469d-888e-0012a75089ef",
+        "image": "https://uploads.mangadex.org/covers/21e66b71-4a24-469d-888e-0012a75089ef/9e39ba43-6f29-40d3-8769-5a855c8f5f76.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26322,
+        "aniId": 56322,
+        "createdAt": "2020-10-12T16:05:43.000Z",
+        "updatedAt": "2021-06-03T14:31:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fuusuke": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "fuusuke",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fuusuke",
+        "url": "https://mangasee123.com/manga/Fuusuke",
+        "image": "https://cover.nep.li/cover/Fuusuke.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26322,
+        "aniId": 56322,
+        "createdAt": "2021-04-08T21:51:11.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

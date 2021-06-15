@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ゆめうり",
+    "Dream Seller",
+    "Yumeuri",
+    "Yume Uri"
+  ],
+  "authors": [],
+  "id": 46901,
+  "malId": 16901,
+  "type": "manga",
+  "title": "Dreamseller",
+  "url": "https://anilist.co/manga/46901",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16901.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f788bc6f-56fc-4b35-9b0f-33cddfa2b7f9": {
+        "authors": [
+          "Unknown"
+        ],
+        "identifier": "f788bc6f-56fc-4b35-9b0f-33cddfa2b7f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dreamseller",
+        "url": "https://mangadex.org/title/f788bc6f-56fc-4b35-9b0f-33cddfa2b7f9",
+        "image": "https://uploads.mangadex.org/covers/f788bc6f-56fc-4b35-9b0f-33cddfa2b7f9/427898b2-be0e-4109-bab7-aa1910392dd1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16901,
+        "aniId": 46901,
+        "createdAt": "2020-10-12T16:12:10.000Z",
+        "updatedAt": "2021-06-05T13:51:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mb920798": {
+        "authors": [],
+        "identifier": "mb920798",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Damsel in Debt",
+        "url": "https://manganelo.com/manga/mb920798",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2195-mb920798.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16901,
+        "aniId": 46901,
+        "createdAt": "2020-10-12T16:24:16.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

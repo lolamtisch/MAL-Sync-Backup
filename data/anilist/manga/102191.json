@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Mourning Bride"
+  ],
+  "authors": [
+    "Daisuke Moriyama"
+  ],
+  "id": 102191,
+  "malId": 107233,
+  "type": "manga",
+  "title": "Mourning Bride",
+  "url": "https://anilist.co/manga/102191",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102191-hBZT7NmDp6HX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:50.000Z",
+  "updatedAt": "2021-05-20T14:55:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e8f66ace-6f8e-4ae0-85a3-f8c710f48493": {
+        "authors": [
+          "Moriyama Daisuke"
+        ],
+        "identifier": "e8f66ace-6f8e-4ae0-85a3-f8c710f48493",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mourning Bride",
+        "url": "https://mangadex.org/title/e8f66ace-6f8e-4ae0-85a3-f8c710f48493",
+        "image": "https://uploads.mangadex.org/covers/e8f66ace-6f8e-4ae0-85a3-f8c710f48493/cc13c367-19f9-44cb-bed8-79007ce3a954.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107233,
+        "aniId": 102191,
+        "createdAt": "2020-10-12T16:16:25.000Z",
+        "updatedAt": "2021-06-06T22:27:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

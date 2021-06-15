@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "緋の纏"
+  ],
+  "authors": [
+    "Miku Inui"
+  ],
+  "id": 46449,
+  "malId": 16449,
+  "type": "manga",
+  "title": "Hi no Matoi",
+  "url": "https://anilist.co/manga/46449",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46449-Yl6LFCUnQwnd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:55.000Z",
+  "updatedAt": "2021-05-20T14:43:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dca9c387-460e-4214-9fd6-fa683dc76533": {
+        "authors": [
+          "Inui Miku"
+        ],
+        "identifier": "dca9c387-460e-4214-9fd6-fa683dc76533",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hi no Matoi",
+        "url": "https://mangadex.org/title/dca9c387-460e-4214-9fd6-fa683dc76533",
+        "image": "https://uploads.mangadex.org/covers/dca9c387-460e-4214-9fd6-fa683dc76533/db2d7321-b76a-45af-a61f-8f4e285b8e66.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16449,
+        "aniId": 46449,
+        "createdAt": "2020-10-12T16:08:15.000Z",
+        "updatedAt": "2021-06-04T08:41:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

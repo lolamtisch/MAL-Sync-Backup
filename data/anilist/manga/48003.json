@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "起動戦士ガンダムMSジェネレーション",
+    "Kidou Senshi Gundam: MS Generation"
+  ],
+  "authors": [
+    "Rei Nakahara"
+  ],
+  "id": 48003,
+  "malId": 18003,
+  "type": "manga",
+  "title": "Mobile Suit Gundam: MS Generation",
+  "url": "https://anilist.co/manga/48003",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18003.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:14.000Z",
+  "updatedAt": "2021-05-20T14:44:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c71968a9-0c27-451c-a207-e02e669ae3a9": {
+        "authors": [
+          "Nakahara Rei"
+        ],
+        "identifier": "c71968a9-0c27-451c-a207-e02e669ae3a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kidou Senshi Gundam: MS Generation",
+        "url": "https://mangadex.org/title/c71968a9-0c27-451c-a207-e02e669ae3a9",
+        "image": "https://uploads.mangadex.org/covers/c71968a9-0c27-451c-a207-e02e669ae3a9/1dcc0624-e3cc-49c4-a97c-03103d63b57e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18003,
+        "aniId": 48003,
+        "createdAt": "2020-10-12T16:17:29.000Z",
+        "updatedAt": "2021-06-07T08:01:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

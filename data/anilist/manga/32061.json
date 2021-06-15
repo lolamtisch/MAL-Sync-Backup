@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Sakuran",
+    "さくらん",
+    "Derangement"
+  ],
+  "authors": [
+    "Moyoco Anno"
+  ],
+  "id": 32061,
+  "malId": 2061,
+  "type": "manga",
+  "title": "Sakuran",
+  "url": "https://anilist.co/manga/32061",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32061-kw0gD1d6Kn46.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1b7191cf-9688-46ce-b48f-f8cfac493654": {
+        "authors": [
+          "Anno Moyoco"
+        ],
+        "identifier": "1b7191cf-9688-46ce-b48f-f8cfac493654",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakuran",
+        "url": "https://mangadex.org/title/1b7191cf-9688-46ce-b48f-f8cfac493654",
+        "image": "https://uploads.mangadex.org/covers/1b7191cf-9688-46ce-b48f-f8cfac493654/d6c6491b-c872-4a9a-88a4-e466e584f0c1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2061,
+        "aniId": 32061,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:22:53.000Z",
+        "deletedAt": null
+      },
+      "59c6535f-a03a-4778-bcf4-c8c35f89d35d": {
+        "authors": [
+          "Sakurano Itsuki"
+        ],
+        "identifier": "59c6535f-a03a-4778-bcf4-c8c35f89d35d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pocky Day (Sakurano Itsuki)",
+        "url": "https://mangadex.org/title/59c6535f-a03a-4778-bcf4-c8c35f89d35d",
+        "image": "https://uploads.mangadex.org/covers/59c6535f-a03a-4778-bcf4-c8c35f89d35d/0be524f8-6d85-4031-8ffa-08f645c64e76.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2061,
+        "aniId": 32061,
+        "createdAt": "2020-10-12T16:18:42.000Z",
+        "updatedAt": "2021-06-07T19:20:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sakuran": {
+        "authors": [
+          "ANNO Moyoco"
+        ],
+        "identifier": "sakuran",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sakuran",
+        "url": "https://mangasee123.com/manga/Sakuran",
+        "image": "https://cover.nep.li/cover/Sakuran.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2061,
+        "aniId": 32061,
+        "createdAt": "2021-04-15T22:14:28.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

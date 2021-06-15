@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "Maoh: Juvenile Remix",
+    "魔王 ~JUVENILE REMIX~",
+    "Demon: Juvenile Remix"
+  ],
+  "authors": [
+    "Megumi Osuga",
+    "Kotaro Isaka",
+    "James Dashiell",
+    "Stephen Paul"
+  ],
+  "id": 40169,
+  "malId": 10169,
+  "type": "manga",
+  "title": "Maou: Juvenile Remix",
+  "url": "https://anilist.co/manga/40169",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40169-FeiEDdxj4Hvv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0dfe8baf-c34e-4653-9a12-8226d192c5c3": {
+        "authors": [
+          "Osuga Megumi",
+          "Isaka Kotaro"
+        ],
+        "identifier": "0dfe8baf-c34e-4653-9a12-8226d192c5c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maou - Juvenile Remix",
+        "url": "https://mangadex.org/title/0dfe8baf-c34e-4653-9a12-8226d192c5c3",
+        "image": "https://uploads.mangadex.org/covers/0dfe8baf-c34e-4653-9a12-8226d192c5c3/21873d0f-3b89-4541-a6fe-8a512cb73359.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10169,
+        "aniId": 40169,
+        "createdAt": "2020-10-12T16:04:05.000Z",
+        "updatedAt": "2021-06-02T18:36:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "maou_juvenile_remix": {
+        "authors": [
+          "Isaka",
+          "Kotaro"
+        ],
+        "identifier": "maou_juvenile_remix",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Maou - Juvenile Remix",
+        "url": "https://manganelo.com/manga/maou_juvenile_remix",
+        "image": "https://avt.mkklcdnv6temp.com/38/r/10-1583483570.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10169,
+        "aniId": 40169,
+        "createdAt": "2021-05-10T12:48:33.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

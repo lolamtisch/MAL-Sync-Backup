@@ -1,0 +1,104 @@
+{
+  "altTitle": [
+    "鳥籠ノ番"
+  ],
+  "authors": [
+    "Minami, Toutarou"
+  ],
+  "id": 42005,
+  "type": "manga",
+  "title": "Torikago no Tsugai",
+  "url": "https://myanimelist.net/manga/42005/Torikago_no_Tsugai",
+  "image": "https://cdn.myanimelist.net/images/manga/2/119177.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:14.000Z",
+  "updatedAt": "2021-04-01T14:01:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c48e5173-7e70-4791-b35a-008077c99645": {
+        "authors": [
+          "Minami Toutarou"
+        ],
+        "identifier": "c48e5173-7e70-4791-b35a-008077c99645",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Torikago no Tsugai",
+        "url": "https://mangadex.org/title/c48e5173-7e70-4791-b35a-008077c99645",
+        "image": "https://uploads.mangadex.org/covers/c48e5173-7e70-4791-b35a-008077c99645/f8c41b34-6371-47f2-83f5-481f9d881b92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42005,
+        "aniId": 72005,
+        "createdAt": "2020-10-12T16:05:17.000Z",
+        "updatedAt": "2021-06-03T11:30:48.000Z",
+        "deletedAt": null
+      },
+      "6e96113a-8b19-4f1a-8a6e-f485f90b3f52": {
+        "authors": [
+          "Amagappa Shoujogun"
+        ],
+        "identifier": "6e96113a-8b19-4f1a-8a6e-f485f90b3f52",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "hitorikagome",
+        "url": "https://mangadex.org/title/6e96113a-8b19-4f1a-8a6e-f485f90b3f52",
+        "image": "https://uploads.mangadex.org/covers/6e96113a-8b19-4f1a-8a6e-f485f90b3f52/f809b581-b049-4853-a23b-7f231430d182.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42005,
+        "aniId": 72005,
+        "createdAt": "2020-10-12T16:16:39.000Z",
+        "updatedAt": "2021-06-07T00:39:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "torikago_no_tsugai": {
+        "authors": [],
+        "identifier": "torikago_no_tsugai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Torikago No Tsugai",
+        "url": "https://manganelo.com/manga/torikago_no_tsugai",
+        "image": "https://avt.mkklcdnv6.com/41/f/2-1583467284.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42005,
+        "aniId": 72005,
+        "createdAt": "2020-10-12T16:25:47.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "torikago_no_tsugai": {
+        "authors": [
+          "MINAMI Toutarou"
+        ],
+        "identifier": "torikago_no_tsugai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Torikago no Tsugai",
+        "url": "https://fanfox.net/manga/torikago_no_tsugai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11041/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42005,
+        "aniId": 72005,
+        "createdAt": "2021-04-01T14:01:25.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

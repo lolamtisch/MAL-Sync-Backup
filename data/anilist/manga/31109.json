@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Menkui!",
+    "メンクイ！"
+  ],
+  "authors": [
+    "Suzuki Tanaka"
+  ],
+  "id": 31109,
+  "malId": 1109,
+  "type": "manga",
+  "title": "Menkui!",
+  "url": "https://anilist.co/manga/31109",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31109-9B7ro3smCQt2.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "02e6e17b-c7c9-4f92-8cff-5c9eb58048c2": {
+        "authors": [
+          "Tanaka Suzuki"
+        ],
+        "identifier": "02e6e17b-c7c9-4f92-8cff-5c9eb58048c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Menkui!",
+        "url": "https://mangadex.org/title/02e6e17b-c7c9-4f92-8cff-5c9eb58048c2",
+        "image": "https://uploads.mangadex.org/covers/02e6e17b-c7c9-4f92-8cff-5c9eb58048c2/6e2bb536-b826-4b8e-a777-67a2aeecee42.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1109,
+        "aniId": 31109,
+        "createdAt": "2020-10-12T16:07:00.000Z",
+        "updatedAt": "2021-06-03T23:37:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

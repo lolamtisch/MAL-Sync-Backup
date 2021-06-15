@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "恋のスーサイド",
+    "Love Suicide"
+  ],
+  "authors": [
+    "Atsushi Nakayama"
+  ],
+  "id": 52876,
+  "malId": 22876,
+  "type": "manga",
+  "title": "Koi no Suicide",
+  "url": "https://anilist.co/manga/52876",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52876-Oq6IiHgpnQei.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:33.000Z",
+  "updatedAt": "2021-05-20T14:46:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0eb8dd1d-1dbb-46cd-b610-6693f2a54630": {
+        "authors": [
+          "Nakayama Atsushi"
+        ],
+        "identifier": "0eb8dd1d-1dbb-46cd-b610-6693f2a54630",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Suicide",
+        "url": "https://mangadex.org/title/0eb8dd1d-1dbb-46cd-b610-6693f2a54630",
+        "image": "https://uploads.mangadex.org/covers/0eb8dd1d-1dbb-46cd-b610-6693f2a54630/d052db6c-5b44-4cee-aaf5-1d00a166161f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22876,
+        "aniId": 52876,
+        "createdAt": "2020-10-12T16:04:27.000Z",
+        "updatedAt": "2021-06-02T21:06:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "love_suicide": {
+        "authors": [
+          "Nakayama",
+          "Atsushi"
+        ],
+        "identifier": "love_suicide",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love Suicide",
+        "url": "https://manganelo.com/manga/love_suicide",
+        "image": "https://avt.mkklcdnv6temp.com/13/c/5-1583472360.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22876,
+        "aniId": 52876,
+        "createdAt": "2021-03-21T01:34:40.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "identifier": "heybot",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Heybot!",
+  "url": "https://www9.gogoanime.io/category/heybot",
+  "image": "https://cdnimg.xyz/cover/heybot.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 33434,
+  "aniId": 21848,
+  "createdAt": "2020-10-12T16:00:42.000Z",
+  "updatedAt": "2021-05-20T15:21:54.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "HEYBOT!",
+      "ヘボット!"
+    ],
+    "id": 33434,
+    "type": "anime",
+    "title": "Heybot!",
+    "url": "https://myanimelist.net/anime/33434/Heybot",
+    "image": "https://cdn.myanimelist.net/images/anime/12/82258.jpg",
+    "category": "TV",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:39:46.000Z",
+    "updatedAt": "2021-02-08T01:19:53.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ヘボット!"
+    ],
+    "id": 21848,
+    "malId": 33434,
+    "type": "anime",
+    "title": "Heybot!",
+    "url": "https://anilist.co/anime/21848",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21848-sDB60uBwY4Zl.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:43:09.000Z",
+    "updatedAt": "2021-05-20T14:43:09.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/33434/Heybot"
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Sable Prince",
+    "セーブル・プリンス"
+  ],
+  "authors": [
+    "Chisato Nesumi"
+  ],
+  "id": 45262,
+  "malId": 15262,
+  "type": "manga",
+  "title": "Sable Prince",
+  "url": "https://anilist.co/manga/45262",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15262.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8822f93a-39a0-4624-9dfe-d50ec97a5c09": {
+        "authors": [
+          "NESUMI Chisato"
+        ],
+        "identifier": "8822f93a-39a0-4624-9dfe-d50ec97a5c09",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sable Prince",
+        "url": "https://mangadex.org/title/8822f93a-39a0-4624-9dfe-d50ec97a5c09",
+        "image": "https://uploads.mangadex.org/covers/8822f93a-39a0-4624-9dfe-d50ec97a5c09/9f0fd0c4-02db-4628-8b45-1bb38813ede2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15262,
+        "aniId": 45262,
+        "createdAt": "2020-10-12T16:03:23.000Z",
+        "updatedAt": "2021-06-02T13:40:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sable_prince": {
+        "authors": [
+          "NESUMI Chisato"
+        ],
+        "identifier": "sable_prince",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sable Prince",
+        "url": "https://fanfox.net/manga/sable_prince/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6721/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15262,
+        "aniId": 45262,
+        "createdAt": "2021-05-14T21:24:47.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

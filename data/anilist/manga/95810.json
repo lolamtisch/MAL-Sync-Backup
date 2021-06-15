@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "眠り男と恋男",
+    "Yasashii Dinner",
+    "Sweet dinner",
+    "Yoru wo Nigeru",
+    "Run from the night",
+    "Escape from the night",
+    "Taiyou to Himitsu",
+    "Sun and secrets",
+    "Matsu Hana",
+    "A waiting flower"
+  ],
+  "authors": [
+    "Ranmaru Zaria"
+  ],
+  "id": 95810,
+  "malId": 92256,
+  "type": "manga",
+  "title": "Nemuri Otoko to Koi Otoko",
+  "url": "https://anilist.co/manga/95810",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95810-El8gp6DdLINn.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:53:38.000Z",
+  "updatedAt": "2021-06-05T12:19:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0298948b-241b-4076-950f-296aeafd7945": {
+        "authors": [
+          "Zariya Ranmaru"
+        ],
+        "identifier": "0298948b-241b-4076-950f-296aeafd7945",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nemuri Otoko to Koi Otoko",
+        "url": "https://mangadex.org/title/0298948b-241b-4076-950f-296aeafd7945",
+        "image": "https://uploads.mangadex.org/covers/0298948b-241b-4076-950f-296aeafd7945/f46c270c-9654-425d-ac97-79deba403162.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92256,
+        "aniId": 95810,
+        "createdAt": "2020-10-12T16:11:57.000Z",
+        "updatedAt": "2021-06-05T12:44:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nemuri_otoko_to_koi_otoko": {
+        "authors": [
+          "Zariya",
+          "Ranmaru"
+        ],
+        "identifier": "nemuri_otoko_to_koi_otoko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nemuri Otoko To Koi Otoko",
+        "url": "https://manganelo.com/manga/nemuri_otoko_to_koi_otoko",
+        "image": "https://avt.mkklcdnv6temp.com/42/k/3-1583469343.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92256,
+        "aniId": 95810,
+        "createdAt": "2021-05-13T09:55:13.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

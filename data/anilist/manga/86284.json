@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Queen's Quality",
+    "クイーンズ・クオリティ",
+    "The Mind Sweeper"
+  ],
+  "authors": [
+    "Kyousuke Motomi"
+  ],
+  "id": 86284,
+  "malId": 90334,
+  "type": "manga",
+  "title": "Queen's Quality",
+  "url": "https://anilist.co/manga/86284",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86284-NYFc0pOjoQkn.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:05.000Z",
+  "updatedAt": "2021-05-20T14:53:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "586c9e6d-28db-46ab-9575-31e26d578f04": {
+        "authors": [
+          "MOTOMI Kyousuke"
+        ],
+        "identifier": "586c9e6d-28db-46ab-9575-31e26d578f04",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Queen's Quality",
+        "url": "https://mangadex.org/title/586c9e6d-28db-46ab-9575-31e26d578f04",
+        "image": "https://uploads.mangadex.org/covers/586c9e6d-28db-46ab-9575-31e26d578f04/cb7de41e-e671-42e0-b113-d757159e0c50.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90334,
+        "aniId": 86284,
+        "createdAt": "2020-10-12T16:10:57.000Z",
+        "updatedAt": "2021-06-05T04:34:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "queens-quality": {
+        "authors": [
+          "MOTOMI Kyousuke"
+        ],
+        "identifier": "queens-quality",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Queen's Quality",
+        "url": "https://mangasee123.com/manga/Queens-Quality",
+        "image": "https://cover.nep.li/cover/Queens-Quality.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90334,
+        "aniId": 86284,
+        "createdAt": "2021-01-12T22:51:38.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

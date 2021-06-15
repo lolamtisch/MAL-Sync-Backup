@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "花は死にたがる",
+    "Wilted Flower"
+  ],
+  "authors": [
+    "Hinata Nakamura"
+  ],
+  "id": 127749,
+  "malId": 132618,
+  "type": "manga",
+  "title": "Hana wa Shi ni Tagaru",
+  "url": "https://anilist.co/manga/127749",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127749-YEC3eAbdBINe.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T09:56:25.000Z",
+  "updatedAt": "2021-06-08T09:56:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e1fc7a1-f644-4f4c-a0c2-d3738b6aef9b": {
+        "authors": [
+          "Nakamura Hinata"
+        ],
+        "identifier": "7e1fc7a1-f644-4f4c-a0c2-d3738b6aef9b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wilted Flower",
+        "url": "https://mangadex.org/title/7e1fc7a1-f644-4f4c-a0c2-d3738b6aef9b",
+        "image": "https://uploads.mangadex.org/covers/7e1fc7a1-f644-4f4c-a0c2-d3738b6aef9b/0a27b7af-2a4c-48ee-beae-47395ca3be41.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132618,
+        "aniId": 127749,
+        "createdAt": "2021-01-05T18:56:49.000Z",
+        "updatedAt": "2021-06-08T11:09:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

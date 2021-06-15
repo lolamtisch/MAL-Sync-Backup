@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Zマジンガ",
+    "Z Majingā"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 37695,
+  "malId": 7695,
+  "type": "manga",
+  "title": "Z Mazinger",
+  "url": "https://anilist.co/manga/37695",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37695-7rLy2tNhVEsr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:53.000Z",
+  "updatedAt": "2021-05-20T14:39:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3fc1063-fe87-4d56-8d47-8d7dace95e20": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "b3fc1063-fe87-4d56-8d47-8d7dace95e20",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Z Mazinger",
+        "url": "https://mangadex.org/title/b3fc1063-fe87-4d56-8d47-8d7dace95e20",
+        "image": "https://uploads.mangadex.org/covers/b3fc1063-fe87-4d56-8d47-8d7dace95e20/b9e5c063-c986-4f0d-ac79-37fed609bf67.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7695,
+        "aniId": 37695,
+        "createdAt": "2020-10-12T16:17:22.000Z",
+        "updatedAt": "2021-06-07T07:03:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

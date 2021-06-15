@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "休日と砂糖"
+  ],
+  "authors": [
+    "Zaria, Ranmaru"
+  ],
+  "id": 21846,
+  "type": "manga",
+  "title": "Kyuujitsu to Satou",
+  "url": "https://myanimelist.net/manga/21846/Kyuujitsu_to_Satou",
+  "image": "https://cdn.myanimelist.net/images/manga/3/35445.jpg",
+  "category": "Doujinshi",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:59.000Z",
+  "updatedAt": "2021-05-03T09:03:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9bf0e7cd-67cb-423b-b7fd-d29557a6e184": {
+        "authors": [
+          "Sagami Waka"
+        ],
+        "identifier": "9bf0e7cd-67cb-423b-b7fd-d29557a6e184",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ousama no Kyuujitsu",
+        "url": "https://mangadex.org/title/9bf0e7cd-67cb-423b-b7fd-d29557a6e184",
+        "image": "https://uploads.mangadex.org/covers/9bf0e7cd-67cb-423b-b7fd-d29557a6e184/c8906399-96ed-4e55-ada0-fc3204f818b0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21846,
+        "aniId": 51846,
+        "createdAt": "2020-10-12T16:18:25.000Z",
+        "updatedAt": "2021-06-07T16:49:49.000Z",
+        "deletedAt": null
+      },
+      "5400ecab-c814-4904-8b8d-c44b55240c1c": {
+        "authors": [
+          "Zariya Ranmaru"
+        ],
+        "identifier": "5400ecab-c814-4904-8b8d-c44b55240c1c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyuujitsu to Satou",
+        "url": "https://mangadex.org/title/5400ecab-c814-4904-8b8d-c44b55240c1c",
+        "image": "https://uploads.mangadex.org/covers/5400ecab-c814-4904-8b8d-c44b55240c1c/3a844d63-479a-4d66-8c44-4316cf969b9b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21846,
+        "aniId": 51846,
+        "createdAt": "2020-10-12T16:21:30.000Z",
+        "updatedAt": "2021-06-08T02:29:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

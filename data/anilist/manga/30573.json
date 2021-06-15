@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Wild Adapter",
+    "ワイルドアダプター"
+  ],
+  "authors": [
+    "Kazuya Minekura"
+  ],
+  "id": 30573,
+  "malId": 573,
+  "type": "manga",
+  "title": "Wild Adapter",
+  "url": "https://anilist.co/manga/30573",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30573-MpBTNqddXqdE.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "24c47dc1-9aa3-4301-ac31-7260d2945371": {
+        "authors": [
+          "Minekura Kazuya"
+        ],
+        "identifier": "24c47dc1-9aa3-4301-ac31-7260d2945371",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wild Adapter",
+        "url": "https://mangadex.org/title/24c47dc1-9aa3-4301-ac31-7260d2945371",
+        "image": "https://uploads.mangadex.org/covers/24c47dc1-9aa3-4301-ac31-7260d2945371/27f0b730-5a42-4b76-8fbd-849a22455974.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 573,
+        "aniId": 30573,
+        "createdAt": "2020-10-12T16:05:15.000Z",
+        "updatedAt": "2021-06-03T11:12:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

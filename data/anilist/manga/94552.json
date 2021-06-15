@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "NEWS×it"
+  ],
+  "authors": [
+    "KUROHA"
+  ],
+  "id": 94552,
+  "malId": 88065,
+  "type": "manga",
+  "title": "News x It",
+  "url": "https://anilist.co/manga/94552",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94552-e1pz4QX8PPGF.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:52.000Z",
+  "updatedAt": "2021-05-20T14:52:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b49ade9-3345-4baf-8e40-0176d9372254": {
+        "authors": [
+          "Kuroha"
+        ],
+        "identifier": "7b49ade9-3345-4baf-8e40-0176d9372254",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "NEWS×it",
+        "url": "https://mangadex.org/title/7b49ade9-3345-4baf-8e40-0176d9372254",
+        "image": "https://uploads.mangadex.org/covers/7b49ade9-3345-4baf-8e40-0176d9372254/1d7546ea-8145-4ac1-82b1-85a1256ea6e0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88065,
+        "aniId": 94552,
+        "createdAt": "2020-10-12T16:20:57.000Z",
+        "updatedAt": "2021-06-08T01:23:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ol923921": {
+        "authors": [],
+        "identifier": "ol923921",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "News×It",
+        "url": "https://manganelo.com/manga/ol923921",
+        "image": "https://avt.mkklcdnv6.com/4/z/22-1598589563.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88065,
+        "aniId": 94552,
+        "createdAt": "2020-10-12T16:24:41.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "news_x_it": {
+        "authors": [
+          "Kuroha"
+        ],
+        "identifier": "news_x_it",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "News x It",
+        "url": "https://fanfox.net/manga/news_x_it/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35981/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88065,
+        "aniId": 94552,
+        "createdAt": "2020-12-23T11:26:34.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

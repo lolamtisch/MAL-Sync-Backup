@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "モンスターズ"
+  ],
+  "authors": [
+    "Ryou Tasaka",
+    "Kengo Kurando"
+  ],
+  "id": 46896,
+  "malId": 16896,
+  "type": "manga",
+  "title": "Monsters",
+  "url": "https://anilist.co/manga/46896",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16896.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d83a749-5c02-4e01-91b2-c0c214280495": {
+        "authors": [
+          "TASAKA Ryou",
+          "KURANDO Kengo"
+        ],
+        "identifier": "0d83a749-5c02-4e01-91b2-c0c214280495",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Monsters",
+        "url": "https://mangadex.org/title/0d83a749-5c02-4e01-91b2-c0c214280495",
+        "image": "https://uploads.mangadex.org/covers/0d83a749-5c02-4e01-91b2-c0c214280495/16332f81-753e-43fb-b04f-ffaa8367293c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16896,
+        "aniId": 46896,
+        "createdAt": "2020-10-12T16:03:05.000Z",
+        "updatedAt": "2021-06-02T11:37:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

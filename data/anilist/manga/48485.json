@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "うさずきんたんっ"
+  ],
+  "authors": [
+    "Hokuto Mikami"
+  ],
+  "id": 48485,
+  "malId": 18485,
+  "type": "manga",
+  "title": "Little Red Rabbit Hood",
+  "url": "https://anilist.co/manga/48485",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18485.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:12.000Z",
+  "updatedAt": "2021-05-20T14:45:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "vw922451": {
+        "authors": [],
+        "identifier": "vw922451",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cunning Wolf Meets Little Rabbit",
+        "url": "https://manganelo.com/manga/vw922451",
+        "image": "https://avt.mkklcdnv6.com/44/m/20-1584233188.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18485,
+        "aniId": 48485,
+        "createdAt": "2020-10-12T16:26:05.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "しくしくしくし"
+  ],
+  "authors": [
+    "Rui, Tamachi"
+  ],
+  "id": 102844,
+  "type": "manga",
+  "title": "Shikushikushikushi",
+  "url": "https://myanimelist.net/manga/102844/Shikushikushikushi",
+  "image": "https://cdn.myanimelist.net/images/manga/2/202952.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:46.000Z",
+  "updatedAt": "2021-06-12T20:09:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27460a35-aa42-4764-8f8b-51e47df59762": {
+        "authors": [
+          "RUI Tamachi"
+        ],
+        "identifier": "27460a35-aa42-4764-8f8b-51e47df59762",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shikushiku Shikushi",
+        "url": "https://mangadex.org/title/27460a35-aa42-4764-8f8b-51e47df59762",
+        "image": "https://uploads.mangadex.org/covers/27460a35-aa42-4764-8f8b-51e47df59762/3780a737-8321-4513-96d7-4d08e39ed9f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102844,
+        "aniId": 122658,
+        "createdAt": "2020-10-12T16:06:17.000Z",
+        "updatedAt": "2021-06-03T18:31:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shikushiku_shikushi": {
+        "authors": [
+          "Rui",
+          "Tamachi"
+        ],
+        "identifier": "shikushiku_shikushi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shikushiku Shikushi",
+        "url": "https://manganelo.com/manga/shikushiku_shikushi",
+        "image": "https://avt.mkklcdnv6.com/5/o/17-1583495462.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102844,
+        "aniId": 122658,
+        "createdAt": "2020-12-12T19:47:47.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shikushiku_shikushi": {
+        "authors": [
+          "RUI Tamachi"
+        ],
+        "identifier": "shikushiku_shikushi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shikushiku Shikushi",
+        "url": "https://fanfox.net/manga/shikushiku_shikushi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28643/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102844,
+        "aniId": 122658,
+        "createdAt": "2020-12-23T16:56:04.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

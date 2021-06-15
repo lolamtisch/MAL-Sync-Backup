@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "ROMEO",
+    "Drago Star Player Romeo",
+    "DragoStarPlayer Romeo",
+    "D.S.P Romeo"
+  ],
+  "authors": [
+    "Asia Watanabe"
+  ],
+  "id": 101059,
+  "malId": 103606,
+  "type": "manga",
+  "title": "Romeo",
+  "url": "https://anilist.co/manga/101059",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101059-XgMrvWU3LKAi.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:04.000Z",
+  "updatedAt": "2021-05-20T14:55:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac68385a-ea18-4b46-b0c3-19c3d8cef6a1": {
+        "authors": [
+          "Watanabe Asia"
+        ],
+        "identifier": "ac68385a-ea18-4b46-b0c3-19c3d8cef6a1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "D.S.P Romeo",
+        "url": "https://mangadex.org/title/ac68385a-ea18-4b46-b0c3-19c3d8cef6a1",
+        "image": "https://uploads.mangadex.org/covers/ac68385a-ea18-4b46-b0c3-19c3d8cef6a1/9aad4d48-4d34-4bd6-9e4d-40a313d078fd.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103606,
+        "aniId": 101059,
+        "createdAt": "2020-10-12T16:18:26.000Z",
+        "updatedAt": "2021-06-07T16:56:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

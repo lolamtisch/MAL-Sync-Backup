@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "けいおん！Shuffle"
+  ],
+  "authors": [
+    "Kakifly"
+  ],
+  "id": 114623,
+  "type": "manga",
+  "title": "K-On! Shuffle",
+  "url": "https://myanimelist.net/manga/114623/K-On_Shuffle",
+  "image": "https://cdn.myanimelist.net/images/manga/1/244141.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:35.000Z",
+  "updatedAt": "2021-05-11T01:42:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2442e655-dcfe-4ed2-99de-d5b212836b64": {
+        "authors": [
+          "Kakifly"
+        ],
+        "identifier": "2442e655-dcfe-4ed2-99de-d5b212836b64",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "K-ON! Shuffle",
+        "url": "https://mangadex.org/title/2442e655-dcfe-4ed2-99de-d5b212836b64",
+        "image": "https://uploads.mangadex.org/covers/2442e655-dcfe-4ed2-99de-d5b212836b64/c3d46d29-e61a-48d9-85bb-236ddb53b641.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114623,
+        "aniId": 102317,
+        "createdAt": "2020-10-12T16:13:29.000Z",
+        "updatedAt": "2021-06-05T21:43:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kon_shuffle": {
+        "authors": [],
+        "identifier": "kon_shuffle",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "K-ON! Shuffle",
+        "url": "https://manganelo.com/manga/kon_shuffle",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20894-kon_shuffle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114623,
+        "aniId": 102317,
+        "createdAt": "2020-10-12T16:23:59.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "k_on_shuffle": {
+        "authors": [
+          "Kakifly"
+        ],
+        "identifier": "k_on_shuffle",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "K-ON! Shuffle",
+        "url": "https://fanfox.net/manga/k_on_shuffle/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28344/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114623,
+        "aniId": 102317,
+        "createdAt": "2021-05-11T01:42:33.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

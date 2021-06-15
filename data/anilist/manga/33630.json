@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "からっと!"
+  ],
+  "authors": [
+    "Yoshitomo Watanabe"
+  ],
+  "id": 33630,
+  "malId": 3630,
+  "type": "manga",
+  "title": "Carat!",
+  "url": "https://anilist.co/manga/33630",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3630.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:15.000Z",
+  "updatedAt": "2021-05-20T14:38:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1ad1638c-4c8a-47ef-9466-1d438ae307ea": {
+        "authors": [
+          "Watanabe Yoshitomo"
+        ],
+        "identifier": "1ad1638c-4c8a-47ef-9466-1d438ae307ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Carat!",
+        "url": "https://mangadex.org/title/1ad1638c-4c8a-47ef-9466-1d438ae307ea",
+        "image": "https://uploads.mangadex.org/covers/1ad1638c-4c8a-47ef-9466-1d438ae307ea/5f94d52c-81c6-45ec-888a-63ba0232472c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3630,
+        "aniId": 33630,
+        "createdAt": "2020-10-12T16:02:33.000Z",
+        "updatedAt": "2021-06-02T07:56:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

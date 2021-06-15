@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "喜劇は恋で進化する",
+    "Kigeki wa Koi de Shinkasuru",
+    "Comedy Evolves by Love"
+  ],
+  "authors": [
+    "Yuiji Aniya"
+  ],
+  "id": 46359,
+  "malId": 16359,
+  "type": "manga",
+  "title": "Kigeki wa Koi de Shinka Suru",
+  "url": "https://anilist.co/manga/46359",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16359.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T05:20:23.000Z",
+  "updatedAt": "2021-06-04T05:20:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "55471dea-3901-4dbf-bd7d-798e59af42ce": {
+        "authors": [
+          "Aniya Yuiji"
+        ],
+        "identifier": "55471dea-3901-4dbf-bd7d-798e59af42ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kigeki wa Koi de Shinkasuru",
+        "url": "https://mangadex.org/title/55471dea-3901-4dbf-bd7d-798e59af42ce",
+        "image": "https://uploads.mangadex.org/covers/55471dea-3901-4dbf-bd7d-798e59af42ce/ff074a26-1772-415c-94e5-754a26b23d3c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16359,
+        "aniId": 46359,
+        "createdAt": "2020-10-12T16:07:43.000Z",
+        "updatedAt": "2021-06-04T08:49:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

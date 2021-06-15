@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Makoto Haruno"
+  ],
+  "id": 40747,
+  "malId": 10747,
+  "type": "manga",
+  "title": "Toriya Trip",
+  "url": "https://anilist.co/manga/40747",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10747.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:08.000Z",
+  "updatedAt": "2021-05-20T14:41:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48ab5c2b-baa1-4c93-ba28-f72b550f96c6": {
+        "authors": [
+          "HARUNO Makoto"
+        ],
+        "identifier": "48ab5c2b-baa1-4c93-ba28-f72b550f96c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toriya Trip",
+        "url": "https://mangadex.org/title/48ab5c2b-baa1-4c93-ba28-f72b550f96c6",
+        "image": "https://uploads.mangadex.org/covers/48ab5c2b-baa1-4c93-ba28-f72b550f96c6/03ce6866-7b38-4ce2-bc90-fdf850296d67.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10747,
+        "aniId": 40747,
+        "createdAt": "2020-10-12T16:05:18.000Z",
+        "updatedAt": "2021-06-03T11:36:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

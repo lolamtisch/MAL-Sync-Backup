@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "단짝의 경계",
+    "Best Friends"
+  ],
+  "authors": [
+    "Sarkk",
+    "Ha Binyoo"
+  ],
+  "id": 126987,
+  "malId": null,
+  "type": "manga",
+  "title": "Danjjagui Gyeonggye",
+  "url": "https://anilist.co/manga/126987",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126987-tS5VmLXRL6ie.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-27T02:28:43.000Z",
+  "updatedAt": "2021-05-27T02:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2077da84-c995-4804-8264-99bf3a3561d5": {
+        "authors": [
+          "Habinu (하빈유)",
+          "Salk (삵)"
+        ],
+        "identifier": "2077da84-c995-4804-8264-99bf3a3561d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Best Friends",
+        "url": "https://mangadex.org/title/2077da84-c995-4804-8264-99bf3a3561d5",
+        "image": "https://uploads.mangadex.org/covers/2077da84-c995-4804-8264-99bf3a3561d5/4063a183-37f7-4078-9171-711f39136194.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126987,
+        "createdAt": "2020-10-12T16:20:42.000Z",
+        "updatedAt": "2021-06-08T00:52:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

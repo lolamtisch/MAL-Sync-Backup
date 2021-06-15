@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "アニサバ"
+  ],
+  "id": 108748,
+  "malId": 27757,
+  "type": "anime",
+  "title": "Anisava",
+  "url": "https://anilist.co/anime/108748",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108748-Xvn5K6MnrIVm.png",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:42.000Z",
+  "updatedAt": "2021-05-20T14:41:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Crunchyroll": {
+      "anisava": {
+        "identifier": "anisava",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "ANISAVA",
+        "url": "https://www.crunchyroll.com/anisava?media_id=659637",
+        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/152554613a5a085063676b018f2b47cd1408495964_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27757,
+        "aniId": 108748,
+        "createdAt": "2021-04-11T07:21:28.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "altTitle": [
+    "Blue Box",
+    "アオのハコ",
+    "青色之箱"
+  ],
+  "authors": [
+    "Kouji Miura",
+    "Yui Okino",
+    "Aki Hinohara"
+  ],
+  "id": 132182,
+  "malId": 135545,
+  "type": "manga",
+  "title": "Ao no Hako",
+  "url": "https://anilist.co/manga/132182",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132182-G4zwd3fPNGQW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:14.000Z",
+  "updatedAt": "2021-05-20T15:00:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "vq926394": {
+        "authors": [
+          "Miura",
+          "Kouji"
+        ],
+        "identifier": "vq926394",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Blue Box",
+        "url": "https://manganelo.com/manga/vq926394",
+        "image": "https://avt.mkklcdnv6temp.com/6/l/24-1618675007.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 135545,
+        "aniId": 132182,
+        "createdAt": "2021-04-17T17:14:18.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "blue-box": {
+        "authors": [
+          "MIURA Kouji"
+        ],
+        "identifier": "blue-box",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Blue Box",
+        "url": "https://mangasee123.com/manga/Blue-Box",
+        "image": "https://cover.nep.li/cover/Blue-Box.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135545,
+        "aniId": 132182,
+        "createdAt": "2021-04-26T00:29:17.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lg988863": {
+        "authors": [
+          "Miura Kouji"
+        ],
+        "identifier": "manga-lg988863",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Blue Box",
+        "url": "https://manganato.com/manga-lg988863",
+        "image": "https://avt.mkklcdnv6temp.com/6/l/24-1618675007.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135545,
+        "aniId": 132182,
+        "createdAt": "2021-05-29T05:16:39.000Z",
+        "updatedAt": "2021-05-29T05:42:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ao_no_hako": {
+        "authors": [
+          "MIURA Kouji"
+        ],
+        "identifier": "ao_no_hako",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ao no Hako",
+        "url": "https://fanfox.net/manga/ao_no_hako/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38352/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135545,
+        "aniId": 132182,
+        "createdAt": "2021-06-09T11:35:17.000Z",
+        "updatedAt": "2021-06-09T12:04:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

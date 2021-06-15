@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ヨメクラ"
+  ],
+  "authors": [
+    "Tarou Chiaki"
+  ],
+  "id": 97174,
+  "malId": 98234,
+  "type": "manga",
+  "title": "Yomekura",
+  "url": "https://anilist.co/manga/97174",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n97174-2l2kRfaQNuWa.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:11.000Z",
+  "updatedAt": "2021-05-20T14:54:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b80ee683-85a7-48ab-b57a-c9a3316653fe": {
+        "authors": [
+          "Chiaki Tarou"
+        ],
+        "identifier": "b80ee683-85a7-48ab-b57a-c9a3316653fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yomekura",
+        "url": "https://mangadex.org/title/b80ee683-85a7-48ab-b57a-c9a3316653fe",
+        "image": "https://uploads.mangadex.org/covers/b80ee683-85a7-48ab-b57a-c9a3316653fe/1fbe497c-e734-4f0d-8c4d-0fae5bfcf630.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98234,
+        "aniId": 97174,
+        "createdAt": "2020-10-12T16:10:05.000Z",
+        "updatedAt": "2021-06-04T22:11:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yomekura1": {
+        "authors": [],
+        "identifier": "yomekura1",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yomekura",
+        "url": "https://manganelo.com/manga/yomekura1",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17409-yomekura1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98234,
+        "aniId": 97174,
+        "createdAt": "2020-10-12T16:26:23.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yomekura": {
+        "authors": [
+          "CHIAKI Tarou"
+        ],
+        "identifier": "yomekura",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yomekura",
+        "url": "https://fanfox.net/manga/yomekura/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21621/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98234,
+        "aniId": 97174,
+        "createdAt": "2021-02-26T09:26:26.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

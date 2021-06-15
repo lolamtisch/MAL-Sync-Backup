@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Escape",
+    "エスケープ"
+  ],
+  "authors": [
+    "Miyamoto, Kano"
+  ],
+  "id": 3218,
+  "type": "manga",
+  "title": "Escape",
+  "url": "https://myanimelist.net/manga/3218/Escape",
+  "image": "https://cdn.myanimelist.net/images/manga/1/6255.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:49.000Z",
+  "updatedAt": "2021-04-28T00:49:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec259c36-f12e-4cab-86b9-f33bb3a31434": {
+        "authors": [
+          "Miyamoto Kano"
+        ],
+        "identifier": "ec259c36-f12e-4cab-86b9-f33bb3a31434",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Escape",
+        "url": "https://mangadex.org/title/ec259c36-f12e-4cab-86b9-f33bb3a31434",
+        "image": "https://uploads.mangadex.org/covers/ec259c36-f12e-4cab-86b9-f33bb3a31434/217d1a58-c7a5-4b79-951d-b92286ccb7ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3218,
+        "aniId": 33218,
+        "createdAt": "2020-10-12T16:07:15.000Z",
+        "updatedAt": "2021-06-04T01:28:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "escape_devildom": {
+        "authors": [],
+        "identifier": "escape_devildom",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Escape Devildom",
+        "url": "https://manganelo.com/manga/escape_devildom",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19734-escape_devildom.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3218,
+        "aniId": 33218,
+        "createdAt": "2020-10-12T16:22:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

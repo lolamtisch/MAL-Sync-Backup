@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "箱館妖人無頼帖 ヒメガミ",
+    "Hakodate Youjin Buraichou Himegami",
+    "Tale of the Hakodate Youjin Outlaws - Himegami"
+  ],
+  "authors": [
+    "Nozomu Tamaki"
+  ],
+  "id": 39895,
+  "malId": 9895,
+  "type": "manga",
+  "title": "Himegami",
+  "url": "https://anilist.co/manga/39895",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx39895-SBCbOokjmqt9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:59.000Z",
+  "updatedAt": "2021-05-20T14:40:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c469a22-eaae-429f-945b-434003713dfc": {
+        "authors": [
+          "Tamaki Nozomu"
+        ],
+        "identifier": "7c469a22-eaae-429f-945b-434003713dfc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakodate Youjin Buraichou Himegami",
+        "url": "https://mangadex.org/title/7c469a22-eaae-429f-945b-434003713dfc",
+        "image": "https://uploads.mangadex.org/covers/7c469a22-eaae-429f-945b-434003713dfc/71e8fc48-b61c-4e70-8b70-19480c0039a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9895,
+        "aniId": 39895,
+        "createdAt": "2020-10-12T16:04:54.000Z",
+        "updatedAt": "2021-06-03T00:17:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hakodate-youjin-buraichou-himegami": {
+        "authors": [
+          "TAMAKI Nozomu"
+        ],
+        "identifier": "hakodate-youjin-buraichou-himegami",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hakodate Youjin Buraichou Himegami",
+        "url": "https://mangasee123.com/manga/Hakodate-Youjin-Buraichou-Himegami",
+        "image": "https://cover.nep.li/cover/Hakodate-Youjin-Buraichou-Himegami.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9895,
+        "aniId": 39895,
+        "createdAt": "2021-04-30T06:51:11.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

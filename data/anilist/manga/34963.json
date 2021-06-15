@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "僕らの変拍子",
+    "Our Rhythm Change",
+    "Yuurei no Iru Machi",
+    "Genkoku Kyoushi RC-01",
+    "Sametemita Yume",
+    "Giniro Jitensha",
+    "Konna Kanji",
+    "Rokujou Gekijou"
+  ],
+  "authors": [
+    "Kei Toume"
+  ],
+  "id": 34963,
+  "malId": 4963,
+  "type": "manga",
+  "title": "Bokura no Henbyoushi",
+  "url": "https://anilist.co/manga/34963",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34963-VmNkTXcDmVkl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:38.000Z",
+  "updatedAt": "2021-05-20T14:38:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e3a975db-d297-4d25-a50a-efa5d14fc17f": {
+        "authors": [
+          "Toume Kei"
+        ],
+        "identifier": "e3a975db-d297-4d25-a50a-efa5d14fc17f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bokura no Henbyoushi",
+        "url": "https://mangadex.org/title/e3a975db-d297-4d25-a50a-efa5d14fc17f",
+        "image": "https://uploads.mangadex.org/covers/e3a975db-d297-4d25-a50a-efa5d14fc17f/48e54217-864c-4f34-961d-ed49030d3273.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4963,
+        "aniId": 34963,
+        "createdAt": "2020-10-12T16:04:14.000Z",
+        "updatedAt": "2021-06-02T19:44:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bokura-no-henbyoushi": {
+        "authors": [
+          "TOUME Kei"
+        ],
+        "identifier": "bokura-no-henbyoushi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bokura no Henbyoushi",
+        "url": "https://mangasee123.com/manga/Bokura-No-Henbyoushi",
+        "image": "https://cover.nep.li/cover/Bokura-No-Henbyoushi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4963,
+        "aniId": 34963,
+        "createdAt": "2021-06-09T19:05:00.000Z",
+        "updatedAt": "2021-06-09T19:34:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

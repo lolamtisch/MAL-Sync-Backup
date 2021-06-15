@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "プライマル"
+  ],
+  "authors": [
+    "Hikari Shibata"
+  ],
+  "id": 104111,
+  "malId": 114020,
+  "type": "manga",
+  "title": "Primal",
+  "url": "https://anilist.co/manga/104111",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b104111-kM6HGs5nmSKA.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T08:19:29.000Z",
+  "updatedAt": "2021-06-05T08:19:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fa283a9b-5f72-4fa3-8448-afb8dda4032a": {
+        "authors": [
+          "Shibata Hikari"
+        ],
+        "identifier": "fa283a9b-5f72-4fa3-8448-afb8dda4032a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Primal",
+        "url": "https://mangadex.org/title/fa283a9b-5f72-4fa3-8448-afb8dda4032a",
+        "image": "https://uploads.mangadex.org/covers/fa283a9b-5f72-4fa3-8448-afb8dda4032a/7d567bee-e67d-49a5-9bdb-8f0bcbc281b5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 114020,
+        "aniId": 104111,
+        "createdAt": "2020-10-12T16:11:25.000Z",
+        "updatedAt": "2021-06-05T08:58:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

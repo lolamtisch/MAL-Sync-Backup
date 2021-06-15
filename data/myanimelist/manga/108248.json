@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Poppy's Wish",
+    "ポピィの願い"
+  ],
+  "authors": [
+    "Demizu, Posuka",
+    "Shirai, Kaiu"
+  ],
+  "id": 108248,
+  "type": "manga",
+  "title": "Poppy no Negai",
+  "url": "https://myanimelist.net/manga/108248/Poppy_no_Negai",
+  "image": "https://cdn.myanimelist.net/images/manga/3/224178.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2021-03-14T16:39:57.000Z",
+  "updatedAt": "2021-05-24T17:08:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5fbf2f57-c4cf-478a-b80e-7816ebb1c4a1": {
+        "authors": [
+          "Demizu Posuka",
+          "Shirai Kaiu"
+        ],
+        "identifier": "5fbf2f57-c4cf-478a-b80e-7816ebb1c4a1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Poppy no Negai",
+        "url": "https://mangadex.org/title/5fbf2f57-c4cf-478a-b80e-7816ebb1c4a1",
+        "image": "https://uploads.mangadex.org/covers/5fbf2f57-c4cf-478a-b80e-7816ebb1c4a1/d5b63182-c6f4-48ab-aaf5-ee286dc33de8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108248,
+        "aniId": 100463,
+        "createdAt": "2020-10-12T16:10:50.000Z",
+        "updatedAt": "2021-06-05T03:41:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "poppy_no_negai": {
+        "authors": [
+          "Kaiu Shirai"
+        ],
+        "identifier": "poppy_no_negai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Poppy no Negai",
+        "url": "https://fanfox.net/manga/poppy_no_negai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25903/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108248,
+        "aniId": 100463,
+        "createdAt": "2021-05-24T17:08:39.000Z",
+        "updatedAt": "2021-05-24T17:38:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

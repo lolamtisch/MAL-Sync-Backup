@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Eight",
+    "エイト",
+    "8"
+  ],
+  "authors": [
+    "Atsushi Kamijo"
+  ],
+  "id": 38734,
+  "malId": 8734,
+  "type": "manga",
+  "title": "Eight",
+  "url": "https://anilist.co/manga/38734",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8734.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0001183c-2089-48e9-96b7-d48db5f1a611": {
+        "authors": [
+          "Kamijo Atsushi"
+        ],
+        "identifier": "0001183c-2089-48e9-96b7-d48db5f1a611",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eight",
+        "url": "https://mangadex.org/title/0001183c-2089-48e9-96b7-d48db5f1a611",
+        "image": "https://uploads.mangadex.org/covers/0001183c-2089-48e9-96b7-d48db5f1a611/07182ce0-61ec-4c2f-a868-221fd70c3826.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8734,
+        "aniId": 38734,
+        "createdAt": "2020-10-12T16:02:46.000Z",
+        "updatedAt": "2021-06-02T09:17:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

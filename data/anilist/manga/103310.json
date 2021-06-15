@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "みみみっくす！"
+  ],
+  "authors": [
+    "Madoka Hirose"
+  ],
+  "id": 103310,
+  "malId": 104555,
+  "type": "manga",
+  "title": "Mimi Mix!",
+  "url": "https://anilist.co/manga/103310",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103310-DNYxZgLhaYR8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:11.000Z",
+  "updatedAt": "2021-05-20T14:55:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "99293af2-7810-4e30-9a13-d12306b05b91": {
+        "authors": [
+          "Hirose Madoka"
+        ],
+        "identifier": "99293af2-7810-4e30-9a13-d12306b05b91",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mimi Mix!",
+        "url": "https://mangadex.org/title/99293af2-7810-4e30-9a13-d12306b05b91",
+        "image": "https://uploads.mangadex.org/covers/99293af2-7810-4e30-9a13-d12306b05b91/2eece1a8-1b66-4322-8745-75e2ab7b8db3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104555,
+        "aniId": 103310,
+        "createdAt": "2020-10-12T16:17:21.000Z",
+        "updatedAt": "2021-06-07T06:59:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ke920796": {
+        "authors": [],
+        "identifier": "ke920796",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mimi Mix!",
+        "url": "https://manganelo.com/manga/ke920796",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2193-ke920796.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104555,
+        "aniId": 103310,
+        "createdAt": "2020-10-12T16:23:52.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "羣青",
+    "Gunjo",
+    "Ultramarine"
+  ],
+  "authors": [
+    "Ching Nakamura"
+  ],
+  "id": 41866,
+  "malId": 11866,
+  "type": "manga",
+  "title": "Gunjou",
+  "url": "https://anilist.co/manga/41866",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41866-ZzgusRjx47dy.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:14.000Z",
+  "updatedAt": "2021-05-20T14:42:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3c7d88a-8e54-4ae1-98b7-3596d74b9f32": {
+        "authors": [
+          "Nakamura Ching"
+        ],
+        "identifier": "b3c7d88a-8e54-4ae1-98b7-3596d74b9f32",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gunjo",
+        "url": "https://mangadex.org/title/b3c7d88a-8e54-4ae1-98b7-3596d74b9f32",
+        "image": "https://uploads.mangadex.org/covers/b3c7d88a-8e54-4ae1-98b7-3596d74b9f32/4e350acd-716c-4ac3-892a-eb289ee7f9d0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11866,
+        "aniId": 41866,
+        "createdAt": "2020-10-12T16:02:27.000Z",
+        "updatedAt": "2021-06-02T06:59:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gunjou": {
+        "authors": [],
+        "identifier": "gunjou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gunjou",
+        "url": "https://manganelo.com/manga/gunjou",
+        "image": "https://avt.mkklcdnv6.com/18/i/1-1583464409.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11866,
+        "aniId": 41866,
+        "createdAt": "2020-10-12T16:23:11.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gunjo": {
+        "authors": [
+          "NAKAMURA Ching"
+        ],
+        "identifier": "gunjo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gunjo",
+        "url": "https://mangasee123.com/manga/Gunjo",
+        "image": "https://cover.nep.li/cover/Gunjo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11866,
+        "aniId": 41866,
+        "createdAt": "2021-05-04T03:34:21.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

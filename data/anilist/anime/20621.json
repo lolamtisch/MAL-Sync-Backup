@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "マジンボーン"
+  ],
+  "id": 20621,
+  "malId": 21835,
+  "type": "anime",
+  "title": "Majin Bone",
+  "url": "https://anilist.co/anime/20621",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20621-zV3JcVAMqVK8.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:30.000Z",
+  "updatedAt": "2021-05-20T14:41:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "kx3v": {
+        "identifier": "kx3v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Majin Bone",
+        "url": "https://9anime.ru/watch/majin-bone.kx3v",
+        "image": "https://static.akacdn.ru/static/images/2018/04/3aeabbd543612a22f05b9dd683820eb6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21835,
+        "aniId": 20621,
+        "createdAt": "2020-10-12T15:52:48.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "majin-bone": {
+        "identifier": "majin-bone",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Majin Bone",
+        "url": "https://www.gogoanime.movie/category/majin-bone",
+        "image": "https://gogocdn.net/images/spring/Majin Bone.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21835,
+        "aniId": 20621,
+        "createdAt": "2020-10-12T16:01:13.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "majin%20bone": {
+        "identifier": "majin%20bone",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Majin Bone",
+        "url": "https://www.crunchyroll.com/majin-bone?media_id=652067",
+        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/e64e4cf4c66f3f6211bdf90f4627195a1396386090_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21835,
+        "aniId": 20621,
+        "createdAt": "2021-01-23T04:34:36.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

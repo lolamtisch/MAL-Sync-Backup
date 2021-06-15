@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "テンコ"
+  ],
+  "authors": [
+    "Kouhei Horikoshi"
+  ],
+  "id": 111958,
+  "malId": 121031,
+  "type": "manga",
+  "title": "Tenko",
+  "url": "https://anilist.co/manga/111958",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111958-G3X7hVxn5WJ7.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:19.000Z",
+  "updatedAt": "2021-05-20T14:58:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33f1397b-07d1-4dfc-b42a-a428a41fe55b": {
+        "authors": [
+          "Horikoshi Kouhei"
+        ],
+        "identifier": "33f1397b-07d1-4dfc-b42a-a428a41fe55b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenko",
+        "url": "https://mangadex.org/title/33f1397b-07d1-4dfc-b42a-a428a41fe55b",
+        "image": "https://uploads.mangadex.org/covers/33f1397b-07d1-4dfc-b42a-a428a41fe55b/ae8936e0-b18e-4e3c-8d4e-607a0500be94.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121031,
+        "aniId": 111958,
+        "createdAt": "2020-10-12T16:16:05.000Z",
+        "updatedAt": "2021-06-06T19:28:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

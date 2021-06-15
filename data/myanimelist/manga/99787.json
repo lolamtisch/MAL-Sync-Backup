@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "竜と勇者と配達人"
+  ],
+  "authors": [
+    "Yamada, Gregorious"
+  ],
+  "id": 99787,
+  "type": "manga",
+  "title": "Ryuu to Yuusha to Haitatsunin",
+  "url": "https://myanimelist.net/manga/99787/Ryuu_to_Yuusha_to_Haitatsunin",
+  "image": "https://cdn.myanimelist.net/images/manga/2/191164.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:34.000Z",
+  "updatedAt": "2020-12-25T19:26:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fd604f6e-a784-4c6b-ab00-565a996c33f8": {
+        "authors": [
+          "Gregorius Yamada"
+        ],
+        "identifier": "fd604f6e-a784-4c6b-ab00-565a996c33f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Dragon, the Hero, and the Courier",
+        "url": "https://mangadex.org/title/fd604f6e-a784-4c6b-ab00-565a996c33f8",
+        "image": "https://uploads.mangadex.org/covers/fd604f6e-a784-4c6b-ab00-565a996c33f8/627afadb-348b-4c63-9d25-7917ae4b85be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99787,
+        "aniId": 114187,
+        "createdAt": "2020-10-12T16:17:48.000Z",
+        "updatedAt": "2021-06-07T11:16:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ryuu_to_yuusha_to_haitatsunin": {
+        "authors": [
+          "GREGORIUS Yamada"
+        ],
+        "identifier": "ryuu_to_yuusha_to_haitatsunin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ryuu to Yuusha to Haitatsunin",
+        "url": "https://fanfox.net/manga/ryuu_to_yuusha_to_haitatsunin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32462/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99787,
+        "aniId": 114187,
+        "createdAt": "2020-12-25T19:26:17.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

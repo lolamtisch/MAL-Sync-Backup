@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ヴァーミリオン",
+    "Vermilion"
+  ],
+  "authors": [
+    "Satou Atsuki"
+  ],
+  "id": 69617,
+  "malId": 39617,
+  "type": "manga",
+  "title": "Vermillion",
+  "url": "https://anilist.co/manga/69617",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39617.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7": {
+        "authors": [
+          "Satou Atsuki"
+        ],
+        "identifier": "d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vermillion",
+        "url": "https://mangadex.org/title/d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7",
+        "image": "https://uploads.mangadex.org/covers/d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7/79f551fb-88ab-46d1-8110-b6cb41a094e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39617,
+        "aniId": 69617,
+        "createdAt": "2020-10-12T16:04:45.000Z",
+        "updatedAt": "2021-06-02T23:14:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "vermillion": {
+        "authors": [
+          "SATOH Atsuki"
+        ],
+        "identifier": "vermillion",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Vermillion",
+        "url": "https://mangasee123.com/manga/Vermillion",
+        "image": "https://cover.nep.li/cover/Vermillion.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39617,
+        "aniId": 69617,
+        "createdAt": "2021-05-26T21:58:56.000Z",
+        "updatedAt": "2021-05-26T22:28:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

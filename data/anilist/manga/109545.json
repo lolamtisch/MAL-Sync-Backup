@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "さらざんまい"
+  ],
+  "authors": [
+    "Miggy",
+    "Kunihiko Ikuhara"
+  ],
+  "id": 109545,
+  "malId": 119875,
+  "type": "manga",
+  "title": "Sarazanmai",
+  "url": "https://anilist.co/manga/109545",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109545-0KJ4FA6QFN3T.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:13.000Z",
+  "updatedAt": "2021-05-20T14:58:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fa9a57c1-ec23-444d-8ce4-def3cd8a1bb8": {
+        "authors": [
+          "Ikunirapper",
+          "Ikuhara Kunihiko",
+          "Miggy"
+        ],
+        "identifier": "fa9a57c1-ec23-444d-8ce4-def3cd8a1bb8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sarazanmai",
+        "url": "https://mangadex.org/title/fa9a57c1-ec23-444d-8ce4-def3cd8a1bb8",
+        "image": "https://uploads.mangadex.org/covers/fa9a57c1-ec23-444d-8ce4-def3cd8a1bb8/5c043fe1-42b5-4203-9735-cb8c29084da1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119875,
+        "aniId": 109545,
+        "createdAt": "2020-10-12T16:16:04.000Z",
+        "updatedAt": "2021-06-06T19:27:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

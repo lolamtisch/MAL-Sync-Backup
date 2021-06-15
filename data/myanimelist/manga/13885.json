@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "My Name is Nero",
+    "我が名はネロ"
+  ],
+  "authors": [
+    "Yasuhiko, Yoshikazu"
+  ],
+  "id": 13885,
+  "type": "manga",
+  "title": "Waga Na wa Nero",
+  "url": "https://myanimelist.net/manga/13885/Waga_Na_wa_Nero",
+  "image": "https://cdn.myanimelist.net/images/manga/1/178423.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:01.000Z",
+  "updatedAt": "2021-05-01T19:02:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "75edfbac-7a1d-43c1-bd15-29fff56b70b9": {
+        "authors": [
+          "Yasuhiko Yoshikazu"
+        ],
+        "identifier": "75edfbac-7a1d-43c1-bd15-29fff56b70b9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Waga Na wa Nero",
+        "url": "https://mangadex.org/title/75edfbac-7a1d-43c1-bd15-29fff56b70b9",
+        "image": "https://uploads.mangadex.org/covers/75edfbac-7a1d-43c1-bd15-29fff56b70b9/1023003b-b786-4a92-b250-20b954295526.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13885,
+        "aniId": 43885,
+        "createdAt": "2020-10-12T16:04:06.000Z",
+        "updatedAt": "2021-06-02T18:42:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

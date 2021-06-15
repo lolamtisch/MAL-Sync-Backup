@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "コンフリクト・ラバー",
+    "Lovers in Conflict"
+  ],
+  "authors": [
+    "Satoru Takamiya"
+  ],
+  "id": 81867,
+  "malId": 51867,
+  "type": "manga",
+  "title": "Conflict Lover",
+  "url": "https://anilist.co/manga/81867",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81867-mVq9CLbmZQ9A.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:52.000Z",
+  "updatedAt": "2021-05-20T14:49:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "83087eec-69b6-40ec-bbeb-cab386945061": {
+        "authors": [
+          "Takamiya Satoru"
+        ],
+        "identifier": "83087eec-69b6-40ec-bbeb-cab386945061",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lovers in Conflict",
+        "url": "https://mangadex.org/title/83087eec-69b6-40ec-bbeb-cab386945061",
+        "image": "https://uploads.mangadex.org/covers/83087eec-69b6-40ec-bbeb-cab386945061/4af6fbdd-1f22-43fc-9758-6579fdc6fd13.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51867,
+        "aniId": 81867,
+        "createdAt": "2020-10-12T16:06:25.000Z",
+        "updatedAt": "2021-06-03T19:36:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "a_sea_of_conflicts": {
+        "authors": [],
+        "identifier": "a_sea_of_conflicts",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "A Sea Of Conflicts",
+        "url": "https://manganelo.com/manga/a_sea_of_conflicts",
+        "image": "https://avt.mkklcdnv6.com/37/c/16-1583494798.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51867,
+        "aniId": 81867,
+        "createdAt": "2020-10-12T16:21:59.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

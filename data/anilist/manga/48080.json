@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "たまとたまと",
+    "Tama to Tama to",
+    "With Tama and Tama"
+  ],
+  "authors": [
+    "Chinjaorosu"
+  ],
+  "id": 48080,
+  "malId": 18080,
+  "type": "manga",
+  "title": "Tama to Tama",
+  "url": "https://anilist.co/manga/48080",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx48080-i7rydCYj5uAx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:09.000Z",
+  "updatedAt": "2021-05-20T14:45:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "95e8225f-ef59-45fb-8e76-a5215cdb55ab": {
+        "authors": [
+          "Chinjaorosu"
+        ],
+        "identifier": "95e8225f-ef59-45fb-8e76-a5215cdb55ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tama to Tama to",
+        "url": "https://mangadex.org/title/95e8225f-ef59-45fb-8e76-a5215cdb55ab",
+        "image": "https://uploads.mangadex.org/covers/95e8225f-ef59-45fb-8e76-a5215cdb55ab/c72b91d3-8165-4eff-bdad-00a9b30ecdff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18080,
+        "aniId": 48080,
+        "createdAt": "2020-10-12T16:05:32.000Z",
+        "updatedAt": "2021-06-03T13:20:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

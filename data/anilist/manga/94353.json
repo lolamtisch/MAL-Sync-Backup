@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "花に、かみつく",
+    "Ato, Mou Hitokuchi dake."
+  ],
+  "authors": [
+    "Yakko Kaga"
+  ],
+  "id": 94353,
+  "malId": 87416,
+  "type": "manga",
+  "title": "Hana ni, Kamitsuku",
+  "url": "https://anilist.co/manga/94353",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94353-mlMBUscgz2AH.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:48.000Z",
+  "updatedAt": "2021-05-20T14:52:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c82f0b00-c581-4e84-b03b-72d36990ddff": {
+        "authors": [
+          "Kaga Yakko"
+        ],
+        "identifier": "c82f0b00-c581-4e84-b03b-72d36990ddff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana ni, Kamitsuku",
+        "url": "https://mangadex.org/title/c82f0b00-c581-4e84-b03b-72d36990ddff",
+        "image": "https://uploads.mangadex.org/covers/c82f0b00-c581-4e84-b03b-72d36990ddff/7ab3a4e8-f921-40d3-a78b-41c90a77545c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87416,
+        "aniId": 94353,
+        "createdAt": "2020-10-12T16:09:51.000Z",
+        "updatedAt": "2021-06-04T20:27:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hana_ni_kamitsuku": {
+        "authors": [],
+        "identifier": "hana_ni_kamitsuku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hana Ni, Kamitsuku",
+        "url": "https://manganelo.com/manga/hana_ni_kamitsuku",
+        "image": "https://avt.mkklcdnv6.com/35/m/1-1583465092.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87416,
+        "aniId": 94353,
+        "createdAt": "2020-10-12T16:23:15.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

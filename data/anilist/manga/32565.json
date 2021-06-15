@@ -1,0 +1,52 @@
+{
+  "altTitle": [
+    "Manga Messiah",
+    "みんなの聖書",
+    "Manga Bible",
+    "Shinyaku Seisho ",
+    "New Testament",
+    "Kyuuyaku Seisho ",
+    "Old Testament"
+  ],
+  "authors": [
+    "Kozumi Shinozawa"
+  ],
+  "id": 32565,
+  "malId": 2565,
+  "type": "manga",
+  "title": "Minna no Seisho",
+  "url": "https://anilist.co/manga/32565",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32565-q9QxDyTxRS7M.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T18:19:39.000Z",
+  "updatedAt": "2021-06-06T18:19:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d5d8654e-67a8-4cda-9249-698592fffbb9": {
+        "authors": [
+          "OGAWA Atsuko",
+          "TSUTSUMI Chinaya",
+          "KUMAI Hidenor",
+          "SHINOZAWA Kozumi"
+        ],
+        "identifier": "d5d8654e-67a8-4cda-9249-698592fffbb9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinyaku Seisho",
+        "url": "https://mangadex.org/title/d5d8654e-67a8-4cda-9249-698592fffbb9",
+        "image": "https://uploads.mangadex.org/covers/d5d8654e-67a8-4cda-9249-698592fffbb9/4339da50-a341-4ec4-b16e-ea0b7a55423d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2565,
+        "aniId": 32565,
+        "createdAt": "2020-10-12T16:15:54.000Z",
+        "updatedAt": "2021-06-06T18:56:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

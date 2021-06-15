@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Black Sheep",
+    "黒い羊"
+  ],
+  "authors": [
+    "Midori, Yukako",
+    "Fox, Susan"
+  ],
+  "id": 31051,
+  "type": "manga",
+  "title": "Kuroi Hitsuji",
+  "url": "https://myanimelist.net/manga/31051/Kuroi_Hitsuji",
+  "image": "https://cdn.myanimelist.net/images/manga/1/57285.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-12-16T23:29:25.000Z",
+  "updatedAt": "2020-12-16T23:29:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "kuroi_hitsuji": {
+        "authors": [
+          "Susan Fox"
+        ],
+        "identifier": "kuroi_hitsuji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuroi Hitsuji",
+        "url": "https://fanfox.net/manga/kuroi_hitsuji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9515/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31051,
+        "aniId": 61051,
+        "createdAt": "2020-12-16T23:29:25.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

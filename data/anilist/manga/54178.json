@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ナイショのマンガ家 となりのゆとりさん"
+  ],
+  "authors": [
+    "Ichi Saeki"
+  ],
+  "id": 54178,
+  "malId": 24178,
+  "type": "manga",
+  "title": "Naisho no Mangaka Tonari no Yutori-san",
+  "url": "https://anilist.co/manga/54178",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24178.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:43.000Z",
+  "updatedAt": "2021-05-20T14:46:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "972b7120-87b3-4ceb-b2d8-f41defc50636": {
+        "authors": [
+          "Saeki Ichi"
+        ],
+        "identifier": "972b7120-87b3-4ceb-b2d8-f41defc50636",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Naisho no Mangaka Tonari no Yutori-san",
+        "url": "https://mangadex.org/title/972b7120-87b3-4ceb-b2d8-f41defc50636",
+        "image": "https://uploads.mangadex.org/covers/972b7120-87b3-4ceb-b2d8-f41defc50636/7fcd25ba-9152-48e1-ba23-9304e05891ef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24178,
+        "aniId": 54178,
+        "createdAt": "2020-10-12T16:06:13.000Z",
+        "updatedAt": "2021-06-03T18:05:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "naisho_no_mangaka_tonari_no_yutorisan": {
+        "authors": [],
+        "identifier": "naisho_no_mangaka_tonari_no_yutorisan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Naisho No Mangaka Tonari No Yutori-San",
+        "url": "https://manganelo.com/manga/naisho_no_mangaka_tonari_no_yutorisan",
+        "image": "https://avt.mkklcdnv6.com/19/b/12-1583486520.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24178,
+        "aniId": 54178,
+        "createdAt": "2020-10-12T16:24:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

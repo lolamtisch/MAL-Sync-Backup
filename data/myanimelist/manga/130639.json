@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Mogi Jeonjaeng",
+    "모기전쟁"
+  ],
+  "authors": [
+    "Jeong, Ji-Hoon"
+  ],
+  "id": 130639,
+  "type": "manga",
+  "title": "Mosquito War",
+  "url": "https://myanimelist.net/manga/130639/Mosquito_War",
+  "image": "https://cdn.myanimelist.net/images/manga/1/237418.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-11-20T20:21:13.000Z",
+  "updatedAt": "2021-05-23T05:13:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "010d7f0d-c095-406f-ab2b-03ed8a5d2125": {
+        "authors": [
+          "Jeong Ji-Hoon"
+        ],
+        "identifier": "010d7f0d-c095-406f-ab2b-03ed8a5d2125",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mosquito War",
+        "url": "https://mangadex.org/title/010d7f0d-c095-406f-ab2b-03ed8a5d2125",
+        "image": "https://uploads.mangadex.org/covers/010d7f0d-c095-406f-ab2b-03ed8a5d2125/8f2f950b-8ecd-4390-abce-2906e2a7e9a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130639,
+        "aniId": 102896,
+        "createdAt": "2020-10-31T16:41:09.000Z",
+        "updatedAt": "2021-06-08T06:25:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mogi_jeonjaeng": {
+        "authors": [
+          "Jeong Ji Hun"
+        ],
+        "identifier": "mogi_jeonjaeng",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mogi Jeonjaeng",
+        "url": "https://fanfox.net/manga/mogi_jeonjaeng/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36344/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130639,
+        "aniId": 102896,
+        "createdAt": "2021-05-23T05:13:30.000Z",
+        "updatedAt": "2021-05-23T05:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

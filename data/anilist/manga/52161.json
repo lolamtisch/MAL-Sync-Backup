@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "福猫",
+    "Fuku Neko",
+    "Cat of Good Fortune",
+    "Good-Fortune Cat"
+  ],
+  "authors": [
+    "Tomoko Misa"
+  ],
+  "id": 52161,
+  "malId": 22161,
+  "type": "manga",
+  "title": "FukuNeko",
+  "url": "https://anilist.co/manga/52161",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22161.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:29.000Z",
+  "updatedAt": "2021-05-20T14:46:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3d7eeef3-d43a-436c-8aaf-f7f66966c6a7": {
+        "authors": [
+          "MISA Tomoko"
+        ],
+        "identifier": "3d7eeef3-d43a-436c-8aaf-f7f66966c6a7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fuku Neko",
+        "url": "https://mangadex.org/title/3d7eeef3-d43a-436c-8aaf-f7f66966c6a7",
+        "image": "https://uploads.mangadex.org/covers/3d7eeef3-d43a-436c-8aaf-f7f66966c6a7/fabe194a-e71d-49ff-8493-cca802d81d3d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22161,
+        "aniId": 52161,
+        "createdAt": "2020-10-12T16:03:14.000Z",
+        "updatedAt": "2021-06-02T12:34:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fuku_neko": {
+        "authors": [
+          "Misa",
+          "Tomoko"
+        ],
+        "identifier": "fuku_neko",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fuku Neko",
+        "url": "https://manganelo.com/manga/fuku_neko",
+        "image": "https://avt.mkklcdnv6temp.com/13/z/6-1583474689.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22161,
+        "aniId": 52161,
+        "createdAt": "2021-03-30T23:01:08.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fuku-neko": {
+        "authors": [
+          "MISA Tomoko"
+        ],
+        "identifier": "fuku-neko",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fuku Neko",
+        "url": "https://mangasee123.com/manga/Fuku-Neko",
+        "image": "https://cover.nep.li/cover/Fuku-Neko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22161,
+        "aniId": 52161,
+        "createdAt": "2021-05-13T04:55:21.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

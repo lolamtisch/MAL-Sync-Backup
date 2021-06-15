@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "星芒",
+    "Asterism"
+  ],
+  "authors": [
+    "Long Jui"
+  ],
+  "id": 120752,
+  "malId": null,
+  "type": "manga",
+  "title": "Xing Mang",
+  "url": "https://anilist.co/manga/120752",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120752-MaOBuASoc8qs.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T21:50:28.000Z",
+  "updatedAt": "2021-06-07T21:50:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a82a15e-3030-4244-90d0-aa6b135d04df": {
+        "authors": [
+          "笼鸠"
+        ],
+        "identifier": "8a82a15e-3030-4244-90d0-aa6b135d04df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Asterism",
+        "url": "https://mangadex.org/title/8a82a15e-3030-4244-90d0-aa6b135d04df",
+        "image": "https://uploads.mangadex.org/covers/8a82a15e-3030-4244-90d0-aa6b135d04df/c98cc380-573a-4272-beaa-d7f59206a615.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120752,
+        "createdAt": "2020-10-12T16:19:16.000Z",
+        "updatedAt": "2021-06-09T08:07:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

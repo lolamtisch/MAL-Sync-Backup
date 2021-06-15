@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "天秤は花と遊ぶ",
+    "It Dances with Flowers"
+  ],
+  "authors": [
+    "Tsukasa Unohana"
+  ],
+  "id": 46804,
+  "malId": 16804,
+  "type": "manga",
+  "title": "Tenbin wa Hana to Asobu",
+  "url": "https://anilist.co/manga/46804",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46804-WrPjO7yk1cv4.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31e6d892-a90b-415c-b7ff-18a30e5e4697": {
+        "authors": [
+          "Unohana Tsukasa"
+        ],
+        "identifier": "31e6d892-a90b-415c-b7ff-18a30e5e4697",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenbin wa Hana to Asobu",
+        "url": "https://mangadex.org/title/31e6d892-a90b-415c-b7ff-18a30e5e4697",
+        "image": "https://uploads.mangadex.org/covers/31e6d892-a90b-415c-b7ff-18a30e5e4697/34f5bf79-ee26-42be-a615-d243610df0c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16804,
+        "aniId": 46804,
+        "createdAt": "2020-10-12T16:05:08.000Z",
+        "updatedAt": "2021-06-03T10:31:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

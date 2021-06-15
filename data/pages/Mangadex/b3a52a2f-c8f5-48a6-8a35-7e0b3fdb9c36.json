@@ -1,0 +1,65 @@
+{
+  "authors": [
+    "Lê Hoàng Hiệp"
+  ],
+  "identifier": "b3a52a2f-c8f5-48a6-8a35-7e0b3fdb9c36",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "Knock Knock",
+  "url": "https://mangadex.org/title/b3a52a2f-c8f5-48a6-8a35-7e0b3fdb9c36",
+  "image": "https://uploads.mangadex.org/covers/b3a52a2f-c8f5-48a6-8a35-7e0b3fdb9c36/ae5791d9-45ab-4d52-b4d1-0e031276f2b6.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 57805,
+  "aniId": 88502,
+  "createdAt": "2020-10-12T16:17:58.000Z",
+  "updatedAt": "2021-06-07T12:45:10.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Hatsu Koi, Himekuri Koimekuri, Knock, Knock, Knocking, No Entry!",
+      "ハツこい"
+    ],
+    "authors": [
+      "Kakine"
+    ],
+    "id": 57805,
+    "type": "manga",
+    "title": "Hatsukoi",
+    "url": "https://myanimelist.net/manga/57805/Hatsukoi",
+    "image": "https://cdn.myanimelist.net/images/manga/5/104183.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:44:52.000Z",
+    "updatedAt": "2021-01-29T14:56:25.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ハツこい",
+      "Hatsu Koi",
+      "Himekuri Koimekuri",
+      "Knock",
+      "Knock",
+      "Knocking",
+      "No Entry!"
+    ],
+    "authors": [
+      "Kakine"
+    ],
+    "id": 88502,
+    "malId": 57805,
+    "type": "manga",
+    "title": "Hatsukoi",
+    "url": "https://anilist.co/manga/88502",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88502-iKHACJJlAN8z.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-20T14:50:32.000Z",
+    "updatedAt": "2021-05-20T14:50:32.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/57805/Hatsukoi"
+}

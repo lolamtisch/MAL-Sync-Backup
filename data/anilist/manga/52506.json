@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "LEGA の 13",
+    "Lega's 13"
+  ],
+  "authors": [
+    "Takako Yamazaki"
+  ],
+  "id": 52506,
+  "malId": 22506,
+  "type": "manga",
+  "title": "LEGA no 13",
+  "url": "https://anilist.co/manga/52506",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22506.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:30.000Z",
+  "updatedAt": "2021-05-20T14:46:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c4bdce6-6fea-464e-8351-36b7fa9f2deb": {
+        "authors": [
+          "Yamazaki Takako"
+        ],
+        "identifier": "8c4bdce6-6fea-464e-8351-36b7fa9f2deb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lega no 13",
+        "url": "https://mangadex.org/title/8c4bdce6-6fea-464e-8351-36b7fa9f2deb",
+        "image": "https://uploads.mangadex.org/covers/8c4bdce6-6fea-464e-8351-36b7fa9f2deb/716a2ce7-1fbd-416b-ae18-89bdc5e45349.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22506,
+        "aniId": 52506,
+        "createdAt": "2020-10-12T16:06:08.000Z",
+        "updatedAt": "2021-06-03T17:26:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lega_no_13": {
+        "authors": [],
+        "identifier": "lega_no_13",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Lega No 13",
+        "url": "https://manganelo.com/manga/lega_no_13",
+        "image": "https://avt.mkklcdnv6.com/17/f/3-1583468330.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22506,
+        "aniId": 52506,
+        "createdAt": "2020-10-12T16:24:06.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "lega-no13": {
+        "authors": [
+          "YAMAZAKI Takako"
+        ],
+        "identifier": "lega-no13",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Lega no 13",
+        "url": "https://mangasee123.com/manga/Lega-No13",
+        "image": "https://cover.nep.li/cover/Lega-No13.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22506,
+        "aniId": 52506,
+        "createdAt": "2021-05-04T03:34:22.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

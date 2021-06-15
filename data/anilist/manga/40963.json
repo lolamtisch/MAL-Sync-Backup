@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "火曜午後９時",
+    "Kayou Gogo 9-ji",
+    "Kayou Gogo Kuji",
+    "Tuesday",
+    "9PM"
+  ],
+  "authors": [
+    "Tatsuya Okado"
+  ],
+  "id": 40963,
+  "malId": 10963,
+  "type": "manga",
+  "title": "Kayou Gogo 9-ji",
+  "url": "https://anilist.co/manga/40963",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10963.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "270a5fd8-d96f-4494-a9fa-c458e99b0848": {
+        "authors": [
+          "Okado Tatsuya"
+        ],
+        "identifier": "270a5fd8-d96f-4494-a9fa-c458e99b0848",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tuesday, 9PM",
+        "url": "https://mangadex.org/title/270a5fd8-d96f-4494-a9fa-c458e99b0848",
+        "image": "https://uploads.mangadex.org/covers/270a5fd8-d96f-4494-a9fa-c458e99b0848/582ca160-f46f-4859-87a9-80bd7c3fb442.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10963,
+        "aniId": 40963,
+        "createdAt": "2020-10-12T16:03:01.000Z",
+        "updatedAt": "2021-06-02T11:09:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

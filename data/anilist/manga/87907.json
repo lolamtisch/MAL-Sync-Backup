@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Don't Say You Love Me!",
+    "好きっていうな!"
+  ],
+  "authors": [
+    "Haruhi Yuzuya"
+  ],
+  "id": 87907,
+  "malId": 55143,
+  "type": "manga",
+  "title": "Sukitte Iuna!",
+  "url": "https://anilist.co/manga/87907",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87907-r9xalGpjqMqG.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:50:02.000Z",
+  "updatedAt": "2021-06-12T14:38:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1b91a1ff-a7fc-4958-a990-2b81c9ab9411": {
+        "authors": [
+          "Yuzuya Haruhi"
+        ],
+        "identifier": "1b91a1ff-a7fc-4958-a990-2b81c9ab9411",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suki tte Iu na!",
+        "url": "https://mangadex.org/title/1b91a1ff-a7fc-4958-a990-2b81c9ab9411",
+        "image": "https://uploads.mangadex.org/covers/1b91a1ff-a7fc-4958-a990-2b81c9ab9411/0b583e92-0e43-4563-b2d3-8f4029aab974.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55143,
+        "aniId": 87907,
+        "createdAt": "2020-10-12T16:13:23.000Z",
+        "updatedAt": "2021-06-05T20:57:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

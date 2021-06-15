@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "コン★プリ",
+    "Con★Puri"
+  ],
+  "authors": [
+    "Kozue Takeuchi"
+  ],
+  "id": 33255,
+  "malId": 3255,
+  "type": "manga",
+  "title": "Kon★Puri",
+  "url": "https://anilist.co/manga/33255",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3255.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T09:31:04.000Z",
+  "updatedAt": "2021-06-02T09:31:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b00a2dff-c371-4b8e-819d-1f6de96efaba": {
+        "authors": [
+          "Takeuchi Kozue"
+        ],
+        "identifier": "b00a2dff-c371-4b8e-819d-1f6de96efaba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kon*Puri",
+        "url": "https://mangadex.org/title/b00a2dff-c371-4b8e-819d-1f6de96efaba",
+        "image": "https://uploads.mangadex.org/covers/b00a2dff-c371-4b8e-819d-1f6de96efaba/74d78347-4c30-4178-90dc-d2f5d8f4b1c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3255,
+        "aniId": 33255,
+        "createdAt": "2020-10-12T16:02:43.000Z",
+        "updatedAt": "2021-06-02T10:06:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

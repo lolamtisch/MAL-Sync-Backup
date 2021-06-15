@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "GS美神 極楽大作戦",
+    "GS Mikami"
+  ],
+  "authors": [
+    "Takashi Shiina"
+  ],
+  "id": 33822,
+  "malId": 3822,
+  "type": "manga",
+  "title": "Ghost Sweeper Mikami",
+  "url": "https://anilist.co/manga/33822",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33822-rDgkaLMwt2iB.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a29b052d-9a36-463a-a534-f5303a6a0a19": {
+        "authors": [
+          "SHIINA Takashi"
+        ],
+        "identifier": "a29b052d-9a36-463a-a534-f5303a6a0a19",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ghost Sweeper Mikami",
+        "url": "https://mangadex.org/title/a29b052d-9a36-463a-a534-f5303a6a0a19",
+        "image": "https://uploads.mangadex.org/covers/a29b052d-9a36-463a-a534-f5303a6a0a19/bcc7ef6d-d4b5-4d53-93f1-2c9f775da751.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3822,
+        "aniId": 33822,
+        "createdAt": "2020-10-12T16:03:21.000Z",
+        "updatedAt": "2021-06-02T13:22:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ghost_sweeper_mikami": {
+        "authors": [
+          "SHIINA Takashi"
+        ],
+        "identifier": "ghost_sweeper_mikami",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ghost Sweeper Mikami",
+        "url": "https://fanfox.net/manga/ghost_sweeper_mikami/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5655/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 3822,
+        "aniId": 33822,
+        "createdAt": "2021-04-22T11:00:20.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ghost-sweeper-mikami": {
+        "authors": [
+          "SHIINA Takashi"
+        ],
+        "identifier": "ghost-sweeper-mikami",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ghost Sweeper Mikami",
+        "url": "https://mangasee123.com/manga/Ghost-Sweeper-Mikami",
+        "image": "https://cover.nep.li/cover/Ghost-Sweeper-Mikami.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 3822,
+        "aniId": 33822,
+        "createdAt": "2021-05-26T17:39:24.000Z",
+        "updatedAt": "2021-05-26T19:38:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

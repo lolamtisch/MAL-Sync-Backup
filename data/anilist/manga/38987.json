@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Room 303",
+    "ルームサンマルサン",
+    "Room303",
+    "Room Sanmmarusan",
+    "Room Three-o-Three"
+  ],
+  "authors": [
+    "Daisuke Ashihara"
+  ],
+  "id": 38987,
+  "malId": 8987,
+  "type": "manga",
+  "title": "Room 303",
+  "url": "https://anilist.co/manga/38987",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8987.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:53.000Z",
+  "updatedAt": "2021-05-20T14:40:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7cb96219-f9d5-4155-9af3-ccfd2786924c": {
+        "authors": [
+          "Ashihara Daisuke"
+        ],
+        "identifier": "7cb96219-f9d5-4155-9af3-ccfd2786924c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Room 303",
+        "url": "https://mangadex.org/title/7cb96219-f9d5-4155-9af3-ccfd2786924c",
+        "image": "https://uploads.mangadex.org/covers/7cb96219-f9d5-4155-9af3-ccfd2786924c/b3d27cbb-dd0e-403d-af70-be93ea14f50a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8987,
+        "aniId": 38987,
+        "createdAt": "2020-10-12T16:08:29.000Z",
+        "updatedAt": "2021-06-04T10:32:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

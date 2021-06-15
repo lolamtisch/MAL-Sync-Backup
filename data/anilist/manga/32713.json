@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yumi Kayama"
+  ],
+  "id": 32713,
+  "malId": 2713,
+  "type": "manga",
+  "title": "Kimi no Naka de Nemurasete",
+  "url": "https://anilist.co/manga/32713",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2713.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "919d86e0-8d4e-4197-ae00-25354fe0c4c3": {
+        "authors": [
+          "Kayama Yumi"
+        ],
+        "identifier": "919d86e0-8d4e-4197-ae00-25354fe0c4c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi no Naka de Nemurasete",
+        "url": "https://mangadex.org/title/919d86e0-8d4e-4197-ae00-25354fe0c4c3",
+        "image": "https://uploads.mangadex.org/covers/919d86e0-8d4e-4197-ae00-25354fe0c4c3/8e16cef1-bfa7-488c-b6b1-0bb940d7e552.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2713,
+        "aniId": 32713,
+        "createdAt": "2020-10-30T18:10:37.000Z",
+        "updatedAt": "2021-06-08T06:23:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

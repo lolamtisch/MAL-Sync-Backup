@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "파파야"
+  ],
+  "authors": [
+    "Eun-Young Kang"
+  ],
+  "id": 94198,
+  "malId": 86941,
+  "type": "manga",
+  "title": "Papaya",
+  "url": "https://anilist.co/manga/94198",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94198-oDJB51PSEksO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:45.000Z",
+  "updatedAt": "2021-05-20T14:52:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "57275b6a-e6fb-42e5-9e46-a0c08218d18c": {
+        "authors": [
+          "KANG Eun-Young"
+        ],
+        "identifier": "57275b6a-e6fb-42e5-9e46-a0c08218d18c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Papaya",
+        "url": "https://mangadex.org/title/57275b6a-e6fb-42e5-9e46-a0c08218d18c",
+        "image": "https://uploads.mangadex.org/covers/57275b6a-e6fb-42e5-9e46-a0c08218d18c/2a2b7053-9df0-4b71-b199-183b0e8d717c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86941,
+        "aniId": 94198,
+        "createdAt": "2020-10-12T16:03:31.000Z",
+        "updatedAt": "2021-06-02T14:38:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

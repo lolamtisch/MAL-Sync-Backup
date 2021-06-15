@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ハツコイと太陽",
+    "My first love like a bright sun."
+  ],
+  "authors": [
+    "Honoka Kinoshita"
+  ],
+  "id": 114005,
+  "malId": 119600,
+  "type": "manga",
+  "title": "Hatsukoi to Taiyou",
+  "url": "https://anilist.co/manga/114005",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114005-nlLFcwEgusTT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:09.000Z",
+  "updatedAt": "2021-05-20T14:58:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "026ee1e4-2dcb-483f-993f-21a5ad884468": {
+        "authors": [
+          "Kinoshita Honoka"
+        ],
+        "identifier": "026ee1e4-2dcb-483f-993f-21a5ad884468",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatsukoi to Taiyou",
+        "url": "https://mangadex.org/title/026ee1e4-2dcb-483f-993f-21a5ad884468",
+        "image": "https://uploads.mangadex.org/covers/026ee1e4-2dcb-483f-993f-21a5ad884468/56e0f1f3-c67e-4498-a20f-5f0d8c7edd16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119600,
+        "aniId": 114005,
+        "createdAt": "2020-10-12T16:18:32.000Z",
+        "updatedAt": "2021-06-07T17:50:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gg922251": {
+        "authors": [],
+        "identifier": "gg922251",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hatsukoi To Taiyou",
+        "url": "https://manganelo.com/manga/gg922251",
+        "image": "https://avt.mkklcdnv6.com/36/w/20-1583502463.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119600,
+        "aniId": 114005,
+        "createdAt": "2020-10-12T16:23:05.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

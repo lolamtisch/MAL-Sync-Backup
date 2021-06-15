@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ゴドー"
+  ],
+  "authors": [
+    "Noboru Miyama"
+  ],
+  "id": 111346,
+  "malId": 114982,
+  "type": "manga",
+  "title": "Godo",
+  "url": "https://anilist.co/manga/111346",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111346-o2xdzTSN6tfy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T10:50:09.000Z",
+  "updatedAt": "2021-06-05T10:50:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "995c1c87-db62-4575-9300-b8d47363a3b1": {
+        "authors": [
+          "MIYAMA Noboru"
+        ],
+        "identifier": "995c1c87-db62-4575-9300-b8d47363a3b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Godo",
+        "url": "https://mangadex.org/title/995c1c87-db62-4575-9300-b8d47363a3b1",
+        "image": "https://uploads.mangadex.org/covers/995c1c87-db62-4575-9300-b8d47363a3b1/b740099a-b0e6-44be-8324-d6a7ac29a2b6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114982,
+        "aniId": 111346,
+        "createdAt": "2020-10-12T16:11:42.000Z",
+        "updatedAt": "2021-06-05T12:44:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

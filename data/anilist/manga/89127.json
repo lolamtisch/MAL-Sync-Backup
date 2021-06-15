@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "たべるダケ",
+    "Just Eating"
+  ],
+  "authors": [],
+  "id": 89127,
+  "malId": 60909,
+  "type": "manga",
+  "title": "Taberu dake",
+  "url": "https://anilist.co/manga/89127",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89127-zhDxqgiYRXyU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T05:19:51.000Z",
+  "updatedAt": "2021-06-04T05:19:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1f8d1029-1c93-4996-b2fa-9f1ea8b76d6a": {
+        "authors": [
+          "Takada Sanko"
+        ],
+        "identifier": "1f8d1029-1c93-4996-b2fa-9f1ea8b76d6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Taberu Dake",
+        "url": "https://mangadex.org/title/1f8d1029-1c93-4996-b2fa-9f1ea8b76d6a",
+        "image": "https://uploads.mangadex.org/covers/1f8d1029-1c93-4996-b2fa-9f1ea8b76d6a/4321041b-5a86-40c8-b285-e82eceb87472.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60909,
+        "aniId": 89127,
+        "createdAt": "2020-10-12T16:07:46.000Z",
+        "updatedAt": "2021-06-04T08:46:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

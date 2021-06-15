@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Vの悪魔〈ディアボロ〉",
+    "Diavolo del Violino",
+    "Violin no Akuma"
+  ],
+  "authors": [
+    "Itsuki Furuya"
+  ],
+  "id": 87215,
+  "malId": 98759,
+  "type": "manga",
+  "title": "V no Akuma",
+  "url": "https://anilist.co/manga/87215",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57215-d1eMFeN21UDi.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:39.000Z",
+  "updatedAt": "2021-05-20T14:54:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4a90ca8a-5242-430f-990d-99e47258e378": {
+        "authors": [
+          "Furuya Itsuki"
+        ],
+        "identifier": "4a90ca8a-5242-430f-990d-99e47258e378",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "V no Akuma",
+        "url": "https://mangadex.org/title/4a90ca8a-5242-430f-990d-99e47258e378",
+        "image": "https://uploads.mangadex.org/covers/4a90ca8a-5242-430f-990d-99e47258e378/cd79d627-ba70-40b1-a74b-3681d0e794ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98759,
+        "aniId": 87215,
+        "createdAt": "2020-10-12T16:09:47.000Z",
+        "updatedAt": "2021-06-04T19:59:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "v_no_akuma": {
+        "authors": [],
+        "identifier": "v_no_akuma",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "V No Akuma",
+        "url": "https://manganelo.com/manga/v_no_akuma",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16770-v_no_akuma.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98759,
+        "aniId": 87215,
+        "createdAt": "2020-10-12T16:26:00.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

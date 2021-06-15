@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yaya Sakuragi"
+  ],
+  "id": 31987,
+  "malId": 1987,
+  "type": "manga",
+  "title": "Hotel Traffic",
+  "url": "https://anilist.co/manga/31987",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1987.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:58.000Z",
+  "updatedAt": "2021-05-20T14:36:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6e2a7e62-a5e3-4dc4-bcbc-154fb38bff3c": {
+        "authors": [
+          "Sakuragi Yaya"
+        ],
+        "identifier": "6e2a7e62-a5e3-4dc4-bcbc-154fb38bff3c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hotel Traffic",
+        "url": "https://mangadex.org/title/6e2a7e62-a5e3-4dc4-bcbc-154fb38bff3c",
+        "image": "https://uploads.mangadex.org/covers/6e2a7e62-a5e3-4dc4-bcbc-154fb38bff3c/d67eeba8-9b9f-401f-8a5f-d123d02aa8e6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1987,
+        "aniId": 31987,
+        "createdAt": "2020-10-12T16:11:58.000Z",
+        "updatedAt": "2021-06-05T12:28:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

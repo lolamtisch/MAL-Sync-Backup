@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "キング"
+  ],
+  "authors": [
+    "Sena, Masaya"
+  ],
+  "id": 13661,
+  "type": "manga",
+  "title": "King",
+  "url": "https://myanimelist.net/manga/13661/King",
+  "image": "https://cdn.myanimelist.net/images/manga/2/19288.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:59.000Z",
+  "updatedAt": "2021-05-01T18:01:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db4beb41-c7bc-4720-8f20-518c1a4d6200": {
+        "authors": [
+          "SHINMURAKE Ichiro",
+          ""
+        ],
+        "identifier": "db4beb41-c7bc-4720-8f20-518c1a4d6200",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "King",
+        "url": "https://mangadex.org/title/db4beb41-c7bc-4720-8f20-518c1a4d6200",
+        "image": "https://uploads.mangadex.org/covers/db4beb41-c7bc-4720-8f20-518c1a4d6200/7be146bb-b3ef-4eb7-8540-65912b47d792.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13661,
+        "aniId": 43661,
+        "createdAt": "2020-10-12T16:05:25.000Z",
+        "updatedAt": "2021-06-03T12:29:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

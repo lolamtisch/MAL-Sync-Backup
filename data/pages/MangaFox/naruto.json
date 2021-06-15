@@ -1,0 +1,78 @@
+{
+  "authors": [
+    "KISHIMOTO Masashi"
+  ],
+  "identifier": "naruto",
+  "type": "manga",
+  "page": "MangaFox",
+  "title": "Naruto",
+  "url": "https://fanfox.net/manga/naruto/",
+  "image": "https://fmcdn.mfcdn.net/store/manga/8/cover.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 11,
+  "aniId": 30011,
+  "createdAt": "2020-11-05T17:58:58.000Z",
+  "updatedAt": "2021-05-20T15:25:52.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Naruto",
+      "NARUTO―ナルト―"
+    ],
+    "authors": [
+      "Kishimoto, Masashi"
+    ],
+    "id": 11,
+    "type": "manga",
+    "title": "Naruto",
+    "url": "https://myanimelist.net/manga/11/Naruto",
+    "image": "https://cdn.myanimelist.net/images/manga/3/117681.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:16.000Z",
+    "updatedAt": "2021-05-31T09:22:21.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Naruto",
+      "NARUTO -ナルト-",
+      "נארוטו"
+    ],
+    "authors": [
+      "Masashi Kishimoto",
+      "Kazuhiro Takahashi",
+      "Osamu Kazisa",
+      "Ryou Tasaka",
+      "Yuuichi Itakura",
+      "Akira Oukubo",
+      "Mikio Ikemoto",
+      "Joe Yamazaki",
+      "Mari Morimoto",
+      "Katy Bridges",
+      "Azurelore Korrigan",
+      "Kyoko Shapiro",
+      "Naomi Kokubo",
+      "Alexis Kirsch",
+      "Annette Nordheim",
+      "Frederic Malet",
+      "Sylvain Chollet",
+      "Sebastien Bigini"
+    ],
+    "id": 30011,
+    "malId": 11,
+    "type": "manga",
+    "title": "Naruto",
+    "url": "https://anilist.co/manga/30011",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30011-9yUF1dXWgDOx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:21.000Z",
+    "updatedAt": "2021-06-02T09:30:51.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/11/Naruto"
+}

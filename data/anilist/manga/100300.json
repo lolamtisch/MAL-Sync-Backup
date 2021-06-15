@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "薄花少女"
+  ],
+  "authors": [
+    "Yasuto Miura"
+  ],
+  "id": 100300,
+  "malId": 97961,
+  "type": "manga",
+  "title": "Hakka Shoujo",
+  "url": "https://anilist.co/manga/100300",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100300-Dh8vLvoOICim.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:10.000Z",
+  "updatedAt": "2021-05-20T14:54:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df25d42b-806c-4cc5-9aef-ce08daa4b83a": {
+        "authors": [
+          "Miura Yasuto"
+        ],
+        "identifier": "df25d42b-806c-4cc5-9aef-ce08daa4b83a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakka Shoujo",
+        "url": "https://mangadex.org/title/df25d42b-806c-4cc5-9aef-ce08daa4b83a",
+        "image": "https://uploads.mangadex.org/covers/df25d42b-806c-4cc5-9aef-ce08daa4b83a/38492279-f1ba-405f-b582-783ca47b9e40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97961,
+        "aniId": 100300,
+        "createdAt": "2020-10-12T16:09:55.000Z",
+        "updatedAt": "2021-06-04T21:02:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "シュガーペイン"
+  ],
+  "authors": [
+    "Junta Mio"
+  ],
+  "id": 66367,
+  "malId": 36367,
+  "type": "manga",
+  "title": "Sugar Pain",
+  "url": "https://anilist.co/manga/66367",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66367-cqKPlM3tOEOk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T19:19:27.000Z",
+  "updatedAt": "2021-06-04T19:19:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0fbdd0d4-9c01-4da4-a346-d54f2d9fe549": {
+        "authors": [
+          "Mio Junta"
+        ],
+        "identifier": "0fbdd0d4-9c01-4da4-a346-d54f2d9fe549",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sugar Pain",
+        "url": "https://mangadex.org/title/0fbdd0d4-9c01-4da4-a346-d54f2d9fe549",
+        "image": "https://uploads.mangadex.org/covers/0fbdd0d4-9c01-4da4-a346-d54f2d9fe549/385912d6-c6b6-4cf2-b3d4-b0495f0f8224.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36367,
+        "aniId": 66367,
+        "createdAt": "2020-10-12T16:09:40.000Z",
+        "updatedAt": "2021-06-04T19:26:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

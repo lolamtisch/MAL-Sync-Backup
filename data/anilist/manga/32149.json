@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Wild Ones",
+    "アラクレ"
+  ],
+  "authors": [
+    "Kiyo Fujiwara",
+    "Mai Ihara",
+    "Mark McMurray",
+    "HudsonYards"
+  ],
+  "id": 32149,
+  "malId": 2149,
+  "type": "manga",
+  "title": "Arakure",
+  "url": "https://anilist.co/manga/32149",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32149-wDVZOcXTLIHl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d9d0b800-6800-4acc-a14c-927e180226cb": {
+        "authors": [
+          "Fujiwara Kiyo"
+        ],
+        "identifier": "d9d0b800-6800-4acc-a14c-927e180226cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Arakure",
+        "url": "https://mangadex.org/title/d9d0b800-6800-4acc-a14c-927e180226cb",
+        "image": "https://uploads.mangadex.org/covers/d9d0b800-6800-4acc-a14c-927e180226cb/d4890ab6-4c6a-4158-bd0d-e946c9e455c0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2149,
+        "aniId": 32149,
+        "createdAt": "2020-10-12T16:03:24.000Z",
+        "updatedAt": "2021-06-02T13:43:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "arakure": {
+        "authors": [],
+        "identifier": "arakure",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Arakure",
+        "url": "https://manganelo.com/manga/arakure",
+        "image": "https://avt.mkklcdnv6.com/10/y/4-1583470113.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2149,
+        "aniId": 32149,
+        "createdAt": "2020-10-12T16:22:08.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "arakure": {
+        "authors": [
+          "FUJIWARA Kiyo"
+        ],
+        "identifier": "arakure",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Arakure",
+        "url": "https://mangasee123.com/manga/Arakure",
+        "image": "https://cover.nep.li/cover/Arakure.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2149,
+        "aniId": 32149,
+        "createdAt": "2021-03-31T17:01:21.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

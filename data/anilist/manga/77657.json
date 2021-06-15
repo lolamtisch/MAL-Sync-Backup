@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "SILVER DIAMOND外伝"
+  ],
+  "authors": [
+    "Shiho Sugiura"
+  ],
+  "id": 77657,
+  "malId": 47657,
+  "type": "manga",
+  "title": "Silver Diamond Gaiden",
+  "url": "https://anilist.co/manga/77657",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47657.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:36.000Z",
+  "updatedAt": "2021-05-20T14:49:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0733ebdd-cd4d-4ed6-873b-5cc6a1ef5c62": {
+        "authors": [
+          "Sugiura Shiho"
+        ],
+        "identifier": "0733ebdd-cd4d-4ed6-873b-5cc6a1ef5c62",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Silver Diamond Gaiden",
+        "url": "https://mangadex.org/title/0733ebdd-cd4d-4ed6-873b-5cc6a1ef5c62",
+        "image": "https://uploads.mangadex.org/covers/0733ebdd-cd4d-4ed6-873b-5cc6a1ef5c62/af69bb18-1e19-43c1-a502-6804521db6ad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47657,
+        "aniId": 77657,
+        "createdAt": "2020-10-12T16:11:14.000Z",
+        "updatedAt": "2021-06-05T06:41:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "CJ Michalski"
+  ],
+  "id": 42076,
+  "malId": 12076,
+  "type": "manga",
+  "title": "Dona Dona",
+  "url": "https://anilist.co/manga/42076",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12076.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b1319959-4af4-471d-a557-054e8dab3a16": {
+        "authors": [
+          "CJ Michalski"
+        ],
+        "identifier": "b1319959-4af4-471d-a557-054e8dab3a16",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dona Dona",
+        "url": "https://mangadex.org/title/b1319959-4af4-471d-a557-054e8dab3a16",
+        "image": "https://uploads.mangadex.org/covers/b1319959-4af4-471d-a557-054e8dab3a16/e2a5bd79-8229-4db9-96e4-f279f495faff.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12076,
+        "aniId": 42076,
+        "createdAt": "2020-10-12T16:15:55.000Z",
+        "updatedAt": "2021-06-06T17:59:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

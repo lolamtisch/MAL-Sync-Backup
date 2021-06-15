@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Shanghai Yōmakika",
+    "Shanghai"
+  ],
+  "authors": [
+    "Hiromu Arakawa"
+  ],
+  "id": 31652,
+  "malId": 1652,
+  "type": "manga",
+  "title": "Demons of Shanghai",
+  "url": "https://anilist.co/manga/31652",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1652.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:49.000Z",
+  "updatedAt": "2021-05-20T14:36:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9b86409-ca1e-491f-b5b0-97aff1179c74": {
+        "authors": [
+          "Arakawa Hiromu"
+        ],
+        "identifier": "e9b86409-ca1e-491f-b5b0-97aff1179c74",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shanghai Youma Kikai",
+        "url": "https://mangadex.org/title/e9b86409-ca1e-491f-b5b0-97aff1179c74",
+        "image": "https://uploads.mangadex.org/covers/e9b86409-ca1e-491f-b5b0-97aff1179c74/c7c85f93-9501-40a2-8ec2-784b7ed916e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1652,
+        "aniId": 31652,
+        "createdAt": "2020-10-12T16:03:55.000Z",
+        "updatedAt": "2021-06-02T17:20:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

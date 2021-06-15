@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Re:CREATORS わんもあ!"
+  ],
+  "authors": [
+    "Rei Hiroe",
+    "Yuuki Kumagai"
+  ],
+  "id": 99235,
+  "malId": 112106,
+  "type": "manga",
+  "title": "Re:CREATORS One More!",
+  "url": "https://anilist.co/manga/99235",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99235-7sOICPeh0flZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T08:19:31.000Z",
+  "updatedAt": "2021-06-05T08:19:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ece1b6b8-c932-422e-a4aa-7678c1962db1": {
+        "authors": [
+          "Kumano Kyu",
+          "Hiroe Rei"
+        ],
+        "identifier": "ece1b6b8-c932-422e-a4aa-7678c1962db1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Re:CREATORS One More",
+        "url": "https://mangadex.org/title/ece1b6b8-c932-422e-a4aa-7678c1962db1",
+        "image": "https://uploads.mangadex.org/covers/ece1b6b8-c932-422e-a4aa-7678c1962db1/7e5a437c-a6ad-4697-a442-83d18fce9856.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112106,
+        "aniId": 99235,
+        "createdAt": "2020-10-12T16:11:25.000Z",
+        "updatedAt": "2021-06-05T09:06:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

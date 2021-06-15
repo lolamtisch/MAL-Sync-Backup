@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "死ノ鳥",
+    "Dead Bird",
+    "Shi no Tori"
+  ],
+  "authors": [
+    "Dr. Imu"
+  ],
+  "id": 105239,
+  "malId": 127957,
+  "type": "manga",
+  "title": "Shinotori",
+  "url": "https://anilist.co/manga/105239",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105239-JOCvBQfYeInh.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T18:08:17.000Z",
+  "updatedAt": "2021-05-24T18:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31b91300-10a0-4f38-9b82-73515403ea2a": {
+        "authors": [
+          "Dr. Imu"
+        ],
+        "identifier": "31b91300-10a0-4f38-9b82-73515403ea2a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shi no Tori",
+        "url": "https://mangadex.org/title/31b91300-10a0-4f38-9b82-73515403ea2a",
+        "image": "https://uploads.mangadex.org/covers/31b91300-10a0-4f38-9b82-73515403ea2a/86fed053-1c24-495c-b901-4291786ce261.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 127957,
+        "aniId": 105239,
+        "createdAt": "2020-10-12T16:13:23.000Z",
+        "updatedAt": "2021-06-05T22:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ie985987": {
+        "authors": [
+          "Dr. Imu"
+        ],
+        "identifier": "manga-ie985987",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shi No Tori",
+        "url": "https://readmanganato.com/manga-ie985987",
+        "image": "https://avt.mkklcdnv6temp.com/38/y/21-1595822399.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127957,
+        "aniId": 105239,
+        "createdAt": "2021-05-31T09:38:33.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

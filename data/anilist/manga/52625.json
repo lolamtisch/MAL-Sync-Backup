@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ストレッタ",
+    "Aruiha Mononoke"
+  ],
+  "authors": [
+    "Yuuki Seto"
+  ],
+  "id": 52625,
+  "malId": 22625,
+  "type": "manga",
+  "title": "Stretta",
+  "url": "https://anilist.co/manga/52625",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52625-tnutxBoDxwQH.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:32.000Z",
+  "updatedAt": "2021-05-20T14:46:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d1e4853d-a256-49e8-a4e7-c994e722b9fa": {
+        "authors": [
+          "Seto Yuuki"
+        ],
+        "identifier": "d1e4853d-a256-49e8-a4e7-c994e722b9fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Stretta",
+        "url": "https://mangadex.org/title/d1e4853d-a256-49e8-a4e7-c994e722b9fa",
+        "image": "https://uploads.mangadex.org/covers/d1e4853d-a256-49e8-a4e7-c994e722b9fa/af69d170-5187-4b39-85ef-27ffa200da28.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22625,
+        "aniId": 52625,
+        "createdAt": "2020-10-31T16:12:31.000Z",
+        "updatedAt": "2021-06-08T06:25:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

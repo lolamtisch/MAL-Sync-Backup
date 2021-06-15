@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "僕のロボット"
+  ],
+  "authors": [
+    "Megumi Hazuki"
+  ],
+  "id": 73761,
+  "malId": 43761,
+  "type": "manga",
+  "title": "Boku no Robot",
+  "url": "https://anilist.co/manga/73761",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx73761-XVuXJqjF3mEL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:58.000Z",
+  "updatedAt": "2021-05-20T14:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b48a7af3-19b7-40c3-bac8-3b74e266e149": {
+        "authors": [
+          "Hazuki Megumi"
+        ],
+        "identifier": "b48a7af3-19b7-40c3-bac8-3b74e266e149",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Robot",
+        "url": "https://mangadex.org/title/b48a7af3-19b7-40c3-bac8-3b74e266e149",
+        "image": "https://uploads.mangadex.org/covers/b48a7af3-19b7-40c3-bac8-3b74e266e149/db0dcf48-7a22-47da-83fd-994c361294d8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43761,
+        "aniId": 73761,
+        "createdAt": "2020-10-12T16:06:37.000Z",
+        "updatedAt": "2021-06-03T20:56:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "boku-no-robot": {
+        "authors": [
+          "HAZUKI Megumi"
+        ],
+        "identifier": "boku-no-robot",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Boku no Robot",
+        "url": "https://mangasee123.com/manga/Boku-No-Robot",
+        "image": "https://cover.nep.li/cover/Boku-No-Robot.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43761,
+        "aniId": 73761,
+        "createdAt": "2021-05-11T15:19:45.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

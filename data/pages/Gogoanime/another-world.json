@@ -1,0 +1,50 @@
+{
+  "identifier": "another-world",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Another World",
+  "url": "https://www10.gogoanime.io/category/another-world",
+  "image": "https://cdnimg.xyz/cover/another-world.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 40295,
+  "aniId": 111733,
+  "createdAt": "2020-10-12T15:59:51.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "アナザー・ワールド"
+    ],
+    "id": 40295,
+    "type": "anime",
+    "title": "Another World",
+    "url": "https://myanimelist.net/anime/40295/Another_World",
+    "image": "https://cdn.myanimelist.net/images/anime/1685/102748.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:11.000Z",
+    "updatedAt": "2021-01-01T09:33:09.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Another World",
+      "アナザー・ワールド"
+    ],
+    "id": 111733,
+    "malId": 40295,
+    "type": "anime",
+    "title": "Another World",
+    "url": "https://anilist.co/anime/111733",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111733-0nvIm7cJ7BGq.jpg",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:45:58.000Z",
+    "updatedAt": "2021-05-20T14:45:58.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/40295/Another_World"
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "春宵縄化粧",
+    "Three Martini Lunch"
+  ],
+  "authors": [
+    "Inaki Matsumoto"
+  ],
+  "id": 36064,
+  "malId": 6064,
+  "type": "manga",
+  "title": "Shunshou Nawageshou",
+  "url": "https://anilist.co/manga/36064",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6064.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:36.000Z",
+  "updatedAt": "2021-05-20T14:39:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5a6b22a6-768b-47cb-814c-84500acd9321": {
+        "authors": [
+          "Matsumoto Inaki"
+        ],
+        "identifier": "5a6b22a6-768b-47cb-814c-84500acd9321",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shunshou Nawageshou",
+        "url": "https://mangadex.org/title/5a6b22a6-768b-47cb-814c-84500acd9321",
+        "image": "https://uploads.mangadex.org/covers/5a6b22a6-768b-47cb-814c-84500acd9321/f6e6a1b3-2f5f-4689-a9e0-a119721d61d2.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6064,
+        "aniId": 36064,
+        "createdAt": "2020-10-12T16:16:31.000Z",
+        "updatedAt": "2021-06-06T23:27:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

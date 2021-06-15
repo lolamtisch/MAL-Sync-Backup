@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "ケミカルロマンス"
+  ],
+  "authors": [
+    "Yayoi Osawa"
+  ],
+  "id": 112926,
+  "malId": 98083,
+  "type": "manga",
+  "title": "Chemical Romance",
+  "url": "https://anilist.co/manga/112926",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112926-OUto5TaoZbj5.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:10.000Z",
+  "updatedAt": "2021-05-20T14:54:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "micah": {
+        "authors": [],
+        "identifier": "micah",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Micah",
+        "url": "https://manganelo.com/manga/micah",
+        "image": "https://avt.mkklcdnv6.com/10/f/17-1583495630.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98083,
+        "aniId": 112926,
+        "createdAt": "2020-10-12T16:24:19.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

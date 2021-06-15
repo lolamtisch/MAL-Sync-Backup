@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "天そぞろ"
+  ],
+  "authors": [
+    "Akahori, Satoru",
+    "Kitazaki, Taku"
+  ],
+  "id": 114145,
+  "type": "manga",
+  "title": "Tensozoro",
+  "url": "https://myanimelist.net/manga/114145/Tensozoro",
+  "image": "https://cdn.myanimelist.net/images/manga/3/240239.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T18:20:59.000Z",
+  "updatedAt": "2021-06-04T18:20:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c796ebd-9eaf-4b1e-a80a-ec223f4dffa9": {
+        "authors": [
+          "Akahori Satoru",
+          "Kitazaki Taku"
+        ],
+        "identifier": "8c796ebd-9eaf-4b1e-a80a-ec223f4dffa9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ten Sozoro",
+        "url": "https://mangadex.org/title/8c796ebd-9eaf-4b1e-a80a-ec223f4dffa9",
+        "image": "https://uploads.mangadex.org/covers/8c796ebd-9eaf-4b1e-a80a-ec223f4dffa9/8ee1cd7a-83ce-4f5a-809b-c105e22a748a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 114145,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:09:30.000Z",
+        "updatedAt": "2021-06-04T22:12:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

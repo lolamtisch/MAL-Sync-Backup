@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Aoi Nanase"
+  ],
+  "id": 38152,
+  "malId": 8152,
+  "type": "manga",
+  "title": "Heaven",
+  "url": "https://anilist.co/manga/38152",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8152.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:58.000Z",
+  "updatedAt": "2021-05-20T14:39:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "14fc9998-5abe-484e-8a7b-b8bf254686de": {
+        "authors": [
+          "Nanase Aoi"
+        ],
+        "identifier": "14fc9998-5abe-484e-8a7b-b8bf254686de",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heaven",
+        "url": "https://mangadex.org/title/14fc9998-5abe-484e-8a7b-b8bf254686de",
+        "image": "https://uploads.mangadex.org/covers/14fc9998-5abe-484e-8a7b-b8bf254686de/00e3a9cb-7478-4b93-9dee-b1ecb6b0e0e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8152,
+        "aniId": 38152,
+        "createdAt": "2020-10-12T16:03:29.000Z",
+        "updatedAt": "2021-06-02T14:18:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

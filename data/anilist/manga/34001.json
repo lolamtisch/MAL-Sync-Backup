@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "異次元からの便り",
+    "From A Different Dimension",
+    "First Love",
+    "Sleeping Beauty",
+    "Ghost Ship"
+  ],
+  "authors": [
+    "Chie Watari"
+  ],
+  "id": 34001,
+  "malId": 4001,
+  "type": "manga",
+  "title": "Ijigen kara no Tayori",
+  "url": "https://anilist.co/manga/34001",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34001-0hbsXqKfC741.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:23.000Z",
+  "updatedAt": "2021-05-20T14:38:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73635ad7-e88f-4775-b6f6-04565954316f": {
+        "authors": [
+          "Watari Chie"
+        ],
+        "identifier": "73635ad7-e88f-4775-b6f6-04565954316f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "From a Different Dimension",
+        "url": "https://mangadex.org/title/73635ad7-e88f-4775-b6f6-04565954316f",
+        "image": "https://uploads.mangadex.org/covers/73635ad7-e88f-4775-b6f6-04565954316f/b1310a1c-8c14-4e32-9c6d-e482cff1c81b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4001,
+        "aniId": 34001,
+        "createdAt": "2020-10-12T16:07:54.000Z",
+        "updatedAt": "2021-06-04T06:04:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

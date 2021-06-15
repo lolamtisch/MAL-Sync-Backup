@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "カクカゾク"
+  ],
+  "authors": [
+    "Takahiro Katou"
+  ],
+  "id": 117688,
+  "malId": 132073,
+  "type": "manga",
+  "title": "Kakukazoku",
+  "url": "https://anilist.co/manga/117688",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117688-iyb4pse5q3GA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:06.000Z",
+  "updatedAt": "2021-05-20T15:00:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f636b68a-86ef-4a81-902b-4db4fd251637": {
+        "authors": [
+          "Katou Takahiro"
+        ],
+        "identifier": "f636b68a-86ef-4a81-902b-4db4fd251637",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakukazoku",
+        "url": "https://mangadex.org/title/f636b68a-86ef-4a81-902b-4db4fd251637",
+        "image": "https://uploads.mangadex.org/covers/f636b68a-86ef-4a81-902b-4db4fd251637/2d38ed89-7082-4eda-9b3f-cb77083c0a31.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132073,
+        "aniId": 117688,
+        "createdAt": "2020-10-12T16:21:25.000Z",
+        "updatedAt": "2021-06-08T02:23:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kr987374": {
+        "authors": [
+          "Katou Takahiro"
+        ],
+        "identifier": "manga-kr987374",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kakukazoku",
+        "url": "https://manganato.com/manga-kr987374",
+        "image": "https://avt.mkklcdnv6temp.com/45/e/22-1607756346.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132073,
+        "aniId": 117688,
+        "createdAt": "2021-05-28T20:24:43.000Z",
+        "updatedAt": "2021-05-28T20:53:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

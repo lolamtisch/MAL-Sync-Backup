@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "未知との遭遇"
+  ],
+  "authors": [
+    "Koshino"
+  ],
+  "id": 85879,
+  "type": "manga",
+  "title": "Michi to no Souguu",
+  "url": "https://myanimelist.net/manga/85879/Michi_to_no_Souguu",
+  "image": "https://cdn.myanimelist.net/images/manga/3/151355.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:44.000Z",
+  "updatedAt": "2021-05-12T13:24:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "746acfe3-e366-4bf3-9c60-b3469b330e81": {
+        "authors": [
+          "Koshino"
+        ],
+        "identifier": "746acfe3-e366-4bf3-9c60-b3469b330e81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Michi to no Souguu",
+        "url": "https://mangadex.org/title/746acfe3-e366-4bf3-9c60-b3469b330e81",
+        "image": "https://uploads.mangadex.org/covers/746acfe3-e366-4bf3-9c60-b3469b330e81/0811df80-ca60-4de0-b438-3f0fda13b163.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85879,
+        "aniId": 93796,
+        "createdAt": "2020-10-12T16:08:17.000Z",
+        "updatedAt": "2021-06-04T08:59:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "michi_to_no_souguu": {
+        "authors": [
+          "Koshino"
+        ],
+        "identifier": "michi_to_no_souguu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Michi To No Souguu",
+        "url": "https://manganelo.com/manga/michi_to_no_souguu",
+        "image": "https://avt.mkklcdnv6temp.com/5/d/2-1583465889.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85879,
+        "aniId": 93796,
+        "createdAt": "2021-05-13T09:55:32.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

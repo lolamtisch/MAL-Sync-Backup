@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "感染列島"
+  ],
+  "authors": [
+    "Masasumi Kakizaki"
+  ],
+  "id": 47222,
+  "malId": 17222,
+  "type": "manga",
+  "title": "Kansen Rettou",
+  "url": "https://anilist.co/manga/47222",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17222.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:05.000Z",
+  "updatedAt": "2021-05-20T14:44:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1c32c8c-9c5b-4261-98df-21fdca50c06f": {
+        "authors": [
+          "Kakizaki Masasumi"
+        ],
+        "identifier": "e1c32c8c-9c5b-4261-98df-21fdca50c06f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kansen Rettou",
+        "url": "https://mangadex.org/title/e1c32c8c-9c5b-4261-98df-21fdca50c06f",
+        "image": "https://uploads.mangadex.org/covers/e1c32c8c-9c5b-4261-98df-21fdca50c06f/0f1448fd-4f0b-426c-92ba-08bef969154f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17222,
+        "aniId": 47222,
+        "createdAt": "2020-10-12T16:03:52.000Z",
+        "updatedAt": "2021-06-02T17:06:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ne964987": {
+        "authors": [
+          "Kakizaki Masasumi"
+        ],
+        "identifier": "manga-ne964987",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kansen Rettou",
+        "url": "https://manganato.com/manga-ne964987",
+        "image": "https://avt.mkklcdnv6temp.com/47/u/9-1583482100.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17222,
+        "aniId": 47222,
+        "createdAt": "2021-06-07T18:36:59.000Z",
+        "updatedAt": "2021-06-07T19:03:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

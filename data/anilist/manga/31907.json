@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ペリドット"
+  ],
+  "authors": [
+    "Hiyoko Kobayashi"
+  ],
+  "id": 31907,
+  "malId": 1907,
+  "type": "manga",
+  "title": "Peridot",
+  "url": "https://anilist.co/manga/31907",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31907-37ebkWfF5x9V.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:56.000Z",
+  "updatedAt": "2021-05-20T14:36:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c6e66cd-851e-42dc-9c2a-b0c1041deef1": {
+        "authors": [
+          "Kobayashi Hiyoko"
+        ],
+        "identifier": "3c6e66cd-851e-42dc-9c2a-b0c1041deef1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Peridot",
+        "url": "https://mangadex.org/title/3c6e66cd-851e-42dc-9c2a-b0c1041deef1",
+        "image": "https://uploads.mangadex.org/covers/3c6e66cd-851e-42dc-9c2a-b0c1041deef1/798f6f61-9871-4f3b-bc12-a3e399ba6e9d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1907,
+        "aniId": 31907,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:22:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "peridot": {
+        "authors": [
+          "Kobayashi",
+          "Hiyoko"
+        ],
+        "identifier": "peridot",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Peridot",
+        "url": "https://manganelo.com/manga/peridot",
+        "image": "https://avt.mkklcdnv6temp.com/28/v/10-1583483210.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1907,
+        "aniId": 31907,
+        "createdAt": "2021-04-14T22:44:29.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

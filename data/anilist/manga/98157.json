@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "リフト"
+  ],
+  "authors": [
+    "Conro"
+  ],
+  "id": 98157,
+  "malId": 101847,
+  "type": "manga",
+  "title": "Rift",
+  "url": "https://anilist.co/manga/98157",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98157-A5hVQUSbWy3S.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:54.000Z",
+  "updatedAt": "2021-05-20T14:54:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1b2cd92e-a1ae-4b35-90e9-b538d6e81aa3": {
+        "authors": [
+          "Conro"
+        ],
+        "identifier": "1b2cd92e-a1ae-4b35-90e9-b538d6e81aa3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rift",
+        "url": "https://mangadex.org/title/1b2cd92e-a1ae-4b35-90e9-b538d6e81aa3",
+        "image": "https://uploads.mangadex.org/covers/1b2cd92e-a1ae-4b35-90e9-b538d6e81aa3/2370924b-0a3c-4a4c-a830-620b3a728e9c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101847,
+        "aniId": 98157,
+        "createdAt": "2020-10-12T16:10:15.000Z",
+        "updatedAt": "2021-06-04T23:26:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rift": {
+        "authors": [
+          "Conro"
+        ],
+        "identifier": "rift",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rift",
+        "url": "https://manganelo.com/manga/rift",
+        "image": "https://avt.mkklcdnv6temp.com/21/i/14-1583490511.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101847,
+        "aniId": 98157,
+        "createdAt": "2021-05-16T15:55:24.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

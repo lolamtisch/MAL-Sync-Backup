@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Hello Work",
+    "Hello Work"
+  ],
+  "authors": [
+    "Itaba, Hiroshi"
+  ],
+  "id": 71149,
+  "type": "manga",
+  "title": "Hello Work",
+  "url": "https://myanimelist.net/manga/71149/Hello_Work",
+  "image": "https://cdn.myanimelist.net/images/manga/1/122635.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:18.000Z",
+  "updatedAt": "2021-05-10T10:48:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd3eca48-60b4-4bd1-be71-273038cce688": {
+        "authors": [
+          "ripo day",
+          "Mado Nozaki"
+        ],
+        "identifier": "bd3eca48-60b4-4bd1-be71-273038cce688",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "hello (rom-com) world",
+        "url": "https://mangadex.org/title/bd3eca48-60b4-4bd1-be71-273038cce688",
+        "image": "https://uploads.mangadex.org/covers/bd3eca48-60b4-4bd1-be71-273038cce688/a0c728cb-9713-4d14-aa58-b83b161acd47.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71149,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:17:14.000Z",
+        "updatedAt": "2021-06-07T06:04:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

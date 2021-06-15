@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Cage of Thorns",
+    "Cage of Thornes"
+  ],
+  "authors": [
+    "Sonoko Sakuragawa"
+  ],
+  "id": 32478,
+  "malId": 2478,
+  "type": "manga",
+  "title": "Ibara no Ori",
+  "url": "https://anilist.co/manga/32478",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2478.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "70382d4f-93df-435e-b05f-0e80d6aa0f85": {
+        "authors": [
+          "Sakuragawa Sonoko"
+        ],
+        "identifier": "70382d4f-93df-435e-b05f-0e80d6aa0f85",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ibara no Ori",
+        "url": "https://mangadex.org/title/70382d4f-93df-435e-b05f-0e80d6aa0f85",
+        "image": "https://uploads.mangadex.org/covers/70382d4f-93df-435e-b05f-0e80d6aa0f85/60233e72-3e88-403b-8a00-8731da3658c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2478,
+        "aniId": 32478,
+        "createdAt": "2020-10-12T16:21:47.000Z",
+        "updatedAt": "2021-06-08T03:03:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ibara_no_ori": {
+        "authors": [],
+        "identifier": "ibara_no_ori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ibara No Ori",
+        "url": "https://manganelo.com/manga/ibara_no_ori",
+        "image": "https://avt.mkklcdnv6.com/12/z/13-1583488216.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2478,
+        "aniId": 32478,
+        "createdAt": "2020-10-12T16:23:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

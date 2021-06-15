@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "へンゼルとグレーテル"
+  ],
+  "authors": [
+    "Otomo, Katsuhiro"
+  ],
+  "id": 41559,
+  "type": "manga",
+  "title": "Hansel and Gretel",
+  "url": "https://myanimelist.net/manga/41559/Hansel_and_Gretel",
+  "image": "https://cdn.myanimelist.net/images/manga/3/73059.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:12.000Z",
+  "updatedAt": "2021-06-06T06:20:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c86ac89-8c6b-49ed-baa6-9cac67930082": {
+        "authors": [
+          "Otomo Katsuhiro"
+        ],
+        "identifier": "8c86ac89-8c6b-49ed-baa6-9cac67930082",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hansel and Gretel",
+        "url": "https://mangadex.org/title/8c86ac89-8c6b-49ed-baa6-9cac67930082",
+        "image": "https://uploads.mangadex.org/covers/8c86ac89-8c6b-49ed-baa6-9cac67930082/9bdb1ff0-a6d5-4ee9-a8d0-898b867962c1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41559,
+        "aniId": 71559,
+        "createdAt": "2020-10-12T16:06:47.000Z",
+        "updatedAt": "2021-06-03T22:05:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hansel-and-gretel": {
+        "authors": [
+          "OTOMO Katsuhiro"
+        ],
+        "identifier": "hansel-and-gretel",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hansel and Gretel",
+        "url": "https://mangasee123.com/manga/Hansel-And-Gretel",
+        "image": "https://cover.nep.li/cover/Hansel-And-Gretel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41559,
+        "aniId": 71559,
+        "createdAt": "2021-06-06T06:20:39.000Z",
+        "updatedAt": "2021-06-06T06:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

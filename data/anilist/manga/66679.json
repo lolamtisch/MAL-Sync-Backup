@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "エンゲージナイト"
+  ],
+  "authors": [
+    "Mayu Kosugi",
+    "Chika Isaka"
+  ],
+  "id": 66679,
+  "malId": 36679,
+  "type": "manga",
+  "title": "Engage Knight",
+  "url": "https://anilist.co/manga/66679",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36679.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "802051c6-59d2-477c-a10a-f21ca08db6da": {
+        "authors": [
+          "Isaka Chika",
+          "Kosugi Mayu"
+        ],
+        "identifier": "802051c6-59d2-477c-a10a-f21ca08db6da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Engage Knight",
+        "url": "https://mangadex.org/title/802051c6-59d2-477c-a10a-f21ca08db6da",
+        "image": "https://uploads.mangadex.org/covers/802051c6-59d2-477c-a10a-f21ca08db6da/868496cd-6030-4d6f-b1b3-9d3a0966a4d4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36679,
+        "aniId": 66679,
+        "createdAt": "2020-10-12T16:06:31.000Z",
+        "updatedAt": "2021-06-03T20:10:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "altTitle": [
+    "xxxHOLiC",
+    "×××ホリック",
+    "xxxHolic•籠",
+    "×××ホリック•ロウ",
+    "xxxHolic Rou",
+    "xxxHolic Cage",
+    "Holic"
+  ],
+  "authors": [
+    "CLAMP",
+    "William Flanagan",
+    "Suzuka Asaoka",
+    "Fédoua Lamodière",
+    "Alex Pilot"
+  ],
+  "id": 30010,
+  "malId": 10,
+  "type": "manga",
+  "title": "xxxHolic",
+  "url": "https://anilist.co/manga/30010",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30010-NEPm8nwp7e0M.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:21.000Z",
+  "updatedAt": "2021-05-20T14:35:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4702058d-c553-4966-ab09-1deab6328384": {
+        "authors": [
+          "Apapa Mokona",
+          "Nekoi Tsubaki",
+          "Ohkawa Ageha",
+          "CLAMP"
+        ],
+        "identifier": "4702058d-c553-4966-ab09-1deab6328384",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "xxxHoLic",
+        "url": "https://mangadex.org/title/4702058d-c553-4966-ab09-1deab6328384",
+        "image": "https://uploads.mangadex.org/covers/4702058d-c553-4966-ab09-1deab6328384/896f2bf8-cb41-4baa-a084-12f3ebcb81df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10,
+        "aniId": 30010,
+        "createdAt": "2020-10-12T16:04:21.000Z",
+        "updatedAt": "2021-06-02T20:31:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "odaj60501554431082": {
+        "authors": [],
+        "identifier": "odaj60501554431082",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Xxxholic",
+        "url": "https://manganelo.com/manga/odaj60501554431082",
+        "image": "https://avt.mkklcdnv6.com/44/e/4-1583471526.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10,
+        "aniId": 30010,
+        "createdAt": "2020-10-12T16:24:38.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "xxx-h-o-l-i-c": {
+        "authors": [
+          "CLAMP",
+          "NEKOI Tsubaki",
+          "OHKAWA Ageha"
+        ],
+        "identifier": "xxx-h-o-l-i-c",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "xxxHOLIC",
+        "url": "https://mangasee123.com/manga/xxx-H-O-L-I-C",
+        "image": "https://cover.nep.li/cover/xxx-H-O-L-I-C.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10,
+        "aniId": 30010,
+        "createdAt": "2021-01-28T18:50:37.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "xxxholic": {
+        "authors": [
+          "OHKAWA Ageha",
+          "CLAMP"
+        ],
+        "identifier": "xxxholic",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "xxxHOLiC",
+        "url": "https://fanfox.net/manga/xxxholic/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/94/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10,
+        "aniId": 30010,
+        "createdAt": "2021-03-06T14:50:06.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

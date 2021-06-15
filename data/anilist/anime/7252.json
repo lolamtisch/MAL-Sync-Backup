@@ -1,0 +1,39 @@
+{
+  "altTitle": [
+    "The Enchanted Journey",
+    "グリックの冒険",
+    "Grick no Bouken"
+  ],
+  "id": 7252,
+  "malId": 7252,
+  "type": "anime",
+  "title": "Grick no Bouken",
+  "url": "https://anilist.co/anime/7252",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7252.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:49.000Z",
+  "updatedAt": "2021-05-20T14:38:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "jqw8": {
+        "identifier": "jqw8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Enchanted Journey (Dub)",
+        "url": "https://www11.9anime.to/watch/the-enchanted-journey.jqw8",
+        "image": "https://static.akacdn.ru/files/images/2018/03/fa1e5462312eeee740c93e6d1680bb0e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7252,
+        "aniId": 7252,
+        "createdAt": "2020-10-12T15:52:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "카페 오컬트"
+  ],
+  "authors": [
+    "Oh Rhe Bar Ghun",
+    "No-Uhn Ahn"
+  ],
+  "id": 31842,
+  "malId": 1842,
+  "type": "manga",
+  "title": "Cafe Occult",
+  "url": "https://anilist.co/manga/31842",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1842.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:54.000Z",
+  "updatedAt": "2021-05-20T14:36:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "568d156b-1b9b-4f19-b7e4-0512239d9eb0": {
+        "authors": [
+          "Ahn No-Uhn",
+          "Orebakgeum"
+        ],
+        "identifier": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cafe Occult",
+        "url": "https://mangadex.org/title/568d156b-1b9b-4f19-b7e4-0512239d9eb0",
+        "image": "https://uploads.mangadex.org/covers/568d156b-1b9b-4f19-b7e4-0512239d9eb0/d19b5c16-25a8-474b-9487-bd1d3990ed24.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1842,
+        "aniId": 31842,
+        "createdAt": "2020-10-12T16:06:20.000Z",
+        "updatedAt": "2021-06-03T19:00:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

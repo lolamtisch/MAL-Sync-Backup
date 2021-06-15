@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ブラックコーヒー"
+  ],
+  "authors": [
+    "Emiko Nakano"
+  ],
+  "id": 60119,
+  "malId": 30119,
+  "type": "manga",
+  "title": "Black Coffee",
+  "url": "https://anilist.co/manga/60119",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30119.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:39.000Z",
+  "updatedAt": "2021-05-20T14:47:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d48dc46-c77b-4da3-b029-b0ec94153f00": {
+        "authors": [
+          "Nakano Emiko"
+        ],
+        "identifier": "7d48dc46-c77b-4da3-b029-b0ec94153f00",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Coffee",
+        "url": "https://mangadex.org/title/7d48dc46-c77b-4da3-b029-b0ec94153f00",
+        "image": "https://uploads.mangadex.org/covers/7d48dc46-c77b-4da3-b029-b0ec94153f00/58b1a1b1-8822-492d-a015-6d4734644c8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30119,
+        "aniId": 60119,
+        "createdAt": "2020-10-12T16:03:24.000Z",
+        "updatedAt": "2021-06-02T13:45:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

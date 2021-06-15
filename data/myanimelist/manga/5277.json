@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Digital Apple Magic",
+    "RiNGO"
+  ],
+  "authors": [
+    "Koio, Minato"
+  ],
+  "id": 5277,
+  "type": "manga",
+  "title": "Ringo",
+  "url": "https://myanimelist.net/manga/5277/Ringo",
+  "image": "https://cdn.myanimelist.net/images/manga/1/56497.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:04.000Z",
+  "updatedAt": "2021-04-29T05:19:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a251a101-b6ce-41bf-9461-5a2febe2e62b": {
+        "authors": [
+          "Koio Minato"
+        ],
+        "identifier": "a251a101-b6ce-41bf-9461-5a2febe2e62b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ringo",
+        "url": "https://mangadex.org/title/a251a101-b6ce-41bf-9461-5a2febe2e62b",
+        "image": "https://uploads.mangadex.org/covers/a251a101-b6ce-41bf-9461-5a2febe2e62b/d444b2ac-79a7-494e-b11d-02f6b5eea09e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5277,
+        "aniId": 35277,
+        "createdAt": "2020-10-12T16:02:41.000Z",
+        "updatedAt": "2021-06-02T08:46:25.000Z",
+        "deletedAt": null
+      },
+      "8d7dea85-d7f1-4e78-887b-83bc1ef18967": {
+        "authors": [
+          "Seol",
+          "Reck"
+        ],
+        "identifier": "8d7dea85-d7f1-4e78-887b-83bc1ef18967",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Digitalis",
+        "url": "https://mangadex.org/title/8d7dea85-d7f1-4e78-887b-83bc1ef18967",
+        "image": "https://uploads.mangadex.org/covers/8d7dea85-d7f1-4e78-887b-83bc1ef18967/5fc346d1-1d67-49ee-839d-171bb0401e27.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5277,
+        "aniId": 35277,
+        "createdAt": "2020-10-12T16:13:53.000Z",
+        "updatedAt": "2021-06-06T00:53:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

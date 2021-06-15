@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "夕凪マーブレット"
+  ],
+  "authors": [
+    "Momono Moto"
+  ],
+  "id": 100863,
+  "malId": 108658,
+  "type": "manga",
+  "title": "Yuunagi Marbled",
+  "url": "https://anilist.co/manga/100863",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100863-TFTIbmJO4wrG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:00.000Z",
+  "updatedAt": "2021-05-20T14:56:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1a33f6c2-26ad-4313-bfb3-872786225742": {
+        "authors": [
+          "Momono Moto"
+        ],
+        "identifier": "1a33f6c2-26ad-4313-bfb3-872786225742",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuunagi Marbled",
+        "url": "https://mangadex.org/title/1a33f6c2-26ad-4313-bfb3-872786225742",
+        "image": "https://uploads.mangadex.org/covers/1a33f6c2-26ad-4313-bfb3-872786225742/cb781635-5add-4635-b155-8c1d34309338.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108658,
+        "aniId": 100863,
+        "createdAt": "2020-10-12T16:11:20.000Z",
+        "updatedAt": "2021-06-05T07:30:58.000Z",
+        "deletedAt": null
+      },
+      "4452d79a-3db0-49dc-b99e-67970b2526ce": {
+        "authors": [
+          "Okama"
+        ],
+        "identifier": "4452d79a-3db0-49dc-b99e-67970b2526ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Okamarble",
+        "url": "https://mangadex.org/title/4452d79a-3db0-49dc-b99e-67970b2526ce",
+        "image": "https://uploads.mangadex.org/covers/4452d79a-3db0-49dc-b99e-67970b2526ce/13020d20-7ec6-484c-b56d-7d3c9f7e8287.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108658,
+        "aniId": 100863,
+        "createdAt": "2020-10-12T16:14:39.000Z",
+        "updatedAt": "2021-06-06T06:59:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

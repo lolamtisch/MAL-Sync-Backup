@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ゆめくり"
+  ],
+  "authors": [
+    "Hiro"
+  ],
+  "id": 64627,
+  "malId": 34627,
+  "type": "manga",
+  "title": "Yumekuri",
+  "url": "https://anilist.co/manga/64627",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx64627-n79PDIWeWqnE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:59.000Z",
+  "updatedAt": "2021-05-20T14:47:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "23cd5e60-0e39-45b5-acac-61db087eb9bc": {
+        "authors": [
+          "Hiro"
+        ],
+        "identifier": "23cd5e60-0e39-45b5-acac-61db087eb9bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yumekuri",
+        "url": "https://mangadex.org/title/23cd5e60-0e39-45b5-acac-61db087eb9bc",
+        "image": "https://uploads.mangadex.org/covers/23cd5e60-0e39-45b5-acac-61db087eb9bc/c03011f6-e540-4299-b7d1-fcbc41ceba16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34627,
+        "aniId": 64627,
+        "createdAt": "2020-10-12T16:04:01.000Z",
+        "updatedAt": "2021-06-02T18:07:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yumekuri": {
+        "authors": [],
+        "identifier": "yumekuri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yumekuri",
+        "url": "https://manganelo.com/manga/yumekuri",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2634-yumekuri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34627,
+        "aniId": 64627,
+        "createdAt": "2020-10-12T16:26:27.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yumekuri": {
+        "authors": [
+          "HIRO"
+        ],
+        "identifier": "yumekuri",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yumekuri",
+        "url": "https://mangasee123.com/manga/Yumekuri",
+        "image": "https://cover.nep.li/cover/Yumekuri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34627,
+        "aniId": 64627,
+        "createdAt": "2021-02-24T14:25:49.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

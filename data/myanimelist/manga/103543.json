@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "リュウ"
+  ],
+  "authors": [
+    "Oze, Akira",
+    "Yajima, Masao"
+  ],
+  "id": 103543,
+  "type": "manga",
+  "title": "Ryuu",
+  "url": "https://myanimelist.net/manga/103543/Ryuu",
+  "image": "https://cdn.myanimelist.net/images/manga/3/189537.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:49.000Z",
+  "updatedAt": "2021-06-08T14:55:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e95478f3-8819-4636-8052-51685c031b6e": {
+        "authors": [
+          "Oze Akira",
+          "Yajima Masao"
+        ],
+        "identifier": "e95478f3-8819-4636-8052-51685c031b6e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ryu",
+        "url": "https://mangadex.org/title/e95478f3-8819-4636-8052-51685c031b6e",
+        "image": "https://uploads.mangadex.org/covers/e95478f3-8819-4636-8052-51685c031b6e/d9183d1d-47e8-402d-a947-d46748326710.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103543,
+        "aniId": 98184,
+        "createdAt": "2020-10-12T16:10:23.000Z",
+        "updatedAt": "2021-06-05T00:24:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ryuu": {
+        "authors": [
+          "Yajima",
+          "Masao"
+        ],
+        "identifier": "ryuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ryuu",
+        "url": "https://manganelo.com/manga/ryuu",
+        "image": "https://avt.mkklcdnv6.com/46/n/14-1583491360.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103543,
+        "aniId": 98184,
+        "createdAt": "2021-01-01T09:34:39.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xc974585": {
+        "authors": [
+          "Yajima Masao",
+          "Akira Oze"
+        ],
+        "identifier": "manga-xc974585",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ryuu",
+        "url": "https://manganato.com/manga-xc974585",
+        "image": "https://avt.mkklcdnv6temp.com/46/n/14-1583491360.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103543,
+        "aniId": 98184,
+        "createdAt": "2021-06-08T14:55:22.000Z",
+        "updatedAt": "2021-06-08T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Bus Gamer ビズ ゲーマー",
+    "Bus Gamer"
+  ],
+  "authors": [
+    "Kazuya Minekura"
+  ],
+  "id": 37223,
+  "malId": 7223,
+  "type": "manga",
+  "title": "Bus Gamer",
+  "url": "https://anilist.co/manga/37223",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37223-YkMA0J0UltS0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:46.000Z",
+  "updatedAt": "2021-05-20T14:39:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6fd9f826-3a34-42d2-8ba5-81f93ba84b6f": {
+        "authors": [
+          "Minekura Kazuya"
+        ],
+        "identifier": "6fd9f826-3a34-42d2-8ba5-81f93ba84b6f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bus Gamer (Comic REX)",
+        "url": "https://mangadex.org/title/6fd9f826-3a34-42d2-8ba5-81f93ba84b6f",
+        "image": "https://uploads.mangadex.org/covers/6fd9f826-3a34-42d2-8ba5-81f93ba84b6f/fa58c267-34fd-47ba-abf6-8bf7e54e7856.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7223,
+        "aniId": 37223,
+        "createdAt": "2020-10-12T16:06:53.000Z",
+        "updatedAt": "2021-06-03T22:53:59.000Z",
+        "deletedAt": null
+      },
+      "54c62b10-ba2a-4801-823e-1bf9244aba2b": {
+        "authors": [
+          "Minekura Kazuya"
+        ],
+        "identifier": "54c62b10-ba2a-4801-823e-1bf9244aba2b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bus Gamer (Stencil)",
+        "url": "https://mangadex.org/title/54c62b10-ba2a-4801-823e-1bf9244aba2b",
+        "image": "https://uploads.mangadex.org/covers/54c62b10-ba2a-4801-823e-1bf9244aba2b/dd0f203c-7a93-4921-a34d-5abbb7693c4b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7223,
+        "aniId": 37223,
+        "createdAt": "2020-10-12T16:06:53.000Z",
+        "updatedAt": "2021-06-03T22:54:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

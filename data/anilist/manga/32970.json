@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Moyasimon: Tales of Agriculture",
+    "もやしもん",
+    "Moyasimon",
+    "Tales of Agriculture"
+  ],
+  "authors": [
+    "Masayuki Ishikawa"
+  ],
+  "id": 32970,
+  "malId": 2970,
+  "type": "manga",
+  "title": "Moyashimon",
+  "url": "https://anilist.co/manga/32970",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32970-w7N6zirKS7Ql.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-05-20T14:37:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9c141f57-1756-4275-9d39-e94adab92650": {
+        "authors": [
+          "Ishikawa Masayuki"
+        ],
+        "identifier": "9c141f57-1756-4275-9d39-e94adab92650",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Moyashimon",
+        "url": "https://mangadex.org/title/9c141f57-1756-4275-9d39-e94adab92650",
+        "image": "https://uploads.mangadex.org/covers/9c141f57-1756-4275-9d39-e94adab92650/e1181960-2fc1-447c-9c2a-2523b9bf764d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2970,
+        "aniId": 32970,
+        "createdAt": "2020-10-12T16:03:52.000Z",
+        "updatedAt": "2021-06-02T17:06:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "moyashimon": {
+        "authors": [
+          "ISHIKAWA Masayuki"
+        ],
+        "identifier": "moyashimon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Moyashimon",
+        "url": "https://fanfox.net/manga/moyashimon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1125/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2970,
+        "aniId": 32970,
+        "createdAt": "2021-05-20T21:14:49.000Z",
+        "updatedAt": "2021-05-20T21:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

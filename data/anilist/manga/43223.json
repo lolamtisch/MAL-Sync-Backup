@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "If it Flowered in the Heavens",
+    "天に咲いたら"
+  ],
+  "authors": [
+    "Namiko Aoi"
+  ],
+  "id": 43223,
+  "malId": 13223,
+  "type": "manga",
+  "title": "Sora ni Saitara",
+  "url": "https://anilist.co/manga/43223",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13223.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T17:23:38.000Z",
+  "updatedAt": "2021-06-04T17:23:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e0d047b8-b878-4cdc-b3a8-e0a5887ddab6": {
+        "authors": [
+          "AOI Namiko"
+        ],
+        "identifier": "e0d047b8-b878-4cdc-b3a8-e0a5887ddab6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sora ni Saitara",
+        "url": "https://mangadex.org/title/e0d047b8-b878-4cdc-b3a8-e0a5887ddab6",
+        "image": "https://uploads.mangadex.org/covers/e0d047b8-b878-4cdc-b3a8-e0a5887ddab6/fc6b1a07-fc76-4183-bd5b-7beb41d72371.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13223,
+        "aniId": 43223,
+        "createdAt": "2020-10-12T16:09:21.000Z",
+        "updatedAt": "2021-06-04T22:10:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

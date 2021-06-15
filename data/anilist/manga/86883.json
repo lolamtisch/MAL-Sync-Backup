@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "少年☆プリンセス",
+    "Shounen Princess",
+    "Putri Harimau Nao"
+  ],
+  "authors": [
+    "Seishirou Matsuri"
+  ],
+  "id": 86883,
+  "malId": 80523,
+  "type": "manga",
+  "title": "Shounen☆Princess",
+  "url": "https://anilist.co/manga/86883",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56883-rtbfcSZclkea.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:01.000Z",
+  "updatedAt": "2021-05-20T14:52:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d64138fe-ef4c-4e04-bfd9-6e520850757a": {
+        "authors": [
+          "Matsuri Seishirou"
+        ],
+        "identifier": "d64138fe-ef4c-4e04-bfd9-6e520850757a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shounen Princess - Putri Harimau Nao",
+        "url": "https://mangadex.org/title/d64138fe-ef4c-4e04-bfd9-6e520850757a",
+        "image": "https://uploads.mangadex.org/covers/d64138fe-ef4c-4e04-bfd9-6e520850757a/491aed0b-6724-4a2b-ac35-5d69cda47ddc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80523,
+        "aniId": 86883,
+        "createdAt": "2020-10-12T16:09:31.000Z",
+        "updatedAt": "2021-06-04T18:07:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shounen_princess": {
+        "authors": [],
+        "identifier": "shounen_princess",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shounen Princess",
+        "url": "https://manganelo.com/manga/shounen_princess",
+        "image": "https://avt.mkklcdnv6.com/23/t/13-1583488598.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80523,
+        "aniId": 86883,
+        "createdAt": "2020-10-12T16:25:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shounen_princess_putri_harimau_nao": {
+        "authors": [
+          "MATSURI Seishirou"
+        ],
+        "identifier": "shounen_princess_putri_harimau_nao",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shounen Princess - Putri Harimau Nao",
+        "url": "https://fanfox.net/manga/shounen_princess_putri_harimau_nao/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18889/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 80523,
+        "aniId": 86883,
+        "createdAt": "2021-03-26T13:49:57.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

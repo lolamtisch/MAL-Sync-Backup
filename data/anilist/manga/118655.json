@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "슬레이브 B"
+  ],
+  "authors": [
+    "Gee Park",
+    "In Su Im"
+  ],
+  "id": 118655,
+  "malId": null,
+  "type": "manga",
+  "title": "Slave B",
+  "url": "https://anilist.co/manga/118655",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118655-udIY0PlfHK0q.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T21:15:08.000Z",
+  "updatedAt": "2021-06-04T01:20:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73353bf3-0770-4787-be72-461d7b42c627": {
+        "authors": [
+          "임인스",
+          "Park Gee/Ji (박지)"
+        ],
+        "identifier": "73353bf3-0770-4787-be72-461d7b42c627",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Slave B",
+        "url": "https://mangadex.org/title/73353bf3-0770-4787-be72-461d7b42c627",
+        "image": "https://uploads.mangadex.org/covers/73353bf3-0770-4787-be72-461d7b42c627/fd94f9c1-cab2-42a7-b385-2c946ee37aad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118655,
+        "createdAt": "2020-10-12T16:19:26.000Z",
+        "updatedAt": "2021-06-08T00:39:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "slave-b": {
+        "authors": [
+          "Imines",
+          "Park Ji"
+        ],
+        "identifier": "slave-b",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Slave B",
+        "url": "https://mangasee123.com/manga/Slave-B",
+        "image": "https://cover.nep.li/cover/Slave-B.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 118655,
+        "createdAt": "2020-11-10T17:13:43.000Z",
+        "updatedAt": "2021-05-20T21:15:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

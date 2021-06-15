@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "玉藻の恋"
+  ],
+  "authors": [
+    "Mito"
+  ],
+  "id": 117347,
+  "malId": 136546,
+  "type": "manga",
+  "title": "Tamamo no Koi",
+  "url": "https://anilist.co/manga/117347",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117347-seZgnLRW6rQK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:51:16.000Z",
+  "updatedAt": "2021-06-08T01:51:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "433e77d2-5a58-48a3-95b8-e3c02f309255": {
+        "authors": [
+          "Mito"
+        ],
+        "identifier": "433e77d2-5a58-48a3-95b8-e3c02f309255",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tamamo no Koi",
+        "url": "https://mangadex.org/title/433e77d2-5a58-48a3-95b8-e3c02f309255",
+        "image": "https://uploads.mangadex.org/covers/433e77d2-5a58-48a3-95b8-e3c02f309255/b8177dba-323f-47e3-a46d-62bc756b4cfd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 136546,
+        "aniId": 117347,
+        "createdAt": "2020-10-12T16:21:05.000Z",
+        "updatedAt": "2021-06-08T06:43:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

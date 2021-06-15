@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Dr.プリズナー"
+  ],
+  "authors": [
+    "Komatsu Ishikawa",
+    "Atsuo Ueda"
+  ],
+  "id": 101826,
+  "malId": 100077,
+  "type": "manga",
+  "title": "Dr. Prisoner",
+  "url": "https://anilist.co/manga/101826",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101826-KPhjC6mO5QJp.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:45.000Z",
+  "updatedAt": "2021-05-20T14:54:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb10c63a-bfe8-40fd-b0d5-53acbf626837": {
+        "authors": [
+          "Ueda Atsuo",
+          "Ishikawa Komatsu"
+        ],
+        "identifier": "bb10c63a-bfe8-40fd-b0d5-53acbf626837",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dr. Prisoner",
+        "url": "https://mangadex.org/title/bb10c63a-bfe8-40fd-b0d5-53acbf626837",
+        "image": "https://uploads.mangadex.org/covers/bb10c63a-bfe8-40fd-b0d5-53acbf626837/ebeef654-e982-44b5-ad22-07c108101cf8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100077,
+        "aniId": 101826,
+        "createdAt": "2020-10-12T16:11:18.000Z",
+        "updatedAt": "2021-06-05T07:12:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lzpb283121577113113": {
+        "authors": [],
+        "identifier": "lzpb283121577113113",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dr. Prisoner",
+        "url": "https://manganelo.com/manga/lzpb283121577113113",
+        "image": "https://avt.mkklcdnv6.com/50/g/16-1583495274.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100077,
+        "aniId": 101826,
+        "createdAt": "2020-10-12T16:24:13.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Tales of the Dragon Mages of Corseltel",
+    "コーセルテルの竜術士物語",
+    "Koseruteru no Ryuujutushi Monogatari"
+  ],
+  "authors": [
+    "Ayuma Isurugi"
+  ],
+  "id": 61007,
+  "malId": 31007,
+  "type": "manga",
+  "title": "Corseltel no Ryuujitsushi Monogatari",
+  "url": "https://anilist.co/manga/61007",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31007.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:42.000Z",
+  "updatedAt": "2021-05-20T14:47:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b965b59c-da99-49ec-9ed1-3bed886b65c8": {
+        "authors": [
+          "Isurugi Ayuma"
+        ],
+        "identifier": "b965b59c-da99-49ec-9ed1-3bed886b65c8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Corseltel no Ryuujitsushi Monogatari",
+        "url": "https://mangadex.org/title/b965b59c-da99-49ec-9ed1-3bed886b65c8",
+        "image": "https://uploads.mangadex.org/covers/b965b59c-da99-49ec-9ed1-3bed886b65c8/80154a0b-af81-473d-8d87-f9d231f4f79f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31007,
+        "aniId": 61007,
+        "createdAt": "2020-10-12T16:02:33.000Z",
+        "updatedAt": "2021-06-02T07:55:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "corseltel_no_ryuujitsushi_monogatari": {
+        "authors": [
+          "Isurugi",
+          "Ayuma"
+        ],
+        "identifier": "corseltel_no_ryuujitsushi_monogatari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Corseltel No Ryuujitsushi Monogatari",
+        "url": "https://manganelo.com/manga/corseltel_no_ryuujitsushi_monogatari",
+        "image": "https://avt.mkklcdnv6temp.com/13/m/2-1583466221.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31007,
+        "aniId": 61007,
+        "createdAt": "2021-03-30T08:31:43.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

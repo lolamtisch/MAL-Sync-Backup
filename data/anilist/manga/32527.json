@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "クレイジー・フォー・ダディ"
+  ],
+  "authors": [
+    "CHI-RAN"
+  ],
+  "id": 32527,
+  "malId": 2527,
+  "type": "manga",
+  "title": "Crazy for Daddy",
+  "url": "https://anilist.co/manga/32527",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32527-3NZ4772P8Zh2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d0839f46-afb5-4c53-a0f3-8c78824df6a0": {
+        "authors": [
+          "Chi-Ran"
+        ],
+        "identifier": "d0839f46-afb5-4c53-a0f3-8c78824df6a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crazy for Daddy",
+        "url": "https://mangadex.org/title/d0839f46-afb5-4c53-a0f3-8c78824df6a0",
+        "image": "https://uploads.mangadex.org/covers/d0839f46-afb5-4c53-a0f3-8c78824df6a0/6de811fe-12a0-4621-b0e5-aa69b05b1423.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2527,
+        "aniId": 32527,
+        "createdAt": "2020-10-12T16:20:25.000Z",
+        "updatedAt": "2021-06-08T00:01:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "crazy_for_daddy": {
+        "authors": [
+          "Chi-Ran"
+        ],
+        "identifier": "crazy_for_daddy",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Crazy for Daddy",
+        "url": "https://fanfox.net/manga/crazy_for_daddy/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5575/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2527,
+        "aniId": 32527,
+        "createdAt": "2021-05-20T21:45:20.000Z",
+        "updatedAt": "2021-05-20T22:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

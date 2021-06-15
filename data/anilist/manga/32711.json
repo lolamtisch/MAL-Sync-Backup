@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "クマとインテリ",
+    "Kuma to Interia",
+    "Con Te",
+    "Orso e Intellettuale",
+    "Manifesto"
+  ],
+  "authors": [
+    "Natsume Ono"
+  ],
+  "id": 32711,
+  "malId": 2711,
+  "type": "manga",
+  "title": "Kuma to Interi",
+  "url": "https://anilist.co/manga/32711",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2711.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ccedea6f-bec5-44d2-8696-4c111286c15a": {
+        "authors": [
+          "Basso"
+        ],
+        "identifier": "ccedea6f-bec5-44d2-8696-4c111286c15a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuma to Interi",
+        "url": "https://mangadex.org/title/ccedea6f-bec5-44d2-8696-4c111286c15a",
+        "image": "https://uploads.mangadex.org/covers/ccedea6f-bec5-44d2-8696-4c111286c15a/fcc9dbbb-8d30-4052-960a-a63cce57f1c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2711,
+        "aniId": 32711,
+        "createdAt": "2020-10-12T16:06:58.000Z",
+        "updatedAt": "2021-06-03T23:23:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

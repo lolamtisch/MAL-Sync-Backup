@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Spring Horse",
+    "春駒"
+  ],
+  "authors": [
+    "Aki Irie"
+  ],
+  "id": 85597,
+  "malId": 67239,
+  "type": "manga",
+  "title": "Harukoma",
+  "url": "https://anilist.co/manga/85597",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55597.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:59.000Z",
+  "updatedAt": "2021-05-20T14:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5d581002-56e5-411a-8681-ff4377b6a3df": {
+        "authors": [
+          "Irie Aki"
+        ],
+        "identifier": "5d581002-56e5-411a-8681-ff4377b6a3df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Harukoma",
+        "url": "https://mangadex.org/title/5d581002-56e5-411a-8681-ff4377b6a3df",
+        "image": "https://uploads.mangadex.org/covers/5d581002-56e5-411a-8681-ff4377b6a3df/ae569b57-abf2-4928-97d5-bb798cabe653.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67239,
+        "aniId": 85597,
+        "createdAt": "2020-10-12T16:07:09.000Z",
+        "updatedAt": "2021-06-04T00:43:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

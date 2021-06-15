@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "先輩の猫"
+  ],
+  "authors": [
+    "Jin Takemiya"
+  ],
+  "id": 110004,
+  "malId": null,
+  "type": "manga",
+  "title": "Senpai no neko",
+  "url": "https://anilist.co/manga/110004",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110004-EVqKMOGXWu9D.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T00:24:03.000Z",
+  "updatedAt": "2021-06-08T00:24:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b80f29f4-c716-4a1e-91d7-fea3120d89ca": {
+        "authors": [
+          "Takemiya Jin"
+        ],
+        "identifier": "b80f29f4-c716-4a1e-91d7-fea3120d89ca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Senpai no Neko",
+        "url": "https://mangadex.org/title/b80f29f4-c716-4a1e-91d7-fea3120d89ca",
+        "image": "https://uploads.mangadex.org/covers/b80f29f4-c716-4a1e-91d7-fea3120d89ca/6112f9b3-98e5-420d-a7f6-680179312dd4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110004,
+        "createdAt": "2020-10-12T16:20:25.000Z",
+        "updatedAt": "2021-06-08T00:41:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

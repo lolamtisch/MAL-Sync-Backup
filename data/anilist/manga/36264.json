@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Moonlight Garden",
+    "月光庭園",
+    "Gekkou Teien",
+    "Moonlight Garden"
+  ],
+  "authors": [
+    "Kazumi Ooya"
+  ],
+  "id": 36264,
+  "malId": 6264,
+  "type": "manga",
+  "title": "Gekkou Teien",
+  "url": "https://anilist.co/manga/36264",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6264.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:38.000Z",
+  "updatedAt": "2021-05-20T14:39:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c67b46b-cde6-4694-9a47-89854d10c715": {
+        "authors": [
+          "Ohya Kazumi"
+        ],
+        "identifier": "8c67b46b-cde6-4694-9a47-89854d10c715",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gekkou Teien",
+        "url": "https://mangadex.org/title/8c67b46b-cde6-4694-9a47-89854d10c715",
+        "image": "https://uploads.mangadex.org/covers/8c67b46b-cde6-4694-9a47-89854d10c715/01ac74b4-c993-4c04-8c0b-14d0dca1e2c9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6264,
+        "aniId": 36264,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:41:41.000Z",
+        "deletedAt": null
+      },
+      "c70980c2-f60f-425b-8995-331a7b9dd88a": {
+        "authors": [
+          "MISSPM",
+          "KANG UNNIE"
+        ],
+        "identifier": "c70980c2-f60f-425b-8995-331a7b9dd88a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Moonlight Garden",
+        "url": "https://mangadex.org/title/c70980c2-f60f-425b-8995-331a7b9dd88a",
+        "image": "https://uploads.mangadex.org/covers/c70980c2-f60f-425b-8995-331a7b9dd88a/8ac8ca78-cb8f-4e2a-8e60-e2de1f53f5f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6264,
+        "aniId": 36264,
+        "createdAt": "2020-10-12T16:17:36.000Z",
+        "updatedAt": "2021-06-07T09:02:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gekkou_teien": {
+        "authors": [],
+        "identifier": "gekkou_teien",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gekkou Teien",
+        "url": "https://manganelo.com/manga/gekkou_teien",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11838-gekkou_teien.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6264,
+        "aniId": 36264,
+        "createdAt": "2020-10-12T16:23:04.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

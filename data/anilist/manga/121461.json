@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "キミのスキtoボクのスキ",
+    "キミのスキ to ボクのスキ"
+  ],
+  "authors": [
+    "Umeka Kusakabe"
+  ],
+  "id": 121461,
+  "malId": null,
+  "type": "manga",
+  "title": "Kimi no Suki to Boku no Suki",
+  "url": "https://anilist.co/manga/121461",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121461-atWjmETN9ZxZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T02:53:40.000Z",
+  "updatedAt": "2021-06-08T02:53:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b4a5d2fa-8a35-4726-9a18-8e95a0bfe4e3": {
+        "authors": [
+          "Umeka Kusakabe"
+        ],
+        "identifier": "b4a5d2fa-8a35-4726-9a18-8e95a0bfe4e3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "You and I",
+        "url": "https://mangadex.org/title/b4a5d2fa-8a35-4726-9a18-8e95a0bfe4e3",
+        "image": "https://uploads.mangadex.org/covers/b4a5d2fa-8a35-4726-9a18-8e95a0bfe4e3/f0e6469d-ad56-4f8f-a1e9-d368a4bb0461.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 121461,
+        "createdAt": "2020-10-12T16:21:28.000Z",
+        "updatedAt": "2021-06-08T07:01:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

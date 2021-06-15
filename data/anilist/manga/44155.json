@@ -1,0 +1,81 @@
+{
+  "altTitle": [
+    "コンティニュー"
+  ],
+  "authors": [
+    "Katsura Hoshino"
+  ],
+  "id": 44155,
+  "malId": 14155,
+  "type": "manga",
+  "title": "Continue",
+  "url": "https://anilist.co/manga/44155",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14155.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:43.000Z",
+  "updatedAt": "2021-05-20T14:42:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e05f6e9-5724-4a61-9c83-9215934d1bd1": {
+        "authors": [
+          "Hoshino Katsura"
+        ],
+        "identifier": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Continue",
+        "url": "https://mangadex.org/title/7e05f6e9-5724-4a61-9c83-9215934d1bd1",
+        "image": "https://uploads.mangadex.org/covers/7e05f6e9-5724-4a61-9c83-9215934d1bd1/afb0f5ff-f0f8-4147-aee6-900d33cadbce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14155,
+        "aniId": 44155,
+        "createdAt": "2020-10-12T16:03:40.000Z",
+        "updatedAt": "2021-06-02T15:42:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "io919341": {
+        "authors": [],
+        "identifier": "io919341",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Continuity is Magical",
+        "url": "https://manganelo.com/manga/io919341",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/747-io919341.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14155,
+        "aniId": 44155,
+        "createdAt": "2020-10-12T16:23:34.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "ny921634": {
+        "authors": [],
+        "identifier": "ny921634",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Today, We Continue Our Lives Together Under The Same Roof",
+        "url": "https://manganelo.com/manga/ny921634",
+        "image": "https://avt.mkklcdnv6.com/13/q/20-1583501553.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14155,
+        "aniId": 44155,
+        "createdAt": "2020-10-12T16:24:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

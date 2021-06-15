@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ゆる恋",
+    "All Love"
+  ],
+  "authors": [
+    "Aki Yoshino"
+  ],
+  "id": 48960,
+  "malId": 18960,
+  "type": "manga",
+  "title": "Yuru Koi",
+  "url": "https://anilist.co/manga/48960",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48960-WVr2tuDH0bUn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:15.000Z",
+  "updatedAt": "2021-05-20T14:45:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba89669d-a5ff-4c90-a0e5-b9e916d53b5f": {
+        "authors": [
+          "Yoshino Aki"
+        ],
+        "identifier": "ba89669d-a5ff-4c90-a0e5-b9e916d53b5f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuru Koi",
+        "url": "https://mangadex.org/title/ba89669d-a5ff-4c90-a0e5-b9e916d53b5f",
+        "image": "https://uploads.mangadex.org/covers/ba89669d-a5ff-4c90-a0e5-b9e916d53b5f/7e319fe6-8e55-47a7-82f1-72a058a81586.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18960,
+        "aniId": 48960,
+        "createdAt": "2020-10-12T16:03:12.000Z",
+        "updatedAt": "2021-06-02T12:21:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

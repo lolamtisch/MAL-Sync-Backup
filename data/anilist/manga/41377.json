@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Laon"
+  ],
+  "authors": [
+    "You Hyun"
+  ],
+  "id": 41377,
+  "malId": 11377,
+  "type": "manga",
+  "title": "Laon",
+  "url": "https://anilist.co/manga/41377",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11377.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:18.000Z",
+  "updatedAt": "2021-05-20T14:41:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "77e4b2fb-1656-4db4-aeaf-b987dd6ce870": {
+        "authors": [
+          "A A-ru",
+          "You Hyun"
+        ],
+        "identifier": "77e4b2fb-1656-4db4-aeaf-b987dd6ce870",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Laon",
+        "url": "https://mangadex.org/title/77e4b2fb-1656-4db4-aeaf-b987dd6ce870",
+        "image": "https://uploads.mangadex.org/covers/77e4b2fb-1656-4db4-aeaf-b987dd6ce870/570312b8-a1e7-4314-91c9-048d4e649c25.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11377,
+        "aniId": 41377,
+        "createdAt": "2020-10-12T16:05:25.000Z",
+        "updatedAt": "2021-06-03T12:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

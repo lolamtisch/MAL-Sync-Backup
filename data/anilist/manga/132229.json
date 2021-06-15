@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "喧嘩稼業"
+  ],
+  "authors": [
+    "Yasuaki Kita"
+  ],
+  "id": 132229,
+  "malId": 70407,
+  "type": "manga",
+  "title": "Kenka Kagyou",
+  "url": "https://anilist.co/manga/132229",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132229-8VA71Ts088Jo.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:31.000Z",
+  "updatedAt": "2021-05-20T14:51:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f7ebdb92-2285-4f7c-8e67-e4ab75fe0557": {
+        "authors": [
+          "Kita Yasuaki"
+        ],
+        "identifier": "f7ebdb92-2285-4f7c-8e67-e4ab75fe0557",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kenka Kagyou",
+        "url": "https://mangadex.org/title/f7ebdb92-2285-4f7c-8e67-e4ab75fe0557",
+        "image": "https://uploads.mangadex.org/covers/f7ebdb92-2285-4f7c-8e67-e4ab75fe0557/a247fa8d-ffcd-4305-9df0-2dd7281b60b9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70407,
+        "aniId": 132229,
+        "createdAt": "2020-10-12T16:13:56.000Z",
+        "updatedAt": "2021-06-06T01:06:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

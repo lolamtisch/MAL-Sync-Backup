@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "恋しかできないよ",
+    "Koi Shika Dekinaiyo"
+  ],
+  "authors": [
+    "Rie Honjou"
+  ],
+  "id": 45172,
+  "malId": 15172,
+  "type": "manga",
+  "title": "Koi Shika Dekinai yo",
+  "url": "https://anilist.co/manga/45172",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15172.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "06b93c96-74b4-4075-8a7b-21e04d72dd70": {
+        "authors": [
+          "Honjou Rie"
+        ],
+        "identifier": "06b93c96-74b4-4075-8a7b-21e04d72dd70",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi Shika Dekinaiyo",
+        "url": "https://mangadex.org/title/06b93c96-74b4-4075-8a7b-21e04d72dd70",
+        "image": "https://uploads.mangadex.org/covers/06b93c96-74b4-4075-8a7b-21e04d72dd70/a75b898b-061d-43d4-a1f7-2f3500379a69.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15172,
+        "aniId": 45172,
+        "createdAt": "2020-10-12T16:13:18.000Z",
+        "updatedAt": "2021-06-05T20:23:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

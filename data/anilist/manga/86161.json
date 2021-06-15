@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Ultra Battle Satellite"
+  ],
+  "authors": [
+    "Yuusuke Utsumi"
+  ],
+  "id": 86161,
+  "malId": 86975,
+  "type": "manga",
+  "title": "Ultra Battle Satellite",
+  "url": "https://anilist.co/manga/86161",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86161-NOueg4RjOwiC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:47.000Z",
+  "updatedAt": "2021-05-20T14:52:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "63d1eb4f-92ce-41fa-b0d1-a3279005e951": {
+        "authors": [
+          "Utsumi Yuusuke"
+        ],
+        "identifier": "63d1eb4f-92ce-41fa-b0d1-a3279005e951",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ultra Battle Satellite",
+        "url": "https://mangadex.org/title/63d1eb4f-92ce-41fa-b0d1-a3279005e951",
+        "image": "https://uploads.mangadex.org/covers/63d1eb4f-92ce-41fa-b0d1-a3279005e951/c54be072-f08e-4607-ab7d-8b4bdd95f301.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86975,
+        "aniId": 86161,
+        "createdAt": "2020-10-12T16:08:29.000Z",
+        "updatedAt": "2021-06-04T10:32:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ultra_battle_satellite": {
+        "authors": [
+          "UTSUMI Yuusuke"
+        ],
+        "identifier": "ultra_battle_satellite",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ultra Battle Satellite",
+        "url": "https://fanfox.net/manga/ultra_battle_satellite/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15599/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86975,
+        "aniId": 86161,
+        "createdAt": "2021-05-09T20:48:25.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

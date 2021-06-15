@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "二人でパパはじめました"
+  ],
+  "authors": [
+    "Shio Nigari"
+  ],
+  "id": 115721,
+  "malId": 131691,
+  "type": "manga",
+  "title": "Futari de Papa Hajimemashita",
+  "url": "https://anilist.co/manga/115721",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115721-Uth97Z1u4NLr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-27T23:28:43.000Z",
+  "updatedAt": "2021-05-27T23:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "557cfe91-b7c7-42f8-abd6-e4360bb1acef": {
+        "authors": [
+          "Nigari Shio"
+        ],
+        "identifier": "557cfe91-b7c7-42f8-abd6-e4360bb1acef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futari de Papa Hajimemashita",
+        "url": "https://mangadex.org/title/557cfe91-b7c7-42f8-abd6-e4360bb1acef",
+        "image": "https://uploads.mangadex.org/covers/557cfe91-b7c7-42f8-abd6-e4360bb1acef/71de3f01-7cee-45c9-8616-6c9ab107fcb3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131691,
+        "aniId": 115721,
+        "createdAt": "2020-11-24T05:26:42.000Z",
+        "updatedAt": "2021-06-08T08:42:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

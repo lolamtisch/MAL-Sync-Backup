@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "Give to the Heart",
+    "심장에게 주다",
+    "Heart to Give"
+  ],
+  "authors": [
+    "Wann"
+  ],
+  "id": 85569,
+  "malId": 55913,
+  "type": "manga",
+  "title": "Give to the Heart",
+  "url": "https://anilist.co/manga/85569",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85569-oq0tJqIm3haQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:27.000Z",
+  "updatedAt": "2021-06-03T21:20:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0fdeb30-d1c3-4236-adc6-f226eddb908c": {
+        "authors": [
+          "Wann"
+        ],
+        "identifier": "a0fdeb30-d1c3-4236-adc6-f226eddb908c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heart to Give",
+        "url": "https://mangadex.org/title/a0fdeb30-d1c3-4236-adc6-f226eddb908c",
+        "image": "https://uploads.mangadex.org/covers/a0fdeb30-d1c3-4236-adc6-f226eddb908c/bc93b8f4-72a0-4364-ae24-bcc392dbca98.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55913,
+        "aniId": 85569,
+        "createdAt": "2020-10-12T16:06:36.000Z",
+        "updatedAt": "2021-06-03T21:40:38.000Z",
+        "deletedAt": null
+      },
+      "31e4ebb4-6f6b-41aa-b582-8e0f89c4d49e": {
+        "authors": [
+          "MUHAN"
+        ],
+        "identifier": "31e4ebb4-6f6b-41aa-b582-8e0f89c4d49e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Give My Heart to You",
+        "url": "https://mangadex.org/title/31e4ebb4-6f6b-41aa-b582-8e0f89c4d49e",
+        "image": "https://uploads.mangadex.org/covers/31e4ebb4-6f6b-41aa-b582-8e0f89c4d49e/a6fb7a79-e545-45e5-b179-c8779ef9aebd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55913,
+        "aniId": 85569,
+        "createdAt": "2020-10-12T16:18:50.000Z",
+        "updatedAt": "2021-06-07T20:46:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dg922550": {
+        "authors": [],
+        "identifier": "dg922550",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Give My Heart To You.",
+        "url": "https://manganelo.com/manga/dg922550",
+        "image": "https://avt.mkklcdnv6.com/48/i/20-1585285077.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55913,
+        "aniId": 85569,
+        "createdAt": "2020-10-12T16:22:38.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "give_to_the_heart": {
+        "authors": [
+          "Wann"
+        ],
+        "identifier": "give_to_the_heart",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Give to The Heart",
+        "url": "https://fanfox.net/manga/give_to_the_heart/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38068/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55913,
+        "aniId": 85569,
+        "createdAt": "2021-03-24T08:15:32.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

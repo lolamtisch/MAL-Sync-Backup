@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Shoujo Shounen - Go! Go! Ichigo",
+    "少女少年~GO!GO!ICHIGO, Shoujo Shounen~ Go! Go! Ichigo, ~Shoujo Shounen~ Go! Go! Ichigo, ~少女少年~GO!GO!ICHIGO",
+    "少女少年~GO!GO!ICHIGO"
+  ],
+  "authors": [
+    "Yabuuchi, Yuu"
+  ],
+  "id": 8352,
+  "type": "manga",
+  "title": "Shoujo Shounen - Go! Go! Ichigo",
+  "url": "https://myanimelist.net/manga/8352/Shoujo_Shounen_-_Go_Go_Ichigo",
+  "image": "https://cdn.myanimelist.net/images/manga/3/11405.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:18.000Z",
+  "updatedAt": "2021-05-20T21:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5cc38d6a-9e74-4992-a285-725ccc4c9913": {
+        "authors": [
+          "YABUUCHI Yuu"
+        ],
+        "identifier": "5cc38d6a-9e74-4992-a285-725ccc4c9913",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shoujo Shounen - Go! Go! Ichigo",
+        "url": "https://mangadex.org/title/5cc38d6a-9e74-4992-a285-725ccc4c9913",
+        "image": "https://uploads.mangadex.org/covers/5cc38d6a-9e74-4992-a285-725ccc4c9913/d8a396c6-9995-457e-aaed-7aa5824e3a82.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8352,
+        "aniId": 38352,
+        "createdAt": "2020-10-12T16:06:32.000Z",
+        "updatedAt": "2021-06-03T20:13:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shoujo_shounen_go_go_ichigo": {
+        "authors": [
+          "YABUUCHI Yuu"
+        ],
+        "identifier": "shoujo_shounen_go_go_ichigo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shoujo Shounen - Go! Go! Ichigo",
+        "url": "https://fanfox.net/manga/shoujo_shounen_go_go_ichigo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3477/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8352,
+        "aniId": 38352,
+        "createdAt": "2021-05-20T21:47:52.000Z",
+        "updatedAt": "2021-05-20T22:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "魔法使いTai!",
+    "Mahoutsukai tai",
+    "Magic User's Club!",
+    "Mahoutsukai Tai: Escuela de Brujas"
+  ],
+  "authors": [
+    "Shamneko",
+    "Junichi Satou"
+  ],
+  "id": 39806,
+  "malId": 9806,
+  "type": "manga",
+  "title": "Mahou Tsukai Tai!",
+  "url": "https://anilist.co/manga/39806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9806.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:58.000Z",
+  "updatedAt": "2021-05-20T14:40:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "82ad80fa-d7e2-40c3-94a1-12650780d0d4": {
+        "authors": [
+          "Shamu Neko",
+          "Sato Junichi"
+        ],
+        "identifier": "82ad80fa-d7e2-40c3-94a1-12650780d0d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Tsukai Tai!",
+        "url": "https://mangadex.org/title/82ad80fa-d7e2-40c3-94a1-12650780d0d4",
+        "image": "https://uploads.mangadex.org/covers/82ad80fa-d7e2-40c3-94a1-12650780d0d4/1c799f02-6d56-4133-9cb2-ba9cf9a87629.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9806,
+        "aniId": 39806,
+        "createdAt": "2020-10-12T16:12:32.000Z",
+        "updatedAt": "2021-06-05T15:07:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mahoutsukai_tai": {
+        "authors": [],
+        "identifier": "mahoutsukai_tai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mahoutsukai Tai!",
+        "url": "https://manganelo.com/manga/mahoutsukai_tai",
+        "image": "https://avt.mkklcdnv6.com/27/p/12-1583486856.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9806,
+        "aniId": 39806,
+        "createdAt": "2020-10-12T16:24:14.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

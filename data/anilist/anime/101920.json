@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "斗罗大陆",
+    "Soul Land",
+    "Combat Continent"
+  ],
+  "id": 101920,
+  "malId": 37150,
+  "type": "anime",
+  "title": "Douluo Dalu",
+  "url": "https://anilist.co/anime/101920",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101920-g7P83Uveo26D.png",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:33.000Z",
+  "updatedAt": "2021-05-20T14:44:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "yxpj": {
+        "identifier": "yxpj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Douluo Dalu",
+        "url": "https://9anime.ru/watch/douluo-dalu.yxpj",
+        "image": "https://static.akacdn.ru/static/images/2018/03/8140b2dc54c45040d123ca67d487f6ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37150,
+        "aniId": 101920,
+        "createdAt": "2020-10-12T15:56:59.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "douluo-dalu-soul-land": {
+        "identifier": "douluo-dalu-soul-land",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Douluo Dalu - Soul Land",
+        "url": "https://gogoanime.so/category/douluo-dalu-soul-land",
+        "image": "https://images.gogoanime.tv/cover/douluo-dalu-soul-land.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37150,
+        "aniId": 101920,
+        "createdAt": "2020-10-12T16:00:17.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

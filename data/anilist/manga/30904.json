@@ -1,0 +1,113 @@
+{
+  "altTitle": [
+    "Lone Wolf and Cub",
+    "子連れ狼",
+    "Lobo Solitário "
+  ],
+  "authors": [
+    "Kazuo Koike",
+    "Goseki Kojima",
+    "Drik Sada"
+  ],
+  "id": 30904,
+  "malId": 904,
+  "type": "manga",
+  "title": "Kozure Ookami",
+  "url": "https://anilist.co/manga/30904",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30904-hz7CTuH3Ybhw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "526f68e3-4af1-460f-aea0-0fc29b0d6681": {
+        "authors": [
+          "Koike Kazuo",
+          "Kojima Goseki"
+        ],
+        "identifier": "526f68e3-4af1-460f-aea0-0fc29b0d6681",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kozure Ookami",
+        "url": "https://mangadex.org/title/526f68e3-4af1-460f-aea0-0fc29b0d6681",
+        "image": "https://uploads.mangadex.org/covers/526f68e3-4af1-460f-aea0-0fc29b0d6681/5871ed5f-418b-4310-96ce-68c1970275bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 904,
+        "aniId": 30904,
+        "createdAt": "2020-10-12T16:04:47.000Z",
+        "updatedAt": "2021-06-02T23:24:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kozure_ookami": {
+        "authors": [],
+        "identifier": "kozure_ookami",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kozure Ookami",
+        "url": "https://manganelo.com/manga/kozure_ookami",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16995-kozure_ookami.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 904,
+        "aniId": 30904,
+        "createdAt": "2020-10-12T16:24:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "lone_wolf_and_cub": {
+        "authors": [
+          "KOIKE Kazuo"
+        ],
+        "identifier": "lone_wolf_and_cub",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lone Wolf and Cub",
+        "url": "https://fanfox.net/manga/lone_wolf_and_cub/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/178/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 904,
+        "aniId": 30904,
+        "createdAt": "2020-12-19T15:56:28.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "lone-wolf-and-cub": {
+        "authors": [
+          "KOIKE Kazuo",
+          "KOJIMA Goseki"
+        ],
+        "identifier": "lone-wolf-and-cub",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Lone Wolf and Cub",
+        "url": "https://mangasee123.com/manga/Lone-Wolf-And-Cub",
+        "image": "https://cover.nep.li/cover/Lone-Wolf-And-Cub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 904,
+        "aniId": 30904,
+        "createdAt": "2020-12-25T20:56:11.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

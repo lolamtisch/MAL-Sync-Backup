@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "フロムイエスタデイ",
+    "Furomu Iesutadei"
+  ],
+  "authors": [
+    "Shouko Takaku"
+  ],
+  "id": 33072,
+  "malId": 3072,
+  "type": "manga",
+  "title": "From Yesterday",
+  "url": "https://anilist.co/manga/33072",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3072.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:02.000Z",
+  "updatedAt": "2021-05-20T14:38:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52b6a4ac-f086-493b-8694-fa3e22d08b7b": {
+        "authors": [
+          "Takaku Shouko"
+        ],
+        "identifier": "52b6a4ac-f086-493b-8694-fa3e22d08b7b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "From Yesterday",
+        "url": "https://mangadex.org/title/52b6a4ac-f086-493b-8694-fa3e22d08b7b",
+        "image": "https://uploads.mangadex.org/covers/52b6a4ac-f086-493b-8694-fa3e22d08b7b/21df66fb-a418-47cb-afde-7b2e8cb18fc4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3072,
+        "aniId": 33072,
+        "createdAt": "2020-10-12T16:04:28.000Z",
+        "updatedAt": "2021-06-02T21:15:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

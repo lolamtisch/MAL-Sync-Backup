@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "こはるの日々",
+    "Days of Koharu"
+  ],
+  "authors": [
+    "Youkou Ooshiro"
+  ],
+  "id": 46256,
+  "malId": 16256,
+  "type": "manga",
+  "title": "Koharu no Hibi",
+  "url": "https://anilist.co/manga/46256",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx46256-PUXOWnN4isP7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:53.000Z",
+  "updatedAt": "2021-05-20T14:43:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0e5241f4-a5ab-4104-b6fd-329605c55c36": {
+        "authors": [
+          "Ooshiro Youkou"
+        ],
+        "identifier": "0e5241f4-a5ab-4104-b6fd-329605c55c36",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koharu no Hibi",
+        "url": "https://mangadex.org/title/0e5241f4-a5ab-4104-b6fd-329605c55c36",
+        "image": "https://uploads.mangadex.org/covers/0e5241f4-a5ab-4104-b6fd-329605c55c36/4706ed83-068a-4fdd-81c7-b88b57924850.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16256,
+        "aniId": 46256,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:02:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koharu_no_hibi": {
+        "authors": [],
+        "identifier": "koharu_no_hibi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koharu no Hibi",
+        "url": "https://manganelo.com/manga/koharu_no_hibi",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/12829-koharu_no_hibi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16256,
+        "aniId": 46256,
+        "createdAt": "2020-10-12T16:23:57.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

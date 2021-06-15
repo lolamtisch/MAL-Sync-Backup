@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Going to Hell"
+  ],
+  "authors": [
+    "Nono Takatsu"
+  ],
+  "id": 35524,
+  "malId": 5524,
+  "type": "manga",
+  "title": "Jigoku e Michizure",
+  "url": "https://anilist.co/manga/35524",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5524.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-05-20T14:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "jigoku_e_michizure": {
+        "authors": [
+          "Takatsu",
+          "Nono"
+        ],
+        "identifier": "jigoku_e_michizure",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jigoku E Michizure",
+        "url": "https://manganelo.com/manga/jigoku_e_michizure",
+        "image": "https://avt.mkklcdnv6.com/42/k/5-1583473558.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5524,
+        "aniId": 35524,
+        "createdAt": "2020-12-30T03:55:09.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "c5cfd48a-c00a-4948-945f-177645e09d57": {
+        "authors": [
+          "TAKATSU Nono"
+        ],
+        "identifier": "c5cfd48a-c00a-4948-945f-177645e09d57",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jigoku e Michizure",
+        "url": "https://mangadex.org/title/c5cfd48a-c00a-4948-945f-177645e09d57",
+        "image": "https://uploads.mangadex.org/covers/c5cfd48a-c00a-4948-945f-177645e09d57/54c53ff6-007e-4bdf-af3d-78352425b8f4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5524,
+        "aniId": 35524,
+        "createdAt": "2021-02-18T16:47:11.000Z",
+        "updatedAt": "2021-06-08T11:32:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "シュガーズ☆",
+    "Sugars*"
+  ],
+  "authors": [
+    "Minori Kurosaki"
+  ],
+  "id": 39038,
+  "malId": 9038,
+  "type": "manga",
+  "title": "Sugars☆",
+  "url": "https://anilist.co/manga/39038",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39038-ZoLRVp7ldvh7.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:53.000Z",
+  "updatedAt": "2021-05-25T05:38:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ecc1c055-b579-49b3-9773-a32f3d0ef0d9": {
+        "authors": [
+          "Kurosaki Minori"
+        ],
+        "identifier": "ecc1c055-b579-49b3-9773-a32f3d0ef0d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sugars",
+        "url": "https://mangadex.org/title/ecc1c055-b579-49b3-9773-a32f3d0ef0d9",
+        "image": "https://uploads.mangadex.org/covers/ecc1c055-b579-49b3-9773-a32f3d0ef0d9/cb0b0d42-1352-45e9-811c-92da07d12710.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9038,
+        "aniId": 39038,
+        "createdAt": "2020-10-12T16:03:55.000Z",
+        "updatedAt": "2021-06-02T17:21:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

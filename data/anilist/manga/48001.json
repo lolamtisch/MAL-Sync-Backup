@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Returners - Aka no Kikansha",
+    "リターナーズ 〜赫の奇還者〜",
+    "Returners - Kigensha"
+  ],
+  "authors": [
+    "Sakurako Gokurakuin"
+  ],
+  "id": 48001,
+  "malId": 18001,
+  "type": "manga",
+  "title": "Returners - Aka no Kikansha",
+  "url": "https://anilist.co/manga/48001",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18001.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:14.000Z",
+  "updatedAt": "2021-05-20T14:44:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4cab05b6-b997-4278-8d41-320a87a8742d": {
+        "authors": [
+          "Gokurakuin Sakurako"
+        ],
+        "identifier": "4cab05b6-b997-4278-8d41-320a87a8742d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Returners - Aka no Kikansha",
+        "url": "https://mangadex.org/title/4cab05b6-b997-4278-8d41-320a87a8742d",
+        "image": "https://uploads.mangadex.org/covers/4cab05b6-b997-4278-8d41-320a87a8742d/09d943b5-f956-4a1b-a692-121cce10c384.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18001,
+        "aniId": 48001,
+        "createdAt": "2020-10-12T16:03:11.000Z",
+        "updatedAt": "2021-06-02T12:16:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "returners_aka_no_kikansha": {
+        "authors": [],
+        "identifier": "returners_aka_no_kikansha",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Returners - Aka No Kikansha",
+        "url": "https://manganelo.com/manga/returners_aka_no_kikansha",
+        "image": "https://avt.mkklcdnv6.com/25/t/10-1583483105.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18001,
+        "aniId": 48001,
+        "createdAt": "2020-10-12T16:25:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "returners_aka_no_kikansha": {
+        "authors": [
+          "Gokurakuin Sakurako"
+        ],
+        "identifier": "returners_aka_no_kikansha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Returners - Aka no Kikansha",
+        "url": "https://fanfox.net/manga/returners_aka_no_kikansha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7791/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18001,
+        "aniId": 48001,
+        "createdAt": "2021-04-20T18:27:00.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ミリオンダラーマン"
+  ],
+  "authors": [
+    "Noa Kuroda"
+  ],
+  "id": 95380,
+  "malId": 90931,
+  "type": "manga",
+  "title": "Million Dollar Man",
+  "url": "https://anilist.co/manga/95380",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95380-MFyjpasSCOOk.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:07.000Z",
+  "updatedAt": "2021-05-20T14:53:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f20fc11-8bae-4baf-bea9-c58d4dba5b3b": {
+        "authors": [
+          "Noa Kuroda"
+        ],
+        "identifier": "2f20fc11-8bae-4baf-bea9-c58d4dba5b3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Takane no Hana Senpai",
+        "url": "https://mangadex.org/title/2f20fc11-8bae-4baf-bea9-c58d4dba5b3b",
+        "image": "https://uploads.mangadex.org/covers/2f20fc11-8bae-4baf-bea9-c58d4dba5b3b/52f2aeeb-9f7d-4c7c-840a-03e04e3ff926.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90931,
+        "aniId": 95380,
+        "createdAt": "2020-10-12T16:08:37.000Z",
+        "updatedAt": "2021-06-04T11:28:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

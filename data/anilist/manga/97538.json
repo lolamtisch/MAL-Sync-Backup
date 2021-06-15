@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "うれしょん！",
+    "Happee!"
+  ],
+  "authors": [
+    "Yoshiyuki Kazumi"
+  ],
+  "id": 97538,
+  "malId": 100412,
+  "type": "manga",
+  "title": "Ureshon!",
+  "url": "https://anilist.co/manga/97538",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97538-Bb1SadN9RrTy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:49.000Z",
+  "updatedAt": "2021-05-20T14:54:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5f10a1f9-5eb0-4554-af0e-9f9de7be2c29": {
+        "authors": [
+          "Kazumi Yoshiyuki"
+        ],
+        "identifier": "5f10a1f9-5eb0-4554-af0e-9f9de7be2c29",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ureshon!",
+        "url": "https://mangadex.org/title/5f10a1f9-5eb0-4554-af0e-9f9de7be2c29",
+        "image": "https://uploads.mangadex.org/covers/5f10a1f9-5eb0-4554-af0e-9f9de7be2c29/067624f6-3477-4a4e-8ac3-6e41fb98345e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100412,
+        "aniId": 97538,
+        "createdAt": "2020-10-12T16:10:01.000Z",
+        "updatedAt": "2021-06-04T21:43:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ureshon1": {
+        "authors": [],
+        "identifier": "ureshon1",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ureshon!",
+        "url": "https://manganelo.com/manga/ureshon1",
+        "image": "https://avt.mkklcdnv6.com/15/m/14-1583490301.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100412,
+        "aniId": 97538,
+        "createdAt": "2020-10-12T16:25:58.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ureshon": {
+        "authors": [
+          "KAZUMI Yoshiyuki"
+        ],
+        "identifier": "ureshon",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ureshon!",
+        "url": "https://mangasee123.com/manga/Ureshon",
+        "image": "https://cover.nep.li/cover/Ureshon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100412,
+        "aniId": 97538,
+        "createdAt": "2021-04-01T11:01:05.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

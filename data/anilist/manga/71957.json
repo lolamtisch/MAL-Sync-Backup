@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "月の珊瑚",
+    "Coral of the Moon"
+  ],
+  "authors": [
+    "Type-Moon",
+    "Kinoko Nasu",
+    "Shounen Sasaki"
+  ],
+  "id": 71957,
+  "malId": 41957,
+  "type": "manga",
+  "title": "Tsuki no Sango",
+  "url": "https://anilist.co/manga/71957",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx71957-dyWJEtR2up0Y.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:50.000Z",
+  "updatedAt": "2021-05-20T14:48:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0880b76-9d26-40b6-94a0-740fe31ead50": {
+        "authors": [
+          "Sasaki Shounen",
+          "TYPE-MOON",
+          "Nasu Kinoko"
+        ],
+        "identifier": "a0880b76-9d26-40b6-94a0-740fe31ead50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuki no Sango",
+        "url": "https://mangadex.org/title/a0880b76-9d26-40b6-94a0-740fe31ead50",
+        "image": "https://uploads.mangadex.org/covers/a0880b76-9d26-40b6-94a0-740fe31ead50/c578d089-7c82-41a6-b060-31b21f48ab3c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41957,
+        "aniId": 71957,
+        "createdAt": "2020-10-12T16:06:06.000Z",
+        "updatedAt": "2021-06-03T17:08:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tsuki_no_sango": {
+        "authors": [],
+        "identifier": "tsuki_no_sango",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsuki No Sango",
+        "url": "https://manganelo.com/manga/tsuki_no_sango",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/9954-tsuki_no_sango.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41957,
+        "aniId": 71957,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tsuki_no_sango": {
+        "authors": [
+          "Type-moon",
+          "Nasu Kinoko"
+        ],
+        "identifier": "tsuki_no_sango",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsuki no Sango",
+        "url": "https://fanfox.net/manga/tsuki_no_sango/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10973/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41957,
+        "aniId": 71957,
+        "createdAt": "2021-03-21T00:36:42.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

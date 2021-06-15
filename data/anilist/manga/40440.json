@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "One Day",
+    "ONE DAY",
+    "Yi Tian",
+    "一天"
+  ],
+  "authors": [
+    "Benjamin"
+  ],
+  "id": 40440,
+  "malId": 10440,
+  "type": "manga",
+  "title": "ONE DAY",
+  "url": "https://anilist.co/manga/40440",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40440-hkBWMQPyJKwy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:05.000Z",
+  "updatedAt": "2021-05-20T14:41:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ee055a12-7927-4f26-b1c1-f626cd12de89": {
+        "authors": [
+          "Benjamin"
+        ],
+        "identifier": "ee055a12-7927-4f26-b1c1-f626cd12de89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One Day",
+        "url": "https://mangadex.org/title/ee055a12-7927-4f26-b1c1-f626cd12de89",
+        "image": "https://uploads.mangadex.org/covers/ee055a12-7927-4f26-b1c1-f626cd12de89/09397dd5-5ebb-49d2-aa1e-3c42bfae9e40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10440,
+        "aniId": 40440,
+        "createdAt": "2020-10-12T16:05:58.000Z",
+        "updatedAt": "2021-06-03T16:13:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

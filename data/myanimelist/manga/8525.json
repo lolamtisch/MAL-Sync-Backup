@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Megaman X",
+    "ロックマンエックス"
+  ],
+  "authors": [
+    "Iwamoto, Yoshihiro"
+  ],
+  "id": 8525,
+  "type": "manga",
+  "title": "Rockman X",
+  "url": "https://myanimelist.net/manga/8525/Rockman_X",
+  "image": "https://cdn.myanimelist.net/images/manga/5/115907.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-04-06T03:08:12.000Z",
+  "updatedAt": "2021-06-05T10:20:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db9820de-2b02-49e1-b32b-78330b22819a": {
+        "authors": [
+          "Iwamoto Yoshihiro"
+        ],
+        "identifier": "db9820de-2b02-49e1-b32b-78330b22819a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rockman X",
+        "url": "https://mangadex.org/title/db9820de-2b02-49e1-b32b-78330b22819a",
+        "image": "https://uploads.mangadex.org/covers/db9820de-2b02-49e1-b32b-78330b22819a/95d5d55c-d446-4edd-b0ba-7f2cdda974af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8525,
+        "aniId": 38525,
+        "createdAt": "2020-10-12T16:11:40.000Z",
+        "updatedAt": "2021-06-05T12:45:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "rockman_x": {
+        "authors": [
+          "Yoshihiro Iwamoto"
+        ],
+        "identifier": "rockman_x",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Rockman X",
+        "url": "https://fanfox.net/manga/rockman_x/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1323/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8525,
+        "aniId": 38525,
+        "createdAt": "2021-04-06T03:08:15.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

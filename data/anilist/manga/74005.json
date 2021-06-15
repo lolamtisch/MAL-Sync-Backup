@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "レーカン!"
+  ],
+  "authors": [
+    "Hinako Seta"
+  ],
+  "id": 74005,
+  "malId": 44005,
+  "type": "manga",
+  "title": "Re-Kan!",
+  "url": "https://anilist.co/manga/74005",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74005-ou1aA0gHnJXw.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:00.000Z",
+  "updatedAt": "2021-05-20T14:49:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b9906d2-19fb-4575-ac75-0b2e2e02fdd8": {
+        "authors": [
+          "Seta Hinako"
+        ],
+        "identifier": "8b9906d2-19fb-4575-ac75-0b2e2e02fdd8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Re-Kan!",
+        "url": "https://mangadex.org/title/8b9906d2-19fb-4575-ac75-0b2e2e02fdd8",
+        "image": "https://uploads.mangadex.org/covers/8b9906d2-19fb-4575-ac75-0b2e2e02fdd8/89267313-b5d4-4bf6-97b0-35ad962430dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44005,
+        "aniId": 74005,
+        "createdAt": "2020-10-12T16:05:51.000Z",
+        "updatedAt": "2021-06-03T15:28:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "re-kan": {
+        "authors": [
+          "SETA Hinako"
+        ],
+        "identifier": "re-kan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Re-Kan!",
+        "url": "https://mangasee123.com/manga/Re-Kan",
+        "image": "https://cover.nep.li/cover/Re-Kan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44005,
+        "aniId": 74005,
+        "createdAt": "2020-12-31T15:39:16.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

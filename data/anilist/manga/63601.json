@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "マシカク・ロック",
+    "Tonari no Hanako-san",
+    "Sayonara Sankaku",
+    "Tsui Me de Otteshimaimashita."
+  ],
+  "authors": [
+    "Kana Watanabe"
+  ],
+  "id": 63601,
+  "malId": 33601,
+  "type": "manga",
+  "title": "Mashikaku Rock",
+  "url": "https://anilist.co/manga/63601",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33601.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:56.000Z",
+  "updatedAt": "2021-05-20T14:47:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "edd1eeae-92e5-42db-b477-d5e1d424fede": {
+        "authors": [
+          "Watanabe Kana"
+        ],
+        "identifier": "edd1eeae-92e5-42db-b477-d5e1d424fede",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mashikaku Rock",
+        "url": "https://mangadex.org/title/edd1eeae-92e5-42db-b477-d5e1d424fede",
+        "image": "https://uploads.mangadex.org/covers/edd1eeae-92e5-42db-b477-d5e1d424fede/14a4e0dd-cd95-4928-aa7c-3814a56a0963.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33601,
+        "aniId": 63601,
+        "createdAt": "2020-10-12T16:03:56.000Z",
+        "updatedAt": "2021-06-02T17:26:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

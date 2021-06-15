@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "ウルトラ B"
+  ],
+  "id": 10250,
+  "malId": 10250,
+  "type": "anime",
+  "title": "Ultra B",
+  "url": "https://anilist.co/anime/10250",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10250.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:13.000Z",
+  "updatedAt": "2021-05-20T14:39:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "9prn": {
+        "identifier": "9prn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ultra B",
+        "url": "https://www12.9anime.to/watch/ultra-b.9prn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/57/57b6e89ade0360f2c98b7a371363c7fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10250,
+        "aniId": 10250,
+        "createdAt": "2021-04-16T08:45:22.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

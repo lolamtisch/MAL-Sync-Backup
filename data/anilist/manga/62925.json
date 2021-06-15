@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ふたがしら"
+  ],
+  "authors": [
+    "Natsume Ono"
+  ],
+  "id": 62925,
+  "malId": 32925,
+  "type": "manga",
+  "title": "Futagashira",
+  "url": "https://anilist.co/manga/62925",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32925.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:52.000Z",
+  "updatedAt": "2021-05-20T14:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba90ffcc-f5ac-4a83-83e8-e821292e6483": {
+        "authors": [
+          "ONO Natsume"
+        ],
+        "identifier": "ba90ffcc-f5ac-4a83-83e8-e821292e6483",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futagashira",
+        "url": "https://mangadex.org/title/ba90ffcc-f5ac-4a83-83e8-e821292e6483",
+        "image": "https://uploads.mangadex.org/covers/ba90ffcc-f5ac-4a83-83e8-e821292e6483/7290a1e6-5170-4d79-a888-bd7deed3cc86.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32925,
+        "aniId": 62925,
+        "createdAt": "2020-10-12T16:06:58.000Z",
+        "updatedAt": "2021-06-03T23:25:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

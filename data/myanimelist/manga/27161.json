@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "SHADE"
+  ],
+  "authors": [
+    "Akiyama, Tamayo"
+  ],
+  "id": 27161,
+  "type": "manga",
+  "title": "Shade",
+  "url": "https://myanimelist.net/manga/27161/Shade",
+  "image": "https://cdn.myanimelist.net/images/manga/1/43801.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:27.000Z",
+  "updatedAt": "2021-04-15T22:15:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e58a25cb-0876-42fd-a056-b5631568cabd": {
+        "authors": [
+          "Akiyama Tamayo"
+        ],
+        "identifier": "e58a25cb-0876-42fd-a056-b5631568cabd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shade",
+        "url": "https://mangadex.org/title/e58a25cb-0876-42fd-a056-b5631568cabd",
+        "image": "https://uploads.mangadex.org/covers/e58a25cb-0876-42fd-a056-b5631568cabd/d8f06f85-4cff-4e8f-828d-d7ec3b587152.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27161,
+        "aniId": 57161,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:23:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shade": {
+        "authors": [
+          "AKIYAMA Tamayo"
+        ],
+        "identifier": "shade",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shade",
+        "url": "https://mangasee123.com/manga/Shade",
+        "image": "https://cover.nep.li/cover/Shade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27161,
+        "aniId": 57161,
+        "createdAt": "2021-04-15T22:15:09.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

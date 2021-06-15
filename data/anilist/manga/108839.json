@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "サラーキア～我が白銀のマーメイド～"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 108839,
+  "malId": 106253,
+  "type": "manga",
+  "title": "Salacia: Waga Hakugin no Mermaid",
+  "url": "https://anilist.co/manga/108839",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108839-aZMM212tLT2Q.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:47.000Z",
+  "updatedAt": "2021-05-20T14:55:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bcfa2e41-cd1d-48df-af7a-314ac1e51236": {
+        "authors": [
+          "NAGAI Go",
+          "Dynamic Pro"
+        ],
+        "identifier": "bcfa2e41-cd1d-48df-af7a-314ac1e51236",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Salacia",
+        "url": "https://mangadex.org/title/bcfa2e41-cd1d-48df-af7a-314ac1e51236",
+        "image": "https://uploads.mangadex.org/covers/bcfa2e41-cd1d-48df-af7a-314ac1e51236/cae13683-26dc-4a29-87e3-571fa9d2e744.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106253,
+        "aniId": 108839,
+        "createdAt": "2020-10-12T16:10:36.000Z",
+        "updatedAt": "2021-06-05T02:01:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

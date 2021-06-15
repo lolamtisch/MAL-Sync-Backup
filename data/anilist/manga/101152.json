@@ -1,0 +1,94 @@
+{
+  "altTitle": [
+    "The Mythical Realm",
+    "仙侠世界",
+    "Dunia Pendekar Abadi",
+    "El Reino Legendario",
+    "The Gioi Tien Hiep"
+  ],
+  "authors": [
+    "Zui Wu",
+    "Shenju Dongman"
+  ],
+  "id": 101152,
+  "malId": null,
+  "type": "manga",
+  "title": "Xianxia Shijie",
+  "url": "https://anilist.co/manga/101152",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/101152-UcncnX80hQUf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-27T13:28:43.000Z",
+  "updatedAt": "2021-05-27T13:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "366e544c-9474-4042-b767-d222fc51f001": {
+        "authors": [
+          "Liao Jia Le",
+          "Wu Zui"
+        ],
+        "identifier": "366e544c-9474-4042-b767-d222fc51f001",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Mythical Realm",
+        "url": "https://mangadex.org/title/366e544c-9474-4042-b767-d222fc51f001",
+        "image": "https://uploads.mangadex.org/covers/366e544c-9474-4042-b767-d222fc51f001/9bb53a3d-dc55-4197-b3ee-7e5801b83cae.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 101152,
+        "createdAt": "2020-10-12T16:08:30.000Z",
+        "updatedAt": "2021-06-04T12:52:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mi952565": {
+        "authors": [
+          "Wu Zui",
+          "Liao Jia Le"
+        ],
+        "identifier": "manga-mi952565",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Mythical Realm",
+        "url": "https://manganato.com/manga-mi952565",
+        "image": "https://avt.mkklcdnv6temp.com/43/w/1-1583465436.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 101152,
+        "createdAt": "2021-06-01T01:23:38.000Z",
+        "updatedAt": "2021-06-01T01:23:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_mythical_realm": {
+        "authors": [
+          "Wu Zui"
+        ],
+        "identifier": "the_mythical_realm",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Mythical Realm",
+        "url": "https://fanfox.net/manga/the_mythical_realm/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15630/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 101152,
+        "createdAt": "2021-06-01T06:23:20.000Z",
+        "updatedAt": "2021-06-01T06:23:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

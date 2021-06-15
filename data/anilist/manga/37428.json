@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Drawing with Yuu"
+  ],
+  "authors": [
+    "Yuu Watase"
+  ],
+  "id": 37428,
+  "malId": 7428,
+  "type": "manga",
+  "title": "Manga Yuugi",
+  "url": "https://anilist.co/manga/37428",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7428.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T17:52:48.000Z",
+  "updatedAt": "2021-06-04T17:52:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "977097c7-6a6e-4c97-a530-e6a2101819ae": {
+        "authors": [
+          "Watase Yuu"
+        ],
+        "identifier": "977097c7-6a6e-4c97-a530-e6a2101819ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Manga Yuugi",
+        "url": "https://mangadex.org/title/977097c7-6a6e-4c97-a530-e6a2101819ae",
+        "image": "https://uploads.mangadex.org/covers/977097c7-6a6e-4c97-a530-e6a2101819ae/8541e527-3c63-4841-baf2-c87024db0104.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7428,
+        "aniId": 37428,
+        "createdAt": "2020-10-12T16:09:25.000Z",
+        "updatedAt": "2021-06-04T22:10:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

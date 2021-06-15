@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "いじわる",
+    "Nastiness",
+    "Love me",
+    "darling!",
+    "Touch me"
+  ],
+  "authors": [
+    "Noriko Hakutou"
+  ],
+  "id": 53073,
+  "malId": 23073,
+  "type": "manga",
+  "title": "Ijiwaru",
+  "url": "https://anilist.co/manga/53073",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53073-IoyalAvFuuBB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:35.000Z",
+  "updatedAt": "2021-05-20T14:46:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0dc1f65-a1fc-47f9-9cd7-581121c5feff": {
+        "authors": [
+          "Hakutou Noriko"
+        ],
+        "identifier": "a0dc1f65-a1fc-47f9-9cd7-581121c5feff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ijiwaru",
+        "url": "https://mangadex.org/title/a0dc1f65-a1fc-47f9-9cd7-581121c5feff",
+        "image": "https://uploads.mangadex.org/covers/a0dc1f65-a1fc-47f9-9cd7-581121c5feff/1dd3d1d7-f4fd-4332-a8a4-455ee107e8bc.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23073,
+        "aniId": 53073,
+        "createdAt": "2021-02-28T16:15:55.000Z",
+        "updatedAt": "2021-06-08T12:03:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

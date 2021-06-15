@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "オー・エー",
+    "OA",
+    "On Air"
+  ],
+  "authors": [
+    "Keiji Watarai"
+  ],
+  "id": 51299,
+  "malId": 21299,
+  "type": "manga",
+  "title": "O/A",
+  "url": "https://anilist.co/manga/51299",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51299-l1ZaeQwIzAZ6.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:38.000Z",
+  "updatedAt": "2021-05-20T14:45:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "71a1c9e4-9894-4199-93d8-69773b120b68": {
+        "authors": [
+          "Watarai Keiji"
+        ],
+        "identifier": "71a1c9e4-9894-4199-93d8-69773b120b68",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "O/A",
+        "url": "https://mangadex.org/title/71a1c9e4-9894-4199-93d8-69773b120b68",
+        "image": "https://uploads.mangadex.org/covers/71a1c9e4-9894-4199-93d8-69773b120b68/8237244c-257b-4c37-85a1-74c57fcc47dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21299,
+        "aniId": 51299,
+        "createdAt": "2020-10-12T16:02:36.000Z",
+        "updatedAt": "2021-06-02T08:13:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

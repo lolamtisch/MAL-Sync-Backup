@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Dragon In My Body",
+    "我身上有条龙",
+    "I Have a Dragon in My Body"
+  ],
+  "authors": [
+    "Daoshang Project"
+  ],
+  "id": 120310,
+  "malId": null,
+  "type": "manga",
+  "title": "Wo Shenshang You Tiao Long",
+  "url": "https://anilist.co/manga/120310",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120310-bOhjaciXSZ80.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T04:12:58.000Z",
+  "updatedAt": "2021-06-05T06:20:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1887bb79-d747-4f35-9f9d-0c08e477f138": {
+        "authors": [
+          "Island Project",
+          "Pikapi"
+        ],
+        "identifier": "1887bb79-d747-4f35-9f9d-0c08e477f138",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Have a Dragon in My Body",
+        "url": "https://mangadex.org/title/1887bb79-d747-4f35-9f9d-0c08e477f138",
+        "image": "https://uploads.mangadex.org/covers/1887bb79-d747-4f35-9f9d-0c08e477f138/d0916aa4-f781-4077-a538-0308c6d392df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120310,
+        "createdAt": "2020-10-12T16:17:45.000Z",
+        "updatedAt": "2021-06-07T11:14:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

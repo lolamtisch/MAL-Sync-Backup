@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "はんだくん"
+  ],
+  "authors": [
+    "Satsuki Yoshino"
+  ],
+  "id": 85811,
+  "malId": 60801,
+  "type": "manga",
+  "title": "Handa-kun",
+  "url": "https://anilist.co/manga/85811",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55811-QkH1jrVwq0w5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:40.000Z",
+  "updatedAt": "2021-05-20T14:50:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fcd036fc-54c0-4f33-bc53-1725a7c4c9cd": {
+        "authors": [
+          "Yoshino Satsuki"
+        ],
+        "identifier": "fcd036fc-54c0-4f33-bc53-1725a7c4c9cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Handa-kun",
+        "url": "https://mangadex.org/title/fcd036fc-54c0-4f33-bc53-1725a7c4c9cd",
+        "image": "https://uploads.mangadex.org/covers/fcd036fc-54c0-4f33-bc53-1725a7c4c9cd/54aad75d-6cee-470c-81d9-dfb4e775acb2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60801,
+        "aniId": 85811,
+        "createdAt": "2020-10-12T16:07:47.000Z",
+        "updatedAt": "2021-06-04T05:13:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rsy170965456": {
+        "authors": [],
+        "identifier": "rsy170965456",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Handa-Kun",
+        "url": "https://manganelo.com/manga/rsy170965456",
+        "image": "https://avt.mkklcdnv6.com/10/t/2-1583466116.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60801,
+        "aniId": 85811,
+        "createdAt": "2020-10-12T16:25:14.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "handa-kun": {
+        "authors": [
+          "YOSHINO Satsuki"
+        ],
+        "identifier": "handa-kun",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Handa-kun",
+        "url": "https://mangasee123.com/manga/Handa-Kun",
+        "image": "https://cover.nep.li/cover/Handa-Kun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60801,
+        "aniId": 85811,
+        "createdAt": "2021-02-11T15:10:43.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "handa_kun": {
+        "authors": [
+          "YOSHINO Satsuki"
+        ],
+        "identifier": "handa_kun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Handa-kun",
+        "url": "https://fanfox.net/manga/handa_kun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14577/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60801,
+        "aniId": 85811,
+        "createdAt": "2021-05-09T18:17:23.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

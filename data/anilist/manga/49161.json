@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "伊達柱",
+    "Date-bashira",
+    "Date Hashira"
+  ],
+  "authors": [
+    "Kairi Shimotsuki"
+  ],
+  "id": 49161,
+  "malId": 19161,
+  "type": "manga",
+  "title": "Date Bashira",
+  "url": "https://anilist.co/manga/49161",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19161.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:17.000Z",
+  "updatedAt": "2021-05-20T14:45:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44646f9d-5b35-4dcb-8458-21a525f52b63": {
+        "authors": [
+          "Shimotsuki Kairi"
+        ],
+        "identifier": "44646f9d-5b35-4dcb-8458-21a525f52b63",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Date-Bashira",
+        "url": "https://mangadex.org/title/44646f9d-5b35-4dcb-8458-21a525f52b63",
+        "image": "https://uploads.mangadex.org/covers/44646f9d-5b35-4dcb-8458-21a525f52b63/8451734a-120f-41ee-b7c3-c2a670874ae8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19161,
+        "aniId": 49161,
+        "createdAt": "2020-10-12T16:04:49.000Z",
+        "updatedAt": "2021-06-02T23:41:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

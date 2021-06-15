@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "The Silver Hero",
+    "銀の勇者",
+    "The Silver Hero"
+  ],
+  "authors": [
+    "Yoshitomo Watanabe"
+  ],
+  "id": 35847,
+  "malId": 5847,
+  "type": "manga",
+  "title": "Gin no Yuusha",
+  "url": "https://anilist.co/manga/35847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5847.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:33.000Z",
+  "updatedAt": "2021-05-20T14:39:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e73a4e7c-8664-44f9-a828-834bd86388ee": {
+        "authors": [
+          "WATANABE Yoshitomo"
+        ],
+        "identifier": "e73a4e7c-8664-44f9-a828-834bd86388ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gin no Yuusha",
+        "url": "https://mangadex.org/title/e73a4e7c-8664-44f9-a828-834bd86388ee",
+        "image": "https://uploads.mangadex.org/covers/e73a4e7c-8664-44f9-a828-834bd86388ee/23305b5c-ac3a-4897-9cd2-36031c267522.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5847,
+        "aniId": 35847,
+        "createdAt": "2020-10-12T16:03:32.000Z",
+        "updatedAt": "2021-06-02T14:44:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "はぴきす",
+    "Hapi Kisu"
+  ],
+  "authors": [
+    "Ramune Kiuchi"
+  ],
+  "id": 105341,
+  "malId": 102224,
+  "type": "manga",
+  "title": "Happy Kiss",
+  "url": "https://anilist.co/manga/105341",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105341-DnvCmRXqjz2z.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:55.000Z",
+  "updatedAt": "2021-05-20T14:54:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27c699cb-80ab-4865-8cb3-8d4ff3bee116": {
+        "authors": [
+          "KIUCHI Ramune"
+        ],
+        "identifier": "27c699cb-80ab-4865-8cb3-8d4ff3bee116",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hapi Kisu",
+        "url": "https://mangadex.org/title/27c699cb-80ab-4865-8cb3-8d4ff3bee116",
+        "image": "https://uploads.mangadex.org/covers/27c699cb-80ab-4865-8cb3-8d4ff3bee116/c6659ad8-2d36-4924-9fa6-25aa5c68f266.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102224,
+        "aniId": 105341,
+        "createdAt": "2020-10-12T16:10:13.000Z",
+        "updatedAt": "2021-06-04T23:08:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

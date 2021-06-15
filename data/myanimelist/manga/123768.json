@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "影喰"
+  ],
+  "authors": [
+    "Aoi, Tamago"
+  ],
+  "id": 123768,
+  "type": "manga",
+  "title": "Kagekui",
+  "url": "https://myanimelist.net/manga/123768/Kagekui",
+  "image": "https://cdn.myanimelist.net/images/manga/2/225668.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T15:07:47.000Z",
+  "updatedAt": "2021-06-07T15:07:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "70793816-47a8-4619-94c7-092d98a9fabd": {
+        "authors": [
+          "Aoi Tamago"
+        ],
+        "identifier": "70793816-47a8-4619-94c7-092d98a9fabd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kagekui",
+        "url": "https://mangadex.org/title/70793816-47a8-4619-94c7-092d98a9fabd",
+        "image": "https://uploads.mangadex.org/covers/70793816-47a8-4619-94c7-092d98a9fabd/8e987425-d03c-4642-b45d-576b0c610943.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 123768,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:18:13.000Z",
+        "updatedAt": "2021-06-07T19:22:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Peepo Choo",
+    "PEEPO CHOO ピポチュー",
+    "Pee Po Choo",
+    "Peepochoo",
+    "PEEPOCHOO"
+  ],
+  "authors": [
+    "Felipe Smith"
+  ],
+  "id": 42313,
+  "malId": 12313,
+  "type": "manga",
+  "title": "Peepo Choo",
+  "url": "https://anilist.co/manga/42313",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42313-QTBebDYtUf5l.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "va920714": {
+        "authors": [],
+        "identifier": "va920714",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Peepo Choo",
+        "url": "https://manganelo.com/manga/va920714",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2111-va920714.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12313,
+        "aniId": 42313,
+        "createdAt": "2020-10-12T16:26:00.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "ba894fb1-a3a3-46a0-8223-b85aecfb0f74": {
+        "authors": [
+          "Smith Felipe"
+        ],
+        "identifier": "ba894fb1-a3a3-46a0-8223-b85aecfb0f74",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Peepo Choo",
+        "url": "https://mangadex.org/title/ba894fb1-a3a3-46a0-8223-b85aecfb0f74",
+        "image": "https://uploads.mangadex.org/covers/ba894fb1-a3a3-46a0-8223-b85aecfb0f74/f1a8775a-1bd7-41ed-b705-c584fdf32b10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12313,
+        "aniId": 42313,
+        "createdAt": "2020-10-30T04:14:35.000Z",
+        "updatedAt": "2021-06-08T06:05:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

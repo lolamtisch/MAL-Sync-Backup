@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "PAC-MAN and the Ghostly Adventures",
+    "パックワールド"
+  ],
+  "id": 28595,
+  "type": "anime",
+  "title": "Pac-World",
+  "url": "https://myanimelist.net/anime/28595/Pac-World",
+  "image": "https://cdn.myanimelist.net/images/anime/7/75298.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:39:32.000Z",
+  "updatedAt": "2021-04-30T08:18:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "3mxr": {
+        "identifier": "3mxr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pac-World",
+        "url": "https://9anime.ru/watch/pac-world.3mxr",
+        "image": "https://static.akacdn.ru/files/images/2019/06/5ebdc8114ebc2c0ca32ac1219ce249f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28595,
+        "aniId": 110364,
+        "createdAt": "2020-10-12T15:49:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "4nxj": {
+        "identifier": "4nxj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pac-World (Dub)",
+        "url": "https://9anime.ru/watch/pac-world-dub.4nxj",
+        "image": "https://static.akacdn.ru/files/images/2019/06/04a054e63151b68352cf54be4872cecf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28595,
+        "aniId": 110364,
+        "createdAt": "2020-10-12T15:50:11.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pac-world": {
+        "identifier": "pac-world",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pac-World",
+        "url": "https://www4.gogoanime.io/category/pac-world",
+        "image": "https://cdnimg.xyz/cover/pac-world.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28595,
+        "aniId": 110364,
+        "createdAt": "2020-10-12T16:01:33.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

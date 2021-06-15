@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Sugar Pot",
+    "Sugar Pot -Cafe flat-",
+    "シュガーポット"
+  ],
+  "authors": [
+    "Takasuka, Yue"
+  ],
+  "id": 4772,
+  "type": "manga",
+  "title": "Sugar Pot",
+  "url": "https://myanimelist.net/manga/4772/Sugar_Pot",
+  "image": "https://cdn.myanimelist.net/images/manga/3/5888.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:01.000Z",
+  "updatedAt": "2021-06-04T20:51:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "896281ae-22d0-483f-a269-6f4e6a3c48ec": {
+        "authors": [
+          "TAKASUKA Yue"
+        ],
+        "identifier": "896281ae-22d0-483f-a269-6f4e6a3c48ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sugar Pot",
+        "url": "https://mangadex.org/title/896281ae-22d0-483f-a269-6f4e6a3c48ec",
+        "image": "https://uploads.mangadex.org/covers/896281ae-22d0-483f-a269-6f4e6a3c48ec/4cf65ded-8c45-4efe-9210-3d969b9c13bc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4772,
+        "aniId": 34772,
+        "createdAt": "2020-10-12T16:09:51.000Z",
+        "updatedAt": "2021-06-04T21:00:51.000Z",
+        "deletedAt": null
+      },
+      "72a5ecad-f6af-4585-bfd6-0064632c437d": {
+        "authors": [
+          "Mugisabou (Kuromame Mugicha)"
+        ],
+        "identifier": "72a5ecad-f6af-4585-bfd6-0064632c437d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sugar-ism",
+        "url": "https://mangadex.org/title/72a5ecad-f6af-4585-bfd6-0064632c437d",
+        "image": "https://uploads.mangadex.org/covers/72a5ecad-f6af-4585-bfd6-0064632c437d/ed16a876-75cd-465a-b7eb-026f26a5f575.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4772,
+        "aniId": 34772,
+        "createdAt": "2020-10-12T16:19:39.000Z",
+        "updatedAt": "2021-06-07T22:26:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

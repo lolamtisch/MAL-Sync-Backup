@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "ミミズクと夜の王",
+    "Mimizuku and the King of Night"
+  ],
+  "authors": [
+    "Izuki Kougyoku",
+    "Yuu Suzuki",
+    "Hiroo Isono"
+  ],
+  "id": 132242,
+  "malId": 133487,
+  "type": "manga",
+  "title": "Mimizuku to Yoru no Ou",
+  "url": "https://anilist.co/manga/132242",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132242-F1VGd52MGbjF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T17:42:57.000Z",
+  "updatedAt": "2021-05-21T17:42:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab3ebd93-ee58-4106-9e65-a3b00852228b": {
+        "authors": [
+          "Kougyoku Izuki",
+          "Suzuki Yuu"
+        ],
+        "identifier": "ab3ebd93-ee58-4106-9e65-a3b00852228b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mimizuku to Yoru no Ou",
+        "url": "https://mangadex.org/title/ab3ebd93-ee58-4106-9e65-a3b00852228b",
+        "image": "https://uploads.mangadex.org/covers/ab3ebd93-ee58-4106-9e65-a3b00852228b/91fe140b-a486-42a6-bd8a-b30ab66ae88e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 133487,
+        "aniId": 132242,
+        "createdAt": "2020-10-12T16:21:47.000Z",
+        "updatedAt": "2021-06-08T06:50:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

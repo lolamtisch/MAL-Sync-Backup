@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Love Sprouts from a Misunderstanding",
+    "思い違いが恋の種",
+    "Hate me or date me",
+    "Sur un malentendu, ça peut marcher !",
+    "误会是恋爱的种子",
+    "착각은 사랑의 씨앗"
+  ],
+  "authors": [
+    "Owal"
+  ],
+  "id": 98830,
+  "malId": 101202,
+  "type": "manga",
+  "title": "Omoichigai ga Koi no Tane",
+  "url": "https://anilist.co/manga/98830",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98830-CuaumKSJF7Ep.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:52.000Z",
+  "updatedAt": "2021-05-20T14:54:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0bf2c8b3-a1fc-4077-a8f6-3fec70991adf": {
+        "authors": [
+          "Owaru"
+        ],
+        "identifier": "0bf2c8b3-a1fc-4077-a8f6-3fec70991adf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Omoichigai ga Koi no Tane",
+        "url": "https://mangadex.org/title/0bf2c8b3-a1fc-4077-a8f6-3fec70991adf",
+        "image": "https://uploads.mangadex.org/covers/0bf2c8b3-a1fc-4077-a8f6-3fec70991adf/6b72dc5e-4848-4f60-b2f2-5387fd6db5d5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101202,
+        "aniId": 98830,
+        "createdAt": "2020-10-12T16:11:44.000Z",
+        "updatedAt": "2021-06-05T10:37:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "omoichigai_ga_koi_no_tane": {
+        "authors": [],
+        "identifier": "omoichigai_ga_koi_no_tane",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Omoichigai Ga Koi No Tane",
+        "url": "https://manganelo.com/manga/omoichigai_ga_koi_no_tane",
+        "image": "https://avt.mkklcdnv6.com/29/u/14-1583490792.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101202,
+        "aniId": 98830,
+        "createdAt": "2020-10-12T16:24:41.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

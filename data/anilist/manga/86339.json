@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ワカコ酒",
+    "Wakako Sake",
+    "와카코와 술"
+  ],
+  "authors": [
+    "Chie Shinkyuu"
+  ],
+  "id": 86339,
+  "malId": 64603,
+  "type": "manga",
+  "title": "Wakako-Zake",
+  "url": "https://anilist.co/manga/86339",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86339-N09aOPuMFqlS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5accdd22-7ef4-4f7a-8681-a0a620ff4168": {
+        "authors": [
+          "Shinkyu Chie"
+        ],
+        "identifier": "5accdd22-7ef4-4f7a-8681-a0a620ff4168",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wakako-Zake",
+        "url": "https://mangadex.org/title/5accdd22-7ef4-4f7a-8681-a0a620ff4168",
+        "image": "https://uploads.mangadex.org/covers/5accdd22-7ef4-4f7a-8681-a0a620ff4168/51edf7e9-cd04-473d-b576-b017a842dd7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64603,
+        "aniId": 86339,
+        "createdAt": "2020-10-12T16:07:47.000Z",
+        "updatedAt": "2021-06-04T05:20:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "wakakozake": {
+        "authors": [],
+        "identifier": "wakakozake",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Wakako-Zake",
+        "url": "https://manganelo.com/manga/wakakozake",
+        "image": "https://avt.mkklcdnv6.com/47/r/1-1583465583.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64603,
+        "aniId": 86339,
+        "createdAt": "2020-10-12T16:26:06.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "wakako-zake": {
+        "authors": [
+          "SHINKYU Chie"
+        ],
+        "identifier": "wakako-zake",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Wakako-Zake",
+        "url": "https://mangasee123.com/manga/Wakako-zake",
+        "image": "https://cover.nep.li/cover/Wakako-zake.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64603,
+        "aniId": 86339,
+        "createdAt": "2021-03-25T03:20:24.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "アクセス"
+  ],
+  "authors": [
+    "Tetsuya Honda",
+    "Shin Shinmoto"
+  ],
+  "id": 65117,
+  "malId": 35117,
+  "type": "manga",
+  "title": "Access",
+  "url": "https://anilist.co/manga/65117",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35117.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:00.000Z",
+  "updatedAt": "2021-05-20T14:48:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69de634c-4ca9-4a03-a199-192570f88279": {
+        "authors": [
+          "Honda Tetsuya",
+          "Shinmoto Shin"
+        ],
+        "identifier": "69de634c-4ca9-4a03-a199-192570f88279",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Access",
+        "url": "https://mangadex.org/title/69de634c-4ca9-4a03-a199-192570f88279",
+        "image": "https://uploads.mangadex.org/covers/69de634c-4ca9-4a03-a199-192570f88279/ba582493-e003-42e4-8d01-1d64dd7ddd1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35117,
+        "aniId": 65117,
+        "createdAt": "2020-10-12T16:06:54.000Z",
+        "updatedAt": "2021-06-03T22:55:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

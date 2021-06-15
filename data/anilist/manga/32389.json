@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Digimon Tamers",
+    "Digimon Zero 3"
+  ],
+  "authors": [
+    "Yuen Wong Yu",
+    "Akiyoshi Hongou"
+  ],
+  "id": 32389,
+  "malId": 2389,
+  "type": "manga",
+  "title": "Digimon Tamers",
+  "url": "https://anilist.co/manga/32389",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2389.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "230c038a-9195-425a-8c00-9125fa5c7b26": {
+        "authors": [
+          "Yu Yuen Wong",
+          "Hongo Akiyoshi"
+        ],
+        "identifier": "230c038a-9195-425a-8c00-9125fa5c7b26",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Digimon Tamers",
+        "url": "https://mangadex.org/title/230c038a-9195-425a-8c00-9125fa5c7b26",
+        "image": "https://uploads.mangadex.org/covers/230c038a-9195-425a-8c00-9125fa5c7b26/3d275df5-53a8-4af8-b06e-35468a5c568c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2389,
+        "aniId": 32389,
+        "createdAt": "2020-10-12T16:11:42.000Z",
+        "updatedAt": "2021-06-05T10:24:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

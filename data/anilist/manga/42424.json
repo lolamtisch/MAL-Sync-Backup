@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "F.O.X 2",
+    "F.O.X. II",
+    "Fox II"
+  ],
+  "authors": [
+    "A-Bao",
+    "Neko Kreuz"
+  ],
+  "id": 42424,
+  "malId": 12424,
+  "type": "manga",
+  "title": "F.O.X II",
+  "url": "https://anilist.co/manga/42424",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12424.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:22.000Z",
+  "updatedAt": "2021-05-20T14:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c1c73616-5d33-4868-9b91-31cd633e53ab": {
+        "authors": [
+          "Os Rabbit Cat",
+          "A-Bao"
+        ],
+        "identifier": "c1c73616-5d33-4868-9b91-31cd633e53ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "F.O.X II",
+        "url": "https://mangadex.org/title/c1c73616-5d33-4868-9b91-31cd633e53ab",
+        "image": "https://uploads.mangadex.org/covers/c1c73616-5d33-4868-9b91-31cd633e53ab/2f47e517-04da-4f6d-8be4-583352aa9eba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12424,
+        "aniId": 42424,
+        "createdAt": "2020-10-12T16:04:11.000Z",
+        "updatedAt": "2021-06-02T19:20:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

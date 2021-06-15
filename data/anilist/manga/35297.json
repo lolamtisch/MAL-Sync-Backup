@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Replay",
+    "Replay"
+  ],
+  "authors": [
+    "Riang Ryu"
+  ],
+  "id": 35297,
+  "malId": 5297,
+  "type": "manga",
+  "title": "Replay",
+  "url": "https://anilist.co/manga/35297",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5297.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:27.000Z",
+  "updatedAt": "2021-05-20T14:39:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2ee310be-513a-43e4-a793-e3cc38a99ade": {
+        "authors": [
+          "RYU Riang"
+        ],
+        "identifier": "2ee310be-513a-43e4-a793-e3cc38a99ade",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Replay",
+        "url": "https://mangadex.org/title/2ee310be-513a-43e4-a793-e3cc38a99ade",
+        "image": "https://uploads.mangadex.org/covers/2ee310be-513a-43e4-a793-e3cc38a99ade/5fbc547a-f49f-4c4f-a28c-1ffd47cbc07b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5297,
+        "aniId": 35297,
+        "createdAt": "2020-10-12T16:03:25.000Z",
+        "updatedAt": "2021-06-02T13:52:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

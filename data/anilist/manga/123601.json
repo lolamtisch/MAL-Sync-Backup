@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "미라클! 용사님",
+    "Miracle! Hero-nim"
+  ],
+  "authors": [
+    "Jeong-Ha"
+  ],
+  "id": 123601,
+  "malId": 118822,
+  "type": "manga",
+  "title": "Miracle! Yongsa-nim",
+  "url": "https://anilist.co/manga/123601",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123601-bbnMTGUgomzS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:05.000Z",
+  "updatedAt": "2021-05-20T14:58:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ca264382-f3e3-4e84-80af-c82960660803": {
+        "authors": [
+          "Jeongha"
+        ],
+        "identifier": "ca264382-f3e3-4e84-80af-c82960660803",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Miracle! Hero-nim",
+        "url": "https://mangadex.org/title/ca264382-f3e3-4e84-80af-c82960660803",
+        "image": "https://uploads.mangadex.org/covers/ca264382-f3e3-4e84-80af-c82960660803/adf87693-7091-4009-9eff-f750df6407e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 118822,
+        "aniId": 123601,
+        "createdAt": "2020-10-12T16:08:53.000Z",
+        "updatedAt": "2021-06-04T14:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "miracle_hero_nim": {
+        "authors": [
+          "Measure",
+          "Jeongha"
+        ],
+        "identifier": "miracle_hero_nim",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Miracle! Hero-nim",
+        "url": "https://fanfox.net/manga/miracle_hero_nim/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16973/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118822,
+        "aniId": 123601,
+        "createdAt": "2021-05-05T21:33:41.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

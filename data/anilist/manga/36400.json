@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "百合姫",
+    "Lily Princess",
+    "Toffee Pattern",
+    "My beloved-beloved older sister",
+    "First Cooking Class"
+  ],
+  "authors": [
+    "Hajime Mikuni"
+  ],
+  "id": 36400,
+  "malId": 6400,
+  "type": "manga",
+  "title": "Yurihime",
+  "url": "https://anilist.co/manga/36400",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36400-MXMegpEoJZYb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T06:50:49.000Z",
+  "updatedAt": "2021-06-08T06:50:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9b6a5bfa-d7e5-48e8-bd2a-cd6cd434d920": {
+        "authors": [
+          "Mikuni Hajime"
+        ],
+        "identifier": "9b6a5bfa-d7e5-48e8-bd2a-cd6cd434d920",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yurihime",
+        "url": "https://mangadex.org/title/9b6a5bfa-d7e5-48e8-bd2a-cd6cd434d920",
+        "image": "https://uploads.mangadex.org/covers/9b6a5bfa-d7e5-48e8-bd2a-cd6cd434d920/856e683c-7885-4d29-942a-922c10ff6807.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 6400,
+        "aniId": 36400,
+        "createdAt": "2020-11-03T08:24:26.000Z",
+        "updatedAt": "2021-06-08T06:51:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

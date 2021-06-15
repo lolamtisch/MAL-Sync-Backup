@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ステディースタディ"
+  ],
+  "authors": [
+    "Nase Yamato"
+  ],
+  "id": 32254,
+  "malId": 2254,
+  "type": "manga",
+  "title": "Steady Study",
+  "url": "https://anilist.co/manga/32254",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32254-9DwKtyaS77kb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T11:20:39.000Z",
+  "updatedAt": "2021-06-04T11:20:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb73d01f-c5a8-4168-9db2-7805ed9ebb8e": {
+        "authors": [
+          "Yamato Nase"
+        ],
+        "identifier": "bb73d01f-c5a8-4168-9db2-7805ed9ebb8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Steady Study",
+        "url": "https://mangadex.org/title/bb73d01f-c5a8-4168-9db2-7805ed9ebb8e",
+        "image": "https://uploads.mangadex.org/covers/bb73d01f-c5a8-4168-9db2-7805ed9ebb8e/8617043d-fc37-4ee0-a692-aaa0a1a82aff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2254,
+        "aniId": 32254,
+        "createdAt": "2020-10-12T16:08:31.000Z",
+        "updatedAt": "2021-06-04T12:50:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

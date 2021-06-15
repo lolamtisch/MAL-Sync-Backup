@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "此岸郷愁",
+    "Longing for the Ephemeral World"
+  ],
+  "authors": [
+    "Foo Midori"
+  ],
+  "id": 100421,
+  "malId": 103965,
+  "type": "manga",
+  "title": "Shigan Kyoushuu",
+  "url": "https://anilist.co/manga/100421",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100421-fCb053cBThkA.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:09.000Z",
+  "updatedAt": "2021-05-20T14:55:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "003849a4-e249-4399-a199-34786b8ff91f": {
+        "authors": [
+          "Midori Foo"
+        ],
+        "identifier": "003849a4-e249-4399-a199-34786b8ff91f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Longing for the Ephemeral World",
+        "url": "https://mangadex.org/title/003849a4-e249-4399-a199-34786b8ff91f",
+        "image": "https://uploads.mangadex.org/covers/003849a4-e249-4399-a199-34786b8ff91f/f76f4509-762c-408e-aad6-2454a6271646.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103965,
+        "aniId": 100421,
+        "createdAt": "2020-10-12T16:10:26.000Z",
+        "updatedAt": "2021-06-05T00:41:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

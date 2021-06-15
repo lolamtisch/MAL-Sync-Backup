@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "黒",
+    "Black"
+  ],
+  "authors": [
+    "Soumatou"
+  ],
+  "id": 85277,
+  "malId": 67979,
+  "type": "manga",
+  "title": "Kuro",
+  "url": "https://anilist.co/manga/85277",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85277-uqm7IhDFAw3i.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:00.000Z",
+  "updatedAt": "2021-05-20T14:51:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "639f847b-1e80-4009-9146-ab78e70eb565": {
+        "authors": [
+          "Soumatou"
+        ],
+        "identifier": "639f847b-1e80-4009-9146-ab78e70eb565",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuro",
+        "url": "https://mangadex.org/title/639f847b-1e80-4009-9146-ab78e70eb565",
+        "image": "https://uploads.mangadex.org/covers/639f847b-1e80-4009-9146-ab78e70eb565/990bc4b9-5fed-4c72-97ca-488cf78f4144.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67979,
+        "aniId": 85277,
+        "createdAt": "2020-10-12T16:07:11.000Z",
+        "updatedAt": "2021-06-04T00:59:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kuro_somato": {
+        "authors": [],
+        "identifier": "kuro_somato",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kuro (Somato)",
+        "url": "https://manganelo.com/manga/kuro_somato",
+        "image": "https://avt.mkklcdnv6.com/9/g/1-1583464029.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67979,
+        "aniId": 85277,
+        "createdAt": "2020-10-12T16:24:02.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kuro_somato": {
+        "authors": [
+          "Somato"
+        ],
+        "identifier": "kuro_somato",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuro (Somato)",
+        "url": "https://fanfox.net/manga/kuro_somato/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14572/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 67979,
+        "aniId": 85277,
+        "createdAt": "2021-04-22T06:27:10.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

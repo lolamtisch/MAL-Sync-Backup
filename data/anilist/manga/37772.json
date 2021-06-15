@@ -1,0 +1,63 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Sakuya Fujii"
+  ],
+  "id": 37772,
+  "malId": 7772,
+  "type": "manga",
+  "title": "Lovely Phantom",
+  "url": "https://anilist.co/manga/37772",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7772.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:55.000Z",
+  "updatedAt": "2021-05-20T14:39:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e0cb226-3b30-4484-b2eb-c74b7230b86e": {
+        "authors": [
+          "Fujii Sakuya"
+        ],
+        "identifier": "1e0cb226-3b30-4484-b2eb-c74b7230b86e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lovely Phantom",
+        "url": "https://mangadex.org/title/1e0cb226-3b30-4484-b2eb-c74b7230b86e",
+        "image": "https://uploads.mangadex.org/covers/1e0cb226-3b30-4484-b2eb-c74b7230b86e/565dcd05-f4cd-49a8-88ff-e43e83111e27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7772,
+        "aniId": 37772,
+        "createdAt": "2020-10-12T16:11:53.000Z",
+        "updatedAt": "2021-06-05T11:43:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "lovely_phantom": {
+        "authors": [
+          "FUJII Sakuya"
+        ],
+        "identifier": "lovely_phantom",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lovely Phantom",
+        "url": "https://fanfox.net/manga/lovely_phantom/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2068/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7772,
+        "aniId": 37772,
+        "createdAt": "2021-05-20T23:14:30.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

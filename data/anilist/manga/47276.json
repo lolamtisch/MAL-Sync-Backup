@@ -1,0 +1,42 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Timo Takalo",
+    "Hideo Kojima"
+  ],
+  "id": 47276,
+  "malId": 17276,
+  "type": "manga",
+  "title": "Snatcher",
+  "url": "https://anilist.co/manga/47276",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17276.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T00:52:17.000Z",
+  "updatedAt": "2021-06-08T00:52:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e19e3116-9a02-4b27-b159-a97117c30b9a": {
+        "authors": [
+          "Satoshi Yoshioka"
+        ],
+        "identifier": "e19e3116-9a02-4b27-b159-a97117c30b9a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Snatcher",
+        "url": "https://mangadex.org/title/e19e3116-9a02-4b27-b159-a97117c30b9a",
+        "image": "https://uploads.mangadex.org/covers/e19e3116-9a02-4b27-b159-a97117c30b9a/b8543110-58f1-4ffe-b0bb-fd1ba7ebf8c2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17276,
+        "aniId": 47276,
+        "createdAt": "2020-10-12T16:20:42.000Z",
+        "updatedAt": "2021-06-08T00:53:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

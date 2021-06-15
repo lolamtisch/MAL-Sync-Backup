@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "東京デッドライン",
+    "Tokyo Deadline"
+  ],
+  "authors": [
+    "Akira Sakamoto"
+  ],
+  "id": 50199,
+  "malId": 20199,
+  "type": "manga",
+  "title": "Tokyo Dead Line",
+  "url": "https://anilist.co/manga/50199",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20199.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "37e64117-22e2-4269-a8d1-5aaf0b05bb76": {
+        "authors": [
+          "Sakamoto Akira",
+          "Hirai Tarou"
+        ],
+        "identifier": "37e64117-22e2-4269-a8d1-5aaf0b05bb76",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Deadline",
+        "url": "https://mangadex.org/title/37e64117-22e2-4269-a8d1-5aaf0b05bb76",
+        "image": "https://uploads.mangadex.org/covers/37e64117-22e2-4269-a8d1-5aaf0b05bb76/eec9d3a3-ff19-455a-9943-f59143bfe83b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20199,
+        "aniId": 50199,
+        "createdAt": "2020-10-12T16:05:25.000Z",
+        "updatedAt": "2021-06-03T12:33:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

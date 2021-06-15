@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Kanon",
+    "花音―かのん―"
+  ],
+  "authors": [
+    "Chiho Saitou"
+  ],
+  "id": 35964,
+  "malId": 5964,
+  "type": "manga",
+  "title": "Kanon",
+  "url": "https://anilist.co/manga/35964",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5964.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:36.000Z",
+  "updatedAt": "2021-05-20T14:39:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9625223-d839-4871-92c7-c51c35ea0ebf": {
+        "authors": [
+          "Saitou Chiho"
+        ],
+        "identifier": "e9625223-d839-4871-92c7-c51c35ea0ebf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanon",
+        "url": "https://mangadex.org/title/e9625223-d839-4871-92c7-c51c35ea0ebf",
+        "image": "https://uploads.mangadex.org/covers/e9625223-d839-4871-92c7-c51c35ea0ebf/9035b943-2a41-4a9c-b809-2077776836e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5964,
+        "aniId": 35964,
+        "createdAt": "2020-10-12T16:02:59.000Z",
+        "updatedAt": "2021-06-02T11:36:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kanon": {
+        "authors": [],
+        "identifier": "kanon",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kanon",
+        "url": "https://manganelo.com/manga/kanon",
+        "image": "https://avt.mkklcdnv6.com/1/u/10-1583484054.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5964,
+        "aniId": 35964,
+        "createdAt": "2020-10-12T16:23:50.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

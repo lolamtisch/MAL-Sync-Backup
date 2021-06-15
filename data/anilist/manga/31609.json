@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Path of the Assassin",
+    "半蔵の門",
+    "Hanzo no Mon"
+  ],
+  "authors": [
+    "Kazuo Koike",
+    "Goseki Kojima"
+  ],
+  "id": 31609,
+  "malId": 1609,
+  "type": "manga",
+  "title": "Hanzou no Mon",
+  "url": "https://anilist.co/manga/31609",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31609-MG0U8AUM2F3l.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:49.000Z",
+  "updatedAt": "2021-05-20T14:36:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f8eb5546-e170-453f-ad24-4e0f3ead918f": {
+        "authors": [
+          "KOIKE Kazuo",
+          "KOJIMA Goseki"
+        ],
+        "identifier": "f8eb5546-e170-453f-ad24-4e0f3ead918f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanzou no Mon",
+        "url": "https://mangadex.org/title/f8eb5546-e170-453f-ad24-4e0f3ead918f",
+        "image": "https://uploads.mangadex.org/covers/f8eb5546-e170-453f-ad24-4e0f3ead918f/0cf34c5c-62b2-4813-ae54-ec5318062270.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1609,
+        "aniId": 31609,
+        "createdAt": "2020-10-12T16:06:53.000Z",
+        "updatedAt": "2021-06-03T22:44:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "path-of-the-assassin": {
+        "authors": [
+          "KOIKE Kazuo",
+          "KOJIMA Goseki"
+        ],
+        "identifier": "path-of-the-assassin",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Path of the Assassin",
+        "url": "https://mangasee123.com/manga/Path-Of-The-Assassin",
+        "image": "https://cover.nep.li/cover/Path-Of-The-Assassin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1609,
+        "aniId": 31609,
+        "createdAt": "2021-05-12T22:25:41.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

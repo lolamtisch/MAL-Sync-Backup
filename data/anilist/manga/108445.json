@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "バビロン"
+  ],
+  "authors": [
+    "Mado Nozaki",
+    "Nobuhide Takishita"
+  ],
+  "id": 108445,
+  "malId": 113399,
+  "type": "manga",
+  "title": "Babylon",
+  "url": "https://anilist.co/manga/108445",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108445-8v53i4dDN5cD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:01.000Z",
+  "updatedAt": "2021-05-20T14:57:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "54509bfe-b987-40e0-ae8b-49dea8fa581a": {
+        "authors": [
+          "Nozaki Mado",
+          "Takishita Nobuhide"
+        ],
+        "identifier": "54509bfe-b987-40e0-ae8b-49dea8fa581a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Babylon",
+        "url": "https://mangadex.org/title/54509bfe-b987-40e0-ae8b-49dea8fa581a",
+        "image": "https://uploads.mangadex.org/covers/54509bfe-b987-40e0-ae8b-49dea8fa581a/8d864571-ba32-4b67-8d50-8a633ef43d75.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113399,
+        "aniId": 108445,
+        "createdAt": "2020-10-12T16:17:06.000Z",
+        "updatedAt": "2021-06-07T04:42:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

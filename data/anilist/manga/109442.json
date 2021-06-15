@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "홍시는 날 좋아해!",
+    "Hongshi Loves Me!  ",
+    "Hongshi Likes Me!"
+  ],
+  "authors": [
+    "Ha Da Kang",
+    "Utneunhae"
+  ],
+  "id": 109442,
+  "malId": null,
+  "type": "manga",
+  "title": "Hongsineun Nal Joahae!",
+  "url": "https://anilist.co/manga/109442",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109442-tYFhYxUzUVqj.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T15:18:59.000Z",
+  "updatedAt": "2021-06-05T15:18:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "255e54e2-c832-4a6f-b7ce-6a92f3612b35": {
+        "authors": [
+          "Utneunhae",
+          "Ganghada"
+        ],
+        "identifier": "255e54e2-c832-4a6f-b7ce-6a92f3612b35",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hongshi Loves Me!",
+        "url": "https://mangadex.org/title/255e54e2-c832-4a6f-b7ce-6a92f3612b35",
+        "image": "https://uploads.mangadex.org/covers/255e54e2-c832-4a6f-b7ce-6a92f3612b35/bcec7b96-9a6e-4ea6-a233-7a12f8b86df1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 109442,
+        "createdAt": "2020-10-12T16:12:29.000Z",
+        "updatedAt": "2021-06-05T15:28:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

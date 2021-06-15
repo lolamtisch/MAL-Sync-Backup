@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "白い部屋のふたり",
+    "Couple of the White Room",
+    "Our White Room"
+  ],
+  "authors": [
+    "Ryouko Yamagishi"
+  ],
+  "id": 33600,
+  "malId": 3600,
+  "type": "manga",
+  "title": "Shiroi Heya no Futari",
+  "url": "https://anilist.co/manga/33600",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3600.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:13.000Z",
+  "updatedAt": "2021-05-20T14:38:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6d1de062-0cc2-4219-a0ea-f672b653e55b": {
+        "authors": [
+          "Yamagishi Ryouko"
+        ],
+        "identifier": "6d1de062-0cc2-4219-a0ea-f672b653e55b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shiroi Heya no Futari",
+        "url": "https://mangadex.org/title/6d1de062-0cc2-4219-a0ea-f672b653e55b",
+        "image": "https://uploads.mangadex.org/covers/6d1de062-0cc2-4219-a0ea-f672b653e55b/45892379-f61a-4f9f-8193-ec291787dcdf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3600,
+        "aniId": 33600,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:25:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

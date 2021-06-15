@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Tales of Zestiria",
+    "テイルズ オブ ゼスティリア 導きの刻",
+    "Tales of Zestiria: The Time of Guidance"
+  ],
+  "authors": [
+    "Shiramine"
+  ],
+  "id": 93663,
+  "malId": 84933,
+  "type": "manga",
+  "title": "Tales of Zestiria: Michibiki no Toki",
+  "url": "https://anilist.co/manga/93663",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93663-tcKj2FpIxUDv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:36.000Z",
+  "updatedAt": "2021-06-04T10:52:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "410b548c-73c0-44aa-8351-bc0a2cbf373b": {
+        "authors": [
+          "Bandai Namco Games",
+          "Shiramine"
+        ],
+        "identifier": "410b548c-73c0-44aa-8351-bc0a2cbf373b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of Zestiria - Time of Guidance",
+        "url": "https://mangadex.org/title/410b548c-73c0-44aa-8351-bc0a2cbf373b",
+        "image": "https://uploads.mangadex.org/covers/410b548c-73c0-44aa-8351-bc0a2cbf373b/ed0749e8-2b7d-492b-9fc9-7e504638d06d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84933,
+        "aniId": 93663,
+        "createdAt": "2020-10-12T16:08:29.000Z",
+        "updatedAt": "2021-06-04T12:56:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tales-of-zestiria-time-of-guidance": {
+        "authors": [
+          "Bandai Namco Games",
+          "Shiramine"
+        ],
+        "identifier": "tales-of-zestiria-time-of-guidance",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tales of Zestiria - Time of Guidance",
+        "url": "https://mangasee123.com/manga/Tales-Of-Zestiria-Time-Of-Guidance",
+        "image": "https://cover.nep.li/cover/Tales-Of-Zestiria-Time-Of-Guidance.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84933,
+        "aniId": 93663,
+        "createdAt": "2021-01-28T18:53:49.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "今度こそ幸せになります！",
+    "This Time I Will Definitely Be Happy!",
+    "这次一定要幸福！"
+  ],
+  "authors": [
+    "Mamenosuke Fujimaru",
+    "Riko Saiki",
+    "Risu"
+  ],
+  "id": 109790,
+  "malId": 119489,
+  "type": "manga",
+  "title": "Kondo Koso Shiawase ni Narimasu!",
+  "url": "https://anilist.co/manga/109790",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109790-vHE9gGdv6fRj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:08.000Z",
+  "updatedAt": "2021-05-20T14:58:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "faf88355-e0d9-41bb-a091-cc599faf0123": {
+        "authors": [
+          "Saiki Riko",
+          "Fujimaru Mamenosuke"
+        ],
+        "identifier": "faf88355-e0d9-41bb-a091-cc599faf0123",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "This Time I Will Definitely Be Happy!",
+        "url": "https://mangadex.org/title/faf88355-e0d9-41bb-a091-cc599faf0123",
+        "image": "https://uploads.mangadex.org/covers/faf88355-e0d9-41bb-a091-cc599faf0123/a557e074-62b8-4429-8fb7-e278626244ab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119489,
+        "aniId": 109790,
+        "createdAt": "2020-10-12T16:15:52.000Z",
+        "updatedAt": "2021-06-06T17:31:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sr919429": {
+        "authors": [],
+        "identifier": "sr919429",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "This Time I Will Definitely Be Happy!",
+        "url": "https://manganelo.com/manga/sr919429",
+        "image": "https://avt.mkklcdnv6.com/31/t/18-1583498316.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119489,
+        "aniId": 109790,
+        "createdAt": "2020-10-12T16:25:32.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "this-time-i-will-definitely-be-happy": {
+        "authors": [
+          "FUJIMARU Mamenosuke",
+          "SAIKI Riko"
+        ],
+        "identifier": "this-time-i-will-definitely-be-happy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "This Time I Will Definitely Be Happy!",
+        "url": "https://mangasee123.com/manga/This-Time-I-Will-Definitely-Be-Happy",
+        "image": "https://cover.nep.li/cover/This-Time-I-Will-Definitely-Be-Happy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 119489,
+        "aniId": 109790,
+        "createdAt": "2021-03-05T19:20:41.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

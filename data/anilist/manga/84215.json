@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ごはん しよ!",
+    "Let's Have a Meal Together"
+  ],
+  "authors": [
+    "Sei Takano"
+  ],
+  "id": 84215,
+  "malId": 54215,
+  "type": "manga",
+  "title": "Gohan Shiyo!",
+  "url": "https://anilist.co/manga/84215",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx84215-OjSB1337Sbzf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:59.000Z",
+  "updatedAt": "2021-05-20T14:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ec795ca-bfeb-4592-831b-cc5bcd479fa1": {
+        "authors": [
+          "Takano Sei"
+        ],
+        "identifier": "0ec795ca-bfeb-4592-831b-cc5bcd479fa1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gohan Shiyo!",
+        "url": "https://mangadex.org/title/0ec795ca-bfeb-4592-831b-cc5bcd479fa1",
+        "image": "https://uploads.mangadex.org/covers/0ec795ca-bfeb-4592-831b-cc5bcd479fa1/6ba6fe2f-58e3-48c9-8b48-2a74e1b2db1a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54215,
+        "aniId": 84215,
+        "createdAt": "2020-10-12T16:06:29.000Z",
+        "updatedAt": "2021-06-03T19:59:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gohan-shiyo": {
+        "authors": [
+          "TAKANO Sei"
+        ],
+        "identifier": "gohan-shiyo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gohan Shiyo!",
+        "url": "https://mangasee123.com/manga/Gohan-Shiyo",
+        "image": "https://cover.nep.li/cover/Gohan-Shiyo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54215,
+        "aniId": 84215,
+        "createdAt": "2021-06-04T02:51:21.000Z",
+        "updatedAt": "2021-06-04T03:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Koneko!!",
+    "コネコッ!!"
+  ],
+  "authors": [
+    "Tamaki, Nozomu"
+  ],
+  "id": 10638,
+  "type": "manga",
+  "title": "Coneco!!",
+  "url": "https://myanimelist.net/manga/10638/Coneco",
+  "image": "https://cdn.myanimelist.net/images/manga/3/76199.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:28.000Z",
+  "updatedAt": "2021-06-05T08:19:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fcd0d4a0-c469-4993-ad0c-5aee40e7f63c": {
+        "authors": [
+          "Tamaki Nozomu"
+        ],
+        "identifier": "fcd0d4a0-c469-4993-ad0c-5aee40e7f63c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Coneco!!",
+        "url": "https://mangadex.org/title/fcd0d4a0-c469-4993-ad0c-5aee40e7f63c",
+        "image": "https://uploads.mangadex.org/covers/fcd0d4a0-c469-4993-ad0c-5aee40e7f63c/e6edb738-27eb-4a18-8d2e-19b224cc17e8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10638,
+        "aniId": 40638,
+        "createdAt": "2020-10-12T16:11:23.000Z",
+        "updatedAt": "2021-06-05T09:05:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

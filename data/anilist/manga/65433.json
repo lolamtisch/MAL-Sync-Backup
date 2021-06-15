@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "あっちとこっち"
+  ],
+  "authors": [
+    "Koshino"
+  ],
+  "id": 65433,
+  "malId": 35433,
+  "type": "manga",
+  "title": "Acchi to Kocchi",
+  "url": "https://anilist.co/manga/65433",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65433-OcP1cEkGHEqX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:02.000Z",
+  "updatedAt": "2021-05-20T14:48:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "41e8b221-ef36-492d-9d6f-15139d77dbb5": {
+        "authors": [
+          "Koshino"
+        ],
+        "identifier": "41e8b221-ef36-492d-9d6f-15139d77dbb5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Acchi to Kocchi",
+        "url": "https://mangadex.org/title/41e8b221-ef36-492d-9d6f-15139d77dbb5",
+        "image": "https://uploads.mangadex.org/covers/41e8b221-ef36-492d-9d6f-15139d77dbb5/ca170150-9daf-4885-949a-f5fa2510b35a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35433,
+        "aniId": 65433,
+        "createdAt": "2021-01-07T04:05:19.000Z",
+        "updatedAt": "2021-06-08T09:35:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

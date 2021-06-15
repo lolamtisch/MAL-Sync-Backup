@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "我らコンタクティ",
+    "We are Contactee"
+  ],
+  "authors": [
+    "Rui Morita"
+  ],
+  "id": 113878,
+  "malId": 105661,
+  "type": "manga",
+  "title": "Warera Contactee",
+  "url": "https://anilist.co/manga/113878",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113878-iKa52TVals0Q.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:15.000Z",
+  "updatedAt": "2021-05-20T14:55:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e9f8bc7-72c7-4f7a-9ef8-ffda7b1a968c": {
+        "authors": [
+          "Morita Rui"
+        ],
+        "identifier": "7e9f8bc7-72c7-4f7a-9ef8-ffda7b1a968c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Warera Contactee",
+        "url": "https://mangadex.org/title/7e9f8bc7-72c7-4f7a-9ef8-ffda7b1a968c",
+        "image": "https://uploads.mangadex.org/covers/7e9f8bc7-72c7-4f7a-9ef8-ffda7b1a968c/1f19cc31-dc70-4993-9c6a-7a95d7195bb9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105661,
+        "aniId": 113878,
+        "createdAt": "2020-10-12T16:14:18.000Z",
+        "updatedAt": "2021-06-06T04:04:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

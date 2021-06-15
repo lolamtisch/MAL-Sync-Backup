@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "おいらんガール",
+    "Ginrou no Sakura",
+    "The Silver Wolf's Sakura"
+  ],
+  "authors": [
+    "Wataru Hibiki"
+  ],
+  "id": 50470,
+  "malId": 20470,
+  "type": "manga",
+  "title": "Oiran Girl",
+  "url": "https://anilist.co/manga/50470",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50470-w4I8qDEKL0LV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:32.000Z",
+  "updatedAt": "2021-05-20T14:45:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b25b58c8-311b-4f11-90f9-5ca053ba0214": {
+        "authors": [
+          "HIBIKI Wataru"
+        ],
+        "identifier": "b25b58c8-311b-4f11-90f9-5ca053ba0214",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oiran Girl",
+        "url": "https://mangadex.org/title/b25b58c8-311b-4f11-90f9-5ca053ba0214",
+        "image": "https://uploads.mangadex.org/covers/b25b58c8-311b-4f11-90f9-5ca053ba0214/c783c069-74d0-4783-80bb-337949c64573.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20470,
+        "aniId": 50470,
+        "createdAt": "2020-10-12T16:05:34.000Z",
+        "updatedAt": "2021-06-03T13:33:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "oiran-girl": {
+        "authors": [
+          "HIBIKI Wataru"
+        ],
+        "identifier": "oiran-girl",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Oiran Girl",
+        "url": "https://mangasee123.com/manga/Oiran-Girl",
+        "image": "https://cover.nep.li/cover/Oiran-Girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20470,
+        "aniId": 50470,
+        "createdAt": "2021-05-03T23:03:18.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

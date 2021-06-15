@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Honey Rose"
+  ],
+  "authors": [
+    "Akari Funato"
+  ],
+  "id": 97438,
+  "malId": 99752,
+  "type": "manga",
+  "title": "Honey Rose",
+  "url": "https://anilist.co/manga/97438",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97438-oqSaqsmcZap7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:44.000Z",
+  "updatedAt": "2021-05-20T14:54:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "99ba3a04-577c-44c0-abdd-7540e088c65a": {
+        "authors": [
+          "Funato Akari"
+        ],
+        "identifier": "99ba3a04-577c-44c0-abdd-7540e088c65a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honey Rose",
+        "url": "https://mangadex.org/title/99ba3a04-577c-44c0-abdd-7540e088c65a",
+        "image": "https://uploads.mangadex.org/covers/99ba3a04-577c-44c0-abdd-7540e088c65a/42709e9f-c8d9-4b9a-8125-421eecb80012.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99752,
+        "aniId": 97438,
+        "createdAt": "2020-10-12T16:15:27.000Z",
+        "updatedAt": "2021-06-06T13:55:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

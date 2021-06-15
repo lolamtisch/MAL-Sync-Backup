@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "デビルマンサーガ"
+  ],
+  "authors": [
+    "Nagai, Go"
+  ],
+  "id": 85924,
+  "type": "manga",
+  "title": "Devilman Saga",
+  "url": "https://myanimelist.net/manga/85924/Devilman_Saga",
+  "image": "https://cdn.myanimelist.net/images/manga/3/159421.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:44.000Z",
+  "updatedAt": "2021-03-02T17:22:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3e2adca-1053-4295-8d4c-feea5f02745c": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "c3e2adca-1053-4295-8d4c-feea5f02745c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Devilman Saga",
+        "url": "https://mangadex.org/title/c3e2adca-1053-4295-8d4c-feea5f02745c",
+        "image": "https://uploads.mangadex.org/covers/c3e2adca-1053-4295-8d4c-feea5f02745c/1eb8e7db-ce7a-4698-a2a3-96afa8d98069.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85924,
+        "aniId": 86157,
+        "createdAt": "2020-10-12T16:10:01.000Z",
+        "updatedAt": "2021-06-04T21:43:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "devilman_saga": {
+        "authors": [],
+        "identifier": "devilman_saga",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Devilman Saga",
+        "url": "https://manganelo.com/manga/devilman_saga",
+        "image": "https://avt.mkklcdnv6.com/14/b/14-1583490251.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85924,
+        "aniId": 86157,
+        "createdAt": "2020-10-12T16:22:38.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "devilman-saga": {
+        "authors": [
+          "NAGAI Go"
+        ],
+        "identifier": "devilman-saga",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Devilman Saga",
+        "url": "https://mangasee123.com/manga/Devilman-Saga",
+        "image": "https://cover.nep.li/cover/Devilman-Saga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85924,
+        "aniId": 86157,
+        "createdAt": "2021-03-02T17:22:30.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

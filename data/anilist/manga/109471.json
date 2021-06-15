@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "グルメのふくらみ"
+  ],
+  "authors": [
+    "Jake Akahoshi"
+  ],
+  "id": 109471,
+  "malId": 121240,
+  "type": "manga",
+  "title": "Gourmet no Fukurami",
+  "url": "https://anilist.co/manga/109471",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109471-G2yn2j08JZy2.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-06T15:19:29.000Z",
+  "updatedAt": "2021-06-06T15:19:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33e9a4d1-05e7-496d-988f-5a741dcf38be": {
+        "authors": [
+          "Akahoshi Jake"
+        ],
+        "identifier": "33e9a4d1-05e7-496d-988f-5a741dcf38be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gurume no Fukurami",
+        "url": "https://mangadex.org/title/33e9a4d1-05e7-496d-988f-5a741dcf38be",
+        "image": "https://uploads.mangadex.org/covers/33e9a4d1-05e7-496d-988f-5a741dcf38be/dee248f9-f1ba-4c44-bacf-bbdb1247454c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121240,
+        "aniId": 109471,
+        "createdAt": "2020-10-12T16:15:34.000Z",
+        "updatedAt": "2021-06-06T15:52:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

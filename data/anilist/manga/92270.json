@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "カーマスートラ",
+    "Kama Sutra"
+  ],
+  "authors": [
+    "Go Nagai",
+    "Kunio Nagatani"
+  ],
+  "id": 92270,
+  "malId": 75949,
+  "type": "manga",
+  "title": "Kamasutra",
+  "url": "https://anilist.co/manga/92270",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b92270-PeSPekyMoEvS.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-04T01:20:01.000Z",
+  "updatedAt": "2021-06-04T01:20:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc886325-3390-4614-afe9-adce0ca8a71a": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "bc886325-3390-4614-afe9-adce0ca8a71a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamasutra",
+        "url": "https://mangadex.org/title/bc886325-3390-4614-afe9-adce0ca8a71a",
+        "image": "https://uploads.mangadex.org/covers/bc886325-3390-4614-afe9-adce0ca8a71a/ee131897-fd00-4fc5-a00a-b59e29a42992.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75949,
+        "aniId": 92270,
+        "createdAt": "2020-10-12T16:07:11.000Z",
+        "updatedAt": "2021-06-04T08:57:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

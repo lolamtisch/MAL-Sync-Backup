@@ -1,0 +1,60 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Lee, Young Hui"
+  ],
+  "id": 3759,
+  "type": "manga",
+  "title": "HWA",
+  "url": "https://myanimelist.net/manga/3759/HWA",
+  "image": "https://cdn.myanimelist.net/images/manga/1/4196.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:54.000Z",
+  "updatedAt": "2021-04-28T08:50:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aae7f6cc-0629-46c1-8f2c-92e5589f9960": {
+        "authors": [
+          "Lee Young Hee"
+        ],
+        "identifier": "aae7f6cc-0629-46c1-8f2c-92e5589f9960",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HWA",
+        "url": "https://mangadex.org/title/aae7f6cc-0629-46c1-8f2c-92e5589f9960",
+        "image": "https://uploads.mangadex.org/covers/aae7f6cc-0629-46c1-8f2c-92e5589f9960/73597b2f-c5d9-4f77-b711-19942b60fa1c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3759,
+        "aniId": 33759,
+        "createdAt": "2020-10-12T16:06:52.000Z",
+        "updatedAt": "2021-06-03T22:42:40.000Z",
+        "deletedAt": null
+      },
+      "c80f60d9-1a21-4d8f-b49e-e0025a9324e7": {
+        "authors": [
+          "Ssongru"
+        ],
+        "identifier": "c80f60d9-1a21-4d8f-b49e-e0025a9324e7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wol-hwa x Mok-gum",
+        "url": "https://mangadex.org/title/c80f60d9-1a21-4d8f-b49e-e0025a9324e7",
+        "image": "https://uploads.mangadex.org/covers/c80f60d9-1a21-4d8f-b49e-e0025a9324e7/87e072ef-678f-447b-b9dd-bf17026e98a8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3759,
+        "aniId": 33759,
+        "createdAt": "2020-10-12T16:16:35.000Z",
+        "updatedAt": "2021-06-07T00:00:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

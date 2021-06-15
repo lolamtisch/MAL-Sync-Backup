@@ -1,0 +1,128 @@
+{
+  "altTitle": [
+    "Cage of Eden",
+    "エデンの檻"
+  ],
+  "authors": [
+    "Yoshinobu Yamada"
+  ],
+  "id": 42586,
+  "malId": 12586,
+  "type": "manga",
+  "title": "Eden no Ori",
+  "url": "https://anilist.co/manga/42586",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42586-vBsvm45ji0ss.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:23.000Z",
+  "updatedAt": "2021-05-20T14:42:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a1d683e0-bc10-46d3-9d33-8f50b3b2b208": {
+        "authors": [
+          "Yamada Yoshinobu"
+        ],
+        "identifier": "a1d683e0-bc10-46d3-9d33-8f50b3b2b208",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cage of Eden",
+        "url": "https://mangadex.org/title/a1d683e0-bc10-46d3-9d33-8f50b3b2b208",
+        "image": "https://uploads.mangadex.org/covers/a1d683e0-bc10-46d3-9d33-8f50b3b2b208/5fd9ed9c-9a19-459d-bf02-f42c386a5d6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12586,
+        "aniId": 42586,
+        "createdAt": "2020-10-12T16:02:24.000Z",
+        "updatedAt": "2021-06-02T06:36:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eden_no_ori": {
+        "authors": [],
+        "identifier": "eden_no_ori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eden no Ori",
+        "url": "https://manganelo.com/manga/eden_no_ori",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3854-eden_no_ori.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12586,
+        "aniId": 42586,
+        "createdAt": "2020-10-12T16:22:47.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cage-of-eden": {
+        "authors": [
+          "YAMADA Yoshinobu"
+        ],
+        "identifier": "cage-of-eden",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cage of Eden",
+        "url": "https://mangasee123.com/manga/Cage-Of-Eden",
+        "image": "https://cover.nep.li/cover/Cage-Of-Eden.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12586,
+        "aniId": 42586,
+        "createdAt": "2020-12-25T21:26:21.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cage_of_eden": {
+        "authors": [
+          "YAMADA Yoshinobu"
+        ],
+        "identifier": "cage_of_eden",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Eden no Ori",
+        "url": "https://fanfox.net/manga/cage_of_eden/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5357/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12586,
+        "aniId": 42586,
+        "createdAt": "2021-03-15T07:00:54.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      },
+      "eden_no_ori": {
+        "authors": [
+          "YAMADA Yoshinobu"
+        ],
+        "identifier": "eden_no_ori",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Eden no Ori",
+        "url": "https://fanfox.net/manga/eden_no_ori/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5357/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12586,
+        "aniId": 42586,
+        "createdAt": "2021-03-23T16:46:40.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

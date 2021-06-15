@@ -1,0 +1,127 @@
+{
+  "altTitle": [
+    "青春ポップ！"
+  ],
+  "authors": [
+    "Touta Kitakawa"
+  ],
+  "id": 45189,
+  "malId": 15189,
+  "type": "manga",
+  "title": "Seishun Pop!",
+  "url": "https://anilist.co/manga/45189",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45189-56MYzo9ZY05u.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bdee46e4-3690-402b-aae4-ae97ec7b131d": {
+        "authors": [
+          "Kitakawa Touta"
+        ],
+        "identifier": "bdee46e4-3690-402b-aae4-ae97ec7b131d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seishun Pop!",
+        "url": "https://mangadex.org/title/bdee46e4-3690-402b-aae4-ae97ec7b131d",
+        "image": "https://uploads.mangadex.org/covers/bdee46e4-3690-402b-aae4-ae97ec7b131d/ac7e4d81-1433-42b8-a322-1e8ce4d9cd0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15189,
+        "aniId": 45189,
+        "createdAt": "2020-10-12T16:02:34.000Z",
+        "updatedAt": "2021-06-02T08:03:28.000Z",
+        "deletedAt": null
+      },
+      "3a957322-f336-4102-a462-897caedc68ea": {
+        "authors": [
+          "Tachibana Mizuki"
+        ],
+        "identifier": "3a957322-f336-4102-a462-897caedc68ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seishun Radio Pinchers",
+        "url": "https://mangadex.org/title/3a957322-f336-4102-a462-897caedc68ea",
+        "image": "https://uploads.mangadex.org/covers/3a957322-f336-4102-a462-897caedc68ea/3105ea52-a91c-4a8f-956d-5724311ddd37.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15189,
+        "aniId": 45189,
+        "createdAt": "2020-10-12T16:20:00.000Z",
+        "updatedAt": "2021-06-07T23:04:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "seishun_pop": {
+        "authors": [],
+        "identifier": "seishun_pop",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seishun Pop!",
+        "url": "https://manganelo.com/manga/seishun_pop",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4486-seishun_pop.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15189,
+        "aniId": 45189,
+        "createdAt": "2020-10-12T16:25:21.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "seishun-pop": {
+        "authors": [
+          "KITAKAWA Touta"
+        ],
+        "identifier": "seishun-pop",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Seishun Pop!",
+        "url": "https://mangasee123.com/manga/Seishun-Pop",
+        "image": "https://cover.nep.li/cover/Seishun-Pop.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15189,
+        "aniId": 45189,
+        "createdAt": "2020-12-19T14:26:19.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "seishun_pop": {
+        "authors": [
+          "Kitakawa Touta"
+        ],
+        "identifier": "seishun_pop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seishun Pop!",
+        "url": "https://fanfox.net/manga/seishun_pop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6400/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15189,
+        "aniId": 45189,
+        "createdAt": "2021-02-03T03:02:06.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

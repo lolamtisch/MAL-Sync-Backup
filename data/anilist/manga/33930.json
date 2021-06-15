@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Make Me Happy",
+    "メイク・ミー・ハッピー",
+    "メイク・ミー・ハッピー"
+  ],
+  "authors": [
+    "Kano Miyamoto"
+  ],
+  "id": 33930,
+  "malId": 3930,
+  "type": "manga",
+  "title": "Make Me Happy",
+  "url": "https://anilist.co/manga/33930",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3930.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T14:49:28.000Z",
+  "updatedAt": "2021-06-04T14:49:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2e76f85e-b238-4860-9ba7-715572e2bfce": {
+        "authors": [
+          "Miyamoto Kano"
+        ],
+        "identifier": "2e76f85e-b238-4860-9ba7-715572e2bfce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Make Me Happy",
+        "url": "https://mangadex.org/title/2e76f85e-b238-4860-9ba7-715572e2bfce",
+        "image": "https://uploads.mangadex.org/covers/2e76f85e-b238-4860-9ba7-715572e2bfce/652f80fb-54d7-48a6-a8ab-61cfed04c8d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3930,
+        "aniId": 33930,
+        "createdAt": "2020-10-12T16:09:00.000Z",
+        "updatedAt": "2021-06-04T15:25:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

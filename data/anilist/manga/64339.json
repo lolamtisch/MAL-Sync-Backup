@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ハッピープロジェクト"
+  ],
+  "authors": [
+    "Hirokazu Ochiai"
+  ],
+  "id": 64339,
+  "malId": 34339,
+  "type": "manga",
+  "title": "Happy Project",
+  "url": "https://anilist.co/manga/64339",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/34339.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:59.000Z",
+  "updatedAt": "2021-05-20T14:47:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4c734060-ea42-4102-91fe-e8b4d7ab4ec4": {
+        "authors": [
+          "Ochiai Hirokazu"
+        ],
+        "identifier": "4c734060-ea42-4102-91fe-e8b4d7ab4ec4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Happy Project",
+        "url": "https://mangadex.org/title/4c734060-ea42-4102-91fe-e8b4d7ab4ec4",
+        "image": "https://uploads.mangadex.org/covers/4c734060-ea42-4102-91fe-e8b4d7ab4ec4/705ad8fa-16b7-4757-a4dd-087c57404668.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34339,
+        "aniId": 64339,
+        "createdAt": "2020-10-12T16:03:59.000Z",
+        "updatedAt": "2021-06-02T17:51:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

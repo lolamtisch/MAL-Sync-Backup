@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "花男",
+    "Hana Otoko",
+    "Le rêve de mon père"
+  ],
+  "authors": [
+    "Taiyou Matsumoto",
+    "Thibaud Desbief"
+  ],
+  "id": 33291,
+  "malId": 3291,
+  "type": "manga",
+  "title": "Hanaotoko",
+  "url": "https://anilist.co/manga/33291",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33291-ESG7kvRgjAu8.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7aa30938-c805-4592-9fd3-0984e31d1f20": {
+        "authors": [
+          "MATSUMOTO Taiyou"
+        ],
+        "identifier": "7aa30938-c805-4592-9fd3-0984e31d1f20",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanaotoko",
+        "url": "https://mangadex.org/title/7aa30938-c805-4592-9fd3-0984e31d1f20",
+        "image": "https://uploads.mangadex.org/covers/7aa30938-c805-4592-9fd3-0984e31d1f20/6c81e1dd-b3e3-4728-914b-f9667c0bbcbe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3291,
+        "aniId": 33291,
+        "createdAt": "2020-10-12T16:04:28.000Z",
+        "updatedAt": "2021-06-02T21:14:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

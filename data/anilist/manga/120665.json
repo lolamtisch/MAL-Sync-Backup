@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "라일락 200%",
+    "Laillak 200%"
+  ],
+  "authors": [
+    "Ui Yeoung"
+  ],
+  "id": 120665,
+  "malId": null,
+  "type": "manga",
+  "title": "Lilac 200%",
+  "url": "https://anilist.co/manga/120665",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120665-xnkXOZUt1Cxf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T15:33:58.000Z",
+  "updatedAt": "2021-06-07T15:33:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "352d9c9f-4b3c-4310-81fd-b9a10a924027": {
+        "authors": [
+          "Aniyoung"
+        ],
+        "identifier": "352d9c9f-4b3c-4310-81fd-b9a10a924027",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "200% Lilac",
+        "url": "https://mangadex.org/title/352d9c9f-4b3c-4310-81fd-b9a10a924027",
+        "image": "https://uploads.mangadex.org/covers/352d9c9f-4b3c-4310-81fd-b9a10a924027/55b715d0-eb2e-45bf-903a-0d0d439556e2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120665,
+        "createdAt": "2020-10-12T16:19:15.000Z",
+        "updatedAt": "2021-06-09T08:07:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

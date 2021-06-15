@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いとしい悪魔",
+    "Dear Demon"
+  ],
+  "authors": [
+    "Hiro Madarame"
+  ],
+  "id": 46728,
+  "malId": 16728,
+  "type": "manga",
+  "title": "Itoshii Akuma",
+  "url": "https://anilist.co/manga/46728",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46728-eiyZydnjLbnZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:56.000Z",
+  "updatedAt": "2021-05-21T01:42:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac8ca86b-3b07-45f7-b697-4a7461cf03da": {
+        "authors": [
+          "Madarame Hiro"
+        ],
+        "identifier": "ac8ca86b-3b07-45f7-b697-4a7461cf03da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itoshii Akuma",
+        "url": "https://mangadex.org/title/ac8ca86b-3b07-45f7-b697-4a7461cf03da",
+        "image": "https://uploads.mangadex.org/covers/ac8ca86b-3b07-45f7-b697-4a7461cf03da/1a231011-6a89-426e-be37-0e17319fc850.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16728,
+        "aniId": 46728,
+        "createdAt": "2020-10-12T16:10:05.000Z",
+        "updatedAt": "2021-06-04T22:11:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

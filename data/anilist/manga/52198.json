@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Bomba!",
+    "ボンバ",
+    "Bomba!"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 52198,
+  "malId": 22198,
+  "type": "manga",
+  "title": "Bonba!",
+  "url": "https://anilist.co/manga/52198",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52198-ux0HSDbrVKra.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:29.000Z",
+  "updatedAt": "2021-05-20T14:46:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "edb3393f-4823-4504-a48d-5475dff0d1cc": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "edb3393f-4823-4504-a48d-5475dff0d1cc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bomba!",
+        "url": "https://mangadex.org/title/edb3393f-4823-4504-a48d-5475dff0d1cc",
+        "image": "https://uploads.mangadex.org/covers/edb3393f-4823-4504-a48d-5475dff0d1cc/3a26cb9c-184e-4b6c-913b-2d2fe129c37d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22198,
+        "aniId": 52198,
+        "createdAt": "2020-10-12T16:17:49.000Z",
+        "updatedAt": "2021-06-07T11:20:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

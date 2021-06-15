@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "またあした",
+    "See You Tomorrow",
+    "Until Tomorrow",
+    "明日再会"
+  ],
+  "authors": [
+    "Hatoko Machiya"
+  ],
+  "id": 35738,
+  "malId": 5738,
+  "type": "manga",
+  "title": "Mata Ashita",
+  "url": "https://anilist.co/manga/35738",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5738.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:33.000Z",
+  "updatedAt": "2021-05-20T14:39:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb4cd7eb-3e46-4466-9074-7a78f0a1aea5": {
+        "authors": [
+          "Machiya Hatoko"
+        ],
+        "identifier": "eb4cd7eb-3e46-4466-9074-7a78f0a1aea5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mata Ashita",
+        "url": "https://mangadex.org/title/eb4cd7eb-3e46-4466-9074-7a78f0a1aea5",
+        "image": "https://uploads.mangadex.org/covers/eb4cd7eb-3e46-4466-9074-7a78f0a1aea5/92ebc920-c1f5-4ee9-aabb-e9141cf239e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5738,
+        "aniId": 35738,
+        "createdAt": "2020-10-12T16:17:01.000Z",
+        "updatedAt": "2021-06-07T04:04:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mata_ashita_7jihan_ni": {
+        "authors": [],
+        "identifier": "mata_ashita_7jihan_ni",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mata Ashita 7-Jihan Ni",
+        "url": "https://manganelo.com/manga/mata_ashita_7jihan_ni",
+        "image": "https://avt.mkklcdnv6.com/8/u/15-1583491779.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5738,
+        "aniId": 35738,
+        "createdAt": "2020-10-12T16:24:16.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

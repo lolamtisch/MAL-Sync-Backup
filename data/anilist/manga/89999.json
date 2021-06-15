@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "森田まさのり短編集 スベルヲイトワズ",
+    "Setting Up to Fail",
+    "Suberu o Itowazu",
+    "Morita Masanori Tanpenshuu"
+  ],
+  "authors": [
+    "Masanori Morita"
+  ],
+  "id": 89999,
+  "malId": 64547,
+  "type": "manga",
+  "title": "Suberu wo Itowazu",
+  "url": "https://anilist.co/manga/89999",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89999-fY8fkiJUrHoD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3def8845-d230-4ce0-950d-175765692986": {
+        "authors": [
+          "Morita Masanori"
+        ],
+        "identifier": "3def8845-d230-4ce0-950d-175765692986",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suberuwo Itowazu",
+        "url": "https://mangadex.org/title/3def8845-d230-4ce0-950d-175765692986",
+        "image": "https://uploads.mangadex.org/covers/3def8845-d230-4ce0-950d-175765692986/d9a3fa0f-3092-4612-9b31-19ce4be953a4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64547,
+        "aniId": 89999,
+        "createdAt": "2020-10-12T16:07:01.000Z",
+        "updatedAt": "2021-06-03T23:44:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "setting-up-to-fail": {
+        "authors": [
+          "MORITA Masanori"
+        ],
+        "identifier": "setting-up-to-fail",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Setting Up To Fail",
+        "url": "https://mangasee123.com/manga/Setting-Up-To-Fail",
+        "image": "https://cover.nep.li/cover/Setting-Up-To-Fail.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64547,
+        "aniId": 89999,
+        "createdAt": "2021-02-27T22:13:52.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

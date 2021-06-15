@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "吼えろペン",
+    "Comic Bomber",
+    "Manga Bomber",
+    "Howling Pen"
+  ],
+  "authors": [
+    "Kazuhiko Shimamoto"
+  ],
+  "id": 31779,
+  "malId": 1779,
+  "type": "manga",
+  "title": "Hoero Pen",
+  "url": "https://anilist.co/manga/31779",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31779-TZb7f2vHErwH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:53.000Z",
+  "updatedAt": "2021-05-20T14:36:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "329be74e-5519-44c9-8d31-acaad777cafa": {
+        "authors": [
+          "Shimamoto Kazuhiko"
+        ],
+        "identifier": "329be74e-5519-44c9-8d31-acaad777cafa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Howling Pen",
+        "url": "https://mangadex.org/title/329be74e-5519-44c9-8d31-acaad777cafa",
+        "image": "https://uploads.mangadex.org/covers/329be74e-5519-44c9-8d31-acaad777cafa/65cce702-d753-47a3-9950-e281c105fac6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1779,
+        "aniId": 31779,
+        "createdAt": "2020-10-12T16:10:33.000Z",
+        "updatedAt": "2021-06-05T01:38:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

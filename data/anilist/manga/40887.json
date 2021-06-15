@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Ice Ice Baby"
+  ],
+  "authors": [
+    "Yoo-Jung Lee"
+  ],
+  "id": 40887,
+  "malId": 10887,
+  "type": "manga",
+  "title": "Ice Ice Baby",
+  "url": "https://anilist.co/manga/40887",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10887.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:12.000Z",
+  "updatedAt": "2021-05-20T14:41:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "00c6fa3a-b8fa-4120-a5ba-5fef268228f5": {
+        "authors": [
+          "Lee Yoo Jeong",
+          "Lee Yoo Jung",
+          "이유정",
+          "LEE You-Jeong",
+          "Lee Yoo-Jung"
+        ],
+        "identifier": "00c6fa3a-b8fa-4120-a5ba-5fef268228f5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ice Ice Baby",
+        "url": "https://mangadex.org/title/00c6fa3a-b8fa-4120-a5ba-5fef268228f5",
+        "image": "https://uploads.mangadex.org/covers/00c6fa3a-b8fa-4120-a5ba-5fef268228f5/6c16443b-5321-4379-84f0-3cac5732af62.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10887,
+        "aniId": 40887,
+        "createdAt": "2020-10-12T16:21:51.000Z",
+        "updatedAt": "2021-06-08T03:07:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

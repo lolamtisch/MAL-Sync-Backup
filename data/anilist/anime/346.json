@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Double Wish",
+    "W 〜ウィッシュ〜"
+  ],
+  "id": 346,
+  "malId": 346,
+  "type": "anime",
+  "title": "W: Wish",
+  "url": "https://anilist.co/anime/346",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/346.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:39.000Z",
+  "updatedAt": "2021-05-20T14:33:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "oomz": {
+        "identifier": "oomz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "W: Wish",
+        "url": "https://9anime.ru/watch/w-wish.oomz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-oFG2QXbgetE/V6iZVELCqXI/AAAAAAAA1W4/eqzqa8uUqJk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 346,
+        "aniId": 346,
+        "createdAt": "2020-10-12T15:54:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "w-wish": {
+        "identifier": "w-wish",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "W Wish",
+        "url": "https://gogoanime.so/category/w-wish",
+        "image": "https://images.gogoanime.tv/images/anime/wwish.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 346,
+        "aniId": 346,
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

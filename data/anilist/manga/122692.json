@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ナンバーナイン"
+  ],
+  "authors": [
+    "Gege Akutami"
+  ],
+  "id": 122692,
+  "malId": 130227,
+  "type": "manga",
+  "title": "No.9",
+  "url": "https://anilist.co/manga/122692",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122692-qEIF5FWGK6xA.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:30.000Z",
+  "updatedAt": "2021-06-08T01:52:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "60092c98-9a8d-4fe6-8d9c-a55b4a74e251": {
+        "authors": [
+          "Akutami Gege"
+        ],
+        "identifier": "60092c98-9a8d-4fe6-8d9c-a55b4a74e251",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "No.9",
+        "url": "https://mangadex.org/title/60092c98-9a8d-4fe6-8d9c-a55b4a74e251",
+        "image": "https://uploads.mangadex.org/covers/60092c98-9a8d-4fe6-8d9c-a55b4a74e251/69f73a51-8f0a-48d5-966a-7f5dad8ffa02.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130227,
+        "aniId": 122692,
+        "createdAt": "2020-10-12T16:21:02.000Z",
+        "updatedAt": "2021-06-08T06:57:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

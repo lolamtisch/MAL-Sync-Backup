@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "クロアキメラ"
+  ],
+  "authors": [
+    "Kairi Sorano"
+  ],
+  "id": 95209,
+  "malId": 90135,
+  "type": "manga",
+  "title": "Croa Chimera",
+  "url": "https://anilist.co/manga/95209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95209-57OrxZRIMMe1.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:03.000Z",
+  "updatedAt": "2021-05-20T14:53:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9299566-1ceb-4290-9cb5-bca40a1c3c9c": {
+        "authors": [
+          "Sorano Kairi"
+        ],
+        "identifier": "e9299566-1ceb-4290-9cb5-bca40a1c3c9c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Croa Chimera",
+        "url": "https://mangadex.org/title/e9299566-1ceb-4290-9cb5-bca40a1c3c9c",
+        "image": "https://uploads.mangadex.org/covers/e9299566-1ceb-4290-9cb5-bca40a1c3c9c/3bf62e75-49fd-4d75-a146-f5a875f9ac17.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90135,
+        "aniId": 95209,
+        "createdAt": "2020-10-12T16:08:11.000Z",
+        "updatedAt": "2021-06-04T08:10:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kuroa_chimera": {
+        "authors": [],
+        "identifier": "kuroa_chimera",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kuroa Chimera",
+        "url": "https://manganelo.com/manga/kuroa_chimera",
+        "image": "https://avt.mkklcdnv6.com/2/p/1-1583463764.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90135,
+        "aniId": 95209,
+        "createdAt": "2020-10-12T16:24:02.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

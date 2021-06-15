@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "プラネット・ウィズ"
+  ],
+  "authors": [
+    "Satoshi Mizukami"
+  ],
+  "id": 101732,
+  "malId": 113458,
+  "type": "manga",
+  "title": "Planet With",
+  "url": "https://anilist.co/manga/101732",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101732-tJ4bZuppLBz9.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:01.000Z",
+  "updatedAt": "2021-05-20T14:57:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "756fc7c9-8e7d-4e71-8033-982f1205e950": {
+        "authors": [
+          "Mizukami Satoshi"
+        ],
+        "identifier": "756fc7c9-8e7d-4e71-8033-982f1205e950",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Planet With",
+        "url": "https://mangadex.org/title/756fc7c9-8e7d-4e71-8033-982f1205e950",
+        "image": "https://uploads.mangadex.org/covers/756fc7c9-8e7d-4e71-8033-982f1205e950/50b8968c-5b31-404c-bd34-e97fad06d5a9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113458,
+        "aniId": 101732,
+        "createdAt": "2020-10-12T16:12:37.000Z",
+        "updatedAt": "2021-06-05T15:32:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "planet_with": {
+        "authors": [],
+        "identifier": "planet_with",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Planet With",
+        "url": "https://manganelo.com/manga/planet_with",
+        "image": "https://avt.mkklcdnv6.com/21/r/16-1583494246.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113458,
+        "aniId": 101732,
+        "createdAt": "2020-10-12T16:24:52.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "planet-with": {
+        "authors": [
+          "MIZUKAMI Satoshi"
+        ],
+        "identifier": "planet-with",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Planet With",
+        "url": "https://mangasee123.com/manga/Planet-With",
+        "image": "https://cover.nep.li/cover/Planet-With.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113458,
+        "aniId": 101732,
+        "createdAt": "2021-03-03T09:51:17.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "planet_with": {
+        "authors": [
+          "MIZUKAMI Satoshi"
+        ],
+        "identifier": "planet_with",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Planet With",
+        "url": "https://fanfox.net/manga/planet_with/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27737/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113458,
+        "aniId": 101732,
+        "createdAt": "2021-04-03T07:01:13.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

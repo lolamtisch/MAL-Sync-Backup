@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Midsummer Afterglow",
+    "真夏の残照",
+    "Midsummer Afterglow"
+  ],
+  "authors": [
+    "Masara Minase"
+  ],
+  "id": 32196,
+  "malId": 2196,
+  "type": "manga",
+  "title": "Manatsu no Zanshou",
+  "url": "https://anilist.co/manga/32196",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2196.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f1eb350f-ccf2-4c00-b513-c25f4262f669": {
+        "authors": [
+          "Minase Masara"
+        ],
+        "identifier": "f1eb350f-ccf2-4c00-b513-c25f4262f669",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Manatsu no Zanshou",
+        "url": "https://mangadex.org/title/f1eb350f-ccf2-4c00-b513-c25f4262f669",
+        "image": "https://uploads.mangadex.org/covers/f1eb350f-ccf2-4c00-b513-c25f4262f669/e223d759-39d6-4c6d-9fb3-1bee4b14fb40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2196,
+        "aniId": 32196,
+        "createdAt": "2020-10-12T16:21:51.000Z",
+        "updatedAt": "2021-06-08T03:07:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

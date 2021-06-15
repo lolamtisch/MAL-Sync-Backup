@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "Blood Alone",
+    "BLOOD ALONE"
+  ],
+  "authors": [
+    "Masayuki Takano"
+  ],
+  "id": 30959,
+  "malId": 959,
+  "type": "manga",
+  "title": "Blood Alone",
+  "url": "https://anilist.co/manga/30959",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/959.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:47.000Z",
+  "updatedAt": "2021-06-08T19:25:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0bd1bde1-0975-4308-ba12-aea13dba5dd0": {
+        "authors": [
+          "Takano Masayuki"
+        ],
+        "identifier": "0bd1bde1-0975-4308-ba12-aea13dba5dd0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blood Alone",
+        "url": "https://mangadex.org/title/0bd1bde1-0975-4308-ba12-aea13dba5dd0",
+        "image": "https://uploads.mangadex.org/covers/0bd1bde1-0975-4308-ba12-aea13dba5dd0/f6474380-a26b-4293-a1b7-dbbe567f8a22.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 959,
+        "aniId": 30959,
+        "createdAt": "2020-10-12T16:03:13.000Z",
+        "updatedAt": "2021-06-02T12:23:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bd919670": {
+        "authors": [],
+        "identifier": "bd919670",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Lone Swan",
+        "url": "https://manganelo.com/manga/bd919670",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1074-bd919670.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 959,
+        "aniId": 30959,
+        "createdAt": "2020-10-12T16:22:14.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "blood_alone": {
+        "authors": [
+          "Takano",
+          "Masayuki"
+        ],
+        "identifier": "blood_alone",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Blood Alone",
+        "url": "https://manganelo.com/manga/blood_alone",
+        "image": "https://avt.mkklcdnv6.com/19/t/1-1583464473.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 959,
+        "aniId": 30959,
+        "createdAt": "2020-12-04T07:53:07.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "blood-alone": {
+        "authors": [
+          "TAKANO Masayuki"
+        ],
+        "identifier": "blood-alone",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Blood Alone",
+        "url": "https://mangasee123.com/manga/Blood-Alone",
+        "image": "https://cover.nep.li/cover/Blood-Alone.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 959,
+        "aniId": 30959,
+        "createdAt": "2021-05-18T12:32:19.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

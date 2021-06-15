@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "카르페디엠",
+    "Otome Equation",
+    "乙女方程式"
+  ],
+  "authors": [
+    "Narae",
+    "Seeun"
+  ],
+  "id": 121945,
+  "malId": null,
+  "type": "manga",
+  "title": "Carpe Diem",
+  "url": "https://anilist.co/manga/121945",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121945-vVIvnK5e4olO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T23:48:58.000Z",
+  "updatedAt": "2021-06-06T23:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "63dfa2de-8751-4a80-bd94-50c3971c72d1": {
+        "authors": [
+          "Narae",
+          "Sae-un"
+        ],
+        "identifier": "63dfa2de-8751-4a80-bd94-50c3971c72d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otome Equation",
+        "url": "https://mangadex.org/title/63dfa2de-8751-4a80-bd94-50c3971c72d1",
+        "image": "https://uploads.mangadex.org/covers/63dfa2de-8751-4a80-bd94-50c3971c72d1/e3641316-2f9f-4621-908a-b47f487ebe17.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 121945,
+        "createdAt": "2020-10-12T16:16:32.000Z",
+        "updatedAt": "2021-06-07T07:16:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

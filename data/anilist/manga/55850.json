@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "悪鬼御用ガラン",
+    "Demon Order Garan"
+  ],
+  "authors": [
+    "Takayuki Yamaguchi"
+  ],
+  "id": 55850,
+  "malId": 25850,
+  "type": "manga",
+  "title": "Akki Goyou Garan",
+  "url": "https://anilist.co/manga/55850",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25850.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:56.000Z",
+  "updatedAt": "2021-05-20T14:46:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8429eb3c-3512-4181-bffd-d6db38f13642": {
+        "authors": [
+          "Yamaguchi Takayuki"
+        ],
+        "identifier": "8429eb3c-3512-4181-bffd-d6db38f13642",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Demon Order Garan",
+        "url": "https://mangadex.org/title/8429eb3c-3512-4181-bffd-d6db38f13642",
+        "image": "https://uploads.mangadex.org/covers/8429eb3c-3512-4181-bffd-d6db38f13642/be9b4cb1-f867-4836-89c4-805189cbf184.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25850,
+        "aniId": 55850,
+        "createdAt": "2020-10-12T16:06:12.000Z",
+        "updatedAt": "2021-06-03T17:59:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

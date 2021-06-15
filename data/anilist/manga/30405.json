@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Lament of the Lamb",
+    "羊のうた",
+    "Lament Jagnięcia"
+  ],
+  "authors": [
+    "Kei Toume"
+  ],
+  "id": 30405,
+  "malId": 405,
+  "type": "manga",
+  "title": "Hitsuji no Uta",
+  "url": "https://anilist.co/manga/30405",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30405-aE3Kdq0jl9q1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c6c738c-6927-450b-a307-710d01abbd93": {
+        "authors": [
+          "Toume Kei"
+        ],
+        "identifier": "6c6c738c-6927-450b-a307-710d01abbd93",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hitsuji no Uta",
+        "url": "https://mangadex.org/title/6c6c738c-6927-450b-a307-710d01abbd93",
+        "image": "https://uploads.mangadex.org/covers/6c6c738c-6927-450b-a307-710d01abbd93/177ae78d-4de4-4bab-ab60-7c98de2dafe7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 405,
+        "aniId": 30405,
+        "createdAt": "2020-10-12T16:05:12.000Z",
+        "updatedAt": "2021-06-03T10:59:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sirens_lament": {
+        "authors": [],
+        "identifier": "sirens_lament",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Siren's Lament",
+        "url": "https://manganelo.com/manga/sirens_lament",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16347-sirens_lament.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 405,
+        "aniId": 30405,
+        "createdAt": "2020-10-12T16:25:28.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "hitsuji_no_uta": {
+        "authors": [
+          "Toume",
+          "Kei"
+        ],
+        "identifier": "hitsuji_no_uta",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hitsuji No Uta",
+        "url": "https://manganelo.com/manga/hitsuji_no_uta",
+        "image": "https://avt.mkklcdnv6temp.com/15/s/13-1583488320.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 405,
+        "aniId": 30405,
+        "createdAt": "2021-05-04T06:31:58.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

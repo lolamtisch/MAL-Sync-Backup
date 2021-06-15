@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "원수를사랑하라"
+  ],
+  "authors": [
+    "Yu-Rang Han"
+  ],
+  "id": 68117,
+  "malId": 38117,
+  "type": "manga",
+  "title": "To Love Our Enemies",
+  "url": "https://anilist.co/manga/68117",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/38117.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:37.000Z",
+  "updatedAt": "2021-05-20T14:48:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b0153a77-9560-4b9e-ba23-db4f330a97a4": {
+        "authors": [
+          "Han Yu-Rang"
+        ],
+        "identifier": "b0153a77-9560-4b9e-ba23-db4f330a97a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "To Love Our Enemies",
+        "url": "https://mangadex.org/title/b0153a77-9560-4b9e-ba23-db4f330a97a4",
+        "image": "https://uploads.mangadex.org/covers/b0153a77-9560-4b9e-ba23-db4f330a97a4/2ad6b93e-c8bd-4951-8412-74c8342d4819.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38117,
+        "aniId": 68117,
+        "createdAt": "2020-10-12T16:04:39.000Z",
+        "updatedAt": "2021-06-02T22:25:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "xg921977": {
+        "authors": [
+          "Jeongyun"
+        ],
+        "identifier": "xg921977",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love Your Enemies",
+        "url": "https://manganelo.com/manga/xg921977",
+        "image": "https://avt.mkklcdnv6temp.com/26/l/20-1583502047.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38117,
+        "aniId": 68117,
+        "createdAt": "2020-10-12T16:26:14.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "to-love-our-enemies": {
+        "authors": [
+          "HAN Yu-Rang"
+        ],
+        "identifier": "to-love-our-enemies",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "To Love Our Enemies",
+        "url": "https://mangasee123.com/manga/To-Love-Our-Enemies",
+        "image": "https://cover.nep.li/cover/To-Love-Our-Enemies.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38117,
+        "aniId": 68117,
+        "createdAt": "2021-05-13T20:25:31.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

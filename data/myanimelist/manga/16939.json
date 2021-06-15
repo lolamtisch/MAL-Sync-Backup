@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "バラバンバ"
+  ],
+  "authors": [
+    "Nagai, Go"
+  ],
+  "id": 16939,
+  "type": "manga",
+  "title": "Barabanba",
+  "url": "https://myanimelist.net/manga/16939/Barabanba",
+  "image": "https://cdn.myanimelist.net/images/manga/2/25217.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:24.000Z",
+  "updatedAt": "2021-05-02T10:02:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ebd732df-ece1-4a2f-9c43-b8bf1a4062bb": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "ebd732df-ece1-4a2f-9c43-b8bf1a4062bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Barabanba",
+        "url": "https://mangadex.org/title/ebd732df-ece1-4a2f-9c43-b8bf1a4062bb",
+        "image": "https://uploads.mangadex.org/covers/ebd732df-ece1-4a2f-9c43-b8bf1a4062bb/1d2c7da4-d1f3-4408-8a5e-283349d3bada.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16939,
+        "aniId": 46939,
+        "createdAt": "2020-10-12T16:17:12.000Z",
+        "updatedAt": "2021-06-07T05:43:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

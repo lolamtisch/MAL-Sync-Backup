@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "ゼルダの伝説",
+    "The Legend of Zelda: The Hyrule Fantasy",
+    "Zelda no Densetsu (Ran Maru)",
+    "ゼルダの伝説 わんぱっくコミックス"
+  ],
+  "authors": [
+    "Ran Maru"
+  ],
+  "id": 127530,
+  "malId": 101360,
+  "type": "manga",
+  "title": "Zelda no Densetsu",
+  "url": "https://anilist.co/manga/127530",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b127530-iA8fIfgp6ugg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T13:20:11.000Z",
+  "updatedAt": "2021-06-05T13:20:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1237e237-a597-42c2-bd68-fcd5e5e57604": {
+        "authors": [
+          "Ran Maru"
+        ],
+        "identifier": "1237e237-a597-42c2-bd68-fcd5e5e57604",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zelda no Densetsu (Ran Maru)",
+        "url": "https://mangadex.org/title/1237e237-a597-42c2-bd68-fcd5e5e57604",
+        "image": "https://uploads.mangadex.org/covers/1237e237-a597-42c2-bd68-fcd5e5e57604/ed582d34-3e0c-4c7e-a13d-e51ff26ac57e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101360,
+        "aniId": 127530,
+        "createdAt": "2020-10-12T16:12:03.000Z",
+        "updatedAt": "2021-06-05T14:07:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

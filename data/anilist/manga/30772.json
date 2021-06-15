@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "Revolutionary Girl Utena",
+    "少女革命ウテナ",
+    "Rewolucjonistka Utena"
+  ],
+  "authors": [
+    "Be-Papas",
+    "Chiho Saitou",
+    "Edward Kondo"
+  ],
+  "id": 30772,
+  "malId": 772,
+  "type": "manga",
+  "title": "Shoujo Kakumei Utena",
+  "url": "https://anilist.co/manga/30772",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30772-eu4TNiVpGTSR.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:43.000Z",
+  "updatedAt": "2021-05-20T14:35:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5c810ba-d6d5-485e-8990-2fa48c893af8": {
+        "authors": [
+          "Be-Papas",
+          "Saitou Chiho",
+          "Ikuhara Kunihiko"
+        ],
+        "identifier": "b5c810ba-d6d5-485e-8990-2fa48c893af8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shoujo Kakumei Utena",
+        "url": "https://mangadex.org/title/b5c810ba-d6d5-485e-8990-2fa48c893af8",
+        "image": "https://uploads.mangadex.org/covers/b5c810ba-d6d5-485e-8990-2fa48c893af8/97001306-4d11-4c82-b1ca-dadb6148f896.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 772,
+        "aniId": 30772,
+        "createdAt": "2020-10-12T16:13:08.000Z",
+        "updatedAt": "2021-06-05T19:05:04.000Z",
+        "deletedAt": null
+      },
+      "8f1b6e82-50af-4e8b-9e68-5c80a7a86a67": {
+        "authors": [
+          "Kashima Kotaru"
+        ],
+        "identifier": "8f1b6e82-50af-4e8b-9e68-5c80a7a86a67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Revolutionary Alpha",
+        "url": "https://mangadex.org/title/8f1b6e82-50af-4e8b-9e68-5c80a7a86a67",
+        "image": "https://uploads.mangadex.org/covers/8f1b6e82-50af-4e8b-9e68-5c80a7a86a67/a247420d-3396-4c04-be6f-8ab37540fd3a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 772,
+        "aniId": 30772,
+        "createdAt": "2020-10-12T16:18:33.000Z",
+        "updatedAt": "2021-06-07T17:53:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "urb166034134213": {
+        "authors": [],
+        "identifier": "urb166034134213",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shoujo Kakumei Utena",
+        "url": "https://manganelo.com/manga/urb166034134213",
+        "image": "https://avt.mkklcdnv6.com/44/j/11-1583485606.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 772,
+        "aniId": 30772,
+        "createdAt": "2020-10-12T16:25:58.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shoujo_kakumei_utena": {
+        "authors": [
+          "SAITOU Chiho",
+          "Be-Papas"
+        ],
+        "identifier": "shoujo_kakumei_utena",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shoujo Kakumei Utena",
+        "url": "https://fanfox.net/manga/shoujo_kakumei_utena/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3178/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 772,
+        "aniId": 30772,
+        "createdAt": "2021-02-20T02:03:31.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

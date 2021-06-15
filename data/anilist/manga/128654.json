@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "見てたでしょ",
+    "You Were Looking, Weren't You?"
+  ],
+  "authors": [
+    "Aoi Tachi"
+  ],
+  "id": 128654,
+  "malId": null,
+  "type": "manga",
+  "title": "Miteta desho",
+  "url": "https://anilist.co/manga/128654",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128654-CE6YPOCS2LSP.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T11:19:07.000Z",
+  "updatedAt": "2021-06-06T11:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c9ff7408-649c-4a84-b3fc-50b76114dd97": {
+        "authors": [
+          "Tachiaoi"
+        ],
+        "identifier": "c9ff7408-649c-4a84-b3fc-50b76114dd97",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "You Were Looking, Weren't You?",
+        "url": "https://mangadex.org/title/c9ff7408-649c-4a84-b3fc-50b76114dd97",
+        "image": "https://uploads.mangadex.org/covers/c9ff7408-649c-4a84-b3fc-50b76114dd97/a862fbae-e5bc-40e5-b1f2-872b0c60e60a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 128654,
+        "createdAt": "2020-10-12T16:15:08.000Z",
+        "updatedAt": "2021-06-06T13:38:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

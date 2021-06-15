@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Eden’s End"
+  ],
+  "authors": [
+    "Chiyo Yashiro"
+  ],
+  "id": 109747,
+  "malId": 124021,
+  "type": "manga",
+  "title": "Eden's End",
+  "url": "https://anilist.co/manga/109747",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109747-rrmhzdKhfwyq.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:03.000Z",
+  "updatedAt": "2021-05-20T14:59:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2bfc9e5-72c4-4f3f-9313-8e29facfa13e": {
+        "authors": [
+          "Yashiro Chiyo"
+        ],
+        "identifier": "e2bfc9e5-72c4-4f3f-9313-8e29facfa13e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eden's End",
+        "url": "https://mangadex.org/title/e2bfc9e5-72c4-4f3f-9313-8e29facfa13e",
+        "image": "https://uploads.mangadex.org/covers/e2bfc9e5-72c4-4f3f-9313-8e29facfa13e/92c39e0a-66a8-4bc5-a6bf-f8ce02efe570.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124021,
+        "aniId": 109747,
+        "createdAt": "2020-10-12T16:18:20.000Z",
+        "updatedAt": "2021-06-07T16:00:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "我儘なジュエル",
+    "Tenshinchigi",
+    "Gods of Heaven and Earth",
+    "Fragile but Strong",
+    "Stray Cat Rock"
+  ],
+  "authors": [
+    "Sachiyo Sawauchi"
+  ],
+  "id": 41192,
+  "malId": 11192,
+  "type": "manga",
+  "title": "Wagamama na Jewel",
+  "url": "https://anilist.co/manga/41192",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41192-3vsQraSm8SuU.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:41:15.000Z",
+  "updatedAt": "2021-05-20T14:41:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fda5dca0-1ac4-4573-9a7a-69da742bd7cd": {
+        "authors": [
+          "Sawauchi Sachiyo"
+        ],
+        "identifier": "fda5dca0-1ac4-4573-9a7a-69da742bd7cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wagamama na Jewel",
+        "url": "https://mangadex.org/title/fda5dca0-1ac4-4573-9a7a-69da742bd7cd",
+        "image": "https://uploads.mangadex.org/covers/fda5dca0-1ac4-4573-9a7a-69da742bd7cd/c7cfaae6-6aed-40f1-b402-0e5f5a536dad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11192,
+        "aniId": 41192,
+        "createdAt": "2020-10-12T16:04:32.000Z",
+        "updatedAt": "2021-06-02T21:41:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "wagamama_na_jewel": {
+        "authors": [
+          "SAWAUCHI Sachiyo"
+        ],
+        "identifier": "wagamama_na_jewel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Wagamama na Jewel",
+        "url": "https://fanfox.net/manga/wagamama_na_jewel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4660/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11192,
+        "aniId": 41192,
+        "createdAt": "2021-05-20T21:16:09.000Z",
+        "updatedAt": "2021-05-20T21:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

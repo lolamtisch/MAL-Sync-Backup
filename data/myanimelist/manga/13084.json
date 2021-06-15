@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Artist Akuro",
+    "アーティストアクロ"
+  ],
+  "authors": [
+    "Sakurai, Ato"
+  ],
+  "id": 13084,
+  "type": "manga",
+  "title": "Artist Acro",
+  "url": "https://myanimelist.net/manga/13084/Artist_Acro",
+  "image": "https://cdn.myanimelist.net/images/manga/3/84569.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:50.000Z",
+  "updatedAt": "2020-12-31T16:33:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8ebdfc5f-a1e0-4eb2-b627-c82e5e4a8696": {
+        "authors": [
+          "SAKURAI Ato"
+        ],
+        "identifier": "8ebdfc5f-a1e0-4eb2-b627-c82e5e4a8696",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Artist Acro",
+        "url": "https://mangadex.org/title/8ebdfc5f-a1e0-4eb2-b627-c82e5e4a8696",
+        "image": "https://uploads.mangadex.org/covers/8ebdfc5f-a1e0-4eb2-b627-c82e5e4a8696/7cd7f58a-e191-4743-bf13-a9bb614232fe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13084,
+        "aniId": 43084,
+        "createdAt": "2020-10-12T16:03:43.000Z",
+        "updatedAt": "2021-06-02T16:06:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "artist_acro": {
+        "authors": [
+          "Sakurai",
+          "Ato"
+        ],
+        "identifier": "artist_acro",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Artist Acro",
+        "url": "https://manganelo.com/manga/artist_acro",
+        "image": "https://avt.mkklcdnv6.com/16/i/7-1583476893.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13084,
+        "aniId": 43084,
+        "createdAt": "2020-12-31T16:28:56.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

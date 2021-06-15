@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Pre-Spring"
+  ],
+  "authors": [
+    "Aguri Ooue"
+  ],
+  "id": 117904,
+  "malId": null,
+  "type": "manga",
+  "title": "Pre-Spring",
+  "url": "https://anilist.co/manga/117904",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117904-rvQ8wcaP7z3R.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-07T07:20:24.000Z",
+  "updatedAt": "2021-06-07T07:20:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c456ce1-ceea-49c1-92f3-ec653e22d323": {
+        "authors": [
+          "Ohue Aguri"
+        ],
+        "identifier": "6c456ce1-ceea-49c1-92f3-ec653e22d323",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pre-Spring",
+        "url": "https://mangadex.org/title/6c456ce1-ceea-49c1-92f3-ec653e22d323",
+        "image": "https://uploads.mangadex.org/covers/6c456ce1-ceea-49c1-92f3-ec653e22d323/47fc058f-b842-49b5-91c3-e6165ef33c80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117904,
+        "createdAt": "2020-10-12T16:17:22.000Z",
+        "updatedAt": "2021-06-07T07:26:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

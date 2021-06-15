@@ -1,0 +1,105 @@
+{
+  "altTitle": [
+    "Butterflies, Flowers",
+    "O Butterfly O Flower",
+    "蝶よ花よ"
+  ],
+  "authors": [
+    "Yoshihara, Yuki"
+  ],
+  "id": 3581,
+  "type": "manga",
+  "title": "Chou yo Hana yo",
+  "url": "https://myanimelist.net/manga/3581/Chou_yo_Hana_yo",
+  "image": "https://cdn.myanimelist.net/images/manga/3/87983.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:52.000Z",
+  "updatedAt": "2021-06-05T17:22:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e6d30f3f-4f48-4e1b-b341-34b80d1a85d6": {
+        "authors": [
+          "YOSHIHARA Yuki"
+        ],
+        "identifier": "e6d30f3f-4f48-4e1b-b341-34b80d1a85d6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chou yo Hana yo",
+        "url": "https://mangadex.org/title/e6d30f3f-4f48-4e1b-b341-34b80d1a85d6",
+        "image": "https://uploads.mangadex.org/covers/e6d30f3f-4f48-4e1b-b341-34b80d1a85d6/8b203264-878b-41bc-a7b2-8b060ad45b1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3581,
+        "aniId": 33581,
+        "createdAt": "2020-10-12T16:07:15.000Z",
+        "updatedAt": "2021-06-04T01:27:58.000Z",
+        "deletedAt": null
+      },
+      "8c197f32-166d-4aac-9643-2f6889a8a784": {
+        "authors": [
+          "Watanabe Asia"
+        ],
+        "identifier": "8c197f32-166d-4aac-9643-2f6889a8a784",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chou yo Hana yo",
+        "url": "https://mangadex.org/title/8c197f32-166d-4aac-9643-2f6889a8a784",
+        "image": "https://uploads.mangadex.org/covers/8c197f32-166d-4aac-9643-2f6889a8a784/4944e78b-26b9-480f-b358-f5e55ade6614.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 3581,
+        "aniId": 33581,
+        "createdAt": "2020-10-12T16:12:53.000Z",
+        "updatedAt": "2021-06-05T18:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hq918683": {
+        "authors": [],
+        "identifier": "hq918683",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Legend Of Moon Night Butterflies",
+        "url": "https://manganelo.com/manga/hq918683",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/93-hq918683.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3581,
+        "aniId": 33581,
+        "createdAt": "2020-10-12T16:23:25.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "chou_yo_hana_yo": {
+        "authors": [
+          "Yoshihara",
+          "Yuki"
+        ],
+        "identifier": "chou_yo_hana_yo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chou Yo Hana Yo",
+        "url": "https://manganelo.com/manga/chou_yo_hana_yo",
+        "image": "https://avt.mkklcdnv6temp.com/4/p/4-1583469844.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3581,
+        "aniId": 33581,
+        "createdAt": "2021-04-26T22:19:40.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

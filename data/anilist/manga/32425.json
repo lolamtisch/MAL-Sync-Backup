@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "恋病アーカイブ",
+    "Archive of Lovesickness"
+  ],
+  "authors": [
+    "Reibun Ike"
+  ],
+  "id": 32425,
+  "malId": 2425,
+  "type": "manga",
+  "title": "Koiyami Archive",
+  "url": "https://anilist.co/manga/32425",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32425-xvQjFPMcILFP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b841dc96-c314-4714-abb1-ad711b9403fc": {
+        "authors": [
+          "Ike Reibun"
+        ],
+        "identifier": "b841dc96-c314-4714-abb1-ad711b9403fc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koiyami Archive",
+        "url": "https://mangadex.org/title/b841dc96-c314-4714-abb1-ad711b9403fc",
+        "image": "https://uploads.mangadex.org/covers/b841dc96-c314-4714-abb1-ad711b9403fc/67d11d73-329a-4434-948e-84ef2cf1fbdc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2425,
+        "aniId": 32425,
+        "createdAt": "2020-10-12T16:20:26.000Z",
+        "updatedAt": "2021-06-08T00:03:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

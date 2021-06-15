@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Love Drunk",
+    "僕の可愛い酔っぱらい",
+    "My Pretty Drunkard"
+  ],
+  "authors": [
+    "Makine Kureta"
+  ],
+  "id": 101565,
+  "malId": 114191,
+  "type": "manga",
+  "title": "Boku no Kawaii Opparai",
+  "url": "https://anilist.co/manga/101565",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101565-j5Qht0W7isSd.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:08.000Z",
+  "updatedAt": "2021-05-20T14:57:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a7fd6d4-dfee-4833-988a-d8817feeaa31": {
+        "authors": [
+          "Kureta Makine"
+        ],
+        "identifier": "8a7fd6d4-dfee-4833-988a-d8817feeaa31",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Kawaii Yopparai",
+        "url": "https://mangadex.org/title/8a7fd6d4-dfee-4833-988a-d8817feeaa31",
+        "image": "https://uploads.mangadex.org/covers/8a7fd6d4-dfee-4833-988a-d8817feeaa31/8124fa04-7a4a-42a6-95e3-80e9bc99a76a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114191,
+        "aniId": 101565,
+        "createdAt": "2020-10-12T16:15:52.000Z",
+        "updatedAt": "2021-06-06T17:31:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

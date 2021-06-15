@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "本能と染色体",
+    "Honnou to Senshokutai",
+    "100 Oku Nengo no Kimi no Koe mo",
+    "Instinct and a Chromosome"
+  ],
+  "authors": [
+    "Maiko Akiyama",
+    "Haruko Okai"
+  ],
+  "id": 41317,
+  "malId": 11317,
+  "type": "manga",
+  "title": "Hyakuoku Nengo no Kimi no Koe mo",
+  "url": "https://anilist.co/manga/41317",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11317.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:16.000Z",
+  "updatedAt": "2021-06-03T15:31:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c1885445-1ff6-4272-8f4a-f476da937115": {
+        "authors": [
+          "Akiyama Maiko",
+          "Okai Haruko"
+        ],
+        "identifier": "c1885445-1ff6-4272-8f4a-f476da937115",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hyakuoku Nengo no Kimi no Koe mo",
+        "url": "https://mangadex.org/title/c1885445-1ff6-4272-8f4a-f476da937115",
+        "image": "https://uploads.mangadex.org/covers/c1885445-1ff6-4272-8f4a-f476da937115/b1aab975-5650-4a17-9996-f43f2be9cbf5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11317,
+        "aniId": 41317,
+        "createdAt": "2020-10-12T16:05:11.000Z",
+        "updatedAt": "2021-06-03T15:31:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hyakuoku_nengo_no_kimi_no_koe_mo": {
+        "authors": [
+          "Akiyama Maiko"
+        ],
+        "identifier": "hyakuoku_nengo_no_kimi_no_koe_mo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hyakuoku Nengo no Kimi no Koe mo",
+        "url": "https://fanfox.net/manga/hyakuoku_nengo_no_kimi_no_koe_mo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5050/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11317,
+        "aniId": 41317,
+        "createdAt": "2021-01-31T03:02:43.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "altTitle": [
+    "템빨",
+    "Overgeared (Team Argo)",
+    "Overgeared"
+  ],
+  "authors": [
+    "Team Argo",
+    "Saenal Park",
+    "Dong-Wook Lee"
+  ],
+  "id": 117460,
+  "malId": null,
+  "type": "manga",
+  "title": "Temppal",
+  "url": "https://anilist.co/manga/117460",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117460-46JbftfHSXoc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T08:12:57.000Z",
+  "updatedAt": "2021-06-07T21:24:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3fc308c9-4b00-4dc3-943e-1f39242bc708": {
+        "authors": [
+          "박새날",
+          "Team Argo",
+          "이동욱"
+        ],
+        "identifier": "3fc308c9-4b00-4dc3-943e-1f39242bc708",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Overgeared",
+        "url": "https://mangadex.org/title/3fc308c9-4b00-4dc3-943e-1f39242bc708",
+        "image": "https://uploads.mangadex.org/covers/3fc308c9-4b00-4dc3-943e-1f39242bc708/977d8303-5ec7-49ca-bc4e-2cb4a1b7d96a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 117460,
+        "createdAt": "2020-10-12T16:18:59.000Z",
+        "updatedAt": "2021-06-07T21:28:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "overgeared": {
+        "authors": [
+          "Park Saenal",
+          "Yoon Jun"
+        ],
+        "identifier": "overgeared",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Overgeared",
+        "url": "https://mangasee123.com/manga/Overgeared",
+        "image": "https://cover.nep.li/cover/Overgeared.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 117460,
+        "createdAt": "2020-11-13T18:53:18.000Z",
+        "updatedAt": "2021-05-22T14:11:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hw985079": {
+        "authors": [
+          "Dong Wook Lee",
+          "Team Argo"
+        ],
+        "identifier": "manga-hw985079",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Overgeared (Team Argo)",
+        "url": "https://readmanganato.com/manga-hw985079",
+        "image": "https://avt.mkklcdnv6temp.com/50/r/20-1585907319.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 117460,
+        "createdAt": "2021-05-28T20:24:33.000Z",
+        "updatedAt": "2021-05-28T20:24:33.000Z",
+        "deletedAt": null
+      },
+      "manga-hi985065": {
+        "authors": [
+          "Dong Wook Lee"
+        ],
+        "identifier": "manga-hi985065",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Overgeared",
+        "url": "https://readmanganato.com/manga-hi985065",
+        "image": "https://avt.mkklcdnv6temp.com/50/b/20-1585716010.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 117460,
+        "createdAt": "2021-05-29T01:42:33.000Z",
+        "updatedAt": "2021-05-29T17:49:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

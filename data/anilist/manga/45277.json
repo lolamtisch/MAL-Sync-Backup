@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ササナキ"
+  ],
+  "authors": [
+    "Ryuuji Gotsubo"
+  ],
+  "id": 45277,
+  "malId": 15277,
+  "type": "manga",
+  "title": "Sasanaki",
+  "url": "https://anilist.co/manga/45277",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15277.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cf9ca8da-bfb3-41d7-89aa-66ef589b8771": {
+        "authors": [
+          "GOTSUBO Ryuuji"
+        ],
+        "identifier": "cf9ca8da-bfb3-41d7-89aa-66ef589b8771",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sasanaki",
+        "url": "https://mangadex.org/title/cf9ca8da-bfb3-41d7-89aa-66ef589b8771",
+        "image": "https://uploads.mangadex.org/covers/cf9ca8da-bfb3-41d7-89aa-66ef589b8771/75f39784-8d13-4b59-b44e-817a6f86e118.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15277,
+        "aniId": 45277,
+        "createdAt": "2020-10-12T16:13:23.000Z",
+        "updatedAt": "2021-06-05T20:59:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

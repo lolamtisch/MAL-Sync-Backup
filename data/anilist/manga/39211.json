@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "パピヨン"
+  ],
+  "authors": [
+    "Reiko Shimizu",
+    "Elina Ishikawa"
+  ],
+  "id": 39211,
+  "malId": 9211,
+  "type": "manga",
+  "title": "Papillon",
+  "url": "https://anilist.co/manga/39211",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9211.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:55.000Z",
+  "updatedAt": "2021-05-20T14:40:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ab76826-e94a-4270-94e1-7a9d216f43b0": {
+        "authors": [
+          "Mutou Tetsu"
+        ],
+        "identifier": "0ab76826-e94a-4270-94e1-7a9d216f43b0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Papillon (W.E.T)",
+        "url": "https://mangadex.org/title/0ab76826-e94a-4270-94e1-7a9d216f43b0",
+        "image": "https://uploads.mangadex.org/covers/0ab76826-e94a-4270-94e1-7a9d216f43b0/85844d71-dc35-4be2-9a94-8264c1ca404b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9211,
+        "aniId": 39211,
+        "createdAt": "2020-10-12T16:19:45.000Z",
+        "updatedAt": "2021-06-07T22:33:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

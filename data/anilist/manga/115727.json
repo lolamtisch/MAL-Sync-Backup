@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "僕は幸せな夢を見る",
+    "I Have a Happy Dream"
+  ],
+  "authors": [
+    "avogado6"
+  ],
+  "id": 115727,
+  "malId": null,
+  "type": "manga",
+  "title": "Boku wa Shiawase na Yume wo Miru",
+  "url": "https://anilist.co/manga/115727",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115727-oXeWNtU3w7b3.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T08:50:15.000Z",
+  "updatedAt": "2021-06-07T08:50:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "37c12beb-378b-44b2-bfe8-4d1d5ca5937b": {
+        "authors": [
+          "avogado6"
+        ],
+        "identifier": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Have a Happy Dream",
+        "url": "https://mangadex.org/title/37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
+        "image": "https://uploads.mangadex.org/covers/37c12beb-378b-44b2-bfe8-4d1d5ca5937b/56b76750-67bf-45cd-a623-a0681b3da782.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 115727,
+        "createdAt": "2020-10-12T16:17:32.000Z",
+        "updatedAt": "2021-06-07T10:00:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

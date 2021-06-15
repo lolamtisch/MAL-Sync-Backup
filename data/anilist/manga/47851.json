@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "틴 스피릿"
+  ],
+  "authors": [
+    "Jea-Eun Kim"
+  ],
+  "id": 47851,
+  "malId": 17851,
+  "type": "manga",
+  "title": "Teen Spirit",
+  "url": "https://anilist.co/manga/47851",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17851.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:12.000Z",
+  "updatedAt": "2021-05-20T14:44:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4dc41e2f-1917-4bce-98e0-771b6c89c2e5": {
+        "authors": [
+          "Kim Jea-Eun"
+        ],
+        "identifier": "4dc41e2f-1917-4bce-98e0-771b6c89c2e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Teen Spirit",
+        "url": "https://mangadex.org/title/4dc41e2f-1917-4bce-98e0-771b6c89c2e5",
+        "image": "https://uploads.mangadex.org/covers/4dc41e2f-1917-4bce-98e0-771b6c89c2e5/3eb47823-c9ca-4cf1-8819-7225b39822a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17851,
+        "aniId": 47851,
+        "createdAt": "2020-10-12T16:02:24.000Z",
+        "updatedAt": "2021-06-02T06:39:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

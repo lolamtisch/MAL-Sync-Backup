@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Night of a Thousand Nights",
+    "幾千の夜",
+    "Second Night of a Thousand Nights",
+    "幾千之夜 第一夜",
+    "幾千の夜 第二夜",
+    "幾千の夜 最終夜"
+  ],
+  "authors": [
+    "Keiko Kinoshita"
+  ],
+  "id": 53329,
+  "malId": 23329,
+  "type": "manga",
+  "title": "Ikusen no Yoru",
+  "url": "https://anilist.co/manga/53329",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53329-4P0kg4eb6ilY.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:36.000Z",
+  "updatedAt": "2021-05-20T14:46:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "45e02b6d-1c30-4c1c-a7a1-94cfd5ad5cec": {
+        "authors": [
+          "Kinoshita Keiko"
+        ],
+        "identifier": "45e02b6d-1c30-4c1c-a7a1-94cfd5ad5cec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ikusen no Yoru",
+        "url": "https://mangadex.org/title/45e02b6d-1c30-4c1c-a7a1-94cfd5ad5cec",
+        "image": "https://uploads.mangadex.org/covers/45e02b6d-1c30-4c1c-a7a1-94cfd5ad5cec/fed9cf91-110c-40f1-b3f5-4754ac02f630.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23329,
+        "aniId": 53329,
+        "createdAt": "2020-10-12T16:07:54.000Z",
+        "updatedAt": "2021-06-04T06:05:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

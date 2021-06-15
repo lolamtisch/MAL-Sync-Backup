@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "うたえ! エーリンナ",
+    "Sing Erinna!"
+  ],
+  "authors": [
+    "Futaba Sato"
+  ],
+  "id": 101884,
+  "malId": 114292,
+  "type": "manga",
+  "title": "Utae! Erinna",
+  "url": "https://anilist.co/manga/101884",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101884-meZCnaiC9SBN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T14:49:07.000Z",
+  "updatedAt": "2021-06-05T14:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22e6aacd-db7e-4899-9daa-3a3f6197770b": {
+        "authors": [
+          "Futaba Sato"
+        ],
+        "identifier": "22e6aacd-db7e-4899-9daa-3a3f6197770b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sing, Erinna!",
+        "url": "https://mangadex.org/title/22e6aacd-db7e-4899-9daa-3a3f6197770b",
+        "image": "https://uploads.mangadex.org/covers/22e6aacd-db7e-4899-9daa-3a3f6197770b/0e664be1-552c-4dae-8947-8eb4b96448e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114292,
+        "aniId": 101884,
+        "createdAt": "2020-10-12T16:12:22.000Z",
+        "updatedAt": "2021-06-05T15:28:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

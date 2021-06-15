@@ -1,0 +1,52 @@
+{
+  "altTitle": [
+    "맛있는 스캔들",
+    "Delicious Scandal",
+    "Un Délicieux Scandale"
+  ],
+  "authors": [
+    "OMATO",
+    "Hoseop Kim",
+    "Alsueopseum"
+  ],
+  "id": 116570,
+  "malId": null,
+  "type": "manga",
+  "title": "Mas-issneun Scandal",
+  "url": "https://anilist.co/manga/116570",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116570-CVPF2QAJYfKe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T23:49:07.000Z",
+  "updatedAt": "2021-06-06T23:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fbaff6ab-8119-4766-915b-c00f03e1e562": {
+        "authors": [
+          "Lim Solee",
+          "林（主笔）",
+          "Hoseop（原作）",
+          "OMATO（编剧）",
+          "OMATO",
+          "Hoseop"
+        ],
+        "identifier": "fbaff6ab-8119-4766-915b-c00f03e1e562",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Delicious Scandal",
+        "url": "https://mangadex.org/title/fbaff6ab-8119-4766-915b-c00f03e1e562",
+        "image": "https://uploads.mangadex.org/covers/fbaff6ab-8119-4766-915b-c00f03e1e562/f4bfe38f-a672-4b20-8f33-6e2a9c01b457.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116570,
+        "createdAt": "2020-10-12T16:16:32.000Z",
+        "updatedAt": "2021-06-07T07:23:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

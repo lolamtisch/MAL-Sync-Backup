@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "五つの箱の物語",
+    "The Setting Sun",
+    "Always a Holiday with You",
+    "Pandora’s Elevator",
+    "Five Box Stories"
+  ],
+  "authors": [
+    "Ichiko Ima"
+  ],
+  "id": 40056,
+  "malId": 10056,
+  "type": "manga",
+  "title": "Itsutsu no Hako no Monogatari",
+  "url": "https://anilist.co/manga/40056",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b40056-whqxhPO3Baji.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3bc308c-d559-4dcf-bef1-9fda212b876e": {
+        "authors": [
+          "Ima Ichiko"
+        ],
+        "identifier": "b3bc308c-d559-4dcf-bef1-9fda212b876e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itsutsu no Hako no Monogatari",
+        "url": "https://mangadex.org/title/b3bc308c-d559-4dcf-bef1-9fda212b876e",
+        "image": "https://uploads.mangadex.org/covers/b3bc308c-d559-4dcf-bef1-9fda212b876e/9fdbb1b9-a0c2-46b1-880a-a283e2eef24c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10056,
+        "aniId": 40056,
+        "createdAt": "2020-10-12T16:05:58.000Z",
+        "updatedAt": "2021-06-03T16:11:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

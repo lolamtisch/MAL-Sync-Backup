@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "ゆめりあ"
+  ],
+  "id": 204,
+  "malId": 204,
+  "type": "anime",
+  "title": "Yumeria",
+  "url": "https://anilist.co/anime/204",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/204.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:34.000Z",
+  "updatedAt": "2021-05-20T14:33:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "38k8": {
+        "identifier": "38k8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yumeria (Dub)",
+        "url": "https://9anime.ru/watch/yumeria-dub.38k8",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-G2caYFcgfEA/WO83TCkuXVI/AAAAAAAAhf8/yq11zP8sgNg/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 204,
+        "aniId": 204,
+        "createdAt": "2020-10-12T15:49:44.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "qz33": {
+        "identifier": "qz33",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yumeria",
+        "url": "https://9anime.ru/watch/yumeria.qz33",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-MDElWwFr4ow/V7pvZE1QI2I/AAAAAAAA4w4/FuN61rgk4jA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 204,
+        "aniId": 204,
+        "createdAt": "2020-10-12T15:55:18.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2475": {
+        "identifier": "2475",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Yumeria",
+        "url": "https://aniwatch.me/anime/2475",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 204,
+        "aniId": 204,
+        "createdAt": "2020-10-12T15:58:26.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yumeria": {
+        "identifier": "yumeria",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yumeria",
+        "url": "https://gogoanime.so/category/yumeria",
+        "image": "https://cdnimg.xyz/images/anime/yumeria.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 204,
+        "aniId": 204,
+        "createdAt": "2020-10-12T16:02:20.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "yumeria-dub": {
+        "identifier": "yumeria-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yumeria (Dub)",
+        "url": "https://www19.gogoanime.io/category/yumeria-dub",
+        "image": "https://gogocdn.net/cover/yumeria-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 204,
+        "aniId": 204,
+        "createdAt": "2020-10-12T16:02:20.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

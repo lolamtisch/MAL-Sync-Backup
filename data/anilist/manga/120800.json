@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "첫사랑입니다만",
+    "It Is My First Love",
+    "My First Love"
+  ],
+  "authors": [
+    "Sancha",
+    "Ino"
+  ],
+  "id": 120800,
+  "malId": null,
+  "type": "manga",
+  "title": "Cheos Sarang Ibnidaman",
+  "url": "https://anilist.co/manga/120800",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120800-ufn8Wk9ZkOJh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:23:09.000Z",
+  "updatedAt": "2021-06-07T23:23:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bcfb70c6-8428-4b21-910e-6c9b31ca075d": {
+        "authors": [
+          "산차",
+          "이노"
+        ],
+        "identifier": "bcfb70c6-8428-4b21-910e-6c9b31ca075d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "It Is My First Love",
+        "url": "https://mangadex.org/title/bcfb70c6-8428-4b21-910e-6c9b31ca075d",
+        "image": "https://uploads.mangadex.org/covers/bcfb70c6-8428-4b21-910e-6c9b31ca075d/dcb21f89-00ee-4452-85f7-62676dc4e0a6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120800,
+        "createdAt": "2020-10-12T16:19:52.000Z",
+        "updatedAt": "2021-06-09T08:07:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

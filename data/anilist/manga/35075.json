@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Cherry Love",
+    "チェリーらぶ",
+    "Cheri Rabu"
+  ],
+  "authors": [
+    "Iori Shigano"
+  ],
+  "id": 35075,
+  "malId": 5075,
+  "type": "manga",
+  "title": "Cherry Love",
+  "url": "https://anilist.co/manga/35075",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5075.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "075d87cd-6af8-42e4-8107-c381c3587c4f": {
+        "authors": [
+          "Shigano Iori"
+        ],
+        "identifier": "075d87cd-6af8-42e4-8107-c381c3587c4f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cherry Love",
+        "url": "https://mangadex.org/title/075d87cd-6af8-42e4-8107-c381c3587c4f",
+        "image": "https://uploads.mangadex.org/covers/075d87cd-6af8-42e4-8107-c381c3587c4f/efd91f35-2359-4902-88af-a8f0a49a62f4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5075,
+        "aniId": 35075,
+        "createdAt": "2020-10-12T16:04:11.000Z",
+        "updatedAt": "2021-06-02T19:20:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "love_is_cherry_pink": {
+        "authors": [],
+        "identifier": "love_is_cherry_pink",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love is Cherry Pink",
+        "url": "https://manganelo.com/manga/love_is_cherry_pink",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19488-love_is_cherry_pink.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5075,
+        "aniId": 35075,
+        "createdAt": "2020-10-12T16:24:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

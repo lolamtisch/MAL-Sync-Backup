@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "3YEARS"
+  ],
+  "authors": [
+    "Rin Saitou"
+  ],
+  "id": 37389,
+  "malId": 7389,
+  "type": "manga",
+  "title": "3 Years",
+  "url": "https://anilist.co/manga/37389",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7389.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:48.000Z",
+  "updatedAt": "2021-05-20T14:39:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a63381b1-62b9-45b1-92ec-5b33b0573713": {
+        "authors": [
+          "Saito Rin"
+        ],
+        "identifier": "a63381b1-62b9-45b1-92ec-5b33b0573713",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "3 Years",
+        "url": "https://mangadex.org/title/a63381b1-62b9-45b1-92ec-5b33b0573713",
+        "image": "https://uploads.mangadex.org/covers/a63381b1-62b9-45b1-92ec-5b33b0573713/28508d94-5b8f-431c-a631-ffd904b34712.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7389,
+        "aniId": 37389,
+        "createdAt": "2020-10-12T16:03:55.000Z",
+        "updatedAt": "2021-06-02T17:24:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zk920101": {
+        "authors": [],
+        "identifier": "zk920101",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Four Years Apart",
+        "url": "https://manganelo.com/manga/zk920101",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1504-zk920101.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7389,
+        "aniId": 37389,
+        "createdAt": "2020-10-12T16:26:32.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

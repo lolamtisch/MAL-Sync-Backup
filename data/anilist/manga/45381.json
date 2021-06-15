@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "SoltyRei - The Red Lady",
+    "SoltyRei―赤の淑女―",
+    "SoltyRei ~ Aka no Shukujo"
+  ],
+  "authors": [
+    "Noboru Kimura",
+    "Kazutaka Takimiya"
+  ],
+  "id": 45381,
+  "malId": 15381,
+  "type": "manga",
+  "title": "SoltyRei - The Red Lady",
+  "url": "https://anilist.co/manga/45381",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15381.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:46.000Z",
+  "updatedAt": "2021-05-20T14:43:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9fad047-db54-4da1-b04d-6ee52dc41c42": {
+        "authors": [
+          "KIMURA Noboru",
+          "TAKIMIYA Kazutaka"
+        ],
+        "identifier": "e9fad047-db54-4da1-b04d-6ee52dc41c42",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Solty Rei -Aka no Shukujo-",
+        "url": "https://mangadex.org/title/e9fad047-db54-4da1-b04d-6ee52dc41c42",
+        "image": "https://uploads.mangadex.org/covers/e9fad047-db54-4da1-b04d-6ee52dc41c42/c8d5372b-59d3-437d-87f1-d40a2755805a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15381,
+        "aniId": 45381,
+        "createdAt": "2020-10-12T16:02:26.000Z",
+        "updatedAt": "2021-06-02T06:52:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "solty_rei": {
+        "authors": [],
+        "identifier": "solty_rei",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Solty Rei",
+        "url": "https://manganelo.com/manga/solty_rei",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19687-solty_rei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15381,
+        "aniId": 45381,
+        "createdAt": "2020-10-12T16:25:29.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

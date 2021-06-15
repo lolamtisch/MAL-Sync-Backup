@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Mushi no Yo",
+    "ムシヌユン"
+  ],
+  "authors": [
+    "Tsuru, Daisaku"
+  ],
+  "id": 96080,
+  "type": "manga",
+  "title": "Mushinuyun",
+  "url": "https://myanimelist.net/manga/96080/Mushinuyun",
+  "image": "https://cdn.myanimelist.net/images/manga/1/176252.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:24.000Z",
+  "updatedAt": "2021-06-06T06:20:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d794d976-5fad-4752-b3ad-8fcc36096bd8": {
+        "authors": [
+          "Daisaku Tsuru"
+        ],
+        "identifier": "d794d976-5fad-4752-b3ad-8fcc36096bd8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MUSHINUYUN",
+        "url": "https://mangadex.org/title/d794d976-5fad-4752-b3ad-8fcc36096bd8",
+        "image": "https://uploads.mangadex.org/covers/d794d976-5fad-4752-b3ad-8fcc36096bd8/536f71ef-a105-4aa8-be6f-039372ba706a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96080,
+        "aniId": 104783,
+        "createdAt": "2020-10-12T16:19:50.000Z",
+        "updatedAt": "2021-06-07T22:53:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "qy926144": {
+        "authors": [
+          "Daisaku",
+          "Tsuru"
+        ],
+        "identifier": "qy926144",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mushinuyun",
+        "url": "https://manganelo.com/manga/qy926144",
+        "image": "https://avt.mkklcdnv6temp.com/46/a/23-1617076753.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96080,
+        "aniId": 104783,
+        "createdAt": "2021-04-09T18:52:15.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-le988613": {
+        "authors": [
+          "Daisaku Tsuru"
+        ],
+        "identifier": "manga-le988613",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mushinuyun",
+        "url": "https://manganato.com/manga-le988613",
+        "image": "https://avt.mkklcdnv6temp.com/46/a/23-1617076753.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96080,
+        "aniId": 104783,
+        "createdAt": "2021-06-06T06:20:49.000Z",
+        "updatedAt": "2021-06-06T06:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

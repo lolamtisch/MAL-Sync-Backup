@@ -1,0 +1,55 @@
+{
+  "altTitle": [
+    "わんおふ -one off-"
+  ],
+  "id": 13283,
+  "type": "anime",
+  "title": "One Off",
+  "url": "https://myanimelist.net/anime/13283/One_Off",
+  "image": "https://cdn.myanimelist.net/images/anime/12/39661.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:39:12.000Z",
+  "updatedAt": "2021-06-14T17:57:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "zpp3": {
+        "identifier": "zpp3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Off",
+        "url": "https://9anime.ru/watch/one-off.zpp3",
+        "image": "https://static.akacdn.ru/files/images/2018/04/e384838aff13d99dd5dea58dfed3099b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13283,
+        "aniId": 13283,
+        "createdAt": "2020-10-12T15:57:15.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "one-off-ova": {
+        "identifier": "one-off-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "One Off OVA",
+        "url": "https://gogoanime.so/category/one-off-ova",
+        "image": "https://gogocdn.net/images/anime/O/One-Off-OVA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13283,
+        "aniId": 13283,
+        "createdAt": "2020-12-14T17:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

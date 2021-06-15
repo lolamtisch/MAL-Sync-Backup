@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "나는 그 남자가 누구인지 알고 있다",
+    "I Know Who He Is",
+    "I Know Who That Man Is"
+  ],
+  "authors": [
+    "So-Young Jang"
+  ],
+  "id": 47415,
+  "malId": 17415,
+  "type": "manga",
+  "title": "I Know What He Is",
+  "url": "https://anilist.co/manga/47415",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17415.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:06.000Z",
+  "updatedAt": "2021-05-20T14:44:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3db3fa6-190c-4e24-8ed3-a2f76b6d9198": {
+        "authors": [
+          "Jang So-Young"
+        ],
+        "identifier": "c3db3fa6-190c-4e24-8ed3-a2f76b6d9198",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Know What He Is",
+        "url": "https://mangadex.org/title/c3db3fa6-190c-4e24-8ed3-a2f76b6d9198",
+        "image": "https://uploads.mangadex.org/covers/c3db3fa6-190c-4e24-8ed3-a2f76b6d9198/617a1e6b-dfbe-494d-8471-ac6af46b1dd5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17415,
+        "aniId": 47415,
+        "createdAt": "2020-10-12T16:09:58.000Z",
+        "updatedAt": "2021-06-04T21:26:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

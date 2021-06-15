@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "The Emperor's Partner",
+    "황제의 반려",
+    "The Emperor's Companion"
+  ],
+  "authors": [
+    "Surim Lee",
+    "Bammanjyu",
+    "ASSAM"
+  ],
+  "id": 111112,
+  "malId": null,
+  "type": "manga",
+  "title": "Hwangjeui Ballyeo",
+  "url": "https://anilist.co/manga/111112",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111112-TkSHK32sQetM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-25T13:08:18.000Z",
+  "updatedAt": "2021-05-25T13:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5c4ed3a8-7806-4bae-bdc3-87965eea0c31": {
+        "authors": [
+          "ASSAM",
+          "Night Manju",
+          "Lee Surim"
+        ],
+        "identifier": "5c4ed3a8-7806-4bae-bdc3-87965eea0c31",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Emperor's Companion",
+        "url": "https://mangadex.org/title/5c4ed3a8-7806-4bae-bdc3-87965eea0c31",
+        "image": "https://uploads.mangadex.org/covers/5c4ed3a8-7806-4bae-bdc3-87965eea0c31/039cdac8-8b1a-40f4-a1ad-45280bba6db2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111112,
+        "createdAt": "2020-10-12T16:16:55.000Z",
+        "updatedAt": "2021-06-07T07:31:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fs982675": {
+        "authors": [
+          "Lee Surim",
+          "Assam",
+          "Night Manju"
+        ],
+        "identifier": "manga-fs982675",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Emperor's Companion",
+        "url": "https://readmanganato.com/manga-fs982675",
+        "image": "https://avt.mkklcdnv6temp.com/10/j/19-1583499485.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 111112,
+        "createdAt": "2021-05-31T13:26:18.000Z",
+        "updatedAt": "2021-05-31T13:26:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

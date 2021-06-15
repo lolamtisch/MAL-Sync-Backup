@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "あなたがわたしと暮らしたら"
+  ],
+  "authors": [
+    "Kanan Yamada"
+  ],
+  "id": 61097,
+  "malId": 31097,
+  "type": "manga",
+  "title": "Anata ga Watashi to Kurashitara",
+  "url": "https://anilist.co/manga/61097",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b61097-ursCzzJ5Uhsh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:46.000Z",
+  "updatedAt": "2021-05-20T14:47:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ce7421e-949c-407b-8d47-4dd996763233": {
+        "authors": [
+          "YAMADA Kanan"
+        ],
+        "identifier": "4ce7421e-949c-407b-8d47-4dd996763233",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Anata ga Watashi to Kurashitara",
+        "url": "https://mangadex.org/title/4ce7421e-949c-407b-8d47-4dd996763233",
+        "image": "https://uploads.mangadex.org/covers/4ce7421e-949c-407b-8d47-4dd996763233/88008182-9a6e-4d1c-8d6d-1d511bceb3a1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31097,
+        "aniId": 61097,
+        "createdAt": "2020-10-12T16:09:19.000Z",
+        "updatedAt": "2021-06-04T16:41:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

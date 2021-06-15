@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 56034,
+  "malId": 26034,
+  "type": "manga",
+  "title": "Juushin Liger",
+  "url": "https://anilist.co/manga/56034",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26034.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:58.000Z",
+  "updatedAt": "2021-05-20T14:46:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8102d854-8517-445a-8745-b42a53755d6d": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "8102d854-8517-445a-8745-b42a53755d6d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Juushin Liger",
+        "url": "https://mangadex.org/title/8102d854-8517-445a-8745-b42a53755d6d",
+        "image": "https://uploads.mangadex.org/covers/8102d854-8517-445a-8745-b42a53755d6d/9adf6534-511a-4ae0-98ad-6ab9aa649076.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26034,
+        "aniId": 56034,
+        "createdAt": "2020-10-12T16:05:52.000Z",
+        "updatedAt": "2021-06-03T15:32:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

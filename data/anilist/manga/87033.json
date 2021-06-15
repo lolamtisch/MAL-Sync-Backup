@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "まめ戦国BASARA"
+  ],
+  "authors": [
+    "Youichi Katou",
+    "Sumeragi"
+  ],
+  "id": 87033,
+  "malId": 65151,
+  "type": "manga",
+  "title": "Mame Sengoku Basara",
+  "url": "https://anilist.co/manga/87033",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57033-WUuEUgGmfQCf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:52.000Z",
+  "updatedAt": "2021-05-20T14:50:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22ec3e3d-146c-4354-a5b9-309f1fdf71cd": {
+        "authors": [
+          "Katou Youichi",
+          "Sumeragi"
+        ],
+        "identifier": "22ec3e3d-146c-4354-a5b9-309f1fdf71cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mame Sengoku Basara",
+        "url": "https://mangadex.org/title/22ec3e3d-146c-4354-a5b9-309f1fdf71cd",
+        "image": "https://uploads.mangadex.org/covers/22ec3e3d-146c-4354-a5b9-309f1fdf71cd/545bf6ee-c16c-43b6-870a-2efe4823fc83.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65151,
+        "aniId": 87033,
+        "createdAt": "2020-10-12T16:07:04.000Z",
+        "updatedAt": "2021-06-04T00:06:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "カリュクス"
+  ],
+  "authors": [
+    "Sesuna Mikabe"
+  ],
+  "id": 90094,
+  "malId": 65045,
+  "type": "manga",
+  "title": "Kalyx",
+  "url": "https://anilist.co/manga/90094",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90094-FV4LRgK992NG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:52.000Z",
+  "updatedAt": "2021-05-20T14:50:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e16a980c-22c9-412f-b369-7d50ac37917a": {
+        "authors": [
+          "Mikabe Sesuna"
+        ],
+        "identifier": "e16a980c-22c9-412f-b369-7d50ac37917a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kalyx",
+        "url": "https://mangadex.org/title/e16a980c-22c9-412f-b369-7d50ac37917a",
+        "image": "https://uploads.mangadex.org/covers/e16a980c-22c9-412f-b369-7d50ac37917a/08b9550e-6cca-48ad-aa58-3e817ea63c2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65045,
+        "aniId": 90094,
+        "createdAt": "2020-10-12T16:10:44.000Z",
+        "updatedAt": "2021-06-05T02:59:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kalyx": {
+        "authors": [
+          "Mikabe",
+          "Sesuna"
+        ],
+        "identifier": "kalyx",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kalyx",
+        "url": "https://manganelo.com/manga/kalyx",
+        "image": "https://avt.mkklcdnv6temp.com/27/u/15-1583492456.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65045,
+        "aniId": 90094,
+        "createdAt": "2021-03-04T14:51:36.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kalyx": {
+        "authors": [
+          "MIKABE Sesuna"
+        ],
+        "identifier": "kalyx",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kalyx",
+        "url": "https://mangasee123.com/manga/Kalyx",
+        "image": "https://cover.nep.li/cover/Kalyx.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65045,
+        "aniId": 90094,
+        "createdAt": "2021-03-12T03:39:45.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

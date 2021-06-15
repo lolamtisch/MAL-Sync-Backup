@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Andante",
+    "アンダンテ"
+  ],
+  "authors": [
+    "Miho Obana"
+  ],
+  "id": 30831,
+  "malId": 831,
+  "type": "manga",
+  "title": "Andante",
+  "url": "https://anilist.co/manga/30831",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/831.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-05-20T14:35:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eff40a52-dc19-4f4d-81eb-f27e17444f58": {
+        "authors": [
+          "OBANA Miho"
+        ],
+        "identifier": "eff40a52-dc19-4f4d-81eb-f27e17444f58",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Andante",
+        "url": "https://mangadex.org/title/eff40a52-dc19-4f4d-81eb-f27e17444f58",
+        "image": "https://uploads.mangadex.org/covers/eff40a52-dc19-4f4d-81eb-f27e17444f58/fe96ff5a-813d-43c0-a17d-8b2801977b48.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 831,
+        "aniId": 30831,
+        "createdAt": "2020-10-12T16:05:22.000Z",
+        "updatedAt": "2021-06-03T12:04:07.000Z",
+        "deletedAt": null
+      },
+      "ae3f741e-64fd-45f6-bc5c-532895e4dff7": {
+        "authors": [
+          "Ogi",
+          "SHAMROCK (Circle)"
+        ],
+        "identifier": "ae3f741e-64fd-45f6-bc5c-532895e4dff7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Live! - Kimi to Andante (Doujinshi)",
+        "url": "https://mangadex.org/title/ae3f741e-64fd-45f6-bc5c-532895e4dff7",
+        "image": "https://uploads.mangadex.org/covers/ae3f741e-64fd-45f6-bc5c-532895e4dff7/b9f89a60-06cc-45db-9ad8-7868cacc44ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 831,
+        "aniId": 30831,
+        "createdAt": "2020-10-12T16:19:07.000Z",
+        "updatedAt": "2021-06-07T21:24:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

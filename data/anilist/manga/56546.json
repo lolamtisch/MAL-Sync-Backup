@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ゆすらうめ"
+  ],
+  "authors": [
+    "Ume Aoki"
+  ],
+  "id": 56546,
+  "malId": 26546,
+  "type": "manga",
+  "title": "Yusuraume",
+  "url": "https://anilist.co/manga/56546",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26546.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:04.000Z",
+  "updatedAt": "2021-05-20T14:47:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2ce7e8b1-6587-4d02-a6b8-cd0462f6b2ff": {
+        "authors": [
+          "Aoki Ume"
+        ],
+        "identifier": "2ce7e8b1-6587-4d02-a6b8-cd0462f6b2ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yusuraume",
+        "url": "https://mangadex.org/title/2ce7e8b1-6587-4d02-a6b8-cd0462f6b2ff",
+        "image": "https://uploads.mangadex.org/covers/2ce7e8b1-6587-4d02-a6b8-cd0462f6b2ff/964587e2-d3de-401b-b2e3-3b80b0831c80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26546,
+        "aniId": 56546,
+        "createdAt": "2020-10-12T16:13:50.000Z",
+        "updatedAt": "2021-06-06T00:28:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

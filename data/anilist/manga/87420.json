@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "知ってるよ。",
+    "我最懂你的心",
+    "Shitteru yo"
+  ],
+  "authors": [
+    "Hinako"
+  ],
+  "id": 87420,
+  "malId": 85835,
+  "type": "manga",
+  "title": "Shitteru yo.",
+  "url": "https://anilist.co/manga/87420",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87420-aDu6znVv4D2u.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:38.000Z",
+  "updatedAt": "2021-05-20T14:52:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c03dad44-e056-44ca-b76c-968a1b96bb1c": {
+        "authors": [
+          "Hinako (ひなこ)"
+        ],
+        "identifier": "c03dad44-e056-44ca-b76c-968a1b96bb1c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shitteru yo",
+        "url": "https://mangadex.org/title/c03dad44-e056-44ca-b76c-968a1b96bb1c",
+        "image": "https://uploads.mangadex.org/covers/c03dad44-e056-44ca-b76c-968a1b96bb1c/c82afe48-32f9-48e9-9f00-11f499e779ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85835,
+        "aniId": 87420,
+        "createdAt": "2020-10-12T16:07:52.000Z",
+        "updatedAt": "2021-06-04T05:54:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shitteru_yo": {
+        "authors": [
+          "Hinako"
+        ],
+        "identifier": "shitteru_yo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shitteru Yo.",
+        "url": "https://manganelo.com/manga/shitteru_yo",
+        "image": "https://avt.mkklcdnv6temp.com/34/s/2-1583467034.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85835,
+        "aniId": 87420,
+        "createdAt": "2021-05-12T12:25:32.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

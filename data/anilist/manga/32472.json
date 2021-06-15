@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ツアー・シャングリラ",
+    "Safari"
+  ],
+  "authors": [
+    "Shuuko Nishimura"
+  ],
+  "id": 32472,
+  "malId": 2472,
+  "type": "manga",
+  "title": "Tour Shangri-La",
+  "url": "https://anilist.co/manga/32472",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32472-EVJKlblh72L7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b7e676d1-1abd-4a4b-9aa8-ec3741ee2438": {
+        "authors": [
+          "Nishimura Shuuko"
+        ],
+        "identifier": "b7e676d1-1abd-4a4b-9aa8-ec3741ee2438",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tour Shangri-La",
+        "url": "https://mangadex.org/title/b7e676d1-1abd-4a4b-9aa8-ec3741ee2438",
+        "image": "https://uploads.mangadex.org/covers/b7e676d1-1abd-4a4b-9aa8-ec3741ee2438/77392c72-3cc3-444a-8534-661808911c0c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2472,
+        "aniId": 32472,
+        "createdAt": "2020-10-12T16:13:06.000Z",
+        "updatedAt": "2021-06-05T18:42:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

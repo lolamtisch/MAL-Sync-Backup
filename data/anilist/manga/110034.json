@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ヒヨコ爆弾",
+    "Chick Bomb"
+  ],
+  "authors": [
+    "Saburic"
+  ],
+  "id": 110034,
+  "malId": 110109,
+  "type": "manga",
+  "title": "Hiyoko Bakudan",
+  "url": "https://anilist.co/manga/110034",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110034-l7jWMrvROFmJ.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:56:33.000Z",
+  "updatedAt": "2021-06-08T07:56:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fd2bb15d-9b3c-42d2-9c28-c3660d22b63a": {
+        "authors": [
+          "Sabu"
+        ],
+        "identifier": "fd2bb15d-9b3c-42d2-9c28-c3660d22b63a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chick Bomb",
+        "url": "https://mangadex.org/title/fd2bb15d-9b3c-42d2-9c28-c3660d22b63a",
+        "image": "https://uploads.mangadex.org/covers/fd2bb15d-9b3c-42d2-9c28-c3660d22b63a/192d8044-0c42-4a4a-87e4-c963137e1765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110109,
+        "aniId": 110034,
+        "createdAt": "2020-11-25T11:32:10.000Z",
+        "updatedAt": "2021-06-08T08:46:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

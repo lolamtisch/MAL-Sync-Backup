@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Mr. Blue",
+    "Mr.マロウブルー"
+  ],
+  "authors": [
+    "Samamiya, Akaza"
+  ],
+  "id": 126926,
+  "type": "manga",
+  "title": "Mr. Mallow Blue",
+  "url": "https://myanimelist.net/manga/126926/Mr_Mallow_Blue",
+  "image": "https://cdn.myanimelist.net/images/manga/3/238180.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-04-16T14:44:55.000Z",
+  "updatedAt": "2021-06-07T22:23:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e7c6d22-dfe4-462f-9d31-298313543bdb": {
+        "authors": [
+          "Samamiya Akaza"
+        ],
+        "identifier": "3e7c6d22-dfe4-462f-9d31-298313543bdb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mr. Mallow Blue",
+        "url": "https://mangadex.org/title/3e7c6d22-dfe4-462f-9d31-298313543bdb",
+        "image": "https://uploads.mangadex.org/covers/3e7c6d22-dfe4-462f-9d31-298313543bdb/40c25182-d348-47ba-b02e-5325d76a6d6c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126926,
+        "aniId": 121951,
+        "createdAt": "2020-10-12T16:19:21.000Z",
+        "updatedAt": "2021-06-08T00:49:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mr_mallow_blue": {
+        "authors": [
+          "SAMAMIYA Akaza"
+        ],
+        "identifier": "mr_mallow_blue",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mr. Mallow Blue",
+        "url": "https://fanfox.net/manga/mr_mallow_blue/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35407/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126926,
+        "aniId": 121951,
+        "createdAt": "2021-04-16T14:44:58.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

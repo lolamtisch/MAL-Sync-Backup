@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Horobi"
+  ],
+  "authors": [
+    "Yoshihisa Tagami"
+  ],
+  "id": 43395,
+  "malId": 13395,
+  "type": "manga",
+  "title": "Horobi",
+  "url": "https://anilist.co/manga/43395",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13395.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7dc0155e-2b7c-4651-97d9-cdbf72c5b566": {
+        "authors": [
+          "Tagami Yoshihisa"
+        ],
+        "identifier": "7dc0155e-2b7c-4651-97d9-cdbf72c5b566",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Horobi",
+        "url": "https://mangadex.org/title/7dc0155e-2b7c-4651-97d9-cdbf72c5b566",
+        "image": "https://uploads.mangadex.org/covers/7dc0155e-2b7c-4651-97d9-cdbf72c5b566/cae02711-81bf-42bb-b880-de4bd449d317.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13395,
+        "aniId": 43395,
+        "createdAt": "2020-10-12T16:15:46.000Z",
+        "updatedAt": "2021-06-06T16:38:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "A Thousand Flowers",
+    "ミル・フルール",
+    "Les Mille Fleurs"
+  ],
+  "authors": [
+    "Nami Akimoto"
+  ],
+  "id": 44283,
+  "malId": 14283,
+  "type": "manga",
+  "title": "Miru Furuuru",
+  "url": "https://anilist.co/manga/44283",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14283.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:45.000Z",
+  "updatedAt": "2021-05-20T14:42:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8778f9f8-bef3-4395-a74a-3378184b25f6": {
+        "authors": [
+          "Akimoto Nami"
+        ],
+        "identifier": "8778f9f8-bef3-4395-a74a-3378184b25f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Les Mille Fleurs",
+        "url": "https://mangadex.org/title/8778f9f8-bef3-4395-a74a-3378184b25f6",
+        "image": "https://uploads.mangadex.org/covers/8778f9f8-bef3-4395-a74a-3378184b25f6/c183b3f0-9b31-4cfa-8490-b25b38333d26.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14283,
+        "aniId": 44283,
+        "createdAt": "2020-10-12T16:06:26.000Z",
+        "updatedAt": "2021-06-03T19:39:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

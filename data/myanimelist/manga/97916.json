@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Kabaneri of the Iron Fortress",
+    "甲鉄城のカバネリ"
+  ],
+  "authors": [
+    "Yoshida, Shirou"
+  ],
+  "id": 97916,
+  "type": "manga",
+  "title": "Koutetsujou no Kabaneri",
+  "url": "https://myanimelist.net/manga/97916/Koutetsujou_no_Kabaneri",
+  "image": "https://cdn.myanimelist.net/images/manga/1/186860.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:29.000Z",
+  "updatedAt": "2021-05-16T06:25:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "94c66a5c-c87d-45ab-8f09-409805745b8e": {
+        "authors": [
+          "Wit Studio"
+        ],
+        "identifier": "94c66a5c-c87d-45ab-8f09-409805745b8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koutetsujou no Kabaneri",
+        "url": "https://mangadex.org/title/94c66a5c-c87d-45ab-8f09-409805745b8e",
+        "image": "https://uploads.mangadex.org/covers/94c66a5c-c87d-45ab-8f09-409805745b8e/f68ae19f-2088-4cfc-9572-2364bb2755aa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97916,
+        "aniId": 104517,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:24:28.000Z",
+        "deletedAt": null
+      },
+      "fd29e4fe-482d-4564-9985-39c553822334": {
+        "authors": [
+          "Serizawa Nae",
+          "tcnc (Circle)"
+        ],
+        "identifier": "fd29e4fe-482d-4564-9985-39c553822334",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koutetsujou no Kabaneri - Yofukashi no Neon Light (Doujinshi)",
+        "url": "https://mangadex.org/title/fd29e4fe-482d-4564-9985-39c553822334",
+        "image": "https://uploads.mangadex.org/covers/fd29e4fe-482d-4564-9985-39c553822334/fe3d75b3-f9cb-4898-86c9-4f7c03f83f26.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97916,
+        "aniId": 104517,
+        "createdAt": "2020-10-12T16:19:47.000Z",
+        "updatedAt": "2021-06-07T22:35:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

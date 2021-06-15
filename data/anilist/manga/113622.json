@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "あさこ",
+    "浅子"
+  ],
+  "authors": [
+    "Morohe Yoshida"
+  ],
+  "id": 113622,
+  "malId": 124174,
+  "type": "manga",
+  "title": "Asako",
+  "url": "https://anilist.co/manga/113622",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113622-WC8s0SI8ZH5f.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:03.000Z",
+  "updatedAt": "2021-05-20T14:59:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3d839cd9-1950-405c-b71f-9abbd7443058": {
+        "authors": [
+          "Yoshida Morohe"
+        ],
+        "identifier": "3d839cd9-1950-405c-b71f-9abbd7443058",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Asako",
+        "url": "https://mangadex.org/title/3d839cd9-1950-405c-b71f-9abbd7443058",
+        "image": "https://uploads.mangadex.org/covers/3d839cd9-1950-405c-b71f-9abbd7443058/b7a5ebe4-f47c-43f0-bc1e-07748865a577.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124174,
+        "aniId": 113622,
+        "createdAt": "2020-10-12T16:17:58.000Z",
+        "updatedAt": "2021-06-07T12:45:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gf922106": {
+        "authors": [],
+        "identifier": "gf922106",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Asako",
+        "url": "https://manganelo.com/manga/gf922106",
+        "image": "https://avt.mkklcdnv6.com/31/h/20-1583502229.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124174,
+        "aniId": 113622,
+        "createdAt": "2020-10-12T16:23:05.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

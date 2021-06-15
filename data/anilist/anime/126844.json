@@ -1,0 +1,35 @@
+{
+  "altTitle": [],
+  "id": 126844,
+  "malId": 42585,
+  "type": "anime",
+  "title": "Black Cat",
+  "url": "https://anilist.co/anime/126844",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126844-fgOtOEpQBqIQ.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:08.000Z",
+  "updatedAt": "2021-05-20T14:46:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Twistmoe": {
+      "black-cat": {
+        "identifier": "black-cat",
+        "type": "anime",
+        "page": "Twistmoe",
+        "title": "Black Cat",
+        "url": "https://twist.moe/a/black-cat/1",
+        "image": null,
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42585,
+        "aniId": 126844,
+        "createdAt": "2020-10-24T03:58:58.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "여자친구만들고파!",
+    "I want to make a girlfriend!",
+    "I Need a GF!",
+    "I Need a Girlfriend!"
+  ],
+  "authors": [
+    "Byung-min Rue",
+    "Hyun-Joon Bahk"
+  ],
+  "id": 44545,
+  "malId": 14545,
+  "type": "manga",
+  "title": "Need a Girl!",
+  "url": "https://anilist.co/manga/44545",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/44545-sbe0o26uX1sq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:38.000Z",
+  "updatedAt": "2021-05-20T14:43:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7ae17bfb-0dbe-4961-aab6-4c4f8fa5acb0": {
+        "authors": [
+          "Rue Byung-Min",
+          "Park Hyeong-jun"
+        ],
+        "identifier": "7ae17bfb-0dbe-4961-aab6-4c4f8fa5acb0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Need a Girl",
+        "url": "https://mangadex.org/title/7ae17bfb-0dbe-4961-aab6-4c4f8fa5acb0",
+        "image": "https://uploads.mangadex.org/covers/7ae17bfb-0dbe-4961-aab6-4c4f8fa5acb0/51507202-8694-4568-9adc-5eb24a8e741f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14545,
+        "aniId": 44545,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:19:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "need-a-girl": {
+        "authors": [
+          "BAHK Hyun-Joon",
+          "RUE Byung-min"
+        ],
+        "identifier": "need-a-girl",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Need a Girl",
+        "url": "https://mangasee123.com/manga/Need-A-Girl",
+        "image": "https://cover.nep.li/cover/Need-A-Girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14545,
+        "aniId": 44545,
+        "createdAt": "2021-02-01T18:04:50.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "need_a_girl": {
+        "authors": [
+          "RUE Byung-min"
+        ],
+        "identifier": "need_a_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Need a Girl",
+        "url": "https://fanfox.net/manga/need_a_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6110/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14545,
+        "aniId": 44545,
+        "createdAt": "2021-04-10T03:21:01.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

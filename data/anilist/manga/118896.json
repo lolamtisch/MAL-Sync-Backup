@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "왕자놀이",
+    "Wangjanol-i",
+    "Prince Game"
+  ],
+  "authors": [
+    "Kyeong-ok Kang"
+  ],
+  "id": 118896,
+  "malId": null,
+  "type": "manga",
+  "title": "Wajanori",
+  "url": "https://anilist.co/manga/118896",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118896-7jnkbZPdIj7K.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-28T20:23:33.000Z",
+  "updatedAt": "2021-05-28T20:23:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2ec7a803-5042-4018-bcc2-530dfc61cb0d": {
+        "authors": [
+          "Kyeong-Ok Kang"
+        ],
+        "identifier": "2ec7a803-5042-4018-bcc2-530dfc61cb0d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Prince Game",
+        "url": "https://mangadex.org/title/2ec7a803-5042-4018-bcc2-530dfc61cb0d",
+        "image": "https://uploads.mangadex.org/covers/2ec7a803-5042-4018-bcc2-530dfc61cb0d/4d04c1ca-16d7-4875-b5ae-592953a29bbc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118896,
+        "createdAt": "2020-10-12T16:11:11.000Z",
+        "updatedAt": "2021-06-05T08:33:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

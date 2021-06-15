@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "ワンパンマン",
+    "One-Punch Man (Original)",
+    "One Punch-Man (Original)",
+    "Wanpanman"
+  ],
+  "authors": [
+    "ONE"
+  ],
+  "id": 85364,
+  "malId": null,
+  "type": "manga",
+  "title": "One Punch Man",
+  "url": "https://anilist.co/manga/85364",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85364-O28PUKbABg8y.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T00:12:58.000Z",
+  "updatedAt": "2021-05-22T00:12:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b7d069cb-4ab9-4c21-a20b-38f7c269be4e": {
+        "authors": [
+          "ONE"
+        ],
+        "identifier": "b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One Punch Man (Webcomic/Original)",
+        "url": "https://mangadex.org/title/b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
+        "image": "https://uploads.mangadex.org/covers/b7d069cb-4ab9-4c21-a20b-38f7c269be4e/528d4c46-0649-4b59-8ee8-bc5120a35f32.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 85364,
+        "createdAt": "2020-10-12T16:06:23.000Z",
+        "updatedAt": "2021-06-03T19:59:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

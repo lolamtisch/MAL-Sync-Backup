@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "The Sand Prison's captive"
+  ],
+  "authors": [
+    "Ryou Sakura"
+  ],
+  "id": 32547,
+  "malId": 2547,
+  "type": "manga",
+  "title": "Sarou no Ryoshuu",
+  "url": "https://anilist.co/manga/32547",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2547.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ff417c0-4117-426d-a51a-ede37da3491f": {
+        "authors": [
+          "Sakura Ryou"
+        ],
+        "identifier": "5ff417c0-4117-426d-a51a-ede37da3491f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sarou no Ryoshuu",
+        "url": "https://mangadex.org/title/5ff417c0-4117-426d-a51a-ede37da3491f",
+        "image": "https://uploads.mangadex.org/covers/5ff417c0-4117-426d-a51a-ede37da3491f/5f4d3805-db0b-4b5f-b69b-e7125c1aabd8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2547,
+        "aniId": 32547,
+        "createdAt": "2020-10-12T16:21:45.000Z",
+        "updatedAt": "2021-06-08T03:01:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sarou_no_ryoshuu": {
+        "authors": [],
+        "identifier": "sarou_no_ryoshuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sarou No Ryoshuu",
+        "url": "https://manganelo.com/manga/sarou_no_ryoshuu",
+        "image": "https://avt.mkklcdnv6.com/49/y/11-1583485824.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2547,
+        "aniId": 32547,
+        "createdAt": "2020-10-12T16:25:18.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

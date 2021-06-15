@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "推しに嘘をついて近づいてしまいました。"
+  ],
+  "authors": [
+    "Yui Arimura"
+  ],
+  "id": 119749,
+  "malId": null,
+  "type": "manga",
+  "title": "Oshi ni Uso wo Tsuite Chikadzuite Shimaimashita.",
+  "url": "https://anilist.co/manga/119749",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119749-kQnZQ2l3dJ2p.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:23:50.000Z",
+  "updatedAt": "2021-06-07T23:23:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "43e16040-b56b-4c30-990d-319e2a896216": {
+        "authors": [
+          "Arimura Yui"
+        ],
+        "identifier": "43e16040-b56b-4c30-990d-319e2a896216",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Lied to My Idol to Get Closer to Him",
+        "url": "https://mangadex.org/title/43e16040-b56b-4c30-990d-319e2a896216",
+        "image": "https://uploads.mangadex.org/covers/43e16040-b56b-4c30-990d-319e2a896216/07d792f4-99ae-46de-afdf-48920df114ca.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119749,
+        "createdAt": "2020-10-12T16:20:00.000Z",
+        "updatedAt": "2021-06-08T00:45:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

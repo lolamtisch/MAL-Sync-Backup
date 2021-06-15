@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "フライングバニィ"
+  ],
+  "authors": [
+    "Yuki Fujitsuka"
+  ],
+  "id": 44511,
+  "malId": 14511,
+  "type": "manga",
+  "title": "Flying Bunny",
+  "url": "https://anilist.co/manga/44511",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14511.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:46.000Z",
+  "updatedAt": "2021-05-20T14:42:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "feb05ef8-e842-44a8-ba05-5a9bea9e69f7": {
+        "authors": [
+          "Fujitsuka Yuki"
+        ],
+        "identifier": "feb05ef8-e842-44a8-ba05-5a9bea9e69f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flying Bunny",
+        "url": "https://mangadex.org/title/feb05ef8-e842-44a8-ba05-5a9bea9e69f7",
+        "image": "https://uploads.mangadex.org/covers/feb05ef8-e842-44a8-ba05-5a9bea9e69f7/fe52574c-875a-4062-93fd-7478c3b5827e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14511,
+        "aniId": 44511,
+        "createdAt": "2020-10-12T16:03:32.000Z",
+        "updatedAt": "2021-06-02T14:44:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "flying_bunny": {
+        "authors": [
+          "Fujitsuka",
+          "Yuki"
+        ],
+        "identifier": "flying_bunny",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Flying Bunny",
+        "url": "https://manganelo.com/manga/flying_bunny",
+        "image": "https://avt.mkklcdnv6temp.com/24/q/7-1583477181.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14511,
+        "aniId": 44511,
+        "createdAt": "2021-04-16T12:44:18.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ヒミツの薔薇十字団"
+  ],
+  "authors": [
+    "Hideki"
+  ],
+  "id": 69531,
+  "malId": 39531,
+  "type": "manga",
+  "title": "Himitsu no Bara Juujidan",
+  "url": "https://anilist.co/manga/69531",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx69531-wp5VxNeAIJvV.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba2f434f-adec-48ae-bcb3-1ec1daf298ce": {
+        "authors": [
+          "Hideki"
+        ],
+        "identifier": "ba2f434f-adec-48ae-bcb3-1ec1daf298ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himitsu no Bara Juujidan",
+        "url": "https://mangadex.org/title/ba2f434f-adec-48ae-bcb3-1ec1daf298ce",
+        "image": "https://uploads.mangadex.org/covers/ba2f434f-adec-48ae-bcb3-1ec1daf298ce/21648447-344d-4b43-9350-f77b68bfb8f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39531,
+        "aniId": 69531,
+        "createdAt": "2020-10-12T16:04:44.000Z",
+        "updatedAt": "2021-06-02T23:06:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "himitsu-no-bara-juujidan": {
+        "authors": [
+          "Hideki"
+        ],
+        "identifier": "himitsu-no-bara-juujidan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Himitsu no Bara Juujidan",
+        "url": "https://mangasee123.com/manga/Himitsu-No-Bara-Juujidan",
+        "image": "https://cover.nep.li/cover/Himitsu-No-Bara-Juujidan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39531,
+        "aniId": 69531,
+        "createdAt": "2021-04-04T12:38:19.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Hisami Shimada"
+  ],
+  "id": 32367,
+  "malId": 2367,
+  "type": "manga",
+  "title": "Futeki ni Romance",
+  "url": "https://anilist.co/manga/32367",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2367.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:06.000Z",
+  "updatedAt": "2021-05-20T14:37:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b0022bfc-fb14-4c50-a633-68b64d92dd94": {
+        "authors": [
+          "Shimada Hisami"
+        ],
+        "identifier": "b0022bfc-fb14-4c50-a633-68b64d92dd94",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futeki ni Romance",
+        "url": "https://mangadex.org/title/b0022bfc-fb14-4c50-a633-68b64d92dd94",
+        "image": "https://uploads.mangadex.org/covers/b0022bfc-fb14-4c50-a633-68b64d92dd94/f4cf0711-2789-461b-b5e3-60f57a6d5910.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2367,
+        "aniId": 32367,
+        "createdAt": "2020-10-12T16:20:38.000Z",
+        "updatedAt": "2021-06-08T00:31:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "futeki_ni_romance": {
+        "authors": [
+          "SHIMADA Hisami"
+        ],
+        "identifier": "futeki_ni_romance",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Futeki ni Romance",
+        "url": "https://fanfox.net/manga/futeki_ni_romance/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5267/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2367,
+        "aniId": 32367,
+        "createdAt": "2021-06-04T01:20:19.000Z",
+        "updatedAt": "2021-06-04T01:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

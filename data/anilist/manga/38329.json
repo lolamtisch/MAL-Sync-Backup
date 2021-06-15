@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "魔法株式会社",
+    "Magic Company"
+  ],
+  "authors": [
+    "Anri Sakano"
+  ],
+  "id": 38329,
+  "malId": 8329,
+  "type": "manga",
+  "title": "Mahou Kabushikigaisha",
+  "url": "https://anilist.co/manga/38329",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38329-MAHHzNsgzjVL.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4d5018c5-f720-40e0-b302-aea25dbd0f6e": {
+        "authors": [
+          "SAKANO Anri"
+        ],
+        "identifier": "4d5018c5-f720-40e0-b302-aea25dbd0f6e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Kabushikigaisha",
+        "url": "https://mangadex.org/title/4d5018c5-f720-40e0-b302-aea25dbd0f6e",
+        "image": "https://uploads.mangadex.org/covers/4d5018c5-f720-40e0-b302-aea25dbd0f6e/d52e1067-9509-4d1e-b21e-9a957aaec75c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8329,
+        "aniId": 38329,
+        "createdAt": "2020-10-12T16:05:27.000Z",
+        "updatedAt": "2021-06-03T12:42:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

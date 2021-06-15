@@ -1,0 +1,38 @@
+{
+  "altTitle": [
+    "テンカウント",
+    "10 Count"
+  ],
+  "id": 101387,
+  "malId": 37616,
+  "type": "anime",
+  "title": "Ten Count",
+  "url": "https://anilist.co/anime/101387",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101387-IM1sW2XhBT9S.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:38.000Z",
+  "updatedAt": "2021-05-20T14:44:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Aniwatch": {
+      "2408": {
+        "identifier": "2408",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Ten Count",
+        "url": "https://aniwatch.me/anime/2408",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37616,
+        "aniId": 101387,
+        "createdAt": "2020-10-12T15:58:24.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

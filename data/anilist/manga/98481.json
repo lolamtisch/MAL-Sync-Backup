@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "額装"
+  ],
+  "authors": [
+    "Nodoka Tsurimaki"
+  ],
+  "id": 98481,
+  "malId": 104990,
+  "type": "manga",
+  "title": "Gakusou",
+  "url": "https://anilist.co/manga/98481",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98481-W8WvlO1gRhnC.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:14.000Z",
+  "updatedAt": "2021-05-20T14:55:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd6628bd-3c06-46b1-a71d-3040bd3e25fd": {
+        "authors": [
+          "Tsurimaki Nodoka"
+        ],
+        "identifier": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gakusou",
+        "url": "https://mangadex.org/title/bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
+        "image": "https://uploads.mangadex.org/covers/bd6628bd-3c06-46b1-a71d-3040bd3e25fd/3fa38a71-2f6d-4950-85c3-e006dd7d7922.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104990,
+        "aniId": 98481,
+        "createdAt": "2020-10-12T16:10:31.000Z",
+        "updatedAt": "2021-06-05T01:23:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gakusou": {
+        "authors": [],
+        "identifier": "gakusou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gakusou",
+        "url": "https://manganelo.com/manga/gakusou",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18461-gakusou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104990,
+        "aniId": 98481,
+        "createdAt": "2020-10-12T16:23:02.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

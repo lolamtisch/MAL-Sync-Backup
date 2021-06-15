@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "HEROINIC HERO"
+  ],
+  "authors": [
+    "Kenji Sugawara"
+  ],
+  "id": 91568,
+  "malId": 72257,
+  "type": "manga",
+  "title": "Heroinic Hero",
+  "url": "https://anilist.co/manga/91568",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b91568-9vFILT1ULvZ1.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:35.000Z",
+  "updatedAt": "2021-05-20T14:51:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3aaedce3-59a1-411f-a692-8df091100a51": {
+        "authors": [
+          "Sugawara Kenji"
+        ],
+        "identifier": "3aaedce3-59a1-411f-a692-8df091100a51",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HEROINIC HERO",
+        "url": "https://mangadex.org/title/3aaedce3-59a1-411f-a692-8df091100a51",
+        "image": "https://uploads.mangadex.org/covers/3aaedce3-59a1-411f-a692-8df091100a51/1fbec6bf-2c3a-4004-842f-3cabed691610.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72257,
+        "aniId": 91568,
+        "createdAt": "2020-10-12T16:07:25.000Z",
+        "updatedAt": "2021-06-04T02:38:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "heroinic_hero": {
+        "authors": [],
+        "identifier": "heroinic_hero",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Heroinic Hero",
+        "url": "https://manganelo.com/manga/heroinic_hero",
+        "image": "https://avt.mkklcdnv6.com/33/k/4-1583471060.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72257,
+        "aniId": 91568,
+        "createdAt": "2020-10-12T16:23:18.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

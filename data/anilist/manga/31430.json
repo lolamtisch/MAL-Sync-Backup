@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "禁断婚",
+    "Forbidden Wedding",
+    "Kindan Wedding"
+  ],
+  "authors": [
+    "Haruko Kurumatani"
+  ],
+  "id": 31430,
+  "malId": 1430,
+  "type": "manga",
+  "title": "Kindan Kon",
+  "url": "https://anilist.co/manga/31430",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1430.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:44.000Z",
+  "updatedAt": "2021-05-20T14:36:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d40be24-51ec-4ddd-b350-b6beb11cb583": {
+        "authors": [
+          "KURUMATANI Haruko"
+        ],
+        "identifier": "7d40be24-51ec-4ddd-b350-b6beb11cb583",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kindan Wedding",
+        "url": "https://mangadex.org/title/7d40be24-51ec-4ddd-b350-b6beb11cb583",
+        "image": "https://uploads.mangadex.org/covers/7d40be24-51ec-4ddd-b350-b6beb11cb583/50e0f46b-fe61-4b64-bf12-5ab602382140.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1430,
+        "aniId": 31430,
+        "createdAt": "2020-10-12T16:09:52.000Z",
+        "updatedAt": "2021-06-04T20:36:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

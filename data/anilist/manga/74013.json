@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "奇跡の少年"
+  ],
+  "authors": [
+    "Junichi Noujou"
+  ],
+  "id": 74013,
+  "malId": 44013,
+  "type": "manga",
+  "title": "Kiseki no Shounen",
+  "url": "https://anilist.co/manga/74013",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74013-tlE7R8IUtTyM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:00.000Z",
+  "updatedAt": "2021-05-20T14:49:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3d92de13-8b8d-4709-98df-09fe14aaf1e8": {
+        "authors": [
+          "Noujou Junichi"
+        ],
+        "identifier": "3d92de13-8b8d-4709-98df-09fe14aaf1e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiseki no Shounen",
+        "url": "https://mangadex.org/title/3d92de13-8b8d-4709-98df-09fe14aaf1e8",
+        "image": "https://uploads.mangadex.org/covers/3d92de13-8b8d-4709-98df-09fe14aaf1e8/c6d0b271-b736-42c7-9e08-803a2503e707.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44013,
+        "aniId": 74013,
+        "createdAt": "2020-10-12T16:05:31.000Z",
+        "updatedAt": "2021-06-03T13:07:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

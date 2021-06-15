@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Shintakarajima, Shin Takarazima, New Treasure Island",
+    "新宝島"
+  ],
+  "authors": [
+    "Tezuka, Osamu"
+  ],
+  "id": 11273,
+  "type": "manga",
+  "title": "Shin Takarajima",
+  "url": "https://myanimelist.net/manga/11273/Shin_Takarajima",
+  "image": "https://cdn.myanimelist.net/images/manga/1/36215.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:32.000Z",
+  "updatedAt": "2021-01-27T19:09:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d528a5fd-e033-4283-b7e8-a048da2a73aa": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "d528a5fd-e033-4283-b7e8-a048da2a73aa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "New Treasure Island",
+        "url": "https://mangadex.org/title/d528a5fd-e033-4283-b7e8-a048da2a73aa",
+        "image": "https://uploads.mangadex.org/covers/d528a5fd-e033-4283-b7e8-a048da2a73aa/671e3ff0-af19-4ff1-8d2f-937c0300f27c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11273,
+        "aniId": 41273,
+        "createdAt": "2020-10-12T16:06:09.000Z",
+        "updatedAt": "2021-06-03T17:34:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shin-takarazima": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "shin-takarazima",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shin Takarazima",
+        "url": "https://mangasee123.com/manga/Shin-Takarazima",
+        "image": "https://cover.nep.li/cover/Shin-Takarazima.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11273,
+        "aniId": 41273,
+        "createdAt": "2021-01-27T19:09:15.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

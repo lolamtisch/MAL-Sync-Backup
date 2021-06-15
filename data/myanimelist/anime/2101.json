@@ -1,0 +1,55 @@
+{
+  "altTitle": [
+    "SINGLES"
+  ],
+  "id": 2101,
+  "type": "anime",
+  "title": "Singles",
+  "url": "https://myanimelist.net/anime/2101/Singles",
+  "image": "https://cdn.myanimelist.net/images/anime/10/29219.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:25.000Z",
+  "updatedAt": "2021-04-27T04:19:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "2nx2": {
+        "identifier": "2nx2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Singles",
+        "url": "https://9anime.ru/watch/singles.2nx2",
+        "image": "https://static.akacdn.ru/static/images/2018/10/553f973a2223ac96b722e764e305a4f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2101,
+        "aniId": 2101,
+        "createdAt": "2020-10-12T15:49:28.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "singles": {
+        "identifier": "singles",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Singles",
+        "url": "https://www6.gogoanime.io/category/singles",
+        "image": "https://cdnimg.xyz/cover/singles.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2101,
+        "aniId": 2101,
+        "createdAt": "2020-10-12T16:01:55.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

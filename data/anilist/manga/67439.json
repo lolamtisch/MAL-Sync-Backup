@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "サカサマのパテマ another side",
+    "Inverted Patema: Another Side",
+    "Patema Inverted another side"
+  ],
+  "authors": [
+    "Yasuhiro Yoshiura",
+    "Toi8"
+  ],
+  "id": 67439,
+  "malId": 37439,
+  "type": "manga",
+  "title": "Sakasama no Patema: Another Side",
+  "url": "https://anilist.co/manga/67439",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx67439-NBxTWGjSbf6u.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:31.000Z",
+  "updatedAt": "2021-05-20T14:48:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "794f2ae1-bb3e-4012-b447-e4132cb93d45": {
+        "authors": [
+          "Yasuhiro Yoshiura",
+          "Toi8"
+        ],
+        "identifier": "794f2ae1-bb3e-4012-b447-e4132cb93d45",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inverted Patema: another side",
+        "url": "https://mangadex.org/title/794f2ae1-bb3e-4012-b447-e4132cb93d45",
+        "image": "https://uploads.mangadex.org/covers/794f2ae1-bb3e-4012-b447-e4132cb93d45/e94a11ae-69a2-475f-85c6-99a01240c4ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37439,
+        "aniId": 67439,
+        "createdAt": "2020-10-12T16:04:17.000Z",
+        "updatedAt": "2021-06-02T20:04:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

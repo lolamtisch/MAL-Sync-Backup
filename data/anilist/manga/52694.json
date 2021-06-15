@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "A Taste of Honey",
+    "蜂蜜の味"
+  ],
+  "authors": [
+    "Katsura Kojima"
+  ],
+  "id": 52694,
+  "malId": 22694,
+  "type": "manga",
+  "title": "Hachimitsu no Aji",
+  "url": "https://anilist.co/manga/52694",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22694.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:32.000Z",
+  "updatedAt": "2021-05-20T14:46:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0c74cc5f-f6db-4e4e-bbfc-409baacbdd8e": {
+        "authors": [
+          "Kojima Katsura"
+        ],
+        "identifier": "0c74cc5f-f6db-4e4e-bbfc-409baacbdd8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hachimitsu no Aji",
+        "url": "https://mangadex.org/title/0c74cc5f-f6db-4e4e-bbfc-409baacbdd8e",
+        "image": "https://uploads.mangadex.org/covers/0c74cc5f-f6db-4e4e-bbfc-409baacbdd8e/17061a5e-521e-4ed7-8ecd-147bc7866093.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22694,
+        "aniId": 52694,
+        "createdAt": "2020-10-12T16:11:36.000Z",
+        "updatedAt": "2021-06-05T09:40:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

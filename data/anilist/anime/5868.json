@@ -1,0 +1,39 @@
+{
+  "altTitle": [
+    "Spring Song",
+    "春の唄",
+    "Spring Song"
+  ],
+  "id": 5868,
+  "malId": 5868,
+  "type": "anime",
+  "title": "Haru no Uta",
+  "url": "https://anilist.co/anime/5868",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5868.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:51.000Z",
+  "updatedAt": "2021-05-20T14:37:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "pvyx": {
+        "identifier": "pvyx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Spring Song",
+        "url": "https://9anime.ru/watch/spring-song.pvyx",
+        "image": "https://static.akacdn.ru/static/images/2018/11/d2a5ca30ba4566dce593e30db0b2c159.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5868,
+        "aniId": 5868,
+        "createdAt": "2020-10-12T15:54:52.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

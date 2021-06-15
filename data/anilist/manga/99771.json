@@ -1,0 +1,103 @@
+{
+  "altTitle": [
+    "かわいいひと"
+  ],
+  "authors": [
+    "Ken Saitou"
+  ],
+  "id": 99771,
+  "malId": 96046,
+  "type": "manga",
+  "title": "Kawaii Hito",
+  "url": "https://anilist.co/manga/99771",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99771-qIDAChivAMCX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:02.000Z",
+  "updatedAt": "2021-05-20T14:54:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52f74905-2bf4-460e-9c1d-bf1d502718fb": {
+        "authors": [
+          "Saitou Ken"
+        ],
+        "identifier": "52f74905-2bf4-460e-9c1d-bf1d502718fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kawaii Hito",
+        "url": "https://mangadex.org/title/52f74905-2bf4-460e-9c1d-bf1d502718fb",
+        "image": "https://uploads.mangadex.org/covers/52f74905-2bf4-460e-9c1d-bf1d502718fb/79a29221-5f77-4e8b-a6e5-83fd5e43bfed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96046,
+        "aniId": 99771,
+        "createdAt": "2020-10-12T16:08:48.000Z",
+        "updatedAt": "2021-06-04T12:55:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kawaii_hito": {
+        "authors": [],
+        "identifier": "kawaii_hito",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kawaii Hito",
+        "url": "https://manganelo.com/manga/kawaii_hito",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/6218-kawaii_hito.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96046,
+        "aniId": 99771,
+        "createdAt": "2020-10-12T16:23:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "kawaii_hito_saitou_ken": {
+        "authors": [],
+        "identifier": "kawaii_hito_saitou_ken",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kawaii Hito (SAITOU Ken)",
+        "url": "https://manganelo.com/manga/kawaii_hito_saitou_ken",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16753-kawaii_hito_saitou_ken.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96046,
+        "aniId": 99771,
+        "createdAt": "2020-10-12T16:23:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ut971402": {
+        "authors": [
+          "Saitou Ken"
+        ],
+        "identifier": "manga-ut971402",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kawaii Hito (Saitou Ken)",
+        "url": "https://readmanganato.com/manga-ut971402",
+        "image": "https://avt.mkklcdnv6temp.com/44/u/13-1583489402.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96046,
+        "aniId": 99771,
+        "createdAt": "2021-06-02T23:01:42.000Z",
+        "updatedAt": "2021-06-02T23:30:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

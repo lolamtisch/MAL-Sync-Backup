@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Be My Servant!",
+    "ボクの下僕になぁれっ!"
+  ],
+  "authors": [
+    "Assa"
+  ],
+  "id": 51411,
+  "type": "manga",
+  "title": "Boku no Geboku ni Nare!",
+  "url": "https://myanimelist.net/manga/51411/Boku_no_Geboku_ni_Nare",
+  "image": "https://cdn.myanimelist.net/images/manga/3/171956.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:41.000Z",
+  "updatedAt": "2021-03-26T16:23:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "65b12cd1-023f-424d-a0df-e93eea8c8e76": {
+        "authors": [
+          "Assa"
+        ],
+        "identifier": "65b12cd1-023f-424d-a0df-e93eea8c8e76",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Geboku ni Nare!",
+        "url": "https://mangadex.org/title/65b12cd1-023f-424d-a0df-e93eea8c8e76",
+        "image": "https://uploads.mangadex.org/covers/65b12cd1-023f-424d-a0df-e93eea8c8e76/e53bd1c1-998a-4aa0-9d0a-3294d5d18243.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51411,
+        "aniId": 81411,
+        "createdAt": "2020-10-12T16:06:22.000Z",
+        "updatedAt": "2021-06-03T19:08:59.000Z",
+        "deletedAt": null
+      },
+      "1bfd0674-708c-4840-b575-4e265a56905a": {
+        "authors": [
+          "Ochi"
+        ],
+        "identifier": "1bfd0674-708c-4840-b575-4e265a56905a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Geboku-sama no Iu Toori",
+        "url": "https://mangadex.org/title/1bfd0674-708c-4840-b575-4e265a56905a",
+        "image": "https://uploads.mangadex.org/covers/1bfd0674-708c-4840-b575-4e265a56905a/aa8ff7d6-4be2-4d14-a7d8-a534de429993.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51411,
+        "aniId": 81411,
+        "createdAt": "2020-10-12T16:18:15.000Z",
+        "updatedAt": "2021-06-07T15:18:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_no_geboku_ni_nare": {
+        "authors": [
+          "Assa"
+        ],
+        "identifier": "boku_no_geboku_ni_nare",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku no Geboku ni Nare!",
+        "url": "https://fanfox.net/manga/boku_no_geboku_ni_nare/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12473/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51411,
+        "aniId": 81411,
+        "createdAt": "2021-03-26T16:23:56.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

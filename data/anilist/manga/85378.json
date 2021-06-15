@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Ooku no Sakura",
+    "大奥のサクラ 現代大奥女学院",
+    "Oh-oku Sakura"
+  ],
+  "authors": [
+    "Akira"
+  ],
+  "id": 85378,
+  "malId": 64931,
+  "type": "manga",
+  "title": "Oooku no Sakura: Gendai Oooku Jogakuin",
+  "url": "https://anilist.co/manga/85378",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55378.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:52.000Z",
+  "updatedAt": "2021-05-20T14:50:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c7b0f146-92c4-44f1-bac2-1c0dfc671adf": {
+        "authors": [
+          "Sakura Hanatsumi",
+          "Akira",
+          "Kuramoto Masahiro"
+        ],
+        "identifier": "c7b0f146-92c4-44f1-bac2-1c0dfc671adf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oh-oku no Sakura - Gendai Oooku Jogakuin",
+        "url": "https://mangadex.org/title/c7b0f146-92c4-44f1-bac2-1c0dfc671adf",
+        "image": "https://uploads.mangadex.org/covers/c7b0f146-92c4-44f1-bac2-1c0dfc671adf/28543318-e689-42fb-b07a-125637b8e634.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64931,
+        "aniId": 85378,
+        "createdAt": "2020-10-12T16:07:03.000Z",
+        "updatedAt": "2021-06-04T00:00:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "oooku_no_sakura_gendai_oooku_jogakuin": {
+        "authors": [
+          "AKIRA"
+        ],
+        "identifier": "oooku_no_sakura_gendai_oooku_jogakuin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Oooku no Sakura - Gendai Oooku Jogakuin",
+        "url": "https://fanfox.net/manga/oooku_no_sakura_gendai_oooku_jogakuin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13661/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64931,
+        "aniId": 85378,
+        "createdAt": "2021-05-10T17:43:12.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "altTitle": [
+    "Push",
+    "プッシュ"
+  ],
+  "id": 3474,
+  "malId": 3474,
+  "type": "anime",
+  "title": "Push",
+  "url": "https://anilist.co/anime/3474",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3474-IfwOMkDvBtYB.png",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:25.000Z",
+  "updatedAt": "2021-05-20T14:37:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "qppv": {
+        "identifier": "qppv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Push",
+        "url": "https://9anime.ru/watch/push.qppv",
+        "image": "https://static.akacdn.ru/files/images/2018/04/4333943ebc75c10b53acdb2e13bd24d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3474,
+        "aniId": 3474,
+        "createdAt": "2020-10-12T15:55:11.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

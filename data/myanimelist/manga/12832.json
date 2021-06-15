@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ドルチェ"
+  ],
+  "authors": [
+    "Kitazawa, Kyou"
+  ],
+  "id": 12832,
+  "type": "manga",
+  "title": "Dolce",
+  "url": "https://myanimelist.net/manga/12832/Dolce",
+  "image": "https://cdn.myanimelist.net/images/manga/1/17854.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:48.000Z",
+  "updatedAt": "2021-03-20T18:06:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1cdc6657-7b88-4b7c-b7fb-5d3e1cc8eef0": {
+        "authors": [
+          "Kitazawa Kyou"
+        ],
+        "identifier": "1cdc6657-7b88-4b7c-b7fb-5d3e1cc8eef0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dolce",
+        "url": "https://mangadex.org/title/1cdc6657-7b88-4b7c-b7fb-5d3e1cc8eef0",
+        "image": "https://uploads.mangadex.org/covers/1cdc6657-7b88-4b7c-b7fb-5d3e1cc8eef0/0e1300f3-9003-4ed1-8174-dd35082f8580.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12832,
+        "aniId": 42832,
+        "createdAt": "2020-10-12T16:13:31.000Z",
+        "updatedAt": "2021-06-05T22:01:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dolce": {
+        "authors": [
+          "KITAZAWA Kyou"
+        ],
+        "identifier": "dolce",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dolce",
+        "url": "https://fanfox.net/manga/dolce/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5477/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12832,
+        "aniId": 42832,
+        "createdAt": "2021-03-20T18:06:15.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

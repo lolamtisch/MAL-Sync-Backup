@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "スイートデイズ"
+  ],
+  "authors": [
+    "Takasugi, Kou"
+  ],
+  "id": 30729,
+  "type": "manga",
+  "title": "Sweet Days",
+  "url": "https://myanimelist.net/manga/30729/Sweet_Days",
+  "image": "https://cdn.myanimelist.net/images/manga/2/53973.jpg",
+  "category": "Manga",
+  "hentai": true,
+  "createdAt": "2020-10-12T15:43:42.000Z",
+  "updatedAt": "2021-05-05T00:02:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e530347c-20e6-4492-b5cc-f1d78139c733": {
+        "authors": [
+          "SAVAN"
+        ],
+        "identifier": "e530347c-20e6-4492-b5cc-f1d78139c733",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sweet Days",
+        "url": "https://mangadex.org/title/e530347c-20e6-4492-b5cc-f1d78139c733",
+        "image": "https://uploads.mangadex.org/covers/e530347c-20e6-4492-b5cc-f1d78139c733/45fe5a80-3b5c-4cd2-be48-498d1d68b4ce.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30729,
+        "aniId": 60729,
+        "createdAt": "2020-10-12T16:17:27.000Z",
+        "updatedAt": "2021-06-07T07:42:02.000Z",
+        "deletedAt": null
+      },
+      "8ab5bece-ccf6-4b5a-a339-e719e80c4876": {
+        "authors": [
+          "TAKASUGI Kou"
+        ],
+        "identifier": "8ab5bece-ccf6-4b5a-a339-e719e80c4876",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sweet Days",
+        "url": "https://mangadex.org/title/8ab5bece-ccf6-4b5a-a339-e719e80c4876",
+        "image": "https://uploads.mangadex.org/covers/8ab5bece-ccf6-4b5a-a339-e719e80c4876/d127094b-9910-4c06-bbcb-367fe6f06ffb.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30729,
+        "aniId": 60729,
+        "createdAt": "2020-10-12T16:19:22.000Z",
+        "updatedAt": "2021-06-07T21:55:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

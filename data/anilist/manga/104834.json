@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "どこか遠くの話をしよう"
+  ],
+  "authors": [
+    "Masumi Sudou"
+  ],
+  "id": 104834,
+  "malId": 113546,
+  "type": "manga",
+  "title": "Doko ka Tooku no Hanashi wo shiyou",
+  "url": "https://anilist.co/manga/104834",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104834-Mz6EbFBm3rWA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:01.000Z",
+  "updatedAt": "2021-05-20T14:57:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb13c918-496e-4699-9c5b-306cdf1c921a": {
+        "authors": [
+          "Sudou Masumi"
+        ],
+        "identifier": "eb13c918-496e-4699-9c5b-306cdf1c921a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doko ka Tooku no Hanashi wo Shiyou",
+        "url": "https://mangadex.org/title/eb13c918-496e-4699-9c5b-306cdf1c921a",
+        "image": "https://uploads.mangadex.org/covers/eb13c918-496e-4699-9c5b-306cdf1c921a/56123976-933a-4d92-b040-688c8f388829.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113546,
+        "aniId": 104834,
+        "createdAt": "2020-10-12T16:11:32.000Z",
+        "updatedAt": "2021-06-05T09:05:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

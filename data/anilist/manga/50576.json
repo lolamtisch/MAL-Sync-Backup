@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "パラノイアストリート"
+  ],
+  "authors": [
+    "Shintarou Kago"
+  ],
+  "id": 50576,
+  "malId": 20576,
+  "type": "manga",
+  "title": "Paranoia Street",
+  "url": "https://anilist.co/manga/50576",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20576.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6ed55dc4-7654-48a2-886e-7d70e56e83f0": {
+        "authors": [
+          "Kago Shintaro"
+        ],
+        "identifier": "6ed55dc4-7654-48a2-886e-7d70e56e83f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Paranoia Street",
+        "url": "https://mangadex.org/title/6ed55dc4-7654-48a2-886e-7d70e56e83f0",
+        "image": "https://uploads.mangadex.org/covers/6ed55dc4-7654-48a2-886e-7d70e56e83f0/71a0b21d-96c8-4067-b0b2-d52a5bccc4da.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20576,
+        "aniId": 50576,
+        "createdAt": "2020-10-12T16:02:27.000Z",
+        "updatedAt": "2021-06-02T06:59:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "paranoia-street": {
+        "authors": [
+          "KAGO Shintaro"
+        ],
+        "identifier": "paranoia-street",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Paranoia Street",
+        "url": "https://mangasee123.com/manga/Paranoia-Street",
+        "image": "https://cover.nep.li/cover/Paranoia-Street.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20576,
+        "aniId": 50576,
+        "createdAt": "2021-04-14T03:46:19.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

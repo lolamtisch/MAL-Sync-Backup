@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Isuzu no Counter",
+    "五十鈴のカウンター",
+    "Isuzu's Counter"
+  ],
+  "authors": [
+    "Kenn Kurogane"
+  ],
+  "id": 40667,
+  "malId": 10667,
+  "type": "manga",
+  "title": "Isuzu no Counter",
+  "url": "https://anilist.co/manga/40667",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10667.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:08.000Z",
+  "updatedAt": "2021-05-20T14:41:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e6040741-c55f-4dc4-b527-7beb9b34e8c5": {
+        "authors": [
+          "Kurogane Kenn"
+        ],
+        "identifier": "e6040741-c55f-4dc4-b527-7beb9b34e8c5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Isuzu no Counter",
+        "url": "https://mangadex.org/title/e6040741-c55f-4dc4-b527-7beb9b34e8c5",
+        "image": "https://uploads.mangadex.org/covers/e6040741-c55f-4dc4-b527-7beb9b34e8c5/69e145b1-eae8-441f-acbf-518382bdb333.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10667,
+        "aniId": 40667,
+        "createdAt": "2020-10-12T16:09:12.000Z",
+        "updatedAt": "2021-06-04T15:51:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kz922688": {
+        "authors": [],
+        "identifier": "kz922688",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Isuzu No Counter",
+        "url": "https://manganelo.com/manga/kz922688",
+        "image": "https://avt.mkklcdnv6.com/3/t/21-1587097797.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10667,
+        "aniId": 40667,
+        "createdAt": "2020-10-12T16:24:05.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

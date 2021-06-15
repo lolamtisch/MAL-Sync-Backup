@@ -1,0 +1,132 @@
+{
+  "altTitle": [
+    "Suzuka",
+    "涼風",
+    "Love Mate",
+    "Suzukaze"
+  ],
+  "authors": [
+    "Kouji Seo",
+    "Kaya Tsukiyama",
+    "Yousuke Nakamaru"
+  ],
+  "id": 30430,
+  "malId": 430,
+  "type": "manga",
+  "title": "Suzuka",
+  "url": "https://anilist.co/manga/30430",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30430-xS9gikdcJoRE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-29T03:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69766b88-5843-4c6b-8c2b-e1da42e4c55f": {
+        "authors": [
+          "Seo Kouji"
+        ],
+        "identifier": "69766b88-5843-4c6b-8c2b-e1da42e4c55f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suzuka",
+        "url": "https://mangadex.org/title/69766b88-5843-4c6b-8c2b-e1da42e4c55f",
+        "image": "https://uploads.mangadex.org/covers/69766b88-5843-4c6b-8c2b-e1da42e4c55f/365eda58-5bb6-4ed0-b4ec-6f648d569f75.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 430,
+        "aniId": 30430,
+        "createdAt": "2020-10-12T16:02:25.000Z",
+        "updatedAt": "2021-06-02T06:42:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tmca116581554782666": {
+        "authors": [],
+        "identifier": "tmca116581554782666",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suzuka",
+        "url": "https://manganelo.com/manga/tmca116581554782666",
+        "image": "https://avt.mkklcdnv6.com/35/z/8-1583479547.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 430,
+        "aniId": 30430,
+        "createdAt": "2020-10-12T16:25:45.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "suzuka": {
+        "authors": [
+          "SEO Kouji"
+        ],
+        "identifier": "suzuka",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Suzuka",
+        "url": "https://mangasee123.com/manga/Suzuka",
+        "image": "https://cover.nep.li/cover/Suzuka.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 430,
+        "aniId": 30430,
+        "createdAt": "2020-12-23T11:26:56.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "suzuka": {
+        "authors": [
+          "SEO Kouji"
+        ],
+        "identifier": "suzuka",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Suzuka",
+        "url": "https://fanfox.net/manga/suzuka/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/220/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 430,
+        "aniId": 30430,
+        "createdAt": "2021-01-22T14:33:46.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      },
+      "suzuka_2": {
+        "authors": [
+          "SEO Kouji"
+        ],
+        "identifier": "suzuka_2",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Suzuka 2",
+        "url": "https://fanfox.net/manga/suzuka_2/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5720/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 430,
+        "aniId": 30430,
+        "createdAt": "2021-04-05T10:08:12.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

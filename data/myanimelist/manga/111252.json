@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "The Theme of Bitter",
+    "苦いのテーマ"
+  ],
+  "authors": [
+    "Abe, Akane"
+  ],
+  "id": 111252,
+  "type": "manga",
+  "title": "Nigai no Theme",
+  "url": "https://myanimelist.net/manga/111252/Nigai_no_Theme",
+  "image": "https://cdn.myanimelist.net/images/manga/2/225745.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-04-09T19:20:59.000Z",
+  "updatedAt": "2021-06-05T14:52:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d5760ebd-498b-4065-92bf-d28377896859": {
+        "authors": [
+          "Abe Akane"
+        ],
+        "identifier": "d5760ebd-498b-4065-92bf-d28377896859",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nigai no Theme",
+        "url": "https://mangadex.org/title/d5760ebd-498b-4065-92bf-d28377896859",
+        "image": "https://uploads.mangadex.org/covers/d5760ebd-498b-4065-92bf-d28377896859/cfe3423f-4345-4b43-9076-9eba6a90cce7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 111252,
+        "aniId": 102286,
+        "createdAt": "2020-10-12T16:12:25.000Z",
+        "updatedAt": "2021-06-05T15:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nigai_no_theme": {
+        "authors": [
+          "Abe",
+          "Akane"
+        ],
+        "identifier": "nigai_no_theme",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nigai No Theme",
+        "url": "https://manganelo.com/manga/nigai_no_theme",
+        "image": "https://avt.mkklcdnv6temp.com/41/u/16-1583494964.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111252,
+        "aniId": 102286,
+        "createdAt": "2021-04-09T19:20:59.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

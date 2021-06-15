@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "I like Souma",
+    "Watashi No Suki na Souma-Kun"
+  ],
+  "authors": [
+    "Nao Mashiba"
+  ],
+  "id": 48101,
+  "malId": 18101,
+  "type": "manga",
+  "title": "Watashi No Suki na Souma-Kun",
+  "url": "https://anilist.co/manga/48101",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18101.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:09.000Z",
+  "updatedAt": "2021-05-20T14:45:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b9a4346-1a30-4b6a-8631-6efb935f8b40": {
+        "authors": [
+          "MASHIBA Nao"
+        ],
+        "identifier": "0b9a4346-1a30-4b6a-8631-6efb935f8b40",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi no Suki na Souma-kun",
+        "url": "https://mangadex.org/title/0b9a4346-1a30-4b6a-8631-6efb935f8b40",
+        "image": "https://uploads.mangadex.org/covers/0b9a4346-1a30-4b6a-8631-6efb935f8b40/10d17ce5-1623-45fb-8e89-177c973437d0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18101,
+        "aniId": 48101,
+        "createdAt": "2020-10-12T16:04:38.000Z",
+        "updatedAt": "2021-06-02T22:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

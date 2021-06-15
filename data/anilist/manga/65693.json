@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Sleepless Lover",
+    "眠れない恋人"
+  ],
+  "authors": [
+    "Umetarou"
+  ],
+  "id": 65693,
+  "malId": 35693,
+  "type": "manga",
+  "title": "Nemurenai Koibito",
+  "url": "https://anilist.co/manga/65693",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35693.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:25.000Z",
+  "updatedAt": "2021-05-20T14:48:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "53d3aa3e-fbe4-45e6-a5bb-9d7b8db761b3": {
+        "authors": [
+          "Umetarou"
+        ],
+        "identifier": "53d3aa3e-fbe4-45e6-a5bb-9d7b8db761b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nemurenai Koibito",
+        "url": "https://mangadex.org/title/53d3aa3e-fbe4-45e6-a5bb-9d7b8db761b3",
+        "image": "https://uploads.mangadex.org/covers/53d3aa3e-fbe4-45e6-a5bb-9d7b8db761b3/c31b42f5-808f-4bfd-b641-82818d68e67a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35693,
+        "aniId": 65693,
+        "createdAt": "2020-10-12T16:10:30.000Z",
+        "updatedAt": "2021-06-05T01:12:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

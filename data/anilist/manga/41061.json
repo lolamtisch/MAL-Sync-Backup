@@ -1,0 +1,108 @@
+{
+  "altTitle": [
+    "あまんちゅ！",
+    "Amanchu"
+  ],
+  "authors": [
+    "Kozue Amano"
+  ],
+  "id": 41061,
+  "malId": 11061,
+  "type": "manga",
+  "title": "Amanchu!",
+  "url": "https://anilist.co/manga/41061",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41061-XX5hojTw1sjA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:15.000Z",
+  "updatedAt": "2021-05-20T14:41:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba13d045-955d-40bc-bcbb-48c8882e08dd": {
+        "authors": [
+          "Amano Kozue"
+        ],
+        "identifier": "ba13d045-955d-40bc-bcbb-48c8882e08dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Amanchu!",
+        "url": "https://mangadex.org/title/ba13d045-955d-40bc-bcbb-48c8882e08dd",
+        "image": "https://uploads.mangadex.org/covers/ba13d045-955d-40bc-bcbb-48c8882e08dd/586ed4a4-3d4a-405f-9c3c-44b18e9b64b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11061,
+        "aniId": 41061,
+        "createdAt": "2020-10-12T16:02:46.000Z",
+        "updatedAt": "2021-06-02T09:16:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "amanchu": {
+        "authors": [],
+        "identifier": "amanchu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Amanchu",
+        "url": "https://manganelo.com/manga/amanchu",
+        "image": "https://avt.mkklcdnv6.com/10/m/2-1583466105.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11061,
+        "aniId": 41061,
+        "createdAt": "2020-10-12T16:22:05.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "amanchu": {
+        "authors": [
+          "AMANO Kozue"
+        ],
+        "identifier": "amanchu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Amanchu!",
+        "url": "https://mangasee123.com/manga/Amanchu",
+        "image": "https://cover.nep.li/cover/Amanchu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11061,
+        "aniId": 41061,
+        "createdAt": "2021-04-08T15:51:21.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "amanchu": {
+        "authors": [
+          "AMANO Kozue"
+        ],
+        "identifier": "amanchu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Amanchu",
+        "url": "https://fanfox.net/manga/amanchu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5094/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11061,
+        "aniId": 41061,
+        "createdAt": "2021-04-30T21:49:38.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

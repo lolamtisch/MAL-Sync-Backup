@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "100%の君へ",
+    "100% to You"
+  ],
+  "authors": [
+    "Yuki Suetsugu"
+  ],
+  "id": 41589,
+  "malId": 11589,
+  "type": "manga",
+  "title": "100% no Kimi e",
+  "url": "https://anilist.co/manga/41589",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11589.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:11.000Z",
+  "updatedAt": "2021-05-20T14:42:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd55adf7-84d3-41bb-a561-4f39c9d03f46": {
+        "authors": [
+          "Suetsugu Yuki"
+        ],
+        "identifier": "cd55adf7-84d3-41bb-a561-4f39c9d03f46",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "100% no Kimi e",
+        "url": "https://mangadex.org/title/cd55adf7-84d3-41bb-a561-4f39c9d03f46",
+        "image": "https://uploads.mangadex.org/covers/cd55adf7-84d3-41bb-a561-4f39c9d03f46/ea4e589a-fb95-4474-9da7-a4a7c9c844a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11589,
+        "aniId": 41589,
+        "createdAt": "2020-10-12T16:03:15.000Z",
+        "updatedAt": "2021-06-02T12:39:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "100_no_kimi_e": {
+        "authors": [],
+        "identifier": "100_no_kimi_e",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "100% No Kimi E",
+        "url": "https://manganelo.com/manga/100_no_kimi_e",
+        "image": "https://avt.mkklcdnv6.com/11/p/7-1583476723.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11589,
+        "aniId": 41589,
+        "createdAt": "2020-10-12T16:21:57.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

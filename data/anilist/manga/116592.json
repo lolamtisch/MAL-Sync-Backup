@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "おえどかしばな"
+  ],
+  "authors": [
+    "Mimu Oyamada"
+  ],
+  "id": 116592,
+  "malId": null,
+  "type": "manga",
+  "title": "Oedo Kashibana",
+  "url": "https://anilist.co/manga/116592",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116592-gOOh4ztVibPW.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T14:50:48.000Z",
+  "updatedAt": "2021-06-04T14:50:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9000a2d8-e84f-4a7a-8623-b61d670a67f4": {
+        "authors": [
+          "Oyamada Mimu"
+        ],
+        "identifier": "9000a2d8-e84f-4a7a-8623-b61d670a67f4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oedo Kashibana",
+        "url": "https://mangadex.org/title/9000a2d8-e84f-4a7a-8623-b61d670a67f4",
+        "image": "https://uploads.mangadex.org/covers/9000a2d8-e84f-4a7a-8623-b61d670a67f4/6453c656-6b9f-42a4-bf0a-df5a1604161a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 116592,
+        "createdAt": "2020-10-12T16:09:02.000Z",
+        "updatedAt": "2021-06-04T15:27:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

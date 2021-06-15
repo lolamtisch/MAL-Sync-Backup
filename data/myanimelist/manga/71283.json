@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "サユリ"
+  ],
+  "authors": [
+    "Oshikiri, Rensuke"
+  ],
+  "id": 71283,
+  "type": "manga",
+  "title": "Sayuri",
+  "url": "https://myanimelist.net/manga/71283/Sayuri",
+  "image": "https://cdn.myanimelist.net/images/manga/3/125929.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:18.000Z",
+  "updatedAt": "2021-05-10T11:17:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09ee399c-b2ce-4297-afdc-46d899892d61": {
+        "authors": [
+          "Oshikiri Rensuke"
+        ],
+        "identifier": "09ee399c-b2ce-4297-afdc-46d899892d61",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sayuri",
+        "url": "https://mangadex.org/title/09ee399c-b2ce-4297-afdc-46d899892d61",
+        "image": "https://uploads.mangadex.org/covers/09ee399c-b2ce-4297-afdc-46d899892d61/cea47d2f-0ddd-446c-a4bc-117aaa678626.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71283,
+        "aniId": 91370,
+        "createdAt": "2020-10-12T16:07:25.000Z",
+        "updatedAt": "2021-06-04T02:37:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sayuri": {
+        "authors": [],
+        "identifier": "sayuri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sayuri",
+        "url": "https://manganelo.com/manga/sayuri",
+        "image": "https://avt.mkklcdnv6.com/13/t/8-1583478702.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71283,
+        "aniId": 91370,
+        "createdAt": "2020-10-12T16:25:19.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Mazinkaiser",
+    "マジンカイザー"
+  ],
+  "id": 1064,
+  "malId": 1064,
+  "type": "anime",
+  "title": "Mazinkaiser",
+  "url": "https://anilist.co/anime/1064",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1064-pNWdX4NJAWgG.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:54.000Z",
+  "updatedAt": "2021-05-20T14:34:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "l43q": {
+        "identifier": "l43q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mazinkaiser (Dub)",
+        "url": "https://9anime.ru/watch/mazinkaiser-dub.l43q",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uDYpVIIBAFU/WBiZG_KsdLI/AAAAAAABMjE/XWGzOwd6wuw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1064,
+        "aniId": 1064,
+        "createdAt": "2020-10-12T15:52:57.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "m4qp": {
+        "identifier": "m4qp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mazinkaiser",
+        "url": "https://9anime.ru/watch/mazinkaiser.m4qp",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-qT-X86YLZ00/WBiYThSxDLI/AAAAAAABMic/DKy0AZtl6ig/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1064,
+        "aniId": 1064,
+        "createdAt": "2020-10-12T15:53:21.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mazinkaiser": {
+        "identifier": "mazinkaiser",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mazinkaiser",
+        "url": "https://www8.gogoanime.io/category/mazinkaiser",
+        "image": "https://cdnimg.xyz/cover/mazinkaiser.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1064,
+        "aniId": 1064,
+        "createdAt": "2020-10-12T16:01:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "mazinkaiser-dub": {
+        "identifier": "mazinkaiser-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mazinkaiser (Dub)",
+        "url": "https://gogoanime.so/category/mazinkaiser-dub",
+        "image": "https://gogocdn.net/cover/mazinkaiser-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1064,
+        "aniId": 1064,
+        "createdAt": "2020-11-03T06:52:42.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

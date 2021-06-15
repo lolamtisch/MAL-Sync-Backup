@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "万界春秋"
+  ],
+  "id": 119926,
+  "malId": 41802,
+  "type": "anime",
+  "title": "Wan Jie Chun Qiu",
+  "url": "https://anilist.co/anime/119926",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119926-jnUUFCoAUglZ.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:06.000Z",
+  "updatedAt": "2021-05-20T14:46:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "76r7": {
+        "identifier": "76r7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wan Jie Chun Qiu",
+        "url": "https://9anime.to/watch/wan-jie-chun-qiu.76r7",
+        "image": "https://static.akacdn.ru/files/images/f/fe/fe3cdc70e21a71c386c9475ab2450bbf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41802,
+        "aniId": 119926,
+        "createdAt": "2020-10-12T15:51:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wan-jie-chun-qiu": {
+        "identifier": "wan-jie-chun-qiu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wan Jie Chun Qiu",
+        "url": "https://gogoanime.so/category/wan-jie-chun-qiu",
+        "image": "https://gogocdn.net/cover/wan-jie-chun-qiu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 41802,
+        "aniId": 119926,
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

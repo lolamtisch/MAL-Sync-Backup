@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "SNACK WORLD",
+    "スナックワールド"
+  ],
+  "id": 98297,
+  "malId": 32596,
+  "type": "anime",
+  "title": "The Snack World",
+  "url": "https://anilist.co/anime/98297",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98297-nB9PLUWHt30p.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:02.000Z",
+  "updatedAt": "2021-05-20T14:43:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "j1v8": {
+        "identifier": "j1v8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Snack World (TV)",
+        "url": "https://9anime.ru/watch/the-snack-world-tv.j1v8",
+        "image": "https://static.akacdn.ru/files/images/2018/04/602d816f0e8b846624f167c164940113.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32596,
+        "aniId": 98297,
+        "createdAt": "2020-10-12T15:52:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "the-snack-world-tv": {
+        "identifier": "the-snack-world-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Snack World (TV)",
+        "url": "https://www9.gogoanime.io/category/the-snack-world-tv",
+        "image": "https://cdnimg.xyz/cover/the-snack-world-tv.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32596,
+        "aniId": 98297,
+        "createdAt": "2020-10-12T16:02:05.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

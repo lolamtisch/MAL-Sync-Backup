@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "アオイホノオ",
+    "Blue Blaze",
+    "Blue Flame"
+  ],
+  "authors": [
+    "Kazuhiko Shimamoto"
+  ],
+  "id": 55292,
+  "malId": 25292,
+  "type": "manga",
+  "title": "Aoi Honoo",
+  "url": "https://anilist.co/manga/55292",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b55292-VhADPFlgKNoE.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:53.000Z",
+  "updatedAt": "2021-06-09T06:25:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "aoi_honoo": {
+        "authors": [],
+        "identifier": "aoi_honoo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Aoi Honoo",
+        "url": "https://manganelo.com/manga/aoi_honoo",
+        "image": "https://avt.mkklcdnv6.com/2/c/14-1583489761.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25292,
+        "aniId": 55292,
+        "createdAt": "2020-10-12T16:22:07.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "b8475fe9-aa2d-40da-958c-00e2a1b83c25": {
+        "authors": [
+          "Shimamoto Kazuhiko"
+        ],
+        "identifier": "b8475fe9-aa2d-40da-958c-00e2a1b83c25",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blue Flame",
+        "url": "https://mangadex.org/title/b8475fe9-aa2d-40da-958c-00e2a1b83c25",
+        "image": "https://uploads.mangadex.org/covers/b8475fe9-aa2d-40da-958c-00e2a1b83c25/5099f20c-3345-4d5c-b5d3-b084c7403239.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25292,
+        "aniId": 55292,
+        "createdAt": "2020-12-08T06:40:27.000Z",
+        "updatedAt": "2021-06-08T08:29:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aoi_honoo": {
+        "authors": [
+          "SHIMAMOTO Kazuhiko"
+        ],
+        "identifier": "aoi_honoo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aoi Honoo",
+        "url": "https://fanfox.net/manga/aoi_honoo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20533/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25292,
+        "aniId": 55292,
+        "createdAt": "2021-06-09T21:34:30.000Z",
+        "updatedAt": "2021-06-09T22:04:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

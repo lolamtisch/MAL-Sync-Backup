@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Hungry Monster",
+    "渇愛モンスター"
+  ],
+  "authors": [
+    "Souta Narazaki"
+  ],
+  "id": 43343,
+  "malId": 13343,
+  "type": "manga",
+  "title": "Katsuai Monster",
+  "url": "https://anilist.co/manga/43343",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13343.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "68e35173-6319-4af8-b89b-6f18b822f566": {
+        "authors": [
+          "Narazaki Souta"
+        ],
+        "identifier": "68e35173-6319-4af8-b89b-6f18b822f566",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Katsuai Monster",
+        "url": "https://mangadex.org/title/68e35173-6319-4af8-b89b-6f18b822f566",
+        "image": "https://uploads.mangadex.org/covers/68e35173-6319-4af8-b89b-6f18b822f566/b63ff743-f034-4d0c-92c4-e0b7b1e05800.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13343,
+        "aniId": 43343,
+        "createdAt": "2020-10-12T16:13:32.000Z",
+        "updatedAt": "2021-06-05T22:06:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

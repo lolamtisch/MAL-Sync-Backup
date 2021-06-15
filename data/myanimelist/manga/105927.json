@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Secret Life",
+    "密命"
+  ],
+  "authors": [
+    "Katou, Erena",
+    "Eko, Totsuki"
+  ],
+  "id": 105927,
+  "type": "manga",
+  "title": "Mitsumei",
+  "url": "https://myanimelist.net/manga/105927/Mitsumei",
+  "image": "https://cdn.myanimelist.net/images/manga/3/194193.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:01.000Z",
+  "updatedAt": "2021-05-18T22:31:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31668229-6312-4312-9871-2fe52bc51cb4": {
+        "authors": [
+          "Totsuki Eko",
+          "Katou Erena"
+        ],
+        "identifier": "31668229-6312-4312-9871-2fe52bc51cb4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mitsumei",
+        "url": "https://mangadex.org/title/31668229-6312-4312-9871-2fe52bc51cb4",
+        "image": "https://uploads.mangadex.org/covers/31668229-6312-4312-9871-2fe52bc51cb4/01aae63b-8914-4328-9c30-c5a73e8ea329.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105927,
+        "aniId": 107579,
+        "createdAt": "2020-10-12T16:10:38.000Z",
+        "updatedAt": "2021-06-05T02:10:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mitsumei": {
+        "authors": [],
+        "identifier": "mitsumei",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mitsumei",
+        "url": "https://manganelo.com/manga/mitsumei",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18348-mitsumei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105927,
+        "aniId": 107579,
+        "createdAt": "2020-10-12T16:24:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

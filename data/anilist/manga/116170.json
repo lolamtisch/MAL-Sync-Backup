@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Veil"
+  ],
+  "authors": [
+    "Ikumi Fukuda"
+  ],
+  "id": 116170,
+  "malId": 132678,
+  "type": "manga",
+  "title": "Veil",
+  "url": "https://anilist.co/manga/116170",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116170-Q9f5Wk6cod5E.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:56:01.000Z",
+  "updatedAt": "2021-06-08T07:56:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d4b349e-b7a2-4d63-9ce0-f864e790c4a2": {
+        "authors": [
+          "Kotteri"
+        ],
+        "identifier": "0d4b349e-b7a2-4d63-9ce0-f864e790c4a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Veil",
+        "url": "https://mangadex.org/title/0d4b349e-b7a2-4d63-9ce0-f864e790c4a2",
+        "image": "https://uploads.mangadex.org/covers/0d4b349e-b7a2-4d63-9ce0-f864e790c4a2/3c66b248-f3d0-4c9e-aa41-6c5bd02ebec7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132678,
+        "aniId": 116170,
+        "createdAt": "2020-11-17T22:51:46.000Z",
+        "updatedAt": "2021-06-08T08:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

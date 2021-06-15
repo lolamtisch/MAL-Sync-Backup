@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Hi-Posi",
+    "ハイポジ"
+  ],
+  "authors": [
+    "Kira, Takashi"
+  ],
+  "id": 107251,
+  "type": "manga",
+  "title": "High Position",
+  "url": "https://myanimelist.net/manga/107251/High_Position",
+  "image": "https://cdn.myanimelist.net/images/manga/1/197888.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:06.000Z",
+  "updatedAt": "2021-03-24T21:19:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f59b01e3-2e05-4883-a9cd-3f718363fd04": {
+        "authors": [
+          "Kira Takashi"
+        ],
+        "identifier": "f59b01e3-2e05-4883-a9cd-3f718363fd04",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "High Position",
+        "url": "https://mangadex.org/title/f59b01e3-2e05-4883-a9cd-3f718363fd04",
+        "image": "https://uploads.mangadex.org/covers/f59b01e3-2e05-4883-a9cd-3f718363fd04/3dd181d0-a710-4089-b6b5-e377e862d860.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107251,
+        "aniId": 99296,
+        "createdAt": "2020-10-12T16:14:27.000Z",
+        "updatedAt": "2021-06-06T05:13:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fk918130": {
+        "authors": [],
+        "identifier": "fk918130",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "High Position",
+        "url": "https://manganelo.com/manga/fk918130",
+        "image": "https://avt.mkklcdnv6.com/34/u/17-1583496507.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107251,
+        "aniId": 99296,
+        "createdAt": "2020-10-12T16:22:56.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "high-position": {
+        "authors": [
+          "KIRA Takashi"
+        ],
+        "identifier": "high-position",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "High Position",
+        "url": "https://mangasee123.com/manga/High-Position",
+        "image": "https://cover.nep.li/cover/High-Position.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107251,
+        "aniId": 99296,
+        "createdAt": "2021-03-24T21:19:13.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

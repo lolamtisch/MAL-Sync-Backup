@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Devil and Song",
+    "悪魔さんとお歌"
+  ],
+  "authors": [
+    "Morishita, Makoto"
+  ],
+  "id": 122513,
+  "type": "manga",
+  "title": "Akuma-san to Outa",
+  "url": "https://myanimelist.net/manga/122513/Akuma-san_to_Outa",
+  "image": "https://cdn.myanimelist.net/images/manga/3/235020.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-12-11T19:47:47.000Z",
+  "updatedAt": "2021-03-15T08:00:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "19d5b057-7150-4ae5-9b2b-5996d5c5ec53": {
+        "authors": [
+          "Morishita Makoto"
+        ],
+        "identifier": "19d5b057-7150-4ae5-9b2b-5996d5c5ec53",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Devil and Song",
+        "url": "https://mangadex.org/title/19d5b057-7150-4ae5-9b2b-5996d5c5ec53",
+        "image": "https://uploads.mangadex.org/covers/19d5b057-7150-4ae5-9b2b-5996d5c5ec53/6f7d98ba-137b-4232-807b-4eb9b66474b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122513,
+        "aniId": 114854,
+        "createdAt": "2020-10-12T16:17:33.000Z",
+        "updatedAt": "2021-06-07T08:35:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "akuma_san_to_outa": {
+        "authors": [
+          "MORISHITA Makoto"
+        ],
+        "identifier": "akuma_san_to_outa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akuma-san to outa",
+        "url": "https://fanfox.net/manga/akuma_san_to_outa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31828/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122513,
+        "aniId": 114854,
+        "createdAt": "2021-03-15T08:00:25.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

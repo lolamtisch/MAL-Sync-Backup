@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "東京ヒゴロ",
+    "Tokyo Everyday"
+  ],
+  "authors": [
+    "Taiyou Matsumoto"
+  ],
+  "id": 120746,
+  "malId": 130171,
+  "type": "manga",
+  "title": "Tokyo Higoro",
+  "url": "https://anilist.co/manga/120746",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120746-xAb3mxEm3EgO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:29.000Z",
+  "updatedAt": "2021-05-20T14:59:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "da2b304d-4d10-4762-80d6-1c7237ec1ecd": {
+        "authors": [
+          "Matsumoto Taiyou"
+        ],
+        "identifier": "da2b304d-4d10-4762-80d6-1c7237ec1ecd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Higoro",
+        "url": "https://mangadex.org/title/da2b304d-4d10-4762-80d6-1c7237ec1ecd",
+        "image": "https://uploads.mangadex.org/covers/da2b304d-4d10-4762-80d6-1c7237ec1ecd/419a7aeb-b2ad-4251-b17b-0f2e37afa31f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130171,
+        "aniId": 120746,
+        "createdAt": "2020-10-12T16:21:50.000Z",
+        "updatedAt": "2021-06-08T03:06:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "つくしてあげます"
+  ],
+  "authors": [
+    "Rei Touma"
+  ],
+  "id": 36390,
+  "malId": 6390,
+  "type": "manga",
+  "title": "Tsukushite Agemasu",
+  "url": "https://anilist.co/manga/36390",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6390.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:42.000Z",
+  "updatedAt": "2021-05-20T14:39:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b663f3b-1419-4675-ab6d-2c85d567d3b5": {
+        "authors": [
+          "Toma Rei"
+        ],
+        "identifier": "0b663f3b-1419-4675-ab6d-2c85d567d3b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukushite Agemasu",
+        "url": "https://mangadex.org/title/0b663f3b-1419-4675-ab6d-2c85d567d3b5",
+        "image": "https://uploads.mangadex.org/covers/0b663f3b-1419-4675-ab6d-2c85d567d3b5/53df8a0d-c061-41e6-903b-c6e29107d641.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6390,
+        "aniId": 36390,
+        "createdAt": "2020-10-12T16:04:44.000Z",
+        "updatedAt": "2021-06-02T23:04:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

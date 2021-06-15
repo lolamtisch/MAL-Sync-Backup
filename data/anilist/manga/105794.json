@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "私と私"
+  ],
+  "authors": [
+    "Sumomo Yumeka"
+  ],
+  "id": 105794,
+  "malId": 107235,
+  "type": "manga",
+  "title": "Watashi to Watashi",
+  "url": "https://anilist.co/manga/105794",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105794-qJU8uCX27MNU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:50.000Z",
+  "updatedAt": "2021-05-20T14:55:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb5ce043-7a70-4174-9a9b-01e0ba6d7ba6": {
+        "authors": [
+          "Yumeka Sumomo",
+          "Sahara Mizu"
+        ],
+        "identifier": "cb5ce043-7a70-4174-9a9b-01e0ba6d7ba6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi to Watashi",
+        "url": "https://mangadex.org/title/cb5ce043-7a70-4174-9a9b-01e0ba6d7ba6",
+        "image": "https://uploads.mangadex.org/covers/cb5ce043-7a70-4174-9a9b-01e0ba6d7ba6/ab95f387-1d7f-4189-ad02-17a8001828b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107235,
+        "aniId": 105794,
+        "createdAt": "2020-10-12T16:14:51.000Z",
+        "updatedAt": "2021-06-06T08:38:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

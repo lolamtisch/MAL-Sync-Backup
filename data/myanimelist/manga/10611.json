@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "サラリーマン金太郎"
+  ],
+  "authors": [
+    "Motomiya, Hiroshi"
+  ],
+  "id": 10611,
+  "type": "manga",
+  "title": "Salaryman Kintarou",
+  "url": "https://myanimelist.net/manga/10611/Salaryman_Kintarou",
+  "image": "https://cdn.myanimelist.net/images/manga/3/171866.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:28.000Z",
+  "updatedAt": "2021-03-17T22:02:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ad391b10-bece-43b0-9ee8-0af1828d6c15": {
+        "authors": [
+          "Motomiya Hiroshi"
+        ],
+        "identifier": "ad391b10-bece-43b0-9ee8-0af1828d6c15",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Salaryman Kintarou",
+        "url": "https://mangadex.org/title/ad391b10-bece-43b0-9ee8-0af1828d6c15",
+        "image": "https://uploads.mangadex.org/covers/ad391b10-bece-43b0-9ee8-0af1828d6c15/6d774f94-6542-4836-b63d-7f9a45c0e55e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10611,
+        "aniId": 40611,
+        "createdAt": "2020-10-12T16:05:23.000Z",
+        "updatedAt": "2021-06-03T12:20:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "salaryman_kintarou": {
+        "authors": [],
+        "identifier": "salaryman_kintarou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Salaryman Kintarou",
+        "url": "https://manganelo.com/manga/salaryman_kintarou",
+        "image": "https://avt.mkklcdnv6.com/23/n/10-1583483021.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10611,
+        "aniId": 40611,
+        "createdAt": "2020-10-12T16:25:18.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

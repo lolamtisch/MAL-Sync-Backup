@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "My Master Has No Tail",
+    "うちの師匠はしっぽがない"
+  ],
+  "authors": [
+    "TNSK"
+  ],
+  "id": 117988,
+  "type": "manga",
+  "title": "Uchi no Shishou wa Shippo ga Nai",
+  "url": "https://myanimelist.net/manga/117988/Uchi_no_Shishou_wa_Shippo_ga_Nai",
+  "image": "https://cdn.myanimelist.net/images/manga/1/234820.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-03-31T12:00:53.000Z",
+  "updatedAt": "2021-06-02T01:01:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e8606e09-ae02-44fd-83d7-401b929932b0": {
+        "authors": [
+          "TNSK"
+        ],
+        "identifier": "e8606e09-ae02-44fd-83d7-401b929932b0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Master Has No Tail",
+        "url": "https://mangadex.org/title/e8606e09-ae02-44fd-83d7-401b929932b0",
+        "image": "https://uploads.mangadex.org/covers/e8606e09-ae02-44fd-83d7-401b929932b0/b1ec4423-9458-4060-9fe9-3c8ab983a0cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 117988,
+        "aniId": 107013,
+        "createdAt": "2020-10-12T16:21:04.000Z",
+        "updatedAt": "2021-06-08T06:40:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jt986502": {
+        "authors": [
+          "Tnsk"
+        ],
+        "identifier": "manga-jt986502",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "My Master Has No Tail",
+        "url": "https://manganato.com/manga-jt986502",
+        "image": "https://avt.mkklcdnv6temp.com/9/m/22-1599329317.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117988,
+        "aniId": 107013,
+        "createdAt": "2021-06-02T01:01:58.000Z",
+        "updatedAt": "2021-06-02T02:31:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

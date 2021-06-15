@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "熱砂の鎖",
+    "Garasu no Suna",
+    "The Chains of the Hot Sand",
+    "Sand of Glass"
+  ],
+  "authors": [
+    "Wren Tamaquis"
+  ],
+  "id": 40980,
+  "malId": 10980,
+  "type": "manga",
+  "title": "Nessa no Kusari",
+  "url": "https://anilist.co/manga/40980",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10980.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c73cc79-1621-49d8-b6c4-adcc96d3c2d3": {
+        "authors": [
+          "Tamaquis Wren"
+        ],
+        "identifier": "7c73cc79-1621-49d8-b6c4-adcc96d3c2d3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nessa no Kusari",
+        "url": "https://mangadex.org/title/7c73cc79-1621-49d8-b6c4-adcc96d3c2d3",
+        "image": "https://uploads.mangadex.org/covers/7c73cc79-1621-49d8-b6c4-adcc96d3c2d3/e3d615cb-eff8-40dc-8e43-dcb5526a77ad.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10980,
+        "aniId": 40980,
+        "createdAt": "2020-10-12T16:11:57.000Z",
+        "updatedAt": "2021-06-05T12:11:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "eco"
+  ],
+  "authors": [
+    "Hato Rami"
+  ],
+  "id": 45197,
+  "malId": 15197,
+  "type": "manga",
+  "title": "eco",
+  "url": "https://anilist.co/manga/45197",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15197.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c282a4d4-3c9a-4914-a508-e4224e842ccc": {
+        "authors": [
+          "Hato Rami"
+        ],
+        "identifier": "c282a4d4-3c9a-4914-a508-e4224e842ccc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ECO",
+        "url": "https://mangadex.org/title/c282a4d4-3c9a-4914-a508-e4224e842ccc",
+        "image": "https://uploads.mangadex.org/covers/c282a4d4-3c9a-4914-a508-e4224e842ccc/7e0442b7-f8f6-4c92-9e32-c9274b9c253e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15197,
+        "aniId": 45197,
+        "createdAt": "2020-10-12T16:04:30.000Z",
+        "updatedAt": "2021-06-02T21:31:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

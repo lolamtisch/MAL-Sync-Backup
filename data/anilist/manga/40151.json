@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "こころ"
+  ],
+  "authors": [
+    "Reiko Momochi"
+  ],
+  "id": 40151,
+  "malId": 10151,
+  "type": "manga",
+  "title": "Kokoro",
+  "url": "https://anilist.co/manga/40151",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b40151-Brs6KqzU0c7U.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T02:49:18.000Z",
+  "updatedAt": "2021-06-04T02:49:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9561740e-1eb8-4970-b024-2ccf04a65713": {
+        "authors": [
+          "Momochi Reiko"
+        ],
+        "identifier": "9561740e-1eb8-4970-b024-2ccf04a65713",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kokoro",
+        "url": "https://mangadex.org/title/9561740e-1eb8-4970-b024-2ccf04a65713",
+        "image": "https://uploads.mangadex.org/covers/9561740e-1eb8-4970-b024-2ccf04a65713/1f6ac9c2-a941-4d3e-91b0-fed111b11930.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10151,
+        "aniId": 40151,
+        "createdAt": "2020-10-12T16:07:25.000Z",
+        "updatedAt": "2021-06-04T08:46:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

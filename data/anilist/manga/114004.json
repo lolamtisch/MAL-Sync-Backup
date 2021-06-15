@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "人魚と××",
+    "The Mermaid and..."
+  ],
+  "authors": [
+    "Gaku Kuze"
+  ],
+  "id": 114004,
+  "malId": null,
+  "type": "manga",
+  "title": "Ningyo to xx",
+  "url": "https://anilist.co/manga/114004",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114004-bRO1auC2fo9h.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T12:06:41.000Z",
+  "updatedAt": "2021-06-07T12:06:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12f9f35f-e1c2-4835-91b6-cbe03a3fe1e5": {
+        "authors": [
+          "Kuze Gaku"
+        ],
+        "identifier": "12f9f35f-e1c2-4835-91b6-cbe03a3fe1e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Mermaid and...",
+        "url": "https://mangadex.org/title/12f9f35f-e1c2-4835-91b6-cbe03a3fe1e5",
+        "image": "https://uploads.mangadex.org/covers/12f9f35f-e1c2-4835-91b6-cbe03a3fe1e5/d28dbaf5-85f4-4796-995f-c948938d828f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 114004,
+        "createdAt": "2020-10-12T16:17:52.000Z",
+        "updatedAt": "2021-06-09T08:07:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

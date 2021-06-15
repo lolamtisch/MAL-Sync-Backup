@@ -1,0 +1,83 @@
+{
+  "altTitle": [
+    "01"
+  ],
+  "authors": [
+    "Hiroya Oku"
+  ],
+  "id": 31371,
+  "malId": 1371,
+  "type": "manga",
+  "title": "Zero One",
+  "url": "https://anilist.co/manga/31371",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1371-kCazvGeSbZAa.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-05-20T14:36:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8434ab5f-b778-491c-804e-13722331739b": {
+        "authors": [
+          "Oku Hiroya"
+        ],
+        "identifier": "8434ab5f-b778-491c-804e-13722331739b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "01",
+        "url": "https://mangadex.org/title/8434ab5f-b778-491c-804e-13722331739b",
+        "image": "https://uploads.mangadex.org/covers/8434ab5f-b778-491c-804e-13722331739b/64e5d825-d7a5-4c82-b858-ba7582a2e7a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1371,
+        "aniId": 31371,
+        "createdAt": "2020-10-12T16:04:46.000Z",
+        "updatedAt": "2021-06-02T23:16:13.000Z",
+        "deletedAt": null
+      },
+      "621f85d8-feb3-4a48-b2be-f3c5fa00d17e": {
+        "authors": [
+          "iDreamsky"
+        ],
+        "identifier": "621f85d8-feb3-4a48-b2be-f3c5fa00d17e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zero One Daoist",
+        "url": "https://mangadex.org/title/621f85d8-feb3-4a48-b2be-f3c5fa00d17e",
+        "image": "https://uploads.mangadex.org/covers/621f85d8-feb3-4a48-b2be-f3c5fa00d17e/8f3e6500-c06a-4429-995b-f0ca34b84eda.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1371,
+        "aniId": 31371,
+        "createdAt": "2020-10-12T16:16:22.000Z",
+        "updatedAt": "2021-06-06T21:57:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "01_oku_hiroya": {
+        "authors": [],
+        "identifier": "01_oku_hiroya",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "01 (Oku Hiroya)",
+        "url": "https://manganelo.com/manga/01_oku_hiroya",
+        "image": "https://avt.mkklcdnv6.com/12/a/7-1583476737.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1371,
+        "aniId": 31371,
+        "createdAt": "2020-10-12T16:21:57.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

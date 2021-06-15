@@ -1,0 +1,58 @@
+{
+  "authors": [
+    "Boichi"
+  ],
+  "identifier": "origin",
+  "type": "manga",
+  "page": "MangaFox",
+  "title": "Origin",
+  "url": "https://fanfox.net/manga/origin/",
+  "image": "https://fmcdn.mfcdn.net/store/manga/21719/cover.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 101119,
+  "aniId": 98227,
+  "createdAt": "2021-02-04T14:20:11.000Z",
+  "updatedAt": "2021-05-20T15:40:31.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "ORIGIN"
+    ],
+    "authors": [
+      "Boichi"
+    ],
+    "id": 101119,
+    "type": "manga",
+    "title": "Origin",
+    "url": "https://myanimelist.net/manga/101119/Origin",
+    "image": "https://cdn.myanimelist.net/images/manga/3/187163.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:42.000Z",
+    "updatedAt": "2021-06-05T23:20:18.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "オリジン"
+    ],
+    "authors": [
+      "Boichi"
+    ],
+    "id": 98227,
+    "malId": 101119,
+    "type": "manga",
+    "title": "Origin",
+    "url": "https://anilist.co/manga/98227",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98227-XDFoJgLq70xL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:54:52.000Z",
+    "updatedAt": "2021-05-20T14:54:52.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/101119/Origin"
+}

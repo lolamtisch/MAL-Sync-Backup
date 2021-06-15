@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Bagata Way, Baggata Way",
+    "BaggataWay -バガタウェイ-"
+  ],
+  "authors": [
+    "Kohinata, Iroha"
+  ],
+  "id": 13279,
+  "type": "manga",
+  "title": "BaggataWay",
+  "url": "https://myanimelist.net/manga/13279/BaggataWay",
+  "image": "https://cdn.myanimelist.net/images/manga/2/163943.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:53.000Z",
+  "updatedAt": "2021-03-04T07:20:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69a30c3d-74d4-4dc9-879b-0d68fc862a47": {
+        "authors": [
+          "Kohinata Iroha"
+        ],
+        "identifier": "69a30c3d-74d4-4dc9-879b-0d68fc862a47",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BaggataWay",
+        "url": "https://mangadex.org/title/69a30c3d-74d4-4dc9-879b-0d68fc862a47",
+        "image": "https://uploads.mangadex.org/covers/69a30c3d-74d4-4dc9-879b-0d68fc862a47/f34caf2c-eabb-4ac5-bc69-0ab46d254b77.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13279,
+        "aniId": 43279,
+        "createdAt": "2020-10-12T16:02:43.000Z",
+        "updatedAt": "2021-06-02T08:54:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "baggata-way": {
+        "authors": [
+          "KOHINATA Iroha"
+        ],
+        "identifier": "baggata-way",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "BaggataWay",
+        "url": "https://mangasee123.com/manga/Baggata-Way",
+        "image": "https://cover.nep.li/cover/Baggata-Way.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13279,
+        "aniId": 43279,
+        "createdAt": "2021-03-04T07:20:37.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

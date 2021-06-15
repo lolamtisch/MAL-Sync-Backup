@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Spell",
+    "スペル",
+    "Superu",
+    "Cast a Spell on You"
+  ],
+  "authors": [
+    "Hyouta Fujiyama"
+  ],
+  "id": 31699,
+  "malId": 1699,
+  "type": "manga",
+  "title": "Spell",
+  "url": "https://anilist.co/manga/31699",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31699-6loNRgb0tEaE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b9996d45-dfc4-4f80-8ade-bb7a33435c1d": {
+        "authors": [
+          "Fujiyama Hyouta"
+        ],
+        "identifier": "b9996d45-dfc4-4f80-8ade-bb7a33435c1d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spell",
+        "url": "https://mangadex.org/title/b9996d45-dfc4-4f80-8ade-bb7a33435c1d",
+        "image": "https://uploads.mangadex.org/covers/b9996d45-dfc4-4f80-8ade-bb7a33435c1d/4fbdae2c-dd0c-428e-a7c8-260048b177bc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1699,
+        "aniId": 31699,
+        "createdAt": "2020-10-12T16:16:32.000Z",
+        "updatedAt": "2021-06-06T23:30:50.000Z",
+        "deletedAt": null
+      },
+      "e2a70ace-bd2e-4faa-b767-94ae5969f05d": {
+        "authors": [
+          "Galaxyspark"
+        ],
+        "identifier": "e2a70ace-bd2e-4faa-b767-94ae5969f05d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spellcross",
+        "url": "https://mangadex.org/title/e2a70ace-bd2e-4faa-b767-94ae5969f05d",
+        "image": "https://uploads.mangadex.org/covers/e2a70ace-bd2e-4faa-b767-94ae5969f05d/a4b88c54-ca5d-4dfb-952a-424d9e9e627b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1699,
+        "aniId": 31699,
+        "createdAt": "2020-10-12T16:18:40.000Z",
+        "updatedAt": "2021-06-07T18:57:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

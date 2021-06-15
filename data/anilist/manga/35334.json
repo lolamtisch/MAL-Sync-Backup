@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "フラワーズ"
+  ],
+  "authors": [
+    "Kano Miyamoto"
+  ],
+  "id": 35334,
+  "malId": 5334,
+  "type": "manga",
+  "title": "Flowers",
+  "url": "https://anilist.co/manga/35334",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5334.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:27.000Z",
+  "updatedAt": "2021-05-20T14:39:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b049464b-b410-4810-b859-b4d8625fdb79": {
+        "authors": [
+          "Miyamoto Kano"
+        ],
+        "identifier": "b049464b-b410-4810-b859-b4d8625fdb79",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flowers",
+        "url": "https://mangadex.org/title/b049464b-b410-4810-b859-b4d8625fdb79",
+        "image": "https://uploads.mangadex.org/covers/b049464b-b410-4810-b859-b4d8625fdb79/49f9ac42-d39d-4753-972f-4e99f3ac5b97.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5334,
+        "aniId": 35334,
+        "createdAt": "2020-10-12T16:07:14.000Z",
+        "updatedAt": "2021-06-04T01:23:28.000Z",
+        "deletedAt": null
+      },
+      "9451140d-fd01-4691-9704-1109c3704954": {
+        "authors": [
+          "马它合鸟"
+        ],
+        "identifier": "9451140d-fd01-4691-9704-1109c3704954",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flowers & Thorns",
+        "url": "https://mangadex.org/title/9451140d-fd01-4691-9704-1109c3704954",
+        "image": "https://uploads.mangadex.org/covers/9451140d-fd01-4691-9704-1109c3704954/2b8240d7-182a-490e-9c41-8365db49be4f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5334,
+        "aniId": 35334,
+        "createdAt": "2020-10-12T16:15:21.000Z",
+        "updatedAt": "2021-06-06T12:59:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

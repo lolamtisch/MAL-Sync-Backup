@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "DD北斗の拳",
+    "DD Fist of the North Star",
+    "Design Deformation Hokuto no Ken"
+  ],
+  "authors": [
+    "Osamu Kajisa"
+  ],
+  "id": 55880,
+  "malId": 25880,
+  "type": "manga",
+  "title": "DD Hokuto no Ken",
+  "url": "https://anilist.co/manga/55880",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55880-jl3FR0K2uMck.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:56.000Z",
+  "updatedAt": "2021-05-20T14:46:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7baa8582-79fe-4939-872d-539365ad32ae": {
+        "authors": [
+          "Kajio"
+        ],
+        "identifier": "7baa8582-79fe-4939-872d-539365ad32ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "DD Fist of the North Star",
+        "url": "https://mangadex.org/title/7baa8582-79fe-4939-872d-539365ad32ae",
+        "image": "https://uploads.mangadex.org/covers/7baa8582-79fe-4939-872d-539365ad32ae/dfc91337-491a-4bb0-8ae9-26cb174ac37a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25880,
+        "aniId": 55880,
+        "createdAt": "2020-10-12T16:21:03.000Z",
+        "updatedAt": "2021-06-08T01:29:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

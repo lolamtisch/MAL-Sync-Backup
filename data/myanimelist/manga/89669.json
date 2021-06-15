@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "セキツイハウス"
+  ],
+  "authors": [
+    "Seno, Salt"
+  ],
+  "id": 89669,
+  "type": "manga",
+  "title": "Sekitsui House",
+  "url": "https://myanimelist.net/manga/89669/Sekitsui_House",
+  "image": "https://cdn.myanimelist.net/images/manga/2/156973.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-05-10T21:13:48.000Z",
+  "updatedAt": "2021-06-04T11:51:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3063b4db-5188-4639-aaac-5b70dcfb88ea": {
+        "authors": [
+          "Seno Salt"
+        ],
+        "identifier": "3063b4db-5188-4639-aaac-5b70dcfb88ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sekitsui House",
+        "url": "https://mangadex.org/title/3063b4db-5188-4639-aaac-5b70dcfb88ea",
+        "image": "https://uploads.mangadex.org/covers/3063b4db-5188-4639-aaac-5b70dcfb88ea/fe4050d7-ba76-4e17-8ccc-8b249d7d3057.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89669,
+        "aniId": 99182,
+        "createdAt": "2020-10-12T16:08:36.000Z",
+        "updatedAt": "2021-06-04T12:55:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sekitsui_house": {
+        "authors": [
+          "SENO Soruto"
+        ],
+        "identifier": "sekitsui_house",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sekitsui House",
+        "url": "https://fanfox.net/manga/sekitsui_house/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15851/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89669,
+        "aniId": 99182,
+        "createdAt": "2021-05-10T21:13:48.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

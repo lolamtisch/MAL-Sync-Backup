@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "Carole & Tuesday",
+    "キャロル＆チューズデイ",
+    "C&T"
+  ],
+  "authors": [
+    "Shinichirou Watanabe",
+    "Morito Yamataka",
+    "Gaëlle Ruel"
+  ],
+  "id": 111526,
+  "malId": 121552,
+  "type": "manga",
+  "title": "Carole & Tuesday",
+  "url": "https://anilist.co/manga/111526",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111526-rd8eo8WmAqDl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:25.000Z",
+  "updatedAt": "2021-05-20T14:58:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "364eed6a-fc06-49aa-a759-784bd61c3435": {
+        "authors": [
+          "Yamataka Morito",
+          "BONES"
+        ],
+        "identifier": "364eed6a-fc06-49aa-a759-784bd61c3435",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Carole & Tuesday",
+        "url": "https://mangadex.org/title/364eed6a-fc06-49aa-a759-784bd61c3435",
+        "image": "https://uploads.mangadex.org/covers/364eed6a-fc06-49aa-a759-784bd61c3435/37f3d7fd-ee4f-47e9-95e1-77416f98df5c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 121552,
+        "aniId": 111526,
+        "createdAt": "2020-10-12T16:16:55.000Z",
+        "updatedAt": "2021-06-07T07:48:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "carole-tuesday": {
+        "authors": [
+          "YAMATAKA Morito"
+        ],
+        "identifier": "carole-tuesday",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Carole & Tuesday",
+        "url": "https://mangasee123.com/manga/Carole-Tuesday",
+        "image": "https://cover.nep.li/cover/Carole-Tuesday.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121552,
+        "aniId": 111526,
+        "createdAt": "2021-05-06T14:18:22.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "carole_tuesday": {
+        "authors": [
+          "Watanabe Shinichiro",
+          "[Add]"
+        ],
+        "identifier": "carole_tuesday",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Carole & Tuesday",
+        "url": "https://fanfox.net/manga/carole_tuesday/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38343/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121552,
+        "aniId": 111526,
+        "createdAt": "2021-05-06T15:47:28.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

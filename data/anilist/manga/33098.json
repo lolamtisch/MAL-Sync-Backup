@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ぷちモン",
+    "Petit Monster"
+  ],
+  "authors": [
+    "Aoi Nanase"
+  ],
+  "id": 33098,
+  "malId": 3098,
+  "type": "manga",
+  "title": "Puchimon",
+  "url": "https://anilist.co/manga/33098",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3098.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0c483773-a3ad-4814-89db-8dff3030a03e": {
+        "authors": [
+          "Nanase Aoi"
+        ],
+        "identifier": "0c483773-a3ad-4814-89db-8dff3030a03e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Puchimon",
+        "url": "https://mangadex.org/title/0c483773-a3ad-4814-89db-8dff3030a03e",
+        "image": "https://uploads.mangadex.org/covers/0c483773-a3ad-4814-89db-8dff3030a03e/836288e4-6684-4bdd-a108-a148276aab5b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3098,
+        "aniId": 33098,
+        "createdAt": "2020-10-12T16:04:49.000Z",
+        "updatedAt": "2021-06-02T23:39:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

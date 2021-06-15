@@ -1,0 +1,145 @@
+{
+  "altTitle": [
+    "Cross Manage",
+    "クロス・マネジ"
+  ],
+  "authors": [
+    "KAITO"
+  ],
+  "id": 42695,
+  "type": "manga",
+  "title": "Cross Manage",
+  "url": "https://myanimelist.net/manga/42695/Cross_Manage",
+  "image": "https://cdn.myanimelist.net/images/manga/3/85841.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:16.000Z",
+  "updatedAt": "2021-06-01T15:43:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c3e808e-4e39-456d-a8e3-0b38da01bbd0": {
+        "authors": [
+          "KAITO"
+        ],
+        "identifier": "8c3e808e-4e39-456d-a8e3-0b38da01bbd0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cross Manage",
+        "url": "https://mangadex.org/title/8c3e808e-4e39-456d-a8e3-0b38da01bbd0",
+        "image": "https://uploads.mangadex.org/covers/8c3e808e-4e39-456d-a8e3-0b38da01bbd0/bfb635d0-d671-429f-b278-c37072a8ff28.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42695,
+        "aniId": 72695,
+        "createdAt": "2020-10-12T16:05:10.000Z",
+        "updatedAt": "2021-06-03T10:40:58.000Z",
+        "deletedAt": null
+      },
+      "7aa9f32a-4934-44b6-9557-73c4089c969b": {
+        "authors": [
+          "Masuda Yuu"
+        ],
+        "identifier": "7aa9f32a-4934-44b6-9557-73c4089c969b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yukinoshita-san and Her Manager",
+        "url": "https://mangadex.org/title/7aa9f32a-4934-44b6-9557-73c4089c969b",
+        "image": "https://uploads.mangadex.org/covers/7aa9f32a-4934-44b6-9557-73c4089c969b/f03b74e9-f572-4ff5-95af-f44016917bf9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42695,
+        "aniId": 72695,
+        "createdAt": "2020-10-12T16:17:49.000Z",
+        "updatedAt": "2021-06-07T11:18:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_cross_manage_manga_online": {
+        "authors": [],
+        "identifier": "read_cross_manage_manga_online",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cross Manage",
+        "url": "https://manganelo.com/manga/read_cross_manage_manga_online",
+        "image": "https://avt.mkklcdnv6.com/3/d/1-1583463789.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42695,
+        "aniId": 72695,
+        "createdAt": "2020-10-12T16:25:04.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "zi921379": {
+        "authors": [],
+        "identifier": "zi921379",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yukinoshita-San And Her Manager",
+        "url": "https://manganelo.com/manga/zi921379",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2780-zi921379.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42695,
+        "aniId": 72695,
+        "createdAt": "2020-10-12T16:26:31.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cross-manage": {
+        "authors": [
+          "KAITO"
+        ],
+        "identifier": "cross-manage",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cross Manage",
+        "url": "https://mangasee123.com/manga/Cross-Manage",
+        "image": "https://cover.nep.li/cover/Cross-Manage.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42695,
+        "aniId": 72695,
+        "createdAt": "2020-12-23T05:56:14.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cross_manage": {
+        "authors": [
+          "KAITO"
+        ],
+        "identifier": "cross_manage",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cross Manage",
+        "url": "https://fanfox.net/manga/cross_manage/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10935/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42695,
+        "aniId": 72695,
+        "createdAt": "2021-04-04T12:08:40.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

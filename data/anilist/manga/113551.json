@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "アダムの肋骨",
+    "Adam's Rib",
+    "Tulang Rusuk Adam",
+    "The Rib of Adam"
+  ],
+  "authors": [
+    "Atami Michinoku"
+  ],
+  "id": 113551,
+  "malId": 120577,
+  "type": "manga",
+  "title": "Adam no Rokkotsu",
+  "url": "https://anilist.co/manga/113551",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113551-9BfKXbOfnLmb.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:16.000Z",
+  "updatedAt": "2021-05-20T14:58:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d89894a6-c5a3-4a44-b572-183960d2fa66": {
+        "authors": [
+          "MICHINOKU Atami"
+        ],
+        "identifier": "d89894a6-c5a3-4a44-b572-183960d2fa66",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Adam no Rokkotsu",
+        "url": "https://mangadex.org/title/d89894a6-c5a3-4a44-b572-183960d2fa66",
+        "image": "https://uploads.mangadex.org/covers/d89894a6-c5a3-4a44-b572-183960d2fa66/f3d25f25-2bf1-474c-95f4-0a032fe26069.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120577,
+        "aniId": 113551,
+        "createdAt": "2020-10-12T16:18:38.000Z",
+        "updatedAt": "2021-06-07T18:46:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "adam_no_rokkotsu_michinoku_atami": {
+        "authors": [
+          "MICHINOKU Atami"
+        ],
+        "identifier": "adam_no_rokkotsu_michinoku_atami",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Adam no Rokkotsu (MICHINOKU Atami)",
+        "url": "https://fanfox.net/manga/adam_no_rokkotsu_michinoku_atami/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32885/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120577,
+        "aniId": 113551,
+        "createdAt": "2021-01-24T18:13:23.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

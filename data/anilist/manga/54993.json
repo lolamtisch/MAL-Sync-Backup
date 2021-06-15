@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "乱爛倶楽部",
+    "Ranran Club",
+    "Run! Run! Club"
+  ],
+  "authors": [
+    "Koizaburou Nishikigaura"
+  ],
+  "id": 54993,
+  "malId": 24993,
+  "type": "manga",
+  "title": "Ranran Kurabu",
+  "url": "https://anilist.co/manga/54993",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24993.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:48.000Z",
+  "updatedAt": "2021-05-20T14:46:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1d4ad900-0c44-4034-80e0-81da56157420": {
+        "authors": [
+          "Nishikigaura Koizaburou"
+        ],
+        "identifier": "1d4ad900-0c44-4034-80e0-81da56157420",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Run! Run! Club",
+        "url": "https://mangadex.org/title/1d4ad900-0c44-4034-80e0-81da56157420",
+        "image": "https://uploads.mangadex.org/covers/1d4ad900-0c44-4034-80e0-81da56157420/23ec0e92-f198-4369-b1b6-186c1b6d63d3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24993,
+        "aniId": 54993,
+        "createdAt": "2020-10-12T16:19:06.000Z",
+        "updatedAt": "2021-06-07T21:22:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

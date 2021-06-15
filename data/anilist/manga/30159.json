@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Brave Story",
+    "ブレイブ・ストーリー～新説～",
+    "Brave Story: A Retelling of a Classic"
+  ],
+  "authors": [
+    "Youichirou Ono",
+    "Miyuki Miyabe"
+  ],
+  "id": 30159,
+  "malId": 159,
+  "type": "manga",
+  "title": "Brave Story: Shinsetsu",
+  "url": "https://anilist.co/manga/30159",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30159-dRPGEmDMRSKE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7a1ae148-6b63-4d43-9b93-525d6916168a": {
+        "authors": [
+          "MIYABE Miyuki",
+          "ONO Youichirou"
+        ],
+        "identifier": "7a1ae148-6b63-4d43-9b93-525d6916168a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Brave Story ~Shinsetsu~",
+        "url": "https://mangadex.org/title/7a1ae148-6b63-4d43-9b93-525d6916168a",
+        "image": "https://uploads.mangadex.org/covers/7a1ae148-6b63-4d43-9b93-525d6916168a/333ad7f6-1f5c-47dd-be15-afd6fb891d6f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 159,
+        "aniId": 30159,
+        "createdAt": "2020-10-12T16:05:20.000Z",
+        "updatedAt": "2021-06-03T11:52:40.000Z",
+        "deletedAt": null
+      },
+      "db845ebc-0e39-49dd-9450-e12512cb4870": {
+        "authors": [
+          "MIYABE Miyuki",
+          "ONO Youichiro"
+        ],
+        "identifier": "db845ebc-0e39-49dd-9450-e12512cb4870",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Brave Story Shinsetsu - Jikkai no Tabibito",
+        "url": "https://mangadex.org/title/db845ebc-0e39-49dd-9450-e12512cb4870",
+        "image": "https://uploads.mangadex.org/covers/db845ebc-0e39-49dd-9450-e12512cb4870/7928223b-d895-440f-bd2f-2d4ddad04d32.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 159,
+        "aniId": 30159,
+        "createdAt": "2021-01-18T01:03:17.000Z",
+        "updatedAt": "2021-06-08T10:04:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

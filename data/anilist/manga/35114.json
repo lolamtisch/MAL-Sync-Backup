@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ロマンスドーン",
+    "Romance Dawn - Version 1"
+  ],
+  "authors": [
+    "Eiichirou Oda"
+  ],
+  "id": 35114,
+  "malId": 5114,
+  "type": "manga",
+  "title": "Romance Dawn",
+  "url": "https://anilist.co/manga/35114",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx35114-FIOTu1pOTIuC.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "65b3652b-8d24-4b2a-9fd1-cec5912a1f7e": {
+        "authors": [
+          "Ku Eunhae"
+        ],
+        "identifier": "65b3652b-8d24-4b2a-9fd1-cec5912a1f7e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I need romance",
+        "url": "https://mangadex.org/title/65b3652b-8d24-4b2a-9fd1-cec5912a1f7e",
+        "image": "https://uploads.mangadex.org/covers/65b3652b-8d24-4b2a-9fd1-cec5912a1f7e/ef2ca67d-9b54-4c00-8c55-7b26102cf4ed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5114,
+        "aniId": 35114,
+        "createdAt": "2020-10-12T16:17:42.000Z",
+        "updatedAt": "2021-06-07T10:01:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "romance_dawn": {
+        "authors": [],
+        "identifier": "romance_dawn",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Romance Dawn",
+        "url": "https://manganelo.com/manga/romance_dawn",
+        "image": "https://avt.mkklcdnv6.com/2/m/12-1583485919.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5114,
+        "aniId": 35114,
+        "createdAt": "2020-10-12T16:25:13.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

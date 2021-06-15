@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "同じ月を見ている",
+    "Under the same Moon"
+  ],
+  "authors": [
+    "Seiki Tsuchida"
+  ],
+  "id": 52921,
+  "malId": 22921,
+  "type": "manga",
+  "title": "Onaji Tsuki wo Miteiru",
+  "url": "https://anilist.co/manga/52921",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52921-saaiegS8bIO7.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:34.000Z",
+  "updatedAt": "2021-05-20T14:46:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "efaf64d2-73f4-4250-9327-9d6338d185b0": {
+        "authors": [
+          "TSUCHIDA Seiki"
+        ],
+        "identifier": "efaf64d2-73f4-4250-9327-9d6338d185b0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onaji Tsuki o Mite Iru",
+        "url": "https://mangadex.org/title/efaf64d2-73f4-4250-9327-9d6338d185b0",
+        "image": "https://uploads.mangadex.org/covers/efaf64d2-73f4-4250-9327-9d6338d185b0/a13035f1-2cac-4d00-80a4-e1eeaca34936.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22921,
+        "aniId": 52921,
+        "createdAt": "2020-10-12T16:06:06.000Z",
+        "updatedAt": "2021-06-03T17:12:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "ぽちゃまに",
+    "Pochamani"
+  ],
+  "authors": [
+    "Kaname Hirama"
+  ],
+  "id": 69731,
+  "malId": 39731,
+  "type": "manga",
+  "title": "Pochama ni",
+  "url": "https://anilist.co/manga/69731",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx69731-6SEkaX4iPGdu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "465716b5-e87a-4db0-aa49-254352f20ffc": {
+        "authors": [
+          "Hirama Kaname"
+        ],
+        "identifier": "465716b5-e87a-4db0-aa49-254352f20ffc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pochamani",
+        "url": "https://mangadex.org/title/465716b5-e87a-4db0-aa49-254352f20ffc",
+        "image": "https://uploads.mangadex.org/covers/465716b5-e87a-4db0-aa49-254352f20ffc/3b45f732-7368-4f8b-9033-6dad5fd78c6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39731,
+        "aniId": 69731,
+        "createdAt": "2020-10-12T16:06:49.000Z",
+        "updatedAt": "2021-06-03T22:20:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pochamani": {
+        "authors": [],
+        "identifier": "pochamani",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Pochamani",
+        "url": "https://manganelo.com/manga/pochamani",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1755-pochamani.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39731,
+        "aniId": 69731,
+        "createdAt": "2020-10-12T16:24:53.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "pochamani": {
+        "authors": [
+          "HIRAMA Kaname"
+        ],
+        "identifier": "pochamani",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Pochamani",
+        "url": "https://mangasee123.com/manga/Pochamani",
+        "image": "https://cover.nep.li/cover/Pochamani.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39731,
+        "aniId": 69731,
+        "createdAt": "2021-03-25T03:49:03.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

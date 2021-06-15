@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "震撼鲜师",
+    "Hammer Sesshon",
+    "Hammer Session"
+  ],
+  "authors": [
+    "Namoshiro Tanahashi",
+    "Yamato Koganemaru"
+  ],
+  "id": 42269,
+  "malId": 12269,
+  "type": "manga",
+  "title": "Hammer Session!",
+  "url": "https://anilist.co/manga/42269",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12269.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc38e0b1-e03f-4286-a929-7ed37a558ac9": {
+        "authors": [
+          "Tanahashi Namoshiro",
+          "Koganemaru Yamato",
+          "YATSU Hiroyuki",
+          "KOGANEMARU Yamato"
+        ],
+        "identifier": "bc38e0b1-e03f-4286-a929-7ed37a558ac9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hammer Session!",
+        "url": "https://mangadex.org/title/bc38e0b1-e03f-4286-a929-7ed37a558ac9",
+        "image": "https://uploads.mangadex.org/covers/bc38e0b1-e03f-4286-a929-7ed37a558ac9/dfbf17f5-880a-4d54-9b25-dda85bd4ebab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12269,
+        "aniId": 42269,
+        "createdAt": "2020-10-12T16:02:42.000Z",
+        "updatedAt": "2021-06-02T08:49:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hammer_session": {
+        "authors": [],
+        "identifier": "hammer_session",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hammer Session!",
+        "url": "https://manganelo.com/manga/hammer_session",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1648-hammer_session.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12269,
+        "aniId": 42269,
+        "createdAt": "2020-10-12T16:23:14.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "my_obsession_wont_let_me_leave": {
+        "authors": [],
+        "identifier": "my_obsession_wont_let_me_leave",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Obsession Won't Let Me Leave",
+        "url": "https://manganelo.com/manga/my_obsession_wont_let_me_leave",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20242-my_obsession_wont_let_me_leave.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12269,
+        "aniId": 42269,
+        "createdAt": "2020-10-12T16:24:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sw953205": {
+        "authors": [
+          "Koganemaru Yamato",
+          "Tanahashi Namoshiro",
+          "Yatsu Hiroyuki"
+        ],
+        "identifier": "manga-sw953205",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hammer Session!",
+        "url": "https://manganato.com/manga-sw953205",
+        "image": "https://avt.mkklcdnv6temp.com/15/k/2-1583466292.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12269,
+        "aniId": 42269,
+        "createdAt": "2021-05-31T14:53:09.000Z",
+        "updatedAt": "2021-05-31T15:22:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

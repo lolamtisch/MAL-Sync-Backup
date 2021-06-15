@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Phoenix Wright: Ace Attorney",
+    "逆転裁判",
+    "Turnabout Courtroom"
+  ],
+  "authors": [
+    "Kenji Kuroda",
+    "Kazuo Maekawa"
+  ],
+  "id": 33750,
+  "malId": 3750,
+  "type": "manga",
+  "title": "Gyakuten Saiban",
+  "url": "https://anilist.co/manga/33750",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3750-TEXviWc98uar.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9403d8ab-3bf6-47f6-92a7-0affb5c82644": {
+        "authors": [
+          "Maekawa Kazuo",
+          "Kuroda Kenji"
+        ],
+        "identifier": "9403d8ab-3bf6-47f6-92a7-0affb5c82644",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gyakuten Saiban",
+        "url": "https://mangadex.org/title/9403d8ab-3bf6-47f6-92a7-0affb5c82644",
+        "image": "https://uploads.mangadex.org/covers/9403d8ab-3bf6-47f6-92a7-0affb5c82644/c1ee3125-e52b-45ee-9363-151430a5a3db.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3750,
+        "aniId": 33750,
+        "createdAt": "2020-10-12T16:09:01.000Z",
+        "updatedAt": "2021-06-04T14:29:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

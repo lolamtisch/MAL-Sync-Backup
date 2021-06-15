@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "さかしま",
+    "Reverse"
+  ],
+  "authors": [
+    "Amuji Nanakumo"
+  ],
+  "id": 88865,
+  "malId": 59509,
+  "type": "manga",
+  "title": "Sakashima",
+  "url": "https://anilist.co/manga/88865",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88865-xRVgA3l0FaEG.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T15:51:38.000Z",
+  "updatedAt": "2021-06-04T15:51:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5b870988-d838-409b-8df3-c5c20b638414": {
+        "authors": [
+          "Nanakumo Amuji"
+        ],
+        "identifier": "5b870988-d838-409b-8df3-c5c20b638414",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakashima",
+        "url": "https://mangadex.org/title/5b870988-d838-409b-8df3-c5c20b638414",
+        "image": "https://uploads.mangadex.org/covers/5b870988-d838-409b-8df3-c5c20b638414/1db5e44b-adac-4ce6-89d6-dd478902503b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59509,
+        "aniId": 88865,
+        "createdAt": "2020-10-12T16:09:08.000Z",
+        "updatedAt": "2021-06-04T22:09:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

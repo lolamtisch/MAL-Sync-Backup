@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "Magical DoReMi",
+    "おジャ魔女どれみ",
+    "Useless Witchgirl Doremi",
+    "La Màgica Doremi"
+  ],
+  "id": 350,
+  "malId": 350,
+  "type": "anime",
+  "title": "Ojamajo Doremi",
+  "url": "https://anilist.co/anime/350",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx350-qhqB286Za32Y.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:39.000Z",
+  "updatedAt": "2021-05-20T14:33:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "pv7j": {
+        "identifier": "pv7j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Magical DoReMi (Dub)",
+        "url": "https://9anime.ru/watch/magical-doremi-dub.pv7j",
+        "image": "https://static.akacdn.ru/files/images/2019/01/bc73e1d86d75a1447458be2a5a80fb36.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 350,
+        "aniId": 350,
+        "createdAt": "2020-10-12T15:54:52.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "qkpj": {
+        "identifier": "qkpj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ojamajo Doremi",
+        "url": "https://9anime.ru/watch/ojamajo-doremi.qkpj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-6plwK8zwyc4/V6V4qjXpppI/AAAAAAAA0qI/0jsu3Q9jJjc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 350,
+        "aniId": 350,
+        "createdAt": "2020-10-12T15:55:08.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ojamajo-doremi": {
+        "identifier": "ojamajo-doremi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ojamajo Doremi",
+        "url": "https://www3.gogoanime.io/category/ojamajo-doremi",
+        "image": "https://cdnimg.xyz/cover/ojamajo-doremi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 350,
+        "aniId": 350,
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "ojamajo-doremi-dub": {
+        "identifier": "ojamajo-doremi-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ojamajo Doremi (Dub)",
+        "url": "https://gogoanime.so/category/ojamajo-doremi-dub",
+        "image": "https://gogocdn.net/cover/ojamajo-doremi-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 350,
+        "aniId": 350,
+        "createdAt": "2021-01-06T21:35:22.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Twistmoe": {
+      "ojamajo-doremi": {
+        "identifier": "ojamajo-doremi",
+        "type": "anime",
+        "page": "Twistmoe",
+        "title": "Ojamajo Doremi",
+        "url": "https://twist.moe/a/ojamajo-doremi/1",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 350,
+        "aniId": 350,
+        "createdAt": "2020-10-12T16:27:09.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

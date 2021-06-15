@@ -1,0 +1,63 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Shin Mikuni"
+  ],
+  "id": 42112,
+  "malId": 12112,
+  "type": "manga",
+  "title": "Spray King",
+  "url": "https://anilist.co/manga/42112",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12112.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "18868868-ef41-45c6-b811-9ca8a17c9041": {
+        "authors": [
+          "Mikuni Shin"
+        ],
+        "identifier": "18868868-ef41-45c6-b811-9ca8a17c9041",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spray King",
+        "url": "https://mangadex.org/title/18868868-ef41-45c6-b811-9ca8a17c9041",
+        "image": "https://uploads.mangadex.org/covers/18868868-ef41-45c6-b811-9ca8a17c9041/58759b6b-92e2-41e5-91bb-4c76487606e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12112,
+        "aniId": 42112,
+        "createdAt": "2020-10-12T16:04:08.000Z",
+        "updatedAt": "2021-06-02T18:54:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "spray_king": {
+        "authors": [
+          "MIKUNI Shin"
+        ],
+        "identifier": "spray_king",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Spray King",
+        "url": "https://fanfox.net/manga/spray_king/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5201/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12112,
+        "aniId": 42112,
+        "createdAt": "2021-05-20T21:15:20.000Z",
+        "updatedAt": "2021-05-20T21:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

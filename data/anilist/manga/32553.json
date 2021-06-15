@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Sakufu Ajimine"
+  ],
+  "id": 32553,
+  "malId": 2553,
+  "type": "manga",
+  "title": "Hanjuku Orange",
+  "url": "https://anilist.co/manga/32553",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2553.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db057141-68b0-4adf-bf02-216ab2841cb8": {
+        "authors": [
+          "Ajimine Sakufu"
+        ],
+        "identifier": "db057141-68b0-4adf-bf02-216ab2841cb8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanjuku Orange",
+        "url": "https://mangadex.org/title/db057141-68b0-4adf-bf02-216ab2841cb8",
+        "image": "https://uploads.mangadex.org/covers/db057141-68b0-4adf-bf02-216ab2841cb8/b3988e70-6370-4e9f-858c-28fb56b0174d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2553,
+        "aniId": 32553,
+        "createdAt": "2020-10-12T16:07:18.000Z",
+        "updatedAt": "2021-06-04T01:52:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

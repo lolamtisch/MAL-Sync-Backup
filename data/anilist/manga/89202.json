@@ -1,0 +1,110 @@
+{
+  "altTitle": [
+    "Species Domain",
+    "スピーシーズドメイン",
+    "物種領域",
+    "스피시즈 도메인"
+  ],
+  "authors": [
+    "Shunsuke Noro"
+  ],
+  "id": 89202,
+  "malId": 61243,
+  "type": "manga",
+  "title": "Species Domain",
+  "url": "https://anilist.co/manga/89202",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx89202-99gwYTB3TcF8.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:40.000Z",
+  "updatedAt": "2021-05-20T14:50:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9dabbe08-993a-457b-bf72-9e475cd5bb33": {
+        "authors": [
+          "Shunsuke Noro"
+        ],
+        "identifier": "9dabbe08-993a-457b-bf72-9e475cd5bb33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Species Domain",
+        "url": "https://mangadex.org/title/9dabbe08-993a-457b-bf72-9e475cd5bb33",
+        "image": "https://uploads.mangadex.org/covers/9dabbe08-993a-457b-bf72-9e475cd5bb33/094c9d32-567e-4da4-9697-4bf0f2e5c031.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61243,
+        "aniId": 89202,
+        "createdAt": "2020-10-12T16:08:46.000Z",
+        "updatedAt": "2021-06-04T12:37:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "species_domain": {
+        "authors": [],
+        "identifier": "species_domain",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Species Domain",
+        "url": "https://manganelo.com/manga/species_domain",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1028-species_domain.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61243,
+        "aniId": 89202,
+        "createdAt": "2020-10-12T16:25:31.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "species-domain": {
+        "authors": [
+          "NORO Shunsuke"
+        ],
+        "identifier": "species-domain",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Species Domain",
+        "url": "https://mangasee123.com/manga/Species-Domain",
+        "image": "https://cover.nep.li/cover/Species-Domain.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61243,
+        "aniId": 89202,
+        "createdAt": "2020-12-23T23:56:04.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "species_domain": {
+        "authors": [
+          "NORO Shunsuke"
+        ],
+        "identifier": "species_domain",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Species Domain",
+        "url": "https://fanfox.net/manga/species_domain/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17987/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61243,
+        "aniId": 89202,
+        "createdAt": "2021-05-06T21:17:42.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

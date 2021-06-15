@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "シンデレラ特急",
+    "Cinderella Express"
+  ],
+  "authors": [
+    "Yoko Matsumoto"
+  ],
+  "id": 32968,
+  "malId": 2968,
+  "type": "manga",
+  "title": "Cinderella Tokkyuu",
+  "url": "https://anilist.co/manga/32968",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32968-qccxv7U8VMJ3.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-05-20T14:37:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56049dce-0ba0-4ef1-b8f1-485a6be04fea": {
+        "authors": [
+          "MATSUMOTO Yoko"
+        ],
+        "identifier": "56049dce-0ba0-4ef1-b8f1-485a6be04fea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cinderella Express",
+        "url": "https://mangadex.org/title/56049dce-0ba0-4ef1-b8f1-485a6be04fea",
+        "image": "https://uploads.mangadex.org/covers/56049dce-0ba0-4ef1-b8f1-485a6be04fea/2399bd92-05c5-4ba6-abea-71ad5e96fa58.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2968,
+        "aniId": 32968,
+        "createdAt": "2020-10-12T16:03:07.000Z",
+        "updatedAt": "2021-06-02T11:51:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

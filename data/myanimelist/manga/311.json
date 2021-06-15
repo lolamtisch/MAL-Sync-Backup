@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Eternity",
+    "이터너티"
+  ],
+  "authors": [
+    "Park, Jin-Ryong",
+    "Shin, Yong-Gwan"
+  ],
+  "id": 311,
+  "type": "manga",
+  "title": "Eternity",
+  "url": "https://myanimelist.net/manga/311/Eternity",
+  "image": "https://cdn.myanimelist.net/images/manga/1/152314.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:20.000Z",
+  "updatedAt": "2021-04-06T22:38:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb8ebce1-d5e5-4738-9e10-77ab88e3a684": {
+        "authors": [
+          "PARK Jin-Ryong",
+          "SHIN Yong-Gwan"
+        ],
+        "identifier": "bb8ebce1-d5e5-4738-9e10-77ab88e3a684",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eternity",
+        "url": "https://mangadex.org/title/bb8ebce1-d5e5-4738-9e10-77ab88e3a684",
+        "image": "https://uploads.mangadex.org/covers/bb8ebce1-d5e5-4738-9e10-77ab88e3a684/ef3b85c2-fe53-4047-86fd-0e449ef82448.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 311,
+        "aniId": 30311,
+        "createdAt": "2020-10-12T16:13:03.000Z",
+        "updatedAt": "2021-06-05T18:30:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eternity": {
+        "authors": [
+          "Park",
+          "Jin-Ryong"
+        ],
+        "identifier": "eternity",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eternity",
+        "url": "https://manganelo.com/manga/eternity",
+        "image": "https://avt.mkklcdnv6temp.com/49/l/3-1583469623.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 311,
+        "aniId": 30311,
+        "createdAt": "2021-04-06T22:38:27.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

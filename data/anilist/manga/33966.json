@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "はつめいプリンセス",
+    "Inventive Princess",
+    "Invention Princess"
+  ],
+  "authors": [
+    "Kyouko Kumagai"
+  ],
+  "id": 33966,
+  "malId": 3966,
+  "type": "manga",
+  "title": "Hatsumei Princess",
+  "url": "https://anilist.co/manga/33966",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33966-gnSIDzJq8WvE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:22.000Z",
+  "updatedAt": "2021-05-20T14:38:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "00ba6332-cfd9-418c-a515-eb3a54cb7292": {
+        "authors": [
+          "Kumagai Kyoko"
+        ],
+        "identifier": "00ba6332-cfd9-418c-a515-eb3a54cb7292",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatsumei Princess",
+        "url": "https://mangadex.org/title/00ba6332-cfd9-418c-a515-eb3a54cb7292",
+        "image": "https://uploads.mangadex.org/covers/00ba6332-cfd9-418c-a515-eb3a54cb7292/418eda85-2e18-4ffd-b5d5-74feb0fb7420.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3966,
+        "aniId": 33966,
+        "createdAt": "2020-10-12T16:03:34.000Z",
+        "updatedAt": "2021-06-02T14:56:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

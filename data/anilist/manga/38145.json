@@ -1,0 +1,83 @@
+{
+  "altTitle": [
+    "SEVEN OCEAN"
+  ],
+  "authors": [
+    "Suu Minazuki"
+  ],
+  "id": 38145,
+  "malId": 8145,
+  "type": "manga",
+  "title": "SEVEN OCEAN",
+  "url": "https://anilist.co/manga/38145",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8145.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:58.000Z",
+  "updatedAt": "2021-05-20T14:39:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8d5ebcf0-78ed-4a01-aa45-3f475a5f03a3": {
+        "authors": [
+          "Minazuki Suu"
+        ],
+        "identifier": "8d5ebcf0-78ed-4a01-aa45-3f475a5f03a3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seven Ocean",
+        "url": "https://mangadex.org/title/8d5ebcf0-78ed-4a01-aa45-3f475a5f03a3",
+        "image": "https://uploads.mangadex.org/covers/8d5ebcf0-78ed-4a01-aa45-3f475a5f03a3/3c004ac1-7182-4f2d-b3c4-382c14afe3ac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8145,
+        "aniId": 38145,
+        "createdAt": "2020-10-12T16:04:57.000Z",
+        "updatedAt": "2021-06-03T00:39:42.000Z",
+        "deletedAt": null
+      },
+      "987567fb-2535-4676-9296-dcb32ea7c3a8": {
+        "authors": [
+          "Morido Kou"
+        ],
+        "identifier": "987567fb-2535-4676-9296-dcb32ea7c3a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "We'll Go See the Ocean.",
+        "url": "https://mangadex.org/title/987567fb-2535-4676-9296-dcb32ea7c3a8",
+        "image": "https://uploads.mangadex.org/covers/987567fb-2535-4676-9296-dcb32ea7c3a8/a540d358-83c6-41d1-a5f6-4084cc97a260.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8145,
+        "aniId": 38145,
+        "createdAt": "2020-10-12T16:15:38.000Z",
+        "updatedAt": "2021-06-06T15:30:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "seven_ocean": {
+        "authors": [],
+        "identifier": "seven_ocean",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seven Ocean",
+        "url": "https://manganelo.com/manga/seven_ocean",
+        "image": "https://avt.mkklcdnv6.com/6/a/5-1583472088.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8145,
+        "aniId": 38145,
+        "createdAt": "2020-10-12T16:25:22.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

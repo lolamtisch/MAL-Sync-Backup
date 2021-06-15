@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "うらさい"
+  ],
+  "authors": [
+    "You Hyun",
+    "An Shirogane"
+  ],
+  "id": 64667,
+  "malId": 34667,
+  "type": "manga",
+  "title": "Urasai",
+  "url": "https://anilist.co/manga/64667",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx64667-gapczFOsACRQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:59.000Z",
+  "updatedAt": "2021-05-20T14:47:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3567e640-d34f-450a-94ee-b135ffc23ec1": {
+        "authors": [
+          "Shirogane An",
+          "You Hyun"
+        ],
+        "identifier": "3567e640-d34f-450a-94ee-b135ffc23ec1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Urasai",
+        "url": "https://mangadex.org/title/3567e640-d34f-450a-94ee-b135ffc23ec1",
+        "image": "https://uploads.mangadex.org/covers/3567e640-d34f-450a-94ee-b135ffc23ec1/096117a4-87b3-4987-b646-4934649b4ca6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34667,
+        "aniId": 64667,
+        "createdAt": "2020-10-12T16:04:02.000Z",
+        "updatedAt": "2021-06-02T18:11:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "urasai": {
+        "authors": [],
+        "identifier": "urasai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Urasai",
+        "url": "https://manganelo.com/manga/urasai",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/10647-urasai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34667,
+        "aniId": 64667,
+        "createdAt": "2020-10-12T16:25:58.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

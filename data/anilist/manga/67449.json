@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Practice Husband",
+    "恋を教えて",
+    "Koi o Oshiete",
+    "Teach Me to Love"
+  ],
+  "authors": [
+    "Mao Karino",
+    "Judith McWilliams"
+  ],
+  "id": 67449,
+  "malId": 37449,
+  "type": "manga",
+  "title": "Koi wo Oshiete",
+  "url": "https://anilist.co/manga/67449",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37449.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:31.000Z",
+  "updatedAt": "2021-05-20T14:48:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "28a1572a-b726-4131-8ee4-483ed683dafa": {
+        "authors": [
+          "Judith McWilliams",
+          "KARINO Mao"
+        ],
+        "identifier": "28a1572a-b726-4131-8ee4-483ed683dafa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi o Oshiete",
+        "url": "https://mangadex.org/title/28a1572a-b726-4131-8ee4-483ed683dafa",
+        "image": "https://uploads.mangadex.org/covers/28a1572a-b726-4131-8ee4-483ed683dafa/3bba47e6-74e7-43b2-8242-69471f1db0b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 37449,
+        "aniId": 67449,
+        "createdAt": "2020-10-12T16:13:04.000Z",
+        "updatedAt": "2021-06-05T19:18:57.000Z",
+        "deletedAt": null
+      },
+      "6734add6-788e-429c-9960-066b9eccf3d6": {
+        "authors": [
+          "TYPE-MOON",
+          "Tsurusaki Yuu"
+        ],
+        "identifier": "6734add6-788e-429c-9960-066b9eccf3d6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oshiete FGO! Ijin to Shinwa no Grand Order",
+        "url": "https://mangadex.org/title/6734add6-788e-429c-9960-066b9eccf3d6",
+        "image": "https://uploads.mangadex.org/covers/6734add6-788e-429c-9960-066b9eccf3d6/0a5cea02-c7ce-45d8-b2db-97c4572ae837.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37449,
+        "aniId": 67449,
+        "createdAt": "2020-10-12T16:15:17.000Z",
+        "updatedAt": "2021-06-06T12:29:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koi_o_oshiete": {
+        "authors": [
+          "Judith McWilliams"
+        ],
+        "identifier": "koi_o_oshiete",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koi o Oshiete",
+        "url": "https://fanfox.net/manga/koi_o_oshiete/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10556/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37449,
+        "aniId": 67449,
+        "createdAt": "2020-12-16T23:29:06.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

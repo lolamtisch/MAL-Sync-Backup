@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "ゲッターロボ"
+  ],
+  "authors": [
+    "Go Nagai",
+    "Ken Ishikawa"
+  ],
+  "id": 31551,
+  "malId": 1551,
+  "type": "manga",
+  "title": "Getter Robo",
+  "url": "https://anilist.co/manga/31551",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31551-4bEAZv8P70Iq.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:47.000Z",
+  "updatedAt": "2021-06-04T03:18:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f35a8c30-3f9c-4105-818d-63673ff2c1b6": {
+        "authors": [
+          "Nagai Go",
+          "Ishikawa Ken"
+        ],
+        "identifier": "f35a8c30-3f9c-4105-818d-63673ff2c1b6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Getter Robo",
+        "url": "https://mangadex.org/title/f35a8c30-3f9c-4105-818d-63673ff2c1b6",
+        "image": "https://uploads.mangadex.org/covers/f35a8c30-3f9c-4105-818d-63673ff2c1b6/bf4dd9aa-3278-4add-a2e7-73a0b022c859.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1551,
+        "aniId": 31551,
+        "createdAt": "2020-10-12T16:04:33.000Z",
+        "updatedAt": "2021-06-02T21:47:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mt921976": {
+        "authors": [],
+        "identifier": "mt921976",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dino Getter",
+        "url": "https://manganelo.com/manga/mt921976",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3394-mt921976.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1551,
+        "aniId": 31551,
+        "createdAt": "2020-10-12T16:24:24.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "getter_robo": {
+        "authors": [
+          "Ishikawa",
+          "Ken"
+        ],
+        "identifier": "getter_robo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Getter Robo",
+        "url": "https://manganelo.com/manga/getter_robo",
+        "image": "https://avt.mkklcdnv6.com/10/d/11-1583484374.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1551,
+        "aniId": 31551,
+        "createdAt": "2020-11-07T15:59:19.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "getter-robo": {
+        "authors": [
+          "ISHIKAWA Ken",
+          "NAGAI Go"
+        ],
+        "identifier": "getter-robo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Getter Robo",
+        "url": "https://mangasee123.com/manga/Getter-Robo",
+        "image": "https://cover.nep.li/cover/Getter-Robo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1551,
+        "aniId": 31551,
+        "createdAt": "2021-03-06T13:20:32.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

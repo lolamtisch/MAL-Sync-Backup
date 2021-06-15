@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "紳士と野良犬",
+    "The Gentleman and the Stray Dog"
+  ],
+  "authors": [
+    "Mio Tennouji"
+  ],
+  "id": 67153,
+  "malId": 37153,
+  "type": "manga",
+  "title": "Shinshi to Norainu",
+  "url": "https://anilist.co/manga/67153",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37153.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-03T07:30:51.000Z",
+  "updatedAt": "2021-06-03T07:30:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba5c485f-cfe3-4860-9075-e4ad247f8dc6": {
+        "authors": [
+          "Tennouji Mio"
+        ],
+        "identifier": "ba5c485f-cfe3-4860-9075-e4ad247f8dc6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinshi to Norainu",
+        "url": "https://mangadex.org/title/ba5c485f-cfe3-4860-9075-e4ad247f8dc6",
+        "image": "https://uploads.mangadex.org/covers/ba5c485f-cfe3-4860-9075-e4ad247f8dc6/a3d81218-c29f-46ab-b1f2-43681ef0541c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37153,
+        "aniId": 67153,
+        "createdAt": "2020-10-12T16:06:38.000Z",
+        "updatedAt": "2021-06-03T21:40:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

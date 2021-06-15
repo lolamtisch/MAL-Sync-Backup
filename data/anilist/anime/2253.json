@@ -1,0 +1,113 @@
+{
+  "altTitle": [
+    "マジンガーＺ",
+    "TranZor Z",
+    "Mazinga Z"
+  ],
+  "id": 2253,
+  "malId": 2253,
+  "type": "anime",
+  "title": "Mazinger Z",
+  "url": "https://anilist.co/anime/2253",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2253-nS4Os86CPB5a.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:14.000Z",
+  "updatedAt": "2021-05-20T14:36:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "olzz": {
+        "identifier": "olzz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mazinger Z",
+        "url": "https://9anime.ru/watch/mazinger-z.olzz",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aQygObmuzbI/V8PBzKpd-LI/AAAAAAAA6OM/QgHeI08r5_Y/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2253,
+        "aniId": 2253,
+        "createdAt": "2020-10-12T15:54:15.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "onz5": {
+        "identifier": "onz5",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mazinger Z (Dub)",
+        "url": "https://9anime.ru/watch/mazinger-z-dub.onz5",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-aHVAl9GhN1g/WM4bHnEkdqI/AAAAAAABgAk/tBm4A_TafdU/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2253,
+        "aniId": 2253,
+        "createdAt": "2020-10-12T15:54:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2009": {
+        "identifier": "2009",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Mazinger Z",
+        "url": "https://aniwatch.me/anime/2009",
+        "image": "https://img.aniwatch.me/B7C08507F06B432C62E96046F2DA49CA",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2253,
+        "aniId": 2253,
+        "createdAt": "2020-10-12T15:58:13.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mazinger-z": {
+        "identifier": "mazinger-z",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mazinger Z ",
+        "url": "https://www9.gogoanime.io/category/mazinger-z",
+        "image": "https://cdnimg.xyz/cover/mazinger-z.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2253,
+        "aniId": 2253,
+        "createdAt": "2020-10-12T16:01:15.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "mazinger%20edition%20z": {
+        "identifier": "mazinger%20edition%20z",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Mazinger Edition Z",
+        "url": "https://www.crunchyroll.com/mazinger-edition-z?media_id=712599",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/4f1b8a8eaf86c33173a9726cf896e2bb1461018235_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 2253,
+        "aniId": 2253,
+        "createdAt": "2021-03-01T19:51:35.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

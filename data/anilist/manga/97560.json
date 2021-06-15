@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "てをつなごうよ",
+    "Let's Hold Hands"
+  ],
+  "authors": [
+    "Amu Meguro"
+  ],
+  "id": 97560,
+  "malId": 100537,
+  "type": "manga",
+  "title": "Te wo Tsunagou yo",
+  "url": "https://anilist.co/manga/97560",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97560-BshB3AiehBv8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:49.000Z",
+  "updatedAt": "2021-05-20T14:54:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "184a6d41-c35e-4ea8-82af-36ff463a5c58": {
+        "authors": [
+          "Meguro Amu"
+        ],
+        "identifier": "184a6d41-c35e-4ea8-82af-36ff463a5c58",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Te wo Tsunagou yo",
+        "url": "https://mangadex.org/title/184a6d41-c35e-4ea8-82af-36ff463a5c58",
+        "image": "https://uploads.mangadex.org/covers/184a6d41-c35e-4ea8-82af-36ff463a5c58/8fff6ba0-8734-434c-af85-ec40f1362f59.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100537,
+        "aniId": 97560,
+        "createdAt": "2020-10-12T16:09:56.000Z",
+        "updatedAt": "2021-06-04T21:05:00.000Z",
+        "deletedAt": null
+      },
+      "410b6365-174d-49db-ba42-0a8d978f2a4a": {
+        "authors": [
+          "Takishima Asaka"
+        ],
+        "identifier": "410b6365-174d-49db-ba42-0a8d978f2a4a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou - How to Hold Hands (Doujinshi)",
+        "url": "https://mangadex.org/title/410b6365-174d-49db-ba42-0a8d978f2a4a",
+        "image": "https://uploads.mangadex.org/covers/410b6365-174d-49db-ba42-0a8d978f2a4a/55e673a0-e3c4-440c-a399-fbef6eb43d01.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100537,
+        "aniId": 97560,
+        "createdAt": "2020-10-12T16:19:26.000Z",
+        "updatedAt": "2021-06-07T21:59:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "te_wo_tsunagou_yo": {
+        "authors": [],
+        "identifier": "te_wo_tsunagou_yo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Te Wo Tsunagou Yo",
+        "url": "https://manganelo.com/manga/te_wo_tsunagou_yo",
+        "image": "https://avt.mkklcdnv6.com/33/d/16-1583494662.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100537,
+        "aniId": 97560,
+        "createdAt": "2020-10-12T16:25:39.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

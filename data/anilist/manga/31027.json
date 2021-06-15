@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "ナインパズル",
+    "Nain Pazuru",
+    "Ichigo Namida",
+    "Strawberry Tears",
+    "Platinum"
+  ],
+  "authors": [
+    "Mayu Sakai"
+  ],
+  "id": 31027,
+  "malId": 1027,
+  "type": "manga",
+  "title": "Nine Puzzle",
+  "url": "https://anilist.co/manga/31027",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31027-L5RMgMO70nNI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d1b78cf3-1b79-4fc1-a216-c28d15c88904": {
+        "authors": [
+          "SAKAI Mayu"
+        ],
+        "identifier": "d1b78cf3-1b79-4fc1-a216-c28d15c88904",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nine Puzzle",
+        "url": "https://mangadex.org/title/d1b78cf3-1b79-4fc1-a216-c28d15c88904",
+        "image": "https://uploads.mangadex.org/covers/d1b78cf3-1b79-4fc1-a216-c28d15c88904/bc579302-5575-4c05-8ae7-7ba75a017758.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1027,
+        "aniId": 31027,
+        "createdAt": "2020-10-12T16:05:01.000Z",
+        "updatedAt": "2021-06-03T09:42:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

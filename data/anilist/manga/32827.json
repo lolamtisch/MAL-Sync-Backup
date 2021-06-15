@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "赤い花",
+    "Crimson Flower"
+  ],
+  "authors": [
+    "Mika Himegi"
+  ],
+  "id": 32827,
+  "malId": 2827,
+  "type": "manga",
+  "title": "Akai Hana",
+  "url": "https://anilist.co/manga/32827",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2827.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:16.000Z",
+  "updatedAt": "2021-05-20T14:37:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5dca29b0-a07b-4df6-8e43-74c25388f35f": {
+        "authors": [
+          "Himegi Mika"
+        ],
+        "identifier": "5dca29b0-a07b-4df6-8e43-74c25388f35f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akai Hana",
+        "url": "https://mangadex.org/title/5dca29b0-a07b-4df6-8e43-74c25388f35f",
+        "image": "https://uploads.mangadex.org/covers/5dca29b0-a07b-4df6-8e43-74c25388f35f/5a049fd4-5a77-49af-9e5a-ae3e8e92e7d0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2827,
+        "aniId": 32827,
+        "createdAt": "2020-10-12T16:08:06.000Z",
+        "updatedAt": "2021-06-04T07:31:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

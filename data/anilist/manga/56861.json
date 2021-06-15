@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "セブンシスターズ！"
+  ],
+  "authors": [
+    "Toki Fujioka"
+  ],
+  "id": 56861,
+  "malId": 26861,
+  "type": "manga",
+  "title": "Seven Sisters!",
+  "url": "https://anilist.co/manga/56861",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56861-6birmWRYHjLZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:26.000Z",
+  "updatedAt": "2021-05-20T14:47:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5e39fb75-4027-46f3-858f-a45deb1ef963": {
+        "authors": [
+          "Fujioka Toki"
+        ],
+        "identifier": "5e39fb75-4027-46f3-858f-a45deb1ef963",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seven Sisters!",
+        "url": "https://mangadex.org/title/5e39fb75-4027-46f3-858f-a45deb1ef963",
+        "image": "https://uploads.mangadex.org/covers/5e39fb75-4027-46f3-858f-a45deb1ef963/78d9d569-7ace-4665-865f-5e72bcdd759b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26861,
+        "aniId": 56861,
+        "createdAt": "2020-10-12T16:02:46.000Z",
+        "updatedAt": "2021-06-02T09:17:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "seven_sisters": {
+        "authors": [
+          "FUJIOKA Toki"
+        ],
+        "identifier": "seven_sisters",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seven Sisters!",
+        "url": "https://fanfox.net/manga/seven_sisters/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9512/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26861,
+        "aniId": 56861,
+        "createdAt": "2021-03-26T13:19:25.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "seven_sisters": {
+        "authors": [
+          "Fujioka",
+          "Toki"
+        ],
+        "identifier": "seven_sisters",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seven Sisters!",
+        "url": "https://manganelo.com/manga/seven_sisters",
+        "image": "https://avt.mkklcdnv6temp.com/5/f/9-1583480294.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26861,
+        "aniId": 56861,
+        "createdAt": "2021-05-26T16:39:05.000Z",
+        "updatedAt": "2021-05-26T17:08:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

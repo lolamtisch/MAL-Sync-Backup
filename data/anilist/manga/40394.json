@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "ギルティギアXtra"
+  ],
+  "authors": [
+    "Norimitsu Kaihou",
+    "Daisuke Ishiwatari",
+    "Akihito Sumii"
+  ],
+  "id": 40394,
+  "malId": 10394,
+  "type": "manga",
+  "title": "Guilty Gear Xtra",
+  "url": "https://anilist.co/manga/40394",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10394.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:05.000Z",
+  "updatedAt": "2021-05-20T14:41:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "911025e8-ae47-499c-8eff-453d18b6459a": {
+        "authors": [
+          "ISHIWATARI Daisuke",
+          "KAIHOU Norimitsu",
+          "SUMII Akihito"
+        ],
+        "identifier": "911025e8-ae47-499c-8eff-453d18b6459a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Guilty Gear Xtra",
+        "url": "https://mangadex.org/title/911025e8-ae47-499c-8eff-453d18b6459a",
+        "image": "https://uploads.mangadex.org/covers/911025e8-ae47-499c-8eff-453d18b6459a/2bac72cf-4362-44bd-8dbe-5f29cd9c6c2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10394,
+        "aniId": 40394,
+        "createdAt": "2020-10-12T16:05:02.000Z",
+        "updatedAt": "2021-06-03T09:43:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

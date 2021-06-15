@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "花よりも刃のごとく",
+    "Hana yori mo Yaiba no Gotoku"
+  ],
+  "authors": [
+    "Mika Kajiyama"
+  ],
+  "id": 80437,
+  "malId": 50437,
+  "type": "manga",
+  "title": "Hana yori mo Yaiba no Gotoku",
+  "url": "https://anilist.co/manga/80437",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50437-IypDjE11V3b7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-05-20T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "40e68164-34f7-439f-a864-b3024f09a5cb": {
+        "authors": [
+          "Kajiyama Mika"
+        ],
+        "identifier": "40e68164-34f7-439f-a864-b3024f09a5cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana Yori mo Yaiba no Gotoku",
+        "url": "https://mangadex.org/title/40e68164-34f7-439f-a864-b3024f09a5cb",
+        "image": "https://uploads.mangadex.org/covers/40e68164-34f7-439f-a864-b3024f09a5cb/6f19c13c-7c7f-4db2-8070-3a1136f8ead5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50437,
+        "aniId": 80437,
+        "createdAt": "2020-10-12T16:06:48.000Z",
+        "updatedAt": "2021-06-03T22:12:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

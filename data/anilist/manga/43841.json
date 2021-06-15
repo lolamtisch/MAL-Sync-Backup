@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ミミの怪談",
+    "Mimi's Ghost Stories"
+  ],
+  "authors": [
+    "Junji Itou"
+  ],
+  "id": 43841,
+  "malId": 13841,
+  "type": "manga",
+  "title": "Mimi no Kaidan",
+  "url": "https://anilist.co/manga/43841",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43841-bkqyjKWBPRD9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:38.000Z",
+  "updatedAt": "2021-05-20T14:42:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4a23f28e-9bb6-41f9-9037-3a3e9234ff75": {
+        "authors": [
+          "Itou Junji"
+        ],
+        "identifier": "4a23f28e-9bb6-41f9-9037-3a3e9234ff75",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mimi no Kaidan",
+        "url": "https://mangadex.org/title/4a23f28e-9bb6-41f9-9037-3a3e9234ff75",
+        "image": "https://uploads.mangadex.org/covers/4a23f28e-9bb6-41f9-9037-3a3e9234ff75/8d64e7f9-47bb-482f-a8af-8d990dd3164e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13841,
+        "aniId": 43841,
+        "createdAt": "2020-10-12T16:03:16.000Z",
+        "updatedAt": "2021-06-02T12:45:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shmd173891568862334": {
+        "authors": [],
+        "identifier": "shmd173891568862334",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mimi No Kaidan",
+        "url": "https://manganelo.com/manga/shmd173891568862334",
+        "image": "https://avt.mkklcdnv6.com/23/l/12-1583486689.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13841,
+        "aniId": 43841,
+        "createdAt": "2020-10-12T16:25:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

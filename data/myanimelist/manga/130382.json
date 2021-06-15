@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Their Will is Complex and White.",
+    "ふたごわずらい"
+  ],
+  "authors": [
+    "Sakurano, Itsuki"
+  ],
+  "id": 130382,
+  "type": "manga",
+  "title": "Futago Wazurai",
+  "url": "https://myanimelist.net/manga/130382/Futago_Wazurai",
+  "image": "https://cdn.myanimelist.net/images/manga/2/235549.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-11-26T12:01:51.000Z",
+  "updatedAt": "2021-02-09T23:14:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1247efc7-3897-4437-bf92-d6c1b7cce493": {
+        "authors": [
+          "Sakurano Itsuki"
+        ],
+        "identifier": "1247efc7-3897-4437-bf92-d6c1b7cce493",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Twins in Agony",
+        "url": "https://mangadex.org/title/1247efc7-3897-4437-bf92-d6c1b7cce493",
+        "image": "https://uploads.mangadex.org/covers/1247efc7-3897-4437-bf92-d6c1b7cce493/d493d90b-fe5b-4e86-bc74-15d7944baefc.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130382,
+        "aniId": 115254,
+        "createdAt": "2020-10-12T16:18:21.000Z",
+        "updatedAt": "2021-06-07T16:14:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "futago_wazurai": {
+        "authors": [
+          "SAKURANO Itsuki"
+        ],
+        "identifier": "futago_wazurai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Futago Wazurai",
+        "url": "https://fanfox.net/manga/futago_wazurai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34132/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130382,
+        "aniId": 115254,
+        "createdAt": "2021-02-09T23:14:25.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

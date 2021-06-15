@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "BanG Dream! 星の鼓動〈スタービート〉",
+    "BanG Dream!: Hoshi no Kodou"
+  ],
+  "authors": [
+    "Aya Ishida",
+    "Bushiroad "
+  ],
+  "id": 108184,
+  "malId": 85856,
+  "type": "manga",
+  "title": "BanG Dream!: Star Beat",
+  "url": "https://anilist.co/manga/108184",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108184-WkbjOzYOej7R.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:38.000Z",
+  "updatedAt": "2021-05-20T14:52:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1b4ee803-f08c-4feb-83ef-dd5314690ea7": {
+        "authors": [
+          "Ishida Aya (石田彩)"
+        ],
+        "identifier": "1b4ee803-f08c-4feb-83ef-dd5314690ea7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BanG Dream!: Hoshi no Kodou",
+        "url": "https://mangadex.org/title/1b4ee803-f08c-4feb-83ef-dd5314690ea7",
+        "image": "https://uploads.mangadex.org/covers/1b4ee803-f08c-4feb-83ef-dd5314690ea7/95afd46b-f915-41e4-a15b-c330e56fdfc4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85856,
+        "aniId": 108184,
+        "createdAt": "2020-10-12T16:12:59.000Z",
+        "updatedAt": "2021-06-05T18:01:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bang_dream_star_beat": {
+        "authors": [],
+        "identifier": "bang_dream_star_beat",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bang Dream!: Star Beat",
+        "url": "https://manganelo.com/manga/bang_dream_star_beat",
+        "image": "https://avt.mkklcdnv6.com/28/k/16-1583494489.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85856,
+        "aniId": 108184,
+        "createdAt": "2020-10-12T16:22:13.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

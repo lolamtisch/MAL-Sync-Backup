@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "キャプテン翼 ライジングサン"
+  ],
+  "authors": [
+    "Youichi Takahashi"
+  ],
+  "id": 90035,
+  "malId": 64737,
+  "type": "manga",
+  "title": "Captain Tsubasa: Rising Sun",
+  "url": "https://anilist.co/manga/90035",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90035-6qfprKu42Hvw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2ff6606-4391-4286-93db-78f78297305f": {
+        "authors": [
+          "Takahashi Yoichi"
+        ],
+        "identifier": "e2ff6606-4391-4286-93db-78f78297305f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Captain Tsubasa - Rising Sun",
+        "url": "https://mangadex.org/title/e2ff6606-4391-4286-93db-78f78297305f",
+        "image": "https://uploads.mangadex.org/covers/e2ff6606-4391-4286-93db-78f78297305f/4822d5db-b8bb-4e5b-937d-2f82b73e1d7b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64737,
+        "aniId": 90035,
+        "createdAt": "2020-10-12T16:07:30.000Z",
+        "updatedAt": "2021-06-04T03:13:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "captain_tsubasa_rising_sun": {
+        "authors": [
+          "TAKAHASHI Yoichi"
+        ],
+        "identifier": "captain_tsubasa_rising_sun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Captain Tsubasa - Rising Sun",
+        "url": "https://fanfox.net/manga/captain_tsubasa_rising_sun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13513/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64737,
+        "aniId": 90035,
+        "createdAt": "2021-03-22T07:35:15.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

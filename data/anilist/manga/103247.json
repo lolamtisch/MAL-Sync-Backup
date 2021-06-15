@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "묘진전",
+    "The Chronicle of Myo-Jin",
+    "Myojin Tales"
+  ],
+  "authors": [
+    "Jelly Bean"
+  ],
+  "id": 103247,
+  "malId": 94337,
+  "type": "manga",
+  "title": "Myojinjeon",
+  "url": "https://anilist.co/manga/103247",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103247-F1SjsZSc7nIg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:52.000Z",
+  "updatedAt": "2021-05-20T14:53:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b31278a3-dad9-4792-ab81-fb1025c85961": {
+        "authors": [
+          "Jelly Bean"
+        ],
+        "identifier": "b31278a3-dad9-4792-ab81-fb1025c85961",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Chronicle of Myo-Jin",
+        "url": "https://mangadex.org/title/b31278a3-dad9-4792-ab81-fb1025c85961",
+        "image": "https://uploads.mangadex.org/covers/b31278a3-dad9-4792-ab81-fb1025c85961/cc8143e1-98ac-43b6-8e58-560657be016b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94337,
+        "aniId": 103247,
+        "createdAt": "2020-10-12T16:11:59.000Z",
+        "updatedAt": "2021-06-05T12:32:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

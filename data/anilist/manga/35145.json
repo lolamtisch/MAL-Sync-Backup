@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "吐息にふれて"
+  ],
+  "authors": [
+    "Yuu Higashino"
+  ],
+  "id": 35145,
+  "malId": 5145,
+  "type": "manga",
+  "title": "Toiki ni Furete",
+  "url": "https://anilist.co/manga/35145",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35145-3aCgY1vfBpVZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4fc970ce-4ae4-4526-8471-451a8f5038c2": {
+        "authors": [
+          "Higashino You"
+        ],
+        "identifier": "4fc970ce-4ae4-4526-8471-451a8f5038c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toiki ni Furete",
+        "url": "https://mangadex.org/title/4fc970ce-4ae4-4526-8471-451a8f5038c2",
+        "image": "https://uploads.mangadex.org/covers/4fc970ce-4ae4-4526-8471-451a8f5038c2/62a8fb8e-d5db-4d95-925f-40bc5d5def0e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5145,
+        "aniId": 35145,
+        "createdAt": "2020-10-12T16:21:22.000Z",
+        "updatedAt": "2021-06-08T02:05:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

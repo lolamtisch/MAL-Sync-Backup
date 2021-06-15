@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "たまりば"
+  ],
+  "authors": [
+    "Teruko Shioya"
+  ],
+  "id": 65983,
+  "malId": 35983,
+  "type": "manga",
+  "title": "Tamariba",
+  "url": "https://anilist.co/manga/65983",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35983.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cf381a3d-ece9-4ae7-a693-96a49a69908a": {
+        "authors": [
+          "Shioya Teruko"
+        ],
+        "identifier": "cf381a3d-ece9-4ae7-a693-96a49a69908a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tamariba",
+        "url": "https://mangadex.org/title/cf381a3d-ece9-4ae7-a693-96a49a69908a",
+        "image": "https://uploads.mangadex.org/covers/cf381a3d-ece9-4ae7-a693-96a49a69908a/e753f07d-4ab0-417c-b240-a5e124ef5269.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35983,
+        "aniId": 65983,
+        "createdAt": "2020-10-12T16:04:13.000Z",
+        "updatedAt": "2021-06-02T19:38:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

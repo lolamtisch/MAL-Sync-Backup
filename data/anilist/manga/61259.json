@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ステイシーズ"
+  ],
+  "authors": [
+    "Yukimi"
+  ],
+  "id": 61259,
+  "malId": 31259,
+  "type": "manga",
+  "title": "Stay Seeds",
+  "url": "https://anilist.co/manga/61259",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31259.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:47:46.000Z",
+  "updatedAt": "2021-05-20T14:47:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd70e53e-8d38-483f-be2b-11666df2d153": {
+        "authors": [
+          "Yukimi"
+        ],
+        "identifier": "bd70e53e-8d38-483f-be2b-11666df2d153",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Stay Seeds",
+        "url": "https://mangadex.org/title/bd70e53e-8d38-483f-be2b-11666df2d153",
+        "image": "https://uploads.mangadex.org/covers/bd70e53e-8d38-483f-be2b-11666df2d153/8ea76413-d69c-4018-b547-70214191b075.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31259,
+        "aniId": 61259,
+        "createdAt": "2020-10-12T16:21:16.000Z",
+        "updatedAt": "2021-06-08T01:59:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

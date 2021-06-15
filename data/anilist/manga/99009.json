@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ゲダラ"
+  ],
+  "authors": [
+    "Atarou Terada"
+  ],
+  "id": 99009,
+  "malId": 109343,
+  "type": "manga",
+  "title": "Gedara",
+  "url": "https://anilist.co/manga/99009",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99009-YnDTC0WE2M5H.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T03:19:27.000Z",
+  "updatedAt": "2021-06-05T03:19:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b40792b9-88f2-41a1-9cf4-73c26fa687da": {
+        "authors": [
+          "Terada Atarou"
+        ],
+        "identifier": "b40792b9-88f2-41a1-9cf4-73c26fa687da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gedara",
+        "url": "https://mangadex.org/title/b40792b9-88f2-41a1-9cf4-73c26fa687da",
+        "image": "https://uploads.mangadex.org/covers/b40792b9-88f2-41a1-9cf4-73c26fa687da/44faeedd-4a7a-4596-8a93-ff9474165574.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109343,
+        "aniId": 99009,
+        "createdAt": "2020-10-12T16:10:44.000Z",
+        "updatedAt": "2021-06-05T08:47:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "有機男孩",
+    "Organic Boy",
+    "유기 소년",
+    "Quick Witted Boy",
+    "有机男孩"
+  ],
+  "authors": [
+    "Silin Mi"
+  ],
+  "id": 50648,
+  "malId": 20648,
+  "type": "manga",
+  "title": "Youji Nanhai",
+  "url": "https://anilist.co/manga/50648",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20648.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f13de5ed-7c12-4216-8352-336d01063ae0": {
+        "authors": [
+          "Mi Sa-Lyn"
+        ],
+        "identifier": "f13de5ed-7c12-4216-8352-336d01063ae0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Quick Witted Boy",
+        "url": "https://mangadex.org/title/f13de5ed-7c12-4216-8352-336d01063ae0",
+        "image": "https://uploads.mangadex.org/covers/f13de5ed-7c12-4216-8352-336d01063ae0/a6de4355-6aba-4b18-bcda-388349dbdf38.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20648,
+        "aniId": 50648,
+        "createdAt": "2020-10-12T16:04:51.000Z",
+        "updatedAt": "2021-06-02T23:54:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

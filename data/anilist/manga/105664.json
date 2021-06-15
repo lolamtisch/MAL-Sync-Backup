@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "템빨",
+    "Overgeared"
+  ],
+  "authors": [
+    "Saenal Park",
+    "Jun Yoon"
+  ],
+  "id": 105664,
+  "malId": null,
+  "type": "manga",
+  "title": "Temppal",
+  "url": "https://anilist.co/manga/105664",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n105664-4x0zfa6fmqp8.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T01:13:32.000Z",
+  "updatedAt": "2021-06-06T00:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6ef19044-70d3-4e87-994b-4cc07ccd0810": {
+        "authors": [
+          "Park Saenal",
+          "Yoon Jun"
+        ],
+        "identifier": "6ef19044-70d3-4e87-994b-4cc07ccd0810",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Overgeared",
+        "url": "https://mangadex.org/title/6ef19044-70d3-4e87-994b-4cc07ccd0810",
+        "image": "https://uploads.mangadex.org/covers/6ef19044-70d3-4e87-994b-4cc07ccd0810/1c0f674d-e386-4f58-a7ef-723ae077737e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 105664,
+        "createdAt": "2020-10-12T16:13:51.000Z",
+        "updatedAt": "2021-06-06T10:13:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

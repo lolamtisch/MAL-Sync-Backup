@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Hello",
+    "안녕 Pi",
+    "Annyeong",
+    "Pi"
+  ],
+  "authors": [
+    "Yoo Ha Shin"
+  ],
+  "id": 43725,
+  "malId": 13725,
+  "type": "manga",
+  "title": "Hello, Pi",
+  "url": "https://anilist.co/manga/43725",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13725.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-05-20T14:42:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "42cc5eaa-6e24-43cc-a74a-547c495a61bd": {
+        "authors": [
+          "SHIN Yoo Ha"
+        ],
+        "identifier": "42cc5eaa-6e24-43cc-a74a-547c495a61bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Annyeong, Pi",
+        "url": "https://mangadex.org/title/42cc5eaa-6e24-43cc-a74a-547c495a61bd",
+        "image": "https://uploads.mangadex.org/covers/42cc5eaa-6e24-43cc-a74a-547c495a61bd/d66d117f-3c6b-459a-87f4-9439f4dbe943.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13725,
+        "aniId": 43725,
+        "createdAt": "2020-10-12T16:11:56.000Z",
+        "updatedAt": "2021-06-05T12:06:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

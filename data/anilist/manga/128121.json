@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "To Write Your Words",
+    "くちうつす"
+  ],
+  "authors": [
+    "Aki Amasawa"
+  ],
+  "id": 128121,
+  "malId": 113374,
+  "type": "manga",
+  "title": "Kuchiutsusu",
+  "url": "https://anilist.co/manga/128121",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128121-K2yj4xk3tl0H.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:01.000Z",
+  "updatedAt": "2021-05-20T14:57:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "95ea2cc2-ee77-4f81-8ee7-24b3c5a16dc7": {
+        "authors": [
+          "Amasawa Aki"
+        ],
+        "identifier": "95ea2cc2-ee77-4f81-8ee7-24b3c5a16dc7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuchiutsusu",
+        "url": "https://mangadex.org/title/95ea2cc2-ee77-4f81-8ee7-24b3c5a16dc7",
+        "image": "https://uploads.mangadex.org/covers/95ea2cc2-ee77-4f81-8ee7-24b3c5a16dc7/c8f35613-c887-48e1-8eeb-4d21abbacd2e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 113374,
+        "aniId": 128121,
+        "createdAt": "2020-10-12T16:11:02.000Z",
+        "updatedAt": "2021-06-05T08:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "to-write-your-words": {
+        "authors": [
+          "AMASAWA Aki"
+        ],
+        "identifier": "to-write-your-words",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "To Write Your Words",
+        "url": "https://mangasee123.com/manga/To-Write-Your-Words",
+        "image": "https://cover.nep.li/cover/To-Write-Your-Words.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 113374,
+        "aniId": 128121,
+        "createdAt": "2021-02-21T14:03:40.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

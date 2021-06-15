@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "セッちゃん",
+    "Le monde selon Setchan"
+  ],
+  "authors": [
+    "Tomoko Oshima",
+    "Miyako Slocombe"
+  ],
+  "id": 114543,
+  "malId": 119377,
+  "type": "manga",
+  "title": "Secchan",
+  "url": "https://anilist.co/manga/114543",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114543-4MK93iKv5h3n.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:08.000Z",
+  "updatedAt": "2021-05-20T14:58:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d79f3680-8bae-4950-b7c2-30c339156229": {
+        "authors": [
+          "Oshima Tomoko"
+        ],
+        "identifier": "d79f3680-8bae-4950-b7c2-30c339156229",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secchan",
+        "url": "https://mangadex.org/title/d79f3680-8bae-4950-b7c2-30c339156229",
+        "image": "https://uploads.mangadex.org/covers/d79f3680-8bae-4950-b7c2-30c339156229/9e7f621a-17f4-4027-9ec9-10964478f47a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119377,
+        "aniId": 114543,
+        "createdAt": "2020-10-12T16:14:23.000Z",
+        "updatedAt": "2021-06-06T04:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

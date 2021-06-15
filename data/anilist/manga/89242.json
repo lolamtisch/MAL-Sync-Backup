@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "白",
+    "White"
+  ],
+  "authors": [],
+  "id": 89242,
+  "malId": 61427,
+  "type": "manga",
+  "title": "Shiro",
+  "url": "https://anilist.co/manga/89242",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89242-jlbJfBvzjpry.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-03T22:50:08.000Z",
+  "updatedAt": "2021-06-03T22:50:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a1eb5989-9af4-4328-80eb-77ce7d647a0c": {
+        "authors": [
+          "Ninomiya Hikaru"
+        ],
+        "identifier": "a1eb5989-9af4-4328-80eb-77ce7d647a0c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "White",
+        "url": "https://mangadex.org/title/a1eb5989-9af4-4328-80eb-77ce7d647a0c",
+        "image": "https://uploads.mangadex.org/covers/a1eb5989-9af4-4328-80eb-77ce7d647a0c/bb80494c-d9df-4e58-8f8c-af5bd54a8fd8.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61427,
+        "aniId": 89242,
+        "createdAt": "2020-10-12T16:06:53.000Z",
+        "updatedAt": "2021-06-03T23:07:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

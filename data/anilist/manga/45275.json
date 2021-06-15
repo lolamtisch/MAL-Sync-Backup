@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "ボーダーライン",
+    "Border Line"
+  ],
+  "authors": [
+    "Youko Fujitani"
+  ],
+  "id": 45275,
+  "malId": 15275,
+  "type": "manga",
+  "title": "Borderline",
+  "url": "https://anilist.co/manga/45275",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15275.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e6bcb57-101b-4b31-be58-6438dde137bd": {
+        "authors": [
+          "Deng Deng",
+          "Feng Hua"
+        ],
+        "identifier": "8e6bcb57-101b-4b31-be58-6438dde137bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Borderline Bestial Corpse",
+        "url": "https://mangadex.org/title/8e6bcb57-101b-4b31-be58-6438dde137bd",
+        "image": "https://uploads.mangadex.org/covers/8e6bcb57-101b-4b31-be58-6438dde137bd/4544cdd0-bb05-48c8-81d6-963cc90b9e49.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15275,
+        "aniId": 45275,
+        "createdAt": "2020-10-12T16:16:53.000Z",
+        "updatedAt": "2021-06-07T02:44:01.000Z",
+        "deletedAt": null
+      },
+      "2db4bb36-4036-46c0-b9a6-12bb52403f15": {
+        "authors": [
+          "Fujitani Youko"
+        ],
+        "identifier": "2db4bb36-4036-46c0-b9a6-12bb52403f15",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Border Line",
+        "url": "https://mangadex.org/title/2db4bb36-4036-46c0-b9a6-12bb52403f15",
+        "image": "https://uploads.mangadex.org/covers/2db4bb36-4036-46c0-b9a6-12bb52403f15/d4f48d87-09b8-419f-ae99-cf4d81f14151.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15275,
+        "aniId": 45275,
+        "createdAt": "2020-10-12T18:08:34.000Z",
+        "updatedAt": "2021-06-08T05:23:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "border_line": {
+        "authors": [
+          "Fujitani",
+          "Youko"
+        ],
+        "identifier": "border_line",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Border Line",
+        "url": "https://manganelo.com/manga/border_line",
+        "image": "https://avt.mkklcdnv6temp.com/38/o/6-1583475717.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15275,
+        "aniId": 45275,
+        "createdAt": "2021-05-27T05:29:02.000Z",
+        "updatedAt": "2021-05-27T05:58:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

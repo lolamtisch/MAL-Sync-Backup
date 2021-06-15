@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yun A Kim"
+  ],
+  "id": 49233,
+  "malId": 19233,
+  "type": "manga",
+  "title": "My Young Master",
+  "url": "https://anilist.co/manga/49233",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19233.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:17.000Z",
+  "updatedAt": "2021-05-20T14:45:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab3a7af5-bb80-4db9-ae3b-898d0e9d531c": {
+        "authors": [
+          "KIM Yun A"
+        ],
+        "identifier": "ab3a7af5-bb80-4db9-ae3b-898d0e9d531c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Young Master",
+        "url": "https://mangadex.org/title/ab3a7af5-bb80-4db9-ae3b-898d0e9d531c",
+        "image": "https://uploads.mangadex.org/covers/ab3a7af5-bb80-4db9-ae3b-898d0e9d531c/0a948274-0f41-496f-84cf-a8f12a3bd1b6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19233,
+        "aniId": 49233,
+        "createdAt": "2020-10-12T16:09:58.000Z",
+        "updatedAt": "2021-06-04T21:25:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

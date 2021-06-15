@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "8mm"
+  ],
+  "authors": [
+    "Yuna Kim"
+  ],
+  "id": 31186,
+  "malId": 1186,
+  "type": "manga",
+  "title": "8mm",
+  "url": "https://anilist.co/manga/31186",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1186.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:56.000Z",
+  "updatedAt": "2021-05-20T14:35:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb4109f4-cbe8-4b22-b76e-c51be973bbdb": {
+        "authors": [
+          "YOU Na",
+          "You Na"
+        ],
+        "identifier": "eb4109f4-cbe8-4b22-b76e-c51be973bbdb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "8 mm",
+        "url": "https://mangadex.org/title/eb4109f4-cbe8-4b22-b76e-c51be973bbdb",
+        "image": "https://uploads.mangadex.org/covers/eb4109f4-cbe8-4b22-b76e-c51be973bbdb/0dd17c9b-143e-43f4-8d82-18199b437c27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1186,
+        "aniId": 31186,
+        "createdAt": "2020-10-12T16:05:15.000Z",
+        "updatedAt": "2021-06-03T11:13:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

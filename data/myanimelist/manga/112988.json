@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "blanc"
+  ],
+  "authors": [
+    "Nakamura, Asumiko"
+  ],
+  "id": 112988,
+  "type": "manga",
+  "title": "blanc",
+  "url": "https://myanimelist.net/manga/112988/blanc",
+  "image": "https://cdn.myanimelist.net/images/manga/2/239600.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:28.000Z",
+  "updatedAt": "2021-04-09T15:51:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dc63fb8b-c71c-4ec3-96e5-75644e2cbc91": {
+        "authors": [
+          "Nakamura Asumiko"
+        ],
+        "identifier": "dc63fb8b-c71c-4ec3-96e5-75644e2cbc91",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blanc",
+        "url": "https://mangadex.org/title/dc63fb8b-c71c-4ec3-96e5-75644e2cbc91",
+        "image": "https://uploads.mangadex.org/covers/dc63fb8b-c71c-4ec3-96e5-75644e2cbc91/afb92494-3ca1-4bfb-8fe6-ed728e3e39c1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112988,
+        "aniId": 103192,
+        "createdAt": "2020-10-12T16:11:58.000Z",
+        "updatedAt": "2021-06-05T12:27:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "blanc": {
+        "authors": [
+          "Asumiko",
+          "Nakamura"
+        ],
+        "identifier": "blanc",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Blanc",
+        "url": "https://manganelo.com/manga/blanc",
+        "image": "https://avt.mkklcdnv6temp.com/41/q/16-1583494959.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112988,
+        "aniId": 103192,
+        "createdAt": "2021-04-09T15:51:19.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

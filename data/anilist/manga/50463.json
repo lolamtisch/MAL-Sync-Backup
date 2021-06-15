@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ビスポーク",
+    "Bespoke"
+  ],
+  "authors": [
+    "Tsukasa Matsuzaki"
+  ],
+  "id": 50463,
+  "malId": 20463,
+  "type": "manga",
+  "title": "Bespoke",
+  "url": "https://anilist.co/manga/50463",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20463.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:32.000Z",
+  "updatedAt": "2021-05-20T14:45:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56674c76-628a-4541-b2b0-f60ba8284daf": {
+        "authors": [
+          "Matsuzaki Tsukasa"
+        ],
+        "identifier": "56674c76-628a-4541-b2b0-f60ba8284daf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bespoke",
+        "url": "https://mangadex.org/title/56674c76-628a-4541-b2b0-f60ba8284daf",
+        "image": "https://uploads.mangadex.org/covers/56674c76-628a-4541-b2b0-f60ba8284daf/61a45ed2-d9b1-4c13-b7e5-84105d1c5ae2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20463,
+        "aniId": 50463,
+        "createdAt": "2020-10-12T16:13:20.000Z",
+        "updatedAt": "2021-06-05T20:33:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

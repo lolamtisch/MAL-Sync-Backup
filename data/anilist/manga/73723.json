@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Asumiko Nakamura"
+  ],
+  "id": 73723,
+  "malId": 43723,
+  "type": "manga",
+  "title": "5000",
+  "url": "https://anilist.co/manga/73723",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43723.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:58.000Z",
+  "updatedAt": "2021-05-20T14:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f65eb2ef-0b96-4a96-a330-1a1ebc18af14": {
+        "authors": [
+          "Nakamura Asumiko"
+        ],
+        "identifier": "f65eb2ef-0b96-4a96-a330-1a1ebc18af14",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "5000",
+        "url": "https://mangadex.org/title/f65eb2ef-0b96-4a96-a330-1a1ebc18af14",
+        "image": "https://uploads.mangadex.org/covers/f65eb2ef-0b96-4a96-a330-1a1ebc18af14/b5979e58-bda3-4ea5-8f22-98926857d758.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43723,
+        "aniId": 73723,
+        "createdAt": "2020-10-12T16:12:54.000Z",
+        "updatedAt": "2021-06-05T17:23:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

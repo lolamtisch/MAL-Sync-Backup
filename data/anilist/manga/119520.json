@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "绝顶",
+    "The Top",
+    "무모협지",
+    "Mumohyeopji",
+    "The Pinnacle",
+    "无毛俠誌"
+  ],
+  "authors": [
+    "Xiao Xin Yu"
+  ],
+  "id": 119520,
+  "malId": null,
+  "type": "manga",
+  "title": "Jueding",
+  "url": "https://anilist.co/manga/119520",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b119520-m4ECXD4MPyEG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T06:20:11.000Z",
+  "updatedAt": "2021-06-07T06:20:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "46725f1b-e34c-4900-a3f7-0c3e1587cf7b": {
+        "authors": [
+          "Xiao Xin Yu"
+        ],
+        "identifier": "46725f1b-e34c-4900-a3f7-0c3e1587cf7b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Pinnacle",
+        "url": "https://mangadex.org/title/46725f1b-e34c-4900-a3f7-0c3e1587cf7b",
+        "image": "https://uploads.mangadex.org/covers/46725f1b-e34c-4900-a3f7-0c3e1587cf7b/18574f5e-e225-4c4f-97af-1f4552addeaa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119520,
+        "createdAt": "2020-10-12T16:17:14.000Z",
+        "updatedAt": "2021-06-07T07:29:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

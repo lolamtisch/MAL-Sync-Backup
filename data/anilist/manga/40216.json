@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "しこたま"
+  ],
+  "authors": [
+    "Noritaka Suzuki",
+    "Noritaka Suzuki"
+  ],
+  "id": 40216,
+  "malId": 10216,
+  "type": "manga",
+  "title": "Shikotama",
+  "url": "https://anilist.co/manga/40216",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40216-vPTrJvXhP84a.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-24T20:38:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "895f7d94-2110-44f5-9973-2cddb14b6e97": {
+        "authors": [
+          "SUZUKI Noritaka"
+        ],
+        "identifier": "895f7d94-2110-44f5-9973-2cddb14b6e97",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shikotama",
+        "url": "https://mangadex.org/title/895f7d94-2110-44f5-9973-2cddb14b6e97",
+        "image": "https://uploads.mangadex.org/covers/895f7d94-2110-44f5-9973-2cddb14b6e97/93174516-a4d6-4f11-8925-b5b400c99367.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10216,
+        "aniId": 40216,
+        "createdAt": "2020-10-12T16:03:09.000Z",
+        "updatedAt": "2021-06-02T12:09:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

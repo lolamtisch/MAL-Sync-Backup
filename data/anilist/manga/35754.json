@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Cook Me Something Delicious!",
+    "美味いもん食わせろ！",
+    "Give Me Something Delicious To Eat!",
+    "Cook Me Something Delicious!"
+  ],
+  "authors": [
+    "Youka Nitta"
+  ],
+  "id": 35754,
+  "malId": 5754,
+  "type": "manga",
+  "title": "Umaimon Kuwasero!",
+  "url": "https://anilist.co/manga/35754",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5754.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:33.000Z",
+  "updatedAt": "2021-05-20T14:39:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f6ed8ac5-f334-4d28-8cbc-d7a9905aeaee": {
+        "authors": [
+          "Nitta Youka"
+        ],
+        "identifier": "f6ed8ac5-f334-4d28-8cbc-d7a9905aeaee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Umaimon Kuwasero!",
+        "url": "https://mangadex.org/title/f6ed8ac5-f334-4d28-8cbc-d7a9905aeaee",
+        "image": "https://uploads.mangadex.org/covers/f6ed8ac5-f334-4d28-8cbc-d7a9905aeaee/3368efc2-6d18-45b5-888b-bc5e3822ae2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5754,
+        "aniId": 35754,
+        "createdAt": "2020-10-12T16:13:10.000Z",
+        "updatedAt": "2021-06-05T19:13:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

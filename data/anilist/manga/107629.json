@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "The Boy and The Beast",
+    "バケモノの子",
+    "Dziecię Bestii",
+    "El Niño y la Bestia"
+  ],
+  "authors": [
+    "Mamoru Hosoda",
+    "Renji Asai"
+  ],
+  "id": 107629,
+  "malId": 87921,
+  "type": "manga",
+  "title": "Bakemono no Ko",
+  "url": "https://anilist.co/manga/107629",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107629-lhMWrKCOKokh.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:52.000Z",
+  "updatedAt": "2021-05-20T14:52:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a3f2c3a4-92ed-42e0-b380-301c135be2d5": {
+        "authors": [
+          "Tsukizuki Yoshi"
+        ],
+        "identifier": "a3f2c3a4-92ed-42e0-b380-301c135be2d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aiseyo Bakemono",
+        "url": "https://mangadex.org/title/a3f2c3a4-92ed-42e0-b380-301c135be2d5",
+        "image": "https://uploads.mangadex.org/covers/a3f2c3a4-92ed-42e0-b380-301c135be2d5/1694758e-d835-4d88-9832-6fbf8c3b92b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87921,
+        "aniId": 107629,
+        "createdAt": "2020-10-12T16:16:09.000Z",
+        "updatedAt": "2021-06-06T20:04:01.000Z",
+        "deletedAt": null
+      },
+      "599ea1d2-45d6-435b-b307-c3b7fbdd296c": {
+        "authors": [
+          "Asai Renji",
+          "Hosoda Mamoru"
+        ],
+        "identifier": "599ea1d2-45d6-435b-b307-c3b7fbdd296c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Boy and the Beast",
+        "url": "https://mangadex.org/title/599ea1d2-45d6-435b-b307-c3b7fbdd296c",
+        "image": "https://uploads.mangadex.org/covers/599ea1d2-45d6-435b-b307-c3b7fbdd296c/92031aaf-4dc2-4c20-b3ab-e567747aeea3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87921,
+        "aniId": 107629,
+        "createdAt": "2020-11-30T10:53:08.000Z",
+        "updatedAt": "2021-06-08T08:02:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "uj918884": {
+        "authors": [],
+        "identifier": "uj918884",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ore No Kanojo Ga Bakemono Datta",
+        "url": "https://manganelo.com/manga/uj918884",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/285-uj918884.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87921,
+        "aniId": 107629,
+        "createdAt": "2020-10-12T16:25:55.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

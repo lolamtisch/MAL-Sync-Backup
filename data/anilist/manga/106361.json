@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ある日、僕らが恋に落ちたら"
+  ],
+  "authors": [
+    "Ikuya Fuyuno"
+  ],
+  "id": 106361,
+  "malId": 117730,
+  "type": "manga",
+  "title": "Aru Hi, Bokura ga Koi ni Ochitara",
+  "url": "https://anilist.co/manga/106361",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n106361-D7LHakjsBxcq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:56.000Z",
+  "updatedAt": "2021-05-20T14:57:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "617cb932-2c29-4ad4-b940-4325f2cee909": {
+        "authors": [
+          "Fuyuno Ikuya"
+        ],
+        "identifier": "617cb932-2c29-4ad4-b940-4325f2cee909",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aru Hi, Bokura ga Koi ni Ochitara",
+        "url": "https://mangadex.org/title/617cb932-2c29-4ad4-b940-4325f2cee909",
+        "image": "https://uploads.mangadex.org/covers/617cb932-2c29-4ad4-b940-4325f2cee909/b0de38cb-440f-4856-aeaa-b741f410f5ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117730,
+        "aniId": 106361,
+        "createdAt": "2020-10-12T16:14:35.000Z",
+        "updatedAt": "2021-06-06T06:26:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

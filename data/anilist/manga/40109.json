@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Instinct Chocolate",
+    "本能ショコラ",
+    "Hon-Nou Chocolat",
+    "Honnou Chocolat",
+    "Hon-Nou Chocolate",
+    "Instinct Chocolate"
+  ],
+  "authors": [
+    "En Hanaya"
+  ],
+  "id": 40109,
+  "malId": 10109,
+  "type": "manga",
+  "title": "Honnou Chocolate",
+  "url": "https://anilist.co/manga/40109",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10109.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6674a533-298d-47a6-831f-056323456e5a": {
+        "authors": [
+          "Hanaya En"
+        ],
+        "identifier": "6674a533-298d-47a6-831f-056323456e5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honnou Chocolat",
+        "url": "https://mangadex.org/title/6674a533-298d-47a6-831f-056323456e5a",
+        "image": "https://uploads.mangadex.org/covers/6674a533-298d-47a6-831f-056323456e5a/950a7f28-8be5-43b9-8a42-54c03640a7a2.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10109,
+        "aniId": 40109,
+        "createdAt": "2020-10-12T16:02:43.000Z",
+        "updatedAt": "2021-06-02T08:55:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

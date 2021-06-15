@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Aquarion Evol",
+    "アクエリオンEVOL"
+  ],
+  "authors": [
+    "Shouji Kawamori",
+    "Satelight",
+    "Aogiri"
+  ],
+  "id": 68719,
+  "malId": 38719,
+  "type": "manga",
+  "title": "Aquarion Evol",
+  "url": "https://anilist.co/manga/68719",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx68719-AphnzbvDQ5BV.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:37.000Z",
+  "updatedAt": "2021-05-20T14:48:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aefabfc4-523a-4f6a-a396-5077eeafbae6": {
+        "authors": [
+          "Uchiyama Yasujirou",
+          "Satelight",
+          "Kawamori Shoji"
+        ],
+        "identifier": "aefabfc4-523a-4f6a-a396-5077eeafbae6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aquarion EVOL",
+        "url": "https://mangadex.org/title/aefabfc4-523a-4f6a-a396-5077eeafbae6",
+        "image": "https://uploads.mangadex.org/covers/aefabfc4-523a-4f6a-a396-5077eeafbae6/8767317c-a98c-4225-8ce6-bb0067bc10ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38719,
+        "aniId": 68719,
+        "createdAt": "2020-10-12T16:05:56.000Z",
+        "updatedAt": "2021-06-03T16:01:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

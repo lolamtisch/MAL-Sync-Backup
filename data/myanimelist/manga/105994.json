@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Hanbun wa Anata ni",
+    "好きです、全部ください"
+  ],
+  "authors": [
+    "Suyama, Torico"
+  ],
+  "id": 105994,
+  "type": "manga",
+  "title": "Suki desu, Zenbu Kudasai",
+  "url": "https://myanimelist.net/manga/105994/Suki_desu_Zenbu_Kudasai",
+  "image": "https://cdn.myanimelist.net/images/manga/2/194184.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T02:49:08.000Z",
+  "updatedAt": "2021-06-05T02:49:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79b7c803-97bb-4d26-b77f-2419d57d521e": {
+        "authors": [
+          "Suyama Torico"
+        ],
+        "identifier": "79b7c803-97bb-4d26-b77f-2419d57d521e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sukidesu, Zenbukudasai",
+        "url": "https://mangadex.org/title/79b7c803-97bb-4d26-b77f-2419d57d521e",
+        "image": "https://uploads.mangadex.org/covers/79b7c803-97bb-4d26-b77f-2419d57d521e/00e1f2aa-43f8-4d82-a168-4307e9e415e8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105994,
+        "aniId": 98879,
+        "createdAt": "2020-10-12T16:10:41.000Z",
+        "updatedAt": "2021-06-05T08:43:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

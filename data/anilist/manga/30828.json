@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "レンアイ至上主義",
+    "Ren-ai Shijou Shugi",
+    "Ren Ai Shijo Shugi",
+    "Love's Supreme Principle!",
+    "Virgin Beast"
+  ],
+  "authors": [
+    "Kanan Minami"
+  ],
+  "id": 30828,
+  "malId": 828,
+  "type": "manga",
+  "title": "Renai Shijou Shugi",
+  "url": "https://anilist.co/manga/30828",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/828.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-06-03T17:19:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4be018ea-d733-4323-8840-e2dc1082729e": {
+        "authors": [
+          "Kanan Minami"
+        ],
+        "identifier": "4be018ea-d733-4323-8840-e2dc1082729e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renai Shigou Shugi",
+        "url": "https://mangadex.org/title/4be018ea-d733-4323-8840-e2dc1082729e",
+        "image": "https://uploads.mangadex.org/covers/4be018ea-d733-4323-8840-e2dc1082729e/764b98fa-e6ed-4ec0-a1b9-74d93ce98582.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 828,
+        "aniId": 30828,
+        "createdAt": "2020-10-12T16:06:03.000Z",
+        "updatedAt": "2021-06-03T17:21:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "renai_shijou_shugi": {
+        "authors": [],
+        "identifier": "renai_shijou_shugi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ren-ai Shijou Shugi",
+        "url": "https://manganelo.com/manga/renai_shijou_shugi",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11440-renai_shijou_shugi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 828,
+        "aniId": 30828,
+        "createdAt": "2020-10-12T16:25:09.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

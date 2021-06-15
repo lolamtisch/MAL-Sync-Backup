@@ -1,0 +1,105 @@
+{
+  "altTitle": [
+    "マリオ"
+  ],
+  "authors": [
+    "Masashi Kishimoto"
+  ],
+  "id": 80811,
+  "malId": 50811,
+  "type": "manga",
+  "title": "Mario",
+  "url": "https://anilist.co/manga/80811",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50811.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-05-20T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f86d265-fc88-41db-929e-5dab9ac74352": {
+        "authors": [
+          "Kishimoto Masashi"
+        ],
+        "identifier": "2f86d265-fc88-41db-929e-5dab9ac74352",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mario",
+        "url": "https://mangadex.org/title/2f86d265-fc88-41db-929e-5dab9ac74352",
+        "image": "https://uploads.mangadex.org/covers/2f86d265-fc88-41db-929e-5dab9ac74352/ac6600cc-4029-4142-b859-6a732b3120ce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50811,
+        "aniId": 80811,
+        "createdAt": "2020-10-12T16:06:52.000Z",
+        "updatedAt": "2021-06-03T22:44:20.000Z",
+        "deletedAt": null
+      },
+      "b58e3cf2-db24-4ad8-bcb7-3294c82a8a98": {
+        "authors": [
+          "Atsuko Kanemoto"
+        ],
+        "identifier": "b58e3cf2-db24-4ad8-bcb7-3294c82a8a98",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Go Go Mario World",
+        "url": "https://mangadex.org/title/b58e3cf2-db24-4ad8-bcb7-3294c82a8a98",
+        "image": "https://uploads.mangadex.org/covers/b58e3cf2-db24-4ad8-bcb7-3294c82a8a98/51eabda7-394c-4b10-877a-cf2962e1baa7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50811,
+        "aniId": 80811,
+        "createdAt": "2020-10-12T16:18:05.000Z",
+        "updatedAt": "2021-06-07T13:48:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mario": {
+        "authors": [],
+        "identifier": "mario",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mario",
+        "url": "https://manganelo.com/manga/mario",
+        "image": "https://avt.mkklcdnv6.com/43/u/7-1583477932.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50811,
+        "aniId": 80811,
+        "createdAt": "2020-10-12T16:24:16.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kk961593": {
+        "authors": [
+          "Kishimoto Masashi"
+        ],
+        "identifier": "manga-kk961593",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mario",
+        "url": "https://manganato.com/manga-kk961593",
+        "image": "https://avt.mkklcdnv6temp.com/43/u/7-1583477932.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50811,
+        "aniId": 80811,
+        "createdAt": "2021-06-12T20:38:36.000Z",
+        "updatedAt": "2021-06-12T21:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

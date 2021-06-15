@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Let Dai",
+    "Let 다이"
+  ],
+  "authors": [
+    "Won, Soo-yeon"
+  ],
+  "id": 1033,
+  "type": "manga",
+  "title": "Let Dai",
+  "url": "https://myanimelist.net/manga/1033/Let_Dai",
+  "image": "https://cdn.myanimelist.net/images/manga/3/30133.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:29.000Z",
+  "updatedAt": "2021-02-26T18:55:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d3a0de4d-6107-4c68-b702-b33b408340da": {
+        "authors": [
+          "Woon Soo-yeon"
+        ],
+        "identifier": "d3a0de4d-6107-4c68-b702-b33b408340da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Let Dai",
+        "url": "https://mangadex.org/title/d3a0de4d-6107-4c68-b702-b33b408340da",
+        "image": "https://uploads.mangadex.org/covers/d3a0de4d-6107-4c68-b702-b33b408340da/2a13e724-7019-4bbd-b9da-0865caf3e209.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1033,
+        "aniId": 31033,
+        "createdAt": "2020-10-12T16:08:44.000Z",
+        "updatedAt": "2021-06-04T12:13:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "srkv179801559708247": {
+        "authors": [
+          "Won",
+          "Soo-Yeon"
+        ],
+        "identifier": "srkv179801559708247",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Let Dai",
+        "url": "https://manganelo.com/manga/srkv179801559708247",
+        "image": "https://avt.mkklcdnv6.com/44/z/12-1583487530.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1033,
+        "aniId": 31033,
+        "createdAt": "2021-02-03T07:01:55.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

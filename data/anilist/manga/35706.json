@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ストリートファイターⅡ; ストリートファイターⅡ RYU; ストリートファイター2-RYU",
+    "Street Fighter II: Ryu"
+  ],
+  "authors": [
+    "Masaomi Kanzaki"
+  ],
+  "id": 35706,
+  "malId": 5706,
+  "type": "manga",
+  "title": "Street Fighter II",
+  "url": "https://anilist.co/manga/35706",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5706.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T11:19:09.000Z",
+  "updatedAt": "2021-06-05T11:19:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f5a4a33a-392c-4ff3-92e5-8e3f42d534fb": {
+        "authors": [
+          "Kanzaki Masaomi"
+        ],
+        "identifier": "f5a4a33a-392c-4ff3-92e5-8e3f42d534fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Street Fighter II",
+        "url": "https://mangadex.org/title/f5a4a33a-392c-4ff3-92e5-8e3f42d534fb",
+        "image": "https://uploads.mangadex.org/covers/f5a4a33a-392c-4ff3-92e5-8e3f42d534fb/73455b9a-455c-47b8-8f24-6104d25b6cd9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5706,
+        "aniId": 35706,
+        "createdAt": "2020-10-12T16:11:46.000Z",
+        "updatedAt": "2021-06-05T12:43:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

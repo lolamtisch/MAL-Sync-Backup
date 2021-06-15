@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "口が裂けても君には"
+  ],
+  "authors": [
+    "Akari Kajimoto"
+  ],
+  "id": 125624,
+  "malId": 128093,
+  "type": "manga",
+  "title": "Kuchi ga Saketemo Kimi ni wa",
+  "url": "https://anilist.co/manga/125624",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125624-Xuc0bswSbDJD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:21.000Z",
+  "updatedAt": "2021-05-20T14:59:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "lf924518": {
+        "authors": [
+          "Kajimoto",
+          "Akari"
+        ],
+        "identifier": "lf924518",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kuchi Ga Saketemo Kimi Ni Wa (2020)",
+        "url": "https://manganelo.com/manga/lf924518",
+        "image": "https://avt.mkklcdnv6temp.com/29/c/22-1603098689.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 128093,
+        "aniId": 125624,
+        "createdAt": "2020-10-20T19:09:52.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "94bfc769-f5e5-4f88-838c-4f69e7a663c2": {
+        "authors": [
+          "Kajimoto Akari"
+        ],
+        "identifier": "94bfc769-f5e5-4f88-838c-4f69e7a663c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuchi ga Saketemo Kimi ni wa",
+        "url": "https://mangadex.org/title/94bfc769-f5e5-4f88-838c-4f69e7a663c2",
+        "image": "https://uploads.mangadex.org/covers/94bfc769-f5e5-4f88-838c-4f69e7a663c2/11a7b722-0824-424f-a3bb-1d2fa483cfb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128093,
+        "aniId": 125624,
+        "createdAt": "2020-11-09T21:13:47.000Z",
+        "updatedAt": "2021-06-08T06:58:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

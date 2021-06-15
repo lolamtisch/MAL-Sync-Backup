@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "枚目.zip",
+    "Naked.zip"
+  ],
+  "authors": [
+    "Miyako"
+  ],
+  "id": 135154,
+  "malId": 119188,
+  "type": "manga",
+  "title": "Zenra.zip",
+  "url": "https://anilist.co/manga/135154",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135154-qWwdyo1Y7O2X.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T15:48:59.000Z",
+  "updatedAt": "2021-06-05T15:48:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc7d91e6-803f-4421-b6e6-3fee66bd468f": {
+        "authors": [],
+        "identifier": "cc7d91e6-803f-4421-b6e6-3fee66bd468f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zenra.zip",
+        "url": "https://mangadex.org/title/cc7d91e6-803f-4421-b6e6-3fee66bd468f",
+        "image": "https://mangadex.org/images/manga/46157.jpg?1583924575",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119188,
+        "aniId": 135154,
+        "createdAt": "2020-10-12T16:18:47.000Z",
+        "updatedAt": "2021-06-05T16:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

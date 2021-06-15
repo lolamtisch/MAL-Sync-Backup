@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Dr.るっる",
+    "Doctor Rurru"
+  ],
+  "authors": [
+    "Risou Maeda"
+  ],
+  "id": 42036,
+  "malId": 12036,
+  "type": "manga",
+  "title": "Dr. Rurru",
+  "url": "https://anilist.co/manga/42036",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42036-Mz6fmwsqq3QL.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e551a018-4fc7-4174-b317-f1a3a4b1bfab": {
+        "authors": [
+          "Maeda Risou"
+        ],
+        "identifier": "e551a018-4fc7-4174-b317-f1a3a4b1bfab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dr. Rurru",
+        "url": "https://mangadex.org/title/e551a018-4fc7-4174-b317-f1a3a4b1bfab",
+        "image": "https://uploads.mangadex.org/covers/e551a018-4fc7-4174-b317-f1a3a4b1bfab/3126d131-46e4-452e-803b-5088a9bebd98.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12036,
+        "aniId": 42036,
+        "createdAt": "2020-10-12T16:02:25.000Z",
+        "updatedAt": "2021-06-02T06:43:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dr_rurru": {
+        "authors": [
+          "MAEDA Risou"
+        ],
+        "identifier": "dr_rurru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dr. Rurru",
+        "url": "https://fanfox.net/manga/dr_rurru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6692/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12036,
+        "aniId": 42036,
+        "createdAt": "2021-05-21T00:13:39.000Z",
+        "updatedAt": "2021-05-21T00:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

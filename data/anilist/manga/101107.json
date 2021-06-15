@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "週刊少年ハチ",
+    "Weekly Hachi"
+  ],
+  "authors": [
+    "Eiji Masuda"
+  ],
+  "id": 101107,
+  "malId": 111834,
+  "type": "manga",
+  "title": "Shuukan Shounen Hachi",
+  "url": "https://anilist.co/manga/101107",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101107-v6jfQBZEOEBf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:50.000Z",
+  "updatedAt": "2021-05-20T14:56:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d033cf5-e695-408a-8329-6e93b6f8dc86": {
+        "authors": [
+          "Masuda Eiji"
+        ],
+        "identifier": "9d033cf5-e695-408a-8329-6e93b6f8dc86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shuukan Shounen Hachi",
+        "url": "https://mangadex.org/title/9d033cf5-e695-408a-8329-6e93b6f8dc86",
+        "image": "https://uploads.mangadex.org/covers/9d033cf5-e695-408a-8329-6e93b6f8dc86/bd4e0e51-ade6-4b1b-8a0c-a6a8cf4fbade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111834,
+        "aniId": 101107,
+        "createdAt": "2020-10-12T16:11:23.000Z",
+        "updatedAt": "2021-06-05T07:57:02.000Z",
+        "deletedAt": null
+      },
+      "bafc25e7-c522-4a65-9ee9-0a02b8868936": {
+        "authors": [
+          "CME_T"
+        ],
+        "identifier": "bafc25e7-c522-4a65-9ee9-0a02b8868936",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Weekly Roll",
+        "url": "https://mangadex.org/title/bafc25e7-c522-4a65-9ee9-0a02b8868936",
+        "image": "https://uploads.mangadex.org/covers/bafc25e7-c522-4a65-9ee9-0a02b8868936/51d89ce7-2571-4efb-98fe-ce16ecf3c2f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111834,
+        "aniId": 101107,
+        "createdAt": "2020-10-12T16:18:14.000Z",
+        "updatedAt": "2021-06-07T15:12:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shuukan_shounen_hachi": {
+        "authors": [
+          "Masuda",
+          "Eiji"
+        ],
+        "identifier": "shuukan_shounen_hachi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shuukan Shounen Hachi",
+        "url": "https://manganelo.com/manga/shuukan_shounen_hachi",
+        "image": "https://avt.mkklcdnv6.com/13/p/16-1583493962.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111834,
+        "aniId": 101107,
+        "createdAt": "2020-12-12T04:17:44.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "勇者と僧侶と最強の鎧の漫画です。"
+  ],
+  "authors": [
+    "Amiya Narumi "
+  ],
+  "id": 123872,
+  "malId": null,
+  "type": "manga",
+  "title": "Yuusha to Souryo to Saikyou no Yoroi no Manga desu.",
+  "url": "https://anilist.co/manga/123872",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123872-y4utxVeJwCSz.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:20:46.000Z",
+  "updatedAt": "2021-06-08T01:20:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a3b975a-3d1f-4a69-beb1-6a9b29cfd938": {
+        "authors": [
+          "Narumi Amiya"
+        ],
+        "identifier": "8a3b975a-3d1f-4a69-beb1-6a9b29cfd938",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The hero, the priestess, and the strongest armor",
+        "url": "https://mangadex.org/title/8a3b975a-3d1f-4a69-beb1-6a9b29cfd938",
+        "image": "https://uploads.mangadex.org/covers/8a3b975a-3d1f-4a69-beb1-6a9b29cfd938/398e85fc-f788-4afa-9c7e-636956db4d61.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123872,
+        "createdAt": "2020-10-12T16:20:53.000Z",
+        "updatedAt": "2021-06-08T01:36:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

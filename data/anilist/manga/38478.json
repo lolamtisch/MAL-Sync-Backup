@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Akiba Romance!",
+    "あきば浪漫ス!",
+    "Akiba Roumansu!",
+    "Akiba Romansu!"
+  ],
+  "authors": [
+    "Kijima Renga"
+  ],
+  "id": 38478,
+  "malId": 8478,
+  "type": "manga",
+  "title": "Akiba Romance!",
+  "url": "https://anilist.co/manga/38478",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38478-900OSL3IaLW2.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:47.000Z",
+  "updatedAt": "2021-05-20T14:40:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cf8845f8-e2c2-4753-a1d9-4d2fa75b5537": {
+        "authors": [
+          "Kijima Renga"
+        ],
+        "identifier": "cf8845f8-e2c2-4753-a1d9-4d2fa75b5537",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akiba Romance",
+        "url": "https://mangadex.org/title/cf8845f8-e2c2-4753-a1d9-4d2fa75b5537",
+        "image": "https://uploads.mangadex.org/covers/cf8845f8-e2c2-4753-a1d9-4d2fa75b5537/7a91a9b8-8b02-4518-a910-84b887bd17b4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8478,
+        "aniId": 38478,
+        "createdAt": "2020-10-12T16:02:35.000Z",
+        "updatedAt": "2021-06-02T08:09:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-np960524": {
+        "authors": [
+          "Kijima Renga"
+        ],
+        "identifier": "manga-np960524",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Akiba Roumansu!",
+        "url": "https://manganato.com/manga-np960524",
+        "image": "https://avt.mkklcdnv6temp.com/4/u/7-1583476473.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8478,
+        "aniId": 38478,
+        "createdAt": "2021-06-05T10:19:39.000Z",
+        "updatedAt": "2021-06-05T10:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

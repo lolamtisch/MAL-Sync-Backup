@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "체인지가이",
+    "Quantum Mistake"
+  ],
+  "authors": [
+    "Eun-Ho Son",
+    "Myung-Soo Choi"
+  ],
+  "id": 32977,
+  "malId": 2977,
+  "type": "manga",
+  "title": "Change Guy",
+  "url": "https://anilist.co/manga/32977",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2977.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-05-20T14:37:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "66eab673-50ca-40b2-be7e-f66189674a51": {
+        "authors": [
+          "SON Eun Ho",
+          "Myung Soo Choi"
+        ],
+        "identifier": "66eab673-50ca-40b2-be7e-f66189674a51",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Change Guy",
+        "url": "https://mangadex.org/title/66eab673-50ca-40b2-be7e-f66189674a51",
+        "image": "https://uploads.mangadex.org/covers/66eab673-50ca-40b2-be7e-f66189674a51/617629e4-49da-4e3e-a8dd-5f2c32ccfe9b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2977,
+        "aniId": 32977,
+        "createdAt": "2020-10-12T16:04:48.000Z",
+        "updatedAt": "2021-06-02T23:26:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "change_guy": {
+        "authors": [],
+        "identifier": "change_guy",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Change Guy",
+        "url": "https://manganelo.com/manga/change_guy",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3992-change_guy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2977,
+        "aniId": 32977,
+        "createdAt": "2020-10-12T16:22:26.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "change_guy": {
+        "authors": [
+          "Eun Ho Son"
+        ],
+        "identifier": "change_guy",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Change Guy",
+        "url": "https://fanfox.net/manga/change_guy/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/87/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2977,
+        "aniId": 32977,
+        "createdAt": "2021-05-01T04:31:53.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

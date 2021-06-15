@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "夜想曲",
+    "Nocturne"
+  ],
+  "authors": [
+    "Tamotsu Takamure"
+  ],
+  "id": 32741,
+  "malId": 2741,
+  "type": "manga",
+  "title": "Yasoukyoku",
+  "url": "https://anilist.co/manga/32741",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2741.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T17:21:31.000Z",
+  "updatedAt": "2021-06-05T17:21:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "08e9afc8-eab3-4c86-9f5c-ff82bb61180b": {
+        "authors": [
+          "Takamure Tamotsu"
+        ],
+        "identifier": "08e9afc8-eab3-4c86-9f5c-ff82bb61180b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yasoukyoku",
+        "url": "https://mangadex.org/title/08e9afc8-eab3-4c86-9f5c-ff82bb61180b",
+        "image": "https://uploads.mangadex.org/covers/08e9afc8-eab3-4c86-9f5c-ff82bb61180b/e4d6f9d4-3bf2-4ff5-845a-539bb3f54140.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2741,
+        "aniId": 32741,
+        "createdAt": "2020-10-12T16:12:52.000Z",
+        "updatedAt": "2021-06-05T17:58:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

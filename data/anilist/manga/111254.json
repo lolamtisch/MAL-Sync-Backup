@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "リベルタ"
+  ],
+  "authors": [
+    "Tatsubon"
+  ],
+  "id": 111254,
+  "malId": null,
+  "type": "manga",
+  "title": "Liberta",
+  "url": "https://anilist.co/manga/111254",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111254-d1SioI3Kcujy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T19:18:58.000Z",
+  "updatedAt": "2021-06-03T19:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6f4aea2-d798-412f-9368-5bb3143cd50c": {
+        "authors": [
+          "Tatsubon"
+        ],
+        "identifier": "d6f4aea2-d798-412f-9368-5bb3143cd50c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Liberta",
+        "url": "https://mangadex.org/title/d6f4aea2-d798-412f-9368-5bb3143cd50c",
+        "image": "https://uploads.mangadex.org/covers/d6f4aea2-d798-412f-9368-5bb3143cd50c/626c215b-8a8c-42e2-892c-21606e94753d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111254,
+        "createdAt": "2020-10-12T16:17:00.000Z",
+        "updatedAt": "2021-06-07T07:24:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

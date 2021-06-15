@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "More Until Morning, Until Moring, More",
+    "朝まで、もっと。"
+  ],
+  "authors": [
+    "Yumachi, Shin"
+  ],
+  "id": 3632,
+  "type": "manga",
+  "title": "Asa made, Motto.",
+  "url": "https://myanimelist.net/manga/3632/Asa_made_Motto",
+  "image": "https://cdn.myanimelist.net/images/manga/3/4042.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:52.000Z",
+  "updatedAt": "2021-05-20T21:15:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4174b959-85cf-48a0-a371-c2dc043b911f": {
+        "authors": [
+          "Yumachi Shin"
+        ],
+        "identifier": "4174b959-85cf-48a0-a371-c2dc043b911f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Asa Made, Motto.",
+        "url": "https://mangadex.org/title/4174b959-85cf-48a0-a371-c2dc043b911f",
+        "image": "https://uploads.mangadex.org/covers/4174b959-85cf-48a0-a371-c2dc043b911f/0ec61ffe-c7bd-4f8e-a75d-a1bc16688a5d.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3632,
+        "aniId": 33632,
+        "createdAt": "2020-10-12T16:03:57.000Z",
+        "updatedAt": "2021-06-02T17:41:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "asa_made_motto": {
+        "authors": [
+          "YUMACHI Shin"
+        ],
+        "identifier": "asa_made_motto",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Asa Made, Motto",
+        "url": "https://fanfox.net/manga/asa_made_motto/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1816/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3632,
+        "aniId": 33632,
+        "createdAt": "2021-05-20T21:15:10.000Z",
+        "updatedAt": "2021-05-20T21:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Biting the Tiger",
+    "나비, 호랑이를 물다",
+    "蝴蝶，咬住老虎"
+  ],
+  "authors": [
+    "Mindal Park"
+  ],
+  "id": 111413,
+  "malId": null,
+  "type": "manga",
+  "title": "Nabi, Horangireul Mulda",
+  "url": "https://anilist.co/manga/111413",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111413-fqnA4tpaXtud.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-30T01:12:13.000Z",
+  "updatedAt": "2021-05-30T01:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce841813-2082-4e88-b055-9eb57f835199": {
+        "authors": [
+          "후박나무옹뽀",
+          "박민달"
+        ],
+        "identifier": "ce841813-2082-4e88-b055-9eb57f835199",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Biting the Tiger",
+        "url": "https://mangadex.org/title/ce841813-2082-4e88-b055-9eb57f835199",
+        "image": "https://uploads.mangadex.org/covers/ce841813-2082-4e88-b055-9eb57f835199/17ac8109-0ec1-4f42-8603-d8dcf1867e20.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111413,
+        "createdAt": "2020-10-12T16:17:33.000Z",
+        "updatedAt": "2021-06-07T10:01:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

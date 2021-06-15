@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "おにぎりささ"
+  ],
+  "authors": [
+    "Sankichi Meguro"
+  ],
+  "id": 86730,
+  "malId": 95357,
+  "type": "manga",
+  "title": "Onigiri Sasa",
+  "url": "https://anilist.co/manga/86730",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56730-m6S9W2lGkUsx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:59.000Z",
+  "updatedAt": "2021-05-20T14:53:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e23f79cf-ce8c-4bec-b259-e961aa2a0969": {
+        "authors": [
+          "Meguro Sankichi"
+        ],
+        "identifier": "e23f79cf-ce8c-4bec-b259-e961aa2a0969",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onigiri Sasa",
+        "url": "https://mangadex.org/title/e23f79cf-ce8c-4bec-b259-e961aa2a0969",
+        "image": "https://uploads.mangadex.org/covers/e23f79cf-ce8c-4bec-b259-e961aa2a0969/66fbce14-b9d3-47ab-820b-d696b6022bfb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95357,
+        "aniId": 86730,
+        "createdAt": "2020-10-12T16:09:27.000Z",
+        "updatedAt": "2021-06-04T17:40:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "onigiri_sasa_2": {
+        "authors": [],
+        "identifier": "onigiri_sasa_2",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Onigiri Sasa",
+        "url": "https://manganelo.com/manga/onigiri_sasa_2",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3659-onigiri_sasa_2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95357,
+        "aniId": 86730,
+        "createdAt": "2020-10-12T16:24:42.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

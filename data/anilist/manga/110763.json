@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "サメガール",
+    "Shark Girl",
+    "Same Garu"
+  ],
+  "authors": [
+    "Syuji Yukimoto"
+  ],
+  "id": 110763,
+  "malId": 120957,
+  "type": "manga",
+  "title": "Same Girl",
+  "url": "https://anilist.co/manga/110763",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110763-wQWFJGlTpcTK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:18.000Z",
+  "updatedAt": "2021-05-20T14:58:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "26b0e3e5-d08d-466e-87ff-8ea474b223ab": {
+        "authors": [
+          "Yukimoto Syuji"
+        ],
+        "identifier": "26b0e3e5-d08d-466e-87ff-8ea474b223ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shark Girl",
+        "url": "https://mangadex.org/title/26b0e3e5-d08d-466e-87ff-8ea474b223ab",
+        "image": "https://uploads.mangadex.org/covers/26b0e3e5-d08d-466e-87ff-8ea474b223ab/e561735d-9c09-45ce-84e5-df66330e7c04.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120957,
+        "aniId": 110763,
+        "createdAt": "2020-10-12T16:15:53.000Z",
+        "updatedAt": "2021-06-06T17:40:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yz918981": {
+        "authors": [],
+        "identifier": "yz918981",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shark Girl",
+        "url": "https://manganelo.com/manga/yz918981",
+        "image": "https://avt.mkklcdnv6.com/15/f/18-1583497673.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120957,
+        "aniId": 110763,
+        "createdAt": "2020-10-12T16:26:28.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Hello,Hello and Hello"
+  ],
+  "authors": [
+    "Aya Hazuki",
+    "booota",
+    "Teruya"
+  ],
+  "id": 105823,
+  "malId": 117315,
+  "type": "manga",
+  "title": "Hello, Hello and Hello",
+  "url": "https://anilist.co/manga/105823",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105823-32ZQBp56aUjh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:55.000Z",
+  "updatedAt": "2021-06-06T04:50:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "92533f81-4c1b-4aa5-9ea5-5dbbfd6aca39": {
+        "authors": [
+          "Tereya",
+          "Hazuki Aya"
+        ],
+        "identifier": "92533f81-4c1b-4aa5-9ea5-5dbbfd6aca39",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hello, Hello and Hello",
+        "url": "https://mangadex.org/title/92533f81-4c1b-4aa5-9ea5-5dbbfd6aca39",
+        "image": "https://uploads.mangadex.org/covers/92533f81-4c1b-4aa5-9ea5-5dbbfd6aca39/8d3a7e12-bfb1-4e34-a9fe-066d95a78046.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117315,
+        "aniId": 105823,
+        "createdAt": "2020-10-12T16:14:24.000Z",
+        "updatedAt": "2021-06-06T10:25:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hu921526": {
+        "authors": [],
+        "identifier": "hu921526",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hello, Hello And Hello",
+        "url": "https://manganelo.com/manga/hu921526",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2928-hu921526.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117315,
+        "aniId": 105823,
+        "createdAt": "2020-10-12T16:23:26.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

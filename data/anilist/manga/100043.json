@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "メイのメイデン"
+  ],
+  "authors": [
+    "Gakukirio",
+    "Relucy"
+  ],
+  "id": 100043,
+  "malId": 105665,
+  "type": "manga",
+  "title": "Mei no Maiden",
+  "url": "https://anilist.co/manga/100043",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100043-0m1ZHTaHFFuf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:15.000Z",
+  "updatedAt": "2021-05-20T14:55:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c8094a30-7ad6-40b6-a0e1-4d46c29b4466": {
+        "authors": [
+          "Gakukirio",
+          "Relucy"
+        ],
+        "identifier": "c8094a30-7ad6-40b6-a0e1-4d46c29b4466",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mei no Maiden",
+        "url": "https://mangadex.org/title/c8094a30-7ad6-40b6-a0e1-4d46c29b4466",
+        "image": "https://uploads.mangadex.org/covers/c8094a30-7ad6-40b6-a0e1-4d46c29b4466/b4f8a029-be5c-41b0-bc44-6e58c693b069.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105665,
+        "aniId": 100043,
+        "createdAt": "2020-10-12T16:10:51.000Z",
+        "updatedAt": "2021-06-05T03:51:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

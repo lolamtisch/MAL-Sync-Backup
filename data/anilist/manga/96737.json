@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "グッド・ナイト・ワールド"
+  ],
+  "authors": [
+    "Uru Okabe"
+  ],
+  "id": 96737,
+  "malId": 95939,
+  "type": "manga",
+  "title": "Good Night World",
+  "url": "https://anilist.co/manga/96737",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96737-IgcZb0KHMvbw.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:00.000Z",
+  "updatedAt": "2021-05-20T14:54:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1a16785f-c41f-48c2-ab68-2f102bf6ac72": {
+        "authors": [
+          "Okabe Uru"
+        ],
+        "identifier": "1a16785f-c41f-48c2-ab68-2f102bf6ac72",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Good Night World",
+        "url": "https://mangadex.org/title/1a16785f-c41f-48c2-ab68-2f102bf6ac72",
+        "image": "https://uploads.mangadex.org/covers/1a16785f-c41f-48c2-ab68-2f102bf6ac72/fe9a7422-869f-4099-b8c1-1bbe0c7ffc47.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95939,
+        "aniId": 96737,
+        "createdAt": "2020-10-12T16:09:26.000Z",
+        "updatedAt": "2021-06-04T17:34:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "good-night-world": {
+        "authors": [
+          "OKABE Uru"
+        ],
+        "identifier": "good-night-world",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Good Night World",
+        "url": "https://mangasee123.com/manga/Good-Night-World",
+        "image": "https://cover.nep.li/cover/Good-Night-World.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95939,
+        "aniId": 96737,
+        "createdAt": "2021-04-07T20:20:57.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "good_night_world": {
+        "authors": [
+          "Okabe",
+          "Uru"
+        ],
+        "identifier": "good_night_world",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Good Night World",
+        "url": "https://manganelo.com/manga/good_night_world",
+        "image": "https://avt.mkklcdnv6temp.com/20/n/13-1583488489.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95939,
+        "aniId": 96737,
+        "createdAt": "2021-05-11T11:42:52.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

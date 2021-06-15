@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "だんだらごはん"
+  ],
+  "authors": [
+    "Miyuki Tonogaya"
+  ],
+  "id": 112523,
+  "malId": 111219,
+  "type": "manga",
+  "title": "Dandara Gohan",
+  "url": "https://anilist.co/manga/112523",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112523-kjk4ApbUolag.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:18.000Z",
+  "updatedAt": "2021-05-20T14:56:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b176d1f5-e6b2-47f5-9bf1-7e44ebc4eec7": {
+        "authors": [
+          "Tonogaya Miyuki"
+        ],
+        "identifier": "b176d1f5-e6b2-47f5-9bf1-7e44ebc4eec7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dandara Gohan",
+        "url": "https://mangadex.org/title/b176d1f5-e6b2-47f5-9bf1-7e44ebc4eec7",
+        "image": "https://uploads.mangadex.org/covers/b176d1f5-e6b2-47f5-9bf1-7e44ebc4eec7/e4595fd6-316b-4a33-b254-05337b4b4dca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111219,
+        "aniId": 112523,
+        "createdAt": "2020-10-12T16:16:22.000Z",
+        "updatedAt": "2021-06-06T21:58:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ye920880": {
+        "authors": [],
+        "identifier": "ye920880",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dandara Gohan",
+        "url": "https://manganelo.com/manga/ye920880",
+        "image": "https://avt.mkklcdnv6.com/35/e/19-1583500472.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111219,
+        "aniId": 112523,
+        "createdAt": "2020-10-12T16:26:21.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

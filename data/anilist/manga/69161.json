@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ペン先にシロップ",
+    "My Handsome Mangaka"
+  ],
+  "authors": [
+    "Mio Nanao"
+  ],
+  "id": 69161,
+  "malId": 39161,
+  "type": "manga",
+  "title": "Pen Saki ni Syrup",
+  "url": "https://anilist.co/manga/69161",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39161.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:38.000Z",
+  "updatedAt": "2021-05-20T14:48:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "71eecef1-fa3c-4cfb-9d20-7101ffc4194e": {
+        "authors": [
+          "Nanao Mio"
+        ],
+        "identifier": "71eecef1-fa3c-4cfb-9d20-7101ffc4194e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aka no Yuuwaku",
+        "url": "https://mangadex.org/title/71eecef1-fa3c-4cfb-9d20-7101ffc4194e",
+        "image": "https://uploads.mangadex.org/covers/71eecef1-fa3c-4cfb-9d20-7101ffc4194e/dab079b5-f7fe-48c3-aba4-a918c4be506f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39161,
+        "aniId": 69161,
+        "createdAt": "2020-10-12T16:04:27.000Z",
+        "updatedAt": "2021-06-02T21:09:41.000Z",
+        "deletedAt": null
+      },
+      "f28ef7a6-7ecd-4a94-a604-e5286952ef60": {
+        "authors": [
+          "NANAO Mio"
+        ],
+        "identifier": "f28ef7a6-7ecd-4a94-a604-e5286952ef60",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pen Saki ni Syrup",
+        "url": "https://mangadex.org/title/f28ef7a6-7ecd-4a94-a604-e5286952ef60",
+        "image": "https://uploads.mangadex.org/covers/f28ef7a6-7ecd-4a94-a604-e5286952ef60/274fddf5-e3b4-49c1-852e-503814e4e476.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39161,
+        "aniId": 69161,
+        "createdAt": "2020-10-12T16:04:40.000Z",
+        "updatedAt": "2021-06-02T22:34:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

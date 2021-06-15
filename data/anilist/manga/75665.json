@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "황제의 검",
+    "The Sword of Emperor"
+  ],
+  "authors": [],
+  "id": 75665,
+  "malId": 45665,
+  "type": "manga",
+  "title": "Hwangjaeui Geom",
+  "url": "https://anilist.co/manga/75665",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75665-Splo7Yv8MJYL.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:27.000Z",
+  "updatedAt": "2021-05-20T14:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e1c6478-7e56-4f3d-90e7-51de3e25ad8c": {
+        "authors": [
+          "Im Mu-seong",
+          "J. Park"
+        ],
+        "identifier": "7e1c6478-7e56-4f3d-90e7-51de3e25ad8c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Sword of the Emperor",
+        "url": "https://mangadex.org/title/7e1c6478-7e56-4f3d-90e7-51de3e25ad8c",
+        "image": "https://uploads.mangadex.org/covers/7e1c6478-7e56-4f3d-90e7-51de3e25ad8c/82b9a517-a904-49b0-bb96-9d986b6e3ab9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45665,
+        "aniId": 75665,
+        "createdAt": "2020-10-12T16:05:36.000Z",
+        "updatedAt": "2021-06-03T13:43:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "the_sword_of_emperor": {
+        "authors": [],
+        "identifier": "the_sword_of_emperor",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Sword Of Emperor",
+        "url": "https://manganelo.com/manga/the_sword_of_emperor",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/15369-the_sword_of_emperor.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45665,
+        "aniId": 75665,
+        "createdAt": "2020-10-12T16:25:43.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Say Say Say"
+  ],
+  "authors": [
+    "Hwang, Mi Ri"
+  ],
+  "id": 13063,
+  "type": "manga",
+  "title": "Say Say Say",
+  "url": "https://myanimelist.net/manga/13063/Say_Say_Say",
+  "image": "https://cdn.myanimelist.net/images/manga/3/18787.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:50.000Z",
+  "updatedAt": "2021-05-20T21:46:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe9ee7c7-c20d-4bb5-ad35-fe448ed86b40": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "fe9ee7c7-c20d-4bb5-ad35-fe448ed86b40",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Say Say Say",
+        "url": "https://mangadex.org/title/fe9ee7c7-c20d-4bb5-ad35-fe448ed86b40",
+        "image": "https://uploads.mangadex.org/covers/fe9ee7c7-c20d-4bb5-ad35-fe448ed86b40/adcecb50-c9e7-40e5-9fa1-78c35d0804df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13063,
+        "aniId": 43063,
+        "createdAt": "2020-10-12T16:03:30.000Z",
+        "updatedAt": "2021-06-02T14:23:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "say_say_say_hwang_mi_ri": {
+        "authors": [
+          "HWANG Mi-Ri"
+        ],
+        "identifier": "say_say_say_hwang_mi_ri",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Say Say Say (HWANG Mi Ri)",
+        "url": "https://fanfox.net/manga/say_say_say_hwang_mi_ri/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5911/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13063,
+        "aniId": 43063,
+        "createdAt": "2021-05-20T21:46:51.000Z",
+        "updatedAt": "2021-05-20T22:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

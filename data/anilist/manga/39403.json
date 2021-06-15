@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ラブレター",
+    "Half & Half",
+    "Half and Half",
+    "Azusa"
+  ],
+  "authors": [
+    "Kouji Seo"
+  ],
+  "id": 39403,
+  "malId": 9403,
+  "type": "manga",
+  "title": "Love Letter",
+  "url": "https://anilist.co/manga/39403",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9403.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:56.000Z",
+  "updatedAt": "2021-05-20T14:40:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "495b123a-ed4c-44ac-ac0d-cc857a2d6f93": {
+        "authors": [
+          "Seo Kouji"
+        ],
+        "identifier": "495b123a-ed4c-44ac-ac0d-cc857a2d6f93",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Letter",
+        "url": "https://mangadex.org/title/495b123a-ed4c-44ac-ac0d-cc857a2d6f93",
+        "image": "https://uploads.mangadex.org/covers/495b123a-ed4c-44ac-ac0d-cc857a2d6f93/82f689ae-715c-4039-8b81-dbb24189f169.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9403,
+        "aniId": 39403,
+        "createdAt": "2020-10-12T16:03:03.000Z",
+        "updatedAt": "2021-06-02T11:23:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "love_letter_seo_kouji": {
+        "authors": [],
+        "identifier": "love_letter_seo_kouji",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love Letter (Seo Kouji)",
+        "url": "https://manganelo.com/manga/love_letter_seo_kouji",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/12726-love_letter_seo_kouji.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9403,
+        "aniId": 39403,
+        "createdAt": "2020-10-12T16:24:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

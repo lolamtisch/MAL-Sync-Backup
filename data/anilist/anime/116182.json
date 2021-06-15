@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "Legend of Exorcism",
+    "天宝伏妖录",
+    "Legend Of Tang"
+  ],
+  "id": 116182,
+  "malId": 40735,
+  "type": "anime",
+  "title": "Tianbao Fuyao Lu",
+  "url": "https://anilist.co/anime/116182",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116182-W5Uj5asq3KSI.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:00.000Z",
+  "updatedAt": "2021-06-06T00:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "jr94": {
+        "identifier": "jr94",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Legend of Exorcism",
+        "url": "https://9anime.to/watch/legend-of-exorcism.jr94",
+        "image": "https://static.akacdn.ru/files/images/4/4c/4c0c42faa2b1b56367febbf6badf90a2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40735,
+        "aniId": 116182,
+        "createdAt": "2020-10-12T15:52:18.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tian-bao-fuyao-lu": {
+        "identifier": "tian-bao-fuyao-lu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tian Bao Fuyao Lu",
+        "url": "https://www19.gogoanime.io/category/tian-bao-fuyao-lu",
+        "image": "https://gogocdn.net/cover/tian-bao-fuyao-lu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40735,
+        "aniId": 116182,
+        "createdAt": "2020-10-12T16:02:05.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

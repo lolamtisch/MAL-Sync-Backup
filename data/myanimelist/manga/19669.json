@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Tigers and Wolves",
+    "虎と狼"
+  ],
+  "authors": [
+    "Kamio, Yoko"
+  ],
+  "id": 19669,
+  "type": "manga",
+  "title": "Tora to Ookami",
+  "url": "https://myanimelist.net/manga/19669/Tora_to_Ookami",
+  "image": "https://cdn.myanimelist.net/images/manga/2/32971.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:45.000Z",
+  "updatedAt": "2021-05-31T09:45:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69de29f9-d88c-45c4-91b3-33943a66db63": {
+        "authors": [
+          "Kamio Youko"
+        ],
+        "identifier": "69de29f9-d88c-45c4-91b3-33943a66db63",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tora to Ookami",
+        "url": "https://mangadex.org/title/69de29f9-d88c-45c4-91b3-33943a66db63",
+        "image": "https://uploads.mangadex.org/covers/69de29f9-d88c-45c4-91b3-33943a66db63/c41ff163-4b71-412a-bfed-3bf671bf61f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19669,
+        "aniId": 49669,
+        "createdAt": "2020-10-12T16:05:29.000Z",
+        "updatedAt": "2021-06-03T12:57:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tora-to-ookami": {
+        "authors": [
+          "KAMIO Youko"
+        ],
+        "identifier": "tora-to-ookami",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tora to Ookami",
+        "url": "https://mangasee123.com/manga/Tora-To-Ookami",
+        "image": "https://cover.nep.li/cover/Tora-To-Ookami.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19669,
+        "aniId": 49669,
+        "createdAt": "2021-05-31T09:45:44.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

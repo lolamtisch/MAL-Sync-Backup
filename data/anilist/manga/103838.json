@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "미호이야기",
+    "Miho's Tale",
+    "Miho's Story"
+  ],
+  "authors": [
+    "Jin Yang Hye"
+  ],
+  "id": 103838,
+  "malId": null,
+  "type": "manga",
+  "title": "Mihoiyagi",
+  "url": "https://anilist.co/manga/103838",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/103838-tA0pJeAORe2Z.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T20:49:17.000Z",
+  "updatedAt": "2021-06-03T20:49:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3490dea9-0a73-44bd-bfa9-79b7091f5778": {
+        "authors": [
+          "Hye Jin Yang"
+        ],
+        "identifier": "3490dea9-0a73-44bd-bfa9-79b7091f5778",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Miho's Tale",
+        "url": "https://mangadex.org/title/3490dea9-0a73-44bd-bfa9-79b7091f5778",
+        "image": "https://uploads.mangadex.org/covers/3490dea9-0a73-44bd-bfa9-79b7091f5778/ec3b19ed-4c33-4d58-b8dd-c24caff6788b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 103838,
+        "createdAt": "2020-10-12T16:06:36.000Z",
+        "updatedAt": "2021-06-03T21:06:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

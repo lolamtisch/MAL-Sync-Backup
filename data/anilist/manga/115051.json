@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "海帝",
+    "Ocean Adventurer Kaitei",
+    "Katei"
+  ],
+  "authors": [
+    "Yukinobu Hoshino"
+  ],
+  "id": 115051,
+  "malId": 121035,
+  "type": "manga",
+  "title": "Kaitei",
+  "url": "https://anilist.co/manga/115051",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115051-sXBv59dz1y4b.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:19.000Z",
+  "updatedAt": "2021-05-20T14:58:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "234efdc7-438d-449e-9d5f-934583feb49d": {
+        "authors": [
+          "Hoshino Yukinobu"
+        ],
+        "identifier": "234efdc7-438d-449e-9d5f-934583feb49d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaitei",
+        "url": "https://mangadex.org/title/234efdc7-438d-449e-9d5f-934583feb49d",
+        "image": "https://uploads.mangadex.org/covers/234efdc7-438d-449e-9d5f-934583feb49d/9843085a-05e7-4d63-92de-60725f29d82f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121035,
+        "aniId": 115051,
+        "createdAt": "2020-10-12T16:16:38.000Z",
+        "updatedAt": "2021-06-07T00:27:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

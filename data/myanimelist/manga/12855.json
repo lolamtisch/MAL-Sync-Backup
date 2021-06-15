@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Tokkyu!, TOQ",
+    "トッキュー！！"
+  ],
+  "authors": [
+    "Kubo, Mitsurou",
+    "Komori, Yoichi"
+  ],
+  "id": 12855,
+  "type": "manga",
+  "title": "Tokkyuu!!",
+  "url": "https://myanimelist.net/manga/12855/Tokkyuu",
+  "image": "https://cdn.myanimelist.net/images/manga/2/184452.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:48.000Z",
+  "updatedAt": "2021-05-01T13:34:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "414fd0ba-83c1-4aa2-ba4c-388481288150": {
+        "authors": [
+          "Kubo Mitsurou",
+          "Komori Yoichi"
+        ],
+        "identifier": "414fd0ba-83c1-4aa2-ba4c-388481288150",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokkyuu!!",
+        "url": "https://mangadex.org/title/414fd0ba-83c1-4aa2-ba4c-388481288150",
+        "image": "https://uploads.mangadex.org/covers/414fd0ba-83c1-4aa2-ba4c-388481288150/691e0b47-5355-47b5-9c0a-ccd9f71c40ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12855,
+        "aniId": 42855,
+        "createdAt": "2020-10-12T16:03:36.000Z",
+        "updatedAt": "2021-06-02T15:14:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tokkyuu": {
+        "authors": [
+          "Komori",
+          "Yoichi"
+        ],
+        "identifier": "tokkyuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tokkyuu!!",
+        "url": "https://manganelo.com/manga/tokkyuu",
+        "image": "https://avt.mkklcdnv6temp.com/38/k/9-1583481667.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12855,
+        "aniId": 42855,
+        "createdAt": "2021-05-04T06:01:58.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

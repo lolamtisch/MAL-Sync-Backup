@@ -1,0 +1,121 @@
+{
+  "altTitle": [
+    "ヤマノススメ コミックアンソロジー",
+    "Encouragement of Climb Comic Anthology"
+  ],
+  "authors": [
+    "Siro",
+    "Harumaki Arai",
+    "Kanari Abe",
+    "Koi",
+    "Chizuna Nakajima",
+    "Yuusuke Shiba",
+    "Muru Imigi",
+    "Tamura  Mutou",
+    "Yuichi Hayashi",
+    "Inko Horiizumi",
+    "Miyami Oomiya",
+    "Ayumu Shouji",
+    "Kaisanbutsu",
+    "Koyuki",
+    "RIO",
+    "888"
+  ],
+  "id": 119437,
+  "malId": 97825,
+  "type": "manga",
+  "title": "Yama no Susume Comic Anthology",
+  "url": "https://anilist.co/manga/119437",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119437-PcQJGodAE2du.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:10.000Z",
+  "updatedAt": "2021-05-20T14:54:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f33cbb9d-15a2-45ca-9726-80c5b71302fb": {
+        "authors": [
+          "Ribbon",
+          "Kokekokko Koma",
+          "Youta564",
+          "Ishimari Yuuya",
+          "Nekopantsu"
+        ],
+        "identifier": "f33cbb9d-15a2-45ca-9726-80c5b71302fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yama no Susume - AoHina! (Anthology)",
+        "url": "https://mangadex.org/title/f33cbb9d-15a2-45ca-9726-80c5b71302fb",
+        "image": "https://uploads.mangadex.org/covers/f33cbb9d-15a2-45ca-9726-80c5b71302fb/0d47e48a-07a3-48fb-8ed8-b5ebfbf84d9b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97825,
+        "aniId": 119437,
+        "createdAt": "2020-10-12T16:13:49.000Z",
+        "updatedAt": "2021-06-06T00:13:41.000Z",
+        "deletedAt": null
+      },
+      "832e754a-f693-4679-a438-8cf215d5506f": {
+        "authors": [
+          "Kaisanbutsu",
+          "Hayashi Yuuichi",
+          "Mutou Tamura",
+          "Nakajima Chizuna",
+          "888",
+          "Koyuki",
+          "Oomiya Miyami",
+          "Shiba Yuusuke",
+          "Imigi Muru",
+          "Shouji Ayumu",
+          "Abe Kanari",
+          "Arai Harumaki",
+          "Horiizumi Inko"
+        ],
+        "identifier": "832e754a-f693-4679-a438-8cf215d5506f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yama no Susume Comic Anthology",
+        "url": "https://mangadex.org/title/832e754a-f693-4679-a438-8cf215d5506f",
+        "image": "https://uploads.mangadex.org/covers/832e754a-f693-4679-a438-8cf215d5506f/ec0174ab-654f-443e-acde-67a79b16e00d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97825,
+        "aniId": 119437,
+        "createdAt": "2020-10-12T16:20:00.000Z",
+        "updatedAt": "2021-06-07T23:03:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yama_no_susume_comic_anthology": {
+        "authors": [
+          "Nakajima Chizuna",
+          "888",
+          "Hayashi Yuuichi",
+          "Imigi Muru",
+          "Shouji Ayumu"
+        ],
+        "identifier": "yama_no_susume_comic_anthology",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yama no Susume Comic Anthology",
+        "url": "https://fanfox.net/manga/yama_no_susume_comic_anthology/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34437/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97825,
+        "aniId": 119437,
+        "createdAt": "2021-04-18T15:44:18.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

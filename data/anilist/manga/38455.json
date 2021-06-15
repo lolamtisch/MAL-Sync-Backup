@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "銀盤カレイドスコープ"
+  ],
+  "authors": [
+    "Jun Hasegawa",
+    "Rei Kaibara"
+  ],
+  "id": 38455,
+  "malId": 8455,
+  "type": "manga",
+  "title": "Ginban Kaleidoscope",
+  "url": "https://anilist.co/manga/38455",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8455.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:47.000Z",
+  "updatedAt": "2021-05-20T14:40:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fec07e43-371b-4dfe-bd52-08ac29a2781a": {
+        "authors": [
+          "HASEGAWA Jun",
+          "KAIBARA Rei"
+        ],
+        "identifier": "fec07e43-371b-4dfe-bd52-08ac29a2781a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ginban Kaleidoscope",
+        "url": "https://mangadex.org/title/fec07e43-371b-4dfe-bd52-08ac29a2781a",
+        "image": "https://uploads.mangadex.org/covers/fec07e43-371b-4dfe-bd52-08ac29a2781a/28c88a10-d89e-4985-a3c9-ee7905a49fd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8455,
+        "aniId": 38455,
+        "createdAt": "2020-10-12T16:03:20.000Z",
+        "updatedAt": "2021-06-02T13:15:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "シュガーレス"
+  ],
+  "authors": [
+    "Masami Hosokawa"
+  ],
+  "id": 59781,
+  "malId": 29781,
+  "type": "manga",
+  "title": "Sugarless",
+  "url": "https://anilist.co/manga/59781",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59781-Bc6b3LUg2EaB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:37.000Z",
+  "updatedAt": "2021-05-20T14:47:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acf56fc2-cb67-4b8d-a694-93b85ca6f31e": {
+        "authors": [
+          "Hosokawa Masami"
+        ],
+        "identifier": "acf56fc2-cb67-4b8d-a694-93b85ca6f31e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sugarless",
+        "url": "https://mangadex.org/title/acf56fc2-cb67-4b8d-a694-93b85ca6f31e",
+        "image": "https://uploads.mangadex.org/covers/acf56fc2-cb67-4b8d-a694-93b85ca6f31e/74e76db7-152f-4996-8b1d-67bf666a9acd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29781,
+        "aniId": 59781,
+        "createdAt": "2020-10-12T16:03:16.000Z",
+        "updatedAt": "2021-06-02T12:47:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sugarless_hosokawa_masami": {
+        "authors": [],
+        "identifier": "sugarless_hosokawa_masami",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sugarless (Hosokawa Masami)",
+        "url": "https://manganelo.com/manga/sugarless_hosokawa_masami",
+        "image": "https://avt.mkklcdnv6.com/14/u/2-1583466270.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29781,
+        "aniId": 59781,
+        "createdAt": "2020-10-12T16:25:33.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sugarless": {
+        "authors": [
+          "HOSOKAWA Masami"
+        ],
+        "identifier": "sugarless",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sugarless (HOSOKAWA Masami)",
+        "url": "https://mangasee123.com/manga/Sugarless",
+        "image": "https://cover.nep.li/cover/Sugarless.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29781,
+        "aniId": 59781,
+        "createdAt": "2021-03-10T08:40:46.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

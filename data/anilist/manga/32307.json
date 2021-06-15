@@ -1,0 +1,43 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yukine Honami",
+    "Saari Natsuki"
+  ],
+  "id": 32307,
+  "malId": 2307,
+  "type": "manga",
+  "title": "Venus Kiss",
+  "url": "https://anilist.co/manga/32307",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2307.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0e4bb64c-f412-42dd-bd81-9ed86e502029": {
+        "authors": [
+          "Honami Yukine",
+          "Natsuki Saari"
+        ],
+        "identifier": "0e4bb64c-f412-42dd-bd81-9ed86e502029",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Venus Kiss!!",
+        "url": "https://mangadex.org/title/0e4bb64c-f412-42dd-bd81-9ed86e502029",
+        "image": "https://uploads.mangadex.org/covers/0e4bb64c-f412-42dd-bd81-9ed86e502029/df7f1462-b8af-4e09-a719-0b255567d3d0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2307,
+        "aniId": 32307,
+        "createdAt": "2020-10-12T16:13:10.000Z",
+        "updatedAt": "2021-06-05T19:21:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

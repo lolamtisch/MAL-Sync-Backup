@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "나 혼자 자동사냥",
+    "Auto Hunting",
+    "Only I Auto Hunt",
+    "Solo Auto-Hunting"
+  ],
+  "authors": [
+    "Wan-Gyeol Mi"
+  ],
+  "id": 117271,
+  "malId": null,
+  "type": "manga",
+  "title": "Na Honja Jadongsanyang",
+  "url": "https://anilist.co/manga/117271",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117271-lGaOsNTfdimx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T10:13:07.000Z",
+  "updatedAt": "2021-06-07T15:34:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f16500be-1c51-486f-898c-1a4ab706b1b5": {
+        "authors": [
+          "블랙시드 엔터테인먼트",
+          "아로鴉路",
+          "다넛"
+        ],
+        "identifier": "f16500be-1c51-486f-898c-1a4ab706b1b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Auto Hunting",
+        "url": "https://mangadex.org/title/f16500be-1c51-486f-898c-1a4ab706b1b5",
+        "image": "https://uploads.mangadex.org/covers/f16500be-1c51-486f-898c-1a4ab706b1b5/79ad4590-d984-4080-b205-6e39ce656869.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 117271,
+        "createdAt": "2020-10-12T16:18:16.000Z",
+        "updatedAt": "2021-06-07T16:25:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

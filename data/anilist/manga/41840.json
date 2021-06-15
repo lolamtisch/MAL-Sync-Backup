@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Love Spiral",
+    "恋愛スパイラル"
+  ],
+  "authors": [
+    "Ryo Yanase"
+  ],
+  "id": 41840,
+  "malId": 11840,
+  "type": "manga",
+  "title": "Love Spiral",
+  "url": "https://anilist.co/manga/41840",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11840.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T17:20:37.000Z",
+  "updatedAt": "2021-06-04T17:20:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a1f62ea8-7447-49d2-bbf3-e2d0183df95d": {
+        "authors": [
+          "YANASE Ryo"
+        ],
+        "identifier": "a1f62ea8-7447-49d2-bbf3-e2d0183df95d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Spiral",
+        "url": "https://mangadex.org/title/a1f62ea8-7447-49d2-bbf3-e2d0183df95d",
+        "image": "https://uploads.mangadex.org/covers/a1f62ea8-7447-49d2-bbf3-e2d0183df95d/7296ba5b-4cdc-465f-b8ad-c3510990be17.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11840,
+        "aniId": 41840,
+        "createdAt": "2020-10-12T16:09:20.000Z",
+        "updatedAt": "2021-06-04T18:35:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "love_spiral": {
+        "authors": [
+          "YANASE Ryo"
+        ],
+        "identifier": "love_spiral",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Love Spiral",
+        "url": "https://fanfox.net/manga/love_spiral/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5172/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11840,
+        "aniId": 41840,
+        "createdAt": "2021-05-20T23:13:58.000Z",
+        "updatedAt": "2021-06-04T17:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "사랑해요 뱀파이어"
+  ],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 70065,
+  "malId": 40065,
+  "type": "manga",
+  "title": "I Love You, Vampire",
+  "url": "https://anilist.co/manga/70065",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40065.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:41.000Z",
+  "updatedAt": "2021-05-20T14:48:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "38cccfbb-915e-4976-be31-5efec5362980": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "38cccfbb-915e-4976-be31-5efec5362980",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Love You, Vampire",
+        "url": "https://mangadex.org/title/38cccfbb-915e-4976-be31-5efec5362980",
+        "image": "https://uploads.mangadex.org/covers/38cccfbb-915e-4976-be31-5efec5362980/dc955325-3e53-4dc5-843b-2531a7e21c15.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40065,
+        "aniId": 70065,
+        "createdAt": "2020-10-12T16:05:28.000Z",
+        "updatedAt": "2021-06-03T12:52:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

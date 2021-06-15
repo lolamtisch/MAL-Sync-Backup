@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Karakuri Odette",
+    "カラクリオデット"
+  ],
+  "authors": [
+    "Suzuki, Julietta"
+  ],
+  "id": 5060,
+  "type": "manga",
+  "title": "Karakuri Odette",
+  "url": "https://myanimelist.net/manga/5060/Karakuri_Odette",
+  "image": "https://cdn.myanimelist.net/images/manga/3/186260.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:03.000Z",
+  "updatedAt": "2021-04-05T13:38:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0c5cb802-a42c-422f-843e-033fabf82d01": {
+        "authors": [
+          "SUZUKI Julietta"
+        ],
+        "identifier": "0c5cb802-a42c-422f-843e-033fabf82d01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Karakuri Odette",
+        "url": "https://mangadex.org/title/0c5cb802-a42c-422f-843e-033fabf82d01",
+        "image": "https://uploads.mangadex.org/covers/0c5cb802-a42c-422f-843e-033fabf82d01/af842e9f-63e2-43da-969a-a208985e7291.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5060,
+        "aniId": 35060,
+        "createdAt": "2020-10-12T16:03:32.000Z",
+        "updatedAt": "2021-06-02T14:41:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "karakuri_odette": {
+        "authors": [
+          "Suzuki",
+          "Julietta"
+        ],
+        "identifier": "karakuri_odette",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Karakuri Odette",
+        "url": "https://manganelo.com/manga/karakuri_odette",
+        "image": "https://avt.mkklcdnv6temp.com/48/r/4-1583471728.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5060,
+        "aniId": 35060,
+        "createdAt": "2021-04-05T13:38:58.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

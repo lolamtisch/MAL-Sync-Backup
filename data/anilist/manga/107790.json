@@ -1,0 +1,97 @@
+{
+  "altTitle": [
+    "No Longer Human",
+    "人間失格",
+    "Disqualified as Human Being"
+  ],
+  "authors": [
+    "Junji Itou",
+    "Osamu Dazai",
+    "Jocelyne Allen",
+    "James Dashiell",
+    "Christian Biscaro",
+    "Chieko Toba",
+    "Ernesto Cellie"
+  ],
+  "id": 107790,
+  "malId": 106609,
+  "type": "manga",
+  "title": "Ningen Shikkaku",
+  "url": "https://anilist.co/manga/107790",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107790-t9grmWstxxSP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:47.000Z",
+  "updatedAt": "2021-05-20T14:55:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48563de8-7669-4cd3-9dc0-7cbc945e8a8a": {
+        "authors": [
+          "Dazai Osamu",
+          "Itou Junji"
+        ],
+        "identifier": "48563de8-7669-4cd3-9dc0-7cbc945e8a8a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ningen Shikkaku",
+        "url": "https://mangadex.org/title/48563de8-7669-4cd3-9dc0-7cbc945e8a8a",
+        "image": "https://uploads.mangadex.org/covers/48563de8-7669-4cd3-9dc0-7cbc945e8a8a/92db7dd3-fb6e-4d98-bdd9-89fba034de2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106609,
+        "aniId": 107790,
+        "createdAt": "2020-10-12T16:12:32.000Z",
+        "updatedAt": "2021-06-05T15:09:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "no-longer-human-itou-junji": {
+        "authors": [
+          "DAZAI Osamu",
+          "ITOU Junji"
+        ],
+        "identifier": "no-longer-human-itou-junji",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "No Longer Human (ITOU Junji)",
+        "url": "https://mangasee123.com/manga/No-Longer-Human-ITOU-Junji",
+        "image": "https://cover.nep.li/cover/No-Longer-Human-ITOU-Junji.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 106609,
+        "aniId": 107790,
+        "createdAt": "2021-01-12T09:51:42.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "no_longer_human": {
+        "authors": [
+          "Dazai Osamu"
+        ],
+        "identifier": "no_longer_human",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "No Longer Human",
+        "url": "https://fanfox.net/manga/no_longer_human/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29398/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106609,
+        "aniId": 107790,
+        "createdAt": "2021-02-10T16:10:56.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

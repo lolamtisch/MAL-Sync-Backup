@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Kano Miyamoto"
+  ],
+  "id": 43788,
+  "malId": 13788,
+  "type": "manga",
+  "title": "Calling dj - Pipe Dreams",
+  "url": "https://anilist.co/manga/43788",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13788.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:38.000Z",
+  "updatedAt": "2021-05-20T14:42:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0f775ebd-7d7e-4fd8-8284-e9f2ca45d823": {
+        "authors": [
+          "Miyamoto Kano"
+        ],
+        "identifier": "0f775ebd-7d7e-4fd8-8284-e9f2ca45d823",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Calling - Pipe Dreams (Doujinshi)",
+        "url": "https://mangadex.org/title/0f775ebd-7d7e-4fd8-8284-e9f2ca45d823",
+        "image": "https://uploads.mangadex.org/covers/0f775ebd-7d7e-4fd8-8284-e9f2ca45d823/3f01ffb8-1b96-4bcf-816b-bf0b21eb3cae.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13788,
+        "aniId": 43788,
+        "createdAt": "2020-10-12T16:12:21.000Z",
+        "updatedAt": "2021-06-05T14:25:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

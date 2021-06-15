@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "夢幻ウタマロ"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 69529,
+  "malId": 39529,
+  "type": "manga",
+  "title": "Mugen Utamaro",
+  "url": "https://anilist.co/manga/69529",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39529.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9c0b1752-e63f-44f0-b8ba-fb2c74cb4d71": {
+        "authors": [
+          "NAGAI Go",
+          "Nagai Go",
+          "Dynamic Pro"
+        ],
+        "identifier": "9c0b1752-e63f-44f0-b8ba-fb2c74cb4d71",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mugen Utamaro",
+        "url": "https://mangadex.org/title/9c0b1752-e63f-44f0-b8ba-fb2c74cb4d71",
+        "image": "https://uploads.mangadex.org/covers/9c0b1752-e63f-44f0-b8ba-fb2c74cb4d71/1b6163bf-b52c-42b4-b95e-b7a7ea8c1bf3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39529,
+        "aniId": 69529,
+        "createdAt": "2020-10-12T16:04:44.000Z",
+        "updatedAt": "2021-06-02T23:06:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mugen_utamaro": {
+        "authors": [],
+        "identifier": "mugen_utamaro",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mugen Utamaro",
+        "url": "https://manganelo.com/manga/mugen_utamaro",
+        "image": "https://avt.mkklcdnv6.com/35/t/10-1583483463.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39529,
+        "aniId": 69529,
+        "createdAt": "2020-10-12T16:24:24.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

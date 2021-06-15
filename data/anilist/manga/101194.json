@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "星明かりグラフィクス",
+    "Hoshi Akari Graphics",
+    "Hoshiakari Gurafikusu"
+  ],
+  "authors": [
+    "Kazune Yamamoto"
+  ],
+  "id": 101194,
+  "malId": 108233,
+  "type": "manga",
+  "title": "Hoshiakari Graphics",
+  "url": "https://anilist.co/manga/101194",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101194-zOKSIxAGiZRP.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:58.000Z",
+  "updatedAt": "2021-05-20T14:55:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ff7957d0-0e3a-4313-b183-a8df66e7f58d": {
+        "authors": [
+          "Yamamoto Kazune"
+        ],
+        "identifier": "ff7957d0-0e3a-4313-b183-a8df66e7f58d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshi Akari Graphics",
+        "url": "https://mangadex.org/title/ff7957d0-0e3a-4313-b183-a8df66e7f58d",
+        "image": "https://uploads.mangadex.org/covers/ff7957d0-0e3a-4313-b183-a8df66e7f58d/c7279ea3-4b07-4186-8d9e-5ed88bcb9e2d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108233,
+        "aniId": 101194,
+        "createdAt": "2020-10-12T16:18:34.000Z",
+        "updatedAt": "2021-06-07T17:57:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cb922306": {
+        "authors": [
+          "Yamamoto",
+          "Kazune"
+        ],
+        "identifier": "cb922306",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hoshi Akari Graphics",
+        "url": "https://manganelo.com/manga/cb922306",
+        "image": "https://avt.mkklcdnv6.com/38/y/20-1583502547.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108233,
+        "aniId": 101194,
+        "createdAt": "2020-11-29T14:24:41.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "라모스카",
+    "The Fly"
+  ],
+  "authors": [
+    "Hyung Kyu Kang"
+  ],
+  "id": 42039,
+  "malId": 12039,
+  "type": "manga",
+  "title": "La Mosca",
+  "url": "https://anilist.co/manga/42039",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12039.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22cb8236-187b-4853-b2c9-4aa69bf2589b": {
+        "authors": [
+          "Kang Hyung Kyu"
+        ],
+        "identifier": "22cb8236-187b-4853-b2c9-4aa69bf2589b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "La Mosca",
+        "url": "https://mangadex.org/title/22cb8236-187b-4853-b2c9-4aa69bf2589b",
+        "image": "https://uploads.mangadex.org/covers/22cb8236-187b-4853-b2c9-4aa69bf2589b/fed2dc13-20f5-404e-9b99-036322835af2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12039,
+        "aniId": 42039,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T13:31:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

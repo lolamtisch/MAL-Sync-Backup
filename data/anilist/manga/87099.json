@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "明日はどっちだ!",
+    "Tomorrow It's Which Way!"
+  ],
+  "authors": [
+    "Kotetsuko Yamamoto"
+  ],
+  "id": 87099,
+  "malId": 90728,
+  "type": "manga",
+  "title": "Ashita wa Docchi da!",
+  "url": "https://anilist.co/manga/87099",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87099-Ob7ViHa8TyRD.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:07.000Z",
+  "updatedAt": "2021-06-04T12:19:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69445a8c-ad13-4fb8-8781-e9e5a2c8cdc8": {
+        "authors": [
+          "Yamamoto Kotetsuko"
+        ],
+        "identifier": "69445a8c-ad13-4fb8-8781-e9e5a2c8cdc8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ashita wa Docchi Da!",
+        "url": "https://mangadex.org/title/69445a8c-ad13-4fb8-8781-e9e5a2c8cdc8",
+        "image": "https://uploads.mangadex.org/covers/69445a8c-ad13-4fb8-8781-e9e5a2c8cdc8/4134e6c9-5048-4039-a80a-8dfb5aa2b19a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90728,
+        "aniId": 87099,
+        "createdAt": "2020-10-12T16:08:41.000Z",
+        "updatedAt": "2021-06-04T12:45:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ashita_wa_docchi_da": {
+        "authors": [],
+        "identifier": "ashita_wa_docchi_da",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ashita Wa Docchi Da!",
+        "url": "https://manganelo.com/manga/ashita_wa_docchi_da",
+        "image": "https://avt.mkklcdnv6.com/5/u/3-1583467863.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90728,
+        "aniId": 87099,
+        "createdAt": "2020-10-12T16:22:09.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

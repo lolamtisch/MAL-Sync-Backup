@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Cobra",
+    "Space Adventure Cobra",
+    "コブラ"
+  ],
+  "authors": [
+    "Terasawa, Buichi"
+  ],
+  "id": 1062,
+  "type": "manga",
+  "title": "Cobra",
+  "url": "https://myanimelist.net/manga/1062/Cobra",
+  "image": "https://cdn.myanimelist.net/images/manga/4/103495.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:29.000Z",
+  "updatedAt": "2021-03-17T14:33:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5a53d6b-c0f0-40b7-b5a6-f61a1ad2c5cb": {
+        "authors": [
+          "Terasawa Buichi"
+        ],
+        "identifier": "b5a53d6b-c0f0-40b7-b5a6-f61a1ad2c5cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Space Adventure Cobra",
+        "url": "https://mangadex.org/title/b5a53d6b-c0f0-40b7-b5a6-f61a1ad2c5cb",
+        "image": "https://uploads.mangadex.org/covers/b5a53d6b-c0f0-40b7-b5a6-f61a1ad2c5cb/aced5dc0-1c81-4066-beb0-7428d7c09da0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1062,
+        "aniId": 31062,
+        "createdAt": "2020-10-12T16:04:18.000Z",
+        "updatedAt": "2021-06-02T20:11:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "space_adventure_cobra": {
+        "authors": [],
+        "identifier": "space_adventure_cobra",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Space Adventure Cobra",
+        "url": "https://manganelo.com/manga/space_adventure_cobra",
+        "image": "https://avt.mkklcdnv6.com/11/n/8-1583478613.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1062,
+        "aniId": 31062,
+        "createdAt": "2020-10-12T16:25:31.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "space-adventure-cobra": {
+        "authors": [
+          "TERASAWA Buichi"
+        ],
+        "identifier": "space-adventure-cobra",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Space Adventure Cobra",
+        "url": "https://mangasee123.com/manga/Space-Adventure-Cobra",
+        "image": "https://cover.nep.li/cover/Space-Adventure-Cobra.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1062,
+        "aniId": 31062,
+        "createdAt": "2021-03-17T14:33:35.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

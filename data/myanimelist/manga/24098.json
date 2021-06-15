@@ -1,0 +1,131 @@
+{
+  "altTitle": [
+    "Another",
+    "Another"
+  ],
+  "authors": [
+    "Kiyohara, Hiro",
+    "Ayatsuji, Yukito"
+  ],
+  "id": 24098,
+  "type": "manga",
+  "title": "Another",
+  "url": "https://myanimelist.net/manga/24098/Another",
+  "image": "https://cdn.myanimelist.net/images/manga/2/159693.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:12.000Z",
+  "updatedAt": "2021-05-29T11:14:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c40bf165-81fa-499f-b368-48b353a968df": {
+        "authors": [
+          "Kiyohara Hiro",
+          "Ayatsuji Yukito"
+        ],
+        "identifier": "c40bf165-81fa-499f-b368-48b353a968df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Another",
+        "url": "https://mangadex.org/title/c40bf165-81fa-499f-b368-48b353a968df",
+        "image": "https://uploads.mangadex.org/covers/c40bf165-81fa-499f-b368-48b353a968df/b5664a58-f1ec-4120-b3e1-56d0db5fb058.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24098,
+        "aniId": 54098,
+        "createdAt": "2020-10-12T16:02:38.000Z",
+        "updatedAt": "2021-06-02T08:28:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nm920488": {
+        "authors": [],
+        "identifier": "nm920488",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hippocrate In Another World",
+        "url": "https://manganelo.com/manga/nm920488",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1886-nm920488.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24098,
+        "aniId": 54098,
+        "createdAt": "2020-10-12T16:24:33.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "another": {
+        "authors": [
+          "Ayatsuji",
+          "Yukito"
+        ],
+        "identifier": "another",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Another",
+        "url": "https://manganelo.com/manga/another",
+        "image": "https://avt.mkklcdnv6.com/50/p/6-1583476299.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24098,
+        "aniId": 54098,
+        "createdAt": "2021-01-28T17:19:06.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "another": {
+        "authors": [
+          "AYATSUJI Yukito",
+          "KIYOHARA Hiro"
+        ],
+        "identifier": "another",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Another",
+        "url": "https://mangasee123.com/manga/Another",
+        "image": "https://cover.nep.li/cover/Another.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24098,
+        "aniId": 54098,
+        "createdAt": "2021-02-02T15:01:54.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "another": {
+        "authors": [
+          "AYATSUJI Yukito"
+        ],
+        "identifier": "another",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Another",
+        "url": "https://fanfox.net/manga/another/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8902/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24098,
+        "aniId": 54098,
+        "createdAt": "2021-06-02T06:31:05.000Z",
+        "updatedAt": "2021-06-02T06:31:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "指先から伝わる"
+  ],
+  "authors": [
+    "Mizumi Takaoka",
+    "Akira Furuta"
+  ],
+  "id": 50163,
+  "malId": 20163,
+  "type": "manga",
+  "title": "Yubisaki kara Tsutawaru",
+  "url": "https://anilist.co/manga/50163",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20163.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f78f26b8-433c-4c69-9609-77399b2e3e99": {
+        "authors": [
+          "Kawano Tanishi"
+        ],
+        "identifier": "f78f26b8-433c-4c69-9609-77399b2e3e99",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yubisaki Kara Honki no Netsujou ~ Charaotoko Shoubou-shi wa Massuguna me de Watashi o Daita ~",
+        "url": "https://mangadex.org/title/f78f26b8-433c-4c69-9609-77399b2e3e99",
+        "image": "https://uploads.mangadex.org/covers/f78f26b8-433c-4c69-9609-77399b2e3e99/c27634ed-47e2-4885-9f44-aa9549a00f8c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20163,
+        "aniId": 50163,
+        "createdAt": "2020-10-12T16:18:57.000Z",
+        "updatedAt": "2021-06-07T21:00:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

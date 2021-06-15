@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "りぶねす",
+    "Rivness",
+    "Liveness",
+    "Leave the Nest"
+  ],
+  "authors": [
+    "Yuuki Doumoto"
+  ],
+  "id": 101529,
+  "malId": 90854,
+  "type": "manga",
+  "title": "Ribunesu",
+  "url": "https://anilist.co/manga/101529",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101529-E89sT5IRbwJ2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:07.000Z",
+  "updatedAt": "2021-05-20T14:53:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b3334fd-8ca0-49fc-a37d-719ded5d119e": {
+        "authors": [
+          "Doumoto Yuuki"
+        ],
+        "identifier": "8b3334fd-8ca0-49fc-a37d-719ded5d119e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rivnes",
+        "url": "https://mangadex.org/title/8b3334fd-8ca0-49fc-a37d-719ded5d119e",
+        "image": "https://uploads.mangadex.org/covers/8b3334fd-8ca0-49fc-a37d-719ded5d119e/a77feda2-b92d-4b48-ba58-274b86dc9395.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90854,
+        "aniId": 101529,
+        "createdAt": "2020-10-12T16:09:44.000Z",
+        "updatedAt": "2021-06-04T19:38:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "km924598": {
+        "authors": [
+          "Doumoto",
+          "Yuuki"
+        ],
+        "identifier": "km924598",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rivnes",
+        "url": "https://manganelo.com/manga/km924598",
+        "image": "https://avt.mkklcdnv6.com/32/l/22-1603767541.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90854,
+        "aniId": 101529,
+        "createdAt": "2020-10-28T12:40:53.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

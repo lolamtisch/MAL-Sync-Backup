@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "おざなり君",
+    "Ozanari Kun",
+    "Ozanarikun"
+  ],
+  "authors": [
+    "Inio Asano"
+  ],
+  "id": 71011,
+  "malId": 41011,
+  "type": "manga",
+  "title": "Ozanari-kun",
+  "url": "https://anilist.co/manga/71011",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/41011.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:47.000Z",
+  "updatedAt": "2021-05-20T14:48:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "92bd69cc-bb73-4c23-b9a1-116ed0e10b06": {
+        "authors": [
+          "Asano Inio"
+        ],
+        "identifier": "92bd69cc-bb73-4c23-b9a1-116ed0e10b06",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ozanari-Kun",
+        "url": "https://mangadex.org/title/92bd69cc-bb73-4c23-b9a1-116ed0e10b06",
+        "image": "https://uploads.mangadex.org/covers/92bd69cc-bb73-4c23-b9a1-116ed0e10b06/2390ae93-1813-4e23-8bf2-865d97e208bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41011,
+        "aniId": 71011,
+        "createdAt": "2020-10-12T16:09:55.000Z",
+        "updatedAt": "2021-06-04T21:02:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ozanarikun1": {
+        "authors": [
+          "Asano",
+          "Inio"
+        ],
+        "identifier": "ozanarikun1",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ozanari-Kun",
+        "url": "https://manganelo.com/manga/ozanarikun1",
+        "image": "https://avt.mkklcdnv6.com/5/c/14-1583489875.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41011,
+        "aniId": 71011,
+        "createdAt": "2020-12-17T12:56:30.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

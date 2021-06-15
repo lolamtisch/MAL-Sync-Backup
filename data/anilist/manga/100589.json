@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "オマエアレルギー",
+    "Omae Allergies"
+  ],
+  "authors": [
+    "Haru Mikami"
+  ],
+  "id": 100589,
+  "malId": 109650,
+  "type": "manga",
+  "title": "Omae Allergy",
+  "url": "https://anilist.co/manga/100589",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100589-w2SkYOFhuCAl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:07.000Z",
+  "updatedAt": "2021-05-20T14:56:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "16b7a3c3-1391-4ab4-b7e5-ad643c03d59b": {
+        "authors": [
+          "Mikami Haru"
+        ],
+        "identifier": "16b7a3c3-1391-4ab4-b7e5-ad643c03d59b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Omae Allergy",
+        "url": "https://mangadex.org/title/16b7a3c3-1391-4ab4-b7e5-ad643c03d59b",
+        "image": "https://uploads.mangadex.org/covers/16b7a3c3-1391-4ab4-b7e5-ad643c03d59b/8cf76efe-8bd9-4bcf-b097-cf23ba0ee8a6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109650,
+        "aniId": 100589,
+        "createdAt": "2020-10-12T16:17:07.000Z",
+        "updatedAt": "2021-06-07T05:01:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

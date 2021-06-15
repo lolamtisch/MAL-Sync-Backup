@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Blackout: The Enigmatic Game",
+    "Black★Out",
+    "ブラックアウト"
+  ],
+  "authors": [
+    "Maekawa, Kazuo",
+    "Kuroi, Ransuke"
+  ],
+  "id": 80429,
+  "type": "manga",
+  "title": "βl@ck★OUT",
+  "url": "https://myanimelist.net/manga/80429/βlck★OUT",
+  "image": "https://cdn.myanimelist.net/images/manga/2/158085.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:34.000Z",
+  "updatedAt": "2020-12-28T17:32:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "efbd716a-f610-4653-8cd4-450c379cbb96": {
+        "authors": [
+          "Kuroi Ransuke",
+          "Maekawa Kazuo"
+        ],
+        "identifier": "efbd716a-f610-4653-8cd4-450c379cbb96",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Out",
+        "url": "https://mangadex.org/title/efbd716a-f610-4653-8cd4-450c379cbb96",
+        "image": "https://uploads.mangadex.org/covers/efbd716a-f610-4653-8cd4-450c379cbb96/a1392785-522a-4893-b483-7bc07c78700e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80429,
+        "aniId": 93014,
+        "createdAt": "2020-10-12T16:08:17.000Z",
+        "updatedAt": "2021-06-04T08:58:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "blackout": {
+        "authors": [
+          "KUROI Ransuke"
+        ],
+        "identifier": "blackout",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Blackout",
+        "url": "https://fanfox.net/manga/blackout/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14909/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80429,
+        "aniId": 93014,
+        "createdAt": "2020-12-28T17:32:28.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

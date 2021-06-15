@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Violence Becomes Tranquility",
+    "男は度胸"
+  ],
+  "authors": [
+    "Shinobu Kaze"
+  ],
+  "id": 52539,
+  "malId": 22539,
+  "type": "manga",
+  "title": "Otoko wa Dokyou",
+  "url": "https://anilist.co/manga/52539",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52539-lALLsGcpbBC0.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-07T10:22:05.000Z",
+  "updatedAt": "2021-06-07T10:22:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0c4347e3-87ed-4a51-a397-7e4f122c6c6a": {
+        "authors": [
+          "Kaze Shinobu"
+        ],
+        "identifier": "0c4347e3-87ed-4a51-a397-7e4f122c6c6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Violence & Peace",
+        "url": "https://mangadex.org/title/0c4347e3-87ed-4a51-a397-7e4f122c6c6a",
+        "image": "https://uploads.mangadex.org/covers/0c4347e3-87ed-4a51-a397-7e4f122c6c6a/92c42681-3818-4340-94f4-3185e42ccc7f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22539,
+        "aniId": 52539,
+        "createdAt": "2020-10-12T16:17:42.000Z",
+        "updatedAt": "2021-06-07T10:33:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

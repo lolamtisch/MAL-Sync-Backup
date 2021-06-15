@@ -1,0 +1,113 @@
+{
+  "altTitle": [
+    "マガジンOHANAMI!!"
+  ],
+  "authors": [
+    "Mashima, Hiro",
+    "Seo, Kouji",
+    "Yoshikawa, Miki",
+    "Katsuki, Hikaru"
+  ],
+  "id": 88032,
+  "type": "manga",
+  "title": "Magazine Ohanami!!",
+  "url": "https://myanimelist.net/manga/88032/Magazine_Ohanami",
+  "image": "https://cdn.myanimelist.net/images/manga/1/158913.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:56.000Z",
+  "updatedAt": "2021-05-28T01:59:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ea55908d-10ab-4a92-b464-e04dd0e1bbce": {
+        "authors": [
+          "Mashima Hiro",
+          "Seo Kouji",
+          "Yoshikawa Miki",
+          "Katsuki Hikaru"
+        ],
+        "identifier": "ea55908d-10ab-4a92-b464-e04dd0e1bbce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Magazine Ohanami",
+        "url": "https://mangadex.org/title/ea55908d-10ab-4a92-b464-e04dd0e1bbce",
+        "image": "https://uploads.mangadex.org/covers/ea55908d-10ab-4a92-b464-e04dd0e1bbce/e05de805-aa06-40c1-ace9-536c9b4e7030.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88032,
+        "aniId": 94538,
+        "createdAt": "2020-10-12T16:09:30.000Z",
+        "updatedAt": "2021-06-04T18:33:46.000Z",
+        "deletedAt": null
+      },
+      "89a59742-1821-4b9b-91a5-ba7b40784ec2": {
+        "authors": [
+          "Nihon Falcom"
+        ],
+        "identifier": "89a59742-1821-4b9b-91a5-ba7b40784ec2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sen no Kiseki Magazine 4koma",
+        "url": "https://mangadex.org/title/89a59742-1821-4b9b-91a5-ba7b40784ec2",
+        "image": "https://uploads.mangadex.org/covers/89a59742-1821-4b9b-91a5-ba7b40784ec2/151e4d46-444a-45e6-b0fa-24284b43f7a6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88032,
+        "aniId": 94538,
+        "createdAt": "2020-10-12T16:15:25.000Z",
+        "updatedAt": "2021-06-06T13:38:13.000Z",
+        "deletedAt": null
+      },
+      "e2dcb200-bef7-4b8b-bf0a-2f4d284610d5": {
+        "authors": [
+          "Multiple"
+        ],
+        "identifier": "e2dcb200-bef7-4b8b-bf0a-2f4d284610d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "FanPartRun Magazine Manga",
+        "url": "https://mangadex.org/title/e2dcb200-bef7-4b8b-bf0a-2f4d284610d5",
+        "image": "https://uploads.mangadex.org/covers/e2dcb200-bef7-4b8b-bf0a-2f4d284610d5/d1356833-f2cc-4d93-b370-2a7298802978.gif",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88032,
+        "aniId": 94538,
+        "createdAt": "2020-10-12T16:17:15.000Z",
+        "updatedAt": "2021-06-07T06:08:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "magazine_ohanami": {
+        "authors": [
+          "Seo Kouji",
+          "Yoshikawa Miki",
+          "Mashima Hiro",
+          "Katsuki Hikaru"
+        ],
+        "identifier": "magazine_ohanami",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Magazine Ohanami",
+        "url": "https://fanfox.net/manga/magazine_ohanami/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32070/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88032,
+        "aniId": 94538,
+        "createdAt": "2021-05-28T01:59:15.000Z",
+        "updatedAt": "2021-05-28T02:28:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

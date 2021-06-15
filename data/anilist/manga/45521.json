@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "eden*"
+  ],
+  "authors": [
+    "minori",
+    "Takeshi Moriki"
+  ],
+  "id": 45521,
+  "malId": 15521,
+  "type": "manga",
+  "title": "eden*",
+  "url": "https://anilist.co/manga/45521",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45521-P9mqBDwHGemb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:47.000Z",
+  "updatedAt": "2021-05-20T14:43:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "eden_game": {
+        "authors": [],
+        "identifier": "eden_game",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eden Game",
+        "url": "https://manganelo.com/manga/eden_game",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18403-eden_game.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15521,
+        "aniId": 45521,
+        "createdAt": "2020-10-12T16:22:46.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

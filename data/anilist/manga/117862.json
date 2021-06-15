@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "@Emmy",
+    "At Emmy"
+  ],
+  "authors": [
+    "Con Yukiu"
+  ],
+  "id": 117862,
+  "malId": 104097,
+  "type": "manga",
+  "title": "@Emmy",
+  "url": "https://anilist.co/manga/117862",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117862-idxDEzATasTs.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:55:09.000Z",
+  "updatedAt": "2021-05-20T14:55:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9213ac2b-9dad-4638-b8a9-c6b68e03849b": {
+        "authors": [
+          "MeltdoWN COmet (Circle)",
+          "Yukiu Con"
+        ],
+        "identifier": "9213ac2b-9dad-4638-b8a9-c6b68e03849b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "@Emmy",
+        "url": "https://mangadex.org/title/9213ac2b-9dad-4638-b8a9-c6b68e03849b",
+        "image": "https://uploads.mangadex.org/covers/9213ac2b-9dad-4638-b8a9-c6b68e03849b/71ed98c1-8c27-455a-aaa1-0fced70b4c2c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104097,
+        "aniId": 117862,
+        "createdAt": "2020-10-12T16:14:07.000Z",
+        "updatedAt": "2021-06-06T02:37:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

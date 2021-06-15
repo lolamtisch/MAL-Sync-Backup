@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Don't Blame Me",
+    "俺は悪くない"
+  ],
+  "authors": [
+    "Yugi Yamada"
+  ],
+  "id": 32759,
+  "malId": 2759,
+  "type": "manga",
+  "title": "Ore wa Warukunai",
+  "url": "https://anilist.co/manga/32759",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32759-gDVNQHElm3Gz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "280a27d0-ea20-4d71-bbd6-7a7d5b0deb18": {
+        "authors": [
+          "Yamada Yugi"
+        ],
+        "identifier": "280a27d0-ea20-4d71-bbd6-7a7d5b0deb18",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ore wa Warukunai",
+        "url": "https://mangadex.org/title/280a27d0-ea20-4d71-bbd6-7a7d5b0deb18",
+        "image": "https://uploads.mangadex.org/covers/280a27d0-ea20-4d71-bbd6-7a7d5b0deb18/986f3f34-9b9b-4976-ae53-9770d3c46c7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2759,
+        "aniId": 32759,
+        "createdAt": "2021-01-27T16:10:38.000Z",
+        "updatedAt": "2021-06-08T10:34:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

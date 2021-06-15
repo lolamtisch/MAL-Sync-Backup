@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "少女サテライト",
+    "Girl Satellite"
+  ],
+  "authors": [
+    "Hami"
+  ],
+  "id": 79789,
+  "malId": 49789,
+  "type": "manga",
+  "title": "Shoujo Satellite",
+  "url": "https://anilist.co/manga/79789",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49789.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:46.000Z",
+  "updatedAt": "2021-05-20T14:49:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96527f7b-f91e-4ab1-bf48-e0898f77089f": {
+        "authors": [
+          "Hami"
+        ],
+        "identifier": "96527f7b-f91e-4ab1-bf48-e0898f77089f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girl Satellite",
+        "url": "https://mangadex.org/title/96527f7b-f91e-4ab1-bf48-e0898f77089f",
+        "image": "https://uploads.mangadex.org/covers/96527f7b-f91e-4ab1-bf48-e0898f77089f/bfb25641-1f80-4fe0-b9bc-ed60fd194f93.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49789,
+        "aniId": 79789,
+        "createdAt": "2020-10-12T16:05:07.000Z",
+        "updatedAt": "2021-06-03T10:25:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

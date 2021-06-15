@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ボクノアイジン",
+    "My Lovers"
+  ],
+  "authors": [
+    "Tsuya Tsuya"
+  ],
+  "id": 46379,
+  "malId": 16379,
+  "type": "manga",
+  "title": "Boku no Aijin",
+  "url": "https://anilist.co/manga/46379",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16379.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:43:55.000Z",
+  "updatedAt": "2021-05-20T14:43:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "222b2da8-4e41-42bf-9ce0-06192a92a80e": {
+        "authors": [
+          "Tsuyatsuya"
+        ],
+        "identifier": "222b2da8-4e41-42bf-9ce0-06192a92a80e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Aijin",
+        "url": "https://mangadex.org/title/222b2da8-4e41-42bf-9ce0-06192a92a80e",
+        "image": "https://uploads.mangadex.org/covers/222b2da8-4e41-42bf-9ce0-06192a92a80e/fc62edef-dc4b-4b0f-93a6-4aaa2e43de8a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16379,
+        "aniId": 46379,
+        "createdAt": "2020-10-12T16:14:18.000Z",
+        "updatedAt": "2021-06-06T04:00:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

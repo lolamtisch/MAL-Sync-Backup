@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "R-15"
+  ],
+  "authors": [
+    "Takuya Fujima",
+    "Hiroyuki Fushimi"
+  ],
+  "id": 53465,
+  "malId": 23465,
+  "type": "manga",
+  "title": "R-15",
+  "url": "https://anilist.co/manga/53465",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53465-acXMiIVckMd9.jpg",
+  "category": "novel",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:37.000Z",
+  "updatedAt": "2021-05-20T14:46:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9cb55328-c2b9-4bad-ab04-c682e187d344": {
+        "authors": [
+          "OOHASHI Hayato",
+          "FUSHIMI Hiroyuki"
+        ],
+        "identifier": "9cb55328-c2b9-4bad-ab04-c682e187d344",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "R-15",
+        "url": "https://mangadex.org/title/9cb55328-c2b9-4bad-ab04-c682e187d344",
+        "image": "https://uploads.mangadex.org/covers/9cb55328-c2b9-4bad-ab04-c682e187d344/3ce29edd-7faf-4d31-8903-40ebc31663c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23465,
+        "aniId": 53465,
+        "createdAt": "2020-10-12T16:06:39.000Z",
+        "updatedAt": "2021-06-03T21:06:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

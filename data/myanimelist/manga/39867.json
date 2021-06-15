@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "こがねいろ"
+  ],
+  "authors": [
+    "Yokota, Takuma"
+  ],
+  "id": 39867,
+  "type": "manga",
+  "title": "Koganeiro",
+  "url": "https://myanimelist.net/manga/39867/Koganeiro",
+  "image": "https://cdn.myanimelist.net/images/manga/1/70539.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:06.000Z",
+  "updatedAt": "2021-03-14T09:40:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "741b0dee-c36b-4a5d-95dc-91c9fc817c0c": {
+        "authors": [
+          "Yokota Takuma"
+        ],
+        "identifier": "741b0dee-c36b-4a5d-95dc-91c9fc817c0c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koganeiro",
+        "url": "https://mangadex.org/title/741b0dee-c36b-4a5d-95dc-91c9fc817c0c",
+        "image": "https://uploads.mangadex.org/covers/741b0dee-c36b-4a5d-95dc-91c9fc817c0c/d417dd29-7074-4b80-994a-81b688087544.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39867,
+        "aniId": 69867,
+        "createdAt": "2020-10-12T16:05:31.000Z",
+        "updatedAt": "2021-06-03T13:09:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koganeiro": {
+        "authors": [
+          "YOKOTA Takuma"
+        ],
+        "identifier": "koganeiro",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koganeiro",
+        "url": "https://fanfox.net/manga/koganeiro/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11304/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39867,
+        "aniId": 69867,
+        "createdAt": "2021-03-14T09:40:08.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

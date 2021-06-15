@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ちぇんじ2!!",
+    "Change 2",
+    "Change Change"
+  ],
+  "authors": [
+    "Hiro Matsuba"
+  ],
+  "id": 38072,
+  "malId": 8072,
+  "type": "manga",
+  "title": "Change 2!!",
+  "url": "https://anilist.co/manga/38072",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8072.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:58.000Z",
+  "updatedAt": "2021-05-20T14:39:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "59fc296e-b562-4eeb-8650-a08465bc689e": {
+        "authors": [
+          "Matsuba Hiro"
+        ],
+        "identifier": "59fc296e-b562-4eeb-8650-a08465bc689e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Change 2!!",
+        "url": "https://mangadex.org/title/59fc296e-b562-4eeb-8650-a08465bc689e",
+        "image": "https://uploads.mangadex.org/covers/59fc296e-b562-4eeb-8650-a08465bc689e/350b4951-eb1e-45aa-977b-77ef167824d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8072,
+        "aniId": 38072,
+        "createdAt": "2020-10-12T16:03:54.000Z",
+        "updatedAt": "2021-06-02T17:18:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "change_2": {
+        "authors": [],
+        "identifier": "change_2",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Change 2!!",
+        "url": "https://manganelo.com/manga/change_2",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7344-change_2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8072,
+        "aniId": 38072,
+        "createdAt": "2020-10-12T16:22:26.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

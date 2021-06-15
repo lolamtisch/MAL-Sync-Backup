@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "Deep Blue Fleet, Kompeki no Kantai",
+    "紺碧の艦隊"
+  ],
+  "id": 6229,
+  "type": "anime",
+  "title": "Konpeki no Kantai",
+  "url": "https://myanimelist.net/anime/6229/Konpeki_no_Kantai",
+  "image": "https://cdn.myanimelist.net/images/anime/1215/93008.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:50.000Z",
+  "updatedAt": "2021-04-28T12:48:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "m9o8": {
+        "identifier": "m9o8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Konpeki no Kantai",
+        "url": "https://9anime.to/watch/konpeki-no-kantai.m9o8",
+        "image": "https://static.akacdn.ru/files/images/2020/03/4bb91a005d9abc112ecc3f98d4aff7bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6229,
+        "aniId": 6229,
+        "createdAt": "2020-10-12T15:53:30.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "konpeki-no-kantai": {
+        "identifier": "konpeki-no-kantai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Konpeki no Kantai",
+        "url": "https://www16.gogoanime.io/category/konpeki-no-kantai",
+        "image": "https://gogocdn.net/cover/konpeki-no-kantai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6229,
+        "aniId": 6229,
+        "createdAt": "2020-10-12T16:01:03.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

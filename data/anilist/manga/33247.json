@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "SWWEEET―スウィート―"
+  ],
+  "authors": [
+    "Kei Aoyama"
+  ],
+  "id": 33247,
+  "malId": 3247,
+  "type": "manga",
+  "title": "Swweeet",
+  "url": "https://anilist.co/manga/33247",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33247-xbTqA98qNFMm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fb08edfc-1eb9-4443-a43d-8f358ff0ee8f": {
+        "authors": [
+          "Aoyama Kei"
+        ],
+        "identifier": "fb08edfc-1eb9-4443-a43d-8f358ff0ee8f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "SWWEEET",
+        "url": "https://mangadex.org/title/fb08edfc-1eb9-4443-a43d-8f358ff0ee8f",
+        "image": "https://uploads.mangadex.org/covers/fb08edfc-1eb9-4443-a43d-8f358ff0ee8f/54648074-426b-4c10-bc7e-7b92a4a16e5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3247,
+        "aniId": 33247,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:28:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "swweeet": {
+        "authors": [
+          "Aoyama",
+          "Kei"
+        ],
+        "identifier": "swweeet",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Swweeet",
+        "url": "https://manganelo.com/manga/swweeet",
+        "image": "https://avt.mkklcdnv6.com/36/z/11-1583485344.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3247,
+        "aniId": 33247,
+        "createdAt": "2020-11-17T23:50:54.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

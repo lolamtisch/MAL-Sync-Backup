@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Maid in Honey",
+    "メイド・イン・ハニー"
+  ],
+  "authors": [
+    "Mari Yoshino"
+  ],
+  "id": 110086,
+  "malId": 124443,
+  "type": "manga",
+  "title": "Made in Honey",
+  "url": "https://anilist.co/manga/110086",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110086-BaoDPHCRWHuo.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:04.000Z",
+  "updatedAt": "2021-05-20T14:59:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a677614f-d8de-4a75-9e83-951d73d91773": {
+        "authors": [
+          "YOSHINO Mari"
+        ],
+        "identifier": "a677614f-d8de-4a75-9e83-951d73d91773",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Made in Honey",
+        "url": "https://mangadex.org/title/a677614f-d8de-4a75-9e83-951d73d91773",
+        "image": "https://uploads.mangadex.org/covers/a677614f-d8de-4a75-9e83-951d73d91773/db96912e-c3a2-4272-afad-a72424f85787.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 124443,
+        "aniId": 110086,
+        "createdAt": "2020-10-12T16:10:43.000Z",
+        "updatedAt": "2021-06-05T09:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "maid-in-honey": {
+        "authors": [
+          "YOSHINO Mari"
+        ],
+        "identifier": "maid-in-honey",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Maid in Honey",
+        "url": "https://mangasee123.com/manga/Maid-in-Honey",
+        "image": "https://cover.nep.li/cover/Maid-in-Honey.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 124443,
+        "aniId": 110086,
+        "createdAt": "2021-03-01T18:21:59.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "made_in_honey": {
+        "authors": [
+          "YOSHINO Mari"
+        ],
+        "identifier": "made_in_honey",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Made in Honey",
+        "url": "https://fanfox.net/manga/made_in_honey/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36013/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124443,
+        "aniId": 110086,
+        "createdAt": "2021-03-20T16:05:04.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "ヒマワリ",
+    "Sunflower"
+  ],
+  "authors": [
+    "Daisuke Hiyama",
+    "G.O."
+  ],
+  "id": 45890,
+  "malId": 15890,
+  "type": "manga",
+  "title": "Himawari",
+  "url": "https://anilist.co/manga/45890",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45890-b7uXHdq3MSvR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-01T09:22:55.000Z",
+  "updatedAt": "2021-06-01T09:22:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12b8cd9d-0a62-4f8a-a087-a82695187dda": {
+        "authors": [
+          "Goo",
+          "Hiyama Daisuke"
+        ],
+        "identifier": "12b8cd9d-0a62-4f8a-a087-a82695187dda",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himawari (HIYAMA Daisuke)",
+        "url": "https://mangadex.org/title/12b8cd9d-0a62-4f8a-a087-a82695187dda",
+        "image": "https://uploads.mangadex.org/covers/12b8cd9d-0a62-4f8a-a087-a82695187dda/75189588-6fd5-4a5a-a7f9-a1b2f6d6635e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15890,
+        "aniId": 45890,
+        "createdAt": "2020-10-12T16:02:36.000Z",
+        "updatedAt": "2021-06-02T08:25:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

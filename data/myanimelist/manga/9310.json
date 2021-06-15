@@ -1,0 +1,40 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Sugio, Hisako"
+  ],
+  "id": 9310,
+  "type": "manga",
+  "title": "Friends",
+  "url": "https://myanimelist.net/manga/9310/Friends",
+  "image": "https://cdn.myanimelist.net/images/manga/1/12686.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2021-06-07T07:20:53.000Z",
+  "updatedAt": "2021-06-07T07:20:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52219c81-bc9f-4d2e-b66d-2665f68acaec": {
+        "authors": [
+          "SUGIO Hisako"
+        ],
+        "identifier": "52219c81-bc9f-4d2e-b66d-2665f68acaec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Friends",
+        "url": "https://mangadex.org/title/52219c81-bc9f-4d2e-b66d-2665f68acaec",
+        "image": "https://uploads.mangadex.org/covers/52219c81-bc9f-4d2e-b66d-2665f68acaec/fd09eea8-4ad7-43be-8287-959089fdebbf.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 9310,
+        "aniId": 39310,
+        "createdAt": "2020-10-12T16:16:22.000Z",
+        "updatedAt": "2021-06-07T07:20:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

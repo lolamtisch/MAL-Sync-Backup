@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "Kobato.",
+    "こばと。"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 118,
+  "type": "manga",
+  "title": "Kobato.",
+  "url": "https://myanimelist.net/manga/118/Kobato",
+  "image": "https://cdn.myanimelist.net/images/manga/2/154345.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:18.000Z",
+  "updatedAt": "2021-06-11T00:09:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e47adf50-f2de-4f19-8f32-412a9369a48d": {
+        "authors": [
+          "CLAMP",
+          "Apapa Mokona",
+          "Ohkawa Ageha"
+        ],
+        "identifier": "e47adf50-f2de-4f19-8f32-412a9369a48d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kobato.",
+        "url": "https://mangadex.org/title/e47adf50-f2de-4f19-8f32-412a9369a48d",
+        "image": "https://uploads.mangadex.org/covers/e47adf50-f2de-4f19-8f32-412a9369a48d/66d50bb6-da3d-4251-9875-d5b4630e1f14.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118,
+        "aniId": 30118,
+        "createdAt": "2020-10-12T16:05:03.000Z",
+        "updatedAt": "2021-06-03T09:54:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kobato": {
+        "authors": [
+          "APAPA Mokona",
+          "CLAMP",
+          "OHKAWA Ageha"
+        ],
+        "identifier": "kobato",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kobato.",
+        "url": "https://mangasee123.com/manga/Kobato",
+        "image": "https://cover.nep.li/cover/Kobato.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118,
+        "aniId": 30118,
+        "createdAt": "2021-04-29T11:50:53.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vw961331": {
+        "authors": [
+          "Ohkawa Ageha",
+          "Clamp"
+        ],
+        "identifier": "manga-vw961331",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kobato",
+        "url": "https://readmanganato.com/manga-vw961331",
+        "image": "https://avt.mkklcdnv6temp.com/34/a/7-1583477553.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118,
+        "aniId": 30118,
+        "createdAt": "2021-06-11T00:09:15.000Z",
+        "updatedAt": "2021-06-11T00:38:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

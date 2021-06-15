@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "The Devil's Secret",
+    "アクマのひみつ♥",
+    "The Demon's Secret",
+    "Akuma no Sasayaki",
+    "Demon's Whispers",
+    "Akumatachi no Himitsu"
+  ],
+  "authors": [
+    "Hinako Takanaga"
+  ],
+  "id": 32126,
+  "malId": 2126,
+  "type": "manga",
+  "title": "Akuma no Himitsu ♥",
+  "url": "https://anilist.co/manga/32126",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2126.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d51c1368-b7b2-4bc2-b1ad-97ecfa6a65a8": {
+        "authors": [
+          "Takanaga Hinako"
+        ],
+        "identifier": "d51c1368-b7b2-4bc2-b1ad-97ecfa6a65a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akuma no Himitsu",
+        "url": "https://mangadex.org/title/d51c1368-b7b2-4bc2-b1ad-97ecfa6a65a8",
+        "image": "https://uploads.mangadex.org/covers/d51c1368-b7b2-4bc2-b1ad-97ecfa6a65a8/27715e19-f3f1-46ea-a697-ea96aa89faa9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2126,
+        "aniId": 32126,
+        "createdAt": "2020-10-12T16:15:54.000Z",
+        "updatedAt": "2021-06-06T17:43:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

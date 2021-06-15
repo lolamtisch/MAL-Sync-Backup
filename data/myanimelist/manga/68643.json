@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Jigoku Koi Sutefu, Obakemonogatari",
+    "地獄恋すてふ(すちょう)"
+  ],
+  "authors": [
+    "Oomiya, Miyami"
+  ],
+  "id": 68643,
+  "type": "manga",
+  "title": "Jigoku Koi Suchou",
+  "url": "https://myanimelist.net/manga/68643/Jigoku_Koi_Suchou",
+  "image": "https://cdn.myanimelist.net/images/manga/2/120069.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:14.000Z",
+  "updatedAt": "2021-06-05T18:00:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "243a863a-69b2-43e7-9f94-0c42286ec99f": {
+        "authors": [
+          "Oomiya Miyami"
+        ],
+        "identifier": "243a863a-69b2-43e7-9f94-0c42286ec99f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jigoku Koi Sutefu",
+        "url": "https://mangadex.org/title/243a863a-69b2-43e7-9f94-0c42286ec99f",
+        "image": "https://uploads.mangadex.org/covers/243a863a-69b2-43e7-9f94-0c42286ec99f/5383b92e-acb3-4e3a-82ad-d4473d9c1069.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68643,
+        "aniId": 85328,
+        "createdAt": "2020-10-12T16:07:21.000Z",
+        "updatedAt": "2021-06-04T02:10:48.000Z",
+        "deletedAt": null
+      },
+      "a48a5ee5-e87a-41c3-a061-36156396d554": {
+        "authors": [
+          "Oomiya Miyami"
+        ],
+        "identifier": "a48a5ee5-e87a-41c3-a061-36156396d554",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Obake Monogatari",
+        "url": "https://mangadex.org/title/a48a5ee5-e87a-41c3-a061-36156396d554",
+        "image": "https://uploads.mangadex.org/covers/a48a5ee5-e87a-41c3-a061-36156396d554/d7b8f35b-058a-47bc-ae8b-eefc228aac11.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 68643,
+        "aniId": 85328,
+        "createdAt": "2020-10-12T16:12:52.000Z",
+        "updatedAt": "2021-06-05T18:00:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

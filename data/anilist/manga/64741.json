@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ハニカム",
+    "HoneyComb"
+  ],
+  "authors": [
+    "Asuka Katsura"
+  ],
+  "id": 64741,
+  "malId": 34741,
+  "type": "manga",
+  "title": "Honey Comb",
+  "url": "https://anilist.co/manga/64741",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx64741-IZ4HFtlpTXgx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:00.000Z",
+  "updatedAt": "2021-05-20T14:48:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f0ca316-21ce-4867-adf5-642f8cd7a0a5": {
+        "authors": [
+          "KATSURA Asuka"
+        ],
+        "identifier": "8f0ca316-21ce-4867-adf5-642f8cd7a0a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HoneyComb",
+        "url": "https://mangadex.org/title/8f0ca316-21ce-4867-adf5-642f8cd7a0a5",
+        "image": "https://uploads.mangadex.org/covers/8f0ca316-21ce-4867-adf5-642f8cd7a0a5/31f8772b-8040-4906-be89-e6ebe3a9b37e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34741,
+        "aniId": 64741,
+        "createdAt": "2020-10-12T16:04:03.000Z",
+        "updatedAt": "2021-06-02T18:18:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

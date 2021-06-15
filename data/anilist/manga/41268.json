@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Extra Existence",
+    "エクストラ・イグジステンス",
+    "エクストラ・イグジステンス"
+  ],
+  "authors": [
+    "Etorouji Shiono"
+  ],
+  "id": 41268,
+  "malId": 11268,
+  "type": "manga",
+  "title": "Extra Existence",
+  "url": "https://anilist.co/manga/41268",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11268.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:16.000Z",
+  "updatedAt": "2021-05-20T14:41:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e77b703f-2095-47f2-b085-6842043b1e94": {
+        "authors": [
+          "Shiono Etorouji"
+        ],
+        "identifier": "e77b703f-2095-47f2-b085-6842043b1e94",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Extra Existence",
+        "url": "https://mangadex.org/title/e77b703f-2095-47f2-b085-6842043b1e94",
+        "image": "https://uploads.mangadex.org/covers/e77b703f-2095-47f2-b085-6842043b1e94/c45d63c3-095c-43f1-9823-d545bdf9a81e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11268,
+        "aniId": 41268,
+        "createdAt": "2020-10-12T16:04:08.000Z",
+        "updatedAt": "2021-06-02T18:54:02.000Z",
+        "deletedAt": null
+      },
+      "944c8d0a-61cd-4fde-b6dd-4fd5e7ace2c6": {
+        "authors": [
+          "Ggoggoo"
+        ],
+        "identifier": "944c8d0a-61cd-4fde-b6dd-4fd5e7ace2c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Coexistence",
+        "url": "https://mangadex.org/title/944c8d0a-61cd-4fde-b6dd-4fd5e7ace2c6",
+        "image": "https://uploads.mangadex.org/covers/944c8d0a-61cd-4fde-b6dd-4fd5e7ace2c6/a1ec51b7-8580-41af-8074-49b2c26635d1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11268,
+        "aniId": 41268,
+        "createdAt": "2020-10-12T16:18:34.000Z",
+        "updatedAt": "2021-06-07T17:56:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "extra-existence": {
+        "authors": [
+          "SHIONO Etorouji"
+        ],
+        "identifier": "extra-existence",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Extra Existence",
+        "url": "https://mangasee123.com/manga/Extra-Existence",
+        "image": "https://cover.nep.li/cover/Extra-Existence.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11268,
+        "aniId": 41268,
+        "createdAt": "2021-05-07T05:18:13.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

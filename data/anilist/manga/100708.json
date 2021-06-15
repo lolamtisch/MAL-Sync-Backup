@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "过度接触",
+    "Too Close"
+  ],
+  "authors": [
+    "Ji Jing Jun",
+    "Shou"
+  ],
+  "id": 100708,
+  "malId": null,
+  "type": "manga",
+  "title": "Guodu Jiechu",
+  "url": "https://anilist.co/manga/100708",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100708-hjtoZCz70w0B.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T00:42:57.000Z",
+  "updatedAt": "2021-06-09T06:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6b0f476-a0da-4669-afcd-277736ba81b5": {
+        "authors": [
+          "Shou",
+          "Ji Jing Jun"
+        ],
+        "identifier": "b6b0f476-a0da-4669-afcd-277736ba81b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Too Close",
+        "url": "https://mangadex.org/title/b6b0f476-a0da-4669-afcd-277736ba81b5",
+        "image": "https://uploads.mangadex.org/covers/b6b0f476-a0da-4669-afcd-277736ba81b5/54d5c89b-f188-4e38-9a78-1ffcbc951cec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 100708,
+        "createdAt": "2020-10-12T16:13:01.000Z",
+        "updatedAt": "2021-06-05T18:24:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

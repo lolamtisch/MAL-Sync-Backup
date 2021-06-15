@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "野獣主義",
+    "The Principles of Beasts",
+    "Beasts",
+    "Curse Project",
+    "Yajuu Shugi - Hitsuji Hen"
+  ],
+  "authors": [
+    "Fuhri Misasagi"
+  ],
+  "id": 32754,
+  "malId": 2754,
+  "type": "manga",
+  "title": "Yajuu Shugi",
+  "url": "https://anilist.co/manga/32754",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32754-Y0vZdW96xX2O.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "19f14610-50a5-445e-8dc6-ba0126e1fa2c": {
+        "authors": [
+          "Misasagi Fuhri"
+        ],
+        "identifier": "19f14610-50a5-445e-8dc6-ba0126e1fa2c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Curse Project",
+        "url": "https://mangadex.org/title/19f14610-50a5-445e-8dc6-ba0126e1fa2c",
+        "image": "https://uploads.mangadex.org/covers/19f14610-50a5-445e-8dc6-ba0126e1fa2c/d9d1468b-6c8e-4800-96fc-a76b5197e7f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2754,
+        "aniId": 32754,
+        "createdAt": "2020-10-12T16:15:10.000Z",
+        "updatedAt": "2021-06-06T11:26:51.000Z",
+        "deletedAt": null
+      },
+      "5b49036a-7715-4234-8ff6-7e79ab32168f": {
+        "authors": [
+          "Misasagi Fuhri"
+        ],
+        "identifier": "5b49036a-7715-4234-8ff6-7e79ab32168f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yajuu Shugi",
+        "url": "https://mangadex.org/title/5b49036a-7715-4234-8ff6-7e79ab32168f",
+        "image": "https://uploads.mangadex.org/covers/5b49036a-7715-4234-8ff6-7e79ab32168f/96cb1977-717e-4f0b-bfdd-c0c33c853d0f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2754,
+        "aniId": 32754,
+        "createdAt": "2020-10-12T16:21:02.000Z",
+        "updatedAt": "2021-06-08T01:28:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

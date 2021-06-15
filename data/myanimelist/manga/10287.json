@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "설희"
+  ],
+  "authors": [
+    "Kang, Kyungok"
+  ],
+  "id": 10287,
+  "type": "manga",
+  "title": "Seol Hui",
+  "url": "https://myanimelist.net/manga/10287/Seol_Hui",
+  "image": "https://cdn.myanimelist.net/images/manga/2/72791.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:26.000Z",
+  "updatedAt": "2021-04-20T21:57:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e8b0be5c-f823-4b19-a73c-35c329a0bc39": {
+        "authors": [
+          "Kyeong-Ok Kang"
+        ],
+        "identifier": "e8b0be5c-f823-4b19-a73c-35c329a0bc39",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seol Hui",
+        "url": "https://mangadex.org/title/e8b0be5c-f823-4b19-a73c-35c329a0bc39",
+        "image": "https://uploads.mangadex.org/covers/e8b0be5c-f823-4b19-a73c-35c329a0bc39/f27ac592-2650-4831-9462-fc05caff61a2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10287,
+        "aniId": 40287,
+        "createdAt": "2020-10-12T16:12:00.000Z",
+        "updatedAt": "2021-06-05T12:35:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "seol_hui": {
+        "authors": [
+          "Kang",
+          "Kyeong",
+          "Ok"
+        ],
+        "identifier": "seol_hui",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seol Hui",
+        "url": "https://manganelo.com/manga/seol_hui",
+        "image": "https://avt.mkklcdnv6.com/47/j/11-1583485723.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10287,
+        "aniId": 40287,
+        "createdAt": "2020-12-14T10:49:10.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

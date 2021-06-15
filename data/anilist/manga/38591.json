@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "たぢからお"
+  ],
+  "authors": [
+    "Kanji Yoshikai",
+    "Jinpachi Mori"
+  ],
+  "id": 38591,
+  "malId": 8591,
+  "type": "manga",
+  "title": "Tajikarao",
+  "url": "https://anilist.co/manga/38591",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n38591-3ZT0Z0baqUz0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:49.000Z",
+  "updatedAt": "2021-05-20T14:40:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec50d32a-e419-4c2b-94b8-c95dadfde768": {
+        "authors": [
+          "Mori Jinpachi",
+          "Yoshikai Kanji"
+        ],
+        "identifier": "ec50d32a-e419-4c2b-94b8-c95dadfde768",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tajikarao",
+        "url": "https://mangadex.org/title/ec50d32a-e419-4c2b-94b8-c95dadfde768",
+        "image": "https://uploads.mangadex.org/covers/ec50d32a-e419-4c2b-94b8-c95dadfde768/10d3855a-d969-49c0-85ef-df7343d85354.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8591,
+        "aniId": 38591,
+        "createdAt": "2020-10-12T16:05:15.000Z",
+        "updatedAt": "2021-06-03T11:11:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

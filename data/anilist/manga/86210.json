@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "エリア51"
+  ],
+  "authors": [
+    "Masato Hisa"
+  ],
+  "id": 86210,
+  "malId": 72641,
+  "type": "manga",
+  "title": "Area 51",
+  "url": "https://anilist.co/manga/86210",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86210-3CrWKyTKGLD3.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:39.000Z",
+  "updatedAt": "2021-05-20T14:51:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b9ec8d51-f28e-481b-944e-af128aae42d2": {
+        "authors": [
+          "Hisa Masato"
+        ],
+        "identifier": "b9ec8d51-f28e-481b-944e-af128aae42d2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Area 51",
+        "url": "https://mangadex.org/title/b9ec8d51-f28e-481b-944e-af128aae42d2",
+        "image": "https://uploads.mangadex.org/covers/b9ec8d51-f28e-481b-944e-af128aae42d2/1ac86b38-4dcd-4567-a50c-6e550a0ff285.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72641,
+        "aniId": 86210,
+        "createdAt": "2020-10-12T16:08:23.000Z",
+        "updatedAt": "2021-06-04T09:44:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "area_51": {
+        "authors": [],
+        "identifier": "area_51",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Area 51",
+        "url": "https://manganelo.com/manga/area_51",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1683-area_51.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72641,
+        "aniId": 86210,
+        "createdAt": "2020-10-12T16:22:08.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "area51": {
+        "authors": [
+          "HISA Masato"
+        ],
+        "identifier": "area51",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Area 51",
+        "url": "https://mangasee123.com/manga/Area51",
+        "image": "https://cover.nep.li/cover/Area51.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72641,
+        "aniId": 86210,
+        "createdAt": "2021-03-05T05:20:05.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

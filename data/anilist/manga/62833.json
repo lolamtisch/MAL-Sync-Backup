@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "ひめゴト",
+    "Hime Goto"
+  ],
+  "authors": [
+    "Norio Tsukudani"
+  ],
+  "id": 62833,
+  "malId": 32833,
+  "type": "manga",
+  "title": "Himegoto",
+  "url": "https://anilist.co/manga/62833",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx62833-6UI8eMJAsJgk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:52.000Z",
+  "updatedAt": "2021-05-20T14:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "49c44875-9521-4da5-bb3e-ba1f51163278": {
+        "authors": [
+          "Tsukudani Norio"
+        ],
+        "identifier": "49c44875-9521-4da5-bb3e-ba1f51163278",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himegoto",
+        "url": "https://mangadex.org/title/49c44875-9521-4da5-bb3e-ba1f51163278",
+        "image": "https://uploads.mangadex.org/covers/49c44875-9521-4da5-bb3e-ba1f51163278/31cfac93-b493-40f2-a0c6-118c64385b33.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32833,
+        "aniId": 62833,
+        "createdAt": "2020-10-12T16:03:33.000Z",
+        "updatedAt": "2021-06-02T14:46:42.000Z",
+        "deletedAt": null
+      },
+      "846be12d-b694-4aa6-9656-1b8a298b5978": {
+        "authors": [
+          "Tsukudani Norio"
+        ],
+        "identifier": "846be12d-b694-4aa6-9656-1b8a298b5978",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himegoto (Comic Rex)",
+        "url": "https://mangadex.org/title/846be12d-b694-4aa6-9656-1b8a298b5978",
+        "image": "https://uploads.mangadex.org/covers/846be12d-b694-4aa6-9656-1b8a298b5978/5c8c1508-b1f7-40cf-8e50-55822b8e6951.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32833,
+        "aniId": 62833,
+        "createdAt": "2020-10-12T16:07:08.000Z",
+        "updatedAt": "2021-06-04T00:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "himegoto_tsukudani_norio": {
+        "authors": [],
+        "identifier": "himegoto_tsukudani_norio",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Himegoto (Tsukudani Norio)",
+        "url": "https://manganelo.com/manga/himegoto_tsukudani_norio",
+        "image": "https://avt.mkklcdnv6.com/6/h/3-1583467883.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32833,
+        "aniId": 62833,
+        "createdAt": "2020-10-12T16:23:20.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

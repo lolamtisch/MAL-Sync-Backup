@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "勇者たち",
+    "Heroes"
+  ],
+  "authors": [
+    "Inio Asano"
+  ],
+  "id": 86217,
+  "malId": 88390,
+  "type": "manga",
+  "title": "Yuusha-tachi",
+  "url": "https://anilist.co/manga/86217",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86217-BetRkNwyYSsj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:54.000Z",
+  "updatedAt": "2021-05-20T14:52:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3f815f56-051d-4be1-ba64-7ed6dfcbcaee": {
+        "authors": [
+          "Asano Inio"
+        ],
+        "identifier": "3f815f56-051d-4be1-ba64-7ed6dfcbcaee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heroes",
+        "url": "https://mangadex.org/title/3f815f56-051d-4be1-ba64-7ed6dfcbcaee",
+        "image": "https://uploads.mangadex.org/covers/3f815f56-051d-4be1-ba64-7ed6dfcbcaee/7b51ac02-ad3c-4609-bd62-dcea1602907c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88390,
+        "aniId": 86217,
+        "createdAt": "2020-10-12T16:08:29.000Z",
+        "updatedAt": "2021-06-04T10:33:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "os918672": {
+        "authors": [],
+        "identifier": "os918672",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Hero",
+        "url": "https://manganelo.com/manga/os918672",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/82-os918672.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88390,
+        "aniId": 86217,
+        "createdAt": "2020-10-12T16:24:45.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

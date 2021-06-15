@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "聖剣使いの禁呪詠唱",
+    "The Swordbringer comes back.",
+    "Seiken Tsukai no Kinju Eishou",
+    "圣剑使的禁咒咏唱"
+  ],
+  "authors": [
+    "Akamitsu Awamura",
+    "Rio Nanamomo",
+    "Refeia"
+  ],
+  "id": 85919,
+  "malId": 69941,
+  "type": "manga",
+  "title": "Seiken Tsukai no World Break",
+  "url": "https://anilist.co/manga/85919",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85919-hde1CVmxFFkv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:29.000Z",
+  "updatedAt": "2021-05-20T14:51:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5bb6d4ba-a367-4559-acfe-6568b7e5f0ee": {
+        "authors": [
+          "Nanamomo Rio",
+          "Akamitsu Awamura"
+        ],
+        "identifier": "5bb6d4ba-a367-4559-acfe-6568b7e5f0ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seiken Tsukai no World Break",
+        "url": "https://mangadex.org/title/5bb6d4ba-a367-4559-acfe-6568b7e5f0ee",
+        "image": "https://uploads.mangadex.org/covers/5bb6d4ba-a367-4559-acfe-6568b7e5f0ee/3af4d9cc-c984-4c4a-8d61-30313e5b06e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69941,
+        "aniId": 85919,
+        "createdAt": "2020-10-12T16:07:19.000Z",
+        "updatedAt": "2021-06-04T02:00:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "break_the_world": {
+        "authors": [],
+        "identifier": "break_the_world",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Break The World",
+        "url": "https://manganelo.com/manga/break_the_world",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19906-break_the_world.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69941,
+        "aniId": 85919,
+        "createdAt": "2020-10-12T16:22:22.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "seiken_tsukai_no_kinju_eishou": {
+        "authors": [],
+        "identifier": "seiken_tsukai_no_kinju_eishou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seiken Tsukai No Kinju Eishou",
+        "url": "https://manganelo.com/manga/seiken_tsukai_no_kinju_eishou",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/10347-seiken_tsukai_no_kinju_eishou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69941,
+        "aniId": 85919,
+        "createdAt": "2020-10-12T16:25:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

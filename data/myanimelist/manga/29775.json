@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "CAPTAINアリス"
+  ],
+  "authors": [
+    "Takada, Yuuzo"
+  ],
+  "id": 29775,
+  "type": "manga",
+  "title": "Captain Alice",
+  "url": "https://myanimelist.net/manga/29775/Captain_Alice",
+  "image": "https://cdn.myanimelist.net/images/manga/1/120485.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:38.000Z",
+  "updatedAt": "2021-03-12T09:39:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f87a728d-e911-4392-8864-60b0b7d131ee": {
+        "authors": [
+          "Takada Yuuzou"
+        ],
+        "identifier": "f87a728d-e911-4392-8864-60b0b7d131ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Captain Alice",
+        "url": "https://mangadex.org/title/f87a728d-e911-4392-8864-60b0b7d131ee",
+        "image": "https://uploads.mangadex.org/covers/f87a728d-e911-4392-8864-60b0b7d131ee/c0cb91d6-e8a9-46df-9366-ad9e9692cc55.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29775,
+        "aniId": 59775,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T13:35:03.000Z",
+        "deletedAt": null
+      },
+      "b25e4905-92ed-4011-86c4-373f42401472": {
+        "authors": [
+          "Chao Ji Nei Rong"
+        ],
+        "identifier": "b25e4905-92ed-4011-86c4-373f42401472",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Superb Captain in the City",
+        "url": "https://mangadex.org/title/b25e4905-92ed-4011-86c4-373f42401472",
+        "image": "https://uploads.mangadex.org/covers/b25e4905-92ed-4011-86c4-373f42401472/953b0b5b-ad95-4dad-a8f0-db61f4cd7f44.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29775,
+        "aniId": 59775,
+        "createdAt": "2020-10-12T16:16:10.000Z",
+        "updatedAt": "2021-06-06T20:08:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

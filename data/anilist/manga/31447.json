@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "変",
+    "Hen Strange",
+    "Change"
+  ],
+  "authors": [
+    "Hiroya Oku"
+  ],
+  "id": 31447,
+  "malId": 1447,
+  "type": "manga",
+  "title": "Hen",
+  "url": "https://anilist.co/manga/31447",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31447-o5IZ6S34W3we.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:44.000Z",
+  "updatedAt": "2021-05-20T14:36:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4926c983-21a0-438c-a407-f30b8dff53c3": {
+        "authors": [
+          "Oku Hiroya"
+        ],
+        "identifier": "4926c983-21a0-438c-a407-f30b8dff53c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HEN - Suzuki & Satou",
+        "url": "https://mangadex.org/title/4926c983-21a0-438c-a407-f30b8dff53c3",
+        "image": "https://uploads.mangadex.org/covers/4926c983-21a0-438c-a407-f30b8dff53c3/4dc5d546-6063-49f3-b75c-c8f737d2c031.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1447,
+        "aniId": 31447,
+        "createdAt": "2020-10-12T16:15:09.000Z",
+        "updatedAt": "2021-06-06T11:04:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

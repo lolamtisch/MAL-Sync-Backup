@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "どう男女!?",
+    "Dou Danjo!?",
+    "Doudanjo!?",
+    "Dou Nani yo!?",
+    "Dounannyo!?"
+  ],
+  "authors": [
+    "Warako Hagi"
+  ],
+  "id": 37402,
+  "malId": 7402,
+  "type": "manga",
+  "title": "Dou Danjo!?",
+  "url": "https://anilist.co/manga/37402",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7402.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:52.000Z",
+  "updatedAt": "2021-05-20T14:39:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "32bcdb58-4822-40e6-acb9-e287f6ca5a8e": {
+        "authors": [
+          "Hagi Warako"
+        ],
+        "identifier": "32bcdb58-4822-40e6-acb9-e287f6ca5a8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dou Nannyo?!",
+        "url": "https://mangadex.org/title/32bcdb58-4822-40e6-acb9-e287f6ca5a8e",
+        "image": "https://uploads.mangadex.org/covers/32bcdb58-4822-40e6-acb9-e287f6ca5a8e/daae9433-3913-4153-b7fc-2e74e5ed04b6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 7402,
+        "aniId": 37402,
+        "createdAt": "2020-10-12T16:03:58.000Z",
+        "updatedAt": "2021-06-03T09:23:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yf922827": {
+        "authors": [],
+        "identifier": "yf922827",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Reikan No Mattakunai Danjo Ni Tori Tsuku Danjo No Rei No Manga",
+        "url": "https://manganelo.com/manga/yf922827",
+        "image": "https://avt.mkklcdnv6.com/9/v/21-1588899601.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7402,
+        "aniId": 37402,
+        "createdAt": "2020-10-12T16:26:21.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      },
+      "dou_danjo": {
+        "authors": [
+          "Hagi",
+          "Warako",
+          "???"
+        ],
+        "identifier": "dou_danjo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dou Danjo!?",
+        "url": "https://manganelo.com/manga/dou_danjo",
+        "image": "https://avt.mkklcdnv6temp.com/21/p/6-1583475017.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7402,
+        "aniId": 37402,
+        "createdAt": "2021-04-12T06:51:43.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

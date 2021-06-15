@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "アンタなんてお断り！",
+    "You? No Thanks!"
+  ],
+  "authors": [
+    "Miwako Sugiyama"
+  ],
+  "id": 37000,
+  "malId": 7000,
+  "type": "manga",
+  "title": "Anta Nante Okotowari!",
+  "url": "https://anilist.co/manga/37000",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37000-CcjC2pS87SjL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:45.000Z",
+  "updatedAt": "2021-05-20T14:39:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "582b73d9-790b-49cc-896d-33a6ccb9bbd9": {
+        "authors": [
+          "Sugiyama Miwako"
+        ],
+        "identifier": "582b73d9-790b-49cc-896d-33a6ccb9bbd9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Anta Nante Okotowari!",
+        "url": "https://mangadex.org/title/582b73d9-790b-49cc-896d-33a6ccb9bbd9",
+        "image": "https://uploads.mangadex.org/covers/582b73d9-790b-49cc-896d-33a6ccb9bbd9/0154ad0f-11fa-4e92-bb26-9a7dd94f0626.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7000,
+        "aniId": 37000,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:51:52.000Z",
+        "deletedAt": null
+      },
+      "b56471f5-8e39-4d16-a700-28845b5814e3": {
+        "authors": [
+          "Iro wa Nioe do (Circle)",
+          "Sudou Sakana",
+          "Okari"
+        ],
+        "identifier": "b56471f5-8e39-4d16-a700-28845b5814e3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou - Henge no Kotowari (Doujinshi)",
+        "url": "https://mangadex.org/title/b56471f5-8e39-4d16-a700-28845b5814e3",
+        "image": "https://uploads.mangadex.org/covers/b56471f5-8e39-4d16-a700-28845b5814e3/29cc33c0-92b4-4c3c-b66f-1f5fc0494a75.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7000,
+        "aniId": 37000,
+        "createdAt": "2020-10-12T16:16:25.000Z",
+        "updatedAt": "2021-06-06T22:27:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

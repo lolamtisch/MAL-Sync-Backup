@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ピンクナポレオンフィッシュ",
+    "Moonlight Gigolo"
+  ],
+  "authors": [
+    "Reiichi Hiiro"
+  ],
+  "id": 50243,
+  "malId": 20243,
+  "type": "manga",
+  "title": "Pink Napoleon Fish",
+  "url": "https://anilist.co/manga/50243",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50243-975RxdJmAx3x.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:28.000Z",
+  "updatedAt": "2021-05-20T14:45:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "956b2b24-c712-4fe6-be00-9c3d5bfc932d": {
+        "authors": [
+          "Hiiro Reiichi"
+        ],
+        "identifier": "956b2b24-c712-4fe6-be00-9c3d5bfc932d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pink Napoleon Fish",
+        "url": "https://mangadex.org/title/956b2b24-c712-4fe6-be00-9c3d5bfc932d",
+        "image": "https://uploads.mangadex.org/covers/956b2b24-c712-4fe6-be00-9c3d5bfc932d/4580fa21-fe74-4678-963f-410b66444ff3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20243,
+        "aniId": 50243,
+        "createdAt": "2020-10-12T18:05:21.000Z",
+        "updatedAt": "2021-06-08T05:23:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

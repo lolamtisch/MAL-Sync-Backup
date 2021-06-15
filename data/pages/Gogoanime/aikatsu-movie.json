@@ -1,0 +1,50 @@
+{
+  "identifier": "aikatsu-movie",
+  "type": "anime",
+  "page": "Gogoanime",
+  "title": "Aikatsu! Movie",
+  "url": "https://www16.gogoanime.io/category/aikatsu-movie",
+  "image": "https://gogocdn.net/images/upload/unnamed.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 22819,
+  "aniId": 20640,
+  "createdAt": "2020-10-12T15:59:47.000Z",
+  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Gekijouban Aikatsu! Idol Katsudou!, Aikatsu! Idol Katsudou! Movie",
+      "劇場版 アイカツ！アイドルカツドウ！"
+    ],
+    "id": 22819,
+    "type": "anime",
+    "title": "Aikatsu! Movie",
+    "url": "https://myanimelist.net/anime/22819/Aikatsu_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/2/68463.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:39:26.000Z",
+    "updatedAt": "2021-04-15T17:14:57.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "アイカツ！(劇場版)"
+    ],
+    "id": 20640,
+    "malId": 22819,
+    "type": "anime",
+    "title": "Aikatsu! (Movie)",
+    "url": "https://anilist.co/anime/20640",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20640-IOUSIkux6nJ4.jpg",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:41:31.000Z",
+    "updatedAt": "2021-05-20T14:41:31.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/22819/Aikatsu_Movie"
+}

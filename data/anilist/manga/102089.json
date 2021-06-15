@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "いそあそび"
+  ],
+  "authors": [
+    "Hiromi Sato"
+  ],
+  "id": 102089,
+  "malId": 115701,
+  "type": "manga",
+  "title": "Isoasobi",
+  "url": "https://anilist.co/manga/102089",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102089-RGnnZ5mdIabd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:18.000Z",
+  "updatedAt": "2021-05-20T14:57:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6b0161dc-2086-4d3e-9952-f351035c8d7d": {
+        "authors": [
+          "Sato Hiromi"
+        ],
+        "identifier": "6b0161dc-2086-4d3e-9952-f351035c8d7d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Iso Asobi",
+        "url": "https://mangadex.org/title/6b0161dc-2086-4d3e-9952-f351035c8d7d",
+        "image": "https://uploads.mangadex.org/covers/6b0161dc-2086-4d3e-9952-f351035c8d7d/2d26ccf9-79a6-4606-bea6-00ec9f20e9d7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115701,
+        "aniId": 102089,
+        "createdAt": "2020-10-12T16:13:56.000Z",
+        "updatedAt": "2021-06-06T01:10:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Under Current",
+    "アンダーカレント"
+  ],
+  "authors": [
+    "Toyoda, Tetsuya"
+  ],
+  "id": 12585,
+  "type": "manga",
+  "title": "Undercurrent",
+  "url": "https://myanimelist.net/manga/12585/Undercurrent",
+  "image": "https://cdn.myanimelist.net/images/manga/1/17475.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:47.000Z",
+  "updatedAt": "2021-02-08T08:49:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0c9bf707-bfd6-40bf-a748-aa04e6204ab0": {
+        "authors": [
+          "TOYODA Tetsuya"
+        ],
+        "identifier": "0c9bf707-bfd6-40bf-a748-aa04e6204ab0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Undercurrent",
+        "url": "https://mangadex.org/title/0c9bf707-bfd6-40bf-a748-aa04e6204ab0",
+        "image": "https://uploads.mangadex.org/covers/0c9bf707-bfd6-40bf-a748-aa04e6204ab0/754e1c80-071c-462c-a0ca-8bcf5558828a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12585,
+        "aniId": 42585,
+        "createdAt": "2020-10-12T16:02:56.000Z",
+        "updatedAt": "2021-06-02T10:34:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "undercurrent": {
+        "authors": [],
+        "identifier": "undercurrent",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Undercurrent",
+        "url": "https://manganelo.com/manga/undercurrent",
+        "image": "https://avt.mkklcdnv6.com/8/i/10-1583482473.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12585,
+        "aniId": 42585,
+        "createdAt": "2020-10-12T16:25:56.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "undercurrent": {
+        "authors": [
+          "TOYODA Tetsuya"
+        ],
+        "identifier": "undercurrent",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Undercurrent",
+        "url": "https://mangasee123.com/manga/Undercurrent",
+        "image": "https://cover.nep.li/cover/Undercurrent.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12585,
+        "aniId": 42585,
+        "createdAt": "2021-02-08T08:49:52.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Dance Till Tomorrow",
+    "あさってＤａｎｃｅ"
+  ],
+  "authors": [
+    "Naoki Yamamoto"
+  ],
+  "id": 31190,
+  "malId": 1190,
+  "type": "manga",
+  "title": "Asatte Dance",
+  "url": "https://anilist.co/manga/31190",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1190.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:56.000Z",
+  "updatedAt": "2021-05-20T14:35:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd62fa5e-83a2-4a9b-aeb5-8b6d383dfafb": {
+        "authors": [
+          "Yamamoto Naoki"
+        ],
+        "identifier": "bd62fa5e-83a2-4a9b-aeb5-8b6d383dfafb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Asatte Dance",
+        "url": "https://mangadex.org/title/bd62fa5e-83a2-4a9b-aeb5-8b6d383dfafb",
+        "image": "https://uploads.mangadex.org/covers/bd62fa5e-83a2-4a9b-aeb5-8b6d383dfafb/ac0a07de-82aa-407f-85f1-66ecc8de77f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1190,
+        "aniId": 31190,
+        "createdAt": "2020-10-12T16:11:31.000Z",
+        "updatedAt": "2021-06-05T08:58:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "asatte_dance": {
+        "authors": [],
+        "identifier": "asatte_dance",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Asatte Dance",
+        "url": "https://manganelo.com/manga/asatte_dance",
+        "image": "https://avt.mkklcdnv6.com/16/k/5-1583470337.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1190,
+        "aniId": 31190,
+        "createdAt": "2020-10-12T16:22:09.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

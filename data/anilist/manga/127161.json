@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Sweet Caress",
+    "다정하게 쓰담쓰담",
+    "亲爱的，摸摸头"
+  ],
+  "authors": [
+    "Keimjae"
+  ],
+  "id": 127161,
+  "malId": null,
+  "type": "manga",
+  "title": "Dajeonghage Sseudamsseudam",
+  "url": "https://anilist.co/manga/127161",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127161-adQnQhKjjCRW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T21:08:18.000Z",
+  "updatedAt": "2021-06-08T01:20:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0126f354-22b3-460c-98a3-f9b8d7b01369": {
+        "authors": [
+          "켐제 (kemze)"
+        ],
+        "identifier": "0126f354-22b3-460c-98a3-f9b8d7b01369",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Affectionately",
+        "url": "https://mangadex.org/title/0126f354-22b3-460c-98a3-f9b8d7b01369",
+        "image": "https://uploads.mangadex.org/covers/0126f354-22b3-460c-98a3-f9b8d7b01369/4a7b3e0d-4ca5-4bf3-8dd0-0807a76ffef4.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127161,
+        "createdAt": "2020-10-12T16:20:51.000Z",
+        "updatedAt": "2021-06-08T01:35:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

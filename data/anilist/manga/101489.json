@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "テオ-THEO-"
+  ],
+  "authors": [
+    "Nachi Aono"
+  ],
+  "id": 101489,
+  "malId": 111760,
+  "type": "manga",
+  "title": "THEO",
+  "url": "https://anilist.co/manga/101489",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101489-kaKIyR8lG9E4.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:50.000Z",
+  "updatedAt": "2021-06-05T06:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ec04db0-dd8b-43d5-81df-314e498e2ffb": {
+        "authors": [
+          "Aono Nachi"
+        ],
+        "identifier": "4ec04db0-dd8b-43d5-81df-314e498e2ffb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "THEO",
+        "url": "https://mangadex.org/title/4ec04db0-dd8b-43d5-81df-314e498e2ffb",
+        "image": "https://uploads.mangadex.org/covers/4ec04db0-dd8b-43d5-81df-314e498e2ffb/4562039f-c3f0-401d-a1dd-26fc1f5eb3f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111760,
+        "aniId": 101489,
+        "createdAt": "2020-10-12T16:11:14.000Z",
+        "updatedAt": "2021-06-05T08:58:17.000Z",
+        "deletedAt": null
+      },
+      "7eaf74b7-e3cd-42b3-98b5-0a6affdbbbbb": {
+        "authors": [
+          "Jiao Nian Qian Zhao",
+          "Luan Bu Yang Yang Yang"
+        ],
+        "identifier": "7eaf74b7-e3cd-42b3-98b5-0a6affdbbbbb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Song of Theodor",
+        "url": "https://mangadex.org/title/7eaf74b7-e3cd-42b3-98b5-0a6affdbbbbb",
+        "image": "https://uploads.mangadex.org/covers/7eaf74b7-e3cd-42b3-98b5-0a6affdbbbbb/25e67fcc-57e4-4bfa-96c4-da4023e7d2a8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111760,
+        "aniId": 101489,
+        "createdAt": "2020-10-12T16:18:12.000Z",
+        "updatedAt": "2021-06-07T14:49:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "uj921756": {
+        "authors": [
+          "Jiao",
+          "Nian",
+          "Qian",
+          "Zhao"
+        ],
+        "identifier": "uj921756",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Song Of Theodor",
+        "url": "https://manganelo.com/manga/uj921756",
+        "image": "https://avt.mkklcdnv6temp.com/18/d/20-1583501726.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111760,
+        "aniId": 101489,
+        "createdAt": "2020-10-12T16:25:55.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

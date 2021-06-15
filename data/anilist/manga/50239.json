@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ファイナル・インプレッション"
+  ],
+  "authors": [
+    "Haruki Fujimoto"
+  ],
+  "id": 50239,
+  "malId": 20239,
+  "type": "manga",
+  "title": "Final Impression",
+  "url": "https://anilist.co/manga/50239",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50239-yIDbDjlJvC1n.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:28.000Z",
+  "updatedAt": "2021-05-20T14:45:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d5c9609-0a6b-4490-a267-79e8557c8f91": {
+        "authors": [
+          "Fujimoto Haruki"
+        ],
+        "identifier": "0d5c9609-0a6b-4490-a267-79e8557c8f91",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Final Impression",
+        "url": "https://mangadex.org/title/0d5c9609-0a6b-4490-a267-79e8557c8f91",
+        "image": "https://uploads.mangadex.org/covers/0d5c9609-0a6b-4490-a267-79e8557c8f91/7dd447c9-f680-44d2-8a4d-2a26d5069a4b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20239,
+        "aniId": 50239,
+        "createdAt": "2020-10-12T16:06:59.000Z",
+        "updatedAt": "2021-06-03T23:31:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

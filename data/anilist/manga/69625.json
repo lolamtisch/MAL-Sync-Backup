@@ -1,0 +1,136 @@
+{
+  "altTitle": [
+    "Kagerou Daze",
+    "カゲロウデイズ",
+    "Heat-Haze Days"
+  ],
+  "authors": [
+    "Mahiro Satou",
+    "Jin",
+    "Kevin Gifford",
+    "Abigail Blackman"
+  ],
+  "id": 69625,
+  "malId": 39625,
+  "type": "manga",
+  "title": "Kagerou Days",
+  "url": "https://anilist.co/manga/69625",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx69625-bA0S0IfW96kw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6beee06e-0375-4b6d-8114-f0fd54c30fc0": {
+        "authors": [
+          "SATOU Mahiro",
+          "Jin (II)"
+        ],
+        "identifier": "6beee06e-0375-4b6d-8114-f0fd54c30fc0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kagerou Daze",
+        "url": "https://mangadex.org/title/6beee06e-0375-4b6d-8114-f0fd54c30fc0",
+        "image": "https://uploads.mangadex.org/covers/6beee06e-0375-4b6d-8114-f0fd54c30fc0/a9928cc7-0dea-41c6-ab4a-8e08b809db0e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39625,
+        "aniId": 69625,
+        "createdAt": "2020-10-12T16:05:17.000Z",
+        "updatedAt": "2021-06-03T11:29:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kagerou_daze": {
+        "authors": [],
+        "identifier": "kagerou_daze",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kagerou Daze",
+        "url": "https://manganelo.com/manga/kagerou_daze",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3411-kagerou_daze.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39625,
+        "aniId": 69625,
+        "createdAt": "2020-10-12T16:23:48.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kagerou-days": {
+        "authors": [
+          "Jin",
+          "SATOU Mahiro"
+        ],
+        "identifier": "kagerou-days",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kagerou Days",
+        "url": "https://mangasee123.com/manga/Kagerou-Days",
+        "image": "https://cover.nep.li/cover/Kagerou-Days.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39625,
+        "aniId": 69625,
+        "createdAt": "2021-01-28T03:15:39.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kagerou_days": {
+        "authors": [
+          "Jin (Shizennoteki-P)",
+          "Shidu"
+        ],
+        "identifier": "kagerou_days",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kagerou Daze",
+        "url": "https://fanfox.net/manga/kagerou_days/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11037/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39625,
+        "aniId": 69625,
+        "createdAt": "2021-04-13T05:15:28.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      },
+      "kagerou_daze": {
+        "authors": [
+          "Jin (Shizennoteki-P)",
+          "Shidu"
+        ],
+        "identifier": "kagerou_daze",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kagerou Daze",
+        "url": "https://fanfox.net/manga/kagerou_daze/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11037/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39625,
+        "aniId": 69625,
+        "createdAt": "2021-04-14T01:15:30.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

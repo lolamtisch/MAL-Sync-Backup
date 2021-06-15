@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "天に恋う"
+  ],
+  "authors": [
+    "Sakura Mochizuki"
+  ],
+  "id": 101726,
+  "malId": 93842,
+  "type": "manga",
+  "title": "Ten ni Kou",
+  "url": "https://anilist.co/manga/101726",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101726-GGL7ItQxmYQq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:49.000Z",
+  "updatedAt": "2021-05-20T14:53:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0346c2d3-9077-4150-93c1-7d6eefc2b1a9": {
+        "authors": [
+          "Richiko",
+          "Mochizuki Sakura"
+        ],
+        "identifier": "0346c2d3-9077-4150-93c1-7d6eefc2b1a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ten ni Kou",
+        "url": "https://mangadex.org/title/0346c2d3-9077-4150-93c1-7d6eefc2b1a9",
+        "image": "https://uploads.mangadex.org/covers/0346c2d3-9077-4150-93c1-7d6eefc2b1a9/ac5182be-ad31-46f1-ab9a-65fd96908da4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93842,
+        "aniId": 101726,
+        "createdAt": "2020-10-12T16:08:18.000Z",
+        "updatedAt": "2021-06-04T09:08:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

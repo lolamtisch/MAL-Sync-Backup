@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "昴",
+    "Dance! Subaru",
+    "舞吧！昴",
+    "昴 スバル",
+    "昴 -すばる-"
+  ],
+  "authors": [
+    "Masahito Soda"
+  ],
+  "id": 36888,
+  "malId": 6888,
+  "type": "manga",
+  "title": "Subaru",
+  "url": "https://anilist.co/manga/36888",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36888-IUebo5H0Bpva.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:43.000Z",
+  "updatedAt": "2021-05-20T14:39:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e12ad0dc-f0e7-42d0-8ac3-101c18f9e945": {
+        "authors": [
+          "Soda Masahito"
+        ],
+        "identifier": "e12ad0dc-f0e7-42d0-8ac3-101c18f9e945",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Subaru",
+        "url": "https://mangadex.org/title/e12ad0dc-f0e7-42d0-8ac3-101c18f9e945",
+        "image": "https://uploads.mangadex.org/covers/e12ad0dc-f0e7-42d0-8ac3-101c18f9e945/a6ca0582-96bb-4580-890f-73fdc35c6743.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6888,
+        "aniId": 36888,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:37:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dance_subaru": {
+        "authors": [
+          "SODA Masahito"
+        ],
+        "identifier": "dance_subaru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dance! Subaru",
+        "url": "https://fanfox.net/manga/dance_subaru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2838/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6888,
+        "aniId": 36888,
+        "createdAt": "2021-04-01T12:32:12.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

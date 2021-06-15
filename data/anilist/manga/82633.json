@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "絵本の艶本",
+    "Aschenputtel"
+  ],
+  "authors": [
+    "SASAYUKi"
+  ],
+  "id": 82633,
+  "malId": 52633,
+  "type": "manga",
+  "title": "Ehon no Ehon",
+  "url": "https://anilist.co/manga/82633",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/52633.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:49:56.000Z",
+  "updatedAt": "2021-05-20T14:49:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e280843d-3804-46b7-9a8e-fdc900756d3c": {
+        "authors": [
+          "SASAYUKi"
+        ],
+        "identifier": "e280843d-3804-46b7-9a8e-fdc900756d3c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ehon no Ehon",
+        "url": "https://mangadex.org/title/e280843d-3804-46b7-9a8e-fdc900756d3c",
+        "image": "https://uploads.mangadex.org/covers/e280843d-3804-46b7-9a8e-fdc900756d3c/64c8ef01-f769-4576-a8b7-9440ed762da0.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52633,
+        "aniId": 82633,
+        "createdAt": "2020-10-12T16:19:51.000Z",
+        "updatedAt": "2021-06-07T22:54:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

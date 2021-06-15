@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "死に損ないアガペー",
+    "Agape You Lose to Death"
+  ],
+  "authors": [
+    "Kishi Toshiaki"
+  ],
+  "id": 101806,
+  "malId": 112740,
+  "type": "manga",
+  "title": "Shinizokonai Agape",
+  "url": "https://anilist.co/manga/101806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101806-GbNcL54ZSTew.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:58.000Z",
+  "updatedAt": "2021-05-20T14:56:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7dcf0c15-aded-45c2-9eb1-69360424cae9": {
+        "authors": [
+          "Kishi Toshiaki"
+        ],
+        "identifier": "7dcf0c15-aded-45c2-9eb1-69360424cae9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinizokonai Agape",
+        "url": "https://mangadex.org/title/7dcf0c15-aded-45c2-9eb1-69360424cae9",
+        "image": "https://uploads.mangadex.org/covers/7dcf0c15-aded-45c2-9eb1-69360424cae9/12116810-f2f8-48eb-90da-3d735dd5977e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112740,
+        "aniId": 101806,
+        "createdAt": "2020-10-12T16:11:22.000Z",
+        "updatedAt": "2021-06-05T07:53:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shinizokonai_agape": {
+        "authors": [
+          "Kishi",
+          "Toshiaki"
+        ],
+        "identifier": "shinizokonai_agape",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shinizokonai Agape",
+        "url": "https://manganelo.com/manga/shinizokonai_agape",
+        "image": "https://avt.mkklcdnv6.com/16/l/16-1583494062.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 112740,
+        "aniId": 101806,
+        "createdAt": "2020-10-12T16:25:25.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

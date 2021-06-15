@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "好きなんて言わんといて"
+  ],
+  "authors": [
+    "Daeki Tsuba"
+  ],
+  "id": 112997,
+  "malId": 119415,
+  "type": "manga",
+  "title": "Suki Nante Iwantoite",
+  "url": "https://anilist.co/manga/112997",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112997-IhpJUgNYvWd2.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:58:08.000Z",
+  "updatedAt": "2021-05-20T14:58:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "16e926bf-ed95-4257-bfb7-be48063d7803": {
+        "authors": [
+          "Tsuba Daeki"
+        ],
+        "identifier": "16e926bf-ed95-4257-bfb7-be48063d7803",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suki Nante Iwantoite",
+        "url": "https://mangadex.org/title/16e926bf-ed95-4257-bfb7-be48063d7803",
+        "image": "https://uploads.mangadex.org/covers/16e926bf-ed95-4257-bfb7-be48063d7803/ee845c8c-5683-4857-8964-bce5e7a77ddd.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119415,
+        "aniId": 112997,
+        "createdAt": "2020-10-12T16:15:23.000Z",
+        "updatedAt": "2021-06-06T13:26:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gm922022": {
+        "authors": [],
+        "identifier": "gm922022",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suki Nante Iwantoite",
+        "url": "https://manganelo.com/manga/gm922022",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3437-gm922022.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119415,
+        "aniId": 112997,
+        "createdAt": "2020-10-12T16:23:07.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

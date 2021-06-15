@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ミギとダリ"
+  ],
+  "authors": [
+    "Nami Sano"
+  ],
+  "id": 101687,
+  "malId": 107774,
+  "type": "manga",
+  "title": "Migi to Dali",
+  "url": "https://anilist.co/manga/101687",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101687-DhdYV3mriAio.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:55.000Z",
+  "updatedAt": "2021-05-20T14:55:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7f0a4f30-d434-4a22-8aae-3998897c9c20": {
+        "authors": [
+          "Sano Nami"
+        ],
+        "identifier": "7f0a4f30-d434-4a22-8aae-3998897c9c20",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Migi & Dali",
+        "url": "https://mangadex.org/title/7f0a4f30-d434-4a22-8aae-3998897c9c20",
+        "image": "https://uploads.mangadex.org/covers/7f0a4f30-d434-4a22-8aae-3998897c9c20/53b57c7f-f70f-43ba-8d10-3cfa70301317.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107774,
+        "aniId": 101687,
+        "createdAt": "2020-10-12T16:11:04.000Z",
+        "updatedAt": "2021-06-05T05:26:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "migi_to_dali": {
+        "authors": [
+          "Sano",
+          "Nami"
+        ],
+        "identifier": "migi_to_dali",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Migi To Dali",
+        "url": "https://manganelo.com/manga/migi_to_dali",
+        "image": "https://avt.mkklcdnv6.com/34/b/16-1583494694.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107774,
+        "aniId": 101687,
+        "createdAt": "2020-10-27T03:12:43.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      },
+      "migi_to_dari": {
+        "authors": [
+          "Sano",
+          "Nami"
+        ],
+        "identifier": "migi_to_dari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Migi To Dari",
+        "url": "https://manganelo.com/manga/migi_to_dari",
+        "image": "https://avt.mkklcdnv6.com/2/r/17-1583495356.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107774,
+        "aniId": 101687,
+        "createdAt": "2020-12-15T21:52:39.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

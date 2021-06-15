@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "真夏の純情",
+    "Midsummer Pure Love"
+  ],
+  "authors": [
+    "Miyuki Yorita"
+  ],
+  "id": 105909,
+  "malId": null,
+  "type": "manga",
+  "title": "Manatsu no Junjou",
+  "url": "https://anilist.co/manga/105909",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105909-xXyE7BQlLDmG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T00:49:07.000Z",
+  "updatedAt": "2021-06-06T00:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e1ff2e7-5db0-4d43-adc4-dfed0daf9966": {
+        "authors": [
+          "Yorita Miyuki"
+        ],
+        "identifier": "1e1ff2e7-5db0-4d43-adc4-dfed0daf9966",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Midsummer Pure Love",
+        "url": "https://mangadex.org/title/1e1ff2e7-5db0-4d43-adc4-dfed0daf9966",
+        "image": "https://uploads.mangadex.org/covers/1e1ff2e7-5db0-4d43-adc4-dfed0daf9966/f7368db6-634e-458d-9e97-08b27a437029.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 105909,
+        "createdAt": "2020-10-12T16:13:53.000Z",
+        "updatedAt": "2021-06-06T10:11:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

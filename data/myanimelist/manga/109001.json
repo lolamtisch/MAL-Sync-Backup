@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Lucky Bill",
+    "On Doorstep"
+  ],
+  "authors": [
+    "CTK"
+  ],
+  "id": 109001,
+  "type": "manga",
+  "title": "On Doorstep",
+  "url": "https://myanimelist.net/manga/109001/On_Doorstep",
+  "image": "https://cdn.myanimelist.net/images/manga/1/200525.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:11.000Z",
+  "updatedAt": "2021-05-20T10:01:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69f09195-6e2a-474e-bb22-a064dcb9ad34": {
+        "authors": [
+          "CTK"
+        ],
+        "identifier": "69f09195-6e2a-474e-bb22-a064dcb9ad34",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "On Doorstep",
+        "url": "https://mangadex.org/title/69f09195-6e2a-474e-bb22-a064dcb9ad34",
+        "image": "https://uploads.mangadex.org/covers/69f09195-6e2a-474e-bb22-a064dcb9ad34/f254970e-1b7e-4874-98c1-197dcf3b4d1e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109001,
+        "aniId": 100159,
+        "createdAt": "2020-10-12T16:14:56.000Z",
+        "updatedAt": "2021-06-06T09:12:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "on_doorstep": {
+        "authors": [
+          "Ctk"
+        ],
+        "identifier": "on_doorstep",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "On Doorstep",
+        "url": "https://manganelo.com/manga/on_doorstep",
+        "image": "https://avt.mkklcdnv6temp.com/41/s/15-1583493163.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109001,
+        "aniId": 100159,
+        "createdAt": "2021-05-20T10:01:25.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

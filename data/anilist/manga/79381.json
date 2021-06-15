@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Steins;Gate 閉時曲線のエピグラフ",
+    "Steins;Gate: Epigraph of the Closed Curve"
+  ],
+  "authors": [
+    "Masashi Takimoto",
+    "Chiyomaru Shikura",
+    "huke",
+    "Chiyomaru Shikura",
+    "Takeshi Mizoguchi"
+  ],
+  "id": 79381,
+  "malId": 49381,
+  "type": "manga",
+  "title": "Steins;Gate: Heiji Kyokusen no Epigraph",
+  "url": "https://anilist.co/manga/79381",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79381-f8GKLhlmGOWB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:42.000Z",
+  "updatedAt": "2021-05-20T14:49:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f8bfcef-6efc-4e0a-9cfb-fd67a577b1c4": {
+        "authors": [
+          "Yoshida Tadasu",
+          "Nitroplus",
+          "5pb."
+        ],
+        "identifier": "8f8bfcef-6efc-4e0a-9cfb-fd67a577b1c4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Steins;Gate - Heijikyokusen no Epigraph",
+        "url": "https://mangadex.org/title/8f8bfcef-6efc-4e0a-9cfb-fd67a577b1c4",
+        "image": "https://uploads.mangadex.org/covers/8f8bfcef-6efc-4e0a-9cfb-fd67a577b1c4/b7e7aad5-c287-427f-8292-b37d459f6ca9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49381,
+        "aniId": 79381,
+        "createdAt": "2020-10-12T16:06:11.000Z",
+        "updatedAt": "2021-06-03T17:51:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "steinsgate_heiji_kyokusen_no_epigraph": {
+        "authors": [],
+        "identifier": "steinsgate_heiji_kyokusen_no_epigraph",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Steins;Gate - Heiji Kyokusen no Epigraph",
+        "url": "https://manganelo.com/manga/steinsgate_heiji_kyokusen_no_epigraph",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/10929-steinsgate_heiji_kyokusen_no_epigraph.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49381,
+        "aniId": 79381,
+        "createdAt": "2020-10-12T16:25:33.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

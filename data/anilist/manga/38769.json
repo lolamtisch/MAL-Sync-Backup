@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "影の祭"
+  ],
+  "authors": [
+    "REM",
+    "Bikkuri"
+  ],
+  "id": 38769,
+  "malId": 8769,
+  "type": "manga",
+  "title": "Kage no Matsuri",
+  "url": "https://anilist.co/manga/38769",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38769-1IxodaFJTGvz.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "41908ee8-679a-4aa6-bdc5-785f0e0e23ee": {
+        "authors": [
+          "Rem",
+          "Bikkuri"
+        ],
+        "identifier": "41908ee8-679a-4aa6-bdc5-785f0e0e23ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kage no Matsuri",
+        "url": "https://mangadex.org/title/41908ee8-679a-4aa6-bdc5-785f0e0e23ee",
+        "image": "https://uploads.mangadex.org/covers/41908ee8-679a-4aa6-bdc5-785f0e0e23ee/4398c29d-a376-4d36-804b-ec5192ad2e7e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8769,
+        "aniId": 38769,
+        "createdAt": "2020-10-12T16:02:54.000Z",
+        "updatedAt": "2021-06-02T10:18:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

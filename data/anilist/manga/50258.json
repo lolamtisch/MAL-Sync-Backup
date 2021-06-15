@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "是―ZE― ファンブック",
+    "Ze Fanbook"
+  ],
+  "authors": [
+    "Yuki Shimizu",
+    "Kaori Monchi",
+    "Isaku Natsume",
+    "Touko Fujikawa",
+    "Ren Kitakami",
+    "Kyou Kitazawa",
+    "Sakae Kusama",
+    "Muku Ogura",
+    "Mebaru Kobato",
+    "Aoi Hashimoto"
+  ],
+  "id": 50258,
+  "malId": 20258,
+  "type": "manga",
+  "title": "Ze Fan Book",
+  "url": "https://anilist.co/manga/50258",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20258.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T13:48:57.000Z",
+  "updatedAt": "2021-06-05T13:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd63b861-bfb7-47c2-8551-892098bf2cfe": {
+        "authors": [
+          "Natsume Isaku",
+          "Hashimoto Aoi",
+          "Kane Hikaru",
+          "Ogura Muku",
+          "Kobato Mebaru",
+          "Monchi Kaori",
+          "Kitakami Ren",
+          "Ninomiya Etsumi",
+          "Kitazawa Kyou",
+          "Shimizu Yuki",
+          "Kusama Sakae",
+          "Fujikawa Touko",
+          "Minamino Mashiro",
+          "Aiba Kyoko",
+          "Mizuki Kana"
+        ],
+        "identifier": "dd63b861-bfb7-47c2-8551-892098bf2cfe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ze Fanbook (Anthology)",
+        "url": "https://mangadex.org/title/dd63b861-bfb7-47c2-8551-892098bf2cfe",
+        "image": "https://uploads.mangadex.org/covers/dd63b861-bfb7-47c2-8551-892098bf2cfe/2ef536fa-daf0-47f1-a924-d5337994ad60.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20258,
+        "aniId": 50258,
+        "createdAt": "2020-10-12T16:12:08.000Z",
+        "updatedAt": "2021-06-05T14:07:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

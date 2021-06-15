@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "왕자님이 되고 싶어!!",
+    "I Want to Be a Prince!"
+  ],
+  "authors": [
+    "Kairin"
+  ],
+  "id": 127372,
+  "malId": null,
+  "type": "manga",
+  "title": "Wangjanimi Doego Sipeo!!",
+  "url": "https://anilist.co/manga/127372",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127372-vx0UiEITNDXX.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T00:19:08.000Z",
+  "updatedAt": "2021-06-07T00:19:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b2f85f15-de64-46a8-91be-566c58f58534": {
+        "authors": [
+          "Kairin"
+        ],
+        "identifier": "b2f85f15-de64-46a8-91be-566c58f58534",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Want to Be a Prince!",
+        "url": "https://mangadex.org/title/b2f85f15-de64-46a8-91be-566c58f58534",
+        "image": "https://uploads.mangadex.org/covers/b2f85f15-de64-46a8-91be-566c58f58534/6a0364a9-4539-40ba-9c83-ba5718d61971.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127372,
+        "createdAt": "2020-10-12T16:16:35.000Z",
+        "updatedAt": "2021-06-07T07:21:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

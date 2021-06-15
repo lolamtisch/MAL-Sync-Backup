@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "あなたがいれば",
+    "If You Were Here"
+  ],
+  "authors": [
+    "Akemi Yoshimura"
+  ],
+  "id": 45443,
+  "malId": 15443,
+  "type": "manga",
+  "title": "Anata ga Ireba",
+  "url": "https://anilist.co/manga/45443",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15443.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:46.000Z",
+  "updatedAt": "2021-05-20T14:43:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "afd6119c-cb7a-427e-ae29-031a06ed2a5a": {
+        "authors": [
+          "YOSHIMURA Akemi"
+        ],
+        "identifier": "afd6119c-cb7a-427e-ae29-031a06ed2a5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Anata ga Ireba",
+        "url": "https://mangadex.org/title/afd6119c-cb7a-427e-ae29-031a06ed2a5a",
+        "image": "https://uploads.mangadex.org/covers/afd6119c-cb7a-427e-ae29-031a06ed2a5a/85b7416f-1e31-4d4d-aa87-d4bb22a3f07e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15443,
+        "aniId": 45443,
+        "createdAt": "2020-10-12T16:05:45.000Z",
+        "updatedAt": "2021-06-03T14:51:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "anata_ga_ireba": {
+        "authors": [
+          "Yoshimura",
+          "Akemi"
+        ],
+        "identifier": "anata_ga_ireba",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Anata Ga Ireba",
+        "url": "https://manganelo.com/manga/anata_ga_ireba",
+        "image": "https://avt.mkklcdnv6temp.com/23/h/9-1583481011.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15443,
+        "aniId": 45443,
+        "createdAt": "2021-02-18T16:14:02.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "anata_ga_ireba": {
+        "authors": [
+          "YOSHIMURA Akemi"
+        ],
+        "identifier": "anata_ga_ireba",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Anata ga Ireba",
+        "url": "https://fanfox.net/manga/anata_ga_ireba/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11538/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15443,
+        "aniId": 45443,
+        "createdAt": "2021-03-31T18:01:48.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

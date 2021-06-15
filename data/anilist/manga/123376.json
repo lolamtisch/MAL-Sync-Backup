@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "世界の音がしない",
+    "No Sound World",
+    "세계의 소리가 들리지 않아"
+  ],
+  "authors": [
+    "Ichino Ii"
+  ],
+  "id": 123376,
+  "malId": 112981,
+  "type": "manga",
+  "title": "Sekai no Oto ga Shinai",
+  "url": "https://anilist.co/manga/123376",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123376-vg5fcJyne5Lo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:58.000Z",
+  "updatedAt": "2021-05-20T14:56:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d8506ebb-accb-4ab4-9a30-b0e476a71959": {
+        "authors": [
+          "Ii Ichino"
+        ],
+        "identifier": "d8506ebb-accb-4ab4-9a30-b0e476a71959",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sekai no Oto ga Shinai",
+        "url": "https://mangadex.org/title/d8506ebb-accb-4ab4-9a30-b0e476a71959",
+        "image": "https://uploads.mangadex.org/covers/d8506ebb-accb-4ab4-9a30-b0e476a71959/20795f7d-e3e9-4960-af98-1cbbac938b25.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112981,
+        "aniId": 123376,
+        "createdAt": "2020-10-12T16:13:34.000Z",
+        "updatedAt": "2021-06-05T22:28:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

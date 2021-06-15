@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Click",
+    "클릭"
+  ],
+  "authors": [
+    "Youngran Lee"
+  ],
+  "id": 31417,
+  "malId": 1417,
+  "type": "manga",
+  "title": "Click",
+  "url": "https://anilist.co/manga/31417",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1417.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:44.000Z",
+  "updatedAt": "2021-05-20T14:36:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2ae4c3e1-c333-4183-870a-abe5d742fa0a": {
+        "authors": [
+          "LEE Youngran"
+        ],
+        "identifier": "2ae4c3e1-c333-4183-870a-abe5d742fa0a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Click",
+        "url": "https://mangadex.org/title/2ae4c3e1-c333-4183-870a-abe5d742fa0a",
+        "image": "https://uploads.mangadex.org/covers/2ae4c3e1-c333-4183-870a-abe5d742fa0a/eddbb1ab-7a9a-4421-8325-21aed3b53a6b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1417,
+        "aniId": 31417,
+        "createdAt": "2020-10-12T16:13:14.000Z",
+        "updatedAt": "2021-06-05T19:42:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

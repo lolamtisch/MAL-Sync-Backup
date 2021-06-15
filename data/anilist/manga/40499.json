@@ -1,0 +1,94 @@
+{
+  "altTitle": [
+    "GeGeGe no Kitaro",
+    "ゲゲゲの鬼太郎; 墓場鬼太郎",
+    "GeGeGe no Kitarou",
+    "Graveyard Kitarou",
+    "Hakeba Kitarou",
+    "ゲゲゲの鬼太郎; 墓場の鬼太郎",
+    "墓場の鬼太郎"
+  ],
+  "authors": [
+    "Shigeru Mizuki",
+    "Zack Davisson",
+    "Éric Cordier"
+  ],
+  "id": 40499,
+  "malId": 10499,
+  "type": "manga",
+  "title": "GeGeGe no Kitaro",
+  "url": "https://anilist.co/manga/40499",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40499-5wwifw9Od7Fy.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:05.000Z",
+  "updatedAt": "2021-05-20T14:41:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "233df7db-db3e-4133-9d69-44f381f77a8c": {
+        "authors": [
+          "Mizuki Shigeru"
+        ],
+        "identifier": "233df7db-db3e-4133-9d69-44f381f77a8c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gegege no Kitaro",
+        "url": "https://mangadex.org/title/233df7db-db3e-4133-9d69-44f381f77a8c",
+        "image": "https://uploads.mangadex.org/covers/233df7db-db3e-4133-9d69-44f381f77a8c/dd75fe28-f3b4-46a5-aa8e-c60e63766699.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10499,
+        "aniId": 40499,
+        "createdAt": "2020-10-12T16:03:33.000Z",
+        "updatedAt": "2021-06-02T14:48:22.000Z",
+        "deletedAt": null
+      },
+      "ec15f6c2-5d1a-487e-9b30-1d490c20e916": {
+        "authors": [
+          "Mizuki Shigeru",
+          "Mizuki Productions"
+        ],
+        "identifier": "ec15f6c2-5d1a-487e-9b30-1d490c20e916",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gegege no Kitaro: Showdown on Mt. Atago",
+        "url": "https://mangadex.org/title/ec15f6c2-5d1a-487e-9b30-1d490c20e916",
+        "image": "https://uploads.mangadex.org/covers/ec15f6c2-5d1a-487e-9b30-1d490c20e916/591f0128-7c39-4e91-af63-202b8f99c87e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10499,
+        "aniId": 40499,
+        "createdAt": "2021-03-16T02:33:05.000Z",
+        "updatedAt": "2021-06-08T12:38:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gegege-no-kitaro": {
+        "authors": [
+          "MIZUKI Shigeru"
+        ],
+        "identifier": "gegege-no-kitaro",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gegege no Kitaro",
+        "url": "https://mangasee123.com/manga/Gegege-No-Kitaro",
+        "image": "https://cover.nep.li/cover/Gegege-No-Kitaro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10499,
+        "aniId": 40499,
+        "createdAt": "2021-02-01T18:02:28.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

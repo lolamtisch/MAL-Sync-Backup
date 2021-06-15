@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "アールジュウハチ!",
+    "R 18!"
+  ],
+  "authors": [
+    "Purapa"
+  ],
+  "id": 52714,
+  "malId": 22714,
+  "type": "manga",
+  "title": "R18!",
+  "url": "https://anilist.co/manga/52714",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52714-W4y2j9qTqhrN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:32.000Z",
+  "updatedAt": "2021-05-20T14:46:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd2e7a5c-5522-4c15-bb2c-ece08f5180e5": {
+        "authors": [
+          "Purapa"
+        ],
+        "identifier": "cd2e7a5c-5522-4c15-bb2c-ece08f5180e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "R18!",
+        "url": "https://mangadex.org/title/cd2e7a5c-5522-4c15-bb2c-ece08f5180e5",
+        "image": "https://uploads.mangadex.org/covers/cd2e7a5c-5522-4c15-bb2c-ece08f5180e5/6bcdd6ae-0b3b-425f-a1c7-588ebabc4e12.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22714,
+        "aniId": 52714,
+        "createdAt": "2020-10-12T16:04:02.000Z",
+        "updatedAt": "2021-06-02T18:12:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "r18": {
+        "authors": [
+          "Purapa"
+        ],
+        "identifier": "r18",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "R18!",
+        "url": "https://fanfox.net/manga/r18/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10122/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22714,
+        "aniId": 52714,
+        "createdAt": "2020-12-20T21:56:19.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

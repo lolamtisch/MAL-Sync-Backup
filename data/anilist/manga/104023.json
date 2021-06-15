@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "ダイナー"
+  ],
+  "authors": [
+    "Yumeaki Hirayama",
+    "Takanori Kawai"
+  ],
+  "id": 104023,
+  "malId": 114330,
+  "type": "manga",
+  "title": "DINER",
+  "url": "https://anilist.co/manga/104023",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104023-DSrAU7xs6SuN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:08.000Z",
+  "updatedAt": "2021-05-20T14:57:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "62d96fe4-cfb1-450f-a6f8-119f3528b44b": {
+        "authors": [
+          "Hirayama Yumeaki",
+          "Kawai Takanori"
+        ],
+        "identifier": "62d96fe4-cfb1-450f-a6f8-119f3528b44b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "DINER",
+        "url": "https://mangadex.org/title/62d96fe4-cfb1-450f-a6f8-119f3528b44b",
+        "image": "https://uploads.mangadex.org/covers/62d96fe4-cfb1-450f-a6f8-119f3528b44b/b66e1cdd-fe05-44fb-b332-a79ef4ecb191.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114330,
+        "aniId": 104023,
+        "createdAt": "2020-10-12T16:13:40.000Z",
+        "updatedAt": "2021-06-05T23:06:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ud917575": {
+        "authors": [
+          "Hirayama",
+          "Yumeaki"
+        ],
+        "identifier": "ud917575",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Diner",
+        "url": "https://manganelo.com/manga/ud917575",
+        "image": "https://avt.mkklcdnv6.com/13/y/17-1583495768.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114330,
+        "aniId": 104023,
+        "createdAt": "2020-10-12T16:25:53.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cj980044": {
+        "authors": [
+          "Hirayama Yumeaki",
+          "Kawai Takanori"
+        ],
+        "identifier": "manga-cj980044",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Diner",
+        "url": "https://manganato.com/manga-cj980044",
+        "image": "https://avt.mkklcdnv6temp.com/13/y/17-1583495768.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114330,
+        "aniId": 104023,
+        "createdAt": "2021-06-02T17:02:12.000Z",
+        "updatedAt": "2021-06-02T17:30:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

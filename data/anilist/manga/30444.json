@@ -1,0 +1,129 @@
+{
+  "altTitle": [
+    "BAD COMPANY",
+    "バッドカンパニー"
+  ],
+  "authors": [
+    "Tohru Fujisawa"
+  ],
+  "id": 30444,
+  "malId": 444,
+  "type": "manga",
+  "title": "Bad Company",
+  "url": "https://anilist.co/manga/30444",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30444-DLkMK6su9wCN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "273322f6-cbab-45a1-a7ee-cdace9fed633": {
+        "authors": [
+          "Fujisawa Tohru"
+        ],
+        "identifier": "273322f6-cbab-45a1-a7ee-cdace9fed633",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bad Company",
+        "url": "https://mangadex.org/title/273322f6-cbab-45a1-a7ee-cdace9fed633",
+        "image": "https://uploads.mangadex.org/covers/273322f6-cbab-45a1-a7ee-cdace9fed633/4ac9f643-e950-418f-8de4-d2062afd036b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 444,
+        "aniId": 30444,
+        "createdAt": "2020-10-12T16:04:48.000Z",
+        "updatedAt": "2021-06-02T23:34:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "xz920605": {
+        "authors": [],
+        "identifier": "xz920605",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Keep Me Company, Your Highness",
+        "url": "https://manganelo.com/manga/xz920605",
+        "image": "https://avt.mkklcdnv6.com/25/c/19-1583500097.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 444,
+        "aniId": 30444,
+        "createdAt": "2020-10-12T16:26:18.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      },
+      "bad_company": {
+        "authors": [
+          "Fujisawa",
+          "Tohru"
+        ],
+        "identifier": "bad_company",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bad Company",
+        "url": "https://manganelo.com/manga/bad_company",
+        "image": "https://avt.mkklcdnv6temp.com/16/n/4-1583470342.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 444,
+        "aniId": 30444,
+        "createdAt": "2021-03-22T22:34:52.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bad-company": {
+        "authors": [
+          "FUJISAWA Tohru"
+        ],
+        "identifier": "bad-company",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bad Company",
+        "url": "https://mangasee123.com/manga/Bad-Company",
+        "image": "https://cover.nep.li/cover/Bad-Company.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 444,
+        "aniId": 30444,
+        "createdAt": "2021-01-12T07:20:40.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bad_company": {
+        "authors": [
+          "FUJISAWA Tohru"
+        ],
+        "identifier": "bad_company",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bad Company",
+        "url": "https://fanfox.net/manga/bad_company/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/453/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 444,
+        "aniId": 30444,
+        "createdAt": "2021-01-31T03:02:53.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

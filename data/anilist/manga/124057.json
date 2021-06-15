@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "マザリアン"
+  ],
+  "authors": [
+    "Sakumo Okada"
+  ],
+  "id": 124057,
+  "malId": 129791,
+  "type": "manga",
+  "title": "Mazarian",
+  "url": "https://anilist.co/manga/124057",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124057-fDB9gDtXw5sd.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:29.000Z",
+  "updatedAt": "2021-05-20T14:59:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3bee4ee-9198-4cd9-94dd-163f05b6b29f": {
+        "authors": [
+          "OKADA Sakumo"
+        ],
+        "identifier": "b3bee4ee-9198-4cd9-94dd-163f05b6b29f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mazarian",
+        "url": "https://mangadex.org/title/b3bee4ee-9198-4cd9-94dd-163f05b6b29f",
+        "image": "https://uploads.mangadex.org/covers/b3bee4ee-9198-4cd9-94dd-163f05b6b29f/a775c467-d665-40c7-a4e2-fff3fdbfa1f6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 129791,
+        "aniId": 124057,
+        "createdAt": "2020-10-12T16:21:27.000Z",
+        "updatedAt": "2021-06-08T07:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sp924104": {
+        "authors": [
+          "Okada",
+          "Sakumo"
+        ],
+        "identifier": "sp924104",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mazarian",
+        "url": "https://manganelo.com/manga/sp924104",
+        "image": "https://avt.mkklcdnv6.com/12/g/22-1600052407.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129791,
+        "aniId": 124057,
+        "createdAt": "2020-12-08T07:39:52.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

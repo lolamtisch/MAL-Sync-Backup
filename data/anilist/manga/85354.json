@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "The Wandering Single Wing",
+    "片翼のラビリンス",
+    "Henyoku no Labyrinth"
+  ],
+  "authors": [
+    "Kyouko Kumagai"
+  ],
+  "id": 85354,
+  "malId": 65489,
+  "type": "manga",
+  "title": "Katayoku no Labyrinth",
+  "url": "https://anilist.co/manga/85354",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55354-5ikrSNJPq7Zv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:52.000Z",
+  "updatedAt": "2021-05-20T14:50:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "962cbd34-6816-43ca-8754-256c01ef42c0": {
+        "authors": [
+          "Kumagai Kyoko"
+        ],
+        "identifier": "962cbd34-6816-43ca-8754-256c01ef42c0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Katayoku no Labyrinth",
+        "url": "https://mangadex.org/title/962cbd34-6816-43ca-8754-256c01ef42c0",
+        "image": "https://uploads.mangadex.org/covers/962cbd34-6816-43ca-8754-256c01ef42c0/034801e6-e0ff-4478-a209-1accc341af10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65489,
+        "aniId": 85354,
+        "createdAt": "2020-10-12T16:07:05.000Z",
+        "updatedAt": "2021-06-04T00:11:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "henyoku_no_labyrinth": {
+        "authors": [],
+        "identifier": "henyoku_no_labyrinth",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Henyoku No Labyrinth",
+        "url": "https://manganelo.com/manga/henyoku_no_labyrinth",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/9635-henyoku_no_labyrinth.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65489,
+        "aniId": 85354,
+        "createdAt": "2020-10-12T16:23:18.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "katayoku-no-labyrinth": {
+        "authors": [
+          "KUMAGAI Kyoko"
+        ],
+        "identifier": "katayoku-no-labyrinth",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Katayoku no Labyrinth",
+        "url": "https://mangasee123.com/manga/Katayoku-No-Labyrinth",
+        "image": "https://cover.nep.li/cover/Katayoku-No-Labyrinth.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65489,
+        "aniId": 85354,
+        "createdAt": "2020-12-21T21:56:15.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

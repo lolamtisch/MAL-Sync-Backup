@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ガゴゼ"
+  ],
+  "authors": [
+    "Dong-Shik Ahn"
+  ],
+  "id": 52514,
+  "malId": 22514,
+  "type": "manga",
+  "title": "Gagoze",
+  "url": "https://anilist.co/manga/52514",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22514.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:30.000Z",
+  "updatedAt": "2021-05-20T14:46:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "332c74a6-dfcf-4e11-b576-c119e411190e": {
+        "authors": [
+          "Ahndongshik"
+        ],
+        "identifier": "332c74a6-dfcf-4e11-b576-c119e411190e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gagoze",
+        "url": "https://mangadex.org/title/332c74a6-dfcf-4e11-b576-c119e411190e",
+        "image": "https://uploads.mangadex.org/covers/332c74a6-dfcf-4e11-b576-c119e411190e/b16d1706-4ff1-4d2b-923f-bf5f779dfbea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22514,
+        "aniId": 52514,
+        "createdAt": "2020-10-12T16:05:22.000Z",
+        "updatedAt": "2021-06-03T12:07:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

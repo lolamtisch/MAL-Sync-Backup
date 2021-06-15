@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "トーキョーエイリアンブラザーズ",
+    "T.A.B.",
+    "Tokyo Alien Bros"
+  ],
+  "authors": [
+    "Keigo Shinzo"
+  ],
+  "id": 99061,
+  "malId": 93851,
+  "type": "manga",
+  "title": "Tokyo Alien Brothers",
+  "url": "https://anilist.co/manga/99061",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99061-UtFiSkIOP9Iu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:49.000Z",
+  "updatedAt": "2021-05-20T14:53:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6dc25a7b-0557-4715-9d18-f9466c1cfd16": {
+        "authors": [
+          "Shinzou Keigo"
+        ],
+        "identifier": "6dc25a7b-0557-4715-9d18-f9466c1cfd16",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Alien Brothers",
+        "url": "https://mangadex.org/title/6dc25a7b-0557-4715-9d18-f9466c1cfd16",
+        "image": "https://uploads.mangadex.org/covers/6dc25a7b-0557-4715-9d18-f9466c1cfd16/e513fb65-c151-482b-bceb-42b8bec96e3a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93851,
+        "aniId": 99061,
+        "createdAt": "2020-10-12T16:09:55.000Z",
+        "updatedAt": "2021-06-04T21:03:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tokyo_alien_brothers": {
+        "authors": [
+          "Shinzou",
+          "Keigo"
+        ],
+        "identifier": "tokyo_alien_brothers",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tokyo Alien Brothers",
+        "url": "https://manganelo.com/manga/tokyo_alien_brothers",
+        "image": "https://avt.mkklcdnv6.com/5/z/14-1583489924.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93851,
+        "aniId": 99061,
+        "createdAt": "2020-11-12T01:14:18.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Grand Amour",
+    "グラン・アムール"
+  ],
+  "authors": [
+    "Saitou, Chiho"
+  ],
+  "id": 10904,
+  "type": "manga",
+  "title": "Grand Amour",
+  "url": "https://myanimelist.net/manga/10904/Grand_Amour",
+  "image": "https://cdn.myanimelist.net/images/manga/1/14684.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:30.000Z",
+  "updatedAt": "2021-05-01T01:05:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a7c7fd06-011d-46d5-958b-fc8a8c214ab9": {
+        "authors": [
+          "SHIMA Yuki",
+          "SAITOU Chiho"
+        ],
+        "identifier": "a7c7fd06-011d-46d5-958b-fc8a8c214ab9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rosenkreuz",
+        "url": "https://mangadex.org/title/a7c7fd06-011d-46d5-958b-fc8a8c214ab9",
+        "image": "https://uploads.mangadex.org/covers/a7c7fd06-011d-46d5-958b-fc8a8c214ab9/5ef6e9a6-f0d3-4c96-b326-232e6f63ebd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10904,
+        "aniId": 40904,
+        "createdAt": "2020-10-12T16:04:25.000Z",
+        "updatedAt": "2021-06-02T20:51:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "神様ゲーム",
+    "Kami-sama Game",
+    "The God Game"
+  ],
+  "authors": [
+    "Shuu Miyazaki",
+    "Takumi Yoshimura"
+  ],
+  "id": 40620,
+  "malId": 10620,
+  "type": "manga",
+  "title": "Kamisama Game",
+  "url": "https://anilist.co/manga/40620",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10620.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa": {
+        "authors": [
+          "MIYAZAKI Shuu",
+          "Nanakusa",
+          "YOSHIMURA Takumi"
+        ],
+        "identifier": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamisama Game",
+        "url": "https://mangadex.org/title/52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
+        "image": "https://uploads.mangadex.org/covers/52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa/5b9ebf95-1435-434a-824d-85bb04480d39.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10620,
+        "aniId": 40620,
+        "createdAt": "2020-10-12T16:03:35.000Z",
+        "updatedAt": "2021-06-02T15:04:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "xl923277": {
+        "authors": [],
+        "identifier": "xl923277",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "God Of Game Of God",
+        "url": "https://manganelo.com/manga/xl923277",
+        "image": "https://avt.mkklcdnv6.com/29/e/21-1592301279.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10620,
+        "aniId": 40620,
+        "createdAt": "2020-10-12T16:26:15.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kami_sama_game": {
+        "authors": [
+          "MIYAZAKI Shuu"
+        ],
+        "identifier": "kami_sama_game",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kami-sama Game",
+        "url": "https://fanfox.net/manga/kami_sama_game/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37063/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10620,
+        "aniId": 40620,
+        "createdAt": "2021-03-04T08:20:56.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "altTitle": [
+    "三大陸英雄記",
+    "Heroic Chronicles of the Three Continents",
+    "Santairiku Eiyuuki",
+    "Heroic Chronicles of The Three Continents: Chronicles of Empire Rebuilding with Modern Knowledge",
+    "三大陸英雄記 ~現代知識による帝国再建記~",
+    "三大陸英雄"
+  ],
+  "authors": [
+    "Yuu Kamiya",
+    "Sakura Sakuragi",
+    "Kaito Shibano"
+  ],
+  "id": 127307,
+  "malId": 123455,
+  "type": "manga",
+  "title": "San Tairiku Eiyuuki",
+  "url": "https://anilist.co/manga/127307",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127307-2JDZUFzTX48q.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:00.000Z",
+  "updatedAt": "2021-05-20T14:59:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "69b96982-259f-46e9-a558-438d616b7996": {
+        "authors": [
+          "Sakuragi Sakura",
+          "Kamiya Yuu"
+        ],
+        "identifier": "69b96982-259f-46e9-a558-438d616b7996",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heroic Chronicles of the Three Continents",
+        "url": "https://mangadex.org/title/69b96982-259f-46e9-a558-438d616b7996",
+        "image": "https://uploads.mangadex.org/covers/69b96982-259f-46e9-a558-438d616b7996/6dc490e1-307c-4c83-a6a8-589802902084.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123455,
+        "aniId": 127307,
+        "createdAt": "2020-10-12T16:20:47.000Z",
+        "updatedAt": "2021-06-08T00:56:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mp924903": {
+        "authors": [
+          "Kamiya",
+          "Yuu"
+        ],
+        "identifier": "mp924903",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Heroic Chronicles Of The Three Continents",
+        "url": "https://manganelo.com/manga/mp924903",
+        "image": "https://avt.mkklcdnv6temp.com/45/c/22-1607750387.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123455,
+        "aniId": 127307,
+        "createdAt": "2020-12-12T09:48:13.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

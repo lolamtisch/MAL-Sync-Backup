@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "したいからスルの",
+    "Because I want to do",
+    "it is",
+    "I Do It Because I Want To",
+    "Melt"
+  ],
+  "authors": [
+    "Cuvie"
+  ],
+  "id": 41580,
+  "malId": 11580,
+  "type": "manga",
+  "title": "Shitai kara Suru no",
+  "url": "https://anilist.co/manga/41580",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11580.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:42:11.000Z",
+  "updatedAt": "2021-05-20T14:42:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e110cfeb-f8ea-4d20-bbc0-680031167a0b": {
+        "authors": [
+          "Cuvie"
+        ],
+        "identifier": "e110cfeb-f8ea-4d20-bbc0-680031167a0b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shitai Kara Suru no",
+        "url": "https://mangadex.org/title/e110cfeb-f8ea-4d20-bbc0-680031167a0b",
+        "image": "https://uploads.mangadex.org/covers/e110cfeb-f8ea-4d20-bbc0-680031167a0b/2ced44e4-dce1-4933-bae6-02587c208513.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11580,
+        "aniId": 41580,
+        "createdAt": "2020-10-12T16:16:24.000Z",
+        "updatedAt": "2021-06-06T22:09:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

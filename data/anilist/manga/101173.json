@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ファラ夫",
+    "Pharaoh"
+  ],
+  "authors": [
+    "Hiroto Wada"
+  ],
+  "id": 101173,
+  "malId": 111459,
+  "type": "manga",
+  "title": "Fara Otto",
+  "url": "https://anilist.co/manga/101173",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101173-SWwDix0IBuAA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:48.000Z",
+  "updatedAt": "2021-05-20T14:56:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cf7431df-7015-4978-8823-a8c2dd798ecd": {
+        "authors": [
+          "Wada Hiroto"
+        ],
+        "identifier": "cf7431df-7015-4978-8823-a8c2dd798ecd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pharaoh",
+        "url": "https://mangadex.org/title/cf7431df-7015-4978-8823-a8c2dd798ecd",
+        "image": "https://uploads.mangadex.org/covers/cf7431df-7015-4978-8823-a8c2dd798ecd/ba5c7e15-e99a-4c91-92e4-256c9e69fef2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111459,
+        "aniId": 101173,
+        "createdAt": "2020-10-12T16:11:47.000Z",
+        "updatedAt": "2021-06-05T11:02:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

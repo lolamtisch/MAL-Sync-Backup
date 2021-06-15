@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "DOUBLE HOUND"
+  ],
+  "authors": [
+    "Haji"
+  ],
+  "id": 96043,
+  "type": "manga",
+  "title": "Double Hound",
+  "url": "https://myanimelist.net/manga/96043/Double_Hound",
+  "image": "https://cdn.myanimelist.net/images/manga/3/171262.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:24.000Z",
+  "updatedAt": "2021-06-04T17:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9661c8cb-274d-414e-bdfc-ff068efa2089": {
+        "authors": [
+          "Haji"
+        ],
+        "identifier": "9661c8cb-274d-414e-bdfc-ff068efa2089",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Double Hound",
+        "url": "https://mangadex.org/title/9661c8cb-274d-414e-bdfc-ff068efa2089",
+        "image": "https://uploads.mangadex.org/covers/9661c8cb-274d-414e-bdfc-ff068efa2089/3980fe97-4dae-45b6-b272-93c542ec5556.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 96043,
+        "aniId": 96753,
+        "createdAt": "2020-10-12T16:09:27.000Z",
+        "updatedAt": "2021-06-04T18:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "puchi_houndo": {
+        "authors": [],
+        "identifier": "puchi_houndo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Puchi Houndo",
+        "url": "https://manganelo.com/manga/puchi_houndo",
+        "image": "https://avt.mkklcdnv6.com/27/p/10-1583483170.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96043,
+        "aniId": 96753,
+        "createdAt": "2020-10-12T16:24:55.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

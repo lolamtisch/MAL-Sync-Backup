@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "D.P"
+  ],
+  "id": 56035,
+  "malId": 26035,
+  "type": "manga",
+  "title": "Boy Meets Girl!",
+  "url": "https://anilist.co/manga/56035",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/26035.jpg",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:58.000Z",
+  "updatedAt": "2021-05-20T14:46:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b91759a3-dd2c-4edb-ba2b-9afd608c6ef1": {
+        "authors": [
+          "Dr.P"
+        ],
+        "identifier": "b91759a3-dd2c-4edb-ba2b-9afd608c6ef1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boy Meets Girl",
+        "url": "https://mangadex.org/title/b91759a3-dd2c-4edb-ba2b-9afd608c6ef1",
+        "image": "https://uploads.mangadex.org/covers/b91759a3-dd2c-4edb-ba2b-9afd608c6ef1/32aabad9-58c0-43df-b271-a8b9861cb7c0.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26035,
+        "aniId": 56035,
+        "createdAt": "2020-10-12T16:17:50.000Z",
+        "updatedAt": "2021-06-07T11:22:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

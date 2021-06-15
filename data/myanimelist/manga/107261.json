@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "けものみち"
+  ],
+  "authors": [
+    "Yumeuta",
+    "Mattaku, Mosuke",
+    "Akatsuki, Natsume"
+  ],
+  "id": 107261,
+  "type": "manga",
+  "title": "Kemono Michi",
+  "url": "https://myanimelist.net/manga/107261/Kemono_Michi",
+  "image": "https://cdn.myanimelist.net/images/manga/1/196370.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:06.000Z",
+  "updatedAt": "2021-06-15T06:57:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6a80c457-cea3-49a5-9a60-0ee0e5ad4cb5": {
+        "authors": [
+          "Mattaku Moosuke",
+          "Akatsuki Natsume",
+          "Yumeuta"
+        ],
+        "identifier": "6a80c457-cea3-49a5-9a60-0ee0e5ad4cb5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kemono Michi",
+        "url": "https://mangadex.org/title/6a80c457-cea3-49a5-9a60-0ee0e5ad4cb5",
+        "image": "https://uploads.mangadex.org/covers/6a80c457-cea3-49a5-9a60-0ee0e5ad4cb5/6a001e75-1745-4d20-8351-496c728f1e2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107261,
+        "aniId": 103843,
+        "createdAt": "2020-10-12T16:13:38.000Z",
+        "updatedAt": "2021-06-05T22:57:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kemono_michi_natsume_akatsuki": {
+        "authors": [],
+        "identifier": "kemono_michi_natsume_akatsuki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kemono Michi (Natsume Akatsuki)",
+        "url": "https://manganelo.com/manga/kemono_michi_natsume_akatsuki",
+        "image": "https://avt.mkklcdnv6.com/6/i/17-1583495489.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107261,
+        "aniId": 103843,
+        "createdAt": "2020-10-12T16:23:52.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kemono-michi-akatsuki-natsume": {
+        "authors": [
+          "AKATSUKI Natsume",
+          "MATTAKU Moosuke"
+        ],
+        "identifier": "kemono-michi-akatsuki-natsume",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kemono Michi (AKATSUKI Natsume)",
+        "url": "https://mangasee123.com/manga/Kemono-Michi-AKATSUKI-Natsume",
+        "image": "https://cover.nep.li/cover/Kemono-Michi-AKATSUKI-Natsume.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 107261,
+        "aniId": 103843,
+        "createdAt": "2020-12-31T12:48:28.000Z",
+        "updatedAt": "2021-06-15T07:27:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

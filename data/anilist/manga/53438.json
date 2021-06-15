@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "クロスデイズ"
+  ],
+  "authors": [
+    "Homare Sakazuki"
+  ],
+  "id": 53438,
+  "malId": 23438,
+  "type": "manga",
+  "title": "Cross Days",
+  "url": "https://anilist.co/manga/53438",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53438-dzlUF202skvz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:37.000Z",
+  "updatedAt": "2021-05-20T14:46:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "92de4e14-aba2-402c-8fdd-533de10c88ce": {
+        "authors": [
+          "SAKAZUKI Homare"
+        ],
+        "identifier": "92de4e14-aba2-402c-8fdd-533de10c88ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cross Days",
+        "url": "https://mangadex.org/title/92de4e14-aba2-402c-8fdd-533de10c88ce",
+        "image": "https://uploads.mangadex.org/covers/92de4e14-aba2-402c-8fdd-533de10c88ce/d6a92cea-16fc-4d22-8542-d570f7eb3ca7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23438,
+        "aniId": 53438,
+        "createdAt": "2020-10-12T16:03:36.000Z",
+        "updatedAt": "2021-06-02T15:13:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cross-days": {
+        "authors": [
+          "Overflow",
+          "SAKAZUKI Homare"
+        ],
+        "identifier": "cross-days",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cross Days",
+        "url": "https://mangasee123.com/manga/Cross-Days",
+        "image": "https://cover.nep.li/cover/Cross-Days.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23438,
+        "aniId": 53438,
+        "createdAt": "2021-03-23T22:15:41.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

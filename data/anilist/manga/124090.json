@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "어린 상사",
+    "Young Boss"
+  ],
+  "authors": [
+    "Bokko",
+    " Hagyong Gong"
+  ],
+  "id": 124090,
+  "malId": null,
+  "type": "manga",
+  "title": "Eorin Sangsa",
+  "url": "https://anilist.co/manga/124090",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b124090-ALya6arDXJsN.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-24T06:08:17.000Z",
+  "updatedAt": "2021-06-08T03:21:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f7884ed6-167e-4e30-9029-db51ff2e16f0": {
+        "authors": [
+          "복코",
+          "공하굥"
+        ],
+        "identifier": "f7884ed6-167e-4e30-9029-db51ff2e16f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Young Boss",
+        "url": "https://mangadex.org/title/f7884ed6-167e-4e30-9029-db51ff2e16f0",
+        "image": "https://uploads.mangadex.org/covers/f7884ed6-167e-4e30-9029-db51ff2e16f0/6b8d9495-a3ce-4302-9170-a3c7893948cf.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 124090,
+        "createdAt": "2020-10-12T16:21:45.000Z",
+        "updatedAt": "2021-06-08T06:57:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

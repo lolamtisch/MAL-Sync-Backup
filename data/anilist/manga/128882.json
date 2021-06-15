@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Jungle Juice",
+    "정글쥬스"
+  ],
+  "authors": [
+    "JUDER",
+    "In-Wan Youn"
+  ],
+  "id": 128882,
+  "malId": null,
+  "type": "manga",
+  "title": "Jungle Juice",
+  "url": "https://anilist.co/manga/128882",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128882-UxgmKbYEjuEz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-24T23:08:17.000Z",
+  "updatedAt": "2021-06-08T01:52:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80d288be-bdb9-4637-804e-02b2f89ad2d8": {
+        "authors": [
+          "JUDER",
+          "YOUN In-Wan"
+        ],
+        "identifier": "80d288be-bdb9-4637-804e-02b2f89ad2d8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jungle Juice",
+        "url": "https://mangadex.org/title/80d288be-bdb9-4637-804e-02b2f89ad2d8",
+        "image": "https://uploads.mangadex.org/covers/80d288be-bdb9-4637-804e-02b2f89ad2d8/076cbe45-ccb4-4621-9796-f73fb3d03f92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 128882,
+        "createdAt": "2021-01-03T04:49:30.000Z",
+        "updatedAt": "2021-06-08T10:41:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "jungle-juice": {
+        "authors": [
+          "HYEONG EUN",
+          "JUDER"
+        ],
+        "identifier": "jungle-juice",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Jungle Juice",
+        "url": "https://mangasee123.com/manga/Jungle-Juice",
+        "image": "https://cover.nep.li/cover/Jungle-Juice.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 128882,
+        "createdAt": "2021-03-16T03:02:50.000Z",
+        "updatedAt": "2021-05-26T01:08:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

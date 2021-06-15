@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "坊主と蜘蛛",
+    "Ouji to Tako",
+    "Buddhist priest and spider",
+    "Mnich i pająk"
+  ],
+  "authors": [
+    "Haji"
+  ],
+  "id": 99798,
+  "malId": 96163,
+  "type": "manga",
+  "title": "Bouzu to Kumo",
+  "url": "https://anilist.co/manga/99798",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99798-6hk4zBWbsjob.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:54:02.000Z",
+  "updatedAt": "2021-05-20T14:54:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6e9c867-3671-4a84-a070-ba7e2f61adad": {
+        "authors": [
+          "Haji"
+        ],
+        "identifier": "d6e9c867-3671-4a84-a070-ba7e2f61adad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bouzu to Kumo",
+        "url": "https://mangadex.org/title/d6e9c867-3671-4a84-a070-ba7e2f61adad",
+        "image": "https://uploads.mangadex.org/covers/d6e9c867-3671-4a84-a070-ba7e2f61adad/a5648673-72b7-408e-9c8b-9c77e8280ecc.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96163,
+        "aniId": 99798,
+        "createdAt": "2020-10-12T16:13:50.000Z",
+        "updatedAt": "2021-06-06T00:29:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bouzu_to_kumo": {
+        "authors": [
+          "Haji"
+        ],
+        "identifier": "bouzu_to_kumo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bouzu to Kumo",
+        "url": "https://fanfox.net/manga/bouzu_to_kumo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28403/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96163,
+        "aniId": 99798,
+        "createdAt": "2021-04-07T20:51:40.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

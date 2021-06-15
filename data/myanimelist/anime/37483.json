@@ -1,0 +1,53 @@
+{
+  "altTitle": [
+    "BEAN BANDIT"
+  ],
+  "id": 37483,
+  "type": "anime",
+  "title": "Bean Bandit",
+  "url": "https://myanimelist.net/anime/37483/Bean_Bandit",
+  "image": "https://cdn.myanimelist.net/images/anime/1651/93298.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:01.000Z",
+  "updatedAt": "2021-03-03T21:51:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "8643": {
+        "identifier": "8643",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bean Bandit Special Video",
+        "url": "https://www12.9anime.to/watch/bean-bandit-special-video.8643",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8d/8d67b33bc7e1c4c08ae88759e5158aad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 37483,
+        "aniId": 104329,
+        "createdAt": "2021-03-10T10:18:36.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "mrrv": {
+        "identifier": "mrrv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bean Bandit",
+        "url": "https://9anime.ru/watch/bean-bandit.mrrv",
+        "image": "https://static.akacdn.ru/static/images/2018/08/b979ce530c3a6eea5a83bbd43a5c7abb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37483,
+        "aniId": 104329,
+        "createdAt": "2020-10-12T15:53:36.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

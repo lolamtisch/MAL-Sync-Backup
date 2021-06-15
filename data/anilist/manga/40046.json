@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "カテキン",
+    "Catechin"
+  ],
+  "authors": [
+    "Makoto Ojiro"
+  ],
+  "id": 40046,
+  "malId": 10046,
+  "type": "manga",
+  "title": "Katekin",
+  "url": "https://anilist.co/manga/40046",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40046-tXi79ZHUrDxm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "104904d5-e3c4-4c1c-8941-0fa87c0e5a5f": {
+        "authors": [
+          "Ojiro Makoto"
+        ],
+        "identifier": "104904d5-e3c4-4c1c-8941-0fa87c0e5a5f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Katekin",
+        "url": "https://mangadex.org/title/104904d5-e3c4-4c1c-8941-0fa87c0e5a5f",
+        "image": "https://uploads.mangadex.org/covers/104904d5-e3c4-4c1c-8941-0fa87c0e5a5f/b75942e0-8ede-407f-be17-59f0723c33c4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10046,
+        "aniId": 40046,
+        "createdAt": "2020-10-12T16:03:08.000Z",
+        "updatedAt": "2021-06-02T11:56:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "katekin": {
+        "authors": [],
+        "identifier": "katekin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Katekin",
+        "url": "https://manganelo.com/manga/katekin",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1544-katekin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10046,
+        "aniId": 40046,
+        "createdAt": "2020-10-12T16:23:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "katekin": {
+        "authors": [
+          "OJIRO Makoto"
+        ],
+        "identifier": "katekin",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Katekin",
+        "url": "https://mangasee123.com/manga/Katekin",
+        "image": "https://cover.nep.li/cover/Katekin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10046,
+        "aniId": 40046,
+        "createdAt": "2021-01-06T20:05:54.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "鬼幕",
+    "Grave Robber",
+    "Grave Digger",
+    "Ghostly Grave"
+  ],
+  "authors": [
+    "Hoiyaie Ha",
+    "Wing Shing Ma"
+  ],
+  "id": 38750,
+  "malId": 8750,
+  "type": "manga",
+  "title": "Gui Mo",
+  "url": "https://anilist.co/manga/38750",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8750.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b94dc367-174b-48d1-81b5-c6faef2f77d2": {
+        "authors": [
+          "Ma Wing-Shing",
+          "Ha Hoiyaie"
+        ],
+        "identifier": "b94dc367-174b-48d1-81b5-c6faef2f77d2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gui Mo",
+        "url": "https://mangadex.org/title/b94dc367-174b-48d1-81b5-c6faef2f77d2",
+        "image": "https://uploads.mangadex.org/covers/b94dc367-174b-48d1-81b5-c6faef2f77d2/4f49136f-d8e2-450e-aade-e79e37dbcaff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8750,
+        "aniId": 38750,
+        "createdAt": "2020-10-12T16:11:42.000Z",
+        "updatedAt": "2021-06-05T10:28:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

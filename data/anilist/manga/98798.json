@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "きょうだいのルール。",
+    "The Rule of Brothers"
+  ],
+  "authors": [
+    "Kei Kanai"
+  ],
+  "id": 98798,
+  "malId": 91162,
+  "type": "manga",
+  "title": "Kyoudai no Rule.",
+  "url": "https://anilist.co/manga/98798",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98798-aawglbVZizOI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:08.000Z",
+  "updatedAt": "2021-05-20T14:53:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c55be0f-fc48-4ab4-a315-d985cf54bf89": {
+        "authors": [
+          "Kanai Kei"
+        ],
+        "identifier": "6c55be0f-fc48-4ab4-a315-d985cf54bf89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyoudai no Rule.",
+        "url": "https://mangadex.org/title/6c55be0f-fc48-4ab4-a315-d985cf54bf89",
+        "image": "https://uploads.mangadex.org/covers/6c55be0f-fc48-4ab4-a315-d985cf54bf89/d4ca4a0e-b4b9-4243-8820-2bf8bc45153c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 91162,
+        "aniId": 98798,
+        "createdAt": "2020-10-12T16:08:43.000Z",
+        "updatedAt": "2021-06-04T12:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kyoudai_no_rule": {
+        "authors": [],
+        "identifier": "kyoudai_no_rule",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kyoudai No Rule.",
+        "url": "https://manganelo.com/manga/kyoudai_no_rule",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2630-kyoudai_no_rule.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91162,
+        "aniId": 98798,
+        "createdAt": "2020-10-12T16:24:04.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyoudai_no_rule": {
+        "authors": [
+          "KANAI Kei"
+        ],
+        "identifier": "kyoudai_no_rule",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyoudai no Rule.",
+        "url": "https://fanfox.net/manga/kyoudai_no_rule/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16273/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91162,
+        "aniId": 98798,
+        "createdAt": "2021-03-28T12:49:48.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

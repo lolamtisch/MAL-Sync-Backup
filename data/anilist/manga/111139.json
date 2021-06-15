@@ -1,0 +1,110 @@
+{
+  "altTitle": [
+    "ドクザクラ",
+    "Poison Cherry"
+  ],
+  "authors": [
+    "MITA",
+    "Yammy Yamamoto"
+  ],
+  "id": 111139,
+  "malId": 122355,
+  "type": "manga",
+  "title": "Dokuzakura",
+  "url": "https://anilist.co/manga/111139",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111139-qiYcu6CHxmKy.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:28.000Z",
+  "updatedAt": "2021-05-20T14:58:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7bee38c3-6bb9-4e8d-a213-bcb87f7d6325": {
+        "authors": [
+          "Yamamoto Yamii",
+          "MITA"
+        ],
+        "identifier": "7bee38c3-6bb9-4e8d-a213-bcb87f7d6325",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dokuzakura",
+        "url": "https://mangadex.org/title/7bee38c3-6bb9-4e8d-a213-bcb87f7d6325",
+        "image": "https://uploads.mangadex.org/covers/7bee38c3-6bb9-4e8d-a213-bcb87f7d6325/1507d227-0125-411d-8dad-92419aa97878.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122355,
+        "aniId": 111139,
+        "createdAt": "2020-10-12T16:16:54.000Z",
+        "updatedAt": "2021-06-07T03:04:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ql920170": {
+        "authors": [],
+        "identifier": "ql920170",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dokuzakura",
+        "url": "https://manganelo.com/manga/ql920170",
+        "image": "https://avt.mkklcdnv6.com/9/b/19-1583499431.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122355,
+        "aniId": 111139,
+        "createdAt": "2020-10-12T16:24:58.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dokuzakura": {
+        "authors": [
+          "Mita"
+        ],
+        "identifier": "dokuzakura",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dokuzakura",
+        "url": "https://fanfox.net/manga/dokuzakura/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33538/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122355,
+        "aniId": 111139,
+        "createdAt": "2020-12-20T21:26:05.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fe982639": {
+        "authors": [
+          "Mita"
+        ],
+        "identifier": "manga-fe982639",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dokuzakura",
+        "url": "https://manganato.com/manga-fe982639",
+        "image": "https://avt.mkklcdnv6temp.com/9/b/19-1583499431.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122355,
+        "aniId": 111139,
+        "createdAt": "2021-05-29T05:15:29.000Z",
+        "updatedAt": "2021-05-29T05:42:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

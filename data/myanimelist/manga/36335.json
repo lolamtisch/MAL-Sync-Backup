@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "湯けむりジャーニー"
+  ],
+  "authors": [
+    "Mio, Junta"
+  ],
+  "id": 36335,
+  "type": "manga",
+  "title": "Yukemuri Journey",
+  "url": "https://myanimelist.net/manga/36335/Yukemuri_Journey",
+  "image": "https://cdn.myanimelist.net/images/manga/2/65663.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:00.000Z",
+  "updatedAt": "2021-06-04T11:20:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ead4dc73-38cb-4f4a-b1d8-082011b7fabd": {
+        "authors": [
+          "Mio Junta"
+        ],
+        "identifier": "ead4dc73-38cb-4f4a-b1d8-082011b7fabd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yukemuri Journey",
+        "url": "https://mangadex.org/title/ead4dc73-38cb-4f4a-b1d8-082011b7fabd",
+        "image": "https://uploads.mangadex.org/covers/ead4dc73-38cb-4f4a-b1d8-082011b7fabd/6fff0b9c-7eff-4825-9a9b-8841ad663e49.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36335,
+        "aniId": 66335,
+        "createdAt": "2020-10-12T16:08:35.000Z",
+        "updatedAt": "2021-06-04T12:49:16.000Z",
+        "deletedAt": null
+      },
+      "9cd2b05c-ca51-4ddc-b29c-bed8144a59a5": {
+        "authors": [
+          "Spica (Circle)",
+          "Kazepana"
+        ],
+        "identifier": "9cd2b05c-ca51-4ddc-b29c-bed8144a59a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Live! - Tsukiyo wa Yukemuri no Naka ni (Doujinshi)",
+        "url": "https://mangadex.org/title/9cd2b05c-ca51-4ddc-b29c-bed8144a59a5",
+        "image": "https://uploads.mangadex.org/covers/9cd2b05c-ca51-4ddc-b29c-bed8144a59a5/2de2221f-9ef7-40f5-82db-6a79b8bbd664.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36335,
+        "aniId": 66335,
+        "createdAt": "2020-10-12T16:19:42.000Z",
+        "updatedAt": "2021-06-07T22:30:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

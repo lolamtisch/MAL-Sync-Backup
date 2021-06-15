@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "モデルちゃんと地味マネさん",
+    "Model and Quiet Manager"
+  ],
+  "authors": [
+    "Taneko"
+  ],
+  "id": 104636,
+  "malId": 134630,
+  "type": "manga",
+  "title": "Model-chan to Jimi Mane-san",
+  "url": "https://anilist.co/manga/104636",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104636-8maVrXl7atdQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T11:48:58.000Z",
+  "updatedAt": "2021-06-05T11:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1618b5d8-3a74-4390-8e94-b3b0248b3588": {
+        "authors": [
+          "Taneko"
+        ],
+        "identifier": "1618b5d8-3a74-4390-8e94-b3b0248b3588",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Model and Quiet Manager",
+        "url": "https://mangadex.org/title/1618b5d8-3a74-4390-8e94-b3b0248b3588",
+        "image": "https://uploads.mangadex.org/covers/1618b5d8-3a74-4390-8e94-b3b0248b3588/338c0a77-c52c-4e7d-9634-90d29fdf6d8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134630,
+        "aniId": 104636,
+        "createdAt": "2020-10-12T16:20:48.000Z",
+        "updatedAt": "2021-06-08T01:36:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

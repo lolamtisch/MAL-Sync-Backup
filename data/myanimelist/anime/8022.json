@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "Letter Bee Academy",
+    "Tegami Bachi Specials",
+    "Letter Bee Specials",
+    "テガミバチ学園"
+  ],
+  "id": 8022,
+  "type": "anime",
+  "title": "Tegamibachi Gakuen",
+  "url": "https://myanimelist.net/anime/8022/Tegamibachi_Gakuen",
+  "image": "https://cdn.myanimelist.net/images/anime/4/19573.jpg",
+  "category": "Special",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2021-06-09T10:06:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "v3ql": {
+        "identifier": "v3ql",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Letter Bee Academy",
+        "url": "https://9anime.ru/watch/letter-bee-academy.v3ql",
+        "image": "http://static.akacdn.ru/static/images/2018/05/220202dbcb3f6dff8bb70b0708b61215.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8022,
+        "aniId": 8022,
+        "createdAt": "2020-10-12T15:55:47.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tegamibachi-gakuen": {
+        "identifier": "tegamibachi-gakuen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tegamibachi Gakuen",
+        "url": "https://gogoanime.ai/category/tegamibachi-gakuen",
+        "image": "https://gogocdn.net/cover/tegamibachi-gakuen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8022,
+        "aniId": 8022,
+        "createdAt": "2021-06-09T10:06:00.000Z",
+        "updatedAt": "2021-06-09T10:34:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

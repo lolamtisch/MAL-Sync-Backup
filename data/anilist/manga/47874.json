@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "天翔の龍馬",
+    "Ryoma Sakamoto",
+    "Ryoma",
+    "Tenshou no Ryoma",
+    "Tenshou no Ryuma"
+  ],
+  "authors": [
+    "Eiji Hashimoto",
+    "Shinya Umemura"
+  ],
+  "id": 47874,
+  "malId": 17874,
+  "type": "manga",
+  "title": "Tenshou no Ryuuma",
+  "url": "https://anilist.co/manga/47874",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47874-CPSQSI0BXdE7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:12.000Z",
+  "updatedAt": "2021-05-20T14:44:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce65bc7b-e8de-4f1e-b581-f7ee356ea88c": {
+        "authors": [
+          "Umemura Shinya",
+          "Hashimoto Eiji"
+        ],
+        "identifier": "ce65bc7b-e8de-4f1e-b581-f7ee356ea88c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenshou no Ryoma",
+        "url": "https://mangadex.org/title/ce65bc7b-e8de-4f1e-b581-f7ee356ea88c",
+        "image": "https://uploads.mangadex.org/covers/ce65bc7b-e8de-4f1e-b581-f7ee356ea88c/26ad5441-9ab1-41f4-bcd7-2d769ecaceb2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17874,
+        "aniId": 47874,
+        "createdAt": "2020-10-12T16:03:28.000Z",
+        "updatedAt": "2021-06-02T14:16:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tenshou_no_ryoma": {
+        "authors": [],
+        "identifier": "tenshou_no_ryoma",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tenshou No Ryoma",
+        "url": "https://manganelo.com/manga/tenshou_no_ryoma",
+        "image": "https://avt.mkklcdnv6.com/34/i/11-1583485247.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17874,
+        "aniId": 47874,
+        "createdAt": "2020-10-12T16:25:40.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

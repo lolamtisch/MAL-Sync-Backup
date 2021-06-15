@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "かごめかごめ"
+  ],
+  "authors": [
+    "Toshiki Yui"
+  ],
+  "id": 31682,
+  "malId": 1682,
+  "type": "manga",
+  "title": "Kagome Kagome",
+  "url": "https://anilist.co/manga/31682",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1682.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "895b1a97-f15d-4ead-bbd5-677a85a24cfa": {
+        "authors": [
+          "Yui Toshiki"
+        ],
+        "identifier": "895b1a97-f15d-4ead-bbd5-677a85a24cfa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kagome Kagome",
+        "url": "https://mangadex.org/title/895b1a97-f15d-4ead-bbd5-677a85a24cfa",
+        "image": "https://uploads.mangadex.org/covers/895b1a97-f15d-4ead-bbd5-677a85a24cfa/7c381d4e-941f-4861-94cf-2a336df43362.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1682,
+        "aniId": 31682,
+        "createdAt": "2020-10-12T16:04:52.000Z",
+        "updatedAt": "2021-06-03T00:06:13.000Z",
+        "deletedAt": null
+      },
+      "fdf30cca-5595-4cba-8ad4-970500f1dd6c": {
+        "authors": [
+          "Tsugumi",
+          "Sozoro (Circle)"
+        ],
+        "identifier": "fdf30cca-5595-4cba-8ad4-970500f1dd6c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou - Kagome Kagome, Kago no Naka no Suzuya (Doujinshi)",
+        "url": "https://mangadex.org/title/fdf30cca-5595-4cba-8ad4-970500f1dd6c",
+        "image": "https://uploads.mangadex.org/covers/fdf30cca-5595-4cba-8ad4-970500f1dd6c/35af2655-5286-4cc0-8451-b4a81abb5f48.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1682,
+        "aniId": 31682,
+        "createdAt": "2020-10-12T16:17:35.000Z",
+        "updatedAt": "2021-06-07T08:56:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kagome_kagome": {
+        "authors": [
+          "Yui",
+          "Toshiki"
+        ],
+        "identifier": "kagome_kagome",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kagome Kagome",
+        "url": "https://manganelo.com/manga/kagome_kagome",
+        "image": "https://avt.mkklcdnv6temp.com/49/h/10-1583483956.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1682,
+        "aniId": 31682,
+        "createdAt": "2021-04-04T20:08:47.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

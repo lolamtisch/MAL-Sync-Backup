@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "月下の君",
+    "Gekka no Kimi: The Moonlight Prince",
+    "The Moonlight Prince"
+  ],
+  "authors": [
+    "Ako Shimaki",
+    "Murasaki Shikibu"
+  ],
+  "id": 31573,
+  "malId": 1573,
+  "type": "manga",
+  "title": "Gekka no Kimi",
+  "url": "https://anilist.co/manga/31573",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1573.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:47.000Z",
+  "updatedAt": "2021-05-20T14:36:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4a7953c3-1c20-439b-b179-1b492ac80970": {
+        "authors": [
+          "Shimaki Ako"
+        ],
+        "identifier": "4a7953c3-1c20-439b-b179-1b492ac80970",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gekka no Kimi",
+        "url": "https://mangadex.org/title/4a7953c3-1c20-439b-b179-1b492ac80970",
+        "image": "https://uploads.mangadex.org/covers/4a7953c3-1c20-439b-b179-1b492ac80970/07b29c66-70c8-4fdd-a84f-fd0e58cf48f9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1573,
+        "aniId": 31573,
+        "createdAt": "2020-10-12T16:03:50.000Z",
+        "updatedAt": "2021-06-02T16:47:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "フィンガースティンガー"
+  ],
+  "authors": [
+    "Doppelgangers!"
+  ],
+  "id": 42912,
+  "malId": 12912,
+  "type": "manga",
+  "title": "Finger Stinger",
+  "url": "https://anilist.co/manga/42912",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12912.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:26.000Z",
+  "updatedAt": "2021-05-20T14:42:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f9394b6-3936-4b29-adc6-c1a806d93e79": {
+        "authors": [
+          "Doppelgangers!"
+        ],
+        "identifier": "8f9394b6-3936-4b29-adc6-c1a806d93e79",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Finger Stinger",
+        "url": "https://mangadex.org/title/8f9394b6-3936-4b29-adc6-c1a806d93e79",
+        "image": "https://uploads.mangadex.org/covers/8f9394b6-3936-4b29-adc6-c1a806d93e79/d15e503a-bce5-4e20-8bce-72af80059b05.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12912,
+        "aniId": 42912,
+        "createdAt": "2020-12-01T23:52:43.000Z",
+        "updatedAt": "2021-06-08T08:04:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "finger_stinger": {
+        "authors": [
+          "Doppelgangers!"
+        ],
+        "identifier": "finger_stinger",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Finger Stinger",
+        "url": "https://fanfox.net/manga/finger_stinger/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5501/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12912,
+        "aniId": 42912,
+        "createdAt": "2021-05-20T21:48:21.000Z",
+        "updatedAt": "2021-05-20T22:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

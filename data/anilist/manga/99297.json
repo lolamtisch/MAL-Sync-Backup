@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "明日、きみに会えたら",
+    "If We Can Meet Tomorrow",
+    "Tomorrow I will tell you \"I love you\""
+  ],
+  "authors": [
+    "Hibiki Aoto"
+  ],
+  "id": 99297,
+  "malId": 105948,
+  "type": "manga",
+  "title": "Ashita, Kimi ni Aetara",
+  "url": "https://anilist.co/manga/99297",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99297-IX9wkzg95gVU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:44.000Z",
+  "updatedAt": "2021-05-20T14:55:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4e029573-332f-4edd-b8e5-e42e19ca599c": {
+        "authors": [
+          "Aoto Hibiki"
+        ],
+        "identifier": "4e029573-332f-4edd-b8e5-e42e19ca599c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ashita, Kimi ni Aetara",
+        "url": "https://mangadex.org/title/4e029573-332f-4edd-b8e5-e42e19ca599c",
+        "image": "https://uploads.mangadex.org/covers/4e029573-332f-4edd-b8e5-e42e19ca599c/9097842f-9dd3-406c-b887-eac4180bc7c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105948,
+        "aniId": 99297,
+        "createdAt": "2020-10-12T16:11:50.000Z",
+        "updatedAt": "2021-06-05T11:25:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ashita_kimi_ni_aetara": {
+        "authors": [],
+        "identifier": "ashita_kimi_ni_aetara",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ashita, Kimi Ni Aetara",
+        "url": "https://manganelo.com/manga/ashita_kimi_ni_aetara",
+        "image": "https://avt.mkklcdnv6.com/28/x/15-1583492530.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105948,
+        "aniId": 99297,
+        "createdAt": "2020-10-12T16:22:09.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

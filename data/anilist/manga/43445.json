@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "Alice's 100 Degrees Cc",
+    "アリスのひゃくどしーしー",
+    "A Cup of Alice's Warmth",
+    "Alice no Hyakudo CC",
+    "Alice's 100 Degrees Cubic Centimeter",
+    "Alice's 100 Degrees Pee Pee"
+  ],
+  "authors": [
+    "Chizuna Nakajima"
+  ],
+  "id": 43445,
+  "malId": 13445,
+  "type": "manga",
+  "title": "Alice no 100°Cc",
+  "url": "https://anilist.co/manga/43445",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13445.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:35.000Z",
+  "updatedAt": "2021-05-20T14:42:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc86d6fe-c66e-4fcb-8484-99e0f17b1af4": {
+        "authors": [
+          "Chizuna Nakajima"
+        ],
+        "identifier": "fc86d6fe-c66e-4fcb-8484-99e0f17b1af4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice no Hyakudo CC",
+        "url": "https://mangadex.org/title/fc86d6fe-c66e-4fcb-8484-99e0f17b1af4",
+        "image": "https://uploads.mangadex.org/covers/fc86d6fe-c66e-4fcb-8484-99e0f17b1af4/b590848d-b7a5-4665-9224-220acafb6808.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13445,
+        "aniId": 43445,
+        "createdAt": "2020-10-12T16:02:58.000Z",
+        "updatedAt": "2021-06-02T10:45:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "alice_no_100_cc": {
+        "authors": [
+          "NAKAJIMA Chizuna"
+        ],
+        "identifier": "alice_no_100_cc",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Alice no 100 Degrees Cc",
+        "url": "https://fanfox.net/manga/alice_no_100_cc/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5808/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13445,
+        "aniId": 43445,
+        "createdAt": "2021-02-10T06:40:54.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "alice_no_100_degrees_cc": {
+        "authors": [
+          "Nakajima",
+          "Chizuna"
+        ],
+        "identifier": "alice_no_100_degrees_cc",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Alice No 100 Degrees Cc",
+        "url": "https://manganelo.com/manga/alice_no_100_degrees_cc",
+        "image": "https://avt.mkklcdnv6temp.com/12/s/4-1583470184.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13445,
+        "aniId": 43445,
+        "createdAt": "2021-02-21T11:03:30.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Ayana Isero"
+  ],
+  "id": 40707,
+  "malId": 10707,
+  "type": "manga",
+  "title": "Suki nan Desu",
+  "url": "https://anilist.co/manga/40707",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10707.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:08.000Z",
+  "updatedAt": "2021-05-20T14:41:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f693f0c-b196-423a-9690-1f0454274cc4": {
+        "authors": [
+          "Barikios"
+        ],
+        "identifier": "2f693f0c-b196-423a-9690-1f0454274cc4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nakushita Mono wa Nandesuka",
+        "url": "https://mangadex.org/title/2f693f0c-b196-423a-9690-1f0454274cc4",
+        "image": "https://uploads.mangadex.org/covers/2f693f0c-b196-423a-9690-1f0454274cc4/7b11971e-17e8-48ba-9b20-1c7f1c120c2d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10707,
+        "aniId": 40707,
+        "createdAt": "2020-10-12T16:15:19.000Z",
+        "updatedAt": "2021-06-06T12:40:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

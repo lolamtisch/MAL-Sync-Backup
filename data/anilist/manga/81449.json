@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "まじカライズ"
+  ],
+  "authors": [
+    "Inomaru",
+    "Tsunagami",
+    "Yasunori Mitsunaga"
+  ],
+  "id": 81449,
+  "malId": 51449,
+  "type": "manga",
+  "title": "Magicalize",
+  "url": "https://anilist.co/manga/81449",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81449-W0aeZrjtmkJU.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:51.000Z",
+  "updatedAt": "2021-05-20T14:49:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b7ee5816-aa1e-4e99-8fc3-1334bbb65979": {
+        "authors": [
+          "Inomaru",
+          "Tsunagami"
+        ],
+        "identifier": "b7ee5816-aa1e-4e99-8fc3-1334bbb65979",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Magicalize",
+        "url": "https://mangadex.org/title/b7ee5816-aa1e-4e99-8fc3-1334bbb65979",
+        "image": "https://uploads.mangadex.org/covers/b7ee5816-aa1e-4e99-8fc3-1334bbb65979/c4b6c4fc-b40a-4153-a822-8b1ac048488d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51449,
+        "aniId": 81449,
+        "createdAt": "2020-10-12T16:10:02.000Z",
+        "updatedAt": "2021-06-04T21:54:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "magicalize": {
+        "authors": [
+          "Inomaru",
+          "Tsunagami"
+        ],
+        "identifier": "magicalize",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Magicalize",
+        "url": "https://mangasee123.com/manga/Magicalize",
+        "image": "https://cover.nep.li/cover/Magicalize.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51449,
+        "aniId": 81449,
+        "createdAt": "2021-01-02T08:50:22.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

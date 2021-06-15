@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ともだちと恋のまんなか"
+  ],
+  "authors": [
+    "Hisa Kyoumachi"
+  ],
+  "id": 80267,
+  "malId": 50267,
+  "type": "manga",
+  "title": "Tomodachi to Koi no Mannaka",
+  "url": "https://anilist.co/manga/80267",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50267-QZRCTJkvp3xK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-05-20T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9ceabc3b-dd96-4fdd-9f01-f0832cd87df0": {
+        "authors": [
+          "KYOUMACHI Hisa"
+        ],
+        "identifier": "9ceabc3b-dd96-4fdd-9f01-f0832cd87df0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tomodachi to Koi no Mannaka",
+        "url": "https://mangadex.org/title/9ceabc3b-dd96-4fdd-9f01-f0832cd87df0",
+        "image": "https://uploads.mangadex.org/covers/9ceabc3b-dd96-4fdd-9f01-f0832cd87df0/63aaaca5-6768-4a50-8405-706ff7b20c1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50267,
+        "aniId": 80267,
+        "createdAt": "2020-10-12T16:06:16.000Z",
+        "updatedAt": "2021-06-03T18:24:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

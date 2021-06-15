@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "スピナマラダ!"
+  ],
+  "authors": [
+    "Noda, Satoru"
+  ],
+  "id": 79965,
+  "type": "manga",
+  "title": "Supinamarada!",
+  "url": "https://myanimelist.net/manga/79965/Supinamarada",
+  "image": "https://cdn.myanimelist.net/images/manga/2/138467.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:34.000Z",
+  "updatedAt": "2020-12-31T11:22:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c95c91b1-34a7-4afc-b98c-1e31b73fd1a8": {
+        "authors": [
+          "Noda Satoru"
+        ],
+        "identifier": "c95c91b1-34a7-4afc-b98c-1e31b73fd1a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Supinamarada!",
+        "url": "https://mangadex.org/title/c95c91b1-34a7-4afc-b98c-1e31b73fd1a8",
+        "image": "https://uploads.mangadex.org/covers/c95c91b1-34a7-4afc-b98c-1e31b73fd1a8/c9b0b8b3-1dbc-4272-960a-eb3f66ad8284.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79965,
+        "aniId": 85553,
+        "createdAt": "2020-10-12T16:07:54.000Z",
+        "updatedAt": "2021-06-04T06:05:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "supinamarada": {
+        "authors": [
+          "Noda",
+          "Satoru"
+        ],
+        "identifier": "supinamarada",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Supinamarada!",
+        "url": "https://manganelo.com/manga/supinamarada",
+        "image": "https://avt.mkklcdnv6.com/14/o/3-1583468217.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79965,
+        "aniId": 85553,
+        "createdAt": "2020-12-13T12:49:45.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "supinamarada": {
+        "authors": [
+          "NODA Satoru"
+        ],
+        "identifier": "supinamarada",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Supinamarada!",
+        "url": "https://fanfox.net/manga/supinamarada/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14311/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79965,
+        "aniId": 85553,
+        "createdAt": "2020-12-31T11:22:45.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

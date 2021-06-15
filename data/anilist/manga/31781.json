@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "おひさまの花",
+    "The Flowers of the Sun"
+  ],
+  "authors": [
+    "Mitsuba Takanashi"
+  ],
+  "id": 31781,
+  "malId": 1781,
+  "type": "manga",
+  "title": "Ohi-sama no Hana",
+  "url": "https://anilist.co/manga/31781",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31781-sJTEscdeprdX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:53.000Z",
+  "updatedAt": "2021-05-20T14:36:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "16d3c25c-2985-445a-ab01-469dd29d143d": {
+        "authors": [
+          "TAKANASHI Mitsuba"
+        ],
+        "identifier": "16d3c25c-2985-445a-ab01-469dd29d143d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ohisama no Hana",
+        "url": "https://mangadex.org/title/16d3c25c-2985-445a-ab01-469dd29d143d",
+        "image": "https://uploads.mangadex.org/covers/16d3c25c-2985-445a-ab01-469dd29d143d/5177a858-0111-44d8-bb04-0fc52293ed87.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1781,
+        "aniId": 31781,
+        "createdAt": "2020-10-12T16:09:09.000Z",
+        "updatedAt": "2021-06-04T15:27:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

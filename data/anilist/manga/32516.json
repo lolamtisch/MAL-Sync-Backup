@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "Blurry Moon"
+  ],
+  "authors": [
+    "Iqura Sugimoto"
+  ],
+  "id": 32516,
+  "malId": 2516,
+  "type": "manga",
+  "title": "Blurry Moon",
+  "url": "https://anilist.co/manga/32516",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32516-zk01UwotsNoC.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "dpmd276351567048871": {
+        "authors": [],
+        "identifier": "dpmd276351567048871",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Blurry Viewfinder",
+        "url": "https://manganelo.com/manga/dpmd276351567048871",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20166-the_blurry_viewfinder.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2516,
+        "aniId": 32516,
+        "createdAt": "2020-10-12T16:22:43.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

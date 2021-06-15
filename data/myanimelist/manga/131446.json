@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "こういうのがいい"
+  ],
+  "authors": [
+    "Souryuu"
+  ],
+  "id": 131446,
+  "type": "manga",
+  "title": "Kouiu no ga Ii",
+  "url": "https://myanimelist.net/manga/131446/Kouiu_no_ga_Ii",
+  "image": "https://cdn.myanimelist.net/images/manga/1/237658.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-11-27T10:01:18.000Z",
+  "updatedAt": "2021-03-05T19:50:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "051ce60f-bf16-432a-89a5-a8d52bd16de6": {
+        "authors": [
+          "Souryuu"
+        ],
+        "identifier": "051ce60f-bf16-432a-89a5-a8d52bd16de6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kou iu no ga ii",
+        "url": "https://mangadex.org/title/051ce60f-bf16-432a-89a5-a8d52bd16de6",
+        "image": "https://uploads.mangadex.org/covers/051ce60f-bf16-432a-89a5-a8d52bd16de6/3c5ab3ed-7fb2-478c-a8f7-d36951b93cf9.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131446,
+        "aniId": 125060,
+        "createdAt": "2020-10-23T02:29:10.000Z",
+        "updatedAt": "2021-06-08T05:30:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

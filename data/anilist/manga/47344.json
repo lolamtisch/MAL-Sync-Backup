@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "バラとスミレと",
+    "Bara to Sumire to",
+    "Roses and Violets"
+  ],
+  "authors": [
+    "Ikumi Kudou"
+  ],
+  "id": 47344,
+  "malId": 17344,
+  "type": "manga",
+  "title": "Rose and Violet",
+  "url": "https://anilist.co/manga/47344",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17344.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:05.000Z",
+  "updatedAt": "2021-05-20T14:44:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7836eecd-bf25-4d83-92e8-70594053444d": {
+        "authors": [
+          "Kudou Ikumi"
+        ],
+        "identifier": "7836eecd-bf25-4d83-92e8-70594053444d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bara to Sumire to",
+        "url": "https://mangadex.org/title/7836eecd-bf25-4d83-92e8-70594053444d",
+        "image": "https://uploads.mangadex.org/covers/7836eecd-bf25-4d83-92e8-70594053444d/3126c5ba-fa85-4fb3-b179-9ee6691a0251.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17344,
+        "aniId": 47344,
+        "createdAt": "2020-10-12T16:03:26.000Z",
+        "updatedAt": "2021-06-02T13:56:13.000Z",
+        "deletedAt": null
+      },
+      "d51dd5e6-908e-4126-9e1e-27d38cf0195f": {
+        "authors": [
+          "Sweta Kartika"
+        ],
+        "identifier": "d51dd5e6-908e-4126-9e1e-27d38cf0195f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Grey and Jingga: Days of The Violet",
+        "url": "https://mangadex.org/title/d51dd5e6-908e-4126-9e1e-27d38cf0195f",
+        "image": "https://uploads.mangadex.org/covers/d51dd5e6-908e-4126-9e1e-27d38cf0195f/5a423823-30e2-4fa2-b035-d8d0fd041d50.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17344,
+        "aniId": 47344,
+        "createdAt": "2020-10-12T16:18:58.000Z",
+        "updatedAt": "2021-06-07T21:01:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bara_to_sumire_to": {
+        "authors": [
+          "KUDOU Ikumi"
+        ],
+        "identifier": "bara_to_sumire_to",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bara to Sumire to",
+        "url": "https://fanfox.net/manga/bara_to_sumire_to/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6967/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17344,
+        "aniId": 47344,
+        "createdAt": "2021-03-22T16:36:24.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

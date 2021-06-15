@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "二階堂幸短編集　ありがとうって言って",
+    "Say Thank You"
+  ],
+  "authors": [
+    "Kou Nikaidou"
+  ],
+  "id": 120155,
+  "malId": null,
+  "type": "manga",
+  "title": "Nikaidou Kou Tanpenshuu: Arigatou tte Itte",
+  "url": "https://anilist.co/manga/120155",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120155-Xx3lQG1ZUSmR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:52:48.000Z",
+  "updatedAt": "2021-06-08T01:52:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d50f1be7-fcde-48b8-8f42-0fb91431cf29": {
+        "authors": [
+          "Nikaidou Ko"
+        ],
+        "identifier": "d50f1be7-fcde-48b8-8f42-0fb91431cf29",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Say Thank You - Collected Short Stories of Ko Nikaido",
+        "url": "https://mangadex.org/title/d50f1be7-fcde-48b8-8f42-0fb91431cf29",
+        "image": "https://uploads.mangadex.org/covers/d50f1be7-fcde-48b8-8f42-0fb91431cf29/4d9c551e-d241-487f-8d2e-3e845b46bbea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 132736,
+        "aniId": 120155,
+        "createdAt": "2020-10-12T16:21:09.000Z",
+        "updatedAt": "2021-06-08T06:58:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

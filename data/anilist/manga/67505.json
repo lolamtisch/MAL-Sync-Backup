@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "愛がなければ",
+    "Aiganakereba"
+  ],
+  "authors": [
+    "Akiko Monden"
+  ],
+  "id": 67505,
+  "malId": 37505,
+  "type": "manga",
+  "title": "Ai ga Nakereba",
+  "url": "https://anilist.co/manga/67505",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37505.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:31.000Z",
+  "updatedAt": "2021-05-20T14:48:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2c1c1a10-8ef9-417c-9c0b-1ff9dff6c95f": {
+        "authors": [
+          "Monden Akiko"
+        ],
+        "identifier": "2c1c1a10-8ef9-417c-9c0b-1ff9dff6c95f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai ga Nakereba",
+        "url": "https://mangadex.org/title/2c1c1a10-8ef9-417c-9c0b-1ff9dff6c95f",
+        "image": "https://uploads.mangadex.org/covers/2c1c1a10-8ef9-417c-9c0b-1ff9dff6c95f/db78adf9-1eca-4a1e-8b5e-56845efb8935.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37505,
+        "aniId": 67505,
+        "createdAt": "2020-10-12T16:18:59.000Z",
+        "updatedAt": "2021-06-07T21:02:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

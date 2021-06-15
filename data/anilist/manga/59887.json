@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "SERVAMP -サーヴァンプ-",
+    "Saavampu",
+    "Savampu",
+    "Servamps",
+    "Survamp"
+  ],
+  "authors": [
+    "Strike Tanaka"
+  ],
+  "id": 59887,
+  "malId": 29887,
+  "type": "manga",
+  "title": "Servamp",
+  "url": "https://anilist.co/manga/59887",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/29887.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:39.000Z",
+  "updatedAt": "2021-05-20T14:47:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7889434b-d9a5-454c-8ea1-8c7a4509fc51": {
+        "authors": [
+          "Tanaka Strike"
+        ],
+        "identifier": "7889434b-d9a5-454c-8ea1-8c7a4509fc51",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Servamp",
+        "url": "https://mangadex.org/title/7889434b-d9a5-454c-8ea1-8c7a4509fc51",
+        "image": "https://uploads.mangadex.org/covers/7889434b-d9a5-454c-8ea1-8c7a4509fc51/ef0fca2c-8bf0-44b4-b1d8-051daa6e38f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29887,
+        "aniId": 59887,
+        "createdAt": "2020-10-12T16:05:26.000Z",
+        "updatedAt": "2021-06-03T12:36:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "servamp": {
+        "authors": [],
+        "identifier": "servamp",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Servamp",
+        "url": "https://manganelo.com/manga/servamp",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3124-servamp.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29887,
+        "aniId": 59887,
+        "createdAt": "2020-10-12T16:25:22.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "servamp": {
+        "authors": [
+          "TANAKA Strike"
+        ],
+        "identifier": "servamp",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Servamp",
+        "url": "https://mangasee123.com/manga/Servamp",
+        "image": "https://cover.nep.li/cover/Servamp.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29887,
+        "aniId": 59887,
+        "createdAt": "2020-12-30T19:47:41.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

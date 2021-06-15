@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Crime and Punishment",
+    "죄와벌",
+    "罪與罰"
+  ],
+  "authors": [
+    "Team Oldrock",
+    "Daktaryeong"
+  ],
+  "id": 113676,
+  "malId": null,
+  "type": "manga",
+  "title": "Joewabeol",
+  "url": "https://anilist.co/manga/113676",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b113676-IKR3yNZqt3pp.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-25T11:08:18.000Z",
+  "updatedAt": "2021-05-25T11:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ba25df4-8087-4730-9e29-edd8ed3a535c": {
+        "authors": [
+          "Daktaryeon",
+          "Team. Oldrock"
+        ],
+        "identifier": "0ba25df4-8087-4730-9e29-edd8ed3a535c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crime and Punishment",
+        "url": "https://mangadex.org/title/0ba25df4-8087-4730-9e29-edd8ed3a535c",
+        "image": "https://uploads.mangadex.org/covers/0ba25df4-8087-4730-9e29-edd8ed3a535c/3824e345-f14b-48d1-b6bd-e2ef1abb7552.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113676,
+        "createdAt": "2020-10-12T16:15:25.000Z",
+        "updatedAt": "2021-06-09T06:47:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

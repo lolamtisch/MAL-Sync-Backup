@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "I can't forget",
+    "忘れられない"
+  ],
+  "authors": [
+    "Yukari Kawachi"
+  ],
+  "id": 32969,
+  "malId": 2969,
+  "type": "manga",
+  "title": "Wasurerarenai",
+  "url": "https://anilist.co/manga/32969",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2969.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-06-04T17:19:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "961b16c0-b22a-4590-8096-949b36c6daab": {
+        "authors": [
+          "KAWACHI Yukari"
+        ],
+        "identifier": "961b16c0-b22a-4590-8096-949b36c6daab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wasurerarenai",
+        "url": "https://mangadex.org/title/961b16c0-b22a-4590-8096-949b36c6daab",
+        "image": "https://uploads.mangadex.org/covers/961b16c0-b22a-4590-8096-949b36c6daab/bd600a43-14af-4f2d-82aa-b47aebae1be6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2969,
+        "aniId": 32969,
+        "createdAt": "2020-10-12T16:09:21.000Z",
+        "updatedAt": "2021-06-04T18:34:22.000Z",
+        "deletedAt": null
+      },
+      "592e44d9-20dd-4a45-99a9-65609b4a6b33": {
+        "authors": [
+          "Toypano (Nenko)"
+        ],
+        "identifier": "592e44d9-20dd-4a45-99a9-65609b4a6b33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shingeki no Kyojin - Unforgettable People (Doujinshi)",
+        "url": "https://mangadex.org/title/592e44d9-20dd-4a45-99a9-65609b4a6b33",
+        "image": "https://uploads.mangadex.org/covers/592e44d9-20dd-4a45-99a9-65609b4a6b33/e6fae1fd-c157-42ce-b2d9-3c9ec8cd885f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2969,
+        "aniId": 32969,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-06-07T00:11:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mj921374": {
+        "authors": [],
+        "identifier": "mj921374",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Unforgettable Love Of Mine",
+        "url": "https://manganelo.com/manga/mj921374",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2775-mj921374.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2969,
+        "aniId": 32969,
+        "createdAt": "2020-10-12T16:24:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

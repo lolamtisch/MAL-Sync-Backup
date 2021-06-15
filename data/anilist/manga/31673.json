@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "ジャッカル"
+  ],
+  "authors": [
+    "Byung Jin Kim",
+    "Murata Shinya"
+  ],
+  "id": 31673,
+  "malId": 1673,
+  "type": "manga",
+  "title": "Jackals",
+  "url": "https://anilist.co/manga/31673",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31673-c37P4Mfr16B1.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2c6c87c3-9bd1-43c3-b352-56a8974983b2": {
+        "authors": [
+          "Murata Shinya",
+          "Kim Hyung-jin"
+        ],
+        "identifier": "2c6c87c3-9bd1-43c3-b352-56a8974983b2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jackals",
+        "url": "https://mangadex.org/title/2c6c87c3-9bd1-43c3-b352-56a8974983b2",
+        "image": "https://uploads.mangadex.org/covers/2c6c87c3-9bd1-43c3-b352-56a8974983b2/c4dcae58-6014-4737-af3e-fea03c6e3c40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1673,
+        "aniId": 31673,
+        "createdAt": "2020-10-12T16:02:31.000Z",
+        "updatedAt": "2021-06-02T07:30:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jackals": {
+        "authors": [],
+        "identifier": "jackals",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jackals",
+        "url": "https://manganelo.com/manga/jackals",
+        "image": "https://avt.mkklcdnv6.com/48/q/9-1583482131.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1673,
+        "aniId": 31673,
+        "createdAt": "2020-10-12T16:23:39.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "jackals": {
+        "authors": [
+          "KIM Hyung-Jin",
+          "MURATA Shinya"
+        ],
+        "identifier": "jackals",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Jackals",
+        "url": "https://mangasee123.com/manga/Jackals",
+        "image": "https://cover.nep.li/cover/Jackals.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1673,
+        "aniId": 31673,
+        "createdAt": "2021-03-27T02:49:56.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

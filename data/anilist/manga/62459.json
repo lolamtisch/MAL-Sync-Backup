@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Chihiro"
+  ],
+  "id": 62459,
+  "malId": 32459,
+  "type": "manga",
+  "title": "Dr. Psyche",
+  "url": "https://anilist.co/manga/62459",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32459.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:52.000Z",
+  "updatedAt": "2021-05-20T14:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "32110959-80a1-479a-bca0-e77adc4b9c96": {
+        "authors": [
+          "Chihiro"
+        ],
+        "identifier": "32110959-80a1-479a-bca0-e77adc4b9c96",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dr. Psyche",
+        "url": "https://mangadex.org/title/32110959-80a1-479a-bca0-e77adc4b9c96",
+        "image": "https://uploads.mangadex.org/covers/32110959-80a1-479a-bca0-e77adc4b9c96/90e66e14-b2ce-40d3-8f6b-1d2af50eef4e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32459,
+        "aniId": 62459,
+        "createdAt": "2020-10-12T16:03:29.000Z",
+        "updatedAt": "2021-06-02T14:21:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

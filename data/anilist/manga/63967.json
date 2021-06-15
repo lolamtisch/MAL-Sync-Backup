@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "プリティーリズム"
+  ],
+  "authors": [
+    "Mari Asabuki"
+  ],
+  "id": 63967,
+  "malId": 33967,
+  "type": "manga",
+  "title": "Pretty Rhythm",
+  "url": "https://anilist.co/manga/63967",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33967.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:57.000Z",
+  "updatedAt": "2021-05-20T14:47:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d0d28d86-0acd-4b19-8c8a-e1554adf06b3": {
+        "authors": [
+          "Terayamaden"
+        ],
+        "identifier": "d0d28d86-0acd-4b19-8c8a-e1554adf06b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pretty Rhythm - Rainbow Route (Doujinshi)",
+        "url": "https://mangadex.org/title/d0d28d86-0acd-4b19-8c8a-e1554adf06b3",
+        "image": "https://uploads.mangadex.org/covers/d0d28d86-0acd-4b19-8c8a-e1554adf06b3/9d135842-fc1b-4699-83f4-517ee17ab0d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33967,
+        "aniId": 63967,
+        "createdAt": "2020-10-12T16:16:11.000Z",
+        "updatedAt": "2021-06-06T20:12:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

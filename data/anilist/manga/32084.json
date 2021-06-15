@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Mr. Flower Bride",
+    "花嫁くん",
+    "Hanayome kun",
+    "Mr Flower Bride"
+  ],
+  "authors": [
+    "Lily Hoshino"
+  ],
+  "id": 32084,
+  "malId": 2084,
+  "type": "manga",
+  "title": "Hanayome-kun",
+  "url": "https://anilist.co/manga/32084",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32084-SHHIZPmvE9wT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0f308770-4d3f-4ab5-98de-e35b602dc61d": {
+        "authors": [
+          "Hoshino Lily"
+        ],
+        "identifier": "0f308770-4d3f-4ab5-98de-e35b602dc61d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanayome-kun",
+        "url": "https://mangadex.org/title/0f308770-4d3f-4ab5-98de-e35b602dc61d",
+        "image": "https://uploads.mangadex.org/covers/0f308770-4d3f-4ab5-98de-e35b602dc61d/a6e23198-ae61-447e-99d1-083b9a9814f0.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2084,
+        "aniId": 32084,
+        "createdAt": "2020-10-12T16:05:55.000Z",
+        "updatedAt": "2021-06-03T15:55:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

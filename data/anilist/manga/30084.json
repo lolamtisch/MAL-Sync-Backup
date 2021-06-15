@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "Fushigi Yugi",
+    "ふしぎ遊戯",
+    "Mysterious Play",
+    "Curious Play"
+  ],
+  "authors": [
+    "Yuu Watase",
+    "Dirce Miyamura",
+    "Ricardo Cruz",
+    "Miram Tomi"
+  ],
+  "id": 30084,
+  "malId": 84,
+  "type": "manga",
+  "title": "Fushigi Yuugi",
+  "url": "https://anilist.co/manga/30084",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30084-OgPauYRkHOLo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:23.000Z",
+  "updatedAt": "2021-06-02T07:17:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "15def101-a7ed-469f-b93c-549aa861cf54": {
+        "authors": [
+          "Watase Yuu"
+        ],
+        "identifier": "15def101-a7ed-469f-b93c-549aa861cf54",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fushigi Yuugi",
+        "url": "https://mangadex.org/title/15def101-a7ed-469f-b93c-549aa861cf54",
+        "image": "https://uploads.mangadex.org/covers/15def101-a7ed-469f-b93c-549aa861cf54/1b38e549-5f26-47e8-83ea-38e5873e7b55.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84,
+        "aniId": 30084,
+        "createdAt": "2020-10-12T16:08:02.000Z",
+        "updatedAt": "2021-06-04T07:04:28.000Z",
+        "deletedAt": null
+      },
+      "ba800623-0ffb-43cb-8dea-902fa3fccce6": {
+        "authors": [
+          "Shirotama Mizore"
+        ],
+        "identifier": "ba800623-0ffb-43cb-8dea-902fa3fccce6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kase-san - Fushigi no Kuni to Kase-san (Doujinshi)",
+        "url": "https://mangadex.org/title/ba800623-0ffb-43cb-8dea-902fa3fccce6",
+        "image": "https://uploads.mangadex.org/covers/ba800623-0ffb-43cb-8dea-902fa3fccce6/13fb7efd-4fc0-4210-960b-0a2c2c767dd0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84,
+        "aniId": 30084,
+        "createdAt": "2020-10-12T16:17:41.000Z",
+        "updatedAt": "2021-06-07T09:58:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fushigi_yuugi": {
+        "authors": [],
+        "identifier": "fushigi_yuugi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fushigi Yuugi",
+        "url": "https://manganelo.com/manga/fushigi_yuugi",
+        "image": "https://avt.mkklcdnv6.com/47/n/3-1583469550.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84,
+        "aniId": 30084,
+        "createdAt": "2020-10-12T16:23:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fushigi-yuugi": {
+        "authors": [
+          "WATASE Yuu"
+        ],
+        "identifier": "fushigi-yuugi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fushigi Yuugi",
+        "url": "https://mangasee123.com/manga/Fushigi-Yuugi",
+        "image": "https://cover.nep.li/cover/Fushigi-Yuugi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84,
+        "aniId": 30084,
+        "createdAt": "2021-01-27T04:08:16.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

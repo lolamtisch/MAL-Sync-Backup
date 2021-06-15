@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "これが僕の正義だ",
+    "This is My Justice"
+  ],
+  "authors": [
+    "Too Mizuguchi"
+  ],
+  "id": 66441,
+  "malId": 36441,
+  "type": "manga",
+  "title": "Kore ga Boku no Seigi da",
+  "url": "https://anilist.co/manga/66441",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36441.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "649a2780-ca82-442d-8b23-5088b9c9d5c7": {
+        "authors": [
+          "MIZUGUCHI Tou"
+        ],
+        "identifier": "649a2780-ca82-442d-8b23-5088b9c9d5c7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "This Is My Justice",
+        "url": "https://mangadex.org/title/649a2780-ca82-442d-8b23-5088b9c9d5c7",
+        "image": "https://uploads.mangadex.org/covers/649a2780-ca82-442d-8b23-5088b9c9d5c7/6bcc7279-463f-424d-af89-b31f0656367f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36441,
+        "aniId": 66441,
+        "createdAt": "2020-10-12T16:09:57.000Z",
+        "updatedAt": "2021-06-04T21:20:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

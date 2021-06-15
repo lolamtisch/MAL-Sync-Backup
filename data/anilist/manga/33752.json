@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Wild 7",
+    "ワイルド7",
+    "Wild Seven",
+    "ワイルド7"
+  ],
+  "authors": [
+    "Mikiya Mochizuki"
+  ],
+  "id": 33752,
+  "malId": 3752,
+  "type": "manga",
+  "title": "Wild 7",
+  "url": "https://anilist.co/manga/33752",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3752.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5e3ba0f-f735-4a32-a617-2bd3db500091": {
+        "authors": [
+          "Mochizuki Mikiya"
+        ],
+        "identifier": "b5e3ba0f-f735-4a32-a617-2bd3db500091",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wild 7",
+        "url": "https://mangadex.org/title/b5e3ba0f-f735-4a32-a617-2bd3db500091",
+        "image": "https://uploads.mangadex.org/covers/b5e3ba0f-f735-4a32-a617-2bd3db500091/3f81368d-03b6-4666-a9aa-a4bbcb44df76.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3752,
+        "aniId": 33752,
+        "createdAt": "2020-10-12T16:14:35.000Z",
+        "updatedAt": "2021-06-06T06:29:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "ハイ☆スピード!"
+  ],
+  "authors": [
+    "Teshirogi, Shiori",
+    "Ooji, Kouji"
+  ],
+  "id": 87678,
+  "type": "manga",
+  "title": "High☆Speed!",
+  "url": "https://myanimelist.net/manga/87678/High☆Speed",
+  "image": "https://cdn.myanimelist.net/images/manga/3/162274.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:55.000Z",
+  "updatedAt": "2021-06-03T08:32:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "80b0581b-898e-407e-998c-b96444c3ab6d": {
+        "authors": [
+          "Oooji Kouji",
+          "Teshirogi Shiori"
+        ],
+        "identifier": "80b0581b-898e-407e-998c-b96444c3ab6d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "High☆Speed!",
+        "url": "https://mangadex.org/title/80b0581b-898e-407e-998c-b96444c3ab6d",
+        "image": "https://uploads.mangadex.org/covers/80b0581b-898e-407e-998c-b96444c3ab6d/6f3c9f2b-72c9-45d1-99bd-c7a31c42c2c7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87678,
+        "aniId": 86041,
+        "createdAt": "2020-10-12T16:08:49.000Z",
+        "updatedAt": "2021-06-04T12:59:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "high_speed": {
+        "authors": [],
+        "identifier": "high_speed",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "High Speed!",
+        "url": "https://manganelo.com/manga/high_speed",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1133-high_speed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87678,
+        "aniId": 86041,
+        "createdAt": "2020-10-12T16:23:20.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mb952610": {
+        "authors": [
+          "Ooji Kouji"
+        ],
+        "identifier": "manga-mb952610",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "High Speed!",
+        "url": "https://manganato.com/manga-mb952610",
+        "image": "https://avt.mkklcdnv6temp.com/45/n/1-1583465498.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87678,
+        "aniId": 86041,
+        "createdAt": "2021-06-03T08:32:16.000Z",
+        "updatedAt": "2021-06-03T08:55:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

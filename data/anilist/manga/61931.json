@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "サクラの秘事",
+    "Secret of the Sakura",
+    "櫻色秘事"
+  ],
+  "authors": [
+    "Akira Hagio",
+    "Christine Dashiell",
+    "Bianca Pistillo"
+  ],
+  "id": 61931,
+  "malId": 31931,
+  "type": "manga",
+  "title": "Sakura no Himegoto",
+  "url": "https://anilist.co/manga/61931",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31931.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T13:19:08.000Z",
+  "updatedAt": "2021-06-04T13:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a39611d5-ec92-4965-b7cb-824248e03aa7": {
+        "authors": [
+          "Hagio Akira"
+        ],
+        "identifier": "a39611d5-ec92-4965-b7cb-824248e03aa7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakura no Himegoto",
+        "url": "https://mangadex.org/title/a39611d5-ec92-4965-b7cb-824248e03aa7",
+        "image": "https://uploads.mangadex.org/covers/a39611d5-ec92-4965-b7cb-824248e03aa7/70102119-a3ab-44eb-9db3-7f88e2a40a5e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31931,
+        "aniId": 61931,
+        "createdAt": "2020-10-12T16:08:49.000Z",
+        "updatedAt": "2021-06-04T13:24:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

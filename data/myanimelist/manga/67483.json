@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "Free! フリー"
+  ],
+  "authors": [
+    "GAN"
+  ],
+  "id": 67483,
+  "type": "manga",
+  "title": "Free!",
+  "url": "https://myanimelist.net/manga/67483/Free",
+  "image": "https://cdn.myanimelist.net/images/manga/1/115533.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:13.000Z",
+  "updatedAt": "2021-05-09T21:47:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6968e4a5-4ac5-4222-93d3-772ee57ad893": {
+        "authors": [
+          "Gan"
+        ],
+        "identifier": "6968e4a5-4ac5-4222-93d3-772ee57ad893",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Free!",
+        "url": "https://mangadex.org/title/6968e4a5-4ac5-4222-93d3-772ee57ad893",
+        "image": "https://uploads.mangadex.org/covers/6968e4a5-4ac5-4222-93d3-772ee57ad893/985768e9-1b97-4a8c-8eba-5708c12faa86.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67483,
+        "aniId": 85954,
+        "createdAt": "2020-10-12T16:07:10.000Z",
+        "updatedAt": "2021-06-04T00:53:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

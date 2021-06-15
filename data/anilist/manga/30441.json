@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "My-HiME",
+    "舞-HiME",
+    "Dancing Princess",
+    "Mai HiME",
+    "My HiME",
+    "My Princess"
+  ],
+  "authors": [
+    "Noboru Kimura",
+    "Kenetsu Satou"
+  ],
+  "id": 30441,
+  "malId": 441,
+  "type": "manga",
+  "title": "Mai-HiME",
+  "url": "https://anilist.co/manga/30441",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30441-vV0HML8lUFcf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9ca81e9a-791e-4e03-b7b5-709673131772": {
+        "authors": [
+          "Satou Kenetsu",
+          "Kimura Noboru",
+          "Yoshino Hiroyuki"
+        ],
+        "identifier": "9ca81e9a-791e-4e03-b7b5-709673131772",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mai-HiME",
+        "url": "https://mangadex.org/title/9ca81e9a-791e-4e03-b7b5-709673131772",
+        "image": "https://uploads.mangadex.org/covers/9ca81e9a-791e-4e03-b7b5-709673131772/3c48f7b1-5af8-4f10-812e-156140db4e73.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 441,
+        "aniId": 30441,
+        "createdAt": "2020-10-12T16:04:45.000Z",
+        "updatedAt": "2021-06-02T23:09:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "maihime": {
+        "authors": [],
+        "identifier": "maihime",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mai-Hime",
+        "url": "https://manganelo.com/manga/maihime",
+        "image": "https://avt.mkklcdnv6.com/39/o/10-1583483602.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 441,
+        "aniId": 30441,
+        "createdAt": "2020-10-12T16:24:14.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "xf920310": {
+        "authors": [],
+        "identifier": "xf920310",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hime Hiro",
+        "url": "https://manganelo.com/manga/xf920310",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1709-xf920310.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 441,
+        "aniId": 30441,
+        "createdAt": "2020-10-12T16:26:14.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Magic Soup",
+    "마법수프",
+    "The Magic Soup",
+    "魔法のスープ"
+  ],
+  "authors": [
+    "Gongjak Kim",
+    "Tropicalarmpit"
+  ],
+  "id": 110962,
+  "malId": null,
+  "type": "manga",
+  "title": "Mabeob Supeu",
+  "url": "https://anilist.co/manga/110962",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110962-I8dPBJrECvRj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T08:50:17.000Z",
+  "updatedAt": "2021-06-07T08:50:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0bb37a51-0c11-49fe-a572-f9fccb5f619d": {
+        "authors": [
+          "Tropicalarmpit",
+          "Kimpeacock"
+        ],
+        "identifier": "0bb37a51-0c11-49fe-a572-f9fccb5f619d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Magic Soup",
+        "url": "https://mangadex.org/title/0bb37a51-0c11-49fe-a572-f9fccb5f619d",
+        "image": "https://uploads.mangadex.org/covers/0bb37a51-0c11-49fe-a572-f9fccb5f619d/41c7260f-577d-44fb-a5ab-6d9e942df371.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110962,
+        "createdAt": "2020-10-12T16:17:32.000Z",
+        "updatedAt": "2021-06-07T10:01:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

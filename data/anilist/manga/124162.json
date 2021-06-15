@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "同級生棲活"
+  ],
+  "authors": [
+    "Keiko Kinoshita"
+  ],
+  "id": 124162,
+  "malId": 130659,
+  "type": "manga",
+  "title": "Doukyuusei Seikatsu",
+  "url": "https://anilist.co/manga/124162",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124162-TIVKYiCkuBB2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T02:51:40.000Z",
+  "updatedAt": "2021-06-08T02:51:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "55a7487e-4493-421f-85d2-956862545f34": {
+        "authors": [
+          "Kinoshita Keiko"
+        ],
+        "identifier": "55a7487e-4493-421f-85d2-956862545f34",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doukyuusei Seikatsu",
+        "url": "https://mangadex.org/title/55a7487e-4493-421f-85d2-956862545f34",
+        "image": "https://uploads.mangadex.org/covers/55a7487e-4493-421f-85d2-956862545f34/78b6bdbe-525c-4d8b-9f8b-f844b7d86c6c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 130659,
+        "aniId": 124162,
+        "createdAt": "2020-10-12T16:21:36.000Z",
+        "updatedAt": "2021-06-08T06:41:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

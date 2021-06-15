@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "RH Plus",
+    "RHプラス",
+    "RH+",
+    "RH Purasu"
+  ],
+  "authors": [
+    "Ayako Suwa"
+  ],
+  "id": 33642,
+  "malId": 3642,
+  "type": "manga",
+  "title": "RH Plus",
+  "url": "https://anilist.co/manga/33642",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33642-j43j1JQWFjVH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:15.000Z",
+  "updatedAt": "2021-05-20T14:38:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6e36473c-5e50-4bc1-84d3-f857fed0f5ea": {
+        "authors": [
+          "Suwa Ayako"
+        ],
+        "identifier": "6e36473c-5e50-4bc1-84d3-f857fed0f5ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RH Plus",
+        "url": "https://mangadex.org/title/6e36473c-5e50-4bc1-84d3-f857fed0f5ea",
+        "image": "https://uploads.mangadex.org/covers/6e36473c-5e50-4bc1-84d3-f857fed0f5ea/b5c9aca4-bab2-4bf1-9c8e-e6fcce6cd079.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3642,
+        "aniId": 33642,
+        "createdAt": "2020-10-12T16:10:55.000Z",
+        "updatedAt": "2021-06-05T04:22:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

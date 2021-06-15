@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "番狗―ナンバー―"
+  ],
+  "authors": [
+    "Kawori Tsubaki"
+  ],
+  "id": 36314,
+  "malId": 6314,
+  "type": "manga",
+  "title": "Number",
+  "url": "https://anilist.co/manga/36314",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36314-iX5Ix9fS1YL9.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:38.000Z",
+  "updatedAt": "2021-05-20T14:39:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ae0b2343-a2a9-4a5b-9346-78b539e29f3e": {
+        "authors": [
+          "TSUBAKI Kawori"
+        ],
+        "identifier": "ae0b2343-a2a9-4a5b-9346-78b539e29f3e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Number",
+        "url": "https://mangadex.org/title/ae0b2343-a2a9-4a5b-9346-78b539e29f3e",
+        "image": "https://uploads.mangadex.org/covers/ae0b2343-a2a9-4a5b-9346-78b539e29f3e/525f87e8-0873-4464-8539-b188369b5353.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6314,
+        "aniId": 36314,
+        "createdAt": "2020-10-12T16:03:18.000Z",
+        "updatedAt": "2021-06-02T13:07:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "number": {
+        "authors": [],
+        "identifier": "number",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Number",
+        "url": "https://manganelo.com/manga/number",
+        "image": "https://avt.mkklcdnv6.com/37/r/7-1583477693.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6314,
+        "aniId": 36314,
+        "createdAt": "2020-10-12T16:24:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

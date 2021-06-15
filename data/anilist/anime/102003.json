@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "幻界王",
+    "Eudemon Quest"
+  ],
+  "id": 102003,
+  "malId": 37887,
+  "type": "anime",
+  "title": "Huan Jie Wang",
+  "url": "https://anilist.co/anime/102003",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102003-raBx1N4ZNR0c.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:42.000Z",
+  "updatedAt": "2021-05-30T14:42:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "pxjq": {
+        "identifier": "pxjq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eudemon Quest",
+        "url": "https://9anime.ru/watch/eudemon-quest.pxjq",
+        "image": "http://static.akacdn.ru/static/images/2018/05/3d8cdcadd7cee14572133ac99d215c5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37887,
+        "aniId": 102003,
+        "createdAt": "2020-10-12T15:54:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "huan-jie-wang": {
+        "identifier": "huan-jie-wang",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Huan Jie Wang",
+        "url": "https://www7.gogoanime.io/category/huan-jie-wang",
+        "image": "https://cdnimg.xyz/cover/huan-jie-wang.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37887,
+        "aniId": 102003,
+        "createdAt": "2020-10-12T16:00:47.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Pink",
+    "pink",
+    "ピンク"
+  ],
+  "authors": [
+    "Kyouko Okazaki"
+  ],
+  "id": 71769,
+  "malId": 41769,
+  "type": "manga",
+  "title": "Pink",
+  "url": "https://anilist.co/manga/71769",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71769-HSbejYP6jnkx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:50.000Z",
+  "updatedAt": "2021-05-20T14:48:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "95199bdb-35d5-43b5-85d6-3970652420f7": {
+        "authors": [
+          "Okazaki Kyoko"
+        ],
+        "identifier": "95199bdb-35d5-43b5-85d6-3970652420f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pink",
+        "url": "https://mangadex.org/title/95199bdb-35d5-43b5-85d6-3970652420f7",
+        "image": "https://uploads.mangadex.org/covers/95199bdb-35d5-43b5-85d6-3970652420f7/50091c33-1e3b-481b-b844-b81bf6b074f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41769,
+        "aniId": 71769,
+        "createdAt": "2020-10-12T16:15:11.000Z",
+        "updatedAt": "2021-06-06T11:30:31.000Z",
+        "deletedAt": null
+      },
+      "080840da-95c9-41c2-8416-036013b5e2ce": {
+        "authors": [
+          "celiere"
+        ],
+        "identifier": "080840da-95c9-41c2-8416-036013b5e2ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pink",
+        "url": "https://mangadex.org/title/080840da-95c9-41c2-8416-036013b5e2ce",
+        "image": "https://uploads.mangadex.org/covers/080840da-95c9-41c2-8416-036013b5e2ce/fb3eff12-d2e5-496a-ba72-b5a88d5b80d1.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41769,
+        "aniId": 71769,
+        "createdAt": "2020-10-12T16:18:54.000Z",
+        "updatedAt": "2021-06-07T20:56:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kl920953": {
+        "authors": [
+          "Daizu",
+          "Kosame"
+        ],
+        "identifier": "kl920953",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sexy In Pink",
+        "url": "https://manganelo.com/manga/kl920953",
+        "image": "https://avt.mkklcdnv6temp.com/37/z/19-1583500568.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41769,
+        "aniId": 71769,
+        "createdAt": "2020-10-12T16:23:56.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

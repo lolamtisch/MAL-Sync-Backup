@@ -1,0 +1,108 @@
+{
+  "altTitle": [
+    "Episode minus 1",
+    "Ena-chan's Mishap",
+    "Fractional Episode",
+    "Try Try Try Webcomics"
+  ],
+  "authors": [
+    "Kiyohiko Azuma"
+  ],
+  "id": 40690,
+  "malId": 10690,
+  "type": "manga",
+  "title": "Try! Try! Try! Webcomics",
+  "url": "https://anilist.co/manga/40690",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40690-OSZs1wcB9I6L.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:08.000Z",
+  "updatedAt": "2021-05-20T14:41:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d5065166-27f0-47ce-b19f-71826da6608f": {
+        "authors": [
+          "Nieki Zui"
+        ],
+        "identifier": "d5065166-27f0-47ce-b19f-71826da6608f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jun and Kaoru (Webcomic)",
+        "url": "https://mangadex.org/title/d5065166-27f0-47ce-b19f-71826da6608f",
+        "image": "https://uploads.mangadex.org/covers/d5065166-27f0-47ce-b19f-71826da6608f/ecc7b979-8d4d-430d-8d6b-c6101547cc67.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10690,
+        "aniId": 40690,
+        "createdAt": "2020-10-12T16:11:24.000Z",
+        "updatedAt": "2021-06-05T08:06:53.000Z",
+        "deletedAt": null
+      },
+      "689afc05-d213-4e04-9d4d-2ab9418f1dd3": {
+        "authors": [
+          "fkey"
+        ],
+        "identifier": "689afc05-d213-4e04-9d4d-2ab9418f1dd3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou - fkey's short comics",
+        "url": "https://mangadex.org/title/689afc05-d213-4e04-9d4d-2ab9418f1dd3",
+        "image": "https://uploads.mangadex.org/covers/689afc05-d213-4e04-9d4d-2ab9418f1dd3/298b2be2-0b51-42b1-8dbb-9ceb28daa4a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10690,
+        "aniId": 40690,
+        "createdAt": "2020-10-12T16:17:39.000Z",
+        "updatedAt": "2021-06-07T09:35:22.000Z",
+        "deletedAt": null
+      },
+      "10cd5153-7fb8-4c9e-9d47-58f018c66bc5": {
+        "authors": [
+          "Tyranu"
+        ],
+        "identifier": "10cd5153-7fb8-4c9e-9d47-58f018c66bc5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "People Are Free to Think of What They Want (Webcomic)",
+        "url": "https://mangadex.org/title/10cd5153-7fb8-4c9e-9d47-58f018c66bc5",
+        "image": "https://uploads.mangadex.org/covers/10cd5153-7fb8-4c9e-9d47-58f018c66bc5/18535baf-003e-44e2-94e0-69d26ed57a03.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10690,
+        "aniId": 40690,
+        "createdAt": "2020-10-12T16:19:06.000Z",
+        "updatedAt": "2021-06-07T21:23:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "try_try_try": {
+        "authors": [
+          "Azuma Kiyohiko"
+        ],
+        "identifier": "try_try_try",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Try! Try! Try!",
+        "url": "https://fanfox.net/manga/try_try_try/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7818/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10690,
+        "aniId": 40690,
+        "createdAt": "2021-05-28T21:54:33.000Z",
+        "updatedAt": "2021-05-28T22:23:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

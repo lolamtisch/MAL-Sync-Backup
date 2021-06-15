@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "こんな男に誰がした",
+    "Who Made Him Such a Man"
+  ],
+  "authors": [
+    "Shiuko Kano"
+  ],
+  "id": 32322,
+  "malId": 2322,
+  "type": "manga",
+  "title": "Konna Otoko ni Dare ga Shita",
+  "url": "https://anilist.co/manga/32322",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32322-9kY3WCBaYmTO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T14:20:40.000Z",
+  "updatedAt": "2021-06-05T14:20:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7aa2d5fd-635c-47fe-8de9-b82c6a21d920": {
+        "authors": [
+          "Kano Shiuko"
+        ],
+        "identifier": "7aa2d5fd-635c-47fe-8de9-b82c6a21d920",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Konna Otoko ni Dare ga Shita",
+        "url": "https://mangadex.org/title/7aa2d5fd-635c-47fe-8de9-b82c6a21d920",
+        "image": "https://uploads.mangadex.org/covers/7aa2d5fd-635c-47fe-8de9-b82c6a21d920/913feecc-9d14-4659-9988-af51dfd85ab0.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2322,
+        "aniId": 32322,
+        "createdAt": "2020-10-12T16:12:14.000Z",
+        "updatedAt": "2021-06-05T15:29:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

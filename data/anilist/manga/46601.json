@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Limit",
+    "リミット"
+  ],
+  "authors": [
+    "Keiko Suenobu",
+    "Fernando Mucioli"
+  ],
+  "id": 46601,
+  "malId": 16601,
+  "type": "manga",
+  "title": "Limit",
+  "url": "https://anilist.co/manga/46601",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46601-KoWZEUgRvcUH.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:56.000Z",
+  "updatedAt": "2021-06-01T09:22:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "81037c4f-b2e8-4f72-98df-98841affb7fe": {
+        "authors": [
+          "Suenobu Keiko"
+        ],
+        "identifier": "81037c4f-b2e8-4f72-98df-98841affb7fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Limit",
+        "url": "https://mangadex.org/title/81037c4f-b2e8-4f72-98df-98841affb7fe",
+        "image": "https://uploads.mangadex.org/covers/81037c4f-b2e8-4f72-98df-98841affb7fe/74725fc3-49a7-4e93-a1be-3251a3e26520.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16601,
+        "aniId": 46601,
+        "createdAt": "2020-10-12T16:11:05.000Z",
+        "updatedAt": "2021-06-05T05:38:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

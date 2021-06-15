@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ツンデレ！～眼鏡カフェへようこそ～",
+    "Tsundere!"
+  ],
+  "authors": [
+    "Yuna Anisaki"
+  ],
+  "id": 34788,
+  "malId": 4788,
+  "type": "manga",
+  "title": "Tsundere! ~Megane Cafe e Youkoso~",
+  "url": "https://anilist.co/manga/34788",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4788.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:50:39.000Z",
+  "updatedAt": "2021-06-04T16:50:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ddb0cee7-2ce0-4bd3-8e97-d75adbdd5ef0": {
+        "authors": [
+          "ANISAKI Yuna"
+        ],
+        "identifier": "ddb0cee7-2ce0-4bd3-8e97-d75adbdd5ef0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsundere! ~Megane Café e Youkoso~",
+        "url": "https://mangadex.org/title/ddb0cee7-2ce0-4bd3-8e97-d75adbdd5ef0",
+        "image": "https://uploads.mangadex.org/covers/ddb0cee7-2ce0-4bd3-8e97-d75adbdd5ef0/06982f1e-f27c-45f8-a806-ebcb76432ca7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 4788,
+        "aniId": 34788,
+        "createdAt": "2020-10-12T16:09:16.000Z",
+        "updatedAt": "2021-06-04T16:50:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "One Day"
+  ],
+  "authors": [
+    "Benjamin"
+  ],
+  "id": 10440,
+  "type": "manga",
+  "title": "One Day",
+  "url": "https://myanimelist.net/manga/10440/One_Day",
+  "image": "https://cdn.myanimelist.net/images/manga/1/14045.jpg",
+  "category": "Manhua",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:27.000Z",
+  "updatedAt": "2021-04-24T08:57:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ee055a12-7927-4f26-b1c1-f626cd12de89": {
+        "authors": [
+          "Benjamin"
+        ],
+        "identifier": "ee055a12-7927-4f26-b1c1-f626cd12de89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One Day",
+        "url": "https://mangadex.org/title/ee055a12-7927-4f26-b1c1-f626cd12de89",
+        "image": "https://uploads.mangadex.org/covers/ee055a12-7927-4f26-b1c1-f626cd12de89/09397dd5-5ebb-49d2-aa1e-3c42bfae9e40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10440,
+        "aniId": 40440,
+        "createdAt": "2020-10-12T16:05:58.000Z",
+        "updatedAt": "2021-06-03T16:13:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

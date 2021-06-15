@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Birds of Shangri-La",
+    "シャングリラの鳥"
+  ],
+  "authors": [
+    "Ranmaru Zaria"
+  ],
+  "id": 102809,
+  "malId": 113047,
+  "type": "manga",
+  "title": "Shangri-La no Tori",
+  "url": "https://anilist.co/manga/102809",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102809-alCAAcCXQWmD.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:57:00.000Z",
+  "updatedAt": "2021-05-20T14:57:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd9bec73-d406-4ec3-b131-baaf7f8720f1": {
+        "authors": [
+          "Zariya Ranmaru"
+        ],
+        "identifier": "cd9bec73-d406-4ec3-b131-baaf7f8720f1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shangri La no Tori",
+        "url": "https://mangadex.org/title/cd9bec73-d406-4ec3-b131-baaf7f8720f1",
+        "image": "https://uploads.mangadex.org/covers/cd9bec73-d406-4ec3-b131-baaf7f8720f1/30a000a2-8e01-4778-9e9a-6e28c4668cc6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113047,
+        "aniId": 102809,
+        "createdAt": "2020-12-14T06:19:52.000Z",
+        "updatedAt": "2021-06-08T08:35:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shangri_la_no_tori": {
+        "authors": [
+          "Zariya",
+          "Ranmaru"
+        ],
+        "identifier": "shangri_la_no_tori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shangri La No Tori",
+        "url": "https://manganelo.com/manga/shangri_la_no_tori",
+        "image": "https://avt.mkklcdnv6.com/39/n/16-1583494883.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113047,
+        "aniId": 102809,
+        "createdAt": "2020-12-25T11:56:03.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

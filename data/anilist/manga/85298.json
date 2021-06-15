@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Kantai Collection -Kan Colle-: Itsuka Shizuka na Umi de",
+    "艦隊これくしょん -艦これ- いつか静かな海で"
+  ],
+  "authors": [
+    "Sakae Saito"
+  ],
+  "id": 85298,
+  "malId": 63713,
+  "type": "manga",
+  "title": "Kantai Collection -Kan Colle-: Itsuka Shizuka na Umi de",
+  "url": "https://anilist.co/manga/85298",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b85298-77w0DhqtVSm9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:49.000Z",
+  "updatedAt": "2021-05-20T14:50:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ea9cfac2-fd05-4c13-8fee-0dc732388f88": {
+        "authors": [
+          "Saitoh Sakae"
+        ],
+        "identifier": "ea9cfac2-fd05-4c13-8fee-0dc732388f88",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kantai Collection -KanColle- Itsuka Shizuka na Umi de",
+        "url": "https://mangadex.org/title/ea9cfac2-fd05-4c13-8fee-0dc732388f88",
+        "image": "https://uploads.mangadex.org/covers/ea9cfac2-fd05-4c13-8fee-0dc732388f88/8098662c-cfe4-440f-926e-d700a758452a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63713,
+        "aniId": 85298,
+        "createdAt": "2020-10-12T16:06:59.000Z",
+        "updatedAt": "2021-06-03T23:31:08.000Z",
+        "deletedAt": null
+      },
+      "73c3e353-a7e9-4210-b0c3-8f56c39c3c78": {
+        "authors": [
+          "Tendou Itsuki"
+        ],
+        "identifier": "73c3e353-a7e9-4210-b0c3-8f56c39c3c78",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kantai Collection -KanColle- Moshi Anata ni Tsutaeru koto ga Dekiru nara",
+        "url": "https://mangadex.org/title/73c3e353-a7e9-4210-b0c3-8f56c39c3c78",
+        "image": "https://uploads.mangadex.org/covers/73c3e353-a7e9-4210-b0c3-8f56c39c3c78/3cebe714-5722-4262-a609-69dfc5a2ba09.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63713,
+        "aniId": 85298,
+        "createdAt": "2020-10-12T16:19:56.000Z",
+        "updatedAt": "2021-06-07T22:59:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

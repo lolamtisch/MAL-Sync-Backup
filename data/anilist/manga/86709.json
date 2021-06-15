@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "DANCING COLORS"
+  ],
+  "authors": [
+    "Tasuku Furukawa"
+  ],
+  "id": 86709,
+  "malId": 104038,
+  "type": "manga",
+  "title": "Dancing Colors",
+  "url": "https://anilist.co/manga/86709",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86709-9RVfclNIr3Z6.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:09.000Z",
+  "updatedAt": "2021-05-20T14:55:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6e0256f0-ebcc-4fa5-9dcd-6997ffa63957": {
+        "authors": [
+          "Furukawa Tasuku"
+        ],
+        "identifier": "6e0256f0-ebcc-4fa5-9dcd-6997ffa63957",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dancing Colors",
+        "url": "https://mangadex.org/title/6e0256f0-ebcc-4fa5-9dcd-6997ffa63957",
+        "image": "https://uploads.mangadex.org/covers/6e0256f0-ebcc-4fa5-9dcd-6997ffa63957/5179fbbe-4856-481b-a23c-a7a559f75f1d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104038,
+        "aniId": 86709,
+        "createdAt": "2020-10-12T16:10:16.000Z",
+        "updatedAt": "2021-06-04T23:33:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dancing_colors": {
+        "authors": [
+          "Furukawa",
+          "Tasuku"
+        ],
+        "identifier": "dancing_colors",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dancing Colors",
+        "url": "https://manganelo.com/manga/dancing_colors",
+        "image": "https://avt.mkklcdnv6temp.com/27/j/14-1583490714.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104038,
+        "aniId": 86709,
+        "createdAt": "2021-04-06T16:47:08.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

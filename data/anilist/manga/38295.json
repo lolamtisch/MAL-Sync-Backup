@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "愛しのウルフボーイ",
+    "Dear Wolf"
+  ],
+  "authors": [
+    "Yuu Asagiri"
+  ],
+  "id": 38295,
+  "malId": 8295,
+  "type": "manga",
+  "title": "Itoshi no Wolf Boy",
+  "url": "https://anilist.co/manga/38295",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8295.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e24543f8-8e14-4971-9a45-c2a984d8589c": {
+        "authors": [
+          "Asagiri Yuu"
+        ],
+        "identifier": "e24543f8-8e14-4971-9a45-c2a984d8589c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dear Wolf",
+        "url": "https://mangadex.org/title/e24543f8-8e14-4971-9a45-c2a984d8589c",
+        "image": "https://uploads.mangadex.org/covers/e24543f8-8e14-4971-9a45-c2a984d8589c/c830b747-9909-49a5-80f2-bf3cb8c010a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8295,
+        "aniId": 38295,
+        "createdAt": "2020-10-12T16:03:35.000Z",
+        "updatedAt": "2021-06-02T15:07:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Boy Princess",
+    "Kiss me 프린세스"
+  ],
+  "authors": [
+    "Se-Young Kim"
+  ],
+  "id": 30837,
+  "malId": 837,
+  "type": "manga",
+  "title": "Kiss me Princess",
+  "url": "https://anilist.co/manga/30837",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/837.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-05-20T14:35:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "yy918684": {
+        "authors": [],
+        "identifier": "yy918684",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kiss Me, Love Me",
+        "url": "https://manganelo.com/manga/yy918684",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/94-yy918684.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 837,
+        "aniId": 30837,
+        "createdAt": "2020-10-12T16:26:28.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kiss_me_princess": {
+        "authors": [
+          "KIM Se-Young"
+        ],
+        "identifier": "kiss_me_princess",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kiss Me Princess",
+        "url": "https://fanfox.net/manga/kiss_me_princess/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11826/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 837,
+        "aniId": 30837,
+        "createdAt": "2021-04-22T10:58:28.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

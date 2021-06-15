@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Cat's Love",
+    "猫の恋"
+  ],
+  "authors": [
+    "Shimaji"
+  ],
+  "id": 49110,
+  "malId": 19110,
+  "type": "manga",
+  "title": "Neko no Koi",
+  "url": "https://anilist.co/manga/49110",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19110.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:17.000Z",
+  "updatedAt": "2021-05-20T14:45:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d84aae3e-efe9-4d9e-9371-88b00290a358": {
+        "authors": [
+          "Shimaji"
+        ],
+        "identifier": "d84aae3e-efe9-4d9e-9371-88b00290a358",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko no Koi",
+        "url": "https://mangadex.org/title/d84aae3e-efe9-4d9e-9371-88b00290a358",
+        "image": "https://uploads.mangadex.org/covers/d84aae3e-efe9-4d9e-9371-88b00290a358/0d343015-6b28-4402-9569-d93e9ff6aa5a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19110,
+        "aniId": 49110,
+        "createdAt": "2020-10-12T16:03:09.000Z",
+        "updatedAt": "2021-06-02T12:07:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

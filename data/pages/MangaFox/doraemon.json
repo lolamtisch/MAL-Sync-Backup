@@ -1,0 +1,60 @@
+{
+  "authors": [
+    "FUJIKO F. Fujio"
+  ],
+  "identifier": "doraemon",
+  "type": "manga",
+  "page": "MangaFox",
+  "title": "Doraemon",
+  "url": "https://fanfox.net/manga/doraemon/",
+  "image": "https://fmcdn.mfcdn.net/store/manga/1184/cover.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 1032,
+  "aniId": 31032,
+  "createdAt": "2021-03-09T07:11:10.000Z",
+  "updatedAt": "2021-05-20T15:39:23.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Doraemon",
+      "ドラえもん"
+    ],
+    "authors": [
+      "Fujiko, Fujio F."
+    ],
+    "id": 1032,
+    "type": "manga",
+    "title": "Doraemon",
+    "url": "https://myanimelist.net/manga/1032/Doraemon",
+    "image": "https://cdn.myanimelist.net/images/manga/2/41460.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:29.000Z",
+    "updatedAt": "2021-04-21T17:27:08.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ドラえもん"
+    ],
+    "authors": [
+      "F. Fujio Fujiko",
+      "Misato Raillard"
+    ],
+    "id": 31032,
+    "malId": 1032,
+    "type": "manga",
+    "title": "Doraemon",
+    "url": "https://anilist.co/manga/31032",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1032.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:51.000Z",
+    "updatedAt": "2021-05-20T14:35:51.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/1032/Doraemon"
+}

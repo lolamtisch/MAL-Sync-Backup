@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "バクネヤング"
+  ],
+  "authors": [
+    "Toyokazu Matsunaga"
+  ],
+  "id": 35532,
+  "malId": 5532,
+  "type": "manga",
+  "title": "Bakune Young",
+  "url": "https://anilist.co/manga/35532",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5532.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-05-20T14:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "417ea0e1-cfef-4012-af4d-1c36f405a21c": {
+        "authors": [
+          "MATSUNAGA Toyokazu"
+        ],
+        "identifier": "417ea0e1-cfef-4012-af4d-1c36f405a21c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bakune Young",
+        "url": "https://mangadex.org/title/417ea0e1-cfef-4012-af4d-1c36f405a21c",
+        "image": "https://uploads.mangadex.org/covers/417ea0e1-cfef-4012-af4d-1c36f405a21c/36bb6577-8cf0-4433-8a57-b05eb0e080cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5532,
+        "aniId": 35532,
+        "createdAt": "2020-10-12T16:11:35.000Z",
+        "updatedAt": "2021-06-05T09:32:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

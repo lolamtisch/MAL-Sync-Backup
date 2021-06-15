@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "be our guest"
+  ],
+  "authors": [
+    "Azuma, Yuki"
+  ],
+  "id": 14615,
+  "type": "manga",
+  "title": "Be Our Guest",
+  "url": "https://myanimelist.net/manga/14615/Be_Our_Guest",
+  "image": "https://cdn.myanimelist.net/images/manga/3/20957.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:07.000Z",
+  "updatedAt": "2021-05-01T22:33:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "929d7a76-0134-4ecb-bbb2-fd97aea566a9": {
+        "authors": [
+          "AZUMA Yuki"
+        ],
+        "identifier": "929d7a76-0134-4ecb-bbb2-fd97aea566a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Be Our Guest",
+        "url": "https://mangadex.org/title/929d7a76-0134-4ecb-bbb2-fd97aea566a9",
+        "image": "https://uploads.mangadex.org/covers/929d7a76-0134-4ecb-bbb2-fd97aea566a9/27ff4a4e-be77-4798-8be2-dca182a1febc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14615,
+        "aniId": 44615,
+        "createdAt": "2020-10-12T16:04:42.000Z",
+        "updatedAt": "2021-06-02T22:50:33.000Z",
+        "deletedAt": null
+      },
+      "e814cf53-cd39-4ee4-b8cd-89f92933b682": {
+        "authors": [
+          "Yeong Mo"
+        ],
+        "identifier": "e814cf53-cd39-4ee4-b8cd-89f92933b682",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Be my guest",
+        "url": "https://mangadex.org/title/e814cf53-cd39-4ee4-b8cd-89f92933b682",
+        "image": "https://uploads.mangadex.org/covers/e814cf53-cd39-4ee4-b8cd-89f92933b682/23b300fb-fc8a-4f9e-80f2-163bae69aad9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14615,
+        "aniId": 44615,
+        "createdAt": "2020-10-12T16:18:47.000Z",
+        "updatedAt": "2021-06-07T20:00:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

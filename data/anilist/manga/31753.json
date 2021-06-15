@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ソラソラ",
+    "SoraSora",
+    "Koishiterururu"
+  ],
+  "authors": [
+    "Youko Maki"
+  ],
+  "id": 31753,
+  "malId": 1753,
+  "type": "manga",
+  "title": "Sora Sora",
+  "url": "https://anilist.co/manga/31753",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1753.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T15:51:19.000Z",
+  "updatedAt": "2021-06-04T15:51:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "edb650c3-eb40-4c80-b935-30c4fc6a00a0": {
+        "authors": [
+          "Maki Youko"
+        ],
+        "identifier": "edb650c3-eb40-4c80-b935-30c4fc6a00a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sora Sora",
+        "url": "https://mangadex.org/title/edb650c3-eb40-4c80-b935-30c4fc6a00a0",
+        "image": "https://uploads.mangadex.org/covers/edb650c3-eb40-4c80-b935-30c4fc6a00a0/1823d6cf-2b0c-4bb6-a10c-272ef8a6583d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1753,
+        "aniId": 31753,
+        "createdAt": "2020-10-12T16:09:09.000Z",
+        "updatedAt": "2021-06-04T15:51:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

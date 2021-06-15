@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "悪玉",
+    "Bad Eggs",
+    "Aku Tama",
+    "Nonfiction"
+  ],
+  "authors": [
+    "Yuuko Yoshida"
+  ],
+  "id": 84559,
+  "malId": 54559,
+  "type": "manga",
+  "title": "Akudama",
+  "url": "https://anilist.co/manga/84559",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx84559-uNjjLDc3Ckb7.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:01.000Z",
+  "updatedAt": "2021-05-20T14:50:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "747b8e4e-1c3e-4b28-b194-d239636c2f1f": {
+        "authors": [
+          "Yoshida Yuuko"
+        ],
+        "identifier": "747b8e4e-1c3e-4b28-b194-d239636c2f1f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akudama",
+        "url": "https://mangadex.org/title/747b8e4e-1c3e-4b28-b194-d239636c2f1f",
+        "image": "https://uploads.mangadex.org/covers/747b8e4e-1c3e-4b28-b194-d239636c2f1f/09a08645-e97a-4783-affc-1348f40f5ded.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54559,
+        "aniId": 84559,
+        "createdAt": "2020-10-12T16:06:32.000Z",
+        "updatedAt": "2021-06-03T20:21:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akudama": {
+        "authors": [
+          "Yoshida",
+          "Yuuko"
+        ],
+        "identifier": "akudama",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akudama",
+        "url": "https://manganelo.com/manga/akudama",
+        "image": "https://avt.mkklcdnv6.com/46/p/8-1583479954.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54559,
+        "aniId": 84559,
+        "createdAt": "2020-10-29T19:44:47.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

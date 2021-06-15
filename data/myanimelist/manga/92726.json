@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "祝姫"
+  ],
+  "authors": [
+    "Ryukishi07",
+    "Tanaka, Tomo"
+  ],
+  "id": 92726,
+  "type": "manga",
+  "title": "Iwaihime",
+  "url": "https://myanimelist.net/manga/92726/Iwaihime",
+  "image": "https://cdn.myanimelist.net/images/manga/3/172112.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:10.000Z",
+  "updatedAt": "2021-03-25T10:19:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "391d972c-3a0c-4c0a-8021-220e0512850b": {
+        "authors": [
+          "Tanaka Tomo",
+          "DMM",
+          "Ryukishi07"
+        ],
+        "identifier": "391d972c-3a0c-4c0a-8021-220e0512850b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Iwaihime",
+        "url": "https://mangadex.org/title/391d972c-3a0c-4c0a-8021-220e0512850b",
+        "image": "https://uploads.mangadex.org/covers/391d972c-3a0c-4c0a-8021-220e0512850b/22a8d2f6-ba03-45f5-a2af-07ae4255faca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92726,
+        "aniId": 86528,
+        "createdAt": "2020-10-12T16:09:21.000Z",
+        "updatedAt": "2021-06-04T16:59:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "iwaihime": {
+        "authors": [
+          "DMM",
+          "Ryukishi 07",
+          "TANAKA Tomo"
+        ],
+        "identifier": "iwaihime",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Iwaihime",
+        "url": "https://mangasee123.com/manga/Iwaihime",
+        "image": "https://cover.nep.li/cover/Iwaihime.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92726,
+        "aniId": 86528,
+        "createdAt": "2021-03-25T10:19:15.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

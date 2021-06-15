@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Berry's"
+  ],
+  "authors": [
+    "Sakurai, Makoto"
+  ],
+  "id": 85891,
+  "type": "manga",
+  "title": "Berry's",
+  "url": "https://myanimelist.net/manga/85891/Berrys",
+  "image": "https://cdn.myanimelist.net/images/manga/1/150599.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:44.000Z",
+  "updatedAt": "2021-05-12T13:25:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e8a148e6-bd82-48f3-a891-ec0c4bf0cadd": {
+        "authors": [
+          "Sakurai Makoto",
+          "Sphere"
+        ],
+        "identifier": "e8a148e6-bd82-48f3-a891-ec0c4bf0cadd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Berry's",
+        "url": "https://mangadex.org/title/e8a148e6-bd82-48f3-a891-ec0c4bf0cadd",
+        "image": "https://uploads.mangadex.org/covers/e8a148e6-bd82-48f3-a891-ec0c4bf0cadd/9aa366a4-3d6a-4358-981b-273dfedf3313.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85891,
+        "aniId": 93798,
+        "createdAt": "2020-10-12T16:07:11.000Z",
+        "updatedAt": "2021-06-04T00:57:59.000Z",
+        "deletedAt": null
+      },
+      "c42e1368-7bb5-47ca-ab50-72468cfa93ae": {
+        "authors": [
+          "Jéro",
+          "Fabien Dalmasso"
+        ],
+        "identifier": "c42e1368-7bb5-47ca-ab50-72468cfa93ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lil' Berry",
+        "url": "https://mangadex.org/title/c42e1368-7bb5-47ca-ab50-72468cfa93ae",
+        "image": "https://uploads.mangadex.org/covers/c42e1368-7bb5-47ca-ab50-72468cfa93ae/cac98f4a-0b7e-4abc-bbe1-0b0e3d7af165.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85891,
+        "aniId": 93798,
+        "createdAt": "2020-10-12T16:18:41.000Z",
+        "updatedAt": "2021-06-07T19:15:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

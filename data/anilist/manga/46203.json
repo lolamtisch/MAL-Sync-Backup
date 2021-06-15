@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Beyond the White Window",
+    "白い窓の向こう側",
+    "Shiroi Mado no Mukou Gawa",
+    "The other side of the white window"
+  ],
+  "authors": [
+    "Kyouko Hikawa"
+  ],
+  "id": 46203,
+  "malId": 16203,
+  "type": "manga",
+  "title": "Shiroi Mado no Mukougawa",
+  "url": "https://anilist.co/manga/46203",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16203.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:53.000Z",
+  "updatedAt": "2021-05-20T14:43:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0858ba45-2aeb-4838-b6b8-b5da2819693b": {
+        "authors": [
+          "HIKAWA Kyouko"
+        ],
+        "identifier": "0858ba45-2aeb-4838-b6b8-b5da2819693b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shiroi Mado no Mukougawa",
+        "url": "https://mangadex.org/title/0858ba45-2aeb-4838-b6b8-b5da2819693b",
+        "image": "https://uploads.mangadex.org/covers/0858ba45-2aeb-4838-b6b8-b5da2819693b/f52d0331-f01b-40a9-b15a-d49411654f35.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16203,
+        "aniId": 46203,
+        "createdAt": "2020-10-12T16:03:40.000Z",
+        "updatedAt": "2021-06-02T15:43:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shiroi_mado_no_mukougawa": {
+        "authors": [],
+        "identifier": "shiroi_mado_no_mukougawa",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shiroi Mado No Mukougawa",
+        "url": "https://manganelo.com/manga/shiroi_mado_no_mukougawa",
+        "image": "https://avt.mkklcdnv6.com/20/a/10-1583482891.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16203,
+        "aniId": 46203,
+        "createdAt": "2020-10-12T16:25:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

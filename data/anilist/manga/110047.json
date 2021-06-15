@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Interview with a Murderer",
+    "살인자와의 인터뷰"
+  ],
+  "authors": [
+    "KJK"
+  ],
+  "id": 110047,
+  "malId": null,
+  "type": "manga",
+  "title": "Sarinjawaui Interview",
+  "url": "https://anilist.co/manga/110047",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110047-Lz1Vti8HgjGq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:21:07.000Z",
+  "updatedAt": "2021-06-08T01:21:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eed85a4f-1db9-4161-aaed-f4691ee5f826": {
+        "authors": [
+          "KJK"
+        ],
+        "identifier": "eed85a4f-1db9-4161-aaed-f4691ee5f826",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Interview With a Murder",
+        "url": "https://mangadex.org/title/eed85a4f-1db9-4161-aaed-f4691ee5f826",
+        "image": "https://uploads.mangadex.org/covers/eed85a4f-1db9-4161-aaed-f4691ee5f826/c5b2d136-6cde-411b-ab7a-51fc6bb6a20c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110047,
+        "createdAt": "2020-10-12T16:20:48.000Z",
+        "updatedAt": "2021-06-08T01:36:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

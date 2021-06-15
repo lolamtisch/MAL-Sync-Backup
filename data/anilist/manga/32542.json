@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Toui Hasumi"
+  ],
+  "id": 32542,
+  "malId": 2542,
+  "type": "manga",
+  "title": "Genyou no Meizu",
+  "url": "https://anilist.co/manga/32542",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2542.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "436e6cd5-ffd3-420c-87b1-238f756304dc": {
+        "authors": [
+          "Hasumi Toui"
+        ],
+        "identifier": "436e6cd5-ffd3-420c-87b1-238f756304dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Genyou no Meizu",
+        "url": "https://mangadex.org/title/436e6cd5-ffd3-420c-87b1-238f756304dc",
+        "image": "https://uploads.mangadex.org/covers/436e6cd5-ffd3-420c-87b1-238f756304dc/4ce88744-0b08-4625-98cb-6623f85a64ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2542,
+        "aniId": 32542,
+        "createdAt": "2020-10-12T16:06:48.000Z",
+        "updatedAt": "2021-06-03T22:10:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

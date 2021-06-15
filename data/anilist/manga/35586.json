@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "修羅の門",
+    "Gate Of Carnage"
+  ],
+  "authors": [
+    "Masatoshi Kawahara"
+  ],
+  "id": 35586,
+  "malId": 5586,
+  "type": "manga",
+  "title": "Shura no Mon",
+  "url": "https://anilist.co/manga/35586",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35586-9GSEKsEFE3NG.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-05-20T14:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d689360-9147-409a-9c76-61249a105653": {
+        "authors": [
+          "Kawahara Masatoshi"
+        ],
+        "identifier": "7d689360-9147-409a-9c76-61249a105653",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shura no Mon",
+        "url": "https://mangadex.org/title/7d689360-9147-409a-9c76-61249a105653",
+        "image": "https://uploads.mangadex.org/covers/7d689360-9147-409a-9c76-61249a105653/68ed939e-177b-40ac-9042-08ec4b5b6875.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5586,
+        "aniId": 35586,
+        "createdAt": "2020-10-12T16:04:24.000Z",
+        "updatedAt": "2021-06-02T20:46:12.000Z",
+        "deletedAt": null
+      },
+      "551318fb-c170-489c-a70f-38b2f59659e7": {
+        "authors": [
+          "Kawahara Masatoshi",
+          "Kai Toushirou"
+        ],
+        "identifier": "551318fb-c170-489c-a70f-38b2f59659e7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shura no Mon (Crest of Shura)",
+        "url": "https://mangadex.org/title/551318fb-c170-489c-a70f-38b2f59659e7",
+        "image": "https://uploads.mangadex.org/covers/551318fb-c170-489c-a70f-38b2f59659e7/d8d8dc0b-3a82-4d5c-a5ad-1f5f0e4353a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5586,
+        "aniId": 35586,
+        "createdAt": "2020-10-12T16:18:20.000Z",
+        "updatedAt": "2021-06-07T16:11:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shura_no_mon": {
+        "authors": [
+          "Kawahara",
+          "Masatoshi"
+        ],
+        "identifier": "shura_no_mon",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shura No Mon",
+        "url": "https://manganelo.com/manga/shura_no_mon",
+        "image": "https://avt.mkklcdnv6.com/44/z/1-1583465478.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5586,
+        "aniId": 35586,
+        "createdAt": "2020-11-11T23:12:44.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

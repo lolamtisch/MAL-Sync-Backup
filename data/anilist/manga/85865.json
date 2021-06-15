@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "trash. トラッシュ"
+  ],
+  "authors": [
+    "Kenji Yamamoto",
+    "D.P"
+  ],
+  "id": 85865,
+  "malId": 61683,
+  "type": "manga",
+  "title": "trash.",
+  "url": "https://anilist.co/manga/85865",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55865-byaDgh1auDIr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:42.000Z",
+  "updatedAt": "2021-05-20T14:50:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5553e16a-3ef9-490a-9b5b-912b07bb0931": {
+        "authors": [
+          "Yamamoto Kenji",
+          "D.P"
+        ],
+        "identifier": "5553e16a-3ef9-490a-9b5b-912b07bb0931",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "trash.",
+        "url": "https://mangadex.org/title/5553e16a-3ef9-490a-9b5b-912b07bb0931",
+        "image": "https://uploads.mangadex.org/covers/5553e16a-3ef9-490a-9b5b-912b07bb0931/77598146-f05b-4772-bd52-aa1a25e86cbc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61683,
+        "aniId": 85865,
+        "createdAt": "2020-10-12T16:07:55.000Z",
+        "updatedAt": "2021-06-04T06:11:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "trash": {
+        "authors": [],
+        "identifier": "trash",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Trash.",
+        "url": "https://manganelo.com/manga/trash",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/238-trash.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61683,
+        "aniId": 85865,
+        "createdAt": "2020-10-12T16:25:49.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "trash": {
+        "authors": [
+          "D.P",
+          "YAMAMOTO Kenji"
+        ],
+        "identifier": "trash",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Trash",
+        "url": "https://mangasee123.com/manga/Trash",
+        "image": "https://cover.nep.li/cover/Trash.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 61683,
+        "aniId": 85865,
+        "createdAt": "2021-01-10T23:20:41.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

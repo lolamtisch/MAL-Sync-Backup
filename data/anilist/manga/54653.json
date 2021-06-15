@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "エンドゲーム"
+  ],
+  "authors": [
+    "Hiko Yamanaka"
+  ],
+  "id": 54653,
+  "malId": 24653,
+  "type": "manga",
+  "title": "End Game",
+  "url": "https://anilist.co/manga/54653",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24653.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:45.000Z",
+  "updatedAt": "2021-05-20T14:46:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c2dddb21-6adc-4474-90a7-7a2ab04fe36d": {
+        "authors": [
+          "Yamanaka Hiko"
+        ],
+        "identifier": "c2dddb21-6adc-4474-90a7-7a2ab04fe36d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "End Game",
+        "url": "https://mangadex.org/title/c2dddb21-6adc-4474-90a7-7a2ab04fe36d",
+        "image": "https://uploads.mangadex.org/covers/c2dddb21-6adc-4474-90a7-7a2ab04fe36d/14731a5e-8a96-4475-a260-3cdb5768d20d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24653,
+        "aniId": 54653,
+        "createdAt": "2020-10-12T16:04:17.000Z",
+        "updatedAt": "2021-06-02T20:03:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

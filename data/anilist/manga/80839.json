@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "インパチェンス"
+  ],
+  "authors": [
+    "Hachiya"
+  ],
+  "id": 80839,
+  "malId": 50839,
+  "type": "manga",
+  "title": "Impatiens",
+  "url": "https://anilist.co/manga/80839",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50839.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:49.000Z",
+  "updatedAt": "2021-05-20T14:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2a1a719a-4990-481b-8bfa-37e68bbcbc49": {
+        "authors": [
+          "Hachiya"
+        ],
+        "identifier": "2a1a719a-4990-481b-8bfa-37e68bbcbc49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Impatiens",
+        "url": "https://mangadex.org/title/2a1a719a-4990-481b-8bfa-37e68bbcbc49",
+        "image": "https://uploads.mangadex.org/covers/2a1a719a-4990-481b-8bfa-37e68bbcbc49/632fa564-1cc1-4c74-bd1d-2b17eff943e1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50839,
+        "aniId": 80839,
+        "createdAt": "2020-10-12T16:07:11.000Z",
+        "updatedAt": "2021-06-04T00:55:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

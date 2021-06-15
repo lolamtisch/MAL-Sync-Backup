@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "チェリー・プロジェクト"
+  ],
+  "authors": [
+    "Naoko Takeuchi"
+  ],
+  "id": 30640,
+  "malId": 640,
+  "type": "manga",
+  "title": "The Cherry Project",
+  "url": "https://anilist.co/manga/30640",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30640-SHtNEKxOWXms.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2628860c-5a21-4587-abe6-918758c59d9a": {
+        "authors": [
+          "Takeuchi Naoko"
+        ],
+        "identifier": "2628860c-5a21-4587-abe6-918758c59d9a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Cherry Project",
+        "url": "https://mangadex.org/title/2628860c-5a21-4587-abe6-918758c59d9a",
+        "image": "https://uploads.mangadex.org/covers/2628860c-5a21-4587-abe6-918758c59d9a/7ec7d9f8-8f0c-49fb-8920-8f4d9e6549b3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 640,
+        "aniId": 30640,
+        "createdAt": "2020-10-12T16:02:42.000Z",
+        "updatedAt": "2021-06-02T08:53:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

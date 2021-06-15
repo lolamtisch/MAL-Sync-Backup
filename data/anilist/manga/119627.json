@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "おいでよ! くのいちの里"
+  ],
+  "authors": [
+    "Takushou Ichiren"
+  ],
+  "id": 119627,
+  "malId": null,
+  "type": "manga",
+  "title": "Oideyo! Kunoichi no Sato",
+  "url": "https://anilist.co/manga/119627",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119627-Q239HZq9yqYm.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-07T02:49:30.000Z",
+  "updatedAt": "2021-06-07T02:49:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "851ca5ed-36cd-4825-81b8-a96c9ba61dcd": {
+        "authors": [
+          "Kougi Anmitsu",
+          "Ichiren Takushou"
+        ],
+        "identifier": "851ca5ed-36cd-4825-81b8-a96c9ba61dcd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oideyo! Kunoichi no Sato",
+        "url": "https://mangadex.org/title/851ca5ed-36cd-4825-81b8-a96c9ba61dcd",
+        "image": "https://uploads.mangadex.org/covers/851ca5ed-36cd-4825-81b8-a96c9ba61dcd/66f47394-1fd7-4ea6-a981-d5b6507bb807.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119627,
+        "createdAt": "2020-10-12T16:16:51.000Z",
+        "updatedAt": "2021-06-07T07:35:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

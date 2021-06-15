@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "兎の角",
+    "Rabbit Horns",
+    "Rabbit's Horn"
+  ],
+  "authors": [
+    "Nozomi Mutsuki"
+  ],
+  "id": 75845,
+  "malId": 45845,
+  "type": "manga",
+  "title": "Usagi no Tsuno",
+  "url": "https://anilist.co/manga/75845",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45845.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:27.000Z",
+  "updatedAt": "2021-05-20T14:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "94f1f92e-1a45-4e62-af09-3f3d31f46b8e": {
+        "authors": [
+          "Mutsuki Nozomi"
+        ],
+        "identifier": "94f1f92e-1a45-4e62-af09-3f3d31f46b8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rabbit Horns",
+        "url": "https://mangadex.org/title/94f1f92e-1a45-4e62-af09-3f3d31f46b8e",
+        "image": "https://uploads.mangadex.org/covers/94f1f92e-1a45-4e62-af09-3f3d31f46b8e/56fe68fe-a422-40d1-98d1-17ece4b868d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45845,
+        "aniId": 75845,
+        "createdAt": "2020-10-12T16:05:43.000Z",
+        "updatedAt": "2021-06-03T14:32:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

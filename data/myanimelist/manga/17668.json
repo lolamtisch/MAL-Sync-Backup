@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "向日性のとびら"
+  ],
+  "authors": [
+    "SHOOWA"
+  ],
+  "id": 17668,
+  "type": "manga",
+  "title": "Koujitsusei no Tobira",
+  "url": "https://myanimelist.net/manga/17668/Koujitsusei_no_Tobira",
+  "image": "https://cdn.myanimelist.net/images/manga/1/168592.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:28.000Z",
+  "updatedAt": "2021-04-01T13:01:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "870e20a9-b860-41f4-bdac-b344226c0596": {
+        "authors": [
+          "Shoowa"
+        ],
+        "identifier": "870e20a9-b860-41f4-bdac-b344226c0596",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koujitsuei no Tobira",
+        "url": "https://mangadex.org/title/870e20a9-b860-41f4-bdac-b344226c0596",
+        "image": "https://uploads.mangadex.org/covers/870e20a9-b860-41f4-bdac-b344226c0596/33f214f8-1464-4a7a-968b-48986b24d3ae.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17668,
+        "aniId": 47668,
+        "createdAt": "2020-10-12T16:06:23.000Z",
+        "updatedAt": "2021-06-03T19:23:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koujitsusei_no_tobira": {
+        "authors": [
+          "Shoowa"
+        ],
+        "identifier": "koujitsusei_no_tobira",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koujitsusei no Tobira",
+        "url": "https://fanfox.net/manga/koujitsusei_no_tobira/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7448/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17668,
+        "aniId": 47668,
+        "createdAt": "2021-04-01T13:01:25.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

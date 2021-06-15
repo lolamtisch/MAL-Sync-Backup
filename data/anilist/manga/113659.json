@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Night and Day",
+    "月とすっぴん",
+    "Moon and No Make-Up"
+  ],
+  "authors": [
+    "Yuu Akegata",
+    "Ian O'Connor"
+  ],
+  "id": 113659,
+  "malId": 122977,
+  "type": "manga",
+  "title": "Tsuki to Suppin",
+  "url": "https://anilist.co/manga/113659",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113659-ka3nXrQYAuCZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:58.000Z",
+  "updatedAt": "2021-05-20T14:58:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e668a2c9-c3bb-4e45-92da-732806992f44": {
+        "authors": [
+          "Akegata Yuu"
+        ],
+        "identifier": "e668a2c9-c3bb-4e45-92da-732806992f44",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuki to Suppin",
+        "url": "https://mangadex.org/title/e668a2c9-c3bb-4e45-92da-732806992f44",
+        "image": "https://uploads.mangadex.org/covers/e668a2c9-c3bb-4e45-92da-732806992f44/75f06d6f-7fd3-4a19-9464-b508fca3ef9c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122977,
+        "aniId": 113659,
+        "createdAt": "2020-10-12T16:17:49.000Z",
+        "updatedAt": "2021-06-07T11:17:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pt921240": {
+        "authors": [
+          "Yuu",
+          "Akegata"
+        ],
+        "identifier": "pt921240",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Moon And No Make-Up",
+        "url": "https://manganelo.com/manga/pt921240",
+        "image": "https://avt.mkklcdnv6temp.com/48/u/19-1583500948.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 122977,
+        "aniId": 113659,
+        "createdAt": "2020-10-12T16:24:54.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Time and Again",
+    "파한집"
+  ],
+  "authors": [
+    "JiUn Yun"
+  ],
+  "id": 38829,
+  "malId": 8829,
+  "type": "manga",
+  "title": "Pahanjip",
+  "url": "https://anilist.co/manga/38829",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8829.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:52.000Z",
+  "updatedAt": "2021-05-20T14:40:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "438bba21-e338-481c-86cb-dd4f8883150f": {
+        "authors": [
+          "YUN Ji Woon"
+        ],
+        "identifier": "438bba21-e338-481c-86cb-dd4f8883150f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pahanjip",
+        "url": "https://mangadex.org/title/438bba21-e338-481c-86cb-dd4f8883150f",
+        "image": "https://uploads.mangadex.org/covers/438bba21-e338-481c-86cb-dd4f8883150f/b9524e84-487b-40b7-a3e2-349b560c5a22.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8829,
+        "aniId": 38829,
+        "createdAt": "2020-10-12T16:13:07.000Z",
+        "updatedAt": "2021-06-05T18:57:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

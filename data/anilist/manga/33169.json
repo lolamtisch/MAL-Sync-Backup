@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ナイン"
+  ],
+  "authors": [
+    "Mitsuru Adachi"
+  ],
+  "id": 33169,
+  "malId": 3169,
+  "type": "manga",
+  "title": "Nine",
+  "url": "https://anilist.co/manga/33169",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33169-i8sNYPgxq75Z.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce1b8042-ae8f-4a2c-84ea-3e2ec6dd126c": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "ce1b8042-ae8f-4a2c-84ea-3e2ec6dd126c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nine",
+        "url": "https://mangadex.org/title/ce1b8042-ae8f-4a2c-84ea-3e2ec6dd126c",
+        "image": "https://uploads.mangadex.org/covers/ce1b8042-ae8f-4a2c-84ea-3e2ec6dd126c/a603453f-b4f1-4f4f-8449-1a7231f2d045.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3169,
+        "aniId": 33169,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:38:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

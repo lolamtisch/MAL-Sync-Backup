@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "リウーを待ちながら",
+    "Riuu wo Machi nagara"
+  ],
+  "authors": [
+    "Ao Akato"
+  ],
+  "id": 104806,
+  "malId": 105392,
+  "type": "manga",
+  "title": "Riuu wo Machinagara",
+  "url": "https://anilist.co/manga/104806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104806-F6chnFdSDJQ3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:15.000Z",
+  "updatedAt": "2021-05-20T14:55:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "39cfcd21-ff6f-4c49-8c04-bcab7a91302d": {
+        "authors": [
+          "AKATO Ao"
+        ],
+        "identifier": "39cfcd21-ff6f-4c49-8c04-bcab7a91302d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rieux wo Machi nagara",
+        "url": "https://mangadex.org/title/39cfcd21-ff6f-4c49-8c04-bcab7a91302d",
+        "image": "https://uploads.mangadex.org/covers/39cfcd21-ff6f-4c49-8c04-bcab7a91302d/5684710f-3161-4bf3-8131-2bf24cfba782.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105392,
+        "aniId": 104806,
+        "createdAt": "2020-11-17T05:45:16.000Z",
+        "updatedAt": "2021-06-08T07:26:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

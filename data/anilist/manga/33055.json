@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Chirality",
+    "キラリティー",
+    "To the Promised Land"
+  ],
+  "authors": [
+    "Satoshi Urushihara"
+  ],
+  "id": 33055,
+  "malId": 3055,
+  "type": "manga",
+  "title": "Chirality",
+  "url": "https://anilist.co/manga/33055",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n33055-wKAnsVOlLUIJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:02.000Z",
+  "updatedAt": "2021-05-20T14:38:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "caf157f9-fc01-4dfa-bc00-4a9256cec54d": {
+        "authors": [
+          "Urushihara Satoshi"
+        ],
+        "identifier": "caf157f9-fc01-4dfa-bc00-4a9256cec54d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chirality",
+        "url": "https://mangadex.org/title/caf157f9-fc01-4dfa-bc00-4a9256cec54d",
+        "image": "https://uploads.mangadex.org/covers/caf157f9-fc01-4dfa-bc00-4a9256cec54d/ca3dfe46-c857-40ca-8eb7-b9c4405eaa22.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3055,
+        "aniId": 33055,
+        "createdAt": "2020-10-12T16:05:08.000Z",
+        "updatedAt": "2021-06-03T10:30:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chirality": {
+        "authors": [],
+        "identifier": "chirality",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chirality",
+        "url": "https://manganelo.com/manga/chirality",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7299-chirality.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3055,
+        "aniId": 33055,
+        "createdAt": "2020-10-12T16:22:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

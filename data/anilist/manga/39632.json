@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "幸福の王子",
+    "The Happy Prince",
+    "The Prince of Happiness"
+  ],
+  "authors": [
+    "Suzuki Tanaka"
+  ],
+  "id": 39632,
+  "malId": 9632,
+  "type": "manga",
+  "title": "Koufuku no Ouji",
+  "url": "https://anilist.co/manga/39632",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n39632-lZcguf4oKusJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:58.000Z",
+  "updatedAt": "2021-05-20T14:40:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ab1b967-a1c6-4873-aa1f-d77c105149e4": {
+        "authors": [
+          "TANAKA Suzuki"
+        ],
+        "identifier": "3ab1b967-a1c6-4873-aa1f-d77c105149e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koufuku no Ouji",
+        "url": "https://mangadex.org/title/3ab1b967-a1c6-4873-aa1f-d77c105149e4",
+        "image": "https://uploads.mangadex.org/covers/3ab1b967-a1c6-4873-aa1f-d77c105149e4/238aa40a-d7e2-45f6-9773-7d95a9927733.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9632,
+        "aniId": 39632,
+        "createdAt": "2020-11-24T12:56:23.000Z",
+        "updatedAt": "2021-06-08T07:37:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

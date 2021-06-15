@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Alice in Hell",
+    "地獄のアリス"
+  ],
+  "authors": [
+    "Matsumoto, Jiro"
+  ],
+  "id": 21665,
+  "type": "manga",
+  "title": "Jigoku no Alice",
+  "url": "https://myanimelist.net/manga/21665/Jigoku_no_Alice",
+  "image": "https://cdn.myanimelist.net/images/manga/1/76575.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:58.000Z",
+  "updatedAt": "2021-04-02T21:01:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d7230907-4a0a-4eff-bc18-d0cd1d117288": {
+        "authors": [
+          "Matsumoto Jiro"
+        ],
+        "identifier": "d7230907-4a0a-4eff-bc18-d0cd1d117288",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice from Hell",
+        "url": "https://mangadex.org/title/d7230907-4a0a-4eff-bc18-d0cd1d117288",
+        "image": "https://uploads.mangadex.org/covers/d7230907-4a0a-4eff-bc18-d0cd1d117288/a2643a1a-7f5a-44f5-bc06-a402271dee0f.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21665,
+        "aniId": 51665,
+        "createdAt": "2020-10-12T16:05:30.000Z",
+        "updatedAt": "2021-06-03T13:01:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jigoku_no_alice": {
+        "authors": [],
+        "identifier": "jigoku_no_alice",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jigoku No Alice",
+        "url": "https://manganelo.com/manga/jigoku_no_alice",
+        "image": "https://avt.mkklcdnv6.com/34/m/3-1583469035.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21665,
+        "aniId": 51665,
+        "createdAt": "2020-10-12T16:23:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "alice-in-hell": {
+        "authors": [
+          "MATSUMOTO Jiro"
+        ],
+        "identifier": "alice-in-hell",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Alice in Hell",
+        "url": "https://mangasee123.com/manga/Alice-In-Hell",
+        "image": "https://cover.nep.li/cover/Alice-In-Hell.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21665,
+        "aniId": 51665,
+        "createdAt": "2021-04-02T21:01:30.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

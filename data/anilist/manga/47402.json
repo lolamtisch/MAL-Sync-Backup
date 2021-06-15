@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "드래곤 후"
+  ],
+  "authors": [
+    "Ju-Ri Kim",
+    "Yeon Ha",
+    "Jae-Rahn Jung"
+  ],
+  "id": 47402,
+  "malId": 17402,
+  "type": "manga",
+  "title": "Dragon Who",
+  "url": "https://anilist.co/manga/47402",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17402.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:06.000Z",
+  "updatedAt": "2021-05-20T14:44:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e4dae690-26ed-4784-9a8b-fad7b9def19a": {
+        "authors": [
+          "Kim Ju-Ri",
+          "Jung Jae-Rān",
+          "Ha Yuhn"
+        ],
+        "identifier": "e4dae690-26ed-4784-9a8b-fad7b9def19a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dragon Who",
+        "url": "https://mangadex.org/title/e4dae690-26ed-4784-9a8b-fad7b9def19a",
+        "image": "https://uploads.mangadex.org/covers/e4dae690-26ed-4784-9a8b-fad7b9def19a/d8aebd2d-ba35-4088-9df4-e04c035b15c2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17402,
+        "aniId": 47402,
+        "createdAt": "2020-10-12T16:02:24.000Z",
+        "updatedAt": "2021-06-02T06:40:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dragon-who": {
+        "authors": [
+          "HA Yuhn",
+          "JUNG Jae-Ran",
+          "KIM Ju-Ri"
+        ],
+        "identifier": "dragon-who",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dragon Who",
+        "url": "https://mangasee123.com/manga/Dragon-Who",
+        "image": "https://cover.nep.li/cover/Dragon-Who.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17402,
+        "aniId": 47402,
+        "createdAt": "2021-05-15T06:54:47.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

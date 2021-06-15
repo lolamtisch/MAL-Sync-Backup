@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ともだちごっこ",
+    "朋友 游戏",
+    "Play at Friendship"
+  ],
+  "authors": [
+    "Daisy Yamada"
+  ],
+  "id": 100689,
+  "malId": 111376,
+  "type": "manga",
+  "title": "Tomodachi Gokko",
+  "url": "https://anilist.co/manga/100689",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100689-nQwDEVAsQtaT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:20.000Z",
+  "updatedAt": "2021-05-28T16:53:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aea945b9-1e08-48bf-9b9e-32a49f5ec85a": {
+        "authors": [
+          "Yamada Daisy"
+        ],
+        "identifier": "aea945b9-1e08-48bf-9b9e-32a49f5ec85a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tomodachi Gokko",
+        "url": "https://mangadex.org/title/aea945b9-1e08-48bf-9b9e-32a49f5ec85a",
+        "image": "https://uploads.mangadex.org/covers/aea945b9-1e08-48bf-9b9e-32a49f5ec85a/d01ec437-4129-4b2c-a474-9157378c1dfe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111376,
+        "aniId": 100689,
+        "createdAt": "2020-10-12T16:11:08.000Z",
+        "updatedAt": "2021-06-05T06:03:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

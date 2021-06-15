@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "拘束レンアイ",
+    "Just a Prisoner of Love"
+  ],
+  "authors": [
+    "Arata Suzui"
+  ],
+  "id": 62453,
+  "malId": 32453,
+  "type": "manga",
+  "title": "Kousoku Renai",
+  "url": "https://anilist.co/manga/62453",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32453.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:52.000Z",
+  "updatedAt": "2021-05-20T14:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44472d55-e966-4213-a279-efbfcb21ec95": {
+        "authors": [
+          "Man Ke Culture 漫客文化",
+          "Forest Rain and Dew Studio 森雨露心",
+          "Cui Yuan 崔媛",
+          "Song Su 松鼠"
+        ],
+        "identifier": "44472d55-e966-4213-a279-efbfcb21ec95",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Exclusive Lover",
+        "url": "https://mangadex.org/title/44472d55-e966-4213-a279-efbfcb21ec95",
+        "image": "https://uploads.mangadex.org/covers/44472d55-e966-4213-a279-efbfcb21ec95/84510608-b73d-416d-83b2-9201a53295ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32453,
+        "aniId": 62453,
+        "createdAt": "2020-10-12T16:17:04.000Z",
+        "updatedAt": "2021-06-07T04:28:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pj920437": {
+        "authors": [],
+        "identifier": "pj920437",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Prisoner Of Love",
+        "url": "https://manganelo.com/manga/pj920437",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1836-pj920437.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32453,
+        "aniId": 62453,
+        "createdAt": "2020-10-12T16:24:52.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

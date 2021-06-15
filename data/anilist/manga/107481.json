@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "MoMo -the blood taker-",
+    "МОМО: Кровопийца"
+  ],
+  "authors": [
+    "Akira Sugito"
+  ],
+  "id": 107481,
+  "malId": 118494,
+  "type": "manga",
+  "title": "MoMo: The Blood Taker",
+  "url": "https://anilist.co/manga/107481",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107481-fO8WrVDzlpjB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:03.000Z",
+  "updatedAt": "2021-05-20T14:58:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "690832ed-f81b-49b1-b461-6e4f6a274f41": {
+        "authors": [
+          "Sugito Akira"
+        ],
+        "identifier": "690832ed-f81b-49b1-b461-6e4f6a274f41",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MOMO: The Blood Taker",
+        "url": "https://mangadex.org/title/690832ed-f81b-49b1-b461-6e4f6a274f41",
+        "image": "https://uploads.mangadex.org/covers/690832ed-f81b-49b1-b461-6e4f6a274f41/605dacfb-94ab-437e-84d1-84f2058b1dbe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118494,
+        "aniId": 107481,
+        "createdAt": "2020-10-12T16:15:28.000Z",
+        "updatedAt": "2021-06-06T14:03:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sy919776": {
+        "authors": [],
+        "identifier": "sy919776",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "MOMO: The Blood Taker",
+        "url": "https://manganelo.com/manga/sy919776",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1180-sy919776.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118494,
+        "aniId": 107481,
+        "createdAt": "2020-10-12T16:25:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "momo_the_blood_taker": {
+        "authors": [
+          "SUGITO Akira"
+        ],
+        "identifier": "momo_the_blood_taker",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "MOMO: The Blood Taker",
+        "url": "https://fanfox.net/manga/momo_the_blood_taker/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30168/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118494,
+        "aniId": 107481,
+        "createdAt": "2021-03-20T19:35:04.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

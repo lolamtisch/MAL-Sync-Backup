@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Yoru Cafe - My Sweet Knights",
+    "ヨルカフェ。"
+  ],
+  "authors": [
+    "Enjouji, Maki"
+  ],
+  "id": 8161,
+  "type": "manga",
+  "title": "Yoru Café",
+  "url": "https://myanimelist.net/manga/8161/Yoru_Café",
+  "image": "https://cdn.myanimelist.net/images/manga/4/116695.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:17.000Z",
+  "updatedAt": "2021-04-30T04:50:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dce06efc-3056-45f3-b105-b33d625456c2": {
+        "authors": [
+          "Enjouji Maki"
+        ],
+        "identifier": "dce06efc-3056-45f3-b105-b33d625456c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoru Café",
+        "url": "https://mangadex.org/title/dce06efc-3056-45f3-b105-b33d625456c2",
+        "image": "https://uploads.mangadex.org/covers/dce06efc-3056-45f3-b105-b33d625456c2/f2f6d60d-b6a4-43d9-b661-ca1a3188357a.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8161,
+        "aniId": 38161,
+        "createdAt": "2020-10-12T16:03:59.000Z",
+        "updatedAt": "2021-06-02T17:49:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yoru-cafe": {
+        "authors": [
+          "ENJOUJI Maki"
+        ],
+        "identifier": "yoru-cafe",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yoru Cafe. - My Sweet Knights",
+        "url": "https://mangasee123.com/manga/Yoru-Cafe",
+        "image": "https://cover.nep.li/cover/Yoru-Cafe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8161,
+        "aniId": 38161,
+        "createdAt": "2021-05-05T14:03:05.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

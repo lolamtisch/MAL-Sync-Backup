@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "浪漫豪奢",
+    "ロマンゴウシャ"
+  ],
+  "authors": [
+    "Kyou Kitazawa"
+  ],
+  "id": 35129,
+  "malId": 5129,
+  "type": "manga",
+  "title": "Roman Gousha",
+  "url": "https://anilist.co/manga/35129",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35129-ycGmk1nvcRZZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ea27311d-e046-48cc-87d1-57c81d251b22": {
+        "authors": [
+          "Kitazawa Kyou"
+        ],
+        "identifier": "ea27311d-e046-48cc-87d1-57c81d251b22",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Roman Gousha",
+        "url": "https://mangadex.org/title/ea27311d-e046-48cc-87d1-57c81d251b22",
+        "image": "https://uploads.mangadex.org/covers/ea27311d-e046-48cc-87d1-57c81d251b22/bcd2b47b-b551-4f0a-8031-d5c0ef7ab20c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5129,
+        "aniId": 35129,
+        "createdAt": "2020-10-12T16:13:31.000Z",
+        "updatedAt": "2021-06-05T22:01:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

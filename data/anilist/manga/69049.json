@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "サクラサクラ"
+  ],
+  "authors": [
+    "Morishige"
+  ],
+  "id": 69049,
+  "malId": 39049,
+  "type": "manga",
+  "title": "Sakura Sakura",
+  "url": "https://anilist.co/manga/69049",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx69049-78sZJwOBrvkw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:38.000Z",
+  "updatedAt": "2021-05-20T14:48:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ad4ffcb5-8d16-487b-b0cc-f8ffab6ab304": {
+        "authors": [
+          "Morishige"
+        ],
+        "identifier": "ad4ffcb5-8d16-487b-b0cc-f8ffab6ab304",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakura Sakura (Morishige)",
+        "url": "https://mangadex.org/title/ad4ffcb5-8d16-487b-b0cc-f8ffab6ab304",
+        "image": "https://uploads.mangadex.org/covers/ad4ffcb5-8d16-487b-b0cc-f8ffab6ab304/750f4347-4139-42c8-9021-49deb6cc30e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39049,
+        "aniId": 69049,
+        "createdAt": "2020-10-12T16:04:50.000Z",
+        "updatedAt": "2021-06-02T23:49:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

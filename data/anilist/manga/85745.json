@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "MORE!!!",
+    "Moe War"
+  ],
+  "authors": [
+    "Hirano Hirotoshi"
+  ],
+  "id": 85745,
+  "malId": 83061,
+  "type": "manga",
+  "title": "MORE!!!",
+  "url": "https://anilist.co/manga/85745",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55745-xkgFuja5zZs3.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:32.000Z",
+  "updatedAt": "2021-05-20T14:52:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e8a6a21-e4ea-4d04-ad4d-13417fa91cc3": {
+        "authors": [
+          "Hirano Hirotoshi"
+        ],
+        "identifier": "1e8a6a21-e4ea-4d04-ad4d-13417fa91cc3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MORE!!!",
+        "url": "https://mangadex.org/title/1e8a6a21-e4ea-4d04-ad4d-13417fa91cc3",
+        "image": "https://uploads.mangadex.org/covers/1e8a6a21-e4ea-4d04-ad4d-13417fa91cc3/eb42d55e-16b4-4347-8df6-ab8e3fd5d618.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83061,
+        "aniId": 85745,
+        "createdAt": "2020-10-12T16:08:07.000Z",
+        "updatedAt": "2021-06-04T07:41:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

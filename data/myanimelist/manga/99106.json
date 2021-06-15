@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Fate/Apocrypha"
+  ],
+  "authors": [
+    "Ishida, Akira",
+    "Higashide, Yuuichirou"
+  ],
+  "id": 99106,
+  "type": "manga",
+  "title": "Fate/Apocrypha",
+  "url": "https://myanimelist.net/manga/99106/Fate_Apocrypha",
+  "image": "https://cdn.myanimelist.net/images/manga/1/182620.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:32.000Z",
+  "updatedAt": "2021-03-20T17:35:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "05ccee57-de43-4e77-8381-253ff81f6cd5": {
+        "authors": [
+          "TYPE-MOON",
+          "Ishida Akira",
+          "Higashide Yuuichirou"
+        ],
+        "identifier": "05ccee57-de43-4e77-8381-253ff81f6cd5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fate/Apocrypha",
+        "url": "https://mangadex.org/title/05ccee57-de43-4e77-8381-253ff81f6cd5",
+        "image": "https://uploads.mangadex.org/covers/05ccee57-de43-4e77-8381-253ff81f6cd5/d011a119-2c6a-4028-a540-0a3292ac9e7f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99106,
+        "aniId": 87251,
+        "createdAt": "2020-10-12T16:09:48.000Z",
+        "updatedAt": "2021-06-04T20:08:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fateapocrypha": {
+        "authors": [],
+        "identifier": "fateapocrypha",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fate/Apocrypha",
+        "url": "https://manganelo.com/manga/fateapocrypha",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16818-fateapocrypha.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99106,
+        "aniId": 87251,
+        "createdAt": "2020-10-12T16:22:53.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fate_apocrypha": {
+        "authors": [
+          "Yuuichirou Higashide",
+          "TYPE-MOON"
+        ],
+        "identifier": "fate_apocrypha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fate/Apocrypha",
+        "url": "https://fanfox.net/manga/fate_apocrypha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20229/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99106,
+        "aniId": 87251,
+        "createdAt": "2021-03-20T17:35:42.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

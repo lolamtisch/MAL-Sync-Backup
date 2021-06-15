@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "今際の国のアリス RETRY",
+    "Alice in Borderland RETRY"
+  ],
+  "authors": [
+    "Haro Aso"
+  ],
+  "id": 125177,
+  "malId": 130593,
+  "type": "manga",
+  "title": "Imawa no Kuni no Alice RETRY",
+  "url": "https://anilist.co/manga/125177",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125177-riMFjBI7LNn9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:32.000Z",
+  "updatedAt": "2021-05-20T14:59:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6284d003-f1fe-44ad-862d-c6ad8612ad9a": {
+        "authors": [
+          "Asou Haro"
+        ],
+        "identifier": "6284d003-f1fe-44ad-862d-c6ad8612ad9a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice in Borderland Retry",
+        "url": "https://mangadex.org/title/6284d003-f1fe-44ad-862d-c6ad8612ad9a",
+        "image": "https://uploads.mangadex.org/covers/6284d003-f1fe-44ad-862d-c6ad8612ad9a/d5a805df-8cfb-40ba-854b-460562b71fc6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130593,
+        "aniId": 125177,
+        "createdAt": "2020-10-23T09:58:45.000Z",
+        "updatedAt": "2021-06-08T05:31:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "imawa_no_kuni_no_alice_retry": {
+        "authors": [
+          "ASOU Haro"
+        ],
+        "identifier": "imawa_no_kuni_no_alice_retry",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Imawa no Kuni no Alice Retry",
+        "url": "https://fanfox.net/manga/imawa_no_kuni_no_alice_retry/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36486/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130593,
+        "aniId": 125177,
+        "createdAt": "2021-01-04T09:55:58.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "imawa-no-kuni-no-alice-retry": {
+        "authors": [
+          "ASOU Haro"
+        ],
+        "identifier": "imawa-no-kuni-no-alice-retry",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Imawa no Kuni no Alice Retry",
+        "url": "https://mangasee123.com/manga/Imawa-no-Kuni-no-Alice-Retry",
+        "image": "https://cover.nep.li/cover/Imawa-no-Kuni-no-Alice-Retry.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130593,
+        "aniId": 125177,
+        "createdAt": "2021-01-26T22:39:25.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

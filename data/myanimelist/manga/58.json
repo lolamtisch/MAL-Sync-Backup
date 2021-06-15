@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "W-Juliet",
+    "Wジュリエット"
+  ],
+  "authors": [
+    "Emura"
+  ],
+  "id": 58,
+  "type": "manga",
+  "title": "W-Juliet",
+  "url": "https://myanimelist.net/manga/58/W-Juliet",
+  "image": "https://cdn.myanimelist.net/images/manga/3/162125.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:17.000Z",
+  "updatedAt": "2021-01-29T12:25:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b539a0f9-ab33-498d-90f1-f4333c737f9a": {
+        "authors": [
+          "Emura"
+        ],
+        "identifier": "b539a0f9-ab33-498d-90f1-f4333c737f9a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "W Juliet",
+        "url": "https://mangadex.org/title/b539a0f9-ab33-498d-90f1-f4333c737f9a",
+        "image": "https://uploads.mangadex.org/covers/b539a0f9-ab33-498d-90f1-f4333c737f9a/c093d51b-6657-4392-b48b-01849fd0e0ac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58,
+        "aniId": 30058,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:27:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_wjuliet": {
+        "authors": [],
+        "identifier": "read_wjuliet",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "W-Juliet",
+        "url": "https://manganelo.com/manga/read_wjuliet",
+        "image": "https://avt.mkklcdnv6.com/22/p/5-1583472718.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58,
+        "aniId": 30058,
+        "createdAt": "2020-10-12T16:25:08.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

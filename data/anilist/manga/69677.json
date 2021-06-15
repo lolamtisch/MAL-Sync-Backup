@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "プリンセスラバー!"
+  ],
+  "authors": [
+    "Naoha Yuiga",
+    "Ricotta"
+  ],
+  "id": 69677,
+  "malId": 39677,
+  "type": "manga",
+  "title": "Princess Lover!",
+  "url": "https://anilist.co/manga/69677",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx69677-CVzFWoFOo4gc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "300d5dea-64d4-4d85-9954-b23424fe45ad": {
+        "authors": [
+          "Yuiga Naoha",
+          "Ricotta"
+        ],
+        "identifier": "300d5dea-64d4-4d85-9954-b23424fe45ad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Princess Lover!",
+        "url": "https://mangadex.org/title/300d5dea-64d4-4d85-9954-b23424fe45ad",
+        "image": "https://uploads.mangadex.org/covers/300d5dea-64d4-4d85-9954-b23424fe45ad/796f45c7-a7c0-4639-a554-9f71d74f519b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39677,
+        "aniId": 69677,
+        "createdAt": "2020-10-12T16:09:25.000Z",
+        "updatedAt": "2021-06-04T17:32:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "princess_lover": {
+        "authors": [],
+        "identifier": "princess_lover",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Princess Lover!",
+        "url": "https://manganelo.com/manga/princess_lover",
+        "image": "https://avt.mkklcdnv6.com/1/j/5-1583474146.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39677,
+        "aniId": 69677,
+        "createdAt": "2020-10-12T16:24:54.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

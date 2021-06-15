@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "セラフィムコール"
+  ],
+  "id": 2245,
+  "malId": 2245,
+  "type": "anime",
+  "title": "Seraphim Call",
+  "url": "https://anilist.co/anime/2245",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2245-C4byesmWDtjb.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:14.000Z",
+  "updatedAt": "2021-05-20T14:36:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "4l17": {
+        "identifier": "4l17",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seraphim Call",
+        "url": "https://9anime.ru/watch/seraphim-call.4l17",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-Fs29KBZE_jA/WHnD22yqXHI/AAAAAAABZMk/OFJ9AP4ZQcI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2245,
+        "aniId": 2245,
+        "createdAt": "2020-10-12T15:50:05.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2751": {
+        "identifier": "2751",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Seraphim Call",
+        "url": "https://aniwatch.me/anime/2751",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2245,
+        "aniId": 2245,
+        "createdAt": "2020-10-12T15:58:34.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seraphim-call": {
+        "identifier": "seraphim-call",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seraphim Call",
+        "url": "https://gogoanime.ai/category/seraphim-call",
+        "image": "https://gogocdn.net/cover/seraphim-call.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2245,
+        "aniId": 2245,
+        "createdAt": "2021-05-01T08:03:32.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

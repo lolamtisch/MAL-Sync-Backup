@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "初めてのセンセ",
+    "First Sense"
+  ],
+  "authors": [
+    "Haruki"
+  ],
+  "id": 115526,
+  "malId": 130430,
+  "type": "manga",
+  "title": "Hajimete no Sense",
+  "url": "https://anilist.co/manga/115526",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115526-nhOWcz5U4CuM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T12:07:07.000Z",
+  "updatedAt": "2021-06-07T12:07:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0a5deeeb-95e3-40c6-ba7e-d42a0fffdf38": {
+        "authors": [
+          "Haruki"
+        ],
+        "identifier": "0a5deeeb-95e3-40c6-ba7e-d42a0fffdf38",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajimete no Sense",
+        "url": "https://mangadex.org/title/0a5deeeb-95e3-40c6-ba7e-d42a0fffdf38",
+        "image": "https://uploads.mangadex.org/covers/0a5deeeb-95e3-40c6-ba7e-d42a0fffdf38/1ce3bd93-dcfc-477d-b2f2-ec0c3001f40d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130430,
+        "aniId": 115526,
+        "createdAt": "2020-10-12T16:17:52.000Z",
+        "updatedAt": "2021-06-07T13:43:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "That's a Destiny",
+    "運命なのさ",
+    "Unmeinanosa"
+  ],
+  "authors": [
+    "Neneko Narazaki"
+  ],
+  "id": 48346,
+  "malId": 18346,
+  "type": "manga",
+  "title": "Unmei Nanosa",
+  "url": "https://anilist.co/manga/48346",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18346.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:11.000Z",
+  "updatedAt": "2021-05-20T14:45:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "206d50bb-66fc-44ed-9825-0a20a80e86cf": {
+        "authors": [
+          "Narazaki Neneko"
+        ],
+        "identifier": "206d50bb-66fc-44ed-9825-0a20a80e86cf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Unmei Nanosa",
+        "url": "https://mangadex.org/title/206d50bb-66fc-44ed-9825-0a20a80e86cf",
+        "image": "https://uploads.mangadex.org/covers/206d50bb-66fc-44ed-9825-0a20a80e86cf/d5f2c8ee-0763-4e2b-b67f-fc764191b55f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18346,
+        "aniId": 48346,
+        "createdAt": "2020-10-12T16:16:06.000Z",
+        "updatedAt": "2021-06-06T19:34:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "魔法少女リリカルなのは Reflection THE COMICS",
+    "Magical Girl Lyrical Nanoha Reflection"
+  ],
+  "authors": [
+    "Shuuichi Kawakami",
+    "Masaki Tsuzuki",
+    "Takuya Fujima"
+  ],
+  "id": 114506,
+  "malId": 109515,
+  "type": "manga",
+  "title": "Mahou Shoujo Lyrical Nanoha: Reflection the Comics",
+  "url": "https://anilist.co/manga/114506",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114506-MKdL5dqmolwJ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:07.000Z",
+  "updatedAt": "2021-05-20T14:56:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1876e4e5-d989-416e-8344-bb1e900bd21b": {
+        "authors": [
+          "Masaki Tsuzuki",
+          "Takuya Fujima",
+          "Shūichi Kawakami (storyboarding)"
+        ],
+        "identifier": "1876e4e5-d989-416e-8344-bb1e900bd21b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Magical Girl Lyrical Nanoha Reflection THE COMICS",
+        "url": "https://mangadex.org/title/1876e4e5-d989-416e-8344-bb1e900bd21b",
+        "image": "https://uploads.mangadex.org/covers/1876e4e5-d989-416e-8344-bb1e900bd21b/007bb4a0-96cb-4237-a07f-4d5823c51d79.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109515,
+        "aniId": 114506,
+        "createdAt": "2020-10-12T16:11:25.000Z",
+        "updatedAt": "2021-06-05T08:21:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mahou_shoujo_lyrical_nanoha_reflection_the_comics": {
+        "authors": [
+          "KAWAKAMI Shuichi",
+          "TSUZUKI Maki"
+        ],
+        "identifier": "mahou_shoujo_lyrical_nanoha_reflection_the_comics",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahou Shoujo Lyrical Nanoha Reflection THE COMICS",
+        "url": "https://fanfox.net/manga/mahou_shoujo_lyrical_nanoha_reflection_the_comics/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27414/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109515,
+        "aniId": 114506,
+        "createdAt": "2021-04-10T20:51:58.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

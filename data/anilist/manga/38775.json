@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "マジンガーエンジェルZ"
+  ],
+  "authors": [
+    "Go Nagai",
+    "Akihiko Niina"
+  ],
+  "id": 38775,
+  "malId": 8775,
+  "type": "manga",
+  "title": "Mazinger Angel Z",
+  "url": "https://anilist.co/manga/38775",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8775.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a396aac6-7ada-4412-85cc-afe3ea25eba3": {
+        "authors": [
+          "Niina Akihiko",
+          "Nagai Go"
+        ],
+        "identifier": "a396aac6-7ada-4412-85cc-afe3ea25eba3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mazinger Angels Z",
+        "url": "https://mangadex.org/title/a396aac6-7ada-4412-85cc-afe3ea25eba3",
+        "image": "https://uploads.mangadex.org/covers/a396aac6-7ada-4412-85cc-afe3ea25eba3/209f47d4-7513-41c6-a51c-1e5ce34d774b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8775,
+        "aniId": 38775,
+        "createdAt": "2020-10-12T16:05:39.000Z",
+        "updatedAt": "2021-06-03T14:05:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

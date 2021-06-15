@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "拝啓、兄さん様",
+    "Dear Brother",
+    "안녕, 형"
+  ],
+  "authors": [
+    "Tohru Tagura"
+  ],
+  "id": 55189,
+  "malId": 25189,
+  "type": "manga",
+  "title": "Haikei, Niisan-sama",
+  "url": "https://anilist.co/manga/55189",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55189-UJWmC60zGjSl.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c1c8027-8e04-4ab5-885c-d2fd53bcdf50": {
+        "authors": [
+          "Tagura Tohru"
+        ],
+        "identifier": "3c1c8027-8e04-4ab5-885c-d2fd53bcdf50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haikei, Niisan-sama",
+        "url": "https://mangadex.org/title/3c1c8027-8e04-4ab5-885c-d2fd53bcdf50",
+        "image": "https://uploads.mangadex.org/covers/3c1c8027-8e04-4ab5-885c-d2fd53bcdf50/e5b9c4b6-02b8-4278-9cbf-4b23585a7902.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25189,
+        "aniId": 55189,
+        "createdAt": "2020-10-12T16:07:46.000Z",
+        "updatedAt": "2021-06-04T05:08:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

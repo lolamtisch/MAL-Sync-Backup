@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "人魚王子",
+    "Mermaid Prince"
+  ],
+  "authors": [
+    "Yuki Yoshihara"
+  ],
+  "id": 33957,
+  "malId": 3957,
+  "type": "manga",
+  "title": "Ningyo Ouji",
+  "url": "https://anilist.co/manga/33957",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33957-KyukGiU3MyNS.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:22.000Z",
+  "updatedAt": "2021-05-20T14:38:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc61a093-844f-4088-82a5-73574c623f9b": {
+        "authors": [
+          "Yoshihara Yuki"
+        ],
+        "identifier": "fc61a093-844f-4088-82a5-73574c623f9b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ningyo Ouji",
+        "url": "https://mangadex.org/title/fc61a093-844f-4088-82a5-73574c623f9b",
+        "image": "https://uploads.mangadex.org/covers/fc61a093-844f-4088-82a5-73574c623f9b/630c5f4a-e1bf-4a18-94e1-6b56a10f2e5e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3957,
+        "aniId": 33957,
+        "createdAt": "2020-10-12T16:05:59.000Z",
+        "updatedAt": "2021-06-03T16:22:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ningyo_ouji": {
+        "authors": [
+          "YOSHIHARA Yuki"
+        ],
+        "identifier": "ningyo_ouji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ningyo Ouji",
+        "url": "https://fanfox.net/manga/ningyo_ouji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3613/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3957,
+        "aniId": 33957,
+        "createdAt": "2021-03-26T16:49:20.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

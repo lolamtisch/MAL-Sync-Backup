@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "ともだちをつくろう。"
+  ],
+  "authors": [
+    "Shouma, Keito"
+  ],
+  "id": 101290,
+  "type": "manga",
+  "title": "Tomodachi wo Tsukurou.",
+  "url": "https://myanimelist.net/manga/101290/Tomodachi_wo_Tsukurou",
+  "image": "https://cdn.myanimelist.net/images/manga/2/202121.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:43.000Z",
+  "updatedAt": "2021-05-17T08:55:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a72123a4-25e4-4b18-82ab-a4d520aa2417": {
+        "authors": [
+          "Shouma Keito"
+        ],
+        "identifier": "a72123a4-25e4-4b18-82ab-a4d520aa2417",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tomodachi o Tsukurou.",
+        "url": "https://mangadex.org/title/a72123a4-25e4-4b18-82ab-a4d520aa2417",
+        "image": "https://uploads.mangadex.org/covers/a72123a4-25e4-4b18-82ab-a4d520aa2417/26e89e1a-3193-4bbf-b985-de8310ce9088.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101290,
+        "aniId": 97926,
+        "createdAt": "2020-10-12T16:09:56.000Z",
+        "updatedAt": "2021-06-04T21:04:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tomodachi_o_tsukurou1": {
+        "authors": [],
+        "identifier": "tomodachi_o_tsukurou1",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tomodachi o Tsukurou",
+        "url": "https://manganelo.com/manga/tomodachi_o_tsukurou1",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17030-tomodachi_o_tsukurou1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101290,
+        "aniId": 97926,
+        "createdAt": "2020-10-12T16:25:47.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

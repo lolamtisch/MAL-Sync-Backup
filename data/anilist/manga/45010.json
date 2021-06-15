@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "激流血～OVER BLEED～",
+    "Over Bleed"
+  ],
+  "authors": [
+    "Joong-Ki Park",
+    "28round"
+  ],
+  "id": 45010,
+  "malId": 15010,
+  "type": "manga",
+  "title": "Gekiryuuchi",
+  "url": "https://anilist.co/manga/45010",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45010-auyKUTnrkdBU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:43.000Z",
+  "updatedAt": "2021-05-20T14:43:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9e691dc9-0dd9-42cb-a0b9-57c6c72ad22b": {
+        "authors": [
+          "Jun Sang Young",
+          "Park Joong Gi"
+        ],
+        "identifier": "9e691dc9-0dd9-42cb-a0b9-57c6c72ad22b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gekiryuuchi",
+        "url": "https://mangadex.org/title/9e691dc9-0dd9-42cb-a0b9-57c6c72ad22b",
+        "image": "https://uploads.mangadex.org/covers/9e691dc9-0dd9-42cb-a0b9-57c6c72ad22b/40858727-67cc-42c8-a725-88684746bfd9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15010,
+        "aniId": 45010,
+        "createdAt": "2020-10-12T16:02:48.000Z",
+        "updatedAt": "2021-06-02T09:32:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gekiryuuchi": {
+        "authors": [],
+        "identifier": "gekiryuuchi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gekiryuuchi",
+        "url": "https://manganelo.com/manga/gekiryuuchi",
+        "image": "https://avt.mkklcdnv6.com/37/y/12-1583487253.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15010,
+        "aniId": 45010,
+        "createdAt": "2020-10-12T16:23:04.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "罪深く愛してよ",
+    "Love Me Sinfully"
+  ],
+  "authors": [
+    "Mio Tennouji"
+  ],
+  "id": 32216,
+  "malId": 2216,
+  "type": "manga",
+  "title": "Tsumi Bukaku Aishiteyo",
+  "url": "https://anilist.co/manga/32216",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2216.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "49f797ce-9eb6-44dd-8e95-221d540e4a7a": {
+        "authors": [
+          "Tennouji Mio"
+        ],
+        "identifier": "49f797ce-9eb6-44dd-8e95-221d540e4a7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsumi Bukaku Aishiteyo",
+        "url": "https://mangadex.org/title/49f797ce-9eb6-44dd-8e95-221d540e4a7a",
+        "image": "https://uploads.mangadex.org/covers/49f797ce-9eb6-44dd-8e95-221d540e4a7a/5086fd41-dde1-4f51-a7e9-96e8db7211b2.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2216,
+        "aniId": 32216,
+        "createdAt": "2020-10-12T16:10:10.000Z",
+        "updatedAt": "2021-06-04T22:43:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

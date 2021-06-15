@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "FAKE",
+    "ＦＡＫＥ",
+    "-Fake-"
+  ],
+  "authors": [
+    "Sanami Matou"
+  ],
+  "id": 30314,
+  "malId": 314,
+  "type": "manga",
+  "title": "Fake",
+  "url": "https://anilist.co/manga/30314",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30314-jCtlU4LrcNzj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eac524a5-89ff-42ac-b032-a71803829a3a": {
+        "authors": [
+          "Matoh Sanami"
+        ],
+        "identifier": "eac524a5-89ff-42ac-b032-a71803829a3a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fake",
+        "url": "https://mangadex.org/title/eac524a5-89ff-42ac-b032-a71803829a3a",
+        "image": "https://uploads.mangadex.org/covers/eac524a5-89ff-42ac-b032-a71803829a3a/37180ce7-90c1-456c-a803-ddd9579b7896.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 314,
+        "aniId": 30314,
+        "createdAt": "2020-10-12T16:11:34.000Z",
+        "updatedAt": "2021-06-05T09:22:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "地獄めぐり"
+  ],
+  "authors": [
+    "Siam Kuju"
+  ],
+  "id": 47371,
+  "malId": 17371,
+  "type": "manga",
+  "title": "Jigoku Meguri",
+  "url": "https://anilist.co/manga/47371",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47371-zVYCGnRS1gt2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:06.000Z",
+  "updatedAt": "2021-05-20T14:44:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "545bd71b-7ef4-46f3-8b6b-8e0bb67d28a2": {
+        "authors": [
+          "Kuju Siam"
+        ],
+        "identifier": "545bd71b-7ef4-46f3-8b6b-8e0bb67d28a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jigoku Meguri",
+        "url": "https://mangadex.org/title/545bd71b-7ef4-46f3-8b6b-8e0bb67d28a2",
+        "image": "https://uploads.mangadex.org/covers/545bd71b-7ef4-46f3-8b6b-8e0bb67d28a2/f257b2c2-e3a9-42bb-a002-e50048f22372.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17371,
+        "aniId": 47371,
+        "createdAt": "2020-10-12T16:08:54.000Z",
+        "updatedAt": "2021-06-04T13:34:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jigoku_meguri": {
+        "authors": [],
+        "identifier": "jigoku_meguri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jigoku Meguri",
+        "url": "https://manganelo.com/manga/jigoku_meguri",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/15817-jigoku_meguri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17371,
+        "aniId": 47371,
+        "createdAt": "2020-10-12T16:23:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

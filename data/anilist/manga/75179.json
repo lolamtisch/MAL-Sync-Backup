@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "そして、晴れになる",
+    "And It Will Be Sunny",
+    "Cotton no Ashioto"
+  ],
+  "authors": [
+    "Kirin Tendou"
+  ],
+  "id": 75179,
+  "malId": 45179,
+  "type": "manga",
+  "title": "Soshite, Hare ni Naru",
+  "url": "https://anilist.co/manga/75179",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75179-pjGa5fAQ7j5o.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "349d6307-da33-4399-8888-d0e0b832d55a": {
+        "authors": [
+          "TENDOU Kirin"
+        ],
+        "identifier": "349d6307-da33-4399-8888-d0e0b832d55a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "And It Will Be Sunny",
+        "url": "https://mangadex.org/title/349d6307-da33-4399-8888-d0e0b832d55a",
+        "image": "https://uploads.mangadex.org/covers/349d6307-da33-4399-8888-d0e0b832d55a/5c3748af-5035-4778-be3e-f16dc9c12401.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45179,
+        "aniId": 75179,
+        "createdAt": "2020-10-12T16:07:07.000Z",
+        "updatedAt": "2021-06-04T00:28:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "soshite_hare_ni_naru": {
+        "authors": [
+          "Tendou",
+          "Kirin"
+        ],
+        "identifier": "soshite_hare_ni_naru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Soshite, Hare Ni Naru",
+        "url": "https://manganelo.com/manga/soshite_hare_ni_naru",
+        "image": "https://avt.mkklcdnv6temp.com/12/p/8-1583478661.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45179,
+        "aniId": 75179,
+        "createdAt": "2021-02-28T14:14:21.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "altTitle": [
+    "ゴン"
+  ],
+  "id": 7867,
+  "type": "anime",
+  "title": "Gon",
+  "url": "https://myanimelist.net/anime/7867/Gon",
+  "image": "https://cdn.myanimelist.net/images/anime/6/36931.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:57.000Z",
+  "updatedAt": "2021-04-28T20:49:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "gon": {
+        "identifier": "gon",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gon",
+        "url": "https://www19.gogoanime.io/category/gon",
+        "image": "https://gogocdn.net/cover/gon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7867,
+        "aniId": 7867,
+        "createdAt": "2020-10-12T16:00:34.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "악한 기사",
+    "Evil Knight"
+  ],
+  "authors": [
+    "Lala Kim"
+  ],
+  "id": 123145,
+  "malId": null,
+  "type": "manga",
+  "title": "Akan Gisa",
+  "url": "https://anilist.co/manga/123145",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123145-bA5BmAPqdTVc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-30T04:12:13.000Z",
+  "updatedAt": "2021-05-30T04:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f8e5281b-4712-4443-b20f-4d90eff1e41f": {
+        "authors": [
+          "KIM Lala"
+        ],
+        "identifier": "f8e5281b-4712-4443-b20f-4d90eff1e41f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Evil Knight",
+        "url": "https://mangadex.org/title/f8e5281b-4712-4443-b20f-4d90eff1e41f",
+        "image": "https://uploads.mangadex.org/covers/f8e5281b-4712-4443-b20f-4d90eff1e41f/ac875e74-93f8-42c6-9c8b-d4b7d7c03689.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123145,
+        "createdAt": "2020-10-12T16:20:30.000Z",
+        "updatedAt": "2021-06-09T08:11:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

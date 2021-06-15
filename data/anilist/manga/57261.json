@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "つぶらら"
+  ],
+  "authors": [
+    "Sawako Yamana"
+  ],
+  "id": 57261,
+  "malId": 27261,
+  "type": "manga",
+  "title": "Tsuburara",
+  "url": "https://anilist.co/manga/57261",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27261.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:26.000Z",
+  "updatedAt": "2021-05-20T14:47:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "917f6472-5999-4551-b8d2-70195cfeb79b": {
+        "authors": [
+          "YAMANA Sawako"
+        ],
+        "identifier": "917f6472-5999-4551-b8d2-70195cfeb79b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuburara",
+        "url": "https://mangadex.org/title/917f6472-5999-4551-b8d2-70195cfeb79b",
+        "image": "https://uploads.mangadex.org/covers/917f6472-5999-4551-b8d2-70195cfeb79b/f3dff602-919e-40dc-9729-e6fc46b7336d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27261,
+        "aniId": 57261,
+        "createdAt": "2020-10-12T16:04:20.000Z",
+        "updatedAt": "2021-06-02T20:24:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

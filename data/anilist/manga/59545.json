@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "初恋の悪戯",
+    "Smile!",
+    "Hobby Hobby",
+    "Shou-Shou Space"
+  ],
+  "authors": [
+    "Shou Ichikawa"
+  ],
+  "id": 59545,
+  "malId": 29545,
+  "type": "manga",
+  "title": "Hatsukoi no Itazura",
+  "url": "https://anilist.co/manga/59545",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/29545.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:37.000Z",
+  "updatedAt": "2021-05-20T14:47:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "828751b1-01cb-4c55-a05a-6e2cf5cc8104": {
+        "authors": [
+          "Ichikawa Shou"
+        ],
+        "identifier": "828751b1-01cb-4c55-a05a-6e2cf5cc8104",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatsukoi no Itazura",
+        "url": "https://mangadex.org/title/828751b1-01cb-4c55-a05a-6e2cf5cc8104",
+        "image": "https://uploads.mangadex.org/covers/828751b1-01cb-4c55-a05a-6e2cf5cc8104/15d759b7-7c45-4b4a-b1c8-0e9602007623.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29545,
+        "aniId": 59545,
+        "createdAt": "2020-10-12T16:03:20.000Z",
+        "updatedAt": "2021-06-02T13:17:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

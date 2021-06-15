@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "O.B.",
+    "O.B.",
+    "Occupation to Beloved",
+    "Antiguos alumnos"
+  ],
+  "authors": [
+    "Asumiko Nakamura",
+    "Ana María Caro"
+  ],
+  "id": 69565,
+  "malId": 39565,
+  "type": "manga",
+  "title": "O.B.",
+  "url": "https://anilist.co/manga/69565",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx69565-lujrZ1edmG94.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0943a9f0-d67d-4c31-b551-7e944d67564e": {
+        "authors": [
+          "Nakamura Asumiko"
+        ],
+        "identifier": "0943a9f0-d67d-4c31-b551-7e944d67564e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Occupation to Beloved",
+        "url": "https://mangadex.org/title/0943a9f0-d67d-4c31-b551-7e944d67564e",
+        "image": "https://uploads.mangadex.org/covers/0943a9f0-d67d-4c31-b551-7e944d67564e/911391b2-8831-45d5-a806-f409037c8590.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39565,
+        "aniId": 69565,
+        "createdAt": "2020-10-12T16:07:16.000Z",
+        "updatedAt": "2021-06-04T01:31:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "occupation_to_beloved": {
+        "authors": [],
+        "identifier": "occupation_to_beloved",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Occupation To Beloved",
+        "url": "https://manganelo.com/manga/occupation_to_beloved",
+        "image": "https://avt.mkklcdnv6.com/27/m/4-1583470819.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39565,
+        "aniId": 69565,
+        "createdAt": "2020-10-12T16:24:38.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

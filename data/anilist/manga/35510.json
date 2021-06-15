@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Young-Eu Nam"
+  ],
+  "id": 35510,
+  "malId": 5510,
+  "type": "manga",
+  "title": "Two Cups of Coffee",
+  "url": "https://anilist.co/manga/35510",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5510.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-05-20T14:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "669f6453-5639-4db0-be17-8ce743066cb3": {
+        "authors": [
+          "Nam Young-Eun"
+        ],
+        "identifier": "669f6453-5639-4db0-be17-8ce743066cb3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Two Cups of Coffee",
+        "url": "https://mangadex.org/title/669f6453-5639-4db0-be17-8ce743066cb3",
+        "image": "https://uploads.mangadex.org/covers/669f6453-5639-4db0-be17-8ce743066cb3/260dd28c-fd54-44a0-9724-dbb9877fa8a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5510,
+        "aniId": 35510,
+        "createdAt": "2020-10-12T16:05:31.000Z",
+        "updatedAt": "2021-06-03T13:09:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

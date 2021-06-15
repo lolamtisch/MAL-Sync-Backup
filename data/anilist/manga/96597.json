@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ぱらいそ"
+  ],
+  "authors": [
+    "Machiko Kyou"
+  ],
+  "id": 96597,
+  "malId": 95287,
+  "type": "manga",
+  "title": "Paraiso",
+  "url": "https://anilist.co/manga/96597",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx96597-slBuOxYUdBXT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:57.000Z",
+  "updatedAt": "2021-05-20T14:53:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb7959cd-6f65-4ab0-b8cc-015062b5e128": {
+        "authors": [
+          "KYOU Machiko"
+        ],
+        "identifier": "eb7959cd-6f65-4ab0-b8cc-015062b5e128",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Paraiso",
+        "url": "https://mangadex.org/title/eb7959cd-6f65-4ab0-b8cc-015062b5e128",
+        "image": "https://uploads.mangadex.org/covers/eb7959cd-6f65-4ab0-b8cc-015062b5e128/a374cce9-5a3a-46dd-8c33-8334458b8b8e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95287,
+        "aniId": 96597,
+        "createdAt": "2020-10-12T18:14:04.000Z",
+        "updatedAt": "2021-06-08T05:24:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

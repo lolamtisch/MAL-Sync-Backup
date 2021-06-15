@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "それはまるで雨傘のように"
+  ],
+  "authors": [
+    "Rii",
+    "Aoi Suzumine"
+  ],
+  "id": 107149,
+  "malId": 118621,
+  "type": "manga",
+  "title": "Sore wa Marude Amagasa no You ni",
+  "url": "https://anilist.co/manga/107149",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107149-WNiAjlpf6Dgx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:03.000Z",
+  "updatedAt": "2021-06-06T01:51:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a3babf89-0da3-48b9-8996-38add7402ff7": {
+        "authors": [
+          "Aoi Suzumine",
+          "Rii"
+        ],
+        "identifier": "a3babf89-0da3-48b9-8996-38add7402ff7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sore wa Marude Amagasa no You ni",
+        "url": "https://mangadex.org/title/a3babf89-0da3-48b9-8996-38add7402ff7",
+        "image": "https://uploads.mangadex.org/covers/a3babf89-0da3-48b9-8996-38add7402ff7/3bc7f08e-09a1-4b29-bade-f6769a7dfa06.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118621,
+        "aniId": 107149,
+        "createdAt": "2020-10-12T16:13:57.000Z",
+        "updatedAt": "2021-06-06T10:28:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ts918361": {
+        "authors": [],
+        "identifier": "ts918361",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sore Wa Marude Amagasa No You Ni",
+        "url": "https://manganelo.com/manga/ts918361",
+        "image": "https://avt.mkklcdnv6.com/43/f/18-1583496816.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118621,
+        "aniId": 107149,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

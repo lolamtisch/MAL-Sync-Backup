@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "今際の路のアリス",
+    "Alice on Border Road"
+  ],
+  "authors": [
+    "Haro Aso",
+    "Takayoshi Kuroda"
+  ],
+  "id": 100354,
+  "malId": 91536,
+  "type": "manga",
+  "title": "Imawa no Michi no Alice",
+  "url": "https://anilist.co/manga/100354",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100354-32smDHAb5Xl9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:36.000Z",
+  "updatedAt": "2021-05-20T14:53:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "75b5bcf9-2197-4d6c-80f5-40b070b79697": {
+        "authors": [
+          "Asou Haro",
+          "Kuroda Takayoshi"
+        ],
+        "identifier": "75b5bcf9-2197-4d6c-80f5-40b070b79697",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice on Border Road",
+        "url": "https://mangadex.org/title/75b5bcf9-2197-4d6c-80f5-40b070b79697",
+        "image": "https://uploads.mangadex.org/covers/75b5bcf9-2197-4d6c-80f5-40b070b79697/6029728c-53b8-4ee9-bd08-2736e5ad160d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91536,
+        "aniId": 100354,
+        "createdAt": "2020-10-12T16:10:03.000Z",
+        "updatedAt": "2021-06-04T21:59:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "imawa_no_michi_no_alice": {
+        "authors": [
+          "Asou",
+          "Haro"
+        ],
+        "identifier": "imawa_no_michi_no_alice",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Imawa No Michi No Alice",
+        "url": "https://manganelo.com/manga/imawa_no_michi_no_alice",
+        "image": "https://avt.mkklcdnv6.com/1/v/15-1583493528.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91536,
+        "aniId": 100354,
+        "createdAt": "2021-01-05T19:57:51.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "imawa-no-michi-no-alice": {
+        "authors": [
+          "ASOU Haro",
+          "KURODA Takayoshi"
+        ],
+        "identifier": "imawa-no-michi-no-alice",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Imawa no Michi no Alice",
+        "url": "https://mangasee123.com/manga/Imawa-No-Michi-No-Alice",
+        "image": "https://cover.nep.li/cover/Imawa-No-Michi-No-Alice.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91536,
+        "aniId": 100354,
+        "createdAt": "2021-03-17T14:03:22.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

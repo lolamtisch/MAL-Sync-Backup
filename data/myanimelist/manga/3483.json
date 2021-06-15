@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Romance of the Three Kingdoms",
+    "三国志"
+  ],
+  "authors": [
+    "Yokoyama, Mitsuteru"
+  ],
+  "id": 3483,
+  "type": "manga",
+  "title": "Sangokushi",
+  "url": "https://myanimelist.net/manga/3483/Sangokushi",
+  "image": "https://cdn.myanimelist.net/images/manga/1/16898.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:51.000Z",
+  "updatedAt": "2021-05-06T23:48:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1f43c858-c1a6-4dcd-8183-e017d4522949": {
+        "authors": [
+          "Yokoyama Mitsuteru"
+        ],
+        "identifier": "1f43c858-c1a6-4dcd-8183-e017d4522949",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sangokushi",
+        "url": "https://mangadex.org/title/1f43c858-c1a6-4dcd-8183-e017d4522949",
+        "image": "https://uploads.mangadex.org/covers/1f43c858-c1a6-4dcd-8183-e017d4522949/17dc0e49-80f1-447c-af84-4a42bb984f44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3483,
+        "aniId": 33483,
+        "createdAt": "2020-10-12T16:03:30.000Z",
+        "updatedAt": "2021-06-02T14:31:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sangokushi": {
+        "authors": [
+          "YOKOYAMA Mitsuteru"
+        ],
+        "identifier": "sangokushi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sangokushi",
+        "url": "https://mangasee123.com/manga/Sangokushi",
+        "image": "https://cover.nep.li/cover/Sangokushi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3483,
+        "aniId": 33483,
+        "createdAt": "2021-05-06T23:48:33.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sangokushi": {
+        "authors": [
+          "Yokoyama",
+          "Mitsuteru"
+        ],
+        "identifier": "sangokushi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sangokushi",
+        "url": "https://manganelo.com/manga/sangokushi",
+        "image": "https://avt.mkklcdnv6temp.com/3/g/1-1583463793.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3483,
+        "aniId": 33483,
+        "createdAt": "2021-05-17T23:25:55.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

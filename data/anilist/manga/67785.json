@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "アスカ＠未来系",
+    "Asuka @ Future",
+    "Asuka at future"
+  ],
+  "authors": [
+    "Kazuhiko Shimamoto"
+  ],
+  "id": 67785,
+  "malId": 37785,
+  "type": "manga",
+  "title": "Asuka @ Miraikei",
+  "url": "https://anilist.co/manga/67785",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37785.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:35.000Z",
+  "updatedAt": "2021-05-20T14:48:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "37d40691-1e2a-43ee-92f1-81538b15c4c6": {
+        "authors": [
+          "Shimamoto Kazuhiko"
+        ],
+        "identifier": "37d40691-1e2a-43ee-92f1-81538b15c4c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Asuka@Future.Come",
+        "url": "https://mangadex.org/title/37d40691-1e2a-43ee-92f1-81538b15c4c6",
+        "image": "https://uploads.mangadex.org/covers/37d40691-1e2a-43ee-92f1-81538b15c4c6/823e7a8f-6de7-423d-be26-1b923fd4b7e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37785,
+        "aniId": 67785,
+        "createdAt": "2020-10-12T16:08:42.000Z",
+        "updatedAt": "2021-06-04T12:04:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "asuka-miraikei": {
+        "authors": [
+          "SHIMAMOTO Kazuhiko"
+        ],
+        "identifier": "asuka-miraikei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Asuka @ Miraikei",
+        "url": "https://mangasee123.com/manga/Asuka-Miraikei",
+        "image": "https://cover.nep.li/cover/Asuka-Miraikei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37785,
+        "aniId": 67785,
+        "createdAt": "2021-04-21T13:26:58.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "바람의 색",
+    "Colors of the Wind",
+    "Die Farbe des Windes",
+    "風の色",
+    "Kaze no Iro"
+  ],
+  "authors": [
+    "Je-ah",
+    "Kwang-Mook Lim"
+  ],
+  "id": 127597,
+  "malId": null,
+  "type": "manga",
+  "title": "Baramui Saek",
+  "url": "https://anilist.co/manga/127597",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127597-BIXrgGejN2Vo.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T21:59:16.000Z",
+  "updatedAt": "2021-05-26T21:59:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5bfc2fc3-3b9a-45cc-8e21-b8f3b06c130f": {
+        "authors": [
+          "Jae-A",
+          "Lim Kwang-Mook"
+        ],
+        "identifier": "5bfc2fc3-3b9a-45cc-8e21-b8f3b06c130f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Colors of the Wind",
+        "url": "https://mangadex.org/title/5bfc2fc3-3b9a-45cc-8e21-b8f3b06c130f",
+        "image": "https://uploads.mangadex.org/covers/5bfc2fc3-3b9a-45cc-8e21-b8f3b06c130f/404f1985-1d91-48b3-9873-ded816d4f33e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 127597,
+        "createdAt": "2020-10-12T16:06:10.000Z",
+        "updatedAt": "2021-06-03T17:55:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

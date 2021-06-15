@@ -1,0 +1,65 @@
+{
+  "authors": [
+    "APAPA Mokona",
+    "CLAMP",
+    "OHKAWA Ageha"
+  ],
+  "identifier": "x",
+  "type": "manga",
+  "page": "MangaSee",
+  "title": "X",
+  "url": "https://mangasee123.com/manga/X",
+  "image": "https://cover.nep.li/cover/X.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 27,
+  "aniId": 30027,
+  "createdAt": "2021-04-29T14:18:32.000Z",
+  "updatedAt": "2021-05-20T15:39:24.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "X",
+      "X/1999",
+      "X"
+    ],
+    "authors": [
+      "CLAMP"
+    ],
+    "id": 27,
+    "type": "manga",
+    "title": "X",
+    "url": "https://myanimelist.net/manga/27/X",
+    "image": "https://cdn.myanimelist.net/images/manga/3/10698.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2021-04-25T21:57:23.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "X",
+      "エックス",
+      "X/1999"
+    ],
+    "authors": [
+      "CLAMP",
+      "Luiz Kobayashi"
+    ],
+    "id": 30027,
+    "malId": 27,
+    "type": "manga",
+    "title": "X",
+    "url": "https://anilist.co/manga/30027",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30027-oQEoeaABYrmj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:21.000Z",
+    "updatedAt": "2021-05-22T09:42:58.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/27/X"
+}

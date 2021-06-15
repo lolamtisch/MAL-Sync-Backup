@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "外天楼"
+  ],
+  "authors": [
+    "Masakazu Ishiguro"
+  ],
+  "id": 64029,
+  "malId": 34029,
+  "type": "manga",
+  "title": "Getenrou",
+  "url": "https://anilist.co/manga/64029",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/34029.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:57.000Z",
+  "updatedAt": "2021-05-20T14:47:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "01fddd87-3cfc-4bb8-b6b9-01c3f66b7cf7": {
+        "authors": [
+          "Ishiguro Masakazu"
+        ],
+        "identifier": "01fddd87-3cfc-4bb8-b6b9-01c3f66b7cf7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Getenrou",
+        "url": "https://mangadex.org/title/01fddd87-3cfc-4bb8-b6b9-01c3f66b7cf7",
+        "image": "https://uploads.mangadex.org/covers/01fddd87-3cfc-4bb8-b6b9-01c3f66b7cf7/c18ba072-87a0-4ded-b44d-6f7d93c3beb5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34029,
+        "aniId": 64029,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:24:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

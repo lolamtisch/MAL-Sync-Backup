@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "片思い×片思い",
+    "Unrequited Love x Unrequited Love",
+    "Kimama ni Kuchizukete Douzo",
+    "Motto Zuruku Kawaigatte yo"
+  ],
+  "authors": [
+    "Ueda Niku"
+  ],
+  "id": 99109,
+  "malId": 104814,
+  "type": "manga",
+  "title": "Kataomoi x Kataomoi",
+  "url": "https://anilist.co/manga/99109",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99109-OfyUWg5AaPsK.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:12.000Z",
+  "updatedAt": "2021-05-20T14:55:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b2d93ab-a17a-49c8-aedc-d03196b9f7a2": {
+        "authors": [
+          "Ueda Niku"
+        ],
+        "identifier": "0b2d93ab-a17a-49c8-aedc-d03196b9f7a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kataomoi x Kataomoi",
+        "url": "https://mangadex.org/title/0b2d93ab-a17a-49c8-aedc-d03196b9f7a2",
+        "image": "https://uploads.mangadex.org/covers/0b2d93ab-a17a-49c8-aedc-d03196b9f7a2/7e4bae45-5798-4efd-ab8a-92a763aa81ed.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 104814,
+        "aniId": 99109,
+        "createdAt": "2020-10-12T16:10:29.000Z",
+        "updatedAt": "2021-06-05T08:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kataomoi_x_kataomoi": {
+        "authors": [],
+        "identifier": "kataomoi_x_kataomoi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kataomoi X Kataomoi",
+        "url": "https://manganelo.com/manga/kataomoi_x_kataomoi",
+        "image": "https://avt.mkklcdnv6.com/7/c/15-1583491721.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104814,
+        "aniId": 99109,
+        "createdAt": "2020-10-12T16:23:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

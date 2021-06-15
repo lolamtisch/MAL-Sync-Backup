@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Danza",
+    "ダンツァ"
+  ],
+  "authors": [
+    "Natsume Ono"
+  ],
+  "id": 49792,
+  "malId": 19792,
+  "type": "manga",
+  "title": "Danza",
+  "url": "https://anilist.co/manga/49792",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19792.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:23.000Z",
+  "updatedAt": "2021-05-20T14:45:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf0c5534-97a8-4c9e-a077-f51d765a6e4b": {
+        "authors": [
+          "ONO Natsume"
+        ],
+        "identifier": "bf0c5534-97a8-4c9e-a077-f51d765a6e4b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Danza",
+        "url": "https://mangadex.org/title/bf0c5534-97a8-4c9e-a077-f51d765a6e4b",
+        "image": "https://uploads.mangadex.org/covers/bf0c5534-97a8-4c9e-a077-f51d765a6e4b/a775837b-2f48-474a-a77a-e20dc44e496d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19792,
+        "aniId": 49792,
+        "createdAt": "2020-10-12T16:13:03.000Z",
+        "updatedAt": "2021-06-05T18:28:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

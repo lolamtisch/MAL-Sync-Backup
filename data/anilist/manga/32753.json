@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "I've Moved Next Door To You",
+    "Hikkoshite Kimashita O Tonari Ni",
+    "The Next Door I Moved To"
+  ],
+  "authors": [
+    "Fuhri Misasagi"
+  ],
+  "id": 32753,
+  "malId": 2753,
+  "type": "manga",
+  "title": "Hikkoshite Kimashita Otonari Ni",
+  "url": "https://anilist.co/manga/32753",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2753.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8a925206-5e61-413d-99ec-29e4c9427267": {
+        "authors": [
+          "Misasagi Fuhri"
+        ],
+        "identifier": "8a925206-5e61-413d-99ec-29e4c9427267",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hikkoshite Kimashita. Otonari ni",
+        "url": "https://mangadex.org/title/8a925206-5e61-413d-99ec-29e4c9427267",
+        "image": "https://uploads.mangadex.org/covers/8a925206-5e61-413d-99ec-29e4c9427267/1347c07c-8389-458e-9775-350a6a64374d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2753,
+        "aniId": 32753,
+        "createdAt": "2020-10-12T16:21:03.000Z",
+        "updatedAt": "2021-06-08T01:30:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rc920608": {
+        "authors": [],
+        "identifier": "rc920608",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Does an Elf Live Next Door to You?",
+        "url": "https://manganelo.com/manga/rc920608",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2005-rc920608.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2753,
+        "aniId": 32753,
+        "createdAt": "2020-10-12T16:25:03.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

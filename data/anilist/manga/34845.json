@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Tea Prince",
+    "紅茶王子",
+    "Tea Prince",
+    "The Prince of Tea"
+  ],
+  "authors": [
+    "Nanpei Yamada"
+  ],
+  "id": 34845,
+  "malId": 4845,
+  "type": "manga",
+  "title": "Koucha Ouji",
+  "url": "https://anilist.co/manga/34845",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4845.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:36.000Z",
+  "updatedAt": "2021-05-20T14:38:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "26f24d58-e548-446d-af80-c7cd38a44da7": {
+        "authors": [
+          "YAMADA Nanpei"
+        ],
+        "identifier": "26f24d58-e548-446d-af80-c7cd38a44da7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koucha Ouji",
+        "url": "https://mangadex.org/title/26f24d58-e548-446d-af80-c7cd38a44da7",
+        "image": "https://uploads.mangadex.org/covers/26f24d58-e548-446d-af80-c7cd38a44da7/fc5d9897-b592-44b7-99a9-e97b2f3064e4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4845,
+        "aniId": 34845,
+        "createdAt": "2020-10-12T16:12:57.000Z",
+        "updatedAt": "2021-06-05T17:41:00.000Z",
+        "deletedAt": null
+      },
+      "10ecffb6-a42a-488b-b1c5-2871a6507a91": {
+        "authors": [
+          "."
+        ],
+        "identifier": "10ecffb6-a42a-488b-b1c5-2871a6507a91",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiss to kouchai",
+        "url": "https://mangadex.org/title/10ecffb6-a42a-488b-b1c5-2871a6507a91",
+        "image": "https://uploads.mangadex.org/covers/10ecffb6-a42a-488b-b1c5-2871a6507a91/213f0b64-3578-4a2e-82b7-762decf3bad2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4845,
+        "aniId": 34845,
+        "createdAt": "2020-10-12T16:16:34.000Z",
+        "updatedAt": "2021-06-06T23:55:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

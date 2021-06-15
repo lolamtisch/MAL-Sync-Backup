@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "学校怪談",
+    "Academy of Ghost Stories",
+    "Ghost Story School"
+  ],
+  "authors": [
+    "Yousuke Takahashi"
+  ],
+  "id": 46879,
+  "malId": 16879,
+  "type": "manga",
+  "title": "Gakkou Kaidan",
+  "url": "https://anilist.co/manga/46879",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46879-2ZEMwtJ1muKW.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "691563b3-ae9b-4663-8210-6d3a48df96fa": {
+        "authors": [
+          "Takahashi Yousuke"
+        ],
+        "identifier": "691563b3-ae9b-4663-8210-6d3a48df96fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gakkou Kaidan",
+        "url": "https://mangadex.org/title/691563b3-ae9b-4663-8210-6d3a48df96fa",
+        "image": "https://uploads.mangadex.org/covers/691563b3-ae9b-4663-8210-6d3a48df96fa/c13fc230-0336-4ca2-abac-910704924440.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16879,
+        "aniId": 46879,
+        "createdAt": "2020-10-12T16:04:17.000Z",
+        "updatedAt": "2021-06-02T20:07:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gakkou-kaidan": {
+        "authors": [
+          "TAKAHASHI Yousuke"
+        ],
+        "identifier": "gakkou-kaidan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gakkou Kaidan",
+        "url": "https://mangasee123.com/manga/Gakkou-Kaidan",
+        "image": "https://cover.nep.li/cover/Gakkou-Kaidan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16879,
+        "aniId": 46879,
+        "createdAt": "2021-06-14T17:57:57.000Z",
+        "updatedAt": "2021-06-14T18:27:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

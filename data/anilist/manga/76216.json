@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "おんなのこ研究会",
+    "Onna no Ko Kenkyuukai"
+  ],
+  "authors": [
+    "Beru Okabayashi"
+  ],
+  "id": 76216,
+  "malId": 46216,
+  "type": "manga",
+  "title": "Onnanoko Kenkyuukai",
+  "url": "https://anilist.co/manga/76216",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46216.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:29.000Z",
+  "updatedAt": "2021-05-20T14:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c5fb56a4-ffe1-4361-800e-ab0fdcec80f3": {
+        "authors": [
+          "Beru Okabayashi"
+        ],
+        "identifier": "c5fb56a4-ffe1-4361-800e-ab0fdcec80f3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onna no Ko Kenkyuukai",
+        "url": "https://mangadex.org/title/c5fb56a4-ffe1-4361-800e-ab0fdcec80f3",
+        "image": "https://uploads.mangadex.org/covers/c5fb56a4-ffe1-4361-800e-ab0fdcec80f3/773915f3-66d4-47dc-814f-917240fdedab.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46216,
+        "aniId": 76216,
+        "createdAt": "2020-10-12T16:05:47.000Z",
+        "updatedAt": "2021-06-03T14:59:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "onna_no_ko_kenkyuukai": {
+        "authors": [
+          "Beru Okabayashi"
+        ],
+        "identifier": "onna_no_ko_kenkyuukai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Onna no Ko Kenkyuukai",
+        "url": "https://fanfox.net/manga/onna_no_ko_kenkyuukai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11576/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46216,
+        "aniId": 76216,
+        "createdAt": "2021-03-26T16:20:26.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

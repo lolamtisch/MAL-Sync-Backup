@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "オーバードライヴ",
+    "OverDrive"
+  ],
+  "id": 2112,
+  "malId": 2112,
+  "type": "anime",
+  "title": "Over Drive",
+  "url": "https://anilist.co/anime/2112",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2112-txrbJOYMRcco.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:12.000Z",
+  "updatedAt": "2021-05-20T14:36:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "6w39": {
+        "identifier": "6w39",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Over Drive",
+        "url": "https://9anime.ru/watch/over-drive.6w39",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-uZRKiFoPlhg/V63Vbtdxl6I/AAAAAAAA2nY/XxTu3bGDhSA/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2112,
+        "aniId": 2112,
+        "createdAt": "2020-10-12T15:50:53.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "over-drive-": {
+        "identifier": "over-drive-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Over Drive ",
+        "url": "https://gogoanime.so/category/over-drive-",
+        "image": "https://gogocdn.net/images/anime/O/over-drive.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2112,
+        "aniId": 2112,
+        "createdAt": "2020-10-12T17:54:36.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

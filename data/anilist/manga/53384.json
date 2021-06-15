@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "東京ロック少年",
+    "Tokyo Rock Boy"
+  ],
+  "authors": [
+    "Kamaro Kikuchi"
+  ],
+  "id": 53384,
+  "malId": 23384,
+  "type": "manga",
+  "title": "Tokyo Rock Shounen",
+  "url": "https://anilist.co/manga/53384",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23384.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:37.000Z",
+  "updatedAt": "2021-05-20T14:46:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3b709d3-dd58-4d4a-9bdf-b900da9e0065": {
+        "authors": [
+          "Kikuchi Kamaro"
+        ],
+        "identifier": "c3b709d3-dd58-4d4a-9bdf-b900da9e0065",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Rock Shounen",
+        "url": "https://mangadex.org/title/c3b709d3-dd58-4d4a-9bdf-b900da9e0065",
+        "image": "https://uploads.mangadex.org/covers/c3b709d3-dd58-4d4a-9bdf-b900da9e0065/840e6ab4-8ba9-4706-afd8-ac39fb828daf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23384,
+        "aniId": 53384,
+        "createdAt": "2020-10-12T16:03:46.000Z",
+        "updatedAt": "2021-06-02T16:18:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

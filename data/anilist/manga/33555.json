@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Passionate Love"
+  ],
+  "authors": [
+    "Kanan Minami"
+  ],
+  "id": 33555,
+  "malId": 3555,
+  "type": "manga",
+  "title": "Geki Ai Motto Motometai",
+  "url": "https://anilist.co/manga/33555",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3555.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:19:27.000Z",
+  "updatedAt": "2021-06-04T16:19:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "93425f9a-991a-477b-bd3a-3a64463bce32": {
+        "authors": [
+          "Minami Kanan",
+          "Ayumi Rin",
+          "Yuuhi Ryuu"
+        ],
+        "identifier": "93425f9a-991a-477b-bd3a-3a64463bce32",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gekiai ~Motto Motometai",
+        "url": "https://mangadex.org/title/93425f9a-991a-477b-bd3a-3a64463bce32",
+        "image": "https://uploads.mangadex.org/covers/93425f9a-991a-477b-bd3a-3a64463bce32/5bd1cb07-ae95-4c2a-a7f1-545050d5a1b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3555,
+        "aniId": 33555,
+        "createdAt": "2020-10-12T16:09:13.000Z",
+        "updatedAt": "2021-06-04T16:47:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

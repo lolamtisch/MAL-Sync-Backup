@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ヒャッコ"
+  ],
+  "authors": [
+    "Haruaki Katou"
+  ],
+  "id": 38482,
+  "malId": 8482,
+  "type": "manga",
+  "title": "Hyakko",
+  "url": "https://anilist.co/manga/38482",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38482-sZHNjHhFwVDY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:47.000Z",
+  "updatedAt": "2021-05-20T14:40:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "551503fd-0e63-47a5-a879-16b59fc02f28": {
+        "authors": [
+          "KATOU Haruaki"
+        ],
+        "identifier": "551503fd-0e63-47a5-a879-16b59fc02f28",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hyakko",
+        "url": "https://mangadex.org/title/551503fd-0e63-47a5-a879-16b59fc02f28",
+        "image": "https://uploads.mangadex.org/covers/551503fd-0e63-47a5-a879-16b59fc02f28/2f564d9c-4904-49fd-8147-604d24fae35d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8482,
+        "aniId": 38482,
+        "createdAt": "2020-10-12T16:05:11.000Z",
+        "updatedAt": "2021-06-03T10:51:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

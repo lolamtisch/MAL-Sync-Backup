@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "瑠瑠蝶々"
+  ],
+  "authors": [
+    "Nishiuri, Nami"
+  ],
+  "id": 47807,
+  "type": "manga",
+  "title": "Ruru Chouchou",
+  "url": "https://myanimelist.net/manga/47807/Ruru_Chouchou",
+  "image": "https://cdn.myanimelist.net/images/manga/4/111251.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:30.000Z",
+  "updatedAt": "2021-03-26T16:20:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "376231b2-e7f7-4d6b-b8e8-7ce2b933fd3b": {
+        "authors": [
+          "Nishiuri Nami"
+        ],
+        "identifier": "376231b2-e7f7-4d6b-b8e8-7ce2b933fd3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ruru Chouchou",
+        "url": "https://mangadex.org/title/376231b2-e7f7-4d6b-b8e8-7ce2b933fd3b",
+        "image": "https://uploads.mangadex.org/covers/376231b2-e7f7-4d6b-b8e8-7ce2b933fd3b/5139cef9-441f-481e-ad36-1223a488811b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47807,
+        "aniId": 77807,
+        "createdAt": "2020-10-12T16:06:00.000Z",
+        "updatedAt": "2021-06-03T16:28:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ruru_chouchou": {
+        "authors": [
+          "NISHIURI Nami"
+        ],
+        "identifier": "ruru_chouchou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ruru Chouchou",
+        "url": "https://fanfox.net/manga/ruru_chouchou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11840/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47807,
+        "aniId": 77807,
+        "createdAt": "2021-03-26T16:20:05.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

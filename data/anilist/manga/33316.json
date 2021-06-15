@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Akihabara@DEEP",
+    "アキハバラ@DEEP"
+  ],
+  "authors": [
+    "Ira Ishida",
+    "Makoto Akane"
+  ],
+  "id": 33316,
+  "malId": 3316,
+  "type": "manga",
+  "title": "Akihabara@DEEP",
+  "url": "https://anilist.co/manga/33316",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33316-WkCvJFOn5oEX.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "02224f3d-1927-4738-ab43-6948b5b0e966": {
+        "authors": [
+          "ISHIDA Ira",
+          "AKANE Makoto"
+        ],
+        "identifier": "02224f3d-1927-4738-ab43-6948b5b0e966",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akihabara@DEEP",
+        "url": "https://mangadex.org/title/02224f3d-1927-4738-ab43-6948b5b0e966",
+        "image": "https://uploads.mangadex.org/covers/02224f3d-1927-4738-ab43-6948b5b0e966/3f79f662-b2f4-477d-9fb9-29bf47f8291b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3316,
+        "aniId": 33316,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:25:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

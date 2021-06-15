@@ -1,0 +1,68 @@
+{
+  "authors": [
+    "TAKEI Hiroyuki"
+  ],
+  "identifier": "shaman_king",
+  "type": "manga",
+  "page": "MangaFox",
+  "title": "Shaman King",
+  "url": "https://fanfox.net/manga/shaman_king/",
+  "image": "https://fmcdn.mfcdn.net/store/manga/65/cover.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 50,
+  "aniId": 30050,
+  "createdAt": "2020-12-19T02:56:53.000Z",
+  "updatedAt": "2021-05-20T15:25:53.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Shaman King",
+      "Exotica, Funbari no Uta, The Poem of Funbari, The Song of Funbari",
+      "シャーマンキング"
+    ],
+    "authors": [
+      "Takei, Hiroyuki"
+    ],
+    "id": 50,
+    "type": "manga",
+    "title": "Shaman King",
+    "url": "https://myanimelist.net/manga/50/Shaman_King",
+    "image": "https://cdn.myanimelist.net/images/manga/1/57607.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2021-05-29T07:15:47.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Shaman King",
+      "シャーマンキング",
+      "Exotica",
+      "Diary of Exotica",
+      "Funbari no Uta",
+      "Mappa Douji"
+    ],
+    "authors": [
+      "Hiroyuki Takei",
+      "Tor Lier",
+      "Arnaldo Oka",
+      "José Carlos Assumpção"
+    ],
+    "id": 30050,
+    "malId": 50,
+    "type": "manga",
+    "title": "Shaman King",
+    "url": "https://anilist.co/manga/30050",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30050-DwQ7Sbl8vJYU.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:21.000Z",
+    "updatedAt": "2021-05-20T14:35:21.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/50/Shaman_King"
+}

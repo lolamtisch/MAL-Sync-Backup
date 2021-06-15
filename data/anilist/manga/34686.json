@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "個人授業",
+    "Private Lesson"
+  ],
+  "authors": [
+    "Komomo Yamada"
+  ],
+  "id": 34686,
+  "malId": 4686,
+  "type": "manga",
+  "title": "Kojin Jugyou",
+  "url": "https://anilist.co/manga/34686",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4686.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:35.000Z",
+  "updatedAt": "2021-05-20T14:38:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a3f5b651-8b31-404b-990e-703ed78bffcc": {
+        "authors": [
+          "Yamada Komomo"
+        ],
+        "identifier": "a3f5b651-8b31-404b-990e-703ed78bffcc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kojin Jugyou",
+        "url": "https://mangadex.org/title/a3f5b651-8b31-404b-990e-703ed78bffcc",
+        "image": "https://uploads.mangadex.org/covers/a3f5b651-8b31-404b-990e-703ed78bffcc/4a4e80d5-c0ee-4fbb-9d4e-de870369b535.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4686,
+        "aniId": 34686,
+        "createdAt": "2020-10-12T16:09:20.000Z",
+        "updatedAt": "2021-06-04T16:54:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "SUPERファミリーコンプリート"
+  ],
+  "authors": [
+    "Kamaboko Red"
+  ],
+  "id": 86814,
+  "malId": 64881,
+  "type": "manga",
+  "title": "Super Family Complete",
+  "url": "https://anilist.co/manga/86814",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56814-3WeacymApLyO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-05-20T14:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "24923ada-4c32-4cd4-8557-641f8635e020": {
+        "authors": [
+          "Kamaboko Red"
+        ],
+        "identifier": "24923ada-4c32-4cd4-8557-641f8635e020",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Super Family Complete",
+        "url": "https://mangadex.org/title/24923ada-4c32-4cd4-8557-641f8635e020",
+        "image": "https://uploads.mangadex.org/covers/24923ada-4c32-4cd4-8557-641f8635e020/74d81bf6-aee1-4eb3-8dfa-ca901f216958.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64881,
+        "aniId": 86814,
+        "createdAt": "2020-10-12T16:07:03.000Z",
+        "updatedAt": "2021-06-03T23:59:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "super_family_complete": {
+        "authors": [],
+        "identifier": "super_family_complete",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Super Family Complete",
+        "url": "https://manganelo.com/manga/super_family_complete",
+        "image": "https://avt.mkklcdnv6.com/46/j/8-1583479946.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64881,
+        "aniId": 86814,
+        "createdAt": "2020-10-12T16:25:34.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "アリオン"
+  ],
+  "authors": [
+    "Yasuhiko, Yoshikazu"
+  ],
+  "id": 23777,
+  "type": "manga",
+  "title": "Arion",
+  "url": "https://myanimelist.net/manga/23777/Arion",
+  "image": "https://cdn.myanimelist.net/images/manga/1/75003.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:11.000Z",
+  "updatedAt": "2021-02-06T23:50:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e14e3725-e74a-47d5-a57b-38f274af67a8": {
+        "authors": [
+          "YASUHIKO Yoshikazu"
+        ],
+        "identifier": "e14e3725-e74a-47d5-a57b-38f274af67a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Arion",
+        "url": "https://mangadex.org/title/e14e3725-e74a-47d5-a57b-38f274af67a8",
+        "image": "https://uploads.mangadex.org/covers/e14e3725-e74a-47d5-a57b-38f274af67a8/1608513d-bfd9-49ab-8858-37ad88fbeffa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23777,
+        "aniId": 53777,
+        "createdAt": "2020-10-12T16:07:26.000Z",
+        "updatedAt": "2021-06-04T02:52:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "arion": {
+        "authors": [
+          "YASUHIKO Yoshikazu"
+        ],
+        "identifier": "arion",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Arion",
+        "url": "https://mangasee123.com/manga/Arion",
+        "image": "https://cover.nep.li/cover/Arion.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23777,
+        "aniId": 53777,
+        "createdAt": "2021-02-06T23:50:37.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "先生の白い噓",
+    "Teacher's White Lie",
+    "En proie au silence"
+  ],
+  "authors": [
+    "Akane Torikai",
+    "Gaëlle Ruel"
+  ],
+  "id": 100973,
+  "malId": 112933,
+  "type": "manga",
+  "title": "Sensei no Shiroi Uso",
+  "url": "https://anilist.co/manga/100973",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100973-3fay1yXuM8p1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:58.000Z",
+  "updatedAt": "2021-05-20T14:56:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce4bc0b3-846e-4c0d-8077-98c1672710d4": {
+        "authors": [
+          "Torikai Akane"
+        ],
+        "identifier": "ce4bc0b3-846e-4c0d-8077-98c1672710d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sensei no Shiroi Uso",
+        "url": "https://mangadex.org/title/ce4bc0b3-846e-4c0d-8077-98c1672710d4",
+        "image": "https://uploads.mangadex.org/covers/ce4bc0b3-846e-4c0d-8077-98c1672710d4/8396fe77-d1b2-43ef-871c-95a312a3a7cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112933,
+        "aniId": 100973,
+        "createdAt": "2020-10-12T16:11:30.000Z",
+        "updatedAt": "2021-06-05T08:52:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sensei_no_shiroi_uso": {
+        "authors": [],
+        "identifier": "sensei_no_shiroi_uso",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sensei No Shiroi Uso",
+        "url": "https://manganelo.com/manga/sensei_no_shiroi_uso",
+        "image": "https://avt.mkklcdnv6.com/19/e/16-1583494162.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112933,
+        "aniId": 100973,
+        "createdAt": "2020-10-12T16:25:22.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

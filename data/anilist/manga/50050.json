@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Even though it wasn't supposed to be like this",
+    "こんなはずじゃなかったのに。",
+    "Konna Hazu ja Na katta noni",
+    "Konna Hazuja Nakattanoni",
+    "Konnahazuja Nakatta no ni"
+  ],
+  "authors": [
+    "Kou Fujisaki"
+  ],
+  "id": 50050,
+  "malId": 20050,
+  "type": "manga",
+  "title": "Konna Hazu ja Nakatta no ni",
+  "url": "https://anilist.co/manga/50050",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20050.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6189bbd-4fef-493e-bc5b-ac11f448b8f2": {
+        "authors": [
+          "Fujisaki Kou"
+        ],
+        "identifier": "b6189bbd-4fef-493e-bc5b-ac11f448b8f2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Konna Hazu ja Nakatta no ni",
+        "url": "https://mangadex.org/title/b6189bbd-4fef-493e-bc5b-ac11f448b8f2",
+        "image": "https://uploads.mangadex.org/covers/b6189bbd-4fef-493e-bc5b-ac11f448b8f2/0e80f644-4e40-414f-be27-542a44c60582.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20050,
+        "aniId": 50050,
+        "createdAt": "2020-10-12T16:13:31.000Z",
+        "updatedAt": "2021-06-05T22:03:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "konna_hazu_ja_nakatta_no_ni": {
+        "authors": [],
+        "identifier": "konna_hazu_ja_nakatta_no_ni",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Konna Hazu Ja Nakatta No Ni",
+        "url": "https://manganelo.com/manga/konna_hazu_ja_nakatta_no_ni",
+        "image": "https://avt.mkklcdnv6.com/47/l/12-1583487622.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20050,
+        "aniId": 50050,
+        "createdAt": "2020-10-12T16:23:59.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

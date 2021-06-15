@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Asterisk",
+    "アスタリスク",
+    "Eden"
+  ],
+  "authors": [
+    "Shuu Morimoto"
+  ],
+  "id": 33737,
+  "malId": 3737,
+  "type": "manga",
+  "title": "Asterisk",
+  "url": "https://anilist.co/manga/33737",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33737-cnA9INjcFE2y.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b70b1bae-2400-4e4c-9ae4-84e035fbc167": {
+        "authors": [
+          "Morimoto Shuu"
+        ],
+        "identifier": "b70b1bae-2400-4e4c-9ae4-84e035fbc167",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Asterisk",
+        "url": "https://mangadex.org/title/b70b1bae-2400-4e4c-9ae4-84e035fbc167",
+        "image": "https://uploads.mangadex.org/covers/b70b1bae-2400-4e4c-9ae4-84e035fbc167/7cd85526-8c7d-47a4-97c2-68c1c0ddd8eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3737,
+        "aniId": 33737,
+        "createdAt": "2020-10-12T16:05:39.000Z",
+        "updatedAt": "2021-06-03T14:01:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "asterisk": {
+        "authors": [
+          "MORIMOTO Shuu"
+        ],
+        "identifier": "asterisk",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Asterisk",
+        "url": "https://mangasee123.com/manga/Asterisk",
+        "image": "https://cover.nep.li/cover/Asterisk.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3737,
+        "aniId": 33737,
+        "createdAt": "2021-04-18T01:44:18.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lw960331": {
+        "authors": [
+          "Morimoto Shuu"
+        ],
+        "identifier": "manga-lw960331",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Asterisk",
+        "url": "https://readmanganato.com/manga-lw960331",
+        "image": "https://avt.mkklcdnv6temp.com/47/m/6-1583476173.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3737,
+        "aniId": 33737,
+        "createdAt": "2021-05-30T18:13:03.000Z",
+        "updatedAt": "2021-05-30T18:42:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

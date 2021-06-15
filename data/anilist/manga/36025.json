@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Cannot Kiss for 24 Hours",
+    "Cannot Kiss For 24 Hrs",
+    "Even if You are Not Here"
+  ],
+  "authors": [
+    "Hana Umezawa"
+  ],
+  "id": 36025,
+  "malId": 6025,
+  "type": "manga",
+  "title": "24 Jikan Kiss Dekinai",
+  "url": "https://anilist.co/manga/36025",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6025.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:36.000Z",
+  "updatedAt": "2021-05-20T14:39:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c4b9c31c-f36e-449d-a895-aa58a5e55c5b": {
+        "authors": [
+          "Umezawa Hana"
+        ],
+        "identifier": "c4b9c31c-f36e-449d-a895-aa58a5e55c5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi Sae Inakereba",
+        "url": "https://mangadex.org/title/c4b9c31c-f36e-449d-a895-aa58a5e55c5b",
+        "image": "https://uploads.mangadex.org/covers/c4b9c31c-f36e-449d-a895-aa58a5e55c5b/1676ed68-4003-4ae4-9b96-b7cc5c56a3ea.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6025,
+        "aniId": 36025,
+        "createdAt": "2020-10-12T16:04:28.000Z",
+        "updatedAt": "2021-06-02T21:13:21.000Z",
+        "deletedAt": null
+      },
+      "9f1b6524-ef1b-448e-8845-e46ba4bbd194": {
+        "authors": [
+          "Umezawa Hana"
+        ],
+        "identifier": "9f1b6524-ef1b-448e-8845-e46ba4bbd194",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "24 Jikan Kiss Dekinai",
+        "url": "https://mangadex.org/title/9f1b6524-ef1b-448e-8845-e46ba4bbd194",
+        "image": "https://uploads.mangadex.org/covers/9f1b6524-ef1b-448e-8845-e46ba4bbd194/8d99ddf8-29df-4e84-983f-fcb6ae06e288.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6025,
+        "aniId": 36025,
+        "createdAt": "2020-12-01T23:53:03.000Z",
+        "updatedAt": "2021-06-08T08:04:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

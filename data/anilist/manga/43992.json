@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "あずまんが大王・補習編",
+    "Azumanga Daioh: Supplementary Materials",
+    "Azumanga Daioh 10th Anniversary Special",
+    "Azumanga Daioh: Supplementary Lessons"
+  ],
+  "authors": [
+    "Kiyohiko Azuma"
+  ],
+  "id": 43992,
+  "malId": 13992,
+  "type": "manga",
+  "title": "Azumanga Daioh: Hoshuu-hen",
+  "url": "https://anilist.co/manga/43992",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13992.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:42.000Z",
+  "updatedAt": "2021-05-20T14:42:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6df9969e-317f-46ff-86a9-6ff8664f568c": {
+        "authors": [
+          "Azuma Kiyohiko"
+        ],
+        "identifier": "6df9969e-317f-46ff-86a9-6ff8664f568c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Azumanga Daioh - Hoshuuhen",
+        "url": "https://mangadex.org/title/6df9969e-317f-46ff-86a9-6ff8664f568c",
+        "image": "https://uploads.mangadex.org/covers/6df9969e-317f-46ff-86a9-6ff8664f568c/fa6c0373-3a9f-46ba-b7ff-5d1636a64ac6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13992,
+        "aniId": 43992,
+        "createdAt": "2020-10-12T16:05:29.000Z",
+        "updatedAt": "2021-06-03T12:56:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "azumanga_daioh_hoshuuhen": {
+        "authors": [],
+        "identifier": "azumanga_daioh_hoshuuhen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Azumanga Daioh: Hoshuu-Hen",
+        "url": "https://manganelo.com/manga/azumanga_daioh_hoshuuhen",
+        "image": "https://avt.mkklcdnv6.com/10/g/4-1583470085.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13992,
+        "aniId": 43992,
+        "createdAt": "2020-10-12T16:22:12.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "azumanga_daioh_hoshuuhen": {
+        "authors": [
+          "AZUMA Kiyohiko"
+        ],
+        "identifier": "azumanga_daioh_hoshuuhen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Azumanga Daioh: Hoshuuhen",
+        "url": "https://fanfox.net/manga/azumanga_daioh_hoshuuhen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35825/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13992,
+        "aniId": 43992,
+        "createdAt": "2020-11-05T17:58:27.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

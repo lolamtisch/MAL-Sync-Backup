@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Café Latte Rhapsody",
+    "カフェラテ・ラプソディ",
+    "Cafe Latte Rhapsody"
+  ],
+  "authors": [
+    "Touko Kawai"
+  ],
+  "id": 32116,
+  "malId": 2116,
+  "type": "manga",
+  "title": "Café Latte Rhapsody",
+  "url": "https://anilist.co/manga/32116",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32116-0rlckzqGSZr1.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56dcfee4-d589-4a29-94f7-5cdbcfee67bf": {
+        "authors": [
+          "Kawai Touko"
+        ],
+        "identifier": "56dcfee4-d589-4a29-94f7-5cdbcfee67bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Café Latte Rhapsody",
+        "url": "https://mangadex.org/title/56dcfee4-d589-4a29-94f7-5cdbcfee67bf",
+        "image": "https://uploads.mangadex.org/covers/56dcfee4-d589-4a29-94f7-5cdbcfee67bf/3aeabe7e-e63f-4339-abcf-86df72549344.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2116,
+        "aniId": 32116,
+        "createdAt": "2020-10-12T16:07:36.000Z",
+        "updatedAt": "2021-06-04T04:04:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rl922401": {
+        "authors": [
+          "Kawai",
+          "Touko"
+        ],
+        "identifier": "rl922401",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Café Latte Rhapsody",
+        "url": "https://manganelo.com/manga/rl922401",
+        "image": "https://avt.mkklcdnv6temp.com/42/m/20-1583769972.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2116,
+        "aniId": 32116,
+        "createdAt": "2021-05-22T18:44:21.000Z",
+        "updatedAt": "2021-05-22T19:12:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cafe_latte_rhapsody": {
+        "authors": [
+          "KAWAI Touko"
+        ],
+        "identifier": "cafe_latte_rhapsody",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cafe Latte Rhapsody",
+        "url": "https://fanfox.net/manga/cafe_latte_rhapsody/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2618/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2116,
+        "aniId": 32116,
+        "createdAt": "2021-06-04T01:20:21.000Z",
+        "updatedAt": "2021-06-04T01:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

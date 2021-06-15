@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "チャームエンジェル"
+  ],
+  "authors": [
+    "Chikako Mori"
+  ],
+  "id": 33466,
+  "malId": 3466,
+  "type": "manga",
+  "title": "Charm angel",
+  "url": "https://anilist.co/manga/33466",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3466.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:12.000Z",
+  "updatedAt": "2021-05-20T14:38:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc": {
+        "authors": [
+          "MORI Chikako"
+        ],
+        "identifier": "cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Charm Angel",
+        "url": "https://mangadex.org/title/cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc",
+        "image": "https://uploads.mangadex.org/covers/cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc/60d7fd48-81f9-4114-bb62-6bbf0ae54226.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3466,
+        "aniId": 33466,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:40:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

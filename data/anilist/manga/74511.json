@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "110番は受け付けません!",
+    "110 Ban wa Uketsukemasen!"
+  ],
+  "authors": [
+    "Kyou Kitazawa"
+  ],
+  "id": 74511,
+  "malId": 44511,
+  "type": "manga",
+  "title": "110-Ban wa Uketsukemasen!",
+  "url": "https://anilist.co/manga/74511",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/44511.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:01.000Z",
+  "updatedAt": "2021-05-20T14:49:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90a75799-8599-4206-a38d-f166ab62cd09": {
+        "authors": [
+          "Kitazawa Kyou"
+        ],
+        "identifier": "90a75799-8599-4206-a38d-f166ab62cd09",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "110-Ban wa Uketsukemasen!",
+        "url": "https://mangadex.org/title/90a75799-8599-4206-a38d-f166ab62cd09",
+        "image": "https://uploads.mangadex.org/covers/90a75799-8599-4206-a38d-f166ab62cd09/1339a515-8fc2-41e0-a7f0-9517b294f25e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44511,
+        "aniId": 74511,
+        "createdAt": "2020-10-12T16:06:41.000Z",
+        "updatedAt": "2021-06-03T21:28:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

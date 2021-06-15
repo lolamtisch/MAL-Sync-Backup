@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "狂い鳴くのは僕の番",
+    "Tamaranai desho?",
+    "Tamaranaidesho?",
+    "It's My Turn To Wildly Cry Out"
+  ],
+  "authors": [
+    "Keri Kusabi"
+  ],
+  "id": 98427,
+  "malId": 104700,
+  "type": "manga",
+  "title": "Kurui Naku no wa Boku no Ban",
+  "url": "https://anilist.co/manga/98427",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98427-MhSC0zKc1akr.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:55:12.000Z",
+  "updatedAt": "2021-06-05T02:19:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3a44916e-3ba8-49df-8974-d24812ce67c4": {
+        "authors": [
+          "Kusabi Keri"
+        ],
+        "identifier": "3a44916e-3ba8-49df-8974-d24812ce67c4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kurui Naku no wa Boku no Ban",
+        "url": "https://mangadex.org/title/3a44916e-3ba8-49df-8974-d24812ce67c4",
+        "image": "https://uploads.mangadex.org/covers/3a44916e-3ba8-49df-8974-d24812ce67c4/3d8da93a-6b64-4f3f-99eb-60b647d4e422.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104700,
+        "aniId": 98427,
+        "createdAt": "2020-10-12T16:10:38.000Z",
+        "updatedAt": "2021-06-05T08:47:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kurui_naku_no_wa_boku_no_ban": {
+        "authors": [],
+        "identifier": "kurui_naku_no_wa_boku_no_ban",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kurui Naku No Wa Boku No Ban",
+        "url": "https://manganelo.com/manga/kurui_naku_no_wa_boku_no_ban",
+        "image": "https://avt.mkklcdnv6.com/5/u/15-1583491677.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104700,
+        "aniId": 98427,
+        "createdAt": "2020-10-12T16:24:02.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

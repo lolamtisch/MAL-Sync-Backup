@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Bun7 Sakura"
+  ],
+  "id": 32863,
+  "malId": 2863,
+  "type": "manga",
+  "title": "Itsushika Kimi no Toriko",
+  "url": "https://anilist.co/manga/32863",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2863.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:16.000Z",
+  "updatedAt": "2021-05-20T14:37:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "39fba322-8ca7-48ff-b334-6ef28ca6926d": {
+        "authors": [
+          "Sakura Bunshichi"
+        ],
+        "identifier": "39fba322-8ca7-48ff-b334-6ef28ca6926d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itsushika Kimi no Toriko",
+        "url": "https://mangadex.org/title/39fba322-8ca7-48ff-b334-6ef28ca6926d",
+        "image": "https://uploads.mangadex.org/covers/39fba322-8ca7-48ff-b334-6ef28ca6926d/9cdf991d-2351-4228-9d7d-cb01349f21c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2863,
+        "aniId": 32863,
+        "createdAt": "2020-12-31T13:00:09.000Z",
+        "updatedAt": "2021-06-08T09:11:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

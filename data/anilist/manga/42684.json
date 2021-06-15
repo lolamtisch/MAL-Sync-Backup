@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "スイート ビター キャンディ",
+    "Amai to Nigai Candy"
+  ],
+  "authors": [
+    "Mitsuaki Asou"
+  ],
+  "id": 42684,
+  "malId": 12684,
+  "type": "manga",
+  "title": "Sweet Bitter Candy",
+  "url": "https://anilist.co/manga/42684",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx42684-uJSy4cinSzPz.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9b8d5ed8-bdad-461d-88aa-0765497b2707": {
+        "authors": [
+          "Asou Mitsuaki"
+        ],
+        "identifier": "9b8d5ed8-bdad-461d-88aa-0765497b2707",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sweet Bitter Candy",
+        "url": "https://mangadex.org/title/9b8d5ed8-bdad-461d-88aa-0765497b2707",
+        "image": "https://uploads.mangadex.org/covers/9b8d5ed8-bdad-461d-88aa-0765497b2707/dbf6e410-d4e5-45c0-8911-3cacd97db60e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12684,
+        "aniId": 42684,
+        "createdAt": "2020-10-12T16:12:49.000Z",
+        "updatedAt": "2021-06-05T16:34:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "am918447": {
+        "authors": [],
+        "identifier": "am918447",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sweet Candy",
+        "url": "https://manganelo.com/manga/am918447",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/22091-am918447.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12684,
+        "aniId": 42684,
+        "createdAt": "2020-10-12T16:22:04.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

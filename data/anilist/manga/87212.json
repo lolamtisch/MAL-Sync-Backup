@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "エコエコアザラク",
+    "The Wizard of Darkness",
+    "Eko Eko Azarak",
+    "Hitokui Ichizoku"
+  ],
+  "authors": [
+    "Shinichi Koga"
+  ],
+  "id": 87212,
+  "malId": 55901,
+  "type": "manga",
+  "title": "Eko Eko Azaraku",
+  "url": "https://anilist.co/manga/87212",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87212-u5RXVb4gdHnD.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:27.000Z",
+  "updatedAt": "2021-05-20T14:50:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86e234f7-9a87-4b7c-bda7-749ef3b1eaed": {
+        "authors": [
+          "Koga Shinichi"
+        ],
+        "identifier": "86e234f7-9a87-4b7c-bda7-749ef3b1eaed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eko Eko Azarak",
+        "url": "https://mangadex.org/title/86e234f7-9a87-4b7c-bda7-749ef3b1eaed",
+        "image": "https://uploads.mangadex.org/covers/86e234f7-9a87-4b7c-bda7-749ef3b1eaed/b6c27044-0308-4fae-bd50-7f85c1de0ecf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55901,
+        "aniId": 87212,
+        "createdAt": "2020-10-12T16:09:34.000Z",
+        "updatedAt": "2021-06-04T18:33:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eko_eko_azaraku": {
+        "authors": [],
+        "identifier": "eko_eko_azaraku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eko Eko Azaraku",
+        "url": "https://manganelo.com/manga/eko_eko_azaraku",
+        "image": "https://avt.mkklcdnv6.com/29/p/13-1583488799.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55901,
+        "aniId": 87212,
+        "createdAt": "2020-10-12T16:22:48.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

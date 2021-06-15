@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "一緒なだけじゃ",
+    "As long as we're together"
+  ],
+  "authors": [
+    "Rikaco Kasai"
+  ],
+  "id": 77144,
+  "malId": 47144,
+  "type": "manga",
+  "title": "Issho na Dake Ja",
+  "url": "https://anilist.co/manga/77144",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47144.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:32.000Z",
+  "updatedAt": "2021-05-20T14:49:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e297e294-9ab5-4900-91c7-7198b9dfe3f9": {
+        "authors": [
+          "Kasai Rikako"
+        ],
+        "identifier": "e297e294-9ab5-4900-91c7-7198b9dfe3f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Issho na Dakejya",
+        "url": "https://mangadex.org/title/e297e294-9ab5-4900-91c7-7198b9dfe3f9",
+        "image": "https://uploads.mangadex.org/covers/e297e294-9ab5-4900-91c7-7198b9dfe3f9/546dfecf-ebd1-4e75-b318-05282b0a5cf8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47144,
+        "aniId": 77144,
+        "createdAt": "2020-10-12T16:12:03.000Z",
+        "updatedAt": "2021-06-05T13:04:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

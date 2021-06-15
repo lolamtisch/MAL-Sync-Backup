@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Role Playing Girl",
+    "RPG",
+    "Role Playing Girl"
+  ],
+  "authors": [
+    "Kome Akita"
+  ],
+  "id": 41049,
+  "malId": 11049,
+  "type": "manga",
+  "title": "Otameshi RPG",
+  "url": "https://anilist.co/manga/41049",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11049.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:13.000Z",
+  "updatedAt": "2021-05-20T14:41:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "926d91ae-e695-4ba8-a3d6-f61c0844de5a": {
+        "authors": [
+          "Akita Kome"
+        ],
+        "identifier": "926d91ae-e695-4ba8-a3d6-f61c0844de5a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otameshi RPG",
+        "url": "https://mangadex.org/title/926d91ae-e695-4ba8-a3d6-f61c0844de5a",
+        "image": "https://uploads.mangadex.org/covers/926d91ae-e695-4ba8-a3d6-f61c0844de5a/ac839b6f-fcd9-4fc4-83ee-b244b85b3021.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11049,
+        "aniId": 41049,
+        "createdAt": "2020-10-12T16:13:07.000Z",
+        "updatedAt": "2021-06-05T18:56:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "otameshi_rpg": {
+        "authors": [
+          "Akita",
+          "Kome"
+        ],
+        "identifier": "otameshi_rpg",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Otameshi Rpg",
+        "url": "https://manganelo.com/manga/otameshi_rpg",
+        "image": "https://avt.mkklcdnv6temp.com/12/n/12-1583486275.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11049,
+        "aniId": 41049,
+        "createdAt": "2021-04-15T10:14:38.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

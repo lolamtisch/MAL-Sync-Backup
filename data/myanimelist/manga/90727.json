@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Application Trap",
+    "アプリトラップ"
+  ],
+  "authors": [
+    "Kuriyama, Renji",
+    "Kamiyama, Yahiko"
+  ],
+  "id": 90727,
+  "type": "manga",
+  "title": "Appli Trap",
+  "url": "https://myanimelist.net/manga/90727/Appli_Trap",
+  "image": "https://cdn.myanimelist.net/images/manga/3/164791.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:05.000Z",
+  "updatedAt": "2021-06-01T13:23:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f3b6c845-396d-491f-920b-efb6b9be1456": {
+        "authors": [
+          "Kuriyama Renji"
+        ],
+        "identifier": "f3b6c845-396d-491f-920b-efb6b9be1456",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Appli-Trap",
+        "url": "https://mangadex.org/title/f3b6c845-396d-491f-920b-efb6b9be1456",
+        "image": "https://uploads.mangadex.org/covers/f3b6c845-396d-491f-920b-efb6b9be1456/8ca57932-a2ac-49b3-a818-53417aca097d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90727,
+        "aniId": 102495,
+        "createdAt": "2020-10-12T16:09:00.000Z",
+        "updatedAt": "2021-06-04T14:27:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "appli_trap": {
+        "authors": [],
+        "identifier": "appli_trap",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Appli Trap",
+        "url": "https://manganelo.com/manga/appli_trap",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18186-appli_trap.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90727,
+        "aniId": 102495,
+        "createdAt": "2020-10-12T16:22:07.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xy974781": {
+        "authors": [
+          "Kamiyama Yahiko",
+          "Kuriyama Renji"
+        ],
+        "identifier": "manga-xy974781",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Appli Trap",
+        "url": "https://manganato.com/manga-xy974781",
+        "image": "https://avt.mkklcdnv6temp.com/49/h/14-1583491450.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90727,
+        "aniId": 102495,
+        "createdAt": "2021-06-01T13:23:29.000Z",
+        "updatedAt": "2021-06-01T13:52:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "あねコミ"
+  ],
+  "authors": [
+    "Inoue, Kazurou"
+  ],
+  "id": 16658,
+  "type": "manga",
+  "title": "Ane Comi",
+  "url": "https://myanimelist.net/manga/16658/Ane_Comi",
+  "image": "https://cdn.myanimelist.net/images/manga/2/188811.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:22.000Z",
+  "updatedAt": "2021-05-05T12:03:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5fb177ec-6add-4d94-b667-905605d71ca6": {
+        "authors": [
+          "Inoue Kazurou"
+        ],
+        "identifier": "5fb177ec-6add-4d94-b667-905605d71ca6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ane Comi",
+        "url": "https://mangadex.org/title/5fb177ec-6add-4d94-b667-905605d71ca6",
+        "image": "https://uploads.mangadex.org/covers/5fb177ec-6add-4d94-b667-905605d71ca6/ddfbb4c3-3842-4487-8ee0-c0372be84152.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16658,
+        "aniId": 46658,
+        "createdAt": "2020-10-12T16:02:39.000Z",
+        "updatedAt": "2021-06-02T08:35:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ane-comi": {
+        "authors": [
+          "INOUE Kazurou"
+        ],
+        "identifier": "ane-comi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ane Comi",
+        "url": "https://mangasee123.com/manga/Ane-Comi",
+        "image": "https://cover.nep.li/cover/Ane-Comi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16658,
+        "aniId": 46658,
+        "createdAt": "2021-05-05T12:03:02.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

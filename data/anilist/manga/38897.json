@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "あかね色に染まる坂"
+  ],
+  "authors": [
+    "Feng",
+    "Homare Sakazuki"
+  ],
+  "id": 38897,
+  "malId": 8897,
+  "type": "manga",
+  "title": "Akane-iro ni Somaru Saka",
+  "url": "https://anilist.co/manga/38897",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8897.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:52.000Z",
+  "updatedAt": "2021-05-20T14:40:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5f303853-4bde-4f69-a92f-0ed80672c4e4": {
+        "authors": [
+          "Feng",
+          "SAKAZUKI Homare"
+        ],
+        "identifier": "5f303853-4bde-4f69-a92f-0ed80672c4e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akaneiro ni Somaru Saka",
+        "url": "https://mangadex.org/title/5f303853-4bde-4f69-a92f-0ed80672c4e4",
+        "image": "https://uploads.mangadex.org/covers/5f303853-4bde-4f69-a92f-0ed80672c4e4/94f341c2-25ed-420e-9d06-f8e4b7c89917.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8897,
+        "aniId": 38897,
+        "createdAt": "2020-10-12T16:02:25.000Z",
+        "updatedAt": "2021-06-02T06:45:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akaneiro_ni_somaru_saka": {
+        "authors": [
+          "Sakazuki",
+          "Homare"
+        ],
+        "identifier": "akaneiro_ni_somaru_saka",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akaneiro Ni Somaru Saka",
+        "url": "https://manganelo.com/manga/akaneiro_ni_somaru_saka",
+        "image": "https://avt.mkklcdnv6temp.com/13/j/4-1583470215.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8897,
+        "aniId": 38897,
+        "createdAt": "2021-04-04T16:39:20.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

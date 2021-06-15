@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "モンスタブー"
+  ],
+  "authors": [
+    "Tali",
+    "Yuuya Takahashi"
+  ],
+  "id": 114805,
+  "malId": 123115,
+  "type": "manga",
+  "title": "MonsTABOO",
+  "url": "https://anilist.co/manga/114805",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114805-osCPr5xRH56d.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:58.000Z",
+  "updatedAt": "2021-05-20T14:58:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2e61665d-16b8-4ec1-a1b2-ad7ca42232f6": {
+        "authors": [
+          "TALI",
+          "Yuya Takahashi"
+        ],
+        "identifier": "2e61665d-16b8-4ec1-a1b2-ad7ca42232f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "MonsTABOO",
+        "url": "https://mangadex.org/title/2e61665d-16b8-4ec1-a1b2-ad7ca42232f6",
+        "image": "https://uploads.mangadex.org/covers/2e61665d-16b8-4ec1-a1b2-ad7ca42232f6/0fdeaa89-33a8-4b3c-81e4-10c83829fffb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123115,
+        "aniId": 114805,
+        "createdAt": "2020-10-12T16:16:53.000Z",
+        "updatedAt": "2021-06-07T02:44:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

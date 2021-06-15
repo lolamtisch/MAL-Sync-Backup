@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ティアドロップ"
+  ],
+  "authors": [
+    "Mitsuaki Asou"
+  ],
+  "id": 60915,
+  "malId": 30915,
+  "type": "manga",
+  "title": "Tear Drop",
+  "url": "https://anilist.co/manga/60915",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx60915-Ac0npVaanZ5M.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:42.000Z",
+  "updatedAt": "2021-05-20T14:47:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6394b693-237b-43ca-9ab2-9b27b5c39c86": {
+        "authors": [
+          "Asou Mitsuaki"
+        ],
+        "identifier": "6394b693-237b-43ca-9ab2-9b27b5c39c86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tear Drop",
+        "url": "https://mangadex.org/title/6394b693-237b-43ca-9ab2-9b27b5c39c86",
+        "image": "https://uploads.mangadex.org/covers/6394b693-237b-43ca-9ab2-9b27b5c39c86/9066c520-efe1-4878-8bd2-e12655bccb4f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30915,
+        "aniId": 60915,
+        "createdAt": "2020-10-12T16:04:43.000Z",
+        "updatedAt": "2021-06-02T23:01:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

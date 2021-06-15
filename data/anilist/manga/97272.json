@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "秘密のレプタイルズ"
+  ],
+  "authors": [
+    "Gujira"
+  ],
+  "id": 97272,
+  "malId": 98702,
+  "type": "manga",
+  "title": "Himitsu no Reptiles",
+  "url": "https://anilist.co/manga/97272",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97272-iPJsYmEnH9MX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:39.000Z",
+  "updatedAt": "2021-05-20T14:54:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab60e83d-3383-481e-9227-4a67602a3322": {
+        "authors": [
+          "Gujira"
+        ],
+        "identifier": "ab60e83d-3383-481e-9227-4a67602a3322",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himitsu no Reptiles",
+        "url": "https://mangadex.org/title/ab60e83d-3383-481e-9227-4a67602a3322",
+        "image": "https://uploads.mangadex.org/covers/ab60e83d-3383-481e-9227-4a67602a3322/794681ef-5dec-46f3-a898-164f870ee204.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98702,
+        "aniId": 97272,
+        "createdAt": "2020-10-12T16:10:04.000Z",
+        "updatedAt": "2021-06-04T22:04:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sz917899": {
+        "authors": [],
+        "identifier": "sz917899",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Secret Reptiles",
+        "url": "https://manganelo.com/manga/sz917899",
+        "image": "https://avt.mkklcdnv6.com/26/b/17-1583496191.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98702,
+        "aniId": 97272,
+        "createdAt": "2020-10-12T16:25:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "himitsu_no_reptiles": {
+        "authors": [
+          "Gujira"
+        ],
+        "identifier": "himitsu_no_reptiles",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Himitsu no Reptiles",
+        "url": "https://fanfox.net/manga/himitsu_no_reptiles/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29268/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98702,
+        "aniId": 97272,
+        "createdAt": "2021-02-15T03:36:25.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

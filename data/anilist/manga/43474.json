@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Tattoo",
+    "刺靑"
+  ],
+  "authors": [
+    "Ryo Yokobaba"
+  ],
+  "id": 43474,
+  "malId": 13474,
+  "type": "manga",
+  "title": "Shisei",
+  "url": "https://anilist.co/manga/43474",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13474.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:35.000Z",
+  "updatedAt": "2021-05-20T14:42:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9": {
+        "authors": [
+          "Yokobaba Ryo"
+        ],
+        "identifier": "13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shisei (YOKOBABA Ryo)",
+        "url": "https://mangadex.org/title/13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9",
+        "image": "https://uploads.mangadex.org/covers/13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9/6919c1f6-f135-4a46-bfa4-3c649e2161df.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13474,
+        "aniId": 43474,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:25:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

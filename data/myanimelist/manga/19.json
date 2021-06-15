@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "GetBackers",
+    "Get Backers: Dakkan-ya",
+    "GetBackers -奪還屋-"
+  ],
+  "authors": [
+    "Kibayashi, Shin",
+    "Ayamine, Rando"
+  ],
+  "id": 19,
+  "type": "manga",
+  "title": "GetBackers",
+  "url": "https://myanimelist.net/manga/19/GetBackers",
+  "image": "https://cdn.myanimelist.net/images/manga/1/169369.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:17.000Z",
+  "updatedAt": "2021-05-20T22:13:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4b3278e3-6eca-4ef3-866a-fcfcbc54b2f8": {
+        "authors": [
+          "Ayamine Rando",
+          "Aoki Yuuya"
+        ],
+        "identifier": "4b3278e3-6eca-4ef3-866a-fcfcbc54b2f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "GetBackers",
+        "url": "https://mangadex.org/title/4b3278e3-6eca-4ef3-866a-fcfcbc54b2f8",
+        "image": "https://uploads.mangadex.org/covers/4b3278e3-6eca-4ef3-866a-fcfcbc54b2f8/d4d83e13-bbf9-4aeb-9df8-a05bad6aff41.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19,
+        "aniId": 30019,
+        "createdAt": "2020-10-12T16:02:26.000Z",
+        "updatedAt": "2021-06-02T06:52:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tnlx51941555134111": {
+        "authors": [],
+        "identifier": "tnlx51941555134111",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Get Backers",
+        "url": "https://manganelo.com/manga/tnlx51941555134111",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4350-get_backers.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19,
+        "aniId": 30019,
+        "createdAt": "2020-10-12T16:25:46.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      },
+      "zs921774": {
+        "authors": [],
+        "identifier": "zs921774",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Get Back",
+        "url": "https://manganelo.com/manga/zs921774",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3181-zs921774.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19,
+        "aniId": 30019,
+        "createdAt": "2020-10-12T16:26:33.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

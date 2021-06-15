@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ひとつしかないもの"
+  ],
+  "authors": [
+    "Nanako Sakurai",
+    "Mio Sasaki"
+  ],
+  "id": 105264,
+  "malId": 116487,
+  "type": "manga",
+  "title": "Hitotsu Shikanai Mono",
+  "url": "https://anilist.co/manga/105264",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105264-z2Fmwya6eM0K.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:24.000Z",
+  "updatedAt": "2021-05-20T14:57:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fcc6deff-f370-4040-96f7-ff70513dc7ff": {
+        "authors": [
+          "Sasaki Mio",
+          "Sakurai Nanako"
+        ],
+        "identifier": "fcc6deff-f370-4040-96f7-ff70513dc7ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hitotsu Shikanai Mono",
+        "url": "https://mangadex.org/title/fcc6deff-f370-4040-96f7-ff70513dc7ff",
+        "image": "https://uploads.mangadex.org/covers/fcc6deff-f370-4040-96f7-ff70513dc7ff/ae1eefdf-7036-4c99-a28b-ec19dbe17f33.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116487,
+        "aniId": 105264,
+        "createdAt": "2020-10-12T16:17:59.000Z",
+        "updatedAt": "2021-06-07T12:51:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

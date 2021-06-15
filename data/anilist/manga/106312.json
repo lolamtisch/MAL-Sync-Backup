@@ -1,0 +1,103 @@
+{
+  "altTitle": [
+    "Now playing"
+  ],
+  "authors": [
+    "Hifumi"
+  ],
+  "id": 106312,
+  "malId": 87845,
+  "type": "manga",
+  "title": "Now Playing",
+  "url": "https://anilist.co/manga/106312",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106312-09Ryg5uIwUho.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:52.000Z",
+  "updatedAt": "2021-05-20T14:52:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe754da4-57c9-4c6b-ab10-7c44bc9f261c": {
+        "authors": [
+          "Hifumi"
+        ],
+        "identifier": "fe754da4-57c9-4c6b-ab10-7c44bc9f261c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Now Playing",
+        "url": "https://mangadex.org/title/fe754da4-57c9-4c6b-ab10-7c44bc9f261c",
+        "image": "https://uploads.mangadex.org/covers/fe754da4-57c9-4c6b-ab10-7c44bc9f261c/468e3a82-5363-491e-a6fa-f1a770acbd7b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87845,
+        "aniId": 106312,
+        "createdAt": "2020-10-12T16:13:12.000Z",
+        "updatedAt": "2021-06-05T19:30:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ng920844": {
+        "authors": [],
+        "identifier": "ng920844",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Playing Siblings",
+        "url": "https://manganelo.com/manga/ng920844",
+        "image": "https://avt.mkklcdnv6.com/33/u/19-1583500413.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87845,
+        "aniId": 106312,
+        "createdAt": "2020-10-12T16:24:31.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "two_playing_house": {
+        "authors": [],
+        "identifier": "two_playing_house",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Two Playing House",
+        "url": "https://manganelo.com/manga/two_playing_house",
+        "image": "https://avt.mkklcdnv6.com/27/a/15-1583492429.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87845,
+        "aniId": 106312,
+        "createdAt": "2020-10-12T16:25:52.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "now-playing": {
+        "authors": [
+          "Hifumi"
+        ],
+        "identifier": "now-playing",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Now-Playing",
+        "url": "https://mangasee123.com/manga/Now-Playing",
+        "image": "https://cover.nep.li/cover/Now-Playing.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87845,
+        "aniId": 106312,
+        "createdAt": "2021-04-08T13:51:21.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

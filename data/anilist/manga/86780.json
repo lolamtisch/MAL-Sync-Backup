@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "こいいじ",
+    "Love Glutton",
+    "Koi-Iji",
+    "Love Appetite"
+  ],
+  "authors": [
+    "Takako Shimura"
+  ],
+  "id": 86780,
+  "malId": 76811,
+  "type": "manga",
+  "title": "Koiiji",
+  "url": "https://anilist.co/manga/86780",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86780-aVWjVhLdVyEA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:49.000Z",
+  "updatedAt": "2021-05-20T14:51:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "99fff829-d4f3-4239-9cc4-4c1cfadb45a0": {
+        "authors": [
+          "Shimura Takako"
+        ],
+        "identifier": "99fff829-d4f3-4239-9cc4-4c1cfadb45a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi-iji",
+        "url": "https://mangadex.org/title/99fff829-d4f3-4239-9cc4-4c1cfadb45a0",
+        "image": "https://uploads.mangadex.org/covers/99fff829-d4f3-4239-9cc4-4c1cfadb45a0/9f91b27e-7ff3-486f-b95e-ec1f7ba50c2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76811,
+        "aniId": 86780,
+        "createdAt": "2020-10-12T16:07:50.000Z",
+        "updatedAt": "2021-06-04T05:35:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koiiji": {
+        "authors": [
+          "Shimura",
+          "Takako"
+        ],
+        "identifier": "koiiji",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koiiji",
+        "url": "https://manganelo.com/manga/koiiji",
+        "image": "https://avt.mkklcdnv6temp.com/20/v/13-1583488499.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76811,
+        "aniId": 86780,
+        "createdAt": "2021-02-10T23:41:32.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "koi-iji": {
+        "authors": [
+          "SHIMURA Takako"
+        ],
+        "identifier": "koi-iji",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Koi-iji",
+        "url": "https://mangasee123.com/manga/Koi-iji",
+        "image": "https://cover.nep.li/cover/Koi-iji.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76811,
+        "aniId": 86780,
+        "createdAt": "2021-03-30T11:31:41.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

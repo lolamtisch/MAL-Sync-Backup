@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ウィッチオーダー"
+  ],
+  "authors": [
+    "Chako Abeno",
+    "Kenji Saitou"
+  ],
+  "id": 105272,
+  "malId": 116530,
+  "type": "manga",
+  "title": "Witch Order",
+  "url": "https://anilist.co/manga/105272",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105272-MWf9ZsvCv2Z8.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:24.000Z",
+  "updatedAt": "2021-05-20T14:57:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4092829c-cd8b-41cf-8fbb-f2ac77c61be9": {
+        "authors": [
+          "Chako Abeno",
+          "Saitou Kenji"
+        ],
+        "identifier": "4092829c-cd8b-41cf-8fbb-f2ac77c61be9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Witch Order",
+        "url": "https://mangadex.org/title/4092829c-cd8b-41cf-8fbb-f2ac77c61be9",
+        "image": "https://uploads.mangadex.org/covers/4092829c-cd8b-41cf-8fbb-f2ac77c61be9/3bd1a30c-d49c-47e1-ad4e-b58f3185d327.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116530,
+        "aniId": 105272,
+        "createdAt": "2020-10-12T16:14:11.000Z",
+        "updatedAt": "2021-06-06T03:07:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "aa918745": {
+        "authors": [],
+        "identifier": "aa918745",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Witch Order",
+        "url": "https://manganelo.com/manga/aa918745",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/151-aa918745.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116530,
+        "aniId": 105272,
+        "createdAt": "2020-10-12T16:21:59.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "アイドルマスターブレイク!",
+    "The iDOLMaSTER Break!"
+  ],
+  "authors": [
+    "Takuya Fujima"
+  ],
+  "id": 43676,
+  "malId": 13676,
+  "type": "manga",
+  "title": "The iDOLM@STER Break!",
+  "url": "https://anilist.co/manga/43676",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13676.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-05-20T14:42:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9e387de6-03a4-4e8e-b532-3da141caa080": {
+        "authors": [
+          "FUJIMA Takuya"
+        ],
+        "identifier": "9e387de6-03a4-4e8e-b532-3da141caa080",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "THE iDOLM@STER Break!",
+        "url": "https://mangadex.org/title/9e387de6-03a4-4e8e-b532-3da141caa080",
+        "image": "https://uploads.mangadex.org/covers/9e387de6-03a4-4e8e-b532-3da141caa080/eac742e7-3cd5-4647-b4c9-93ef8549932a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13676,
+        "aniId": 43676,
+        "createdAt": "2020-10-12T16:04:28.000Z",
+        "updatedAt": "2021-06-02T21:13:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

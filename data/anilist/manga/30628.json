@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "Beauty is the Beast",
+    "美女が野獣"
+  ],
+  "authors": [
+    "Tomo Matsumoto",
+    "Tomo Kimura"
+  ],
+  "id": 30628,
+  "malId": 628,
+  "type": "manga",
+  "title": "Bijo ga Yajuu",
+  "url": "https://anilist.co/manga/30628",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30628-Pt1ZophmBzA0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d8b4ce87-8453-4474-ad03-1dd4660fe4fd": {
+        "authors": [
+          "Matsumoto Tomo"
+        ],
+        "identifier": "d8b4ce87-8453-4474-ad03-1dd4660fe4fd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Beauty Is the Beast",
+        "url": "https://mangadex.org/title/d8b4ce87-8453-4474-ad03-1dd4660fe4fd",
+        "image": "https://uploads.mangadex.org/covers/d8b4ce87-8453-4474-ad03-1dd4660fe4fd/625f74ba-bf58-4f08-a2ee-ecc032d309c4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 628,
+        "aniId": 30628,
+        "createdAt": "2020-10-12T16:07:39.000Z",
+        "updatedAt": "2021-06-04T04:24:19.000Z",
+        "deletedAt": null
+      },
+      "868e8051-c56f-4ee8-b131-ecd06c687bb7": {
+        "authors": [
+          "",
+          "Ting Feng"
+        ],
+        "identifier": "868e8051-c56f-4ee8-b131-ecd06c687bb7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Beauty of the Apricot Forest",
+        "url": "https://mangadex.org/title/868e8051-c56f-4ee8-b131-ecd06c687bb7",
+        "image": "https://uploads.mangadex.org/covers/868e8051-c56f-4ee8-b131-ecd06c687bb7/107f98ff-fcc8-4723-be20-bc3f2c99bc47.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 628,
+        "aniId": 30628,
+        "createdAt": "2020-10-12T16:17:13.000Z",
+        "updatedAt": "2021-06-07T05:56:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "vo920164": {
+        "authors": [],
+        "identifier": "vo920164",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Beauty And The Beasts",
+        "url": "https://manganelo.com/manga/vo920164",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1564-vo920164.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 628,
+        "aniId": 30628,
+        "createdAt": "2020-10-12T16:26:03.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      },
+      "read_beauty_is_the_beast": {
+        "authors": [
+          "Matsumoto",
+          "Tomo"
+        ],
+        "identifier": "read_beauty_is_the_beast",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Beauty Is The Beast",
+        "url": "https://manganelo.com/manga/read_beauty_is_the_beast",
+        "image": "https://avt.mkklcdnv6temp.com/9/f/4-1583470043.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 628,
+        "aniId": 30628,
+        "createdAt": "2021-04-01T07:00:51.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

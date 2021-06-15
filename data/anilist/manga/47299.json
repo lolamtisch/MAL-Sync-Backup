@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "夢のアトサキ",
+    "Before and After Dreams"
+  ],
+  "authors": [
+    "Hajime Yamamura"
+  ],
+  "id": 47299,
+  "malId": 17299,
+  "type": "manga",
+  "title": "Yume no Atosaki",
+  "url": "https://anilist.co/manga/47299",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17299.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:05.000Z",
+  "updatedAt": "2021-05-20T14:44:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a24ae5ac-d95f-4d66-a745-293408f4760f": {
+        "authors": [
+          "YAMAMURA Hajime"
+        ],
+        "identifier": "a24ae5ac-d95f-4d66-a745-293408f4760f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yume no Atosaki",
+        "url": "https://mangadex.org/title/a24ae5ac-d95f-4d66-a745-293408f4760f",
+        "image": "https://uploads.mangadex.org/covers/a24ae5ac-d95f-4d66-a745-293408f4760f/cfc9a29d-d794-4bc7-9058-13c893e70f8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17299,
+        "aniId": 47299,
+        "createdAt": "2020-10-12T16:03:35.000Z",
+        "updatedAt": "2021-06-02T15:08:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yume-no-atosaki": {
+        "authors": [
+          "YAMAMURA Hajime"
+        ],
+        "identifier": "yume-no-atosaki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yume no Atosaki",
+        "url": "https://mangasee123.com/manga/Yume-No-Atosaki",
+        "image": "https://cover.nep.li/cover/Yume-No-Atosaki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17299,
+        "aniId": 47299,
+        "createdAt": "2021-04-11T15:21:12.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

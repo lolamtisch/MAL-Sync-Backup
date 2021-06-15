@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "Solanin",
+    "ソラニン",
+    "Soranin"
+  ],
+  "authors": [
+    "Inio Asano",
+    "Thibaud Desbief",
+    "Christine Dashiell",
+    "Drik Sada"
+  ],
+  "id": 33731,
+  "malId": 3731,
+  "type": "manga",
+  "title": "Solanin",
+  "url": "https://anilist.co/manga/33731",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33731-PveBsdpQppy0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a42db50d-20df-4f33-bddc-fe990df9c231": {
+        "authors": [
+          "Asano Inio"
+        ],
+        "identifier": "a42db50d-20df-4f33-bddc-fe990df9c231",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Solanin",
+        "url": "https://mangadex.org/title/a42db50d-20df-4f33-bddc-fe990df9c231",
+        "image": "https://uploads.mangadex.org/covers/a42db50d-20df-4f33-bddc-fe990df9c231/6a755c36-0053-4572-a383-d521dbf5f8c0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3731,
+        "aniId": 33731,
+        "createdAt": "2020-10-12T16:07:35.000Z",
+        "updatedAt": "2021-06-04T03:55:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_solanin": {
+        "authors": [],
+        "identifier": "read_solanin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Solanin",
+        "url": "https://manganelo.com/manga/read_solanin",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11394-read_solanin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3731,
+        "aniId": 33731,
+        "createdAt": "2020-10-12T16:25:07.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "solanin": {
+        "authors": [
+          "ASANO Inio"
+        ],
+        "identifier": "solanin",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Solanin",
+        "url": "https://mangasee123.com/manga/Solanin",
+        "image": "https://cover.nep.li/cover/Solanin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3731,
+        "aniId": 33731,
+        "createdAt": "2021-01-05T05:27:18.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nx964780": {
+        "authors": [
+          "Asano Inio"
+        ],
+        "identifier": "manga-nx964780",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Solanin",
+        "url": "https://readmanganato.com/manga-nx964780",
+        "image": "https://avt.mkklcdnv6temp.com/39/z/9-1583481732.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3731,
+        "aniId": 33731,
+        "createdAt": "2021-06-02T03:31:57.000Z",
+        "updatedAt": "2021-06-02T04:01:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "竹光侍",
+    "Bamboo Samurai",
+    "Samurai of the Bamboo Sword",
+    "죽도 사무라이",
+    "Le Samouraï Bambou"
+  ],
+  "authors": [
+    "Taiyou Matsumoto",
+    "Issei Eifuku",
+    "Thibaud Desbief"
+  ],
+  "id": 45306,
+  "malId": 15306,
+  "type": "manga",
+  "title": "Takemitsu Zamurai",
+  "url": "https://anilist.co/manga/45306",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx45306-PAK2NBgJFIHo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:44.000Z",
+  "updatedAt": "2021-05-20T14:43:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "84bab9b6-b5c1-40e2-a9ce-0664e519b177": {
+        "authors": [
+          "Matsumoto Taiyou",
+          "Eifuku Issei"
+        ],
+        "identifier": "84bab9b6-b5c1-40e2-a9ce-0664e519b177",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Takemitsu Zamurai",
+        "url": "https://mangadex.org/title/84bab9b6-b5c1-40e2-a9ce-0664e519b177",
+        "image": "https://uploads.mangadex.org/covers/84bab9b6-b5c1-40e2-a9ce-0664e519b177/ec640bb2-022e-431b-a46a-294b32b01c1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15306,
+        "aniId": 45306,
+        "createdAt": "2020-10-12T16:02:58.000Z",
+        "updatedAt": "2021-06-02T10:43:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "takemitsu_zamurai": {
+        "authors": [],
+        "identifier": "takemitsu_zamurai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Takemitsu Zamurai",
+        "url": "https://manganelo.com/manga/takemitsu_zamurai",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11373-takemitsu_zamurai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15306,
+        "aniId": 45306,
+        "createdAt": "2020-10-12T16:25:38.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "takemitsu-zamurai": {
+        "authors": [
+          "EIFUKU Issei",
+          "MATSUMOTO Taiyou"
+        ],
+        "identifier": "takemitsu-zamurai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Takemitsu Zamurai",
+        "url": "https://mangasee123.com/manga/Takemitsu-Zamurai",
+        "image": "https://cover.nep.li/cover/Takemitsu-Zamurai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15306,
+        "aniId": 45306,
+        "createdAt": "2021-04-25T06:27:02.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

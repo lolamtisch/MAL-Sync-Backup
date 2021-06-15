@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "5時から始まるヒミツの時間。",
+    "From 5'o Clock it Starts - The Secret Hour"
+  ],
+  "authors": [
+    "Yuko Amane"
+  ],
+  "id": 36716,
+  "malId": 6716,
+  "type": "manga",
+  "title": "5-ji kara Hajimaru Himitsu no Jikan",
+  "url": "https://anilist.co/manga/36716",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6716.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:42.000Z",
+  "updatedAt": "2021-05-20T14:39:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b9990dfd-5383-4471-9c38-087e482e411e": {
+        "authors": [
+          "Amane Yuko"
+        ],
+        "identifier": "b9990dfd-5383-4471-9c38-087e482e411e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "5 Ji kara Hajimaru Himitsu no Jikan",
+        "url": "https://mangadex.org/title/b9990dfd-5383-4471-9c38-087e482e411e",
+        "image": "https://uploads.mangadex.org/covers/b9990dfd-5383-4471-9c38-087e482e411e/a491c17f-9d27-4902-9d26-5aa9172d7302.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6716,
+        "aniId": 36716,
+        "createdAt": "2020-10-12T16:03:52.000Z",
+        "updatedAt": "2021-06-02T17:07:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

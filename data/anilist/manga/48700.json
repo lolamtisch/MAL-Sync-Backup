@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Tomoko Ogiura"
+  ],
+  "id": 48700,
+  "malId": 18700,
+  "type": "manga",
+  "title": "Pure White Sigh",
+  "url": "https://anilist.co/manga/48700",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18700.jpg",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:45:12.000Z",
+  "updatedAt": "2021-05-20T14:45:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ee7fa4f4-bedc-420c-8445-b329440c6b39": {
+        "authors": [
+          "OGIURA Tomoko"
+        ],
+        "identifier": "ee7fa4f4-bedc-420c-8445-b329440c6b39",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pure White Sigh",
+        "url": "https://mangadex.org/title/ee7fa4f4-bedc-420c-8445-b329440c6b39",
+        "image": "https://uploads.mangadex.org/covers/ee7fa4f4-bedc-420c-8445-b329440c6b39/cff0ba3d-5f25-43cf-8b78-c0c4e3a21dca.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18700,
+        "aniId": 48700,
+        "createdAt": "2020-10-12T16:16:25.000Z",
+        "updatedAt": "2021-06-06T22:28:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "グリーンヒル"
+  ],
+  "authors": [
+    "Minoru Furuya"
+  ],
+  "id": 44631,
+  "malId": 14631,
+  "type": "manga",
+  "title": "Green Hill",
+  "url": "https://anilist.co/manga/44631",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14631.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:38.000Z",
+  "updatedAt": "2021-05-20T14:43:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5259a7e0-a81f-4bd6-b019-241f306c72a9": {
+        "authors": [
+          "Furuya Minoru"
+        ],
+        "identifier": "5259a7e0-a81f-4bd6-b019-241f306c72a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Green Hill",
+        "url": "https://mangadex.org/title/5259a7e0-a81f-4bd6-b019-241f306c72a9",
+        "image": "https://uploads.mangadex.org/covers/5259a7e0-a81f-4bd6-b019-241f306c72a9/3ada8831-ba38-41a5-8b46-c9837b90f76a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14631,
+        "aniId": 44631,
+        "createdAt": "2020-10-12T16:02:45.000Z",
+        "updatedAt": "2021-06-02T09:12:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "green_hill": {
+        "authors": [
+          "Furuya",
+          "Minoru"
+        ],
+        "identifier": "green_hill",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Green Hill",
+        "url": "https://manganelo.com/manga/green_hill",
+        "image": "https://avt.mkklcdnv6temp.com/8/r/11-1583484319.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14631,
+        "aniId": 44631,
+        "createdAt": "2021-04-03T14:08:46.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

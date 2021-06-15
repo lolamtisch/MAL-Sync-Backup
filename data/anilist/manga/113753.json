@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "赤い糸ください",
+    "You are my destiny.",
+    "Rinko-chan no Blue Day"
+  ],
+  "authors": [
+    "Shiroro Satsuki"
+  ],
+  "id": 113753,
+  "malId": 101560,
+  "type": "manga",
+  "title": "Akai Ito Kudasai",
+  "url": "https://anilist.co/manga/113753",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113753-35dy8Jf7cgZi.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:54.000Z",
+  "updatedAt": "2021-05-20T14:54:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c759d2a0-20c0-4500-94d1-29251242327c": {
+        "authors": [
+          "Satsuki Shiroro"
+        ],
+        "identifier": "c759d2a0-20c0-4500-94d1-29251242327c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akai Ito Kudasai",
+        "url": "https://mangadex.org/title/c759d2a0-20c0-4500-94d1-29251242327c",
+        "image": "https://uploads.mangadex.org/covers/c759d2a0-20c0-4500-94d1-29251242327c/8bab8340-2625-4c4b-ae75-5b9c277e99ec.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 101560,
+        "aniId": 113753,
+        "createdAt": "2020-10-12T16:10:19.000Z",
+        "updatedAt": "2021-06-05T08:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pg920794": {
+        "authors": [],
+        "identifier": "pg920794",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "You Are My Destiny",
+        "url": "https://manganelo.com/manga/pg920794",
+        "image": "https://avt.mkklcdnv6.com/31/y/19-1583500353.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101560,
+        "aniId": 113753,
+        "createdAt": "2020-10-12T16:24:50.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

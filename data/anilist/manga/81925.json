@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "愛玩キティ"
+  ],
+  "authors": [
+    "Kazuhiko Mishima"
+  ],
+  "id": 81925,
+  "malId": 51925,
+  "type": "manga",
+  "title": "Aigan Kitty",
+  "url": "https://anilist.co/manga/81925",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/51925.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:52.000Z",
+  "updatedAt": "2021-05-20T14:49:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "75cf0193-252f-4187-a5dc-f88d4a143dff": {
+        "authors": [
+          "Mishima Kazuhiko"
+        ],
+        "identifier": "75cf0193-252f-4187-a5dc-f88d4a143dff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aigan Kitty",
+        "url": "https://mangadex.org/title/75cf0193-252f-4187-a5dc-f88d4a143dff",
+        "image": "https://uploads.mangadex.org/covers/75cf0193-252f-4187-a5dc-f88d4a143dff/b87a695b-74ab-4739-8d0c-d1419cb54611.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51925,
+        "aniId": 81925,
+        "createdAt": "2020-10-12T16:08:16.000Z",
+        "updatedAt": "2021-06-04T08:51:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

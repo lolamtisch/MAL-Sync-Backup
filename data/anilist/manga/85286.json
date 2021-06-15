@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "블랙 헤이즈"
+  ],
+  "authors": [
+    "Yong Yong"
+  ],
+  "id": 85286,
+  "malId": null,
+  "type": "manga",
+  "title": "Black Haze",
+  "url": "https://anilist.co/manga/85286",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55286-gJ3qaouk1N8n.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T05:08:18.000Z",
+  "updatedAt": "2021-05-26T05:08:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9235832e-ee82-4a15-a379-d703a2d31101": {
+        "authors": [
+          "Yong Yong"
+        ],
+        "identifier": "9235832e-ee82-4a15-a379-d703a2d31101",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Haze",
+        "url": "https://mangadex.org/title/9235832e-ee82-4a15-a379-d703a2d31101",
+        "image": "https://uploads.mangadex.org/covers/9235832e-ee82-4a15-a379-d703a2d31101/10e0c1b5-a10a-4b78-83a7-3db029507403.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 85286,
+        "createdAt": "2020-10-12T16:06:36.000Z",
+        "updatedAt": "2021-06-03T21:40:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

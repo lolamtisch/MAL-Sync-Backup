@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "少女達の怪談",
+    "Shoujo-tachi no Kaidan"
+  ],
+  "authors": [
+    "Azusa Tachibana",
+    "Nao Hinachi",
+    "Jin Mokoyama",
+    "Hirume Ameno",
+    "Sora Nanami",
+    "Hana Umeno"
+  ],
+  "id": 72035,
+  "malId": 42035,
+  "type": "manga",
+  "title": "Shoujo-tachi no Kaidan",
+  "url": "https://anilist.co/manga/72035",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42035.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:50.000Z",
+  "updatedAt": "2021-05-20T14:48:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "abea9007-b8b6-4d8a-ade3-1c07917dfc8b": {
+        "authors": [
+          "Ameno Hirume",
+          "Hinachi Nao",
+          "Mokoyama Jin"
+        ],
+        "identifier": "abea9007-b8b6-4d8a-ade3-1c07917dfc8b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shoujotachi no Kaidan",
+        "url": "https://mangadex.org/title/abea9007-b8b6-4d8a-ade3-1c07917dfc8b",
+        "image": "https://uploads.mangadex.org/covers/abea9007-b8b6-4d8a-ade3-1c07917dfc8b/71854856-ead1-4bb6-9a9c-043c9e0b0259.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42035,
+        "aniId": 72035,
+        "createdAt": "2020-10-12T16:05:17.000Z",
+        "updatedAt": "2021-06-03T11:30:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shoujotachi_no_kaidan": {
+        "authors": [],
+        "identifier": "shoujotachi_no_kaidan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shoujotachi No Kaidan",
+        "url": "https://manganelo.com/manga/shoujotachi_no_kaidan",
+        "image": "https://avt.mkklcdnv6.com/27/m/9-1583481179.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42035,
+        "aniId": 72035,
+        "createdAt": "2020-10-12T16:25:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

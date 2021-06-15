@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ケーキを買いに"
+  ],
+  "authors": [
+    "Haruka Kawachi"
+  ],
+  "id": 43717,
+  "malId": 13717,
+  "type": "manga",
+  "title": "Cake wo Kai ni",
+  "url": "https://anilist.co/manga/43717",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13717.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-05-20T14:42:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df3ce611-5ed5-4b2a-9efb-0f97531950a8": {
+        "authors": [
+          "Kawachi Haruka"
+        ],
+        "identifier": "df3ce611-5ed5-4b2a-9efb-0f97531950a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cake wo Kai ni",
+        "url": "https://mangadex.org/title/df3ce611-5ed5-4b2a-9efb-0f97531950a8",
+        "image": "https://uploads.mangadex.org/covers/df3ce611-5ed5-4b2a-9efb-0f97531950a8/31d5d9f8-41ef-482c-b99d-fb8d6ff46363.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13717,
+        "aniId": 43717,
+        "createdAt": "2020-10-12T16:07:45.000Z",
+        "updatedAt": "2021-06-04T05:02:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

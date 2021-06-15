@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "The Ice Queen",
+    "氷の女王"
+  ],
+  "authors": [
+    "Rikachi"
+  ],
+  "id": 93169,
+  "type": "manga",
+  "title": "Koori no Joou",
+  "url": "https://myanimelist.net/manga/93169/Koori_no_Joou",
+  "image": "https://cdn.myanimelist.net/images/manga/2/164559.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:12.000Z",
+  "updatedAt": "2021-05-02T21:33:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9166dc51-dc4d-4d0a-971a-25cae7b8d878": {
+        "authors": [
+          "Rikachi"
+        ],
+        "identifier": "9166dc51-dc4d-4d0a-971a-25cae7b8d878",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koori no Joou",
+        "url": "https://mangadex.org/title/9166dc51-dc4d-4d0a-971a-25cae7b8d878",
+        "image": "https://uploads.mangadex.org/covers/9166dc51-dc4d-4d0a-971a-25cae7b8d878/bdaa89d6-62ff-42be-8543-8dcdec74b159.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93169,
+        "aniId": 86887,
+        "createdAt": "2020-10-12T16:09:51.000Z",
+        "updatedAt": "2021-06-04T20:29:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koori_no_joou": {
+        "authors": [
+          "Rikachi"
+        ],
+        "identifier": "koori_no_joou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koori No Joou",
+        "url": "https://manganelo.com/manga/koori_no_joou",
+        "image": "https://avt.mkklcdnv6temp.com/33/y/1-1583465033.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93169,
+        "aniId": 86887,
+        "createdAt": "2021-04-15T18:16:02.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "ゴーストハント",
+    "Akuryou ga Ippai",
+    "Ghost-Hunt",
+    "The Ghost Hunt"
+  ],
+  "authors": [
+    "Shiho Inada",
+    "Fuyumi Ono"
+  ],
+  "id": 30158,
+  "malId": 158,
+  "type": "manga",
+  "title": "Ghost Hunt",
+  "url": "https://anilist.co/manga/30158",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30158-2PNp4A6UizIr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f9edefd8-f284-44ef-86be-8d5fcfced0c7": {
+        "authors": [
+          "Ono Fuyumi",
+          "Inada Shiho"
+        ],
+        "identifier": "f9edefd8-f284-44ef-86be-8d5fcfced0c7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ghost Hunt",
+        "url": "https://mangadex.org/title/f9edefd8-f284-44ef-86be-8d5fcfced0c7",
+        "image": "https://uploads.mangadex.org/covers/f9edefd8-f284-44ef-86be-8d5fcfced0c7/e29122e2-6d30-4183-a3f7-9cf4fed775d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 158,
+        "aniId": 30158,
+        "createdAt": "2020-10-12T16:04:06.000Z",
+        "updatedAt": "2021-06-02T18:44:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ghost_hunt": {
+        "authors": [
+          "Ono",
+          "Fuyumi"
+        ],
+        "identifier": "ghost_hunt",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ghost Hunt",
+        "url": "https://manganelo.com/manga/ghost_hunt",
+        "image": "https://avt.mkklcdnv6.com/18/x/5-1583472583.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 158,
+        "aniId": 30158,
+        "createdAt": "2020-12-17T00:26:13.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

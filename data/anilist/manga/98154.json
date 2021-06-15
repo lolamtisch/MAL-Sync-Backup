@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Coyote",
+    "コヨーテ"
+  ],
+  "authors": [
+    "Ranmaru Zaria"
+  ],
+  "id": 98154,
+  "malId": 99198,
+  "type": "manga",
+  "title": "Coyote",
+  "url": "https://anilist.co/manga/98154",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98154-H0xpT0ZoXvRl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:41.000Z",
+  "updatedAt": "2021-05-20T14:54:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3b340f50-c376-4f0a-8964-cc487ca26ba0": {
+        "authors": [
+          "Zariya Ranmaru"
+        ],
+        "identifier": "3b340f50-c376-4f0a-8964-cc487ca26ba0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Coyote",
+        "url": "https://mangadex.org/title/3b340f50-c376-4f0a-8964-cc487ca26ba0",
+        "image": "https://uploads.mangadex.org/covers/3b340f50-c376-4f0a-8964-cc487ca26ba0/8e94bf18-7c05-4759-888e-2a6599fdfffe.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99198,
+        "aniId": 98154,
+        "createdAt": "2020-10-12T16:09:49.000Z",
+        "updatedAt": "2021-06-04T20:21:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "coyote_zariya_ranmaru": {
+        "authors": [],
+        "identifier": "coyote_zariya_ranmaru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Coyote (Zariya Ranmaru)",
+        "url": "https://manganelo.com/manga/coyote_zariya_ranmaru",
+        "image": "https://avt.mkklcdnv6.com/49/n/13-1583489667.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99198,
+        "aniId": 98154,
+        "createdAt": "2020-10-12T16:22:31.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

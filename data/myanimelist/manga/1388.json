@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Candy Candy",
+    "キャンディ・キャンディ"
+  ],
+  "authors": [
+    "Igarashi, Yumiko",
+    "Nagita, Keiko"
+  ],
+  "id": 1388,
+  "type": "manga",
+  "title": "Candy Candy",
+  "url": "https://myanimelist.net/manga/1388/Candy_Candy",
+  "image": "https://cdn.myanimelist.net/images/manga/2/75631.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:33.000Z",
+  "updatedAt": "2021-06-12T22:08:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b2beaa6-08df-44e5-a404-ecee109744fc": {
+        "authors": [
+          "IGARASHI Yumiko",
+          "MIZUKI Kyoko"
+        ],
+        "identifier": "0b2beaa6-08df-44e5-a404-ecee109744fc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Candy Candy",
+        "url": "https://mangadex.org/title/0b2beaa6-08df-44e5-a404-ecee109744fc",
+        "image": "https://uploads.mangadex.org/covers/0b2beaa6-08df-44e5-a404-ecee109744fc/119d0195-fee8-4c49-8208-4d53211469b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1388,
+        "aniId": 31388,
+        "createdAt": "2020-10-12T16:02:53.000Z",
+        "updatedAt": "2021-06-02T10:06:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "candy_candy": {
+        "authors": [],
+        "identifier": "candy_candy",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Candy Candy",
+        "url": "https://manganelo.com/manga/candy_candy",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/8255-candy_candy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1388,
+        "aniId": 31388,
+        "createdAt": "2020-10-12T16:22:24.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

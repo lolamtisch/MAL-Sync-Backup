@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "봄날의 팔광",
+    "Lucky Spring Day"
+  ],
+  "authors": [
+    "Woopyo"
+  ],
+  "id": 122045,
+  "malId": null,
+  "type": "manga",
+  "title": "Bomnalui Palgwang",
+  "url": "https://anilist.co/manga/122045",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122045-xKpnx8RTYLkw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T00:25:04.000Z",
+  "updatedAt": "2021-06-08T00:25:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "926a675b-110a-4764-9b29-c0247c23a3b6": {
+        "authors": [
+          "Hyun go eun"
+        ],
+        "identifier": "926a675b-110a-4764-9b29-c0247c23a3b6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lucky Spring Day",
+        "url": "https://mangadex.org/title/926a675b-110a-4764-9b29-c0247c23a3b6",
+        "image": "https://uploads.mangadex.org/covers/926a675b-110a-4764-9b29-c0247c23a3b6/921a6fd0-8b1c-4c2e-8df9-2cd49aa6e52a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122045,
+        "createdAt": "2020-10-12T16:20:19.000Z",
+        "updatedAt": "2021-06-08T00:49:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "トライピース",
+    "Tri-peace"
+  ],
+  "authors": [
+    "Maru Tomoyuki"
+  ],
+  "id": 50694,
+  "malId": 20694,
+  "type": "manga",
+  "title": "Tripeace",
+  "url": "https://anilist.co/manga/50694",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20694.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb2fda86-3801-4f4d-a388-f6c97ee68366": {
+        "authors": [
+          "Maru Tomoyuki"
+        ],
+        "identifier": "cb2fda86-3801-4f4d-a388-f6c97ee68366",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tripeace",
+        "url": "https://mangadex.org/title/cb2fda86-3801-4f4d-a388-f6c97ee68366",
+        "image": "https://uploads.mangadex.org/covers/cb2fda86-3801-4f4d-a388-f6c97ee68366/31c71b92-eb29-4820-8a63-a4c5375fda2e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20694,
+        "aniId": 50694,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:03:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tripeace": {
+        "authors": [
+          "MARU Tomoyuki"
+        ],
+        "identifier": "tripeace",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tripeace",
+        "url": "https://mangasee123.com/manga/Tripeace",
+        "image": "https://cover.nep.li/cover/Tripeace.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20694,
+        "aniId": 50694,
+        "createdAt": "2021-04-14T16:15:59.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

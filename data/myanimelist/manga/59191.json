@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "bon au revoir, Sorcier, Sayonara, Sorcier, Sayonara Sorushie",
+    "さよならソルシエ"
+  ],
+  "authors": [
+    "Hozumi"
+  ],
+  "id": 59191,
+  "type": "manga",
+  "title": "Sayonara Sorcier",
+  "url": "https://myanimelist.net/manga/59191/Sayonara_Sorcier",
+  "image": "https://cdn.myanimelist.net/images/manga/3/102249.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:54.000Z",
+  "updatedAt": "2021-04-01T14:01:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d0d2388c-3cb2-4286-8d73-9e509c5b324b": {
+        "authors": [
+          "Hozumi"
+        ],
+        "identifier": "d0d2388c-3cb2-4286-8d73-9e509c5b324b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sayonara Sorcier",
+        "url": "https://mangadex.org/title/d0d2388c-3cb2-4286-8d73-9e509c5b324b",
+        "image": "https://uploads.mangadex.org/covers/d0d2388c-3cb2-4286-8d73-9e509c5b324b/b1515a51-3736-4de7-8f53-543d3d3cd55b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59191,
+        "aniId": 86818,
+        "createdAt": "2020-10-12T16:07:30.000Z",
+        "updatedAt": "2021-06-04T03:22:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sayonara_sorcier": {
+        "authors": [
+          "Hozumi"
+        ],
+        "identifier": "sayonara_sorcier",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sayonara Sorcier",
+        "url": "https://fanfox.net/manga/sayonara_sorcier/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13666/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59191,
+        "aniId": 86818,
+        "createdAt": "2021-04-01T14:01:23.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

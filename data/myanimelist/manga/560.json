@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Ultra Cute",
+    "UruQ",
+    "うるきゅー"
+  ],
+  "authors": [
+    "Akimoto, Nami"
+  ],
+  "id": 560,
+  "type": "manga",
+  "title": "Urukyuu",
+  "url": "https://myanimelist.net/manga/560/Urukyuu",
+  "image": "https://cdn.myanimelist.net/images/manga/1/161115.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:23.000Z",
+  "updatedAt": "2021-06-04T11:49:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e832e150-b6d8-496b-b4f9-4404d5e4e4ed": {
+        "authors": [
+          "Akimoto Nami"
+        ],
+        "identifier": "e832e150-b6d8-496b-b4f9-4404d5e4e4ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ultra Cute",
+        "url": "https://mangadex.org/title/e832e150-b6d8-496b-b4f9-4404d5e4e4ed",
+        "image": "https://uploads.mangadex.org/covers/e832e150-b6d8-496b-b4f9-4404d5e4e4ed/6c96755d-0bed-45da-b4cc-071b88f52d5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 560,
+        "aniId": 30560,
+        "createdAt": "2020-10-12T16:08:37.000Z",
+        "updatedAt": "2021-06-04T12:46:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ultra_cute": {
+        "authors": [
+          "AKIMOTO Nami"
+        ],
+        "identifier": "ultra_cute",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ultra Cute",
+        "url": "https://fanfox.net/manga/ultra_cute/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1106/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 560,
+        "aniId": 30560,
+        "createdAt": "2021-05-20T22:15:39.000Z",
+        "updatedAt": "2021-05-20T22:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

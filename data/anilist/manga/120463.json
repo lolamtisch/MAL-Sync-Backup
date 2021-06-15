@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "溢れて零れて、我慢できない"
+  ],
+  "authors": [
+    "Yamachi"
+  ],
+  "id": 120463,
+  "malId": 127684,
+  "type": "manga",
+  "title": "Afurete Koborete, Gaman Dekinai",
+  "url": "https://anilist.co/manga/120463",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120463-U9brQfBWBvDT.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-07T14:06:00.000Z",
+  "updatedAt": "2021-06-07T14:06:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "549f458a-28d2-43a0-8666-9e79475810f7": {
+        "authors": [
+          "Yamachi"
+        ],
+        "identifier": "549f458a-28d2-43a0-8666-9e79475810f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Afurete Koborete Gaman Dekinai",
+        "url": "https://mangadex.org/title/549f458a-28d2-43a0-8666-9e79475810f7",
+        "image": "https://uploads.mangadex.org/covers/549f458a-28d2-43a0-8666-9e79475810f7/34d2bfa5-7239-431a-8ace-00efddf6fc85.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 127684,
+        "aniId": 120463,
+        "createdAt": "2020-10-12T16:18:06.000Z",
+        "updatedAt": "2021-06-07T14:51:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

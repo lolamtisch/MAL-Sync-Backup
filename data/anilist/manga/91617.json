@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "ヤンキークエスト"
+  ],
+  "authors": [],
+  "id": 91617,
+  "malId": 72445,
+  "type": "manga",
+  "title": "Yankee Quest",
+  "url": "https://anilist.co/manga/91617",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91617-EaThGYz3O78B.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:35.000Z",
+  "updatedAt": "2021-05-20T14:51:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a399d979-5ccb-4d32-9721-b61a1aeb5b9f": {
+        "authors": [
+          "Murakami Makoto"
+        ],
+        "identifier": "a399d979-5ccb-4d32-9721-b61a1aeb5b9f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yankee Quest",
+        "url": "https://mangadex.org/title/a399d979-5ccb-4d32-9721-b61a1aeb5b9f",
+        "image": "https://uploads.mangadex.org/covers/a399d979-5ccb-4d32-9721-b61a1aeb5b9f/0dd540c9-b20c-4603-8bb9-a610a1a485fa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72445,
+        "aniId": 91617,
+        "createdAt": "2020-10-12T16:11:09.000Z",
+        "updatedAt": "2021-06-05T06:07:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

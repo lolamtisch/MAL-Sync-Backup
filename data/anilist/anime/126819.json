@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "銀魂 THE SEMI-FINAL"
+  ],
+  "id": 126819,
+  "malId": 44087,
+  "type": "anime",
+  "title": "Gintama: THE SEMI-FINAL",
+  "url": "https://anilist.co/anime/126819",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126819-DzuGFk5ROaRl.jpg",
+  "category": "special",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:13.000Z",
+  "updatedAt": "2021-05-20T14:46:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Aniwatch": {
+      "3111": {
+        "identifier": "3111",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Gintama: The Semi-Final",
+        "url": "https://aniwatch.me/anime/3111",
+        "image": "https://img.aniwatch.me/100DF21A621A94852E57C81F5138EEDA",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44087,
+        "aniId": 126819,
+        "createdAt": "2021-01-01T16:50:29.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gintama-the-semi-final": {
+        "identifier": "gintama-the-semi-final",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gintama: The Semi-Final",
+        "url": "https://gogoanime.so/category/gintama-the-semi-final",
+        "image": "https://gogocdn.net/cover/gintama-the-semi-final.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44087,
+        "aniId": 126819,
+        "createdAt": "2021-01-20T22:03:45.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

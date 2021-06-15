@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Golden Cain",
+    "Kin no Cain",
+    "金のカイン"
+  ],
+  "authors": [
+    "Asagiri, Yuu"
+  ],
+  "id": 1545,
+  "type": "manga",
+  "title": "Golden Cain",
+  "url": "https://myanimelist.net/manga/1545/Golden_Cain",
+  "image": "https://cdn.myanimelist.net/images/manga/3/1504.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T20:44:58.000Z",
+  "updatedAt": "2021-05-20T20:44:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "kin_no_cain": {
+        "authors": [
+          "ASAGIRI Yu"
+        ],
+        "identifier": "kin_no_cain",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kin no Cain",
+        "url": "https://fanfox.net/manga/kin_no_cain/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5455/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1545,
+        "aniId": null,
+        "createdAt": "2021-05-20T20:43:48.000Z",
+        "updatedAt": "2021-05-21T07:13:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "authors": [
+    "HOTTA Yumi"
+  ],
+  "identifier": "hikaru_no_go",
+  "type": "manga",
+  "page": "MangaFox",
+  "title": "Hikaru no Go",
+  "url": "https://fanfox.net/manga/hikaru_no_go/",
+  "image": "https://fmcdn.mfcdn.net/store/manga/224/cover.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 20,
+  "aniId": 30020,
+  "createdAt": "2021-04-01T12:30:52.000Z",
+  "updatedAt": "2021-05-20T15:39:24.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Hikaru no Go",
+      "ヒカルの碁"
+    ],
+    "authors": [
+      "Obata, Takeshi",
+      "Hotta, Yumi"
+    ],
+    "id": 20,
+    "type": "manga",
+    "title": "Hikaru no Go",
+    "url": "https://myanimelist.net/manga/20/Hikaru_no_Go",
+    "image": "https://cdn.myanimelist.net/images/manga/2/170574.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:17.000Z",
+    "updatedAt": "2021-04-01T12:30:51.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Hikaru no Go",
+      "ヒカルの碁",
+      "Hikaru's Go",
+      "Hikago"
+    ],
+    "authors": [
+      "Takeshi Obata",
+      "Yumi Hotta",
+      "Kentarou Yabuki",
+      "Edward Kondo",
+      "Ei Andou",
+      "Yuusuke Murata",
+      "Yoshiyuki Nishi"
+    ],
+    "id": 30020,
+    "malId": 20,
+    "type": "manga",
+    "title": "Hikaru no Go",
+    "url": "https://anilist.co/manga/30020",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30020-5NZUzVqJPD2L.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:21.000Z",
+    "updatedAt": "2021-05-20T14:35:21.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/20/Hikaru_no_Go"
+}

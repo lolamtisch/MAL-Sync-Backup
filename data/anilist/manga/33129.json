@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "The Ring 2",
+    "リング２"
+  ],
+  "authors": [
+    "Kou Uchiyama",
+    "Koji Suzuki",
+    "Hiroshi Takahashi"
+  ],
+  "id": 33129,
+  "malId": 3129,
+  "type": "manga",
+  "title": "Ring 2",
+  "url": "https://anilist.co/manga/33129",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33129-ZoUPmrZAG15P.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4d37f71b-70b4-411a-99b3-6d0e212806df": {
+        "authors": [
+          "Suzuki Koji",
+          "Inagaki Misao",
+          "Takahashi Hiroshi"
+        ],
+        "identifier": "4d37f71b-70b4-411a-99b3-6d0e212806df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Ring 2",
+        "url": "https://mangadex.org/title/4d37f71b-70b4-411a-99b3-6d0e212806df",
+        "image": "https://uploads.mangadex.org/covers/4d37f71b-70b4-411a-99b3-6d0e212806df/9813ea04-ecd7-4f85-b329-6f144ee8754f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3129,
+        "aniId": 33129,
+        "createdAt": "2020-10-12T16:10:08.000Z",
+        "updatedAt": "2021-06-04T22:31:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

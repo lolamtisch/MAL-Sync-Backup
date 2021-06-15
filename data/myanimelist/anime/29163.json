@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Seiyu's Life!",
+    "That is a Voice Actor!",
+    "それが声優！"
+  ],
+  "id": 29163,
+  "type": "anime",
+  "title": "Sore ga Seiyuu!",
+  "url": "https://myanimelist.net/anime/29163/Sore_ga_Seiyuu",
+  "image": "https://cdn.myanimelist.net/images/anime/7/75198.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:39:33.000Z",
+  "updatedAt": "2021-04-30T09:19:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "49j": {
+        "identifier": "49j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Seiyu's Life!",
+        "url": "https://9anime.ru/watch/seiyus-life.49j",
+        "image": "https://static.akacdn.ru/static/images/2018/04/3b55f6eebbf5c3041173954247dd6fe0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29163,
+        "aniId": 21009,
+        "createdAt": "2020-10-12T15:50:03.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sore-ga-seiyuu-": {
+        "identifier": "sore-ga-seiyuu-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sore ga Seiyuu!",
+        "url": "https://www5.gogoanime.tv/category/sore-ga-seiyuu-",
+        "image": "https://cdnimg.xyz/images/upload/sore_ga_seiyuu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29163,
+        "aniId": 21009,
+        "createdAt": "2020-10-12T16:01:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

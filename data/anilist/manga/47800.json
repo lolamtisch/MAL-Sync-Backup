@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "水色シネマ",
+    "Aqua Blue Cinema"
+  ],
+  "authors": [
+    "Hiyori Otsu"
+  ],
+  "id": 47800,
+  "malId": 17800,
+  "type": "manga",
+  "title": "Mizuiro Cinema",
+  "url": "https://anilist.co/manga/47800",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47800-NbNoJ1B3mrxF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:12.000Z",
+  "updatedAt": "2021-05-20T14:44:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a060c3b9-f974-45cf-8626-8a9758cc4981": {
+        "authors": [
+          "Otsu Hiyori"
+        ],
+        "identifier": "a060c3b9-f974-45cf-8626-8a9758cc4981",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mizuiro Cinema",
+        "url": "https://mangadex.org/title/a060c3b9-f974-45cf-8626-8a9758cc4981",
+        "image": "https://uploads.mangadex.org/covers/a060c3b9-f974-45cf-8626-8a9758cc4981/e6ce7b8f-86e0-4c13-b6cc-b3e591d13a93.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17800,
+        "aniId": 47800,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:27:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-af959240": {
+        "authors": [
+          "Otsu Hiyori"
+        ],
+        "identifier": "manga-af959240",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mizuiro Cinema",
+        "url": "https://manganato.com/manga-af959240",
+        "image": "https://avt.mkklcdnv6temp.com/6/r/6-1583474366.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17800,
+        "aniId": 47800,
+        "createdAt": "2021-06-04T19:51:09.000Z",
+        "updatedAt": "2021-06-04T20:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

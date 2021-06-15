@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ジェノサイダー"
+  ],
+  "authors": [
+    "Miyazaki, Maya",
+    "Akiyoshi, Takahiro"
+  ],
+  "id": 56461,
+  "type": "manga",
+  "title": "Genocider",
+  "url": "https://myanimelist.net/manga/56461/Genocider",
+  "image": "https://cdn.myanimelist.net/images/manga/3/167795.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:48.000Z",
+  "updatedAt": "2021-05-08T14:17:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5d65e2dd-344b-4e49-898c-004b72ac2824": {
+        "authors": [
+          "Miyazaki Maya",
+          "Akiyoshi Takahiro"
+        ],
+        "identifier": "5d65e2dd-344b-4e49-898c-004b72ac2824",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Genocider (Akiyoshi Takahiro)",
+        "url": "https://mangadex.org/title/5d65e2dd-344b-4e49-898c-004b72ac2824",
+        "image": "https://uploads.mangadex.org/covers/5d65e2dd-344b-4e49-898c-004b72ac2824/6106c7bd-80f7-436a-aad6-fe32f05f0fe9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56461,
+        "aniId": 88221,
+        "createdAt": "2020-10-12T16:09:30.000Z",
+        "updatedAt": "2021-06-04T18:03:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "genocider_akiyoshi_takahiro": {
+        "authors": [],
+        "identifier": "genocider_akiyoshi_takahiro",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Genocider (Akiyoshi Takahiro)",
+        "url": "https://manganelo.com/manga/genocider_akiyoshi_takahiro",
+        "image": "https://avt.mkklcdnv6.com/26/n/9-1583481140.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56461,
+        "aniId": 88221,
+        "createdAt": "2020-10-12T16:23:04.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

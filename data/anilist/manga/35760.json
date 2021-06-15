@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Rendezvous"
+  ],
+  "authors": [
+    "Eiri Asato"
+  ],
+  "id": 35760,
+  "malId": 5760,
+  "type": "manga",
+  "title": "Aibiki",
+  "url": "https://anilist.co/manga/35760",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5760.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-03T22:49:27.000Z",
+  "updatedAt": "2021-06-03T22:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c741aeca-0138-4658-8eb0-ef1163272b48": {
+        "authors": [
+          "Asato Eiri"
+        ],
+        "identifier": "c741aeca-0138-4658-8eb0-ef1163272b48",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aibiki",
+        "url": "https://mangadex.org/title/c741aeca-0138-4658-8eb0-ef1163272b48",
+        "image": "https://uploads.mangadex.org/covers/c741aeca-0138-4658-8eb0-ef1163272b48/a97fe36d-6778-4812-9691-80e400d63465.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5760,
+        "aniId": 35760,
+        "createdAt": "2020-10-12T16:06:49.000Z",
+        "updatedAt": "2021-06-03T23:07:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

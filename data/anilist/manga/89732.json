@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ペーパーブレイバー",
+    "Peepaa Bureibaa"
+  ],
+  "authors": [
+    "Koume Fujichika"
+  ],
+  "id": 89732,
+  "malId": 63333,
+  "type": "manga",
+  "title": "Paper Braver",
+  "url": "https://anilist.co/manga/89732",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx89732-NA0IwJWQxx8t.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:47.000Z",
+  "updatedAt": "2021-05-20T14:50:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3f3b46a2-a399-4883-bc83-783f2fbd18d7": {
+        "authors": [
+          "FUJICHIKA Koume"
+        ],
+        "identifier": "3f3b46a2-a399-4883-bc83-783f2fbd18d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Paper Braver",
+        "url": "https://mangadex.org/title/3f3b46a2-a399-4883-bc83-783f2fbd18d7",
+        "image": "https://uploads.mangadex.org/covers/3f3b46a2-a399-4883-bc83-783f2fbd18d7/22e51b55-8849-45f5-9581-b240df3e64dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63333,
+        "aniId": 89732,
+        "createdAt": "2020-10-12T16:06:24.000Z",
+        "updatedAt": "2021-06-03T19:28:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

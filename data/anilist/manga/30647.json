@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Hot Gimmick",
+    "ホットギミック"
+  ],
+  "authors": [
+    "Miki Aihara"
+  ],
+  "id": 30647,
+  "malId": 647,
+  "type": "manga",
+  "title": "Hot Gimmick",
+  "url": "https://anilist.co/manga/30647",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30647-TojskKF9OPU7.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:37.000Z",
+  "updatedAt": "2021-05-20T14:35:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a169870d-fb20-44c6-a041-ba690d311ade": {
+        "authors": [
+          "AIHARA Miki"
+        ],
+        "identifier": "a169870d-fb20-44c6-a041-ba690d311ade",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hot Gimmick",
+        "url": "https://mangadex.org/title/a169870d-fb20-44c6-a041-ba690d311ade",
+        "image": "https://uploads.mangadex.org/covers/a169870d-fb20-44c6-a041-ba690d311ade/716de592-ce78-4868-bca1-248e504747f6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 647,
+        "aniId": 30647,
+        "createdAt": "2020-10-12T16:04:58.000Z",
+        "updatedAt": "2021-06-03T09:22:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hot_gimmick": {
+        "authors": [],
+        "identifier": "hot_gimmick",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hot Gimmick",
+        "url": "https://manganelo.com/manga/hot_gimmick",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/6299-hot_gimmick.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 647,
+        "aniId": 30647,
+        "createdAt": "2020-10-12T16:23:24.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hot-gimmick": {
+        "authors": [
+          "AIHARA Miki"
+        ],
+        "identifier": "hot-gimmick",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hot Gimmick",
+        "url": "https://mangasee123.com/manga/Hot-Gimmick",
+        "image": "https://cover.nep.li/cover/Hot-Gimmick.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 647,
+        "aniId": 30647,
+        "createdAt": "2021-04-14T21:44:25.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

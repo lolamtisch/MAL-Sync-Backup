@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Summer Spider",
+    "ナツノクモ",
+    "Natsunokumo: Spinning Web"
+  ],
+  "authors": [
+    "Rokuro Shinofusa"
+  ],
+  "id": 32034,
+  "malId": 2034,
+  "type": "manga",
+  "title": "Natsunokumo",
+  "url": "https://anilist.co/manga/32034",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32034-1TVZyug3x9Nx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09c18d9f-99d2-4fb4-9f7b-05cca83335bd": {
+        "authors": [
+          "Shinofusa Rokuro"
+        ],
+        "identifier": "09c18d9f-99d2-4fb4-9f7b-05cca83335bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Natsunokumo",
+        "url": "https://mangadex.org/title/09c18d9f-99d2-4fb4-9f7b-05cca83335bd",
+        "image": "https://uploads.mangadex.org/covers/09c18d9f-99d2-4fb4-9f7b-05cca83335bd/9f8775b2-0252-4127-800f-9c475612e9ef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2034,
+        "aniId": 32034,
+        "createdAt": "2020-10-12T16:04:46.000Z",
+        "updatedAt": "2021-06-02T23:16:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "natsunokumo": {
+        "authors": [
+          "Shinofusa",
+          "Rokuro"
+        ],
+        "identifier": "natsunokumo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Natsunokumo",
+        "url": "https://manganelo.com/manga/natsunokumo",
+        "image": "https://avt.mkklcdnv6.com/13/z/3-1583468192.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2034,
+        "aniId": 32034,
+        "createdAt": "2020-12-20T21:56:28.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

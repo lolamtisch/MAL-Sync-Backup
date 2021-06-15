@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Upon the White Tiger",
+    "我乘白虎去"
+  ],
+  "authors": [
+    "Sancao Wenhua"
+  ],
+  "id": 128603,
+  "malId": null,
+  "type": "manga",
+  "title": "Wo Cheng Baihu Qu",
+  "url": "https://anilist.co/manga/128603",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128603-7BD9yebuoiER.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:20:36.000Z",
+  "updatedAt": "2021-06-08T07:20:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8f052ca9-973d-4770-a133-ed01e558cd1e": {
+        "authors": [
+          "",
+          "Zhang Zhe",
+          "Culture Sanhu"
+        ],
+        "identifier": "8f052ca9-973d-4770-a133-ed01e558cd1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Upon the White Tiger",
+        "url": "https://mangadex.org/title/8f052ca9-973d-4770-a133-ed01e558cd1e",
+        "image": "https://uploads.mangadex.org/covers/8f052ca9-973d-4770-a133-ed01e558cd1e/eed0e17f-be6a-436d-bd9e-be833cdda6c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 128603,
+        "createdAt": "2020-11-11T20:14:36.000Z",
+        "updatedAt": "2021-06-08T07:25:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

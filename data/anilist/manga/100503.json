@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "おにふたつ"
+  ],
+  "authors": [
+    "Mei Fujimatsu"
+  ],
+  "id": 100503,
+  "malId": 105915,
+  "type": "manga",
+  "title": "Oni Futatsu",
+  "url": "https://anilist.co/manga/100503",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100503-l0kXt7hHxkay.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:44.000Z",
+  "updatedAt": "2021-05-20T14:55:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "10ceb5cf-a2e0-42e2-9271-fac99cccc99f": {
+        "authors": [
+          "Fujimatsu Mei"
+        ],
+        "identifier": "10ceb5cf-a2e0-42e2-9271-fac99cccc99f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oni Futatsu",
+        "url": "https://mangadex.org/title/10ceb5cf-a2e0-42e2-9271-fac99cccc99f",
+        "image": "https://uploads.mangadex.org/covers/10ceb5cf-a2e0-42e2-9271-fac99cccc99f/86069448-4969-4023-8593-62bdedcfcace.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105915,
+        "aniId": 100503,
+        "createdAt": "2020-10-12T16:11:06.000Z",
+        "updatedAt": "2021-06-05T05:41:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "oni_futatsu": {
+        "authors": [],
+        "identifier": "oni_futatsu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Oni futatsu",
+        "url": "https://manganelo.com/manga/oni_futatsu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19569-oni_futatsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105915,
+        "aniId": 100503,
+        "createdAt": "2020-10-12T16:24:42.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

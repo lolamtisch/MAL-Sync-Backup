@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "私の姉はひきこもり"
+  ],
+  "authors": [
+    "Tatari Takayama"
+  ],
+  "id": 104801,
+  "malId": null,
+  "type": "manga",
+  "title": "Watashi no Ane wa Hikikomori",
+  "url": "https://anilist.co/manga/104801",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104801-HomybyNHVayA.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-06T00:49:29.000Z",
+  "updatedAt": "2021-06-06T00:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b2f95e75-a2ca-40b9-99dd-a3d2449e25c9": {
+        "authors": [
+          "Tatari Takeyama"
+        ],
+        "identifier": "b2f95e75-a2ca-40b9-99dd-a3d2449e25c9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Sister is a Hikikomori",
+        "url": "https://mangadex.org/title/b2f95e75-a2ca-40b9-99dd-a3d2449e25c9",
+        "image": "https://uploads.mangadex.org/covers/b2f95e75-a2ca-40b9-99dd-a3d2449e25c9/29c16c8b-95b3-465f-a28b-76a3da68b4cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 104801,
+        "createdAt": "2020-10-12T16:13:52.000Z",
+        "updatedAt": "2021-06-06T10:24:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

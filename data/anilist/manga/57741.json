@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "タイガーブックス"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 57741,
+  "malId": 27741,
+  "type": "manga",
+  "title": "Tiger Books",
+  "url": "https://anilist.co/manga/57741",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx57741-TL1nudk6u4dt.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:29.000Z",
+  "updatedAt": "2021-05-20T14:47:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0577dcca-7326-4896-a727-2b86fa73da05": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "0577dcca-7326-4896-a727-2b86fa73da05",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tiger Books",
+        "url": "https://mangadex.org/title/0577dcca-7326-4896-a727-2b86fa73da05",
+        "image": "https://uploads.mangadex.org/covers/0577dcca-7326-4896-a727-2b86fa73da05/6bdfbae2-cacc-426b-af6a-a1ca34557be2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27741,
+        "aniId": 57741,
+        "createdAt": "2020-10-12T16:05:42.000Z",
+        "updatedAt": "2021-06-03T14:28:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

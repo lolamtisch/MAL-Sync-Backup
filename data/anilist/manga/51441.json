@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "女教師",
+    "Female Teacher"
+  ],
+  "authors": [
+    "Mitsuru Fujii"
+  ],
+  "id": 51441,
+  "malId": 21441,
+  "type": "manga",
+  "title": "Onna Kyoushi",
+  "url": "https://anilist.co/manga/51441",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21441.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:42.000Z",
+  "updatedAt": "2021-05-20T14:45:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "98354dce-e611-4406-8c24-d2b3359ef318": {
+        "authors": [
+          "Fujii Mitsuru"
+        ],
+        "identifier": "98354dce-e611-4406-8c24-d2b3359ef318",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onna Kyoushi",
+        "url": "https://mangadex.org/title/98354dce-e611-4406-8c24-d2b3359ef318",
+        "image": "https://uploads.mangadex.org/covers/98354dce-e611-4406-8c24-d2b3359ef318/15bc5f98-ed30-4f59-92c9-ffceb453c536.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21441,
+        "aniId": 51441,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:21:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

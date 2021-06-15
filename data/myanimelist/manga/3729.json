@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "MUDDY"
+  ],
+  "authors": [
+    "Aimoto, Shou"
+  ],
+  "id": 3729,
+  "type": "manga",
+  "title": "Muddy",
+  "url": "https://myanimelist.net/manga/3729/Muddy",
+  "image": "https://cdn.myanimelist.net/images/manga/2/190912.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:53.000Z",
+  "updatedAt": "2021-03-09T12:10:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "67814e32-ee26-49d8-a7d5-0ee0e38a3b27": {
+        "authors": [
+          "Aimoto Shou"
+        ],
+        "identifier": "67814e32-ee26-49d8-a7d5-0ee0e38a3b27",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Muddy",
+        "url": "https://mangadex.org/title/67814e32-ee26-49d8-a7d5-0ee0e38a3b27",
+        "image": "https://uploads.mangadex.org/covers/67814e32-ee26-49d8-a7d5-0ee0e38a3b27/a44b9487-b965-46de-9060-81d3a5ed2fea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3729,
+        "aniId": 33729,
+        "createdAt": "2020-10-12T16:08:44.000Z",
+        "updatedAt": "2021-06-04T12:24:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "muddy": {
+        "authors": [
+          "Aimoto",
+          "Shou"
+        ],
+        "identifier": "muddy",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Muddy",
+        "url": "https://manganelo.com/manga/muddy",
+        "image": "https://avt.mkklcdnv6temp.com/34/w/5-1583473271.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3729,
+        "aniId": 33729,
+        "createdAt": "2021-03-09T12:10:30.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

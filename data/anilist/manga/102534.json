@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "러브 아카데미"
+  ],
+  "authors": [
+    "Hong Ban Jang"
+  ],
+  "id": 102534,
+  "malId": null,
+  "type": "manga",
+  "title": "Love Academy",
+  "url": "https://anilist.co/manga/102534",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/102534-tdS8WBxweliY.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-05T08:19:18.000Z",
+  "updatedAt": "2021-06-05T08:19:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "528fbaab-736e-43b0-aa98-52c880e09001": {
+        "authors": [
+          "홍반장"
+        ],
+        "identifier": "528fbaab-736e-43b0-aa98-52c880e09001",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Academy",
+        "url": "https://mangadex.org/title/528fbaab-736e-43b0-aa98-52c880e09001",
+        "image": "https://uploads.mangadex.org/covers/528fbaab-736e-43b0-aa98-52c880e09001/2fc45534-2e9c-425d-9c02-46b32e94c520.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 102534,
+        "createdAt": "2020-10-12T16:11:22.000Z",
+        "updatedAt": "2021-06-05T08:50:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

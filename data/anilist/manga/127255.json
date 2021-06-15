@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "빙의",
+    "Possessed"
+  ],
+  "authors": [
+    "Hooressha",
+    "Hong-Tae Kim"
+  ],
+  "id": 127255,
+  "malId": null,
+  "type": "manga",
+  "title": "Bingui",
+  "url": "https://anilist.co/manga/127255",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127255-scpmu20WYCpt.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T04:20:02.000Z",
+  "updatedAt": "2021-06-05T04:20:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "af5af945-5449-4f16-b59e-013e5194a6c6": {
+        "authors": [
+          "김홍태",
+          "Hooressha (후렛샤)"
+        ],
+        "identifier": "af5af945-5449-4f16-b59e-013e5194a6c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Possessed",
+        "url": "https://mangadex.org/title/af5af945-5449-4f16-b59e-013e5194a6c6",
+        "image": "https://uploads.mangadex.org/covers/af5af945-5449-4f16-b59e-013e5194a6c6/0a5a1470-e9f2-4887-b87b-518a5fedcb4e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127255,
+        "createdAt": "2020-10-12T16:10:51.000Z",
+        "updatedAt": "2021-06-05T08:59:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

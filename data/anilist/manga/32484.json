@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "お花とチョコレェト",
+    "Flower & Chocolate"
+  ],
+  "authors": [
+    "Shinri Fuwa"
+  ],
+  "id": 32484,
+  "malId": 2484,
+  "type": "manga",
+  "title": "Ohana to Chocolate",
+  "url": "https://anilist.co/manga/32484",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32484-Em6ZQF32YCU9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c36c6b6b-281c-4687-9637-b7c879f822f6": {
+        "authors": [
+          "Fuwa Shinri"
+        ],
+        "identifier": "c36c6b6b-281c-4687-9637-b7c879f822f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ohana to Chocolate",
+        "url": "https://mangadex.org/title/c36c6b6b-281c-4687-9637-b7c879f822f6",
+        "image": "https://uploads.mangadex.org/covers/c36c6b6b-281c-4687-9637-b7c879f822f6/93ed566c-5dff-4d80-99b2-52e235eac0e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2484,
+        "aniId": 32484,
+        "createdAt": "2020-10-12T16:21:31.000Z",
+        "updatedAt": "2021-06-08T02:29:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ohana_to_chocolate": {
+        "authors": [
+          "Fuwa Shinri"
+        ],
+        "identifier": "ohana_to_chocolate",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ohana to Chocolate",
+        "url": "https://fanfox.net/manga/ohana_to_chocolate/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3474/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2484,
+        "aniId": 32484,
+        "createdAt": "2021-05-20T23:14:30.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

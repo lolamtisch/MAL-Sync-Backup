@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ワダツミ",
+    "Wadatsumi"
+  ],
+  "authors": [
+    "Yumisuke Kotoyoshi"
+  ],
+  "id": 43643,
+  "malId": 13643,
+  "type": "manga",
+  "title": "Wada Tsumi",
+  "url": "https://anilist.co/manga/43643",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13643.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-05-20T14:42:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73a9cba4-d556-45b9-b80e-0501246933b5": {
+        "authors": [
+          "Kotoyoshi Yumisuke"
+        ],
+        "identifier": "73a9cba4-d556-45b9-b80e-0501246933b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wadatsumi",
+        "url": "https://mangadex.org/title/73a9cba4-d556-45b9-b80e-0501246933b5",
+        "image": "https://uploads.mangadex.org/covers/73a9cba4-d556-45b9-b80e-0501246933b5/ab760735-af00-48dc-becd-d5354d6f75ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13643,
+        "aniId": 43643,
+        "createdAt": "2020-10-12T16:05:10.000Z",
+        "updatedAt": "2021-06-03T10:44:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

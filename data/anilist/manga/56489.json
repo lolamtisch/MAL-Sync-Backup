@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "お姫さまの揺籠",
+    "Princess's Cradle"
+  ],
+  "authors": [
+    "Emiko Yachi"
+  ],
+  "id": 56489,
+  "malId": 26489,
+  "type": "manga",
+  "title": "Ohime-sama no Yurikago",
+  "url": "https://anilist.co/manga/56489",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56489-2cMIA78G91ar.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:02.000Z",
+  "updatedAt": "2021-05-20T14:47:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "49f7ec13-25eb-4893-95ba-fd35a6e35410": {
+        "authors": [
+          "YACHI Emiko"
+        ],
+        "identifier": "49f7ec13-25eb-4893-95ba-fd35a6e35410",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ohimesama no Yurikago",
+        "url": "https://mangadex.org/title/49f7ec13-25eb-4893-95ba-fd35a6e35410",
+        "image": "https://uploads.mangadex.org/covers/49f7ec13-25eb-4893-95ba-fd35a6e35410/682ab365-8a50-423a-9760-21e1ebf6299f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26489,
+        "aniId": 56489,
+        "createdAt": "2020-10-12T16:03:35.000Z",
+        "updatedAt": "2021-06-02T15:06:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

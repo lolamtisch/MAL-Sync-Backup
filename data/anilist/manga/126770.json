@@ -1,0 +1,94 @@
+{
+  "altTitle": [
+    "Deadpool: Samurai",
+    "デッドプール：SAMURAI"
+  ],
+  "authors": [
+    "Sanshirou Kasama",
+    "Rob Liefeld",
+    "Uesugi Hikari",
+    "Fabien Nicieza"
+  ],
+  "id": 126770,
+  "malId": 131840,
+  "type": "manga",
+  "title": "Deadpool: Samurai",
+  "url": "https://anilist.co/manga/126770",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126770-tEQu6MPQGfKn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:04.000Z",
+  "updatedAt": "2021-05-20T15:00:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ef6319e9-9986-4990-a69b-2791d9af8846": {
+        "authors": [
+          "Kasama Sanshirou",
+          "Uesugi Hikaru"
+        ],
+        "identifier": "ef6319e9-9986-4990-a69b-2791d9af8846",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Deadpool: Samurai",
+        "url": "https://mangadex.org/title/ef6319e9-9986-4990-a69b-2791d9af8846",
+        "image": "https://uploads.mangadex.org/covers/ef6319e9-9986-4990-a69b-2791d9af8846/f980e0b5-79cb-4db5-9b39-b1bd55d6faa7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131840,
+        "aniId": 126770,
+        "createdAt": "2020-12-10T04:48:25.000Z",
+        "updatedAt": "2021-06-08T08:31:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ii924904": {
+        "authors": [
+          "Sanshirou",
+          "Kasama"
+        ],
+        "identifier": "ii924904",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Deadpool: Samurai",
+        "url": "https://manganelo.com/manga/ii924904",
+        "image": "https://avt.mkklcdnv6temp.com/45/d/22-1607753896.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131840,
+        "aniId": 126770,
+        "createdAt": "2020-12-12T08:17:56.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kq987373": {
+        "authors": [
+          "Sanshirou Kasama",
+          "Hikaru Uesugi"
+        ],
+        "identifier": "manga-kq987373",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Deadpool: Samurai",
+        "url": "https://manganato.com/manga-kq987373",
+        "image": "https://avt.mkklcdnv6temp.com/45/d/22-1607753896.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131840,
+        "aniId": 126770,
+        "createdAt": "2021-06-06T20:20:10.000Z",
+        "updatedAt": "2021-06-06T20:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

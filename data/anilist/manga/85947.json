@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "女王様の絵師",
+    "Queen's Artist"
+  ],
+  "authors": [
+    "Kaworu Watashiya"
+  ],
+  "id": 85947,
+  "malId": 72581,
+  "type": "manga",
+  "title": "Joou-sama no Eshi",
+  "url": "https://anilist.co/manga/85947",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85947-JoJDXnBMNYoF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:39.000Z",
+  "updatedAt": "2021-05-20T14:51:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "87096c42-9bf6-416c-a354-2e4b1739152b": {
+        "authors": [
+          "Watashiya Kaworu"
+        ],
+        "identifier": "87096c42-9bf6-416c-a354-2e4b1739152b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Joou-sama no Eshi",
+        "url": "https://mangadex.org/title/87096c42-9bf6-416c-a354-2e4b1739152b",
+        "image": "https://uploads.mangadex.org/covers/87096c42-9bf6-416c-a354-2e4b1739152b/327c5290-7a29-4e7a-b984-9f2a1dfccfea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72581,
+        "aniId": 85947,
+        "createdAt": "2020-10-12T16:07:53.000Z",
+        "updatedAt": "2021-06-04T06:01:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "joou-sama-no-eshi": {
+        "authors": [
+          "WATASHIYA Kaworu"
+        ],
+        "identifier": "joou-sama-no-eshi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Joou-sama no Eshi",
+        "url": "https://mangasee123.com/manga/Joou-Sama-No-Eshi",
+        "image": "https://cover.nep.li/cover/Joou-Sama-No-Eshi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72581,
+        "aniId": 85947,
+        "createdAt": "2021-01-27T19:11:07.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

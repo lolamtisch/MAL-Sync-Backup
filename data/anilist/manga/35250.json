@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "プリプリ",
+    "Puripuri"
+  ],
+  "authors": [
+    "Tarou Chiaki"
+  ],
+  "id": 35250,
+  "malId": 5250,
+  "type": "manga",
+  "title": "Puri Puri: The Premature Priest",
+  "url": "https://anilist.co/manga/35250",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5250.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "13a5b10a-e26d-4e62-8e26-5438c07cdf19": {
+        "authors": [
+          "Chiaki Tarou"
+        ],
+        "identifier": "13a5b10a-e26d-4e62-8e26-5438c07cdf19",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Puri Puri",
+        "url": "https://mangadex.org/title/13a5b10a-e26d-4e62-8e26-5438c07cdf19",
+        "image": "https://uploads.mangadex.org/covers/13a5b10a-e26d-4e62-8e26-5438c07cdf19/a4db4e34-bad1-485a-b73e-2d3071712c8a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5250,
+        "aniId": 35250,
+        "createdAt": "2020-10-12T16:04:06.000Z",
+        "updatedAt": "2021-06-02T18:42:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Her World",
+    "彼女の世界"
+  ],
+  "authors": [
+    "Hakamada, Mera"
+  ],
+  "id": 50773,
+  "type": "manga",
+  "title": "Kanojo no Sekai",
+  "url": "https://myanimelist.net/manga/50773/Kanojo_no_Sekai",
+  "image": "https://cdn.myanimelist.net/images/manga/1/89691.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:36.000Z",
+  "updatedAt": "2021-06-14T09:58:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0168cad-975d-4ff0-9b12-7cee13eaacdf": {
+        "authors": [
+          "Hakamada Mera"
+        ],
+        "identifier": "a0168cad-975d-4ff0-9b12-7cee13eaacdf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanojo no Sekai",
+        "url": "https://mangadex.org/title/a0168cad-975d-4ff0-9b12-7cee13eaacdf",
+        "image": "https://uploads.mangadex.org/covers/a0168cad-975d-4ff0-9b12-7cee13eaacdf/716b8571-6777-4a0b-bb7e-517e809c11ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50773,
+        "aniId": 80773,
+        "createdAt": "2020-10-12T16:07:08.000Z",
+        "updatedAt": "2021-06-04T00:35:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kanojo_no_sekai": {
+        "authors": [
+          "Hakamada",
+          "Mera"
+        ],
+        "identifier": "kanojo_no_sekai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kanojo No Sekai",
+        "url": "https://manganelo.com/manga/kanojo_no_sekai",
+        "image": "https://avt.mkklcdnv6.com/35/a/7-1583477594.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50773,
+        "aniId": 80773,
+        "createdAt": "2020-12-14T09:51:00.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

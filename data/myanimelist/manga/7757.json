@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Demon Knight",
+    "Devil Knight",
+    "悪魔騎士"
+  ],
+  "authors": [
+    "Nagai, Go"
+  ],
+  "id": 7757,
+  "type": "manga",
+  "title": "Akuma Kishi",
+  "url": "https://myanimelist.net/manga/7757/Akuma_Kishi",
+  "image": "https://cdn.myanimelist.net/images/manga/2/174399.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:16.000Z",
+  "updatedAt": "2021-04-30T02:19:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f4dfbe0-618c-4a54-8e0a-ba26e356ff21": {
+        "authors": [
+          "Nagai Go",
+          "Dynamic Pro"
+        ],
+        "identifier": "2f4dfbe0-618c-4a54-8e0a-ba26e356ff21",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Demon Knight",
+        "url": "https://mangadex.org/title/2f4dfbe0-618c-4a54-8e0a-ba26e356ff21",
+        "image": "https://uploads.mangadex.org/covers/2f4dfbe0-618c-4a54-8e0a-ba26e356ff21/da427cfe-8398-467a-911b-6c3c83064fd7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7757,
+        "aniId": 37757,
+        "createdAt": "2020-10-12T16:10:03.000Z",
+        "updatedAt": "2021-06-04T21:59:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akuma_kishi": {
+        "authors": [],
+        "identifier": "akuma_kishi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akuma Kishi",
+        "url": "https://manganelo.com/manga/akuma_kishi",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17325-akuma_kishi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7757,
+        "aniId": 37757,
+        "createdAt": "2020-10-12T16:22:03.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

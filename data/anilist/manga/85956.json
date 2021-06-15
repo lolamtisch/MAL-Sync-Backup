@@ -1,0 +1,106 @@
+{
+  "altTitle": [
+    "恋するハリネズミ",
+    "A Hedgehog in Love"
+  ],
+  "authors": [
+    "Nao Hinachi"
+  ],
+  "id": 85956,
+  "malId": 70145,
+  "type": "manga",
+  "title": "Koisuru Harinezumi",
+  "url": "https://anilist.co/manga/85956",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55956-pTCD0drMmTMn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:31.000Z",
+  "updatedAt": "2021-05-20T14:51:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "01a34e62-a4ef-4ca9-af94-05203367e00a": {
+        "authors": [
+          "Hinachi Nao"
+        ],
+        "identifier": "01a34e62-a4ef-4ca9-af94-05203367e00a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koisuru Harinezumi",
+        "url": "https://mangadex.org/title/01a34e62-a4ef-4ca9-af94-05203367e00a",
+        "image": "https://uploads.mangadex.org/covers/01a34e62-a4ef-4ca9-af94-05203367e00a/5677ab0c-dc7e-4e73-845d-3c2f085903c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70145,
+        "aniId": 85956,
+        "createdAt": "2020-10-12T16:07:31.000Z",
+        "updatedAt": "2021-06-04T03:28:38.000Z",
+        "deletedAt": null
+      },
+      "fc11ea88-56c1-403f-8ab2-39f74bad100b": {
+        "authors": [
+          "Yukimoto Syuji"
+        ],
+        "identifier": "fc11ea88-56c1-403f-8ab2-39f74bad100b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yutsu -chan wa harinezumi ka sasatteru",
+        "url": "https://mangadex.org/title/fc11ea88-56c1-403f-8ab2-39f74bad100b",
+        "image": "https://uploads.mangadex.org/covers/fc11ea88-56c1-403f-8ab2-39f74bad100b/78655777-67af-43ce-8bc1-0bf1c5b2f4eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70145,
+        "aniId": 85956,
+        "createdAt": "2020-10-12T16:16:16.000Z",
+        "updatedAt": "2021-06-06T21:03:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koisuru_harinezumi": {
+        "authors": [],
+        "identifier": "koisuru_harinezumi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koisuru Harinezumi",
+        "url": "https://manganelo.com/manga/koisuru_harinezumi",
+        "image": "https://avt.mkklcdnv6.com/14/m/2-1583466259.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70145,
+        "aniId": 85956,
+        "createdAt": "2020-10-12T16:23:58.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koisuru_harinezumi": {
+        "authors": [
+          "HINACHI Nao"
+        ],
+        "identifier": "koisuru_harinezumi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koisuru Harinezumi",
+        "url": "https://fanfox.net/manga/koisuru_harinezumi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13990/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70145,
+        "aniId": 85956,
+        "createdAt": "2021-03-28T10:50:10.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

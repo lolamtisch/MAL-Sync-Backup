@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "暗恋",
+    "My First Crush",
+    "Secret Love"
+  ],
+  "authors": [
+    "Chuan Liu Ji"
+  ],
+  "id": 118524,
+  "malId": null,
+  "type": "manga",
+  "title": "Anlian",
+  "url": "https://anilist.co/manga/118524",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b118524-YoooIjk2vxPf.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T22:43:17.000Z",
+  "updatedAt": "2021-06-06T15:19:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ca95d5b-4aa0-4d22-96e1-6844ea7ed106": {
+        "authors": [
+          "Ji Chuan Liu (吉川流)"
+        ],
+        "identifier": "5ca95d5b-4aa0-4d22-96e1-6844ea7ed106",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secret Love",
+        "url": "https://mangadex.org/title/5ca95d5b-4aa0-4d22-96e1-6844ea7ed106",
+        "image": "https://uploads.mangadex.org/covers/5ca95d5b-4aa0-4d22-96e1-6844ea7ed106/8cdba1e4-4aae-4781-bfd6-f88da944617b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 118524,
+        "createdAt": "2020-10-12T16:15:34.000Z",
+        "updatedAt": "2021-06-06T15:52:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gi919173": {
+        "authors": [
+          "吉川流"
+        ],
+        "identifier": "gi919173",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Secret Love",
+        "url": "https://manganelo.com/manga/gi919173",
+        "image": "https://avt.mkklcdnv6temp.com/22/n/18-1583497979.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 118524,
+        "createdAt": "2020-10-12T16:23:05.000Z",
+        "updatedAt": "2021-05-23T00:51:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eh981642": {
+        "authors": [
+          "吉川流"
+        ],
+        "identifier": "manga-eh981642",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Secret Love",
+        "url": "https://readmanganato.com/manga-eh981642",
+        "image": "https://avt.mkklcdnv6temp.com/22/n/18-1583497979.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 118524,
+        "createdAt": "2021-06-01T15:39:11.000Z",
+        "updatedAt": "2021-06-09T16:41:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "ブラック・ジャック~青き未来~",
+    "Black Jack - Aoki Mirai",
+    "Black Jack Aoki Mirai"
+  ],
+  "authors": [
+    "Hitoshi Iwaaki",
+    "Masaaki Nakayama"
+  ],
+  "id": 59691,
+  "malId": 29691,
+  "type": "manga",
+  "title": "Black Jack: Aoki Mirai",
+  "url": "https://anilist.co/manga/59691",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n59691-qJjRa6fvGO1y.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:37.000Z",
+  "updatedAt": "2021-05-20T14:47:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "sv917891": {
+        "authors": [],
+        "identifier": "sv917891",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Black Jack: Blue Future",
+        "url": "https://manganelo.com/manga/sv917891",
+        "image": "https://avt.mkklcdnv6.com/25/t/17-1583496179.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29691,
+        "aniId": 59691,
+        "createdAt": "2020-10-12T16:25:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "39abfc8e-c5cc-439c-b54d-9589d99b0ec7": {
+        "authors": [
+          "Nakayama Masaaki",
+          "Iwaaki Hitoshi"
+        ],
+        "identifier": "39abfc8e-c5cc-439c-b54d-9589d99b0ec7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Jack ~Blue Future~",
+        "url": "https://mangadex.org/title/39abfc8e-c5cc-439c-b54d-9589d99b0ec7",
+        "image": "https://uploads.mangadex.org/covers/39abfc8e-c5cc-439c-b54d-9589d99b0ec7/77935615-a819-4afb-a61e-38cb92b038f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29691,
+        "aniId": 59691,
+        "createdAt": "2021-02-02T02:01:45.000Z",
+        "updatedAt": "2021-06-08T10:42:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

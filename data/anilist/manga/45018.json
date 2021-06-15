@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "機動戦士ガンダムさん",
+    "Kidou Senshi Gundam-san",
+    "Gundam Sousei"
+  ],
+  "authors": [
+    "Hajime Yatate",
+    "Yoshiyuki Tomino",
+    "Hideki Oowada"
+  ],
+  "id": 45018,
+  "malId": 15018,
+  "type": "manga",
+  "title": "Mobile Suit Gundam-san",
+  "url": "https://anilist.co/manga/45018",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx45018-K98eQN8lG2iO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:43.000Z",
+  "updatedAt": "2021-05-20T14:43:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a6dadd8b-209b-424f-87c8-c0284ef6f496": {
+        "authors": [
+          "OWADA Hideki"
+        ],
+        "identifier": "a6dadd8b-209b-424f-87c8-c0284ef6f496",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gundam Sousei",
+        "url": "https://mangadex.org/title/a6dadd8b-209b-424f-87c8-c0284ef6f496",
+        "image": "https://uploads.mangadex.org/covers/a6dadd8b-209b-424f-87c8-c0284ef6f496/637f1fe9-e58e-46b3-9b29-76d3f68bc2c7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15018,
+        "aniId": 45018,
+        "createdAt": "2020-10-12T16:03:53.000Z",
+        "updatedAt": "2021-06-02T20:09:29.000Z",
+        "deletedAt": null
+      },
+      "e02341d5-a4ca-46d2-ad62-1a0c789f3645": {
+        "authors": [
+          "TOMINO Yoshiyuki",
+          "HAJIME Yatate",
+          "OWADA Hideki"
+        ],
+        "identifier": "e02341d5-a4ca-46d2-ad62-1a0c789f3645",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kidou Senshi Gundam-san",
+        "url": "https://mangadex.org/title/e02341d5-a4ca-46d2-ad62-1a0c789f3645",
+        "image": "https://uploads.mangadex.org/covers/e02341d5-a4ca-46d2-ad62-1a0c789f3645/7db72e39-85f0-4eb6-8842-d6055d06fcaa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15018,
+        "aniId": 45018,
+        "createdAt": "2020-10-12T16:03:56.000Z",
+        "updatedAt": "2021-06-02T17:31:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kidou_senshi_gundam_san": {
+        "authors": [
+          "Yatate Hajime",
+          "TOMINO Yoshiyuki",
+          "OWADA Hideki"
+        ],
+        "identifier": "kidou_senshi_gundam_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kidou Senshi Gundam-san",
+        "url": "https://fanfox.net/manga/kidou_senshi_gundam_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6508/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15018,
+        "aniId": 45018,
+        "createdAt": "2021-05-02T14:31:53.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

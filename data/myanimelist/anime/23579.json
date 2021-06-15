@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Age 12",
+    "Juuni-sai.",
+    "12歳。"
+  ],
+  "id": 23579,
+  "type": "anime",
+  "title": "12-sai.",
+  "url": "https://myanimelist.net/anime/23579/12-sai",
+  "image": "https://cdn.myanimelist.net/images/anime/6/61783.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:39:27.000Z",
+  "updatedAt": "2021-03-12T11:09:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "z3kl": {
+        "identifier": "z3kl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Age 12",
+        "url": "https://9anime.ru/watch/age-12.z3kl",
+        "image": "https://static.akacdn.ru/static/images/2018/04/91b8994494d7be67d232a2b5364f27d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23579,
+        "aniId": 20716,
+        "createdAt": "2020-10-12T15:57:03.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "12-sai-kiss-kirai-suki": {
+        "identifier": "12-sai-kiss-kirai-suki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "12-sai.: Kiss, Kirai, Suki",
+        "url": "https://gogoanime.so/category/12-sai-kiss-kirai-suki",
+        "image": "https://images.gogoanime.tv/images/12-sai-Kiss-Kirai-Suki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23579,
+        "aniId": 20716,
+        "createdAt": "2020-10-12T15:59:44.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

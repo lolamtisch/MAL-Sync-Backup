@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "The Artist and the Beast",
+    "漫画家とヤクザ"
+  ],
+  "authors": [
+    "Coda"
+  ],
+  "id": 111346,
+  "type": "manga",
+  "title": "Mangaka to Yakuza",
+  "url": "https://myanimelist.net/manga/111346/Mangaka_to_Yakuza",
+  "image": "https://cdn.myanimelist.net/images/manga/1/204236.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:22.000Z",
+  "updatedAt": "2021-05-21T00:13:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8780710b-a0a4-45ed-8f41-afaaabbc8ffb": {
+        "authors": [
+          "Coda"
+        ],
+        "identifier": "8780710b-a0a4-45ed-8f41-afaaabbc8ffb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mangaka to Yakuza",
+        "url": "https://mangadex.org/title/8780710b-a0a4-45ed-8f41-afaaabbc8ffb",
+        "image": "https://uploads.mangadex.org/covers/8780710b-a0a4-45ed-8f41-afaaabbc8ffb/215db419-74be-4cfc-a1ae-f40e038f23d1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111346,
+        "aniId": 106823,
+        "createdAt": "2020-10-12T16:12:57.000Z",
+        "updatedAt": "2021-06-05T17:40:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

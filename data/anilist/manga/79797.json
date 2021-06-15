@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ドロンちび丸"
+  ],
+  "authors": [
+    "Shigeru Sugiura"
+  ],
+  "id": 79797,
+  "malId": 49797,
+  "type": "manga",
+  "title": "Doron Chibimaru",
+  "url": "https://anilist.co/manga/79797",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79797-9HlvAaEpXNkv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T01:20:18.000Z",
+  "updatedAt": "2021-06-05T01:20:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9ab64c3-538e-4231-a816-d4550f8b61d3": {
+        "authors": [
+          "Sugiura Shigeru"
+        ],
+        "identifier": "e9ab64c3-538e-4231-a816-d4550f8b61d3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doron Chibimaru",
+        "url": "https://mangadex.org/title/e9ab64c3-538e-4231-a816-d4550f8b61d3",
+        "image": "https://uploads.mangadex.org/covers/e9ab64c3-538e-4231-a816-d4550f8b61d3/2fd5da94-ee29-44a5-8eda-3354e87db49a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49797,
+        "aniId": 79797,
+        "createdAt": "2020-10-12T16:10:27.000Z",
+        "updatedAt": "2021-06-05T08:51:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

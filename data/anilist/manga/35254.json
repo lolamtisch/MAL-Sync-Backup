@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "魁!!男塾",
+    "Charge!! Men's School"
+  ],
+  "authors": [
+    "Akira Miyashita"
+  ],
+  "id": 35254,
+  "malId": 5254,
+  "type": "manga",
+  "title": "Sakigake!! Otokojuku",
+  "url": "https://anilist.co/manga/35254",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35254-SMWmBJgRWcxn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cfa01bb3-0ad1-45f1-9ec9-04c68f9bd9cb": {
+        "authors": [
+          "Miyashita Akira"
+        ],
+        "identifier": "cfa01bb3-0ad1-45f1-9ec9-04c68f9bd9cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakigake!! Otokojuku",
+        "url": "https://mangadex.org/title/cfa01bb3-0ad1-45f1-9ec9-04c68f9bd9cb",
+        "image": "https://uploads.mangadex.org/covers/cfa01bb3-0ad1-45f1-9ec9-04c68f9bd9cb/478efde0-6803-46a1-b4d0-1f943c8d4f44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5254,
+        "aniId": 35254,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:02:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sakigake_otokojuku": {
+        "authors": [],
+        "identifier": "sakigake_otokojuku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sakigake!! Otokojuku",
+        "url": "https://manganelo.com/manga/sakigake_otokojuku",
+        "image": "https://avt.mkklcdnv6.com/23/n/4-1583470647.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5254,
+        "aniId": 35254,
+        "createdAt": "2020-10-12T16:25:17.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "akatsuki-otokojuku": {
+        "authors": [
+          "MIYASHITA Akira"
+        ],
+        "identifier": "akatsuki-otokojuku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akatsuki!! Otokojuku",
+        "url": "https://mangasee123.com/manga/Akatsuki-Otokojuku",
+        "image": "https://cover.nep.li/cover/Akatsuki-Otokojuku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 5254,
+        "aniId": 35254,
+        "createdAt": "2021-04-17T12:44:59.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

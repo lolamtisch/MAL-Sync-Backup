@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Corpse Princess",
+    "屍姫"
+  ],
+  "authors": [
+    "Akahito Yoshiichi"
+  ],
+  "id": 36228,
+  "malId": 6228,
+  "type": "manga",
+  "title": "Shikabane Hime",
+  "url": "https://anilist.co/manga/36228",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36228-F2ci8Abk5fjR.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:38.000Z",
+  "updatedAt": "2021-05-20T14:39:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ebc8fc23-a6c6-4df2-9940-6b668389401e": {
+        "authors": [
+          "Akahito Yoshiichi"
+        ],
+        "identifier": "ebc8fc23-a6c6-4df2-9940-6b668389401e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shikabane Hime",
+        "url": "https://mangadex.org/title/ebc8fc23-a6c6-4df2-9940-6b668389401e",
+        "image": "https://uploads.mangadex.org/covers/ebc8fc23-a6c6-4df2-9940-6b668389401e/5646ade6-a6a0-4864-8f0e-74efaec94af7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6228,
+        "aniId": 36228,
+        "createdAt": "2020-10-12T16:03:17.000Z",
+        "updatedAt": "2021-06-02T12:50:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "xjwu100391564331522": {
+        "authors": [],
+        "identifier": "xjwu100391564331522",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shikabane Hime",
+        "url": "https://manganelo.com/manga/xjwu100391564331522",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/8695-shikabane_hime.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6228,
+        "aniId": 36228,
+        "createdAt": "2020-10-12T16:26:15.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shikabane-hime": {
+        "authors": [
+          "AKAHITO Yoshiichi"
+        ],
+        "identifier": "shikabane-hime",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shikabane Hime",
+        "url": "https://mangasee123.com/manga/Shikabane-Hime",
+        "image": "https://cover.nep.li/cover/Shikabane-Hime.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6228,
+        "aniId": 36228,
+        "createdAt": "2021-02-20T00:34:00.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "魔奇の学級日誌"
+  ],
+  "authors": [
+    "Subaru Ueno"
+  ],
+  "id": 61157,
+  "malId": 31157,
+  "type": "manga",
+  "title": "Maki no Gakkyuu Nisshi",
+  "url": "https://anilist.co/manga/61157",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b61157-JiyoqrM5Ddt2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T22:49:38.000Z",
+  "updatedAt": "2021-06-03T22:49:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd1a0d4d-fb29-42e3-b93d-e6071fc32c14": {
+        "authors": [
+          "Subaru Ueno"
+        ],
+        "identifier": "dd1a0d4d-fb29-42e3-b93d-e6071fc32c14",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maki no Gakkyuu Nisshi",
+        "url": "https://mangadex.org/title/dd1a0d4d-fb29-42e3-b93d-e6071fc32c14",
+        "image": "https://uploads.mangadex.org/covers/dd1a0d4d-fb29-42e3-b93d-e6071fc32c14/c2b3d7ac-4116-4997-8ada-4a1de3449c72.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31157,
+        "aniId": 61157,
+        "createdAt": "2020-10-12T16:06:50.000Z",
+        "updatedAt": "2021-06-03T23:07:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

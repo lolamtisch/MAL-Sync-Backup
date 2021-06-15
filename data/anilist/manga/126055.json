@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "フォビア"
+  ],
+  "authors": [
+    "Katsunori Hara",
+    "Yukiko Gotou"
+  ],
+  "id": 126055,
+  "malId": 132479,
+  "type": "manga",
+  "title": "Phobia",
+  "url": "https://anilist.co/manga/126055",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126055-6GBhWeB5On2P.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:10.000Z",
+  "updatedAt": "2021-05-20T15:00:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f78d21e-cb2c-49c4-bc86-d824305c9050": {
+        "authors": [
+          "Gotou Yukiko",
+          "Hara Katsunori"
+        ],
+        "identifier": "2f78d21e-cb2c-49c4-bc86-d824305c9050",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Phobia",
+        "url": "https://mangadex.org/title/2f78d21e-cb2c-49c4-bc86-d824305c9050",
+        "image": "https://uploads.mangadex.org/covers/2f78d21e-cb2c-49c4-bc86-d824305c9050/5b26035a-9212-4137-bbad-397d3225c367.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132479,
+        "aniId": 126055,
+        "createdAt": "2021-01-09T01:21:46.000Z",
+        "updatedAt": "2021-06-08T09:38:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

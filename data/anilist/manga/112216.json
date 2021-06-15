@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "魔導の系譜",
+    "Truth Weavers"
+  ],
+  "authors": [
+    "Sakura Satou",
+    "Hiro Inuzaka"
+  ],
+  "id": 112216,
+  "malId": 122016,
+  "type": "manga",
+  "title": "Madou no Keifu",
+  "url": "https://anilist.co/manga/112216",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112216-pSsTWWBIVNSa.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:26.000Z",
+  "updatedAt": "2021-05-20T14:58:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bda4265d-4362-49f3-8567-50542d31491b": {
+        "authors": [
+          "Inuzuka Hiro",
+          "Satou Sakura"
+        ],
+        "identifier": "bda4265d-4362-49f3-8567-50542d31491b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Madou no Keifu",
+        "url": "https://mangadex.org/title/bda4265d-4362-49f3-8567-50542d31491b",
+        "image": "https://uploads.mangadex.org/covers/bda4265d-4362-49f3-8567-50542d31491b/65789b44-89d4-480b-895d-d5178586dd99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122016,
+        "aniId": 112216,
+        "createdAt": "2020-10-12T16:17:17.000Z",
+        "updatedAt": "2021-06-07T06:34:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "madou_no_keifu": {
+        "authors": [
+          "SATOU Sakura"
+        ],
+        "identifier": "madou_no_keifu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Madou no Keifu",
+        "url": "https://fanfox.net/manga/madou_no_keifu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37736/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122016,
+        "aniId": 112216,
+        "createdAt": "2021-02-26T14:56:09.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ux925949": {
+        "authors": [
+          "Satou",
+          "Sakura"
+        ],
+        "identifier": "ux925949",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Madou No Keifu",
+        "url": "https://manganelo.com/manga/ux925949",
+        "image": "https://avt.mkklcdnv6temp.com/37/z/23-1615045678.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122016,
+        "aniId": 112216,
+        "createdAt": "2021-03-06T20:02:55.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "あめいろの棘"
+  ],
+  "authors": [
+    "Nojiko Hayakawa"
+  ],
+  "id": 87300,
+  "malId": 71605,
+  "type": "manga",
+  "title": "Ameiro no Toge",
+  "url": "https://anilist.co/manga/87300",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57300-yzDGBriY0XAM.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:34.000Z",
+  "updatedAt": "2021-05-20T14:51:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c683925d-4af4-4420-a8ea-b0a0a7746ce7": {
+        "authors": [
+          "Hayakawa Nojiko"
+        ],
+        "identifier": "c683925d-4af4-4420-a8ea-b0a0a7746ce7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ameiro no Toge",
+        "url": "https://mangadex.org/title/c683925d-4af4-4420-a8ea-b0a0a7746ce7",
+        "image": "https://uploads.mangadex.org/covers/c683925d-4af4-4420-a8ea-b0a0a7746ce7/7db1d9ed-83b4-4994-9f95-45868ee48f77.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71605,
+        "aniId": 87300,
+        "createdAt": "2020-10-12T16:07:25.000Z",
+        "updatedAt": "2021-06-04T02:41:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ドラゴン・ナイト"
+  ],
+  "authors": [
+    "Miyuki Yamaguchi"
+  ],
+  "id": 42746,
+  "malId": 12746,
+  "type": "manga",
+  "title": "Dragon Knight",
+  "url": "https://anilist.co/manga/42746",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12746.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "086a54cb-7622-49fc-970e-d1b9f0e5dced": {
+        "authors": [
+          "Yamaguchi Miyuki"
+        ],
+        "identifier": "086a54cb-7622-49fc-970e-d1b9f0e5dced",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dragon Knight",
+        "url": "https://mangadex.org/title/086a54cb-7622-49fc-970e-d1b9f0e5dced",
+        "image": "https://uploads.mangadex.org/covers/086a54cb-7622-49fc-970e-d1b9f0e5dced/32e79031-9be8-467f-8a2c-23f309c777c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12746,
+        "aniId": 42746,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:35:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

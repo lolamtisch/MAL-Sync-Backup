@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Imprisoned Beauty",
+    "虜囚麗人",
+    "General Dandy"
+  ],
+  "authors": [
+    "Shin Mizukami"
+  ],
+  "id": 41707,
+  "malId": 11707,
+  "type": "manga",
+  "title": "Ryoshuu Reijin",
+  "url": "https://anilist.co/manga/41707",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41707-uwHprevv01uP.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:42:12.000Z",
+  "updatedAt": "2021-05-20T14:42:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1190d3ec-9bec-4789-9869-84d767bffb54": {
+        "authors": [
+          "Mizukami Shin"
+        ],
+        "identifier": "1190d3ec-9bec-4789-9869-84d767bffb54",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ryoshuu Reijin",
+        "url": "https://mangadex.org/title/1190d3ec-9bec-4789-9869-84d767bffb54",
+        "image": "https://uploads.mangadex.org/covers/1190d3ec-9bec-4789-9869-84d767bffb54/439cf9d9-204f-45a8-9316-62287280d9d6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11707,
+        "aniId": 41707,
+        "createdAt": "2020-10-12T16:15:52.000Z",
+        "updatedAt": "2021-06-06T17:32:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ryoshuu_reijin": {
+        "authors": [
+          "MIZUKAMI Shin"
+        ],
+        "identifier": "ryoshuu_reijin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ryoshuu Reijin",
+        "url": "https://fanfox.net/manga/ryoshuu_reijin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4196/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11707,
+        "aniId": 41707,
+        "createdAt": "2021-05-20T23:14:58.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

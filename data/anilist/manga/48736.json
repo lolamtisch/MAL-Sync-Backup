@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "怪体真書Ø",
+    "Kaitaishinsho 0",
+    "Kaitai Shinsho Zero",
+    "Kaitai Shinsho 0",
+    "Kaitaishinsho Zero"
+  ],
+  "authors": [
+    "Chiyo Kenmotsu"
+  ],
+  "id": 48736,
+  "malId": 18736,
+  "type": "manga",
+  "title": "Kaitai Shinsho Ø",
+  "url": "https://anilist.co/manga/48736",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48736-WrlqO0HHZfgM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:14.000Z",
+  "updatedAt": "2021-05-20T14:45:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab345ba7-5bdd-44fb-a11e-50e3209312b8": {
+        "authors": [
+          "Kenmotsu Chiyo"
+        ],
+        "identifier": "ab345ba7-5bdd-44fb-a11e-50e3209312b8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaitai Shinsho &Oslash;",
+        "url": "https://mangadex.org/title/ab345ba7-5bdd-44fb-a11e-50e3209312b8",
+        "image": "https://uploads.mangadex.org/covers/ab345ba7-5bdd-44fb-a11e-50e3209312b8/de5d016e-f30a-4631-950f-75c60585a0a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18736,
+        "aniId": 48736,
+        "createdAt": "2020-10-12T16:02:29.000Z",
+        "updatedAt": "2021-06-02T07:10:06.000Z",
+        "deletedAt": null
+      },
+      "1e73dcf4-1f55-4dd9-b6db-ff9a60d4a932": {
+        "authors": [
+          "Kaburagi Saiko"
+        ],
+        "identifier": "1e73dcf4-1f55-4dd9-b6db-ff9a60d4a932",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shoujo Kaitai",
+        "url": "https://mangadex.org/title/1e73dcf4-1f55-4dd9-b6db-ff9a60d4a932",
+        "image": "https://uploads.mangadex.org/covers/1e73dcf4-1f55-4dd9-b6db-ff9a60d4a932/b19508dd-67bd-44af-b456-a529a49f285d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18736,
+        "aniId": 48736,
+        "createdAt": "2020-10-12T16:15:45.000Z",
+        "updatedAt": "2021-06-06T16:32:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

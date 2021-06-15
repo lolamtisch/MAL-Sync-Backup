@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Hana the Fox Girl",
+    "しましま花狐〈はなこ〉",
+    "Hanako"
+  ],
+  "authors": [
+    "Chima"
+  ],
+  "id": 109719,
+  "malId": 83433,
+  "type": "manga",
+  "title": "Shima Shima Hanako",
+  "url": "https://anilist.co/manga/109719",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109719-zvuqPWUcvQgB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:32.000Z",
+  "updatedAt": "2021-06-05T09:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f2a61896-4363-489b-abc9-39436e1538ac": {
+        "authors": [
+          "Chima"
+        ],
+        "identifier": "f2a61896-4363-489b-abc9-39436e1538ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shima Shima Hanako",
+        "url": "https://mangadex.org/title/f2a61896-4363-489b-abc9-39436e1538ac",
+        "image": "https://uploads.mangadex.org/covers/f2a61896-4363-489b-abc9-39436e1538ac/2d831ce5-1f71-4c81-8779-2d2f14864ae5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83433,
+        "aniId": 109719,
+        "createdAt": "2020-10-12T16:11:34.000Z",
+        "updatedAt": "2021-06-05T12:42:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hanako": {
+        "authors": [
+          "Chima"
+        ],
+        "identifier": "hanako",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hanako",
+        "url": "https://manganelo.com/manga/hanako",
+        "image": "https://avt.mkklcdnv6temp.com/50/h/7-1583478188.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 83433,
+        "aniId": 109719,
+        "createdAt": "2021-05-04T11:33:18.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

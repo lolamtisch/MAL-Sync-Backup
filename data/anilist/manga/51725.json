@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "バチ☆バチ",
+    "Bachi Bachi",
+    "Bachi-Bachi"
+  ],
+  "authors": [
+    "Hyougo Kijima"
+  ],
+  "id": 51725,
+  "malId": 21725,
+  "type": "manga",
+  "title": "Bachi☆Bachi",
+  "url": "https://anilist.co/manga/51725",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51725-KBHooBxOs1Gq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:45.000Z",
+  "updatedAt": "2021-05-20T14:45:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "46d91891-3b7f-4583-af3e-f0206b3bc4cf": {
+        "authors": [
+          "Kijima Hyougo"
+        ],
+        "identifier": "46d91891-3b7f-4583-af3e-f0206b3bc4cf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bachi☆Bachi",
+        "url": "https://mangadex.org/title/46d91891-3b7f-4583-af3e-f0206b3bc4cf",
+        "image": "https://uploads.mangadex.org/covers/46d91891-3b7f-4583-af3e-f0206b3bc4cf/c9293c4f-ec16-43a0-83c8-5b5e46d8ea7d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21725,
+        "aniId": 51725,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:41:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "寄る辺無き者",
+    "无所依靠之人",
+    "People With No Place to Go"
+  ],
+  "authors": [
+    "Kou Yoneda"
+  ],
+  "id": 45654,
+  "malId": 15654,
+  "type": "manga",
+  "title": "Yorube Naki Mono",
+  "url": "https://anilist.co/manga/45654",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15654.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:47.000Z",
+  "updatedAt": "2021-05-20T14:43:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e3f42fea-4fd3-4c0d-839d-673a1ad22257": {
+        "authors": [
+          "Yoneda Kou"
+        ],
+        "identifier": "e3f42fea-4fd3-4c0d-839d-673a1ad22257",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yorube Naki Mono",
+        "url": "https://mangadex.org/title/e3f42fea-4fd3-4c0d-839d-673a1ad22257",
+        "image": "https://uploads.mangadex.org/covers/e3f42fea-4fd3-4c0d-839d-673a1ad22257/6b72e932-c876-449d-9d08-63cf0d33dff6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15654,
+        "aniId": 45654,
+        "createdAt": "2020-10-12T16:04:32.000Z",
+        "updatedAt": "2021-06-02T21:39:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

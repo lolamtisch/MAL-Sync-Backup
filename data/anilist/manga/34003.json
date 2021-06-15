@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "魔物語",
+    "Ninjin Daisuki",
+    "Tody",
+    "Saishuu Bus",
+    "The Last Bus",
+    "Inviting Darkness"
+  ],
+  "authors": [
+    "Yoko Matsumoto"
+  ],
+  "id": 34003,
+  "malId": 4003,
+  "type": "manga",
+  "title": "Mamonogatari",
+  "url": "https://anilist.co/manga/34003",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34003-BS36m28Fo7dX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:23.000Z",
+  "updatedAt": "2021-05-20T14:38:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3920f0ca-3c16-4df9-9c69-e2707fd0b58f": {
+        "authors": [
+          "Matsumoto Yoko"
+        ],
+        "identifier": "3920f0ca-3c16-4df9-9c69-e2707fd0b58f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inviting Darkness",
+        "url": "https://mangadex.org/title/3920f0ca-3c16-4df9-9c69-e2707fd0b58f",
+        "image": "https://uploads.mangadex.org/covers/3920f0ca-3c16-4df9-9c69-e2707fd0b58f/ec78957f-aef9-4c38-ae94-29bbb4a4e856.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4003,
+        "aniId": 34003,
+        "createdAt": "2020-10-12T16:07:54.000Z",
+        "updatedAt": "2021-06-04T06:04:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

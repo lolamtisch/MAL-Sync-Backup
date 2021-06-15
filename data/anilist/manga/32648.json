@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Ryou Sakurai"
+  ],
+  "id": 32648,
+  "malId": 2648,
+  "type": "manga",
+  "title": "Ijiwaru na Kuchibiru",
+  "url": "https://anilist.co/manga/32648",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2648.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "811718c3-5ab3-408e-9feb-67cf272d4b8b": {
+        "authors": [
+          "Sakurai Ryou"
+        ],
+        "identifier": "811718c3-5ab3-408e-9feb-67cf272d4b8b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ijiwaru Na Kuchibiru",
+        "url": "https://mangadex.org/title/811718c3-5ab3-408e-9feb-67cf272d4b8b",
+        "image": "https://uploads.mangadex.org/covers/811718c3-5ab3-408e-9feb-67cf272d4b8b/19028b5f-7ba9-417e-8d48-2886765c50ab.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2648,
+        "aniId": 32648,
+        "createdAt": "2020-10-12T16:05:59.000Z",
+        "updatedAt": "2021-06-03T16:26:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

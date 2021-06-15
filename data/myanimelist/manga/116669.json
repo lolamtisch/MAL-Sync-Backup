@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "あくまのまま"
+  ],
+  "authors": [
+    "Kuzushiro"
+  ],
+  "id": 116669,
+  "type": "manga",
+  "title": "Akuma no Mama",
+  "url": "https://myanimelist.net/manga/116669/Akuma_no_Mama",
+  "image": "https://cdn.myanimelist.net/images/manga/1/223634.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:48.000Z",
+  "updatedAt": "2021-03-05T19:22:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "933f0d25-a46e-4ce0-b878-7a81636a34a4": {
+        "authors": [
+          "Kuzushiro"
+        ],
+        "identifier": "933f0d25-a46e-4ce0-b878-7a81636a34a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akuma no Mama",
+        "url": "https://mangadex.org/title/933f0d25-a46e-4ce0-b878-7a81636a34a4",
+        "image": "https://uploads.mangadex.org/covers/933f0d25-a46e-4ce0-b878-7a81636a34a4/d2b5a989-a901-4c08-8ca8-21181a40ab4c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116669,
+        "aniId": 104881,
+        "createdAt": "2020-10-12T16:14:20.000Z",
+        "updatedAt": "2021-06-06T04:24:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ee918094": {
+        "authors": [],
+        "identifier": "ee918094",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akuma No Mama",
+        "url": "https://manganelo.com/manga/ee918094",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21709-ee918094.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116669,
+        "aniId": 104881,
+        "createdAt": "2020-10-12T16:22:47.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mama-akuma": {
+        "authors": [
+          "Kuzushiro"
+        ],
+        "identifier": "mama-akuma",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mama Akuma",
+        "url": "https://mangasee123.com/manga/Mama-Akuma",
+        "image": "https://cover.nep.li/cover/Mama-Akuma.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 116669,
+        "aniId": 104881,
+        "createdAt": "2021-03-05T19:22:12.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

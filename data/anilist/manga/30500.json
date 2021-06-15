@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "RG Veda",
+    "聖伝-RG VEDA-",
+    "Seiden"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 30500,
+  "malId": 500,
+  "type": "manga",
+  "title": "RG Veda",
+  "url": "https://anilist.co/manga/30500",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/500-3fusIg5eiyNC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2c590b25-7f05-442a-91b4-eb402ac9efaf": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "2c590b25-7f05-442a-91b4-eb402ac9efaf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RG Veda",
+        "url": "https://mangadex.org/title/2c590b25-7f05-442a-91b4-eb402ac9efaf",
+        "image": "https://uploads.mangadex.org/covers/2c590b25-7f05-442a-91b4-eb402ac9efaf/ce73ab38-881c-4f86-9ea3-54e603fb5725.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 500,
+        "aniId": 30500,
+        "createdAt": "2020-10-12T16:11:31.000Z",
+        "updatedAt": "2021-06-05T08:59:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rg-veda": {
+        "authors": [
+          "APAPA Mokona",
+          "CLAMP",
+          "OHKAWA Ageha"
+        ],
+        "identifier": "rg-veda",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "RG Veda",
+        "url": "https://mangasee123.com/manga/Rg-Veda",
+        "image": "https://cover.nep.li/cover/Rg-Veda.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 500,
+        "aniId": 30500,
+        "createdAt": "2021-02-15T17:36:31.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

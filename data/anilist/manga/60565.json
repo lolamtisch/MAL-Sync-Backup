@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "どこにもない国",
+    "Dokonimo Nai Kuni"
+  ],
+  "authors": [
+    "Sakae Kusama"
+  ],
+  "id": 60565,
+  "malId": 30565,
+  "type": "manga",
+  "title": "Doko ni mo Nai Kuni",
+  "url": "https://anilist.co/manga/60565",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30565.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:40.000Z",
+  "updatedAt": "2021-06-03T17:49:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "23a60714-2fa6-41dc-9cfd-dee4bf532e8e": {
+        "authors": [
+          "Kusama Sakae"
+        ],
+        "identifier": "23a60714-2fa6-41dc-9cfd-dee4bf532e8e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dokonimo Nai Kuni",
+        "url": "https://mangadex.org/title/23a60714-2fa6-41dc-9cfd-dee4bf532e8e",
+        "image": "https://uploads.mangadex.org/covers/23a60714-2fa6-41dc-9cfd-dee4bf532e8e/87d1b212-856f-452d-b867-bf583fcf8c4c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30565,
+        "aniId": 60565,
+        "createdAt": "2020-10-12T16:06:07.000Z",
+        "updatedAt": "2021-06-03T17:55:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dokonimo_nai_kuni": {
+        "authors": [],
+        "identifier": "dokonimo_nai_kuni",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dokonimo Nai Kuni",
+        "url": "https://manganelo.com/manga/dokonimo_nai_kuni",
+        "image": "https://avt.mkklcdnv6.com/22/s/6-1583475059.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30565,
+        "aniId": 60565,
+        "createdAt": "2020-10-12T16:22:41.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

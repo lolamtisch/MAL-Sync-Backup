@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "プピポー！"
+  ],
+  "id": 20525,
+  "malId": 21325,
+  "type": "anime",
+  "title": "Pupipo!",
+  "url": "https://anilist.co/anime/20525",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20525.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:27.000Z",
+  "updatedAt": "2021-05-20T14:41:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "9jrm": {
+        "identifier": "9jrm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pupipo!",
+        "url": "https://9anime.ru/watch/pupipo.9jrm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zvsHizGsIqk/V70zquj7mZI/AAAAAAAA4_s/w-NlVm2dvCk/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21325,
+        "aniId": 20525,
+        "createdAt": "2020-10-12T15:51:47.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pupipo": {
+        "identifier": "pupipo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pupipo!",
+        "url": "https://gogoanime.so/category/pupipo",
+        "image": "https://gogocdn.net/images/Pupipo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21325,
+        "aniId": 20525,
+        "createdAt": "2020-10-12T17:49:16.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

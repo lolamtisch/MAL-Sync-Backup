@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "駆け抜けるなら、消えないでくれ。"
+  ],
+  "authors": [
+    "Naoka Kasuga"
+  ],
+  "id": 33011,
+  "malId": 3011,
+  "type": "manga",
+  "title": "Kakenukerunara, Kienaidekure.",
+  "url": "https://anilist.co/manga/33011",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3011.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-05-20T14:37:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cac5a8f8-c269-4f72-9928-53a4cd49c13d": {
+        "authors": [
+          "Kasuga Naoka"
+        ],
+        "identifier": "cac5a8f8-c269-4f72-9928-53a4cd49c13d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakenukerunara, Kienaidekure",
+        "url": "https://mangadex.org/title/cac5a8f8-c269-4f72-9928-53a4cd49c13d",
+        "image": "https://uploads.mangadex.org/covers/cac5a8f8-c269-4f72-9928-53a4cd49c13d/1ee221cf-5632-4c8c-b989-63b36076b387.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3011,
+        "aniId": 33011,
+        "createdAt": "2020-10-12T16:20:26.000Z",
+        "updatedAt": "2021-06-08T00:03:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

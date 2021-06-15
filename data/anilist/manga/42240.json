@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "The Sacred Blacksmith",
+    "聖剣の刀鍛冶（ブラックスミス）",
+    "Seiken no Katanakaji",
+    "The Sacred Sword Blacksmith"
+  ],
+  "authors": [
+    "Koutarou Yamada",
+    "Isao Miura",
+    "Luna"
+  ],
+  "id": 42240,
+  "malId": 12240,
+  "type": "manga",
+  "title": "Seiken no Blacksmith",
+  "url": "https://anilist.co/manga/42240",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12240.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8d8adda7-c3a6-468a-9cee-96f4f7398e28": {
+        "authors": [
+          "Yamada Koutarou",
+          "Miura Isao"
+        ],
+        "identifier": "8d8adda7-c3a6-468a-9cee-96f4f7398e28",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Sacred Blacksmith",
+        "url": "https://mangadex.org/title/8d8adda7-c3a6-468a-9cee-96f4f7398e28",
+        "image": "https://uploads.mangadex.org/covers/8d8adda7-c3a6-468a-9cee-96f4f7398e28/a59c97f9-0591-4228-80ef-bfd496d4eaba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12240,
+        "aniId": 42240,
+        "createdAt": "2020-10-12T16:02:44.000Z",
+        "updatedAt": "2021-06-02T09:06:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lmoy122061554432133": {
+        "authors": [],
+        "identifier": "lmoy122061554432133",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Seiken no Katanakaji",
+        "url": "https://manganelo.com/manga/lmoy122061554432133",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/10428-seiken_no_katanakaji.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12240,
+        "aniId": 42240,
+        "createdAt": "2020-10-12T16:24:09.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-sacred-blacksmith": {
+        "authors": [
+          "MIURA Isao",
+          "YAMADA Koutarou"
+        ],
+        "identifier": "the-sacred-blacksmith",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Sacred Blacksmith",
+        "url": "https://mangasee123.com/manga/The-Sacred-Blacksmith",
+        "image": "https://cover.nep.li/cover/The-Sacred-Blacksmith.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12240,
+        "aniId": 42240,
+        "createdAt": "2020-12-16T20:56:27.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

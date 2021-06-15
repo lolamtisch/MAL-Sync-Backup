@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "키스우드",
+    "KissWood"
+  ],
+  "authors": [
+    "Sung Ho Ahn"
+  ],
+  "id": 66083,
+  "malId": 36083,
+  "type": "manga",
+  "title": "Kiss Wood",
+  "url": "https://anilist.co/manga/66083",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36083.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90587fad-105e-4c53-be75-803ef3f9b3c2": {
+        "authors": [
+          "Ahn Sung-Ho"
+        ],
+        "identifier": "90587fad-105e-4c53-be75-803ef3f9b3c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiss Wood",
+        "url": "https://mangadex.org/title/90587fad-105e-4c53-be75-803ef3f9b3c2",
+        "image": "https://uploads.mangadex.org/covers/90587fad-105e-4c53-be75-803ef3f9b3c2/b56435d2-201d-414e-9fb8-23c2ae30c6f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36083,
+        "aniId": 66083,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:05:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kiss-wood": {
+        "authors": [
+          "Ahn Sung Ho"
+        ],
+        "identifier": "kiss-wood",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kiss Wood",
+        "url": "https://mangasee123.com/manga/Kiss-Wood",
+        "image": "https://cover.nep.li/cover/Kiss-Wood.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36083,
+        "aniId": 66083,
+        "createdAt": "2021-04-14T00:15:29.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kisswood": {
+        "authors": [
+          "Ahn Sung Ho"
+        ],
+        "identifier": "kisswood",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "KissWood",
+        "url": "https://fanfox.net/manga/kisswood/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8335/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36083,
+        "aniId": 66083,
+        "createdAt": "2021-06-06T18:49:10.000Z",
+        "updatedAt": "2021-06-06T19:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

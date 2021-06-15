@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Over Steam",
+    "오버 스팀"
+  ],
+  "authors": [
+    "Yungyo Seo",
+    "Donghyeok Yu"
+  ],
+  "id": 85447,
+  "malId": null,
+  "type": "manga",
+  "title": "Over Steam",
+  "url": "https://anilist.co/manga/85447",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55447.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T17:38:17.000Z",
+  "updatedAt": "2021-05-26T17:38:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b27fdeb-cc20-4e12-b31b-419f245f4fe9": {
+        "authors": [
+          "유동혁",
+          "서윤교"
+        ],
+        "identifier": "7b27fdeb-cc20-4e12-b31b-419f245f4fe9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Over Steam",
+        "url": "https://mangadex.org/title/7b27fdeb-cc20-4e12-b31b-419f245f4fe9",
+        "image": "https://uploads.mangadex.org/covers/7b27fdeb-cc20-4e12-b31b-419f245f4fe9/e5a5a0d8-8a6f-4ff4-9541-cfdf98915733.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 85447,
+        "createdAt": "2020-10-12T16:06:02.000Z",
+        "updatedAt": "2021-06-03T17:03:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

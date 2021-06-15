@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "東京トイボックス"
+  ],
+  "authors": [
+    "UME"
+  ],
+  "id": 10852,
+  "type": "manga",
+  "title": "Tokyo Toy Box",
+  "url": "https://myanimelist.net/manga/10852/Tokyo_Toy_Box",
+  "image": "https://cdn.myanimelist.net/images/manga/1/191490.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:30.000Z",
+  "updatedAt": "2021-05-01T01:04:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf6d1e6e-f37e-4130-aa2c-091c577ea106": {
+        "authors": [
+          "UME"
+        ],
+        "identifier": "bf6d1e6e-f37e-4130-aa2c-091c577ea106",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Toy Box",
+        "url": "https://mangadex.org/title/bf6d1e6e-f37e-4130-aa2c-091c577ea106",
+        "image": "https://uploads.mangadex.org/covers/bf6d1e6e-f37e-4130-aa2c-091c577ea106/a1486232-072c-4cc8-88ad-b9ddfc54b7ea.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10852,
+        "aniId": 40852,
+        "createdAt": "2020-10-12T16:07:14.000Z",
+        "updatedAt": "2021-06-04T01:22:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    ".hack//Gift",
+    ".hack//GIFT"
+  ],
+  "id": 454,
+  "type": "anime",
+  "title": ".hack//Gift",
+  "url": "https://myanimelist.net/anime/454/hack__Gift",
+  "image": "https://cdn.myanimelist.net/images/anime/2/23085.jpg",
+  "category": "OVA",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:04.000Z",
+  "updatedAt": "2021-02-01T14:32:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "3522": {
+        "identifier": "3522",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".hack//Gift",
+        "url": "https://9anime.ru/watch/hackgift.3522",
+        "image": "https://static.akacdn.ru/files/images/2018/03/70dbe30039f8bc65c4d2a71b91492bdb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 454,
+        "aniId": 454,
+        "createdAt": "2020-10-12T15:48:30.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "4518": {
+        "identifier": "4518",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": ".hack//GIFT (GerSub)",
+        "url": "https://www.anime4you.one/show/1/aid/4518",
+        "image": "https://cdn.anime4you.one/covers/02042002020404asid_2559.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 454,
+        "aniId": 454,
+        "createdAt": "2020-10-15T11:51:04.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hackgift": {
+        "identifier": "hackgift",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": ".hack//Gift",
+        "url": "https://gogoanime.so/category/hackgift",
+        "image": "https://gogocdn.net/cover/hackgift.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 454,
+        "aniId": 454,
+        "createdAt": "2021-02-01T14:32:04.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

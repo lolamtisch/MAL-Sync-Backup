@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Strip"
+  ],
+  "authors": [
+    "Haruka Minami"
+  ],
+  "id": 32052,
+  "malId": 2052,
+  "type": "manga",
+  "title": "Strip",
+  "url": "https://anilist.co/manga/32052",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2052.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "10289452-a4c6-4045-af8d-146b52582ceb": {
+        "authors": [
+          "Minami Haruka"
+        ],
+        "identifier": "10289452-a4c6-4045-af8d-146b52582ceb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Strip",
+        "url": "https://mangadex.org/title/10289452-a4c6-4045-af8d-146b52582ceb",
+        "image": "",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2052,
+        "aniId": 32052,
+        "createdAt": "2020-10-12T16:21:31.000Z",
+        "updatedAt": "2021-06-08T02:30:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

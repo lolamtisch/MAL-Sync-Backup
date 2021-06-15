@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "ToA",
+    "テイルズ オブ ジ アビス"
+  ],
+  "authors": [
+    "Rei",
+    "Bandai-Namco"
+  ],
+  "id": 1756,
+  "type": "manga",
+  "title": "Tales of the Abyss",
+  "url": "https://myanimelist.net/manga/1756/Tales_of_the_Abyss",
+  "image": "https://cdn.myanimelist.net/images/manga/4/76233.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:37.000Z",
+  "updatedAt": "2021-05-11T05:42:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e929a5b7-4795-4641-af07-bcd8a656c6bc": {
+        "authors": [
+          "Bandai Namco Games",
+          "Rei",
+          "Namco Tales Studio"
+        ],
+        "identifier": "e929a5b7-4795-4641-af07-bcd8a656c6bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of the Abyss",
+        "url": "https://mangadex.org/title/e929a5b7-4795-4641-af07-bcd8a656c6bc",
+        "image": "https://uploads.mangadex.org/covers/e929a5b7-4795-4641-af07-bcd8a656c6bc/483a139f-0a2b-48c5-854e-3b963e6de049.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1756,
+        "aniId": 31756,
+        "createdAt": "2020-10-12T16:05:27.000Z",
+        "updatedAt": "2021-06-03T12:40:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tales-of-the-abyss": {
+        "authors": [
+          "Bandai Namco Games",
+          "Rei (1)"
+        ],
+        "identifier": "tales-of-the-abyss",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tales of the Abyss",
+        "url": "https://mangasee123.com/manga/Tales-Of-The-Abyss",
+        "image": "https://cover.nep.li/cover/Tales-Of-The-Abyss.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1756,
+        "aniId": 31756,
+        "createdAt": "2021-05-11T15:17:36.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

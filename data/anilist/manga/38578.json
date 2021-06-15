@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "My Blue Violet",
+    "スミレはブルー",
+    "Sumire wa Buruu"
+  ],
+  "authors": [
+    "Yuuki Obata"
+  ],
+  "id": 38578,
+  "malId": 8578,
+  "type": "manga",
+  "title": "Sumire wa Blue",
+  "url": "https://anilist.co/manga/38578",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8578.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:49.000Z",
+  "updatedAt": "2021-05-20T14:40:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e160ac51-9f63-45f3-b029-97c3e29a4bbb": {
+        "authors": [
+          "Obata Yuuki"
+        ],
+        "identifier": "e160ac51-9f63-45f3-b029-97c3e29a4bbb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sumire wa Blue",
+        "url": "https://mangadex.org/title/e160ac51-9f63-45f3-b029-97c3e29a4bbb",
+        "image": "https://uploads.mangadex.org/covers/e160ac51-9f63-45f3-b029-97c3e29a4bbb/820cb2d4-8b55-4a59-acc2-5339b8fdde47.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8578,
+        "aniId": 38578,
+        "createdAt": "2020-10-12T16:04:19.000Z",
+        "updatedAt": "2021-06-02T20:16:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

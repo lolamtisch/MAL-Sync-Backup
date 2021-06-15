@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "それに名前をつけるなら"
+  ],
+  "authors": [
+    "Ayukawa, Hal"
+  ],
+  "id": 123721,
+  "type": "manga",
+  "title": "Sore ni Namae wo Tsukeru Nara",
+  "url": "https://myanimelist.net/manga/123721/Sore_ni_Namae_wo_Tsukeru_Nara",
+  "image": "https://cdn.myanimelist.net/images/manga/3/225694.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-11-24T04:26:22.000Z",
+  "updatedAt": "2021-05-24T04:38:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4863486d-db9a-4a15-a837-22b6fe2a6f01": {
+        "authors": [
+          "Ayukawa Haru"
+        ],
+        "identifier": "4863486d-db9a-4a15-a837-22b6fe2a6f01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sore ni Namae o Tsukeru Nara",
+        "url": "https://mangadex.org/title/4863486d-db9a-4a15-a837-22b6fe2a6f01",
+        "image": "https://uploads.mangadex.org/covers/4863486d-db9a-4a15-a837-22b6fe2a6f01/ec42fc01-3946-41f7-843e-a6f3a30b3686.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123721,
+        "aniId": 114517,
+        "createdAt": "2020-11-24T04:26:27.000Z",
+        "updatedAt": "2021-06-08T07:36:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

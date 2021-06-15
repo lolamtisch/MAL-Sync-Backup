@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "オーダーメイド ティリア"
+  ],
+  "authors": [
+    "Shuu"
+  ],
+  "id": 85031,
+  "malId": 55031,
+  "type": "manga",
+  "title": "Maid to Order Tyria",
+  "url": "https://anilist.co/manga/85031",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55031.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:01.000Z",
+  "updatedAt": "2021-05-20T14:50:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c953ea9-0078-4efd-9964-4ed346626f6e": {
+        "authors": [
+          "Shu"
+        ],
+        "identifier": "7c953ea9-0078-4efd-9964-4ed346626f6e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maid to Order Tyria",
+        "url": "https://mangadex.org/title/7c953ea9-0078-4efd-9964-4ed346626f6e",
+        "image": "https://uploads.mangadex.org/covers/7c953ea9-0078-4efd-9964-4ed346626f6e/04d85e6c-3506-4ac9-a5ed-4cfbd305535d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55031,
+        "aniId": 85031,
+        "createdAt": "2020-10-12T16:03:03.000Z",
+        "updatedAt": "2021-06-02T11:22:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

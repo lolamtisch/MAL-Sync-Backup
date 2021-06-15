@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ぼくのねえさん",
+    "My Older Sister"
+  ],
+  "authors": [
+    "Pasta Yamada"
+  ],
+  "id": 104022,
+  "malId": null,
+  "type": "manga",
+  "title": "Boku no Nee-san",
+  "url": "https://anilist.co/manga/104022",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104022-CLO7bMCRpbhg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T10:18:58.000Z",
+  "updatedAt": "2021-06-04T10:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ace3d7e6-8b73-4ce2-8020-33147a5f4c0a": {
+        "authors": [
+          "Yamada Pasta"
+        ],
+        "identifier": "ace3d7e6-8b73-4ce2-8020-33147a5f4c0a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no nee-san",
+        "url": "https://mangadex.org/title/ace3d7e6-8b73-4ce2-8020-33147a5f4c0a",
+        "image": "https://uploads.mangadex.org/covers/ace3d7e6-8b73-4ce2-8020-33147a5f4c0a/d56431d2-b642-4d62-a5d8-c9c30cbc3d0c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 104022,
+        "createdAt": "2020-10-12T16:13:46.000Z",
+        "updatedAt": "2021-06-06T00:22:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

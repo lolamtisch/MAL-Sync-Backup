@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "コープスパーティー"
+  ],
+  "authors": [
+    "Kansho",
+    "CHIHIRO"
+  ],
+  "id": 90601,
+  "type": "manga",
+  "title": "Corpse Party",
+  "url": "https://myanimelist.net/manga/90601/Corpse_Party",
+  "image": "https://cdn.myanimelist.net/images/manga/2/166018.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:04.000Z",
+  "updatedAt": "2021-05-13T23:25:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "160ba559-b797-4283-88db-256f916cedd2": {
+        "authors": [
+          "Chihiro",
+          "Liverjam (Friendly Land)"
+        ],
+        "identifier": "160ba559-b797-4283-88db-256f916cedd2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Corpse Party",
+        "url": "https://mangadex.org/title/160ba559-b797-4283-88db-256f916cedd2",
+        "image": "https://uploads.mangadex.org/covers/160ba559-b797-4283-88db-256f916cedd2/04c096e1-7259-4976-84f2-b866073e8e54.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90601,
+        "aniId": 107827,
+        "createdAt": "2020-10-12T16:08:44.000Z",
+        "updatedAt": "2021-06-04T12:21:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "corpse_party": {
+        "authors": [
+          "Chihiro"
+        ],
+        "identifier": "corpse_party",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Corpse Party",
+        "url": "https://manganelo.com/manga/corpse_party",
+        "image": "https://avt.mkklcdnv6temp.com/9/c/3-1583467994.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90601,
+        "aniId": 107827,
+        "createdAt": "2021-05-14T20:24:44.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

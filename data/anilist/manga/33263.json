@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "第二ボタン下さい"
+  ],
+  "authors": [
+    "Kaori Monchi"
+  ],
+  "id": 33263,
+  "malId": 3263,
+  "type": "manga",
+  "title": "Daini Button Kudasai",
+  "url": "https://anilist.co/manga/33263",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3263.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b2eb6ad7-c700-4694-946a-cb9302070156": {
+        "authors": [
+          "Monchi Kaori"
+        ],
+        "identifier": "b2eb6ad7-c700-4694-946a-cb9302070156",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Daini Button Kudasai",
+        "url": "https://mangadex.org/title/b2eb6ad7-c700-4694-946a-cb9302070156",
+        "image": "https://uploads.mangadex.org/covers/b2eb6ad7-c700-4694-946a-cb9302070156/d07863e5-504e-4244-aa36-80b58ca805a6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3263,
+        "aniId": 33263,
+        "createdAt": "2020-10-12T16:12:08.000Z",
+        "updatedAt": "2021-06-05T13:35:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

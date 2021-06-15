@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "うつしみの花"
+  ],
+  "authors": [
+    "Tooru Takahisa"
+  ],
+  "id": 42439,
+  "malId": 12439,
+  "type": "manga",
+  "title": "Utsushimi no Hana",
+  "url": "https://anilist.co/manga/42439",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12439.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:22.000Z",
+  "updatedAt": "2021-05-20T14:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "72c89d29-83b7-46ab-a856-f02edd136671": {
+        "authors": [
+          "Takahisa Tooru"
+        ],
+        "identifier": "72c89d29-83b7-46ab-a856-f02edd136671",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Utsushimi no Hana",
+        "url": "https://mangadex.org/title/72c89d29-83b7-46ab-a856-f02edd136671",
+        "image": "https://uploads.mangadex.org/covers/72c89d29-83b7-46ab-a856-f02edd136671/20d74bfa-5c7f-4e10-8f25-7dd98bd7e76d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12439,
+        "aniId": 42439,
+        "createdAt": "2020-10-12T16:14:48.000Z",
+        "updatedAt": "2021-06-06T08:08:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

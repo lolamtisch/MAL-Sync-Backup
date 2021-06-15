@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "浮浪雲",
+    "Wandering Clouds"
+  ],
+  "id": 8500,
+  "malId": 8500,
+  "type": "anime",
+  "title": "Haguregumo",
+  "url": "https://anilist.co/anime/8500",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8500-T6LMX4IDLI2Q.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:56.000Z",
+  "updatedAt": "2021-05-20T14:38:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "403k": {
+        "identifier": "403k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Haguregumo",
+        "url": "https://9anime.ru/watch/haguregumo.403k",
+        "image": "https://static.akacdn.ru/files/images/2018/04/f3a12871d031299625e8095f53fb0bbd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8500,
+        "aniId": 8500,
+        "createdAt": "2020-10-12T15:49:58.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "haguregumo": {
+        "identifier": "haguregumo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Haguregumo",
+        "url": "https://www19.gogoanime.io/category/haguregumo",
+        "image": "https://gogocdn.net/cover/haguregumo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8500,
+        "aniId": 8500,
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

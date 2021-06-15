@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Chocolate Cosmos",
+    "チョコレートコスモス",
+    "Yes or Kiss"
+  ],
+  "authors": [
+    "Nana Haruta"
+  ],
+  "id": 33831,
+  "malId": 3831,
+  "type": "manga",
+  "title": "Chocolate Cosmos",
+  "url": "https://anilist.co/manga/33831",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33831-MoGmEOppAUyZ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "05c6f020-e754-40dd-8e16-2516faed00cc": {
+        "authors": [
+          "Haruta Nana"
+        ],
+        "identifier": "05c6f020-e754-40dd-8e16-2516faed00cc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chocolate Cosmos",
+        "url": "https://mangadex.org/title/05c6f020-e754-40dd-8e16-2516faed00cc",
+        "image": "https://uploads.mangadex.org/covers/05c6f020-e754-40dd-8e16-2516faed00cc/da1c3ba1-51b0-4dea-b6e7-c4a9d1d1f897.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3831,
+        "aniId": 33831,
+        "createdAt": "2020-10-12T16:03:24.000Z",
+        "updatedAt": "2021-06-02T13:43:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_chocolate_cosmos": {
+        "authors": [
+          "Haruta",
+          "Nana"
+        ],
+        "identifier": "read_chocolate_cosmos",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chocolate Cosmos",
+        "url": "https://manganelo.com/manga/read_chocolate_cosmos",
+        "image": "https://avt.mkklcdnv6temp.com/4/s/4-1583469848.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3831,
+        "aniId": 33831,
+        "createdAt": "2021-04-02T07:00:55.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "chocolate_cosmos": {
+        "authors": [
+          "HARUTA Nana"
+        ],
+        "identifier": "chocolate_cosmos",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chocolate Cosmos",
+        "url": "https://fanfox.net/manga/chocolate_cosmos/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1828/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3831,
+        "aniId": 33831,
+        "createdAt": "2021-05-20T22:15:28.000Z",
+        "updatedAt": "2021-05-20T22:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

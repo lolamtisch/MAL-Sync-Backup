@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "武蔵"
+  ],
+  "authors": [
+    "Hiroshi Motomiya"
+  ],
+  "id": 116194,
+  "malId": 111820,
+  "type": "manga",
+  "title": "Musashi",
+  "url": "https://anilist.co/manga/116194",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116194-YtZ3ffryzbG3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T06:50:39.000Z",
+  "updatedAt": "2021-06-05T06:50:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "88b6fcca-57dd-4df2-aac5-8935eaa6c34d": {
+        "authors": [
+          "Motomiya Hiroshi"
+        ],
+        "identifier": "88b6fcca-57dd-4df2-aac5-8935eaa6c34d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Musashi",
+        "url": "https://mangadex.org/title/88b6fcca-57dd-4df2-aac5-8935eaa6c34d",
+        "image": "https://uploads.mangadex.org/covers/88b6fcca-57dd-4df2-aac5-8935eaa6c34d/7458010d-21b4-44e2-8f8f-89bc83fcb1d8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111820,
+        "aniId": 116194,
+        "createdAt": "2020-10-12T16:11:13.000Z",
+        "updatedAt": "2021-06-05T08:55:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

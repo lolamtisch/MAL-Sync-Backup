@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Cowboy Bebop Shooting Star",
+    "シューティングスタービバップ カウボーイビバップ"
+  ],
+  "authors": [
+    "Shinichirou Watanabe",
+    "Cain Kuga"
+  ],
+  "id": 30174,
+  "malId": 174,
+  "type": "manga",
+  "title": "Shooting Star Bebop: Cowboy Bebop",
+  "url": "https://anilist.co/manga/30174",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30174-RTbUXsQNPNwd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b21a0cc3-9268-4e44-8039-ea1b77679e9b": {
+        "authors": [
+          "Kuga Cain"
+        ],
+        "identifier": "b21a0cc3-9268-4e44-8039-ea1b77679e9b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cowboy Bebop Shooting Star",
+        "url": "https://mangadex.org/title/b21a0cc3-9268-4e44-8039-ea1b77679e9b",
+        "image": "https://uploads.mangadex.org/covers/b21a0cc3-9268-4e44-8039-ea1b77679e9b/48143743-c3b6-4f51-b4a9-19e9e87b0fb1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 174,
+        "aniId": 30174,
+        "createdAt": "2020-10-12T16:11:43.000Z",
+        "updatedAt": "2021-06-05T10:32:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cowboy_bebop_shooting_star": {
+        "authors": [
+          "Kuga",
+          "Cain"
+        ],
+        "identifier": "cowboy_bebop_shooting_star",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cowboy Bebop: Shooting Star",
+        "url": "https://manganelo.com/manga/cowboy_bebop_shooting_star",
+        "image": "https://avt.mkklcdnv6temp.com/17/m/4-1583470382.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 174,
+        "aniId": 30174,
+        "createdAt": "2021-03-30T05:31:01.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zi956491": {
+        "authors": [
+          "Kuga Cain"
+        ],
+        "identifier": "manga-zi956491",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cowboy Bebop: Shooting Star",
+        "url": "https://readmanganato.com/manga-zi956491",
+        "image": "https://avt.mkklcdnv6temp.com/17/m/4-1583470382.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 174,
+        "aniId": 30174,
+        "createdAt": "2021-05-28T20:54:04.000Z",
+        "updatedAt": "2021-05-28T21:23:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

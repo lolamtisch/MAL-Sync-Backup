@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Grappler Baki - Son of Ogre",
+    "範馬刃牙"
+  ],
+  "authors": [
+    "Itagaki, Keisuke"
+  ],
+  "id": 7760,
+  "type": "manga",
+  "title": "Hanma Baki",
+  "url": "https://myanimelist.net/manga/7760/Hanma_Baki",
+  "image": "https://cdn.myanimelist.net/images/manga/2/159342.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:16.000Z",
+  "updatedAt": "2021-06-13T10:39:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b3f409c-2bda-40b7-9d1d-1039c0b7d62a": {
+        "authors": [
+          "Itagaki Keisuke"
+        ],
+        "identifier": "0b3f409c-2bda-40b7-9d1d-1039c0b7d62a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanma Baki",
+        "url": "https://mangadex.org/title/0b3f409c-2bda-40b7-9d1d-1039c0b7d62a",
+        "image": "https://uploads.mangadex.org/covers/0b3f409c-2bda-40b7-9d1d-1039c0b7d62a/7ad962c9-0dec-4232-a6c6-229ee4dbf106.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7760,
+        "aniId": 37760,
+        "createdAt": "2020-10-12T16:03:42.000Z",
+        "updatedAt": "2021-06-02T15:51:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hanma_baki": {
+        "authors": [],
+        "identifier": "hanma_baki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hanma Baki",
+        "url": "https://manganelo.com/manga/hanma_baki",
+        "image": "https://avt.mkklcdnv6.com/25/z/3-1583468698.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7760,
+        "aniId": 37760,
+        "createdAt": "2020-10-12T16:23:15.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "baki-son-of-ogre": {
+        "authors": [
+          "ITAGAKI Keisuke"
+        ],
+        "identifier": "baki-son-of-ogre",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Baki - Son of Ogre",
+        "url": "https://mangasee123.com/manga/Baki-Son-Of-Ogre",
+        "image": "https://cover.nep.li/cover/Baki-Son-Of-Ogre.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7760,
+        "aniId": 37760,
+        "createdAt": "2020-12-13T10:18:52.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "新選組刃義抄アサギ",
+    "Asagi"
+  ],
+  "authors": [
+    "Yaeko Ninagawa",
+    "Tatsuya Yamamura"
+  ],
+  "id": 45401,
+  "malId": 15401,
+  "type": "manga",
+  "title": "Shinsengumi Jingishou Asagi",
+  "url": "https://anilist.co/manga/45401",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15401.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:46.000Z",
+  "updatedAt": "2021-05-20T14:43:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ecc1f245-9667-461b-9a96-df6f000f4984": {
+        "authors": [
+          "Ninagawa Yaeko",
+          "Yamamura Tatsuya"
+        ],
+        "identifier": "ecc1f245-9667-461b-9a96-df6f000f4984",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinsengumi Jingishou Asagi",
+        "url": "https://mangadex.org/title/ecc1f245-9667-461b-9a96-df6f000f4984",
+        "image": "https://uploads.mangadex.org/covers/ecc1f245-9667-461b-9a96-df6f000f4984/4accd252-cb84-4eb5-9aa5-854cdf38ae4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15401,
+        "aniId": 45401,
+        "createdAt": "2020-10-12T16:12:31.000Z",
+        "updatedAt": "2021-06-05T15:02:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

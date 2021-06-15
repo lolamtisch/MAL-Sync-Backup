@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "Beautiful People",
+    "ビューティフルピープル"
+  ],
+  "authors": [
+    "Mitsukazu Mihara"
+  ],
+  "id": 30143,
+  "malId": 143,
+  "type": "manga",
+  "title": "beautiful people",
+  "url": "https://anilist.co/manga/30143",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx30143-r2L6N0Id9Klx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b0f2be93-67f9-453c-a1be-c16e2f7d4b2c": {
+        "authors": [
+          "MIHARA Mitsukazu"
+        ],
+        "identifier": "b0f2be93-67f9-453c-a1be-c16e2f7d4b2c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Beautiful People",
+        "url": "https://mangadex.org/title/b0f2be93-67f9-453c-a1be-c16e2f7d4b2c",
+        "image": "https://uploads.mangadex.org/covers/b0f2be93-67f9-453c-a1be-c16e2f7d4b2c/9dc29355-6ba9-404e-83e8-70be932f63a7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 143,
+        "aniId": 30143,
+        "createdAt": "2020-10-12T16:12:25.000Z",
+        "updatedAt": "2021-06-05T14:36:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bo922868": {
+        "authors": [],
+        "identifier": "bo922868",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Beautiful Agent Wife",
+        "url": "https://manganelo.com/manga/bo922868",
+        "image": "https://avt.mkklcdnv6.com/11/j/21-1589266090.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 143,
+        "aniId": 30143,
+        "createdAt": "2020-10-12T16:22:18.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "qu919621": {
+        "authors": [],
+        "identifier": "qu919621",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Beautiful Time With You",
+        "url": "https://manganelo.com/manga/qu919621",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1024-qu919621.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 143,
+        "aniId": 30143,
+        "createdAt": "2020-10-12T16:25:00.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

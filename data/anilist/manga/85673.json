@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "スクラップ・ヘブン"
+  ],
+  "authors": [
+    "Yui Kuroe"
+  ],
+  "id": 85673,
+  "malId": 81255,
+  "type": "manga",
+  "title": "Scrap Heaven",
+  "url": "https://anilist.co/manga/85673",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55673.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:02.000Z",
+  "updatedAt": "2021-05-20T14:52:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "scrap_heaven": {
+        "authors": [
+          "KUROE Yui"
+        ],
+        "identifier": "scrap_heaven",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Scrap Heaven",
+        "url": "https://fanfox.net/manga/scrap_heaven/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14458/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81255,
+        "aniId": 85673,
+        "createdAt": "2021-04-17T22:44:18.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

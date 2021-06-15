@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "北斗の拳 ユリア外伝 慈母の星",
+    "Fist of the North Star: Yuria's Story - The Merciful Mother Star"
+  ],
+  "authors": [
+    "Ayumi Kasai",
+    "Yoshiyuki Okamura",
+    "Tetsuo Hara"
+  ],
+  "id": 34004,
+  "malId": 4004,
+  "type": "manga",
+  "title": "Hokuto no Ken: Yuria Gaiden - Jibo no Hoshi",
+  "url": "https://anilist.co/manga/34004",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4004.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:23.000Z",
+  "updatedAt": "2021-05-20T14:38:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0723b339-c8e9-4e64-9042-a19652511c49": {
+        "authors": [
+          "Hara Tetsuo",
+          "Buronson",
+          "Kasai Ayumi"
+        ],
+        "identifier": "0723b339-c8e9-4e64-9042-a19652511c49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jibo no Hoshi - Hokuto no Ken: Yuria Gaiden",
+        "url": "https://mangadex.org/title/0723b339-c8e9-4e64-9042-a19652511c49",
+        "image": "https://uploads.mangadex.org/covers/0723b339-c8e9-4e64-9042-a19652511c49/bfb50f44-239d-4d7c-a106-531ed265ab61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4004,
+        "aniId": 34004,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:01:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hokuto-no-ken-yuria-gaiden-jibo-no-hoshi": {
+        "authors": [
+          "Buronson",
+          "HARA Tetsuo",
+          "KASAI Ayumi"
+        ],
+        "identifier": "hokuto-no-ken-yuria-gaiden-jibo-no-hoshi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hokuto no Ken - Yuria Gaiden - Jibo no Hoshi",
+        "url": "https://mangasee123.com/manga/Hokuto-No-Ken-Yuria-Gaiden-Jibo-No-Hoshi",
+        "image": "https://cover.nep.li/cover/Hokuto-No-Ken-Yuria-Gaiden-Jibo-No-Hoshi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 4004,
+        "aniId": 34004,
+        "createdAt": "2021-03-24T19:49:14.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

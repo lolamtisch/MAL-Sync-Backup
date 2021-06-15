@@ -1,0 +1,40 @@
+{
+  "altTitle": [
+    "ケルベロス",
+    "Soutaisei Riron - Cerberus",
+    "Kerberos",
+    "Tensei Jingle"
+  ],
+  "id": 103796,
+  "malId": 34889,
+  "type": "anime",
+  "title": "Cerberus",
+  "url": "https://anilist.co/anime/103796",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103796-Py0IkYlXnFMD.jpg",
+  "category": "music",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:23.000Z",
+  "updatedAt": "2021-05-20T14:43:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Crunchyroll": {
+      "cerberus": {
+        "identifier": "cerberus",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Cerberus",
+        "url": "https://www.crunchyroll.com/cerberus?media_id=702453",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/810a438d9acaf8345bf288e82e2884b21459755807_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34889,
+        "aniId": 103796,
+        "createdAt": "2020-11-18T13:20:50.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

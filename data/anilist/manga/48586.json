@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "狂人関係",
+    "Furious Love",
+    "Folles Passions"
+  ],
+  "authors": [
+    "Kazuo Kamimura",
+    "Thibaud Desbief"
+  ],
+  "id": 48586,
+  "malId": 18586,
+  "type": "manga",
+  "title": "Kyoujin Kankei",
+  "url": "https://anilist.co/manga/48586",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48586-AV46Swr0mcvE.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:12.000Z",
+  "updatedAt": "2021-05-20T14:45:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8becf74c-dd41-4990-81b2-58af8e505032": {
+        "authors": [
+          "Shituzi"
+        ],
+        "identifier": "8becf74c-dd41-4990-81b2-58af8e505032",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Furious Yama",
+        "url": "https://mangadex.org/title/8becf74c-dd41-4990-81b2-58af8e505032",
+        "image": "https://uploads.mangadex.org/covers/8becf74c-dd41-4990-81b2-58af8e505032/8d85baa0-aed3-42ce-abd1-c6c521d40da0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18586,
+        "aniId": 48586,
+        "createdAt": "2020-10-12T16:18:30.000Z",
+        "updatedAt": "2021-06-07T17:24:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dd922132": {
+        "authors": [],
+        "identifier": "dd922132",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Furious Yama",
+        "url": "https://manganelo.com/manga/dd922132",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3551-dd922132.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18586,
+        "aniId": 48586,
+        "createdAt": "2020-10-12T16:22:36.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

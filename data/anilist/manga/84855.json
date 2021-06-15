@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Kamen Boxer",
+    "仮面ボクサー",
+    "Masked Boxer"
+  ],
+  "authors": [
+    "Kazuhiko Shimamoto"
+  ],
+  "id": 84855,
+  "malId": 54855,
+  "type": "manga",
+  "title": "Kamen Boxer",
+  "url": "https://anilist.co/manga/84855",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/54855-P4JGOF6MS6NL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:01.000Z",
+  "updatedAt": "2021-05-20T14:50:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "14af5d75-fcd9-4d01-a51e-dd1f5812e0ff": {
+        "authors": [
+          "Shimamoto Kazuhiko"
+        ],
+        "identifier": "14af5d75-fcd9-4d01-a51e-dd1f5812e0ff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamen Boxer",
+        "url": "https://mangadex.org/title/14af5d75-fcd9-4d01-a51e-dd1f5812e0ff",
+        "image": "https://uploads.mangadex.org/covers/14af5d75-fcd9-4d01-a51e-dd1f5812e0ff/0376a4ca-fd46-40a1-9978-6b4f5642f8f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54855,
+        "aniId": 84855,
+        "createdAt": "2020-10-12T16:06:33.000Z",
+        "updatedAt": "2021-06-03T20:25:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

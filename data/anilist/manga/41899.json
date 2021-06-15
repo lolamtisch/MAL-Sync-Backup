@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ブラインドラブ"
+  ],
+  "authors": [
+    "Akira Kanbe"
+  ],
+  "id": 41899,
+  "malId": 11899,
+  "type": "manga",
+  "title": "Blind Love",
+  "url": "https://anilist.co/manga/41899",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41899-vszR5u3X9juo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T04:50:57.000Z",
+  "updatedAt": "2021-06-04T04:50:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "51c35b03-1d2d-4b01-a433-666f041a51dd": {
+        "authors": [
+          "Kanbe Akira"
+        ],
+        "identifier": "51c35b03-1d2d-4b01-a433-666f041a51dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blind Love",
+        "url": "https://mangadex.org/title/51c35b03-1d2d-4b01-a433-666f041a51dd",
+        "image": "https://uploads.mangadex.org/covers/51c35b03-1d2d-4b01-a433-666f041a51dd/cf69c3d8-54eb-4bd3-9982-ce65a057d2de.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11899,
+        "aniId": 41899,
+        "createdAt": "2020-10-12T16:07:41.000Z",
+        "updatedAt": "2021-06-04T08:58:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

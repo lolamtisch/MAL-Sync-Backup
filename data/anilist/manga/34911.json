@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "トウキョウ　アンツ"
+  ],
+  "authors": [
+    "Yasuhiro Kanou"
+  ],
+  "id": 34911,
+  "malId": 4911,
+  "type": "manga",
+  "title": "Tokyo Ants",
+  "url": "https://anilist.co/manga/34911",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4911.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:38.000Z",
+  "updatedAt": "2021-05-20T14:38:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6cee8f7f-28e8-493f-8a1f-0500e6099f7a": {
+        "authors": [
+          "Kano Yasuhiro",
+          "Ookawara Ton"
+        ],
+        "identifier": "6cee8f7f-28e8-493f-8a1f-0500e6099f7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Ants",
+        "url": "https://mangadex.org/title/6cee8f7f-28e8-493f-8a1f-0500e6099f7a",
+        "image": "https://uploads.mangadex.org/covers/6cee8f7f-28e8-493f-8a1f-0500e6099f7a/f3bc550b-620b-4fb4-8b12-93ebfc496930.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4911,
+        "aniId": 34911,
+        "createdAt": "2020-10-12T16:12:34.000Z",
+        "updatedAt": "2021-06-05T15:25:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ギャングース"
+  ],
+  "authors": [
+    "Keisuke Hiya",
+    "Daisuke Suzuki"
+  ],
+  "id": 91888,
+  "malId": 73835,
+  "type": "manga",
+  "title": "Gangoose",
+  "url": "https://anilist.co/manga/91888",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91888-NoDhgcOyxvx9.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T14:50:18.000Z",
+  "updatedAt": "2021-06-04T14:50:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "394981af-d1b0-45a3-9ec6-088a45808beb": {
+        "authors": [
+          "Suzuki Daisuke",
+          "Hiya Keisuke"
+        ],
+        "identifier": "394981af-d1b0-45a3-9ec6-088a45808beb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gangoose",
+        "url": "https://mangadex.org/title/394981af-d1b0-45a3-9ec6-088a45808beb",
+        "image": "https://uploads.mangadex.org/covers/394981af-d1b0-45a3-9ec6-088a45808beb/80456a71-af95-4537-b1fa-070e23adac33.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73835,
+        "aniId": 91888,
+        "createdAt": "2020-10-12T16:09:00.000Z",
+        "updatedAt": "2021-06-04T15:26:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

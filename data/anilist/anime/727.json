@@ -1,0 +1,39 @@
+{
+  "altTitle": [
+    "きんぎょ注意報！",
+    "Goldfish Warning!",
+    "Goldfish Forecast!"
+  ],
+  "id": 727,
+  "malId": 727,
+  "type": "anime",
+  "title": "Kingyo Chuuihou!",
+  "url": "https://anilist.co/anime/727",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/727.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:34:44.000Z",
+  "updatedAt": "2021-05-20T14:34:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "kingyo-chuuihou": {
+        "identifier": "kingyo-chuuihou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kingyo Chuuihou!",
+        "url": "https://gogoanime.so/category/kingyo-chuuihou",
+        "image": "https://gogocdn.net/cover/kingyo-chuuihou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 727,
+        "aniId": 727,
+        "createdAt": "2020-10-12T17:56:06.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

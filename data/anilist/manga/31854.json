@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ハレルヤ"
+  ],
+  "authors": [
+    "Haruto Umezawa",
+    "Nobuhiro Watsuki"
+  ],
+  "id": 31854,
+  "malId": 1854,
+  "type": "manga",
+  "title": "Hareluya",
+  "url": "https://anilist.co/manga/31854",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31854-vVJIDqhL1DGi.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:54.000Z",
+  "updatedAt": "2021-05-20T14:36:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8e23ce64-92af-435f-a6f7-3ebf3ce802d2": {
+        "authors": [
+          "Umezawa Haruto"
+        ],
+        "identifier": "8e23ce64-92af-435f-a6f7-3ebf3ce802d2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hareluya",
+        "url": "https://mangadex.org/title/8e23ce64-92af-435f-a6f7-3ebf3ce802d2",
+        "image": "https://uploads.mangadex.org/covers/8e23ce64-92af-435f-a6f7-3ebf3ce802d2/6ec4ceb1-5256-4568-9a07-1b5315c3121a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1854,
+        "aniId": 31854,
+        "createdAt": "2020-10-12T16:03:49.000Z",
+        "updatedAt": "2021-06-02T16:43:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

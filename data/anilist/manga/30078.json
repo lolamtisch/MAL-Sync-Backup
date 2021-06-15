@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Alichino",
+    "アリキーノ"
+  ],
+  "authors": [
+    "Kouyu Shurei",
+    "Ernesto Cellie",
+    "Bowen Park",
+    "James Dashiell",
+    "Amy Forsyth",
+    "Claudia Peter",
+    "Jason Milligan"
+  ],
+  "id": 30078,
+  "malId": 78,
+  "type": "manga",
+  "title": "Alichino",
+  "url": "https://anilist.co/manga/30078",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30078-XknhNAhYDX9c.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:23.000Z",
+  "updatedAt": "2021-05-20T14:35:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "04de2b0d-431e-49f9-b5c7-7d1a54839030": {
+        "authors": [
+          "Shurei Kouyu"
+        ],
+        "identifier": "04de2b0d-431e-49f9-b5c7-7d1a54839030",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alichino",
+        "url": "https://mangadex.org/title/04de2b0d-431e-49f9-b5c7-7d1a54839030",
+        "image": "https://uploads.mangadex.org/covers/04de2b0d-431e-49f9-b5c7-7d1a54839030/64cc0915-5684-4634-9d85-78d8656cd28d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 78,
+        "aniId": 30078,
+        "createdAt": "2020-10-12T16:02:54.000Z",
+        "updatedAt": "2021-06-02T10:16:24.000Z",
+        "deletedAt": null
+      },
+      "07027252-798d-42ba-a374-8a3f5679d88c": {
+        "authors": [
+          "Irotenya"
+        ],
+        "identifier": "07027252-798d-42ba-a374-8a3f5679d88c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinjin Juukishi no Ichinichi",
+        "url": "https://mangadex.org/title/07027252-798d-42ba-a374-8a3f5679d88c",
+        "image": "https://uploads.mangadex.org/covers/07027252-798d-42ba-a374-8a3f5679d88c/a9f75c97-afb2-4fa1-83ea-6bfa69be8fc2.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 78,
+        "aniId": 30078,
+        "createdAt": "2020-10-12T16:19:42.000Z",
+        "updatedAt": "2021-06-07T22:30:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pq921533": {
+        "authors": [],
+        "identifier": "pq921533",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yes, My Lich!",
+        "url": "https://manganelo.com/manga/pq921533",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2935-pq921533.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 78,
+        "aniId": 30078,
+        "createdAt": "2020-10-12T16:24:53.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

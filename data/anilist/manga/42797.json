@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "アルトネリコ 2",
+    "Ar Tonelico 2"
+  ],
+  "authors": [
+    "Aya Megumu"
+  ],
+  "id": 42797,
+  "malId": 12797,
+  "type": "manga",
+  "title": "Ar Tonelico II",
+  "url": "https://anilist.co/manga/42797",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12797.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "42edfd41-7102-4556-86d6-25bd6fdfaf5d": {
+        "authors": [
+          "Aya Megumu"
+        ],
+        "identifier": "42edfd41-7102-4556-86d6-25bd6fdfaf5d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ar tonelico II",
+        "url": "https://mangadex.org/title/42edfd41-7102-4556-86d6-25bd6fdfaf5d",
+        "image": "https://uploads.mangadex.org/covers/42edfd41-7102-4556-86d6-25bd6fdfaf5d/8527dc3f-1980-44c6-a702-6e1cd16160ef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12797,
+        "aniId": 42797,
+        "createdAt": "2020-10-12T16:04:07.000Z",
+        "updatedAt": "2021-06-02T18:48:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

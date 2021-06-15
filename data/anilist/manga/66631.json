@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Miu Ootsuki"
+  ],
+  "id": 66631,
+  "malId": 36631,
+  "type": "manga",
+  "title": "Yukemuri Tamatebako",
+  "url": "https://anilist.co/manga/66631",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36631.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6af16305-372c-4d1b-b673-84e81444ff81": {
+        "authors": [
+          "Ootsuki Miu"
+        ],
+        "identifier": "6af16305-372c-4d1b-b673-84e81444ff81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yukemuri Tamatebako",
+        "url": "https://mangadex.org/title/6af16305-372c-4d1b-b673-84e81444ff81",
+        "image": "https://uploads.mangadex.org/covers/6af16305-372c-4d1b-b673-84e81444ff81/5c8d31fc-1e42-4aea-9d5f-02c191a70fef.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36631,
+        "aniId": 66631,
+        "createdAt": "2020-10-12T16:03:43.000Z",
+        "updatedAt": "2021-06-02T16:04:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

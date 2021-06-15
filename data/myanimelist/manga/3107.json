@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "ハロー ベイビー"
+  ],
+  "authors": [
+    "Obata, Takeshi",
+    "Morita, Masanori"
+  ],
+  "id": 3107,
+  "type": "manga",
+  "title": "Hello Baby",
+  "url": "https://myanimelist.net/manga/3107/Hello_Baby",
+  "image": "https://cdn.myanimelist.net/images/manga/5/12135.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:48.000Z",
+  "updatedAt": "2021-04-15T00:14:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "523ab7de-2ec8-4e8f-9674-1631a318bb36": {
+        "authors": [
+          "Obata Takeshi",
+          "Morita Masanori"
+        ],
+        "identifier": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hello Baby",
+        "url": "https://mangadex.org/title/523ab7de-2ec8-4e8f-9674-1631a318bb36",
+        "image": "https://uploads.mangadex.org/covers/523ab7de-2ec8-4e8f-9674-1631a318bb36/61b95c6f-8070-4a87-aaf0-beaf74e2ab0f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3107,
+        "aniId": 33107,
+        "createdAt": "2020-10-12T16:03:41.000Z",
+        "updatedAt": "2021-06-02T15:44:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ib919059": {
+        "authors": [],
+        "identifier": "ib919059",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hello To My God",
+        "url": "https://manganelo.com/manga/ib919059",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/459-ib919059.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3107,
+        "aniId": 33107,
+        "createdAt": "2020-10-12T16:23:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hello_baby": {
+        "authors": [
+          "MORITA Masanori"
+        ],
+        "identifier": "hello_baby",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hello Baby",
+        "url": "https://fanfox.net/manga/hello_baby/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6948/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3107,
+        "aniId": 33107,
+        "createdAt": "2021-04-15T00:14:41.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

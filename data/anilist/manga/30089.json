@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "GALS!",
+    "Super Gals!",
+    "ギャルズ"
+  ],
+  "authors": [
+    "Mihona Fujii"
+  ],
+  "id": 30089,
+  "malId": 89,
+  "type": "manga",
+  "title": "GALS!",
+  "url": "https://anilist.co/manga/30089",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30089-GhAXx8Re8nRm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:23.000Z",
+  "updatedAt": "2021-05-20T14:35:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2232103d-e0e0-4bfe-a604-dc811a27f0c2": {
+        "authors": [
+          "Fujii Mihona"
+        ],
+        "identifier": "2232103d-e0e0-4bfe-a604-dc811a27f0c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gals!",
+        "url": "https://mangadex.org/title/2232103d-e0e0-4bfe-a604-dc811a27f0c2",
+        "image": "https://uploads.mangadex.org/covers/2232103d-e0e0-4bfe-a604-dc811a27f0c2/fb344e97-dd9a-47fa-a5b1-9697d7b4696b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89,
+        "aniId": 30089,
+        "createdAt": "2020-10-12T16:05:01.000Z",
+        "updatedAt": "2021-06-03T09:42:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gals": {
+        "authors": [
+          "FUJII Mihona"
+        ],
+        "identifier": "gals",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "GALS!",
+        "url": "https://fanfox.net/manga/gals/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2161/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89,
+        "aniId": 30089,
+        "createdAt": "2021-03-07T04:03:42.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

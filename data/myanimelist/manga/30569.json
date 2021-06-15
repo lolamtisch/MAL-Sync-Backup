@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "骸シャンデリア"
+  ],
+  "authors": [
+    "Rinno, Miki"
+  ],
+  "id": 30569,
+  "type": "manga",
+  "title": "Mukuro Chandelier",
+  "url": "https://myanimelist.net/manga/30569/Mukuro_Chandelier",
+  "image": "https://cdn.myanimelist.net/images/manga/1/53343.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:42.000Z",
+  "updatedAt": "2020-12-24T06:27:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "85613df4-b582-4531-98a8-09736940eb6f": {
+        "authors": [
+          "RINO Miki"
+        ],
+        "identifier": "85613df4-b582-4531-98a8-09736940eb6f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mukuro Chandelier",
+        "url": "https://mangadex.org/title/85613df4-b582-4531-98a8-09736940eb6f",
+        "image": "https://uploads.mangadex.org/covers/85613df4-b582-4531-98a8-09736940eb6f/23c64e5e-0d70-4349-bca6-3be3647e6445.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30569,
+        "aniId": 60569,
+        "createdAt": "2020-10-12T16:06:18.000Z",
+        "updatedAt": "2021-06-03T18:38:28.000Z",
+        "deletedAt": null
+      },
+      "376ce9d6-02e7-4d7d-a28f-ab568bd6dbb8": {
+        "authors": [
+          "Mikawa Miso"
+        ],
+        "identifier": "376ce9d6-02e7-4d7d-a28f-ab568bd6dbb8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chandelier",
+        "url": "https://mangadex.org/title/376ce9d6-02e7-4d7d-a28f-ab568bd6dbb8",
+        "image": "https://uploads.mangadex.org/covers/376ce9d6-02e7-4d7d-a28f-ab568bd6dbb8/1e4e17c1-3f55-43dd-b945-5cea5191f527.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30569,
+        "aniId": 60569,
+        "createdAt": "2020-10-12T16:19:07.000Z",
+        "updatedAt": "2021-06-07T21:24:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mukuro_chandelier": {
+        "authors": [
+          "Rino",
+          "Miki"
+        ],
+        "identifier": "mukuro_chandelier",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mukuro Chandelier",
+        "url": "https://manganelo.com/manga/mukuro_chandelier",
+        "image": "https://avt.mkklcdnv6.com/21/n/3-1583468519.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30569,
+        "aniId": 60569,
+        "createdAt": "2020-11-30T08:52:39.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

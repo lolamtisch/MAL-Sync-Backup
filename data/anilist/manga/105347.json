@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ありがタイツ！"
+  ],
+  "authors": [
+    "Grande"
+  ],
+  "id": 105347,
+  "malId": 118352,
+  "type": "manga",
+  "title": "Arigatights!",
+  "url": "https://anilist.co/manga/105347",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105347-DZHHsprp3pGk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:03.000Z",
+  "updatedAt": "2021-05-20T14:58:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7240d8fc-1131-44ce-ae14-ebd1a6132e27": {
+        "authors": [
+          "Grande"
+        ],
+        "identifier": "7240d8fc-1131-44ce-ae14-ebd1a6132e27",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Arigatights!",
+        "url": "https://mangadex.org/title/7240d8fc-1131-44ce-ae14-ebd1a6132e27",
+        "image": "https://uploads.mangadex.org/covers/7240d8fc-1131-44ce-ae14-ebd1a6132e27/71bae7ea-4dce-43d3-ba54-013314f2eb7b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118352,
+        "aniId": 105347,
+        "createdAt": "2020-10-12T16:14:19.000Z",
+        "updatedAt": "2021-06-06T04:10:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tf917778": {
+        "authors": [],
+        "identifier": "tf917778",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Thanktights",
+        "url": "https://manganelo.com/manga/tf917778",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21392-tf917778.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118352,
+        "aniId": 105347,
+        "createdAt": "2020-10-12T16:25:40.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

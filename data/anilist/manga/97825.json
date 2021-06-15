@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Trap",
+    "TRAP"
+  ],
+  "authors": [
+    "Miu Ootsuki"
+  ],
+  "id": 97825,
+  "malId": 64481,
+  "type": "manga",
+  "title": "Trap",
+  "url": "https://anilist.co/manga/97825",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97825-hQf4XEVqo4zm.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:50:50.000Z",
+  "updatedAt": "2021-06-04T02:21:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "15c2528f-930d-4f81-8cae-441878faa3ae": {
+        "authors": [
+          "Ootsuki Miu"
+        ],
+        "identifier": "15c2528f-930d-4f81-8cae-441878faa3ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trap",
+        "url": "https://mangadex.org/title/15c2528f-930d-4f81-8cae-441878faa3ae",
+        "image": "https://uploads.mangadex.org/covers/15c2528f-930d-4f81-8cae-441878faa3ae/e3b95507-11ef-4879-ba9f-336835742edc.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64481,
+        "aniId": 97825,
+        "createdAt": "2020-10-12T16:07:20.000Z",
+        "updatedAt": "2021-06-04T09:03:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "troll_trap": {
+        "authors": [
+          "Lee",
+          "Won-Seek"
+        ],
+        "identifier": "troll_trap",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Troll Trap",
+        "url": "https://manganelo.com/manga/troll_trap",
+        "image": "https://avt.mkklcdnv6temp.com/13/w/16-1583493972.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64481,
+        "aniId": 97825,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

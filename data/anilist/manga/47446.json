@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "天外福星"
+  ],
+  "authors": [
+    "Eisaku Kubonouchi"
+  ],
+  "id": 47446,
+  "malId": 17446,
+  "type": "manga",
+  "title": "Watanabe",
+  "url": "https://anilist.co/manga/47446",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17446.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:06.000Z",
+  "updatedAt": "2021-05-20T14:44:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c7fba486-9495-48eb-9ec3-0f747917fc0d": {
+        "authors": [
+          "Kubonouchi Eisoku"
+        ],
+        "identifier": "c7fba486-9495-48eb-9ec3-0f747917fc0d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watanabe",
+        "url": "https://mangadex.org/title/c7fba486-9495-48eb-9ec3-0f747917fc0d",
+        "image": "https://uploads.mangadex.org/covers/c7fba486-9495-48eb-9ec3-0f747917fc0d/b5ac9871-69d0-4fba-9f96-39fdb59b59f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17446,
+        "aniId": 47446,
+        "createdAt": "2020-10-12T16:04:23.000Z",
+        "updatedAt": "2021-06-02T20:40:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "montage_watanabe_jun": {
+        "authors": [],
+        "identifier": "montage_watanabe_jun",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Montage (WATANABE Jun)",
+        "url": "https://manganelo.com/manga/montage_watanabe_jun",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/230-montage_watanabe_jun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17446,
+        "aniId": 47446,
+        "createdAt": "2020-10-12T16:24:22.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

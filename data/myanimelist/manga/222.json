@@ -1,0 +1,128 @@
+{
+  "altTitle": [
+    "Le Chevalier d'Eon",
+    "The Knight of Eon",
+    "シュヴァリエ"
+  ],
+  "authors": [
+    "Ubukata, Tow",
+    "Yumeji, Kiriko"
+  ],
+  "id": 222,
+  "type": "manga",
+  "title": "Le Chevalier d'Eon",
+  "url": "https://myanimelist.net/manga/222/Le_Chevalier_dEon",
+  "image": "https://cdn.myanimelist.net/images/manga/1/1068.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:19.000Z",
+  "updatedAt": "2021-04-15T19:44:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ea34c5c0-7534-458a-a922-df1e66b51098": {
+        "authors": [
+          "UBUKATA Tow",
+          "YUMEJI Kiriko"
+        ],
+        "identifier": "ea34c5c0-7534-458a-a922-df1e66b51098",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chevalier",
+        "url": "https://mangadex.org/title/ea34c5c0-7534-458a-a922-df1e66b51098",
+        "image": "https://uploads.mangadex.org/covers/ea34c5c0-7534-458a-a922-df1e66b51098/e8d3dff1-71db-4550-8e5f-951806161a3d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 222,
+        "aniId": 30222,
+        "createdAt": "2020-10-12T16:05:18.000Z",
+        "updatedAt": "2021-06-03T11:35:38.000Z",
+        "deletedAt": null
+      },
+      "da9519ac-43ea-46e0-95c0-c457bd44cec5": {
+        "authors": [
+          "Kim Suo",
+          "Kibap"
+        ],
+        "identifier": "da9519ac-43ea-46e0-95c0-c457bd44cec5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Salieri & Mozart",
+        "url": "https://mangadex.org/title/da9519ac-43ea-46e0-95c0-c457bd44cec5",
+        "image": "https://uploads.mangadex.org/covers/da9519ac-43ea-46e0-95c0-c457bd44cec5/d3ead39b-560b-4a74-9a28-d4daa4a0c9d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 222,
+        "aniId": 30222,
+        "createdAt": "2020-10-12T16:14:07.000Z",
+        "updatedAt": "2021-06-06T02:36:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eon": {
+        "authors": [],
+        "identifier": "eon",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eon",
+        "url": "https://manganelo.com/manga/eon",
+        "image": "https://avt.mkklcdnv6.com/33/g/1-1583465003.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 222,
+        "aniId": 30222,
+        "createdAt": "2020-10-12T16:22:50.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "fdt10051216": {
+        "authors": [],
+        "identifier": "fdt10051216",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Le Chevalier D'eon",
+        "url": "https://manganelo.com/manga/fdt10051216",
+        "image": "https://avt.mkklcdnv6.com/36/x/7-1583477663.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 222,
+        "aniId": 30222,
+        "createdAt": "2020-10-12T16:22:54.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "le-chevalier-deon": {
+        "authors": [
+          "UBUKATA Tow",
+          "YUMEJI Kiriko"
+        ],
+        "identifier": "le-chevalier-deon",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Le Chevalier d'Eon",
+        "url": "https://mangasee123.com/manga/Le-Chevalier-Deon",
+        "image": "https://cover.nep.li/cover/Le-Chevalier-Deon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 222,
+        "aniId": 30222,
+        "createdAt": "2021-04-15T19:44:18.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

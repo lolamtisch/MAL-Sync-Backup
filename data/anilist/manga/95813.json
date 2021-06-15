@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "After the memories",
+    "青春のアフター"
+  ],
+  "authors": [
+    "Midori no Ruupe"
+  ],
+  "id": 95813,
+  "malId": 92262,
+  "type": "manga",
+  "title": "Seishun no After",
+  "url": "https://anilist.co/manga/95813",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95813-j6W9QyZ7YdPk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:38.000Z",
+  "updatedAt": "2021-05-20T14:53:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8d3022fe-db48-49ba-92ce-8d4c813e8ba4": {
+        "authors": [
+          "Midori No Ruupe"
+        ],
+        "identifier": "8d3022fe-db48-49ba-92ce-8d4c813e8ba4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seishun no After",
+        "url": "https://mangadex.org/title/8d3022fe-db48-49ba-92ce-8d4c813e8ba4",
+        "image": "https://uploads.mangadex.org/covers/8d3022fe-db48-49ba-92ce-8d4c813e8ba4/3e993f6c-ed33-40cd-a4d9-8e47d548ed2c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92262,
+        "aniId": 95813,
+        "createdAt": "2020-10-12T16:08:39.000Z",
+        "updatedAt": "2021-06-04T11:39:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "seishun_no_after": {
+        "authors": [
+          "Midori no Ruupe"
+        ],
+        "identifier": "seishun_no_after",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seishun no After",
+        "url": "https://fanfox.net/manga/seishun_no_after/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35631/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92262,
+        "aniId": 95813,
+        "createdAt": "2021-01-09T09:20:42.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "可愛いひと。Cute",
+    "Kawaii Hito - Cute"
+  ],
+  "authors": [
+    "Erii Misono",
+    "Mizumi Takaoka"
+  ],
+  "id": 41523,
+  "malId": 11523,
+  "type": "manga",
+  "title": "Kawaii Hito. Cute",
+  "url": "https://anilist.co/manga/41523",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41523-eCBE3fCGnQ7Q.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:11.000Z",
+  "updatedAt": "2021-05-20T14:42:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ccad19b9-76c6-4535-9a84-deabd25cfd5e": {
+        "authors": [
+          "Hatta Akari"
+        ],
+        "identifier": "ccad19b9-76c6-4535-9a84-deabd25cfd5e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chorokute Kawaii",
+        "url": "https://mangadex.org/title/ccad19b9-76c6-4535-9a84-deabd25cfd5e",
+        "image": "https://uploads.mangadex.org/covers/ccad19b9-76c6-4535-9a84-deabd25cfd5e/db39794b-a01c-4f33-843a-3666039ef521.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11523,
+        "aniId": 41523,
+        "createdAt": "2020-10-12T16:16:38.000Z",
+        "updatedAt": "2021-06-07T00:28:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

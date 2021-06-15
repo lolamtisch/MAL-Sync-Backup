@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "カタコイ",
+    "Unrequited Love"
+  ],
+  "authors": [
+    "Jun Nanri"
+  ],
+  "id": 69687,
+  "malId": 39687,
+  "type": "manga",
+  "title": "Katakoi",
+  "url": "https://anilist.co/manga/69687",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39687.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:53:50.000Z",
+  "updatedAt": "2021-06-04T16:53:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dbd45ff2-2731-48e7-9304-0aa24739b5ac": {
+        "authors": [
+          "NANRI Jun"
+        ],
+        "identifier": "dbd45ff2-2731-48e7-9304-0aa24739b5ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Katakoi",
+        "url": "https://mangadex.org/title/dbd45ff2-2731-48e7-9304-0aa24739b5ac",
+        "image": "https://uploads.mangadex.org/covers/dbd45ff2-2731-48e7-9304-0aa24739b5ac/4d0363e7-2d73-4adc-a60b-2c6c1c1cb494.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39687,
+        "aniId": 69687,
+        "createdAt": "2020-10-12T16:09:19.000Z",
+        "updatedAt": "2021-06-04T18:37:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

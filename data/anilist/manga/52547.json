@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "SiESTA 시에스타",
+    "シエスタ"
+  ],
+  "authors": [
+    "Young-You Lee"
+  ],
+  "id": 52547,
+  "malId": 22547,
+  "type": "manga",
+  "title": "SiESTA",
+  "url": "https://anilist.co/manga/52547",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22547.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:30.000Z",
+  "updatedAt": "2021-05-20T14:46:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "93b1870f-1655-45ce-b762-159d13aa7753": {
+        "authors": [
+          "Lee Young-You"
+        ],
+        "identifier": "93b1870f-1655-45ce-b762-159d13aa7753",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Siesta",
+        "url": "https://mangadex.org/title/93b1870f-1655-45ce-b762-159d13aa7753",
+        "image": "https://uploads.mangadex.org/covers/93b1870f-1655-45ce-b762-159d13aa7753/d2955274-2dd8-4fce-a02b-6f17f064ffc5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22547,
+        "aniId": 52547,
+        "createdAt": "2020-10-12T16:06:09.000Z",
+        "updatedAt": "2021-06-03T17:36:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

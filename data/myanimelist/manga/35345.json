@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "秘密ごと"
+  ],
+  "authors": [
+    "Kikuya, Kikuko"
+  ],
+  "id": 35345,
+  "type": "manga",
+  "title": "Himitsugoto",
+  "url": "https://myanimelist.net/manga/35345/Himitsugoto",
+  "image": "https://cdn.myanimelist.net/images/manga/1/64201.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-04-12T19:49:40.000Z",
+  "updatedAt": "2021-06-04T10:20:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fbb3acef-4235-40d6-bae4-bb8a9a5c4119": {
+        "authors": [
+          "Kikuya Kikuko"
+        ],
+        "identifier": "fbb3acef-4235-40d6-bae4-bb8a9a5c4119",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himitsugoto",
+        "url": "https://mangadex.org/title/fbb3acef-4235-40d6-bae4-bb8a9a5c4119",
+        "image": "https://uploads.mangadex.org/covers/fbb3acef-4235-40d6-bae4-bb8a9a5c4119/82e5d305-30ff-4b81-b685-c67540ded669.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35345,
+        "aniId": 65345,
+        "createdAt": "2020-10-12T16:08:27.000Z",
+        "updatedAt": "2021-06-04T12:47:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "himitsugoto": {
+        "authors": [
+          "Kikuya",
+          "Kikuko"
+        ],
+        "identifier": "himitsugoto",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Himitsugoto",
+        "url": "https://manganelo.com/manga/himitsugoto",
+        "image": "https://avt.mkklcdnv6temp.com/49/z/7-1583478174.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35345,
+        "aniId": 65345,
+        "createdAt": "2021-04-12T19:49:40.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ジュラシック学園"
+  ],
+  "authors": [
+    "Kobori, Makoto"
+  ],
+  "id": 98638,
+  "type": "manga",
+  "title": "Jurassic Gakuen",
+  "url": "https://myanimelist.net/manga/98638/Jurassic_Gakuen",
+  "image": "https://cdn.myanimelist.net/images/manga/3/177467.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:31.000Z",
+  "updatedAt": "2021-03-16T19:32:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7837dd7e-946f-4e8b-b210-fc3c10c410a5": {
+        "authors": [
+          "Kobori Makoto"
+        ],
+        "identifier": "7837dd7e-946f-4e8b-b210-fc3c10c410a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jurassic Academy",
+        "url": "https://mangadex.org/title/7837dd7e-946f-4e8b-b210-fc3c10c410a5",
+        "image": "https://uploads.mangadex.org/covers/7837dd7e-946f-4e8b-b210-fc3c10c410a5/458cfca3-8f4f-4377-9f4a-b99a339cfb24.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98638,
+        "aniId": 87204,
+        "createdAt": "2020-10-12T16:09:46.000Z",
+        "updatedAt": "2021-06-04T19:53:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jurassic_gakuen": {
+        "authors": [
+          "Kobori",
+          "Makoto"
+        ],
+        "identifier": "jurassic_gakuen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jurassic Gakuen",
+        "url": "https://manganelo.com/manga/jurassic_gakuen",
+        "image": "https://avt.mkklcdnv6temp.com/43/v/13-1583489368.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98638,
+        "aniId": 87204,
+        "createdAt": "2021-03-16T19:32:52.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

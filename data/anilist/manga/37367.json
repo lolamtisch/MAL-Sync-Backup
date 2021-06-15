@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Ai Ueno"
+  ],
+  "id": 37367,
+  "malId": 7367,
+  "type": "manga",
+  "title": "Mahou no Te ni Notte",
+  "url": "https://anilist.co/manga/37367",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7367.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:54:40.000Z",
+  "updatedAt": "2021-06-04T16:54:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d251596b-311b-42d4-934a-fd70ae017b51": {
+        "authors": [
+          "Ueno Ai"
+        ],
+        "identifier": "d251596b-311b-42d4-934a-fd70ae017b51",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou No Te Ni Notte",
+        "url": "https://mangadex.org/title/d251596b-311b-42d4-934a-fd70ae017b51",
+        "image": "https://uploads.mangadex.org/covers/d251596b-311b-42d4-934a-fd70ae017b51/0607497e-321e-4315-84db-1708f11bc4bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7367,
+        "aniId": 37367,
+        "createdAt": "2020-10-12T16:09:18.000Z",
+        "updatedAt": "2021-06-04T22:11:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

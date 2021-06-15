@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ベタカレ"
+  ],
+  "authors": [
+    "Kotetsuko Yamamoto"
+  ],
+  "id": 91331,
+  "malId": 71121,
+  "type": "manga",
+  "title": "Beta-Kare",
+  "url": "https://anilist.co/manga/91331",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b91331-vmNpNp1VjHuK.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:32.000Z",
+  "updatedAt": "2021-05-20T14:51:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5e853107-9a79-4c74-82ef-b65e6a9d8f67": {
+        "authors": [
+          "Yamamoto Kotetsuko"
+        ],
+        "identifier": "5e853107-9a79-4c74-82ef-b65e6a9d8f67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Beta Kare",
+        "url": "https://mangadex.org/title/5e853107-9a79-4c74-82ef-b65e6a9d8f67",
+        "image": "https://uploads.mangadex.org/covers/5e853107-9a79-4c74-82ef-b65e6a9d8f67/0f3f9645-da58-4a8a-96e4-dd57be1c5c83.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71121,
+        "aniId": 91331,
+        "createdAt": "2020-10-12T16:09:42.000Z",
+        "updatedAt": "2021-06-04T19:26:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

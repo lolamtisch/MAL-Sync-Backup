@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "七つのくるり"
+  ],
+  "authors": [
+    "Chika Shiomi"
+  ],
+  "id": 85570,
+  "malId": 57783,
+  "type": "manga",
+  "title": "Nanatsu no Kururi",
+  "url": "https://anilist.co/manga/85570",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55570.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T18:18:58.000Z",
+  "updatedAt": "2021-06-05T18:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c6ca6a1b-6346-4c38-aada-99fb67698818": {
+        "authors": [
+          "SHIOMI Chika"
+        ],
+        "identifier": "c6ca6a1b-6346-4c38-aada-99fb67698818",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nanatsu no Kururi",
+        "url": "https://mangadex.org/title/c6ca6a1b-6346-4c38-aada-99fb67698818",
+        "image": "",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57783,
+        "aniId": 85570,
+        "createdAt": "2020-10-12T16:12:58.000Z",
+        "updatedAt": "2021-06-05T18:24:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

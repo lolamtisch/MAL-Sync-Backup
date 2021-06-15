@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "恋の檻、蜜の鎖",
+    "Caged by Love",
+    "Shackled by Honey"
+  ],
+  "authors": [
+    "Haruka Momozuki"
+  ],
+  "id": 51718,
+  "malId": 21718,
+  "type": "manga",
+  "title": "Koi no Ori Mitsu no Kusari",
+  "url": "https://anilist.co/manga/51718",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21718.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:45.000Z",
+  "updatedAt": "2021-05-20T14:45:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c9867f7e-3b54-4058-ae22-e84bb14f7626": {
+        "authors": [
+          "Momozuki Haruka"
+        ],
+        "identifier": "c9867f7e-3b54-4058-ae22-e84bb14f7626",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi no Ori Mitsu no Kusari",
+        "url": "https://mangadex.org/title/c9867f7e-3b54-4058-ae22-e84bb14f7626",
+        "image": "https://uploads.mangadex.org/covers/c9867f7e-3b54-4058-ae22-e84bb14f7626/ac1d0ff1-acb5-471c-a67a-f468fb9f9f89.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21718,
+        "aniId": 51718,
+        "createdAt": "2020-10-30T08:42:16.000Z",
+        "updatedAt": "2021-06-08T06:22:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

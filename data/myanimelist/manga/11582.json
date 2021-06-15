@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Witch",
+    "ウィッチ -W.I.T.C.H.-"
+  ],
+  "authors": [
+    "Iida, Haruko"
+  ],
+  "id": 11582,
+  "type": "manga",
+  "title": "W.I.T.C.H.",
+  "url": "https://myanimelist.net/manga/11582/WITCH",
+  "image": "https://cdn.myanimelist.net/images/manga/2/212098.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:34.000Z",
+  "updatedAt": "2021-06-04T20:21:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "98e604a4-7d46-4d64-a487-6ad68a5df0b7": {
+        "authors": [
+          "Elisabetta Gnone",
+          "Alessandro Barbucci"
+        ],
+        "identifier": "98e604a4-7d46-4d64-a487-6ad68a5df0b7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "W.I.T.C.H.",
+        "url": "https://mangadex.org/title/98e604a4-7d46-4d64-a487-6ad68a5df0b7",
+        "image": "https://uploads.mangadex.org/covers/98e604a4-7d46-4d64-a487-6ad68a5df0b7/9bd64cd9-4413-4a54-a7b3-9157dfb25faa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11582,
+        "aniId": 41582,
+        "createdAt": "2020-10-12T16:09:48.000Z",
+        "updatedAt": "2021-06-04T20:43:36.000Z",
+        "deletedAt": null
+      },
+      "bca559d6-1b61-466c-ae3b-3c37d43d36c3": {
+        "authors": [
+          "Iida Haruko"
+        ],
+        "identifier": "bca559d6-1b61-466c-ae3b-3c37d43d36c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "W.I.T.C.H",
+        "url": "https://mangadex.org/title/bca559d6-1b61-466c-ae3b-3c37d43d36c3",
+        "image": "https://uploads.mangadex.org/covers/bca559d6-1b61-466c-ae3b-3c37d43d36c3/24d07ffc-a2e6-41ac-b9e8-bea2669bbd26.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11582,
+        "aniId": 41582,
+        "createdAt": "2020-10-12T16:20:41.000Z",
+        "updatedAt": "2021-06-08T00:34:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

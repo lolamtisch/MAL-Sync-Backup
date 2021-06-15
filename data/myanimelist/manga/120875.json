@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Your Letter",
+    "Yeon-ui Pyeonji, Yeon's Letter",
+    "연의 편지"
+  ],
+  "authors": [
+    "Cho, Hyun-ah"
+  ],
+  "id": 120875,
+  "type": "manga",
+  "title": "Your Letter",
+  "url": "https://myanimelist.net/manga/120875/Your_Letter",
+  "image": "https://cdn.myanimelist.net/images/manga/2/222246.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2021-03-12T17:09:08.000Z",
+  "updatedAt": "2021-06-05T17:20:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c13e3bdb-d3ca-4e76-a3e0-a2aaf2bf04b8": {
+        "authors": [
+          "Hyeon A Cho"
+        ],
+        "identifier": "c13e3bdb-d3ca-4e76-a3e0-a2aaf2bf04b8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yeon's Letters",
+        "url": "https://mangadex.org/title/c13e3bdb-d3ca-4e76-a3e0-a2aaf2bf04b8",
+        "image": "https://uploads.mangadex.org/covers/c13e3bdb-d3ca-4e76-a3e0-a2aaf2bf04b8/65cb03b8-c010-442e-8d8d-428b038b06e0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120875,
+        "aniId": 109398,
+        "createdAt": "2020-10-12T16:14:13.000Z",
+        "updatedAt": "2021-06-06T10:06:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "your_letter": {
+        "authors": [
+          "Hyeon A Cho"
+        ],
+        "identifier": "your_letter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Your Letter",
+        "url": "https://fanfox.net/manga/your_letter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32966/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120875,
+        "aniId": 109398,
+        "createdAt": "2021-04-30T06:19:24.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dh981042": {
+        "authors": [
+          "Hyeon A Cho"
+        ],
+        "identifier": "manga-dh981042",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yeon's Letters",
+        "url": "https://manganato.com/manga-dh981042",
+        "image": "https://avt.mkklcdnv6temp.com/50/p/17-1583497095.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 120875,
+        "aniId": 109398,
+        "createdAt": "2021-06-09T08:34:14.000Z",
+        "updatedAt": "2021-06-09T09:04:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

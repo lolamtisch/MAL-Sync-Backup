@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Angel Sanctuary",
+    "天使禁猟区",
+    "Tenkin"
+  ],
+  "authors": [
+    "Kaori Yuki"
+  ],
+  "id": 30448,
+  "malId": 448,
+  "type": "manga",
+  "title": "Tenshi Kinryouku",
+  "url": "https://anilist.co/manga/30448",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30448-yNv8uiu3dXg6.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33d8b4d3-8fbd-4572-8bbb-c2f9a191f37a": {
+        "authors": [
+          "Yuki Kaori"
+        ],
+        "identifier": "33d8b4d3-8fbd-4572-8bbb-c2f9a191f37a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenshi Kinryouku",
+        "url": "https://mangadex.org/title/33d8b4d3-8fbd-4572-8bbb-c2f9a191f37a",
+        "image": "https://uploads.mangadex.org/covers/33d8b4d3-8fbd-4572-8bbb-c2f9a191f37a/0e4eb2d8-91fb-4acc-890b-0f6ebdf0b14a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 448,
+        "aniId": 30448,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:21:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tenshi-kinryouku": {
+        "authors": [
+          "YUKI Kaori"
+        ],
+        "identifier": "tenshi-kinryouku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tenshi Kinryouku",
+        "url": "https://mangasee123.com/manga/Tenshi-Kinryouku",
+        "image": "https://cover.nep.li/cover/Tenshi-Kinryouku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 448,
+        "aniId": 30448,
+        "createdAt": "2021-02-10T13:10:43.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "angel_sanctuary": {
+        "authors": [
+          "YUKI Kaori"
+        ],
+        "identifier": "angel_sanctuary",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Angel Sanctuary",
+        "url": "https://fanfox.net/manga/angel_sanctuary/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 448,
+        "aniId": 30448,
+        "createdAt": "2021-03-18T06:03:04.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

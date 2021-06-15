@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "もりのくらし"
+  ],
+  "authors": [
+    "Naomi Watari",
+    "Bohra Naono"
+  ],
+  "id": 88636,
+  "malId": 58597,
+  "type": "manga",
+  "title": "Mori no Kurashi",
+  "url": "https://anilist.co/manga/88636",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88636-esVkSnHoS1A4.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:33.000Z",
+  "updatedAt": "2021-05-20T14:50:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a7f14ab3-7879-4798-b190-8236af6637f9": {
+        "authors": [
+          "Naono Bohra",
+          "Watari Naomi"
+        ],
+        "identifier": "a7f14ab3-7879-4798-b190-8236af6637f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mori no Kurashi",
+        "url": "https://mangadex.org/title/a7f14ab3-7879-4798-b190-8236af6637f9",
+        "image": "https://uploads.mangadex.org/covers/a7f14ab3-7879-4798-b190-8236af6637f9/cd96e663-516b-4ea4-a21e-11947537d9e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58597,
+        "aniId": 88636,
+        "createdAt": "2020-11-23T14:26:29.000Z",
+        "updatedAt": "2021-06-08T07:35:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

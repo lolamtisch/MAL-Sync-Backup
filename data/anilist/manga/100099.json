@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "味噌汁でカンパイ！",
+    "Let's Have Some Soup",
+    "Seishun Re:verse",
+    "Have a Sip of Miso Soup"
+  ],
+  "authors": [
+    "Sai Sasano"
+  ],
+  "id": 100099,
+  "malId": 103725,
+  "type": "manga",
+  "title": "Misoshiru de Kanpai!",
+  "url": "https://anilist.co/manga/100099",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100099-y5hXTyt6qIcO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:05.000Z",
+  "updatedAt": "2021-05-20T14:55:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "26c4a83f-4078-431b-b862-820c452bb278": {
+        "authors": [
+          "Sasano Sai"
+        ],
+        "identifier": "26c4a83f-4078-431b-b862-820c452bb278",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Misoshiru de Kanpai!",
+        "url": "https://mangadex.org/title/26c4a83f-4078-431b-b862-820c452bb278",
+        "image": "https://uploads.mangadex.org/covers/26c4a83f-4078-431b-b862-820c452bb278/9467b41b-a57d-46e0-9007-0338282715ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103725,
+        "aniId": 100099,
+        "createdAt": "2020-10-12T16:11:00.000Z",
+        "updatedAt": "2021-06-05T04:58:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "misoshiru_de_kanpai": {
+        "authors": [],
+        "identifier": "misoshiru_de_kanpai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Misoshiru de Kanpai!",
+        "url": "https://manganelo.com/manga/misoshiru_de_kanpai/",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19430-misoshiru_de_kanpai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103725,
+        "aniId": 100099,
+        "createdAt": "2020-10-12T16:24:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "misoshiru_de_kanpai": {
+        "authors": [
+          "SASANO Sai"
+        ],
+        "identifier": "misoshiru_de_kanpai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Misoshiru de Kanpai!",
+        "url": "https://fanfox.net/manga/misoshiru_de_kanpai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26461/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103725,
+        "aniId": 100099,
+        "createdAt": "2021-04-27T02:51:04.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

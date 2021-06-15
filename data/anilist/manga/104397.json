@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ただただ好きというだけで",
+    "Juste parce que je t'aime"
+  ],
+  "authors": [
+    "Honoji Tokita"
+  ],
+  "id": 104397,
+  "malId": 113591,
+  "type": "manga",
+  "title": "Tadatada Suki to Iu Dake de",
+  "url": "https://anilist.co/manga/104397",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104397-6K6SY4o1QYKr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T14:20:59.000Z",
+  "updatedAt": "2021-06-05T14:20:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "04d39cbe-5356-46d4-bd6f-a76565c626f7": {
+        "authors": [
+          "Tokita Honoji"
+        ],
+        "identifier": "04d39cbe-5356-46d4-bd6f-a76565c626f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tadatada Suki to Iu Dake de",
+        "url": "https://mangadex.org/title/04d39cbe-5356-46d4-bd6f-a76565c626f7",
+        "image": "https://uploads.mangadex.org/covers/04d39cbe-5356-46d4-bd6f-a76565c626f7/4bc87640-b190-4a12-84ae-eb2e00026364.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113591,
+        "aniId": 104397,
+        "createdAt": "2020-10-12T16:12:14.000Z",
+        "updatedAt": "2021-06-05T15:29:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

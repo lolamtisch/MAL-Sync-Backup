@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "AURORA"
+  ],
+  "authors": [
+    "Tadataka Kawasaki"
+  ],
+  "id": 93975,
+  "malId": 86435,
+  "type": "manga",
+  "title": "Aurora",
+  "url": "https://anilist.co/manga/93975",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93975-v8zH1ql80O5B.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:52:44.000Z",
+  "updatedAt": "2021-05-20T14:52:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5eb40873-b075-4130-9820-d45f7eb4c6c6": {
+        "authors": [
+          "Transient Melody (circle)",
+          "Kawasaki Tadataka"
+        ],
+        "identifier": "5eb40873-b075-4130-9820-d45f7eb4c6c6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "AURORA",
+        "url": "https://mangadex.org/title/5eb40873-b075-4130-9820-d45f7eb4c6c6",
+        "image": "https://uploads.mangadex.org/covers/5eb40873-b075-4130-9820-d45f7eb4c6c6/4dbdfd1d-13f2-4f88-83ed-3b945efb3b8b.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86435,
+        "aniId": 93975,
+        "createdAt": "2020-10-12T16:14:31.000Z",
+        "updatedAt": "2021-06-06T05:43:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

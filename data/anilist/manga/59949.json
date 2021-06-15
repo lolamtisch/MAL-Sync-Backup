@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "女装少年アンソロジーコミック 白組",
+    "Josou Shounen Anthologies",
+    "Onna no Ko Keikaku"
+  ],
+  "authors": [
+    "Rikako Inomoto",
+    "Risumai",
+    "Toko Mizuki",
+    "Takeshi Moriki",
+    "Koroha Kiritomo",
+    "Yuu Eichi",
+    "Haruka Ogataya"
+  ],
+  "id": 59949,
+  "malId": 29949,
+  "type": "manga",
+  "title": "Josou Shounen Anthology Comic: Shiro-gumi",
+  "url": "https://anilist.co/manga/59949",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx59949-MZUXeBTYHRwt.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:39.000Z",
+  "updatedAt": "2021-05-20T14:47:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f975338c-14d6-4467-9322-678ed0808c6f": {
+        "authors": [
+          "Various"
+        ],
+        "identifier": "f975338c-14d6-4467-9322-678ed0808c6f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Josou Shounen Anthology Comic",
+        "url": "https://mangadex.org/title/f975338c-14d6-4467-9322-678ed0808c6f",
+        "image": "https://uploads.mangadex.org/covers/f975338c-14d6-4467-9322-678ed0808c6f/8351cf6d-0d92-474c-9db9-92c8963e44d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29949,
+        "aniId": 59949,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:03:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "josou_shounen_anthology_comic": {
+        "authors": [],
+        "identifier": "josou_shounen_anthology_comic",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Josou Shounen Anthology Comic",
+        "url": "https://manganelo.com/manga/josou_shounen_anthology_comic",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2108-josou_shounen_anthology_comic.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29949,
+        "aniId": 59949,
+        "createdAt": "2020-10-12T16:23:44.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

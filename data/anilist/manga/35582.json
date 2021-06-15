@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "山本耳かき店",
+    "Yamamoto's Ear Cleaning Shop",
+    "Mimikaki - L'étrange volupté auriculaire"
+  ],
+  "authors": [
+    "Yarou Abe",
+    "Miyako Slocombe"
+  ],
+  "id": 35582,
+  "malId": 5582,
+  "type": "manga",
+  "title": "Yamamoto Mimikaki-ten",
+  "url": "https://anilist.co/manga/35582",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b35582-pPFugEWzDWcv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-05-20T14:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9": {
+        "authors": [
+          "Abe Yarou"
+        ],
+        "identifier": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yamamoto's Ear Cleaning Shop",
+        "url": "https://mangadex.org/title/7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
+        "image": "https://uploads.mangadex.org/covers/7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9/904ba646-8851-4a4a-a739-5c2c1f4008c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5582,
+        "aniId": 35582,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:29:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Romance Papa",
+    "로맨스 파파"
+  ],
+  "authors": [
+    "Youngran Lee"
+  ],
+  "id": 35918,
+  "malId": 5918,
+  "type": "manga",
+  "title": "Romance Papa",
+  "url": "https://anilist.co/manga/35918",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5918.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:35.000Z",
+  "updatedAt": "2021-05-20T14:39:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "08e9267e-89f1-4e30-8ecc-fc7d57f6ca52": {
+        "authors": [
+          "LEE Youngran"
+        ],
+        "identifier": "08e9267e-89f1-4e30-8ecc-fc7d57f6ca52",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Romance Papa",
+        "url": "https://mangadex.org/title/08e9267e-89f1-4e30-8ecc-fc7d57f6ca52",
+        "image": "https://uploads.mangadex.org/covers/08e9267e-89f1-4e30-8ecc-fc7d57f6ca52/6416f502-9191-4c26-a5c1-36ee0d68ceb1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5918,
+        "aniId": 35918,
+        "createdAt": "2020-10-12T16:08:05.000Z",
+        "updatedAt": "2021-06-04T07:25:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

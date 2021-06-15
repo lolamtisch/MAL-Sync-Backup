@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Atlantis at Home",
+    "自宅でアトランテイス",
+    "Jitaku de Atlantis"
+  ],
+  "authors": [
+    "Satoru Matsubayashi"
+  ],
+  "id": 37645,
+  "malId": 7645,
+  "type": "manga",
+  "title": "Atlantis at Home",
+  "url": "https://anilist.co/manga/37645",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7645.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:53.000Z",
+  "updatedAt": "2021-05-20T14:39:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3c87c7a3-611a-42ec-b395-756cda3b1f5f": {
+        "authors": [
+          "Matsubayashi Satoru"
+        ],
+        "identifier": "3c87c7a3-611a-42ec-b395-756cda3b1f5f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jitaku de Atlantis",
+        "url": "https://mangadex.org/title/3c87c7a3-611a-42ec-b395-756cda3b1f5f",
+        "image": "https://uploads.mangadex.org/covers/3c87c7a3-611a-42ec-b395-756cda3b1f5f/35f5c067-9843-4a37-85c6-63838fd2dc91.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7645,
+        "aniId": 37645,
+        "createdAt": "2020-10-12T16:11:32.000Z",
+        "updatedAt": "2021-06-05T09:05:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

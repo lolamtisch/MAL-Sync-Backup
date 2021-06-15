@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "The Eccentric Family",
+    "有頂天家族",
+    "Uchoten Kazoku"
+  ],
+  "authors": [
+    "Tomihiko Morimi",
+    "Yuu Okada",
+    "Kouji Kumeta"
+  ],
+  "id": 88499,
+  "malId": 57789,
+  "type": "manga",
+  "title": "Uchouten Kazoku",
+  "url": "https://anilist.co/manga/88499",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88499-lPEZKXJprjlT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:32.000Z",
+  "updatedAt": "2021-05-20T14:50:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a0ef17b6-597f-45d7-9f36-554cda0acea9": {
+        "authors": [
+          "Morimi Tomihiko",
+          "Okada Yuu"
+        ],
+        "identifier": "a0ef17b6-597f-45d7-9f36-554cda0acea9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uchouten Kazoku",
+        "url": "https://mangadex.org/title/a0ef17b6-597f-45d7-9f36-554cda0acea9",
+        "image": "https://uploads.mangadex.org/covers/a0ef17b6-597f-45d7-9f36-554cda0acea9/bf28d6b3-cbd4-45eb-9ee0-f9dda651ff39.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57789,
+        "aniId": 88499,
+        "createdAt": "2020-10-12T16:07:22.000Z",
+        "updatedAt": "2021-06-04T02:24:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "uchouten_kazoku": {
+        "authors": [
+          "MORIMI Tomihiko"
+        ],
+        "identifier": "uchouten_kazoku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Uchouten Kazoku",
+        "url": "https://fanfox.net/manga/uchouten_kazoku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36780/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57789,
+        "aniId": 88499,
+        "createdAt": "2021-01-27T23:44:14.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

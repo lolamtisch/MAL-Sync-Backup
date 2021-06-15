@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Cross Epoch",
+    "CROSS EPOCH クロス エポック"
+  ],
+  "authors": [
+    "Oda, Eiichiro",
+    "Toriyama, Akira"
+  ],
+  "id": 881,
+  "type": "manga",
+  "title": "Cross Epoch",
+  "url": "https://myanimelist.net/manga/881/Cross_Epoch",
+  "image": "https://cdn.myanimelist.net/images/manga/5/148053.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:27.000Z",
+  "updatedAt": "2021-04-02T17:01:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c6236b0-0fd7-4926-8a1a-cc346a6627e3": {
+        "authors": [
+          "ODA Eiichiro",
+          "TORIYAMA Akira"
+        ],
+        "identifier": "6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dragon Ball X One Piece - Cross Epoch",
+        "url": "https://mangadex.org/title/6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
+        "image": "https://uploads.mangadex.org/covers/6c6236b0-0fd7-4926-8a1a-cc346a6627e3/3c3921b0-8c25-44e0-b776-64eeffb9bb36.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 881,
+        "aniId": 30881,
+        "createdAt": "2020-10-12T16:04:57.000Z",
+        "updatedAt": "2021-06-03T00:36:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cross_epoch": {
+        "authors": [
+          "TORIYAMA Akira",
+          "ODA Eiichiro"
+        ],
+        "identifier": "cross_epoch",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cross Epoch",
+        "url": "https://fanfox.net/manga/cross_epoch/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3942/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 881,
+        "aniId": 30881,
+        "createdAt": "2021-04-02T17:01:27.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Sword Art Online: Ordinal Scale",
+    "劇場版 ソードアート・オンライン -オーディナル・スケール-"
+  ],
+  "authors": [
+    "IsII",
+    "Reki Kawahara",
+    "BUNBUN"
+  ],
+  "id": 106537,
+  "malId": 103244,
+  "type": "manga",
+  "title": "Gekijouban Sword Art Online: Ordinal Scale",
+  "url": "https://anilist.co/manga/106537",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106537-QC36IgPQKYZr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:02.000Z",
+  "updatedAt": "2021-05-20T14:55:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48b44619-f2c9-4f21-ba7c-efb0f23d2082": {
+        "authors": [
+          "IsII",
+          "KAWAHARA Reki"
+        ],
+        "identifier": "48b44619-f2c9-4f21-ba7c-efb0f23d2082",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sword Art Online - Ordinal Scale",
+        "url": "https://mangadex.org/title/48b44619-f2c9-4f21-ba7c-efb0f23d2082",
+        "image": "https://uploads.mangadex.org/covers/48b44619-f2c9-4f21-ba7c-efb0f23d2082/121ba7b6-7365-4db5-ac7f-0034e6419aa4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103244,
+        "aniId": 106537,
+        "createdAt": "2020-10-12T16:11:29.000Z",
+        "updatedAt": "2021-06-05T08:41:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sword-art-online-ordinal-scale": {
+        "authors": [
+          "KAWAHARA Reki"
+        ],
+        "identifier": "sword-art-online-ordinal-scale",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sword Art Online - Ordinal Scale",
+        "url": "https://mangasee123.com/manga/Sword-Art-Online-Ordinal-Scale",
+        "image": "https://cover.nep.li/cover/Sword-Art-Online-Ordinal-Scale.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 103244,
+        "aniId": 106537,
+        "createdAt": "2021-03-19T19:04:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

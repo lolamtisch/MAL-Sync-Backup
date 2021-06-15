@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Gatcha Gacha",
+    "ガッチャガチャ"
+  ],
+  "authors": [
+    "Yutaka Tachibana"
+  ],
+  "id": 30319,
+  "malId": 319,
+  "type": "manga",
+  "title": "Gaccha Gacha",
+  "url": "https://anilist.co/manga/30319",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30319-dR88wVrkAhVN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "37e7e4f1-68bc-444d-9fc5-739843160794": {
+        "authors": [
+          "Tachibana Yutaka"
+        ],
+        "identifier": "37e7e4f1-68bc-444d-9fc5-739843160794",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gaccha Gacha",
+        "url": "https://mangadex.org/title/37e7e4f1-68bc-444d-9fc5-739843160794",
+        "image": "https://uploads.mangadex.org/covers/37e7e4f1-68bc-444d-9fc5-739843160794/41b8d739-56dd-4d38-9609-72628b447c98.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 319,
+        "aniId": 30319,
+        "createdAt": "2020-10-12T16:09:16.000Z",
+        "updatedAt": "2021-06-04T16:22:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gaccha_gacha": {
+        "authors": [
+          "Tachibana",
+          "Yutaka"
+        ],
+        "identifier": "gaccha_gacha",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gaccha Gacha",
+        "url": "https://manganelo.com/manga/gaccha_gacha",
+        "image": "https://avt.mkklcdnv6temp.com/38/p/12-1583487283.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 319,
+        "aniId": 30319,
+        "createdAt": "2021-02-19T20:03:42.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

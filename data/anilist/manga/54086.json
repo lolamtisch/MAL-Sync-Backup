@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "あしたのファミリア",
+    "Tomorrow Familia"
+  ],
+  "authors": [
+    "Akihiko Higuchi"
+  ],
+  "id": 54086,
+  "malId": 24086,
+  "type": "manga",
+  "title": "Ashita No Familia",
+  "url": "https://anilist.co/manga/54086",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24086.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:42.000Z",
+  "updatedAt": "2021-05-20T14:46:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb32e78d-3a38-47f1-935a-3007c17e8d43": {
+        "authors": [
+          "Higuchi Akihiko"
+        ],
+        "identifier": "eb32e78d-3a38-47f1-935a-3007c17e8d43",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ashita no Familia",
+        "url": "https://mangadex.org/title/eb32e78d-3a38-47f1-935a-3007c17e8d43",
+        "image": "https://uploads.mangadex.org/covers/eb32e78d-3a38-47f1-935a-3007c17e8d43/b1a9409c-c3f8-487f-83a0-321b4fb9cdc0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24086,
+        "aniId": 54086,
+        "createdAt": "2020-10-12T16:05:24.000Z",
+        "updatedAt": "2021-06-03T12:24:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ashita_no_familia": {
+        "authors": [],
+        "identifier": "ashita_no_familia",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ashita No Familia",
+        "url": "https://manganelo.com/manga/ashita_no_familia",
+        "image": "https://avt.mkklcdnv6.com/25/i/2-1583466680.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24086,
+        "aniId": 54086,
+        "createdAt": "2020-10-12T16:22:09.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

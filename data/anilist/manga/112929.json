@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "花燭の白",
+    "The White of a Flower Lamp"
+  ],
+  "authors": [
+    "Shinobu Takayama"
+  ],
+  "id": 112929,
+  "malId": null,
+  "type": "manga",
+  "title": "Kashoku no Shiro",
+  "url": "https://anilist.co/manga/112929",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112929-37iG1M4U62SE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T12:25:32.000Z",
+  "updatedAt": "2021-06-08T12:25:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3d8e3b97-c875-4090-b52c-1b5a63f591a9": {
+        "authors": [
+          "TAKAYAMA Shinobu"
+        ],
+        "identifier": "3d8e3b97-c875-4090-b52c-1b5a63f591a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "White of a Wedding Ceremony",
+        "url": "https://mangadex.org/title/3d8e3b97-c875-4090-b52c-1b5a63f591a9",
+        "image": "https://uploads.mangadex.org/covers/3d8e3b97-c875-4090-b52c-1b5a63f591a9/1d09f608-cd8a-4997-85cb-89a1f911cce7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112929,
+        "createdAt": "2021-02-26T18:26:10.000Z",
+        "updatedAt": "2021-06-08T13:40:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

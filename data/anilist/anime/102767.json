@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "FANTASY"
+  ],
+  "id": 102767,
+  "malId": 31831,
+  "type": "anime",
+  "title": "Fantasy",
+  "url": "https://anilist.co/anime/102767",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102767-ZlB8mVgw2dQh.png",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:57.000Z",
+  "updatedAt": "2021-05-20T14:42:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "kno9": {
+        "identifier": "kno9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fantasy",
+        "url": "https://9anime.ru/watch/fantasy.kno9",
+        "image": "https://static.akacdn.ru/files/images/2018/09/1dd87d219b1ad192c6c93eee168cd55e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31831,
+        "aniId": 102767,
+        "createdAt": "2020-10-12T15:52:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "君がかわいい理由",
+    "You're Cute!",
+    "The Reason You're Cute!"
+  ],
+  "authors": [
+    "Minta Suzumaru"
+  ],
+  "id": 100907,
+  "malId": 103156,
+  "type": "manga",
+  "title": "Kimi Ga Kawaii Riyuu",
+  "url": "https://anilist.co/manga/100907",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100907-0HYJ38Y2kquu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:02.000Z",
+  "updatedAt": "2021-05-20T14:55:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d33bf5a-2eef-4b56-a940-99a2af1bbf2b": {
+        "authors": [
+          "Suzumaru Minta"
+        ],
+        "identifier": "9d33bf5a-2eef-4b56-a940-99a2af1bbf2b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi ga Kawaii Riyuu",
+        "url": "https://mangadex.org/title/9d33bf5a-2eef-4b56-a940-99a2af1bbf2b",
+        "image": "https://uploads.mangadex.org/covers/9d33bf5a-2eef-4b56-a940-99a2af1bbf2b/a99724a5-09bc-4844-ab4b-d8a087b691a5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103156,
+        "aniId": 100907,
+        "createdAt": "2020-10-12T16:10:19.000Z",
+        "updatedAt": "2021-06-04T23:56:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

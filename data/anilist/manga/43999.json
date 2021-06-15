@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "魔月館奇譚; まげつかんきたん"
+  ],
+  "authors": [
+    "Juichi Iogi"
+  ],
+  "id": 43999,
+  "malId": 13999,
+  "type": "manga",
+  "title": "Magetsukan Kitan",
+  "url": "https://anilist.co/manga/43999",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n43999-08WXUWHXvBok.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:42.000Z",
+  "updatedAt": "2021-05-20T14:42:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c4fa6d8-2acc-4977-8c55-3588d0e89ced": {
+        "authors": [
+          "Iogi Juichi"
+        ],
+        "identifier": "6c4fa6d8-2acc-4977-8c55-3588d0e89ced",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Magetsukan Kitan",
+        "url": "https://mangadex.org/title/6c4fa6d8-2acc-4977-8c55-3588d0e89ced",
+        "image": "https://uploads.mangadex.org/covers/6c4fa6d8-2acc-4977-8c55-3588d0e89ced/c6153d60-5420-4173-b5d5-b56b88713798.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13999,
+        "aniId": 43999,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:24:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "magetsukan_kitan": {
+        "authors": [],
+        "identifier": "magetsukan_kitan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Magetsukan Kitan",
+        "url": "https://manganelo.com/manga/magetsukan_kitan",
+        "image": "https://avt.mkklcdnv6.com/1/c/7-1583478215.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13999,
+        "aniId": 43999,
+        "createdAt": "2020-10-12T16:24:13.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "magetsukan-kitan": {
+        "authors": [
+          "IOGI Juichi"
+        ],
+        "identifier": "magetsukan-kitan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Magetsukan Kitan",
+        "url": "https://mangasee123.com/manga/Magetsukan-Kitan",
+        "image": "https://cover.nep.li/cover/Magetsukan-Kitan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13999,
+        "aniId": 43999,
+        "createdAt": "2021-01-02T09:20:20.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

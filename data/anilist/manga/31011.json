@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "泥棒と刑事",
+    "Thief and Detective"
+  ],
+  "authors": [
+    "Kaname Itsuki"
+  ],
+  "id": 31011,
+  "malId": 1011,
+  "type": "manga",
+  "title": "Dorobou to Keiji",
+  "url": "https://anilist.co/manga/31011",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1011.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T20:19:07.000Z",
+  "updatedAt": "2021-06-05T20:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "140aaaf6-a4f5-4970-8353-003d9b6e8a61": {
+        "authors": [
+          "Itsuki Kaname"
+        ],
+        "identifier": "140aaaf6-a4f5-4970-8353-003d9b6e8a61",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dorobou to Keiji",
+        "url": "https://mangadex.org/title/140aaaf6-a4f5-4970-8353-003d9b6e8a61",
+        "image": "https://uploads.mangadex.org/covers/140aaaf6-a4f5-4970-8353-003d9b6e8a61/467b7cf1-9527-466a-b590-7c7bf5313d12.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1011,
+        "aniId": 31011,
+        "createdAt": "2020-10-12T16:13:16.000Z",
+        "updatedAt": "2021-06-05T20:20:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

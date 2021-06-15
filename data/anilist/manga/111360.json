@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "GLEN(글렌)"
+  ],
+  "authors": [
+    "Ji Ho"
+  ],
+  "id": 111360,
+  "malId": null,
+  "type": "manga",
+  "title": "GLEN",
+  "url": "https://anilist.co/manga/111360",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111360-FgQOLzNUmRGB.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T08:12:57.000Z",
+  "updatedAt": "2021-06-06T11:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5c7c8f12-c9a9-487b-a197-6b56c35be07b": {
+        "authors": [
+          "Ziho (지호)"
+        ],
+        "identifier": "5c7c8f12-c9a9-487b-a197-6b56c35be07b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Glen (글렌)",
+        "url": "https://mangadex.org/title/5c7c8f12-c9a9-487b-a197-6b56c35be07b",
+        "image": "https://uploads.mangadex.org/covers/5c7c8f12-c9a9-487b-a197-6b56c35be07b/24f9c614-e84e-42a8-b293-a6f673fd053a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 111360,
+        "createdAt": "2020-10-12T16:15:10.000Z",
+        "updatedAt": "2021-06-06T13:23:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "altTitle": [
+    "部屋",
+    "The Room"
+  ],
+  "id": 7024,
+  "malId": 7024,
+  "type": "anime",
+  "title": "Heya",
+  "url": "https://anilist.co/anime/7024",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7024.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:48.000Z",
+  "updatedAt": "2021-05-20T14:38:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "44lm": {
+        "identifier": "44lm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Heya",
+        "url": "https://9anime.ru/watch/heya.44lm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-ArqOl84OHrE/WLQJYu4F3RI/AAAAAAABePo/dxGrXWa2McI/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7024,
+        "aniId": 7024,
+        "createdAt": "2020-10-12T15:50:01.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Strawberry 100%",
+    "いちご100%"
+  ],
+  "authors": [
+    "Mizuki Kawashita",
+    "Youichirou Tanabe"
+  ],
+  "id": 30045,
+  "malId": 45,
+  "type": "manga",
+  "title": "Ichigo 100%",
+  "url": "https://anilist.co/manga/30045",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30045-st6WbT6tk1iO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:21.000Z",
+  "updatedAt": "2021-06-04T09:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2e0d396c-2d59-468f-832d-acdcbe352b00": {
+        "authors": [
+          "Kawashita Mizuki"
+        ],
+        "identifier": "2e0d396c-2d59-468f-832d-acdcbe352b00",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichigo 100%",
+        "url": "https://mangadex.org/title/2e0d396c-2d59-468f-832d-acdcbe352b00",
+        "image": "https://uploads.mangadex.org/covers/2e0d396c-2d59-468f-832d-acdcbe352b00/ecefd983-4700-487f-877c-6f650c4e9730.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45,
+        "aniId": 30045,
+        "createdAt": "2020-10-12T16:02:40.000Z",
+        "updatedAt": "2021-06-02T08:39:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ichigo_100": {
+        "authors": [],
+        "identifier": "ichigo_100",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ichigo 100%",
+        "url": "https://manganelo.com/manga/ichigo_100",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/5132-ichigo_100.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45,
+        "aniId": 30045,
+        "createdAt": "2020-10-12T16:23:30.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ichigo100": {
+        "authors": [
+          "KAWASHITA Mizuki"
+        ],
+        "identifier": "ichigo100",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ichigo 100%",
+        "url": "https://mangasee123.com/manga/Ichigo100",
+        "image": "https://cover.nep.li/cover/Ichigo100.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45,
+        "aniId": 30045,
+        "createdAt": "2020-12-20T17:56:07.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ja957535": {
+        "authors": [
+          "Kawashita Mizuki"
+        ],
+        "identifier": "manga-ja957535",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ichigo 100%",
+        "url": "https://readmanganato.com/manga-ja957535",
+        "image": "https://avt.mkklcdnv6temp.com/49/b/4-1583471750.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45,
+        "aniId": 30045,
+        "createdAt": "2021-06-12T03:38:18.000Z",
+        "updatedAt": "2021-06-12T04:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

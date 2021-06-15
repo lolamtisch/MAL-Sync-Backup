@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "はじめアルゴリズム",
+    "Hajime Arugorizumu"
+  ],
+  "authors": [
+    "Kazuto Mihara"
+  ],
+  "id": 101936,
+  "malId": 111082,
+  "type": "manga",
+  "title": "Hajime Algorithm",
+  "url": "https://anilist.co/manga/101936",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101936-hJm8aj8taUyQ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:18.000Z",
+  "updatedAt": "2021-05-20T14:56:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "29de68c5-756a-4429-9005-6b10225bf58a": {
+        "authors": [
+          "Mihara Kazuto"
+        ],
+        "identifier": "29de68c5-756a-4429-9005-6b10225bf58a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hajime Algorithm",
+        "url": "https://mangadex.org/title/29de68c5-756a-4429-9005-6b10225bf58a",
+        "image": "https://uploads.mangadex.org/covers/29de68c5-756a-4429-9005-6b10225bf58a/1f97633e-d4a5-4ac0-971b-7175453d0c67.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111082,
+        "aniId": 101936,
+        "createdAt": "2020-10-12T16:18:49.000Z",
+        "updatedAt": "2021-06-07T20:26:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nl924584": {
+        "authors": [
+          "Mihara",
+          "Kazuto"
+        ],
+        "identifier": "nl924584",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hajime Algorithm",
+        "url": "https://manganelo.com/manga/nl924584",
+        "image": "https://avt.mkklcdnv6.com/31/t/22-1603598670.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111082,
+        "aniId": 101936,
+        "createdAt": "2020-12-02T08:52:48.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

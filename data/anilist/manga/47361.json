@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "A Small World",
+    "ア スモール ワールド"
+  ],
+  "authors": [
+    "Mai Nishikata"
+  ],
+  "id": 47361,
+  "malId": 17361,
+  "type": "manga",
+  "title": "A Small World",
+  "url": "https://anilist.co/manga/47361",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17361.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:05.000Z",
+  "updatedAt": "2021-05-20T14:44:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df311dc4-d7d6-45d3-9837-b1865a776111": {
+        "authors": [
+          "Nishikata Mai"
+        ],
+        "identifier": "df311dc4-d7d6-45d3-9837-b1865a776111",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Small World",
+        "url": "https://mangadex.org/title/df311dc4-d7d6-45d3-9837-b1865a776111",
+        "image": "https://uploads.mangadex.org/covers/df311dc4-d7d6-45d3-9837-b1865a776111/8919156d-3f2f-423f-aee4-41b4bffbcfbf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17361,
+        "aniId": 47361,
+        "createdAt": "2020-10-12T16:09:05.000Z",
+        "updatedAt": "2021-06-04T14:57:18.000Z",
+        "deletedAt": null
+      },
+      "50d2b46b-4d37-46bc-99aa-da223d874391": {
+        "authors": [
+          "을승"
+        ],
+        "identifier": "50d2b46b-4d37-46bc-99aa-da223d874391",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Small",
+        "url": "https://mangadex.org/title/50d2b46b-4d37-46bc-99aa-da223d874391",
+        "image": "https://uploads.mangadex.org/covers/50d2b46b-4d37-46bc-99aa-da223d874391/50e4f45d-2f8e-4248-9422-70f1613f94e6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17361,
+        "aniId": 47361,
+        "createdAt": "2020-10-12T16:19:49.000Z",
+        "updatedAt": "2021-06-07T22:52:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "りりむキッス"
+  ],
+  "authors": [
+    "Kawashita, Mizuki"
+  ],
+  "id": 763,
+  "type": "manga",
+  "title": "Lilim Kiss",
+  "url": "https://myanimelist.net/manga/763/Lilim_Kiss",
+  "image": "https://cdn.myanimelist.net/images/manga/2/53199.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:25.000Z",
+  "updatedAt": "2021-04-26T11:29:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd72f83f-8c54-46d2-b393-e0804c51fae1": {
+        "authors": [
+          "Kawashita Mizuki"
+        ],
+        "identifier": "bd72f83f-8c54-46d2-b393-e0804c51fae1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lilim Kiss",
+        "url": "https://mangadex.org/title/bd72f83f-8c54-46d2-b393-e0804c51fae1",
+        "image": "https://uploads.mangadex.org/covers/bd72f83f-8c54-46d2-b393-e0804c51fae1/4b64b656-310c-4098-8039-ce47d69b0d14.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 763,
+        "aniId": 30763,
+        "createdAt": "2020-10-12T16:02:40.000Z",
+        "updatedAt": "2021-06-02T08:41:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "lilim_kiss": {
+        "authors": [],
+        "identifier": "lilim_kiss",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Lilim Kiss",
+        "url": "https://manganelo.com/manga/lilim_kiss",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/5104-lilim_kiss.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 763,
+        "aniId": 30763,
+        "createdAt": "2020-10-12T16:24:07.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "lilim_kiss": {
+        "authors": [
+          "KAWASHITA Mizuki"
+        ],
+        "identifier": "lilim_kiss",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lilim Kiss",
+        "url": "https://fanfox.net/manga/lilim_kiss/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/48/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 763,
+        "aniId": 30763,
+        "createdAt": "2021-05-08T15:47:25.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

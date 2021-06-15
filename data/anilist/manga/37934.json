@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Yasuko and Kenji",
+    "ヤスコとケンジ"
+  ],
+  "authors": [
+    "Aruko"
+  ],
+  "id": 37934,
+  "malId": 7934,
+  "type": "manga",
+  "title": "Yasuko to Kenji",
+  "url": "https://anilist.co/manga/37934",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37934-mj5Jrpa7rCKd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:56.000Z",
+  "updatedAt": "2021-05-20T14:39:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "edb667c3-0c6f-45f9-8d8f-069a3c08143c": {
+        "authors": [
+          "Aruko"
+        ],
+        "identifier": "edb667c3-0c6f-45f9-8d8f-069a3c08143c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yasuko to Kenji",
+        "url": "https://mangadex.org/title/edb667c3-0c6f-45f9-8d8f-069a3c08143c",
+        "image": "https://uploads.mangadex.org/covers/edb667c3-0c6f-45f9-8d8f-069a3c08143c/ab911c52-d022-42a3-be9c-e10eb17d1c5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7934,
+        "aniId": 37934,
+        "createdAt": "2020-10-12T16:03:42.000Z",
+        "updatedAt": "2021-06-02T15:53:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yasuko_to_kenji": {
+        "authors": [],
+        "identifier": "yasuko_to_kenji",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yasuko To Kenji",
+        "url": "https://manganelo.com/manga/yasuko_to_kenji",
+        "image": "https://avt.mkklcdnv6.com/22/f/9-1583480968.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7934,
+        "aniId": 37934,
+        "createdAt": "2020-10-12T16:26:20.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yasuko_to_kenji": {
+        "authors": [
+          "ARUKO"
+        ],
+        "identifier": "yasuko_to_kenji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yasuko to Kenji",
+        "url": "https://fanfox.net/manga/yasuko_to_kenji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5371/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7934,
+        "aniId": 37934,
+        "createdAt": "2021-05-20T22:16:19.000Z",
+        "updatedAt": "2021-05-20T22:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

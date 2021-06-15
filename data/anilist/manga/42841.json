@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Die or Like Me"
+  ],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 42841,
+  "malId": 12841,
+  "type": "manga",
+  "title": "Die or Like Me",
+  "url": "https://anilist.co/manga/42841",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12841.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:26.000Z",
+  "updatedAt": "2021-05-20T14:42:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f3a97ba-8aab-48a5-bddd-bc4a5c2f27df": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "4f3a97ba-8aab-48a5-bddd-bc4a5c2f27df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Die or Like Me",
+        "url": "https://mangadex.org/title/4f3a97ba-8aab-48a5-bddd-bc4a5c2f27df",
+        "image": "https://uploads.mangadex.org/covers/4f3a97ba-8aab-48a5-bddd-bc4a5c2f27df/7c0ecff8-c67a-47f5-8327-708cf3fb0587.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12841,
+        "aniId": 42841,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:02:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "독고 리와인드"
+  ],
+  "authors": [
+    "Baek, Seung Hoon",
+    "Meen"
+  ],
+  "id": 110604,
+  "type": "manga",
+  "title": "Dokgo Rewind",
+  "url": "https://myanimelist.net/manga/110604/Dokgo_Rewind",
+  "image": "https://cdn.myanimelist.net/images/manga/2/207422.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:19.000Z",
+  "updatedAt": "2021-06-02T01:31:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5744351d-5336-437b-a90b-73514ce21346": {
+        "authors": [
+          "Min (민)",
+          "Baek Seung Hoon"
+        ],
+        "identifier": "5744351d-5336-437b-a90b-73514ce21346",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dokgo Rewind",
+        "url": "https://mangadex.org/title/5744351d-5336-437b-a90b-73514ce21346",
+        "image": "https://uploads.mangadex.org/covers/5744351d-5336-437b-a90b-73514ce21346/31714756-8ed1-48f3-accf-0652f0bc562b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110604,
+        "aniId": 87342,
+        "createdAt": "2020-10-12T16:11:28.000Z",
+        "updatedAt": "2021-06-05T08:51:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dokgo-rewind": {
+        "authors": [
+          "Baek Seung Hoon",
+          "Min"
+        ],
+        "identifier": "dokgo-rewind",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dokgo Rewind",
+        "url": "https://mangasee123.com/manga/Dokgo-Rewind",
+        "image": "https://cover.nep.li/cover/Dokgo-Rewind.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110604,
+        "aniId": 87342,
+        "createdAt": "2021-01-22T16:33:53.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

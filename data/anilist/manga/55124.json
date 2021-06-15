@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "君とパレード"
+  ],
+  "authors": [
+    "Lalako Kojima"
+  ],
+  "id": 55124,
+  "malId": 25124,
+  "type": "manga",
+  "title": "Kimi to Parade",
+  "url": "https://anilist.co/manga/55124",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55124-CMPdXaBb4Axc.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7283c1eb-0415-498d-92a4-97e824896b8d": {
+        "authors": [
+          "Kojima Lalako"
+        ],
+        "identifier": "7283c1eb-0415-498d-92a4-97e824896b8d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi to Parade",
+        "url": "https://mangadex.org/title/7283c1eb-0415-498d-92a4-97e824896b8d",
+        "image": "https://uploads.mangadex.org/covers/7283c1eb-0415-498d-92a4-97e824896b8d/466dba31-bf1d-4c95-822a-1d4a280ca46b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25124,
+        "aniId": 55124,
+        "createdAt": "2020-10-12T16:05:52.000Z",
+        "updatedAt": "2021-06-03T15:37:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_to_parade": {
+        "authors": [
+          "KOJIMA Lalako"
+        ],
+        "identifier": "kimi_to_parade",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi to Parade",
+        "url": "https://fanfox.net/manga/kimi_to_parade/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11663/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25124,
+        "aniId": 55124,
+        "createdAt": "2021-04-01T14:01:04.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

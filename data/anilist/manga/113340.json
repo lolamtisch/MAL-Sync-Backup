@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Death's Game",
+    "이제 곧 죽습니다",
+    "I Will Die Soon",
+    "Mort Imminente"
+  ],
+  "authors": [
+    "Won-Sik Lee",
+    "Kkulchan"
+  ],
+  "id": 113340,
+  "malId": null,
+  "type": "manga",
+  "title": "Ije God Chugseubnida",
+  "url": "https://anilist.co/manga/113340",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113340-DKX0SRfvaocn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T06:12:57.000Z",
+  "updatedAt": "2021-06-07T07:51:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "42ff706e-5f8d-4c6a-aa85-1da68fdbda50": {
+        "authors": [
+          "이원식",
+          "꿀찬"
+        ],
+        "identifier": "42ff706e-5f8d-4c6a-aa85-1da68fdbda50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Will Die Soon",
+        "url": "https://mangadex.org/title/42ff706e-5f8d-4c6a-aa85-1da68fdbda50",
+        "image": "https://uploads.mangadex.org/covers/42ff706e-5f8d-4c6a-aa85-1da68fdbda50/1ac5a292-097f-4ce3-bc44-9080e2206efa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113340,
+        "createdAt": "2020-10-12T16:17:26.000Z",
+        "updatedAt": "2021-06-07T08:11:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

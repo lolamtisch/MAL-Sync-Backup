@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "青年ドリーミー"
+  ],
+  "authors": [
+    "Edako Mofumofu"
+  ],
+  "id": 100806,
+  "malId": 112863,
+  "type": "manga",
+  "title": "Seinen Dreamy",
+  "url": "https://anilist.co/manga/100806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100806-ZzFXOLePysMb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:58.000Z",
+  "updatedAt": "2021-05-20T14:56:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cbb4bb33-bf15-4518-8c5d-2ea175fa6c20": {
+        "authors": [
+          "MOFUMOFU Edako"
+        ],
+        "identifier": "cbb4bb33-bf15-4518-8c5d-2ea175fa6c20",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seinen Dreamy",
+        "url": "https://mangadex.org/title/cbb4bb33-bf15-4518-8c5d-2ea175fa6c20",
+        "image": "https://uploads.mangadex.org/covers/cbb4bb33-bf15-4518-8c5d-2ea175fa6c20/b25d6004-057f-4b97-b0d6-5ab37534db82.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112863,
+        "aniId": 100806,
+        "createdAt": "2021-02-24T12:26:08.000Z",
+        "updatedAt": "2021-06-08T11:40:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

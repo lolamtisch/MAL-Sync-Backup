@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "紅の戦艦",
+    "The Crimson Warship"
+  ],
+  "authors": [
+    "Tatsuya Seki"
+  ],
+  "id": 112012,
+  "malId": 109312,
+  "type": "manga",
+  "title": "Kurenai no Senkan",
+  "url": "https://anilist.co/manga/112012",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112012-XpqBpPMBxGOG.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:05.000Z",
+  "updatedAt": "2021-05-20T14:56:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22cc151f-63f7-4342-b224-1223f43007ec": {
+        "authors": [
+          "Seki Tatsuya"
+        ],
+        "identifier": "22cc151f-63f7-4342-b224-1223f43007ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kurenai no Senkan",
+        "url": "https://mangadex.org/title/22cc151f-63f7-4342-b224-1223f43007ec",
+        "image": "https://uploads.mangadex.org/covers/22cc151f-63f7-4342-b224-1223f43007ec/aa4dce1a-8c15-495b-8273-6c84dbe87879.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109312,
+        "aniId": 112012,
+        "createdAt": "2020-10-12T16:10:57.000Z",
+        "updatedAt": "2021-06-05T04:35:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

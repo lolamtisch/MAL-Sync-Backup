@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Count H, Count Love",
+    "カウント0"
+  ],
+  "authors": [
+    "Yuma, Satoru"
+  ],
+  "id": 23347,
+  "type": "manga",
+  "title": "Count 0",
+  "url": "https://myanimelist.net/manga/23347/Count_0",
+  "image": "https://cdn.myanimelist.net/images/manga/1/37755.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:09.000Z",
+  "updatedAt": "2021-06-04T02:19:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4e55bd29-c361-4593-bc80-775352981009": {
+        "authors": [
+          "Yuma Satoru"
+        ],
+        "identifier": "4e55bd29-c361-4593-bc80-775352981009",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Count Love",
+        "url": "https://mangadex.org/title/4e55bd29-c361-4593-bc80-775352981009",
+        "image": "https://uploads.mangadex.org/covers/4e55bd29-c361-4593-bc80-775352981009/8fef14bf-d107-4438-a634-fef1a6d33ce1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23347,
+        "aniId": 53347,
+        "createdAt": "2020-10-12T16:07:21.000Z",
+        "updatedAt": "2021-06-04T08:52:08.000Z",
+        "deletedAt": null
+      },
+      "e0a328b3-d4b7-4dad-aba0-95c025fb6734": {
+        "authors": [
+          "Yuma Satoru"
+        ],
+        "identifier": "e0a328b3-d4b7-4dad-aba0-95c025fb6734",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Count H",
+        "url": "https://mangadex.org/title/e0a328b3-d4b7-4dad-aba0-95c025fb6734",
+        "image": "https://uploads.mangadex.org/covers/e0a328b3-d4b7-4dad-aba0-95c025fb6734/405a20f1-385e-4b0e-ad23-2a9f3fe7c44b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23347,
+        "aniId": 53347,
+        "createdAt": "2020-10-12T16:07:51.000Z",
+        "updatedAt": "2021-06-04T05:42:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

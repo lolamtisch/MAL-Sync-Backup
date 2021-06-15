@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Welcome to Goraihou Academy!",
+    "御来訪学園へようこそ!"
+  ],
+  "authors": [
+    "Muku Kakizaki"
+  ],
+  "id": 36802,
+  "malId": 6802,
+  "type": "manga",
+  "title": "Goraihou Gakuen e Youkoso!",
+  "url": "https://anilist.co/manga/36802",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6802.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:43.000Z",
+  "updatedAt": "2021-05-20T14:39:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "19d8f782-be66-4700-b69a-0ff040dc0e49": {
+        "authors": [
+          "Kakizaki Muku"
+        ],
+        "identifier": "19d8f782-be66-4700-b69a-0ff040dc0e49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Goraihou Gakuen e Youkoso!",
+        "url": "https://mangadex.org/title/19d8f782-be66-4700-b69a-0ff040dc0e49",
+        "image": "https://uploads.mangadex.org/covers/19d8f782-be66-4700-b69a-0ff040dc0e49/6a0a7e86-475a-4fbe-b221-9ab9818ef77a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6802,
+        "aniId": 36802,
+        "createdAt": "2020-10-12T16:03:50.000Z",
+        "updatedAt": "2021-06-02T20:11:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "goraihou_gakuen_e_youkoso": {
+        "authors": [],
+        "identifier": "goraihou_gakuen_e_youkoso",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Goraihou Gakuen e Youkoso!",
+        "url": "https://manganelo.com/manga/goraihou_gakuen_e_youkoso",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11703-goraihou_gakuen_e_youkoso.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6802,
+        "aniId": 36802,
+        "createdAt": "2020-10-12T16:23:09.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

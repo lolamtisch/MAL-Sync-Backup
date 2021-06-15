@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "Duel!",
+    "DUEL!"
+  ],
+  "authors": [
+    "Akira Aoi"
+  ],
+  "id": 86970,
+  "malId": 87177,
+  "type": "manga",
+  "title": "Duel!",
+  "url": "https://anilist.co/manga/86970",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56970-hAtPyKHuTogG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:47.000Z",
+  "updatedAt": "2021-05-20T14:52:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c11f1dc-cece-40c1-ac70-0d9ec72988fe": {
+        "authors": [
+          "Aoi Akira"
+        ],
+        "identifier": "6c11f1dc-cece-40c1-ac70-0d9ec72988fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Duel!",
+        "url": "https://mangadex.org/title/6c11f1dc-cece-40c1-ac70-0d9ec72988fe",
+        "image": "https://uploads.mangadex.org/covers/6c11f1dc-cece-40c1-ac70-0d9ec72988fe/49f56a9a-ac05-4ae1-b55f-978f9fb37e92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87177,
+        "aniId": 86970,
+        "createdAt": "2020-10-12T16:08:24.000Z",
+        "updatedAt": "2021-06-04T09:52:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "duel": {
+        "authors": [],
+        "identifier": "duel",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Duel!",
+        "url": "https://manganelo.com/manga/duel",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3562-duel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87177,
+        "aniId": 86970,
+        "createdAt": "2020-10-12T16:22:44.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "read_yugioh_duelist": {
+        "authors": [],
+        "identifier": "read_yugioh_duelist",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yu-Gi-Oh! Duelist",
+        "url": "https://manganelo.com/manga/read_yugioh_duelist",
+        "image": "https://avt.mkklcdnv6.com/22/m/4-1583470602.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87177,
+        "aniId": 86970,
+        "createdAt": "2020-10-12T16:25:08.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

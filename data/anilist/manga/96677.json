@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ダストボックス2.5"
+  ],
+  "authors": [
+    "Karino Takatsu"
+  ],
+  "id": 96677,
+  "malId": 95592,
+  "type": "manga",
+  "title": "Dust Box 2.5",
+  "url": "https://anilist.co/manga/96677",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96677-sR70qEGnUMmu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:59.000Z",
+  "updatedAt": "2021-05-20T14:53:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3bee3eb3-5cfc-4711-b4b1-844ae5dca346": {
+        "authors": [
+          "Takatsu Karino"
+        ],
+        "identifier": "3bee3eb3-5cfc-4711-b4b1-844ae5dca346",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dustbox 2.5",
+        "url": "https://mangadex.org/title/3bee3eb3-5cfc-4711-b4b1-844ae5dca346",
+        "image": "https://uploads.mangadex.org/covers/3bee3eb3-5cfc-4711-b4b1-844ae5dca346/a8e67d25-b84a-467a-ba53-eaf323e3a9b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95592,
+        "aniId": 96677,
+        "createdAt": "2020-10-12T16:13:34.000Z",
+        "updatedAt": "2021-06-05T22:27:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dust_box_25": {
+        "authors": [],
+        "identifier": "dust_box_25",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dust Box 2.5",
+        "url": "https://manganelo.com/manga/dust_box_25",
+        "image": "https://avt.mkklcdnv6.com/30/k/16-1583494563.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95592,
+        "aniId": 96677,
+        "createdAt": "2020-10-12T16:22:44.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

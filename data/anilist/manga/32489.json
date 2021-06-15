@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "優しい関係",
+    "Tender Connection",
+    "Gentle Relations",
+    "Tender Affairs"
+  ],
+  "authors": [
+    "Shinri Fuwa"
+  ],
+  "id": 32489,
+  "malId": 2489,
+  "type": "manga",
+  "title": "Yasashii Kankei",
+  "url": "https://anilist.co/manga/32489",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32489-cW99OjMZ6Tcy.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "58baef0d-a381-49c9-8df9-2966f9ba2be9": {
+        "authors": [
+          "Fuwa Shinri"
+        ],
+        "identifier": "58baef0d-a381-49c9-8df9-2966f9ba2be9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yasashii Kankei",
+        "url": "https://mangadex.org/title/58baef0d-a381-49c9-8df9-2966f9ba2be9",
+        "image": "https://uploads.mangadex.org/covers/58baef0d-a381-49c9-8df9-2966f9ba2be9/970d436a-b58a-4dac-9a93-f6040268ee50.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2489,
+        "aniId": 32489,
+        "createdAt": "2020-10-12T16:21:31.000Z",
+        "updatedAt": "2021-06-08T02:29:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "aa922622": {
+        "authors": [],
+        "identifier": "aa922622",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Goukaku No Tame No! Yasashii Sankaku Kankei Nyuumon",
+        "url": "https://manganelo.com/manga/aa922622",
+        "image": "https://avt.mkklcdnv6.com/1/c/20-1586060650.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2489,
+        "aniId": 32489,
+        "createdAt": "2020-10-12T16:21:59.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "yasashii_kankei": {
+        "authors": [
+          "Fuwa",
+          "Shinri"
+        ],
+        "identifier": "yasashii_kankei",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yasashii Kankei",
+        "url": "https://manganelo.com/manga/yasashii_kankei",
+        "image": "https://avt.mkklcdnv6temp.com/20/a/11-1583484739.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2489,
+        "aniId": 32489,
+        "createdAt": "2021-04-12T11:52:13.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

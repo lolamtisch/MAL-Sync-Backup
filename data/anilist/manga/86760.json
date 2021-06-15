@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "最後のレストラン"
+  ],
+  "authors": [
+    "Michihiko Touei"
+  ],
+  "id": 86760,
+  "malId": 65819,
+  "type": "manga",
+  "title": "Saigo no Restaurant",
+  "url": "https://anilist.co/manga/86760",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56760-mkTswZoxCWKq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:53.000Z",
+  "updatedAt": "2021-05-20T14:50:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4b273994-10ec-45cd-a333-b5ea0e894e19": {
+        "authors": [
+          "Touei Michihiko"
+        ],
+        "identifier": "4b273994-10ec-45cd-a333-b5ea0e894e19",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saigo no Restaurant",
+        "url": "https://mangadex.org/title/4b273994-10ec-45cd-a333-b5ea0e894e19",
+        "image": "https://uploads.mangadex.org/covers/4b273994-10ec-45cd-a333-b5ea0e894e19/c7fe9820-d378-42bd-b82f-0302761e9530.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65819,
+        "aniId": 86760,
+        "createdAt": "2020-10-12T16:15:11.000Z",
+        "updatedAt": "2021-06-06T11:33:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "youjo_senki_restaurant": {
+        "authors": [],
+        "identifier": "youjo_senki_restaurant",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Youjo Senki Restaurant",
+        "url": "https://manganelo.com/manga/youjo_senki_restaurant",
+        "image": "https://avt.mkklcdnv6.com/7/t/16-1583493742.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65819,
+        "aniId": 86760,
+        "createdAt": "2020-10-12T16:26:24.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

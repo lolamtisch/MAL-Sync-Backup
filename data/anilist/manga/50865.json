@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "ゼルダの伝説",
+    "THE HYRULE FANTASY ゼルダの伝説",
+    "Legend of Zelda",
+    "The Legend of Zelda"
+  ],
+  "authors": [
+    "Yuu Mishouzaki"
+  ],
+  "id": 50865,
+  "malId": 20865,
+  "type": "manga",
+  "title": "Zelda no Densetsu",
+  "url": "https://anilist.co/manga/50865",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50865-fgz0IhhJ4wbL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T10:21:29.000Z",
+  "updatedAt": "2021-06-05T10:21:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dc8430bc-e07f-42bc-8f8e-0c192153c42e": {
+        "authors": [
+          "Yuu Mishouzaki"
+        ],
+        "identifier": "dc8430bc-e07f-42bc-8f8e-0c192153c42e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zelda no Densetsu",
+        "url": "https://mangadex.org/title/dc8430bc-e07f-42bc-8f8e-0c192153c42e",
+        "image": "https://uploads.mangadex.org/covers/dc8430bc-e07f-42bc-8f8e-0c192153c42e/aed93748-dc7b-4cbd-a12a-a26ecaad6044.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20865,
+        "aniId": 50865,
+        "createdAt": "2020-10-12T16:11:40.000Z",
+        "updatedAt": "2021-06-05T12:48:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

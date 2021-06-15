@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "PositioN -ポジション-"
+  ],
+  "authors": [
+    "Ashinano, Hitoshi"
+  ],
+  "id": 3322,
+  "type": "manga",
+  "title": "PositioN",
+  "url": "https://myanimelist.net/manga/3322/PositioN",
+  "image": "https://cdn.myanimelist.net/images/manga/1/86083.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:50.000Z",
+  "updatedAt": "2021-05-21T03:13:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc355f1e-24ef-448b-808a-bef671d87266": {
+        "authors": [
+          "Ashinano Hitoshi"
+        ],
+        "identifier": "fc355f1e-24ef-448b-808a-bef671d87266",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "PositioN",
+        "url": "https://mangadex.org/title/fc355f1e-24ef-448b-808a-bef671d87266",
+        "image": "https://uploads.mangadex.org/covers/fc355f1e-24ef-448b-808a-bef671d87266/1d83f27b-2668-473e-9643-51c5b69c19b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3322,
+        "aniId": 33322,
+        "createdAt": "2020-10-12T16:04:48.000Z",
+        "updatedAt": "2021-06-02T23:36:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "position": {
+        "authors": [
+          "Ashinano",
+          "Hitoshi"
+        ],
+        "identifier": "position",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Position",
+        "url": "https://manganelo.com/manga/position",
+        "image": "https://avt.mkklcdnv6temp.com/27/w/10-1583483179.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3322,
+        "aniId": 33322,
+        "createdAt": "2021-05-21T03:13:38.000Z",
+        "updatedAt": "2021-05-21T03:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

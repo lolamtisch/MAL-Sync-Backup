@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "ミニマム"
+  ],
+  "authors": [
+    "Miyazaki, Maya"
+  ],
+  "id": 21809,
+  "type": "manga",
+  "title": "Minimum",
+  "url": "https://myanimelist.net/manga/21809/Minimum",
+  "image": "https://cdn.myanimelist.net/images/manga/1/62141.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:58.000Z",
+  "updatedAt": "2021-03-22T04:35:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c6393c02-7988-4408-b5bf-e1e75c738242": {
+        "authors": [
+          "Miyazaki Maya"
+        ],
+        "identifier": "c6393c02-7988-4408-b5bf-e1e75c738242",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Minimum",
+        "url": "https://mangadex.org/title/c6393c02-7988-4408-b5bf-e1e75c738242",
+        "image": "https://uploads.mangadex.org/covers/c6393c02-7988-4408-b5bf-e1e75c738242/14df894c-8bed-448f-b363-40c6a7447008.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21809,
+        "aniId": 51809,
+        "createdAt": "2020-10-12T16:03:56.000Z",
+        "updatedAt": "2021-06-02T17:32:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "minimum": {
+        "authors": [],
+        "identifier": "minimum",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Minimum",
+        "url": "https://manganelo.com/manga/minimum",
+        "image": "https://avt.mkklcdnv6.com/8/f/6-1583474439.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21809,
+        "aniId": 51809,
+        "createdAt": "2020-10-12T16:24:19.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "minimum": {
+        "authors": [
+          "MIYAZAKI Maya"
+        ],
+        "identifier": "minimum",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Minimum",
+        "url": "https://mangasee123.com/manga/Minimum",
+        "image": "https://cover.nep.li/cover/Minimum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21809,
+        "aniId": 51809,
+        "createdAt": "2021-03-22T04:35:05.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

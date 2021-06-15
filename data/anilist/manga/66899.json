@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "箱庭コスモス",
+    "Miniature Garden Cosmos"
+  ],
+  "authors": [
+    "Noriko Kuwata"
+  ],
+  "id": 66899,
+  "malId": 36899,
+  "type": "manga",
+  "title": "Hakoniwa Cosmos",
+  "url": "https://anilist.co/manga/66899",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx66899-hc9kpiQoz0Oo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:30.000Z",
+  "updatedAt": "2021-05-20T14:48:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "caae4fc9-29dd-46ad-b518-970af75c78b5": {
+        "authors": [
+          "Kuwata Noriko"
+        ],
+        "identifier": "caae4fc9-29dd-46ad-b518-970af75c78b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Miniature Garden Cosmos",
+        "url": "https://mangadex.org/title/caae4fc9-29dd-46ad-b518-970af75c78b5",
+        "image": "https://uploads.mangadex.org/covers/caae4fc9-29dd-46ad-b518-970af75c78b5/1383e89a-40c0-4f22-acff-15a9f9c67335.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36899,
+        "aniId": 66899,
+        "createdAt": "2020-10-12T16:04:36.000Z",
+        "updatedAt": "2021-06-02T22:12:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ちいさこべえ"
+  ],
+  "authors": [
+    "Minetarou Mochizuki",
+    "Shuugorou Yamamoto"
+  ],
+  "id": 86865,
+  "malId": 77047,
+  "type": "manga",
+  "title": "Chiisakobee",
+  "url": "https://anilist.co/manga/86865",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56865-VuezlmM7dzXh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:49.000Z",
+  "updatedAt": "2021-05-20T14:51:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb231f31-4a9d-40e5-8109-5089adac8fdd": {
+        "authors": [
+          "Mochizuki Minetaro"
+        ],
+        "identifier": "cb231f31-4a9d-40e5-8109-5089adac8fdd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chiisakobee",
+        "url": "https://mangadex.org/title/cb231f31-4a9d-40e5-8109-5089adac8fdd",
+        "image": "https://uploads.mangadex.org/covers/cb231f31-4a9d-40e5-8109-5089adac8fdd/a3d6c14b-b13c-4be2-919e-d3c41f78fe60.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77047,
+        "aniId": 86865,
+        "createdAt": "2020-10-12T16:09:34.000Z",
+        "updatedAt": "2021-06-04T18:31:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kp919534": {
+        "authors": [],
+        "identifier": "kp919534",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chiisakobee",
+        "url": "https://manganelo.com/manga/kp919534",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/937-kp919534.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77047,
+        "aniId": 86865,
+        "createdAt": "2020-10-12T16:24:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

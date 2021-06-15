@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Foo Swee chin"
+  ],
+  "id": 44076,
+  "malId": 14076,
+  "type": "manga",
+  "title": "Die Quarry Proie",
+  "url": "https://anilist.co/manga/44076",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14076.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:43.000Z",
+  "updatedAt": "2021-05-20T14:42:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b57303a2-ae06-4a50-bd25-7701d4c517ec": {
+        "authors": [
+          "Foo Swee Chin"
+        ],
+        "identifier": "b57303a2-ae06-4a50-bd25-7701d4c517ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Die Quarry Proie",
+        "url": "https://mangadex.org/title/b57303a2-ae06-4a50-bd25-7701d4c517ec",
+        "image": "https://uploads.mangadex.org/covers/b57303a2-ae06-4a50-bd25-7701d4c517ec/a98f1674-1ec6-4198-8f60-3f100bd198f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14076,
+        "aniId": 44076,
+        "createdAt": "2020-10-12T16:15:44.000Z",
+        "updatedAt": "2021-06-06T16:28:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

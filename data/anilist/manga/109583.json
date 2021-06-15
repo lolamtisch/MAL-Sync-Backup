@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "キミの食べごろ"
+  ],
+  "authors": [
+    "Yoriko"
+  ],
+  "id": 109583,
+  "malId": 119378,
+  "type": "manga",
+  "title": "Kimi no Tabegoro",
+  "url": "https://anilist.co/manga/109583",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109583-Pyw3WXc44aQS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:08.000Z",
+  "updatedAt": "2021-05-20T14:58:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1918c93a-3b69-4ee4-ad3a-5af3969e1be4": {
+        "authors": [
+          "Yoriko"
+        ],
+        "identifier": "1918c93a-3b69-4ee4-ad3a-5af3969e1be4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi no Tabegoro",
+        "url": "https://mangadex.org/title/1918c93a-3b69-4ee4-ad3a-5af3969e1be4",
+        "image": "https://uploads.mangadex.org/covers/1918c93a-3b69-4ee4-ad3a-5af3969e1be4/7fe9ddd0-501c-4c3b-a486-50e364471beb.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119378,
+        "aniId": 109583,
+        "createdAt": "2020-10-12T16:15:41.000Z",
+        "updatedAt": "2021-06-06T15:57:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

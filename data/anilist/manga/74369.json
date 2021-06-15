@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "変身忍者 嵐",
+    "Transforming Ninja Arashi"
+  ],
+  "authors": [
+    "Shoutarou Ishinomori"
+  ],
+  "id": 74369,
+  "malId": 44369,
+  "type": "manga",
+  "title": "Henshin Ninja Arashi",
+  "url": "https://anilist.co/manga/74369",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/44369.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:01.000Z",
+  "updatedAt": "2021-05-20T14:49:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0069d76b-26ee-4656-a1bf-938110bca4b2": {
+        "authors": [
+          "Ishinomori Shotaro"
+        ],
+        "identifier": "0069d76b-26ee-4656-a1bf-938110bca4b2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Henshin Ninja Arashi",
+        "url": "https://mangadex.org/title/0069d76b-26ee-4656-a1bf-938110bca4b2",
+        "image": "https://uploads.mangadex.org/covers/0069d76b-26ee-4656-a1bf-938110bca4b2/0619e0d0-2e35-4e85-8597-c053760240ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44369,
+        "aniId": 74369,
+        "createdAt": "2020-10-12T16:05:35.000Z",
+        "updatedAt": "2021-06-03T13:35:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "henshin-ninja-arashi": {
+        "authors": [
+          "ISHINOMORI Shotaro"
+        ],
+        "identifier": "henshin-ninja-arashi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Henshin Ninja Arashi",
+        "url": "https://mangasee123.com/manga/Henshin-Ninja-Arashi",
+        "image": "https://cover.nep.li/cover/Henshin-Ninja-Arashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44369,
+        "aniId": 74369,
+        "createdAt": "2021-04-30T12:21:17.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

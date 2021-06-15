@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Punch!",
+    "PUNCH!"
+  ],
+  "authors": [
+    "Rie Takada"
+  ],
+  "id": 30788,
+  "malId": 788,
+  "type": "manga",
+  "title": "Punch!",
+  "url": "https://anilist.co/manga/30788",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30788-7aXYHYZJOQ3u.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-05-20T14:35:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c97d8626-8ae1-472c-bef7-d963555c02fd": {
+        "authors": [
+          "TAKADA Rie"
+        ],
+        "identifier": "c97d8626-8ae1-472c-bef7-d963555c02fd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Punch!",
+        "url": "https://mangadex.org/title/c97d8626-8ae1-472c-bef7-d963555c02fd",
+        "image": "https://uploads.mangadex.org/covers/c97d8626-8ae1-472c-bef7-d963555c02fd/14522c98-b41e-4325-8f2a-1cf1741fa1be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 788,
+        "aniId": 30788,
+        "createdAt": "2020-10-12T16:13:05.000Z",
+        "updatedAt": "2021-06-05T18:37:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

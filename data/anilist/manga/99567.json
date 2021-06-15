@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "RPG Comic",
+    "롤플레잉겜만화",
+    "롤플레잉겜",
+    "MMORPGマンガ〜ESPERA〜",
+    "Role Playing Game",
+    "Role-Playing Game"
+  ],
+  "authors": [
+    "Gaechaban"
+  ],
+  "id": 99567,
+  "malId": null,
+  "type": "manga",
+  "title": "RPG",
+  "url": "https://anilist.co/manga/99567",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99567-PkIGClQziZY8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T13:19:57.000Z",
+  "updatedAt": "2021-06-04T13:19:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e779d0c-6490-427f-a9a9-5cc98ce92e3c": {
+        "authors": [
+          "Gaechaban"
+        ],
+        "identifier": "7e779d0c-6490-427f-a9a9-5cc98ce92e3c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RPG",
+        "url": "https://mangadex.org/title/7e779d0c-6490-427f-a9a9-5cc98ce92e3c",
+        "image": "https://uploads.mangadex.org/covers/7e779d0c-6490-427f-a9a9-5cc98ce92e3c/b233a1d8-4cac-4c5f-b6f9-6d4eac3824c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99567,
+        "createdAt": "2020-10-12T16:08:48.000Z",
+        "updatedAt": "2021-06-04T13:24:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

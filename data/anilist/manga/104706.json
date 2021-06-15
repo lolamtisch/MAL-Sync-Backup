@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "我的妹妹来自邻国",
+    "My Japanese Sisters"
+  ],
+  "authors": [
+    "Dao Chu"
+  ],
+  "id": 104706,
+  "malId": null,
+  "type": "manga",
+  "title": "Wo De Meimei Laizi Linguo",
+  "url": "https://anilist.co/manga/104706",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104706-bqtYYLnkpuvy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T02:50:00.000Z",
+  "updatedAt": "2021-06-06T02:50:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d60427f3-243e-43d6-8072-c37d7a6fcc3e": {
+        "authors": [
+          "Chu Dao"
+        ],
+        "identifier": "d60427f3-243e-43d6-8072-c37d7a6fcc3e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Japanese Sisters",
+        "url": "https://mangadex.org/title/d60427f3-243e-43d6-8072-c37d7a6fcc3e",
+        "image": "https://uploads.mangadex.org/covers/d60427f3-243e-43d6-8072-c37d7a6fcc3e/80a794b3-2c55-4c12-88eb-c93be0c39481.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 104706,
+        "createdAt": "2020-10-12T16:14:07.000Z",
+        "updatedAt": "2021-06-06T10:27:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "カルナバル・グレア"
+  ],
+  "authors": [
+    "Kazuomi Minatogawa "
+  ],
+  "id": 85526,
+  "malId": 71073,
+  "type": "manga",
+  "title": "Carnaval Glare",
+  "url": "https://anilist.co/manga/85526",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85526-ASV2z0aTAWSj.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:32.000Z",
+  "updatedAt": "2021-06-04T02:50:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c7d7cc98-1e9c-467d-892e-8cc4a2129ed5": {
+        "authors": [
+          "MINATOGAWA Kazuomi"
+        ],
+        "identifier": "c7d7cc98-1e9c-467d-892e-8cc4a2129ed5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Carnaval Glare",
+        "url": "https://mangadex.org/title/c7d7cc98-1e9c-467d-892e-8cc4a2129ed5",
+        "image": "https://uploads.mangadex.org/covers/c7d7cc98-1e9c-467d-892e-8cc4a2129ed5/dd8e3d53-e116-4375-ab99-bf440b2cf6d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71073,
+        "aniId": 85526,
+        "createdAt": "2020-10-12T16:07:24.000Z",
+        "updatedAt": "2021-06-04T08:51:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "carnaval-glare": {
+        "authors": [
+          "MINATOGAWA Kazuomi"
+        ],
+        "identifier": "carnaval-glare",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Carnaval Glare",
+        "url": "https://mangasee123.com/manga/Carnaval-Glare",
+        "image": "https://cover.nep.li/cover/Carnaval-Glare.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71073,
+        "aniId": 85526,
+        "createdAt": "2021-04-08T04:51:40.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

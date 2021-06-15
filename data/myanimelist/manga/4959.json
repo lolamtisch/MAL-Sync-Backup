@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "はなしっぱなし"
+  ],
+  "authors": [
+    "Igarashi, Daisuke"
+  ],
+  "id": 4959,
+  "type": "manga",
+  "title": "Hanashippanashi",
+  "url": "https://myanimelist.net/manga/4959/Hanashippanashi",
+  "image": "https://cdn.myanimelist.net/images/manga/5/68427.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:02.000Z",
+  "updatedAt": "2021-05-25T19:38:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e1b9a64-7dba-44c0-a44d-473c30d00dfa": {
+        "authors": [
+          "IGARASHI Daisuke"
+        ],
+        "identifier": "1e1b9a64-7dba-44c0-a44d-473c30d00dfa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanashippanashi",
+        "url": "https://mangadex.org/title/1e1b9a64-7dba-44c0-a44d-473c30d00dfa",
+        "image": "https://uploads.mangadex.org/covers/1e1b9a64-7dba-44c0-a44d-473c30d00dfa/577d640c-0442-4117-bdf4-2f3301f66f19.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4959,
+        "aniId": 34959,
+        "createdAt": "2020-10-12T16:04:24.000Z",
+        "updatedAt": "2021-06-02T20:47:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hanashippanashi": {
+        "authors": [
+          "IGARASHI Daisuke"
+        ],
+        "identifier": "hanashippanashi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hanashippanashi",
+        "url": "https://mangasee123.com/manga/Hanashippanashi",
+        "image": "https://cover.nep.li/cover/Hanashippanashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4959,
+        "aniId": 34959,
+        "createdAt": "2021-05-25T19:38:38.000Z",
+        "updatedAt": "2021-05-25T20:08:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

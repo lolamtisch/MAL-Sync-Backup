@@ -1,0 +1,81 @@
+{
+  "altTitle": [
+    "mono"
+  ],
+  "authors": [
+    "Afro"
+  ],
+  "id": 102211,
+  "malId": 111798,
+  "type": "manga",
+  "title": "mono",
+  "url": "https://anilist.co/manga/102211",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102211-Gc5SVmRgsv8B.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:50.000Z",
+  "updatedAt": "2021-05-20T14:56:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22f86931-c9fc-49a8-91b0-f55d618c584a": {
+        "authors": [
+          "Afro"
+        ],
+        "identifier": "22f86931-c9fc-49a8-91b0-f55d618c584a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mono",
+        "url": "https://mangadex.org/title/22f86931-c9fc-49a8-91b0-f55d618c584a",
+        "image": "https://uploads.mangadex.org/covers/22f86931-c9fc-49a8-91b0-f55d618c584a/7586d824-2f4b-44fa-bf0e-0eadccc6ca8a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111798,
+        "aniId": 102211,
+        "createdAt": "2020-10-12T16:13:59.000Z",
+        "updatedAt": "2021-06-06T01:33:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "al922334": {
+        "authors": [],
+        "identifier": "al922334",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mono",
+        "url": "https://manganelo.com/manga/al922334",
+        "image": "https://avt.mkklcdnv6.com/40/d/20-1583573504.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111798,
+        "aniId": 102211,
+        "createdAt": "2020-10-12T16:22:04.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "ap917745": {
+        "authors": [],
+        "identifier": "ap917745",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mono (Afro)",
+        "url": "https://manganelo.com/manga/ap917745",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21359-ap917745.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111798,
+        "aniId": 102211,
+        "createdAt": "2020-10-12T16:22:07.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

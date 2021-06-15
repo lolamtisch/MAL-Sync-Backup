@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "INVOKE"
+  ],
+  "authors": [
+    "Kirico Higashizato"
+  ],
+  "id": 35562,
+  "malId": 5562,
+  "type": "manga",
+  "title": "INVOKE",
+  "url": "https://anilist.co/manga/35562",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35562-LYgpEFzyaFAt.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-05-20T14:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc01f503-1b5d-4399-9417-c2bcfc1b868f": {
+        "authors": [
+          "Higashizato Kirico"
+        ],
+        "identifier": "cc01f503-1b5d-4399-9417-c2bcfc1b868f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Invoke",
+        "url": "https://mangadex.org/title/cc01f503-1b5d-4399-9417-c2bcfc1b868f",
+        "image": "https://uploads.mangadex.org/covers/cc01f503-1b5d-4399-9417-c2bcfc1b868f/d783e236-14a0-414e-94da-dd4e91dd1736.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5562,
+        "aniId": 35562,
+        "createdAt": "2020-11-17T10:15:00.000Z",
+        "updatedAt": "2021-06-08T07:28:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

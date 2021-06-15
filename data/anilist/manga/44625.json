@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "雨の降る場所",
+    "Where the rain falls"
+  ],
+  "authors": [
+    "Yoshitoshi ABe"
+  ],
+  "id": 44625,
+  "malId": 14625,
+  "type": "manga",
+  "title": "Ame no Furu Basho",
+  "url": "https://anilist.co/manga/44625",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14625.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:38.000Z",
+  "updatedAt": "2021-05-20T14:43:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1bfa9e48-a4c1-40d0-9008-1ac242e42764": {
+        "authors": [
+          "Abe Yoshitoshi"
+        ],
+        "identifier": "1bfa9e48-a4c1-40d0-9008-1ac242e42764",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ame no Furu Basho",
+        "url": "https://mangadex.org/title/1bfa9e48-a4c1-40d0-9008-1ac242e42764",
+        "image": "https://uploads.mangadex.org/covers/1bfa9e48-a4c1-40d0-9008-1ac242e42764/c78390cb-ca0e-4c24-af1a-2607d721a91a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14625,
+        "aniId": 44625,
+        "createdAt": "2020-10-12T16:03:18.000Z",
+        "updatedAt": "2021-06-02T13:04:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

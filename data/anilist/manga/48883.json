@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "デジモンクロニクル",
+    "Dejimon Kuronikuru"
+  ],
+  "authors": [],
+  "id": 48883,
+  "malId": 18883,
+  "type": "manga",
+  "title": "Digimon Chronicle",
+  "url": "https://anilist.co/manga/48883",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18883.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:14.000Z",
+  "updatedAt": "2021-05-20T14:45:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec385a6f-2a1e-4a55-a113-880b17b3efc6": {
+        "authors": [
+          "OKORARANA Shisheni"
+        ],
+        "identifier": "ec385a6f-2a1e-4a55-a113-880b17b3efc6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Digimon Chronicle",
+        "url": "https://mangadex.org/title/ec385a6f-2a1e-4a55-a113-880b17b3efc6",
+        "image": "https://uploads.mangadex.org/covers/ec385a6f-2a1e-4a55-a113-880b17b3efc6/7d8e194c-ccc2-4aa5-8e95-a5a161000cbf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18883,
+        "aniId": 48883,
+        "createdAt": "2020-10-12T16:10:45.000Z",
+        "updatedAt": "2021-06-05T03:05:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

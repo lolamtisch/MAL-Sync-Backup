@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "September",
+    "9月―September"
+  ],
+  "authors": [
+    "Keiko Nishi"
+  ],
+  "id": 63635,
+  "malId": 33635,
+  "type": "manga",
+  "title": "9-gatsu",
+  "url": "https://anilist.co/manga/63635",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33635.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:56.000Z",
+  "updatedAt": "2021-05-20T14:47:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c8e53f87-ae50-493a-97e5-3db85df70b57": {
+        "authors": [
+          "Kossi"
+        ],
+        "identifier": "c8e53f87-ae50-493a-97e5-3db85df70b57",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "December 01",
+        "url": "https://mangadex.org/title/c8e53f87-ae50-493a-97e5-3db85df70b57",
+        "image": "https://uploads.mangadex.org/covers/c8e53f87-ae50-493a-97e5-3db85df70b57/559dc3e7-5aaf-4633-9902-38e66e1fa53b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33635,
+        "aniId": 63635,
+        "createdAt": "2020-10-12T16:14:53.000Z",
+        "updatedAt": "2021-06-06T09:00:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

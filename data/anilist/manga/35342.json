@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Shrine's Progress",
+    "神社のススメ",
+    "Shrine's Progress"
+  ],
+  "authors": [
+    "Yuki Tanaka"
+  ],
+  "id": 35342,
+  "malId": 5342,
+  "type": "manga",
+  "title": "Jinja no Susume",
+  "url": "https://anilist.co/manga/35342",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5342.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:27.000Z",
+  "updatedAt": "2021-05-20T14:39:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7bba4ac3-5d5c-4456-97d1-104abaa960a7": {
+        "authors": [
+          "Tanaka Yuki"
+        ],
+        "identifier": "7bba4ac3-5d5c-4456-97d1-104abaa960a7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jinjya no Susume",
+        "url": "https://mangadex.org/title/7bba4ac3-5d5c-4456-97d1-104abaa960a7",
+        "image": "https://uploads.mangadex.org/covers/7bba4ac3-5d5c-4456-97d1-104abaa960a7/0ea042db-60da-439f-a19b-13324d51d58b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5342,
+        "aniId": 35342,
+        "createdAt": "2021-02-19T14:34:02.000Z",
+        "updatedAt": "2021-06-08T11:33:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

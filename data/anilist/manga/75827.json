@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "雨月物語",
+    "Tales of the Pale and Silvery Moon After the Rain",
+    "Tales of Moonlight and Rain"
+  ],
+  "authors": [
+    "Tokiko Hiwa"
+  ],
+  "id": 75827,
+  "malId": 45827,
+  "type": "manga",
+  "title": "Ugetsu Monogatari",
+  "url": "https://anilist.co/manga/75827",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/45827.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:27.000Z",
+  "updatedAt": "2021-05-20T14:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3231f4a7-e67d-4337-874c-a081d95fce8b": {
+        "authors": [
+          "UEDA Akinari",
+          "HIWA Tokiko"
+        ],
+        "identifier": "3231f4a7-e67d-4337-874c-a081d95fce8b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ugetsu Monogatari",
+        "url": "https://mangadex.org/title/3231f4a7-e67d-4337-874c-a081d95fce8b",
+        "image": "https://uploads.mangadex.org/covers/3231f4a7-e67d-4337-874c-a081d95fce8b/674f225f-d938-4880-8986-45e8feb81f58.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45827,
+        "aniId": 75827,
+        "createdAt": "2020-10-12T16:05:43.000Z",
+        "updatedAt": "2021-06-03T14:33:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

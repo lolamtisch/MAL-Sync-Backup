@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Omukae desu.",
+    "お迎えです。",
+    "Omukaedesu",
+    "Nigai Kusuri ni Amai Uso",
+    "Sweet Medicine",
+    "Pick Up Service"
+  ],
+  "authors": [
+    "Meca Tanaka"
+  ],
+  "id": 33051,
+  "malId": 3051,
+  "type": "manga",
+  "title": "Omukae Desu.",
+  "url": "https://anilist.co/manga/33051",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33051-oKRlxLHj9zUd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:02.000Z",
+  "updatedAt": "2021-05-20T14:38:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4bf56d82-97f5-479c-a1c9-e4f1516606c1": {
+        "authors": [
+          "Tanaka Meca"
+        ],
+        "identifier": "4bf56d82-97f5-479c-a1c9-e4f1516606c1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zen'yasai Patroller",
+        "url": "https://mangadex.org/title/4bf56d82-97f5-479c-a1c9-e4f1516606c1",
+        "image": "https://uploads.mangadex.org/covers/4bf56d82-97f5-479c-a1c9-e4f1516606c1/d1dcb319-6e1e-4d86-803c-0bd59ebbaa0b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3051,
+        "aniId": 33051,
+        "createdAt": "2020-10-12T16:06:25.000Z",
+        "updatedAt": "2021-06-03T19:35:30.000Z",
+        "deletedAt": null
+      },
+      "2fc3e311-5b59-4859-a89c-c721b25e4eff": {
+        "authors": [
+          "TANAKA Meca"
+        ],
+        "identifier": "2fc3e311-5b59-4859-a89c-c721b25e4eff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Omukae Desu.",
+        "url": "https://mangadex.org/title/2fc3e311-5b59-4859-a89c-c721b25e4eff",
+        "image": "https://uploads.mangadex.org/covers/2fc3e311-5b59-4859-a89c-c721b25e4eff/5621c9bc-1bb6-45ba-a706-1982c5745efb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3051,
+        "aniId": 33051,
+        "createdAt": "2020-10-12T16:13:06.000Z",
+        "updatedAt": "2021-06-05T18:54:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

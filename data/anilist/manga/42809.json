@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "ハレンチ学園~ザ・カンパニー"
+  ],
+  "authors": [
+    "Go Nagai",
+    "Teruto Aruga"
+  ],
+  "id": 42809,
+  "malId": 12809,
+  "type": "manga",
+  "title": "Harenchi Gakuen: The Company",
+  "url": "https://anilist.co/manga/42809",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12809.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "ba921532": {
+        "authors": [],
+        "identifier": "ba921532",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Harenchi Gakuen",
+        "url": "https://manganelo.com/manga/ba921532",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2934-ba921532.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12809,
+        "aniId": 42809,
+        "createdAt": "2020-10-12T16:22:12.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

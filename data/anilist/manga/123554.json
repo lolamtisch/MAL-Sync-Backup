@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "请叫我小熊猫",
+    "Call Me a Lesser Panda",
+    "Please Call Me Red Panda"
+  ],
+  "authors": [
+    "Aman"
+  ],
+  "id": 123554,
+  "malId": null,
+  "type": "manga",
+  "title": "Qing Jiao Wo Xiao Xiongmao",
+  "url": "https://anilist.co/manga/123554",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123554-7lQSgsrMk96q.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T02:20:48.000Z",
+  "updatedAt": "2021-06-08T02:20:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c92f2328-264e-4d79-91e1-24c8900465d5": {
+        "authors": [
+          "Mosspaca Studio",
+          "Aman"
+        ],
+        "identifier": "c92f2328-264e-4d79-91e1-24c8900465d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Please Call Me Red Panda",
+        "url": "https://mangadex.org/title/c92f2328-264e-4d79-91e1-24c8900465d5",
+        "image": "https://uploads.mangadex.org/covers/c92f2328-264e-4d79-91e1-24c8900465d5/6634d656-2392-4294-a8de-d2001d80ef13.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123554,
+        "createdAt": "2020-10-12T16:21:17.000Z",
+        "updatedAt": "2021-06-08T06:42:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

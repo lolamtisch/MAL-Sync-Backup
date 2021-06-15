@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Negima!? Neo: Magister Negi Magi",
+    "ネギま!?neo"
+  ],
+  "authors": [
+    "Akamatsu, Ken",
+    "Fujima, Takuya"
+  ],
+  "id": 597,
+  "type": "manga",
+  "title": "Negima!? Neo",
+  "url": "https://myanimelist.net/manga/597/Negima_Neo",
+  "image": "https://cdn.myanimelist.net/images/manga/2/156574.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:23.000Z",
+  "updatedAt": "2021-04-26T08:28:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "372f7b2f-8061-4d40-a542-4dc0ee7adf9b": {
+        "authors": [
+          "Akamatsu Ken",
+          "Fujima Takuya"
+        ],
+        "identifier": "372f7b2f-8061-4d40-a542-4dc0ee7adf9b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Negima!? Neo",
+        "url": "https://mangadex.org/title/372f7b2f-8061-4d40-a542-4dc0ee7adf9b",
+        "image": "https://uploads.mangadex.org/covers/372f7b2f-8061-4d40-a542-4dc0ee7adf9b/c50952ad-7a86-4281-b334-ecc80b56e735.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 597,
+        "aniId": 30597,
+        "createdAt": "2020-10-12T16:11:26.000Z",
+        "updatedAt": "2021-06-05T08:24:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "negima_neo": {
+        "authors": [],
+        "identifier": "negima_neo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Negima!? Neo",
+        "url": "https://manganelo.com/manga/negima_neo",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19714-negima_neo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 597,
+        "aniId": 30597,
+        "createdAt": "2020-10-12T16:24:29.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "negima-neo": {
+        "authors": [
+          "AKAMATSU Ken",
+          "FUJIMA Takuya"
+        ],
+        "identifier": "negima-neo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Negima!? Neo",
+        "url": "https://mangasee123.com/manga/Negima-Neo",
+        "image": "https://cover.nep.li/cover/Negima-Neo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 597,
+        "aniId": 30597,
+        "createdAt": "2021-05-08T03:47:23.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

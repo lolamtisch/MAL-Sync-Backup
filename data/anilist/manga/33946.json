@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ショコラ"
+  ],
+  "authors": [
+    "Eisaku Kubonouchi"
+  ],
+  "id": 33946,
+  "malId": 3946,
+  "type": "manga",
+  "title": "Chocolat",
+  "url": "https://anilist.co/manga/33946",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33946-eAqNBSPFp6H4.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:22.000Z",
+  "updatedAt": "2021-05-20T14:38:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4fcb7de4-bb3a-4082-a4bd-0df9ab2c41ec": {
+        "authors": [
+          "Kubonouchi Eisaku"
+        ],
+        "identifier": "4fcb7de4-bb3a-4082-a4bd-0df9ab2c41ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chocolat",
+        "url": "https://mangadex.org/title/4fcb7de4-bb3a-4082-a4bd-0df9ab2c41ec",
+        "image": "https://uploads.mangadex.org/covers/4fcb7de4-bb3a-4082-a4bd-0df9ab2c41ec/da921e68-6b2c-4b29-8078-c5f7724dd974.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3946,
+        "aniId": 33946,
+        "createdAt": "2020-10-12T16:02:48.000Z",
+        "updatedAt": "2021-06-02T09:35:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

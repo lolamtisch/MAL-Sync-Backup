@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "星間ブリッジ",
+    "Un pont entre les étoiles"
+  ],
+  "authors": [
+    "Kyukkupon"
+  ],
+  "id": 111847,
+  "malId": 112629,
+  "type": "manga",
+  "title": "Seikan Bridge",
+  "url": "https://anilist.co/manga/111847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111847-iFQ7pox6EhBK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:55.000Z",
+  "updatedAt": "2021-05-20T14:56:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec56e6db-93b4-4466-9b74-0c2f4b4b7ce2": {
+        "authors": [
+          "Kyukkyupon"
+        ],
+        "identifier": "ec56e6db-93b4-4466-9b74-0c2f4b4b7ce2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Seikan Bridge",
+        "url": "https://mangadex.org/title/ec56e6db-93b4-4466-9b74-0c2f4b4b7ce2",
+        "image": "https://uploads.mangadex.org/covers/ec56e6db-93b4-4466-9b74-0c2f4b4b7ce2/4fd496b2-4d6c-4c10-876a-6201297fe864.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112629,
+        "aniId": 111847,
+        "createdAt": "2020-10-12T16:18:07.000Z",
+        "updatedAt": "2021-06-07T14:00:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "独眼龍改",
+    "Neo Dragon",
+    "Neo Dragoon"
+  ],
+  "authors": [
+    "Yuka Fujikawa"
+  ],
+  "id": 49159,
+  "malId": 19159,
+  "type": "manga",
+  "title": "Dokugan Ryuukai",
+  "url": "https://anilist.co/manga/49159",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19159.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:17.000Z",
+  "updatedAt": "2021-05-20T14:45:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c24dcb4e-7085-4177-afa8-88f370f790df": {
+        "authors": [
+          "Fujikawa Yuka"
+        ],
+        "identifier": "c24dcb4e-7085-4177-afa8-88f370f790df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dokugan Ryuukai",
+        "url": "https://mangadex.org/title/c24dcb4e-7085-4177-afa8-88f370f790df",
+        "image": "https://uploads.mangadex.org/covers/c24dcb4e-7085-4177-afa8-88f370f790df/2c51ee77-3f4a-4afe-b18e-c2fe9f0d9640.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19159,
+        "aniId": 49159,
+        "createdAt": "2020-10-12T16:04:18.000Z",
+        "updatedAt": "2021-06-02T20:12:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dokugan_ryuukai": {
+        "authors": [
+          "Fujikawa",
+          "Yuka"
+        ],
+        "identifier": "dokugan_ryuukai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dokugan Ryuukai",
+        "url": "https://manganelo.com/manga/dokugan_ryuukai",
+        "image": "https://avt.mkklcdnv6temp.com/22/r/6-1583475057.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19159,
+        "aniId": 49159,
+        "createdAt": "2021-04-09T05:20:59.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

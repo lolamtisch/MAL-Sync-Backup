@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "さんらいず!"
+  ],
+  "authors": [
+    "Nami Fujio"
+  ],
+  "id": 85913,
+  "malId": 86701,
+  "type": "manga",
+  "title": "Sunrise!",
+  "url": "https://anilist.co/manga/85913",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55913-LTIG5d4t3djG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:45.000Z",
+  "updatedAt": "2021-06-05T04:19:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09370a3e-7405-4b01-a1da-cbbdbce3b343": {
+        "authors": [
+          "Fujio Nami"
+        ],
+        "identifier": "09370a3e-7405-4b01-a1da-cbbdbce3b343",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sunrise!",
+        "url": "https://mangadex.org/title/09370a3e-7405-4b01-a1da-cbbdbce3b343",
+        "image": "https://uploads.mangadex.org/covers/09370a3e-7405-4b01-a1da-cbbdbce3b343/df9c5b62-62ac-4bcd-994d-bb452a2b9e48.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86701,
+        "aniId": 85913,
+        "createdAt": "2020-10-12T16:08:22.000Z",
+        "updatedAt": "2021-06-04T09:34:39.000Z",
+        "deletedAt": null
+      },
+      "8c2998be-db8f-45c3-959c-3d2d9edd3b44": {
+        "authors": [
+          "FUJIO Nami"
+        ],
+        "identifier": "8c2998be-db8f-45c3-959c-3d2d9edd3b44",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kirakira to Yoru ni Furu",
+        "url": "https://mangadex.org/title/8c2998be-db8f-45c3-959c-3d2d9edd3b44",
+        "image": "https://uploads.mangadex.org/covers/8c2998be-db8f-45c3-959c-3d2d9edd3b44/94310668-369f-4208-bcc4-9ebba4520183.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86701,
+        "aniId": 85913,
+        "createdAt": "2020-10-12T16:10:51.000Z",
+        "updatedAt": "2021-06-05T08:55:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

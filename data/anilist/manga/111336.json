@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "くびのないはな",
+    "Kubinonaihana"
+  ],
+  "authors": [
+    "Towoji Honojiro"
+  ],
+  "id": 111336,
+  "malId": 102048,
+  "type": "manga",
+  "title": "Kubi no Nai Hana",
+  "url": "https://anilist.co/manga/111336",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111336-0LpX8UUN40S4.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T07:49:29.000Z",
+  "updatedAt": "2021-06-05T07:49:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "59e27d21-5c79-4935-8591-abbbc5ac9134": {
+        "authors": [
+          "Shishunnki"
+        ],
+        "identifier": "59e27d21-5c79-4935-8591-abbbc5ac9134",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kubi no nai Hana",
+        "url": "https://mangadex.org/title/59e27d21-5c79-4935-8591-abbbc5ac9134",
+        "image": "https://uploads.mangadex.org/covers/59e27d21-5c79-4935-8591-abbbc5ac9134/349a303f-5e39-43a3-8b19-b232a8a075e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102048,
+        "aniId": 111336,
+        "createdAt": "2020-10-12T16:11:19.000Z",
+        "updatedAt": "2021-06-05T08:37:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

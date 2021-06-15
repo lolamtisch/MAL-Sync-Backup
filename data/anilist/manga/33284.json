@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ハッピーワールド"
+  ],
+  "authors": [
+    "Kenjirou Takeshita"
+  ],
+  "id": 33284,
+  "malId": 3284,
+  "type": "manga",
+  "title": "Happy World!",
+  "url": "https://anilist.co/manga/33284",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3284.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2d9982bf-3d00-43b1-91c0-8ee64d79a226": {
+        "authors": [
+          "Takeshita Kenjirou"
+        ],
+        "identifier": "2d9982bf-3d00-43b1-91c0-8ee64d79a226",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Happy World!",
+        "url": "https://mangadex.org/title/2d9982bf-3d00-43b1-91c0-8ee64d79a226",
+        "image": "https://uploads.mangadex.org/covers/2d9982bf-3d00-43b1-91c0-8ee64d79a226/9baa49cd-8633-4584-9d90-c66d6abe987e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3284,
+        "aniId": 33284,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:26:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "happy_world": {
+        "authors": [
+          "Takeshita",
+          "Kenjirou"
+        ],
+        "identifier": "happy_world",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Happy World!",
+        "url": "https://manganelo.com/manga/happy_world",
+        "image": "https://avt.mkklcdnv6temp.com/17/v/5-1583472545.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3284,
+        "aniId": 33284,
+        "createdAt": "2021-02-25T14:55:39.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

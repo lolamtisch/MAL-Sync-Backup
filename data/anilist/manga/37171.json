@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "花忍の恋",
+    "Path To Happiness",
+    "Project Section 3: Only For Two",
+    "Banquet For Two"
+  ],
+  "authors": [
+    "Marumi Koike"
+  ],
+  "id": 37171,
+  "malId": 7171,
+  "type": "manga",
+  "title": "Hana Shinobu no Koi",
+  "url": "https://anilist.co/manga/37171",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7171.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:46.000Z",
+  "updatedAt": "2021-05-20T14:39:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c00ca2d7-426e-41cf-8254-e40218a78b81": {
+        "authors": [
+          "KOIKE Marumi"
+        ],
+        "identifier": "c00ca2d7-426e-41cf-8254-e40218a78b81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana Shinobu no Koi",
+        "url": "https://mangadex.org/title/c00ca2d7-426e-41cf-8254-e40218a78b81",
+        "image": "https://uploads.mangadex.org/covers/c00ca2d7-426e-41cf-8254-e40218a78b81/1449b6db-32f2-49df-bf57-d1f8ed4e8100.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7171,
+        "aniId": 37171,
+        "createdAt": "2021-02-10T12:41:13.000Z",
+        "updatedAt": "2021-06-08T11:06:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

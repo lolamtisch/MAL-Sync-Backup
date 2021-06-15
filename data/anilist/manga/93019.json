@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "会話",
+    "Conversation"
+  ],
+  "authors": [],
+  "id": 93019,
+  "malId": 80455,
+  "type": "manga",
+  "title": "Kaiwa",
+  "url": "https://anilist.co/manga/93019",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93019-hmnb0J3h8MCp.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T05:51:48.000Z",
+  "updatedAt": "2021-06-04T05:51:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba1631e2-a9e9-42bd-90c9-46ee60ee3903": {
+        "authors": [
+          "Narapon"
+        ],
+        "identifier": "ba1631e2-a9e9-42bd-90c9-46ee60ee3903",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaiwa",
+        "url": "https://mangadex.org/title/ba1631e2-a9e9-42bd-90c9-46ee60ee3903",
+        "image": "https://uploads.mangadex.org/covers/ba1631e2-a9e9-42bd-90c9-46ee60ee3903/9feecacd-06bf-4fa3-8b37-ae1088f73813.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80455,
+        "aniId": 93019,
+        "createdAt": "2020-10-12T16:07:50.000Z",
+        "updatedAt": "2021-06-04T09:03:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

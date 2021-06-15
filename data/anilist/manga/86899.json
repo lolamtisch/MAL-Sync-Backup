@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "魔法少女 俺",
+    "Magical Girl Ore",
+    "magical I"
+  ],
+  "authors": [
+    "Icchokusen Moukon"
+  ],
+  "id": 86899,
+  "malId": 81971,
+  "type": "manga",
+  "title": "Mahou Shoujo Ore",
+  "url": "https://anilist.co/manga/86899",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56899-anU2sN73hQow.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:04.000Z",
+  "updatedAt": "2021-05-20T14:52:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a6640750-c565-4f34-8272-96639b36bdd1": {
+        "authors": [
+          "Moudama Chokusen"
+        ],
+        "identifier": "a6640750-c565-4f34-8272-96639b36bdd1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Shoujo Ore",
+        "url": "https://mangadex.org/title/a6640750-c565-4f34-8272-96639b36bdd1",
+        "image": "https://uploads.mangadex.org/covers/a6640750-c565-4f34-8272-96639b36bdd1/69e24d7e-f771-4735-b0a6-8fa63d761aeb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81971,
+        "aniId": 86899,
+        "createdAt": "2020-10-12T16:08:27.000Z",
+        "updatedAt": "2021-06-04T10:12:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mahou-shoujo-ore": {
+        "authors": [
+          "MOUDAMA Chokusen"
+        ],
+        "identifier": "mahou-shoujo-ore",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Magical Girl Ore",
+        "url": "https://mangasee123.com/manga/Mahou-Shoujo-Ore",
+        "image": "https://cover.nep.li/cover/Mahou-Shoujo-Ore.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 81971,
+        "aniId": 86899,
+        "createdAt": "2021-03-25T03:19:04.000Z",
+        "updatedAt": "2021-05-24T17:38:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

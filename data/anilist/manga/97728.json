@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "うらたろう"
+  ],
+  "authors": [
+    "Atsushi Nakayama"
+  ],
+  "id": 97728,
+  "malId": 100217,
+  "type": "manga",
+  "title": "Uratarou",
+  "url": "https://anilist.co/manga/97728",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97728-QwSV3CCdWwsX.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:45.000Z",
+  "updatedAt": "2021-05-20T14:54:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "915e4b42-5516-4299-9be7-e0e20acc04e2": {
+        "authors": [
+          "Nakayama Atsushi"
+        ],
+        "identifier": "915e4b42-5516-4299-9be7-e0e20acc04e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uratarou",
+        "url": "https://mangadex.org/title/915e4b42-5516-4299-9be7-e0e20acc04e2",
+        "image": "https://uploads.mangadex.org/covers/915e4b42-5516-4299-9be7-e0e20acc04e2/f2fc11a2-5c7f-42cb-9108-f63f430b165a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100217,
+        "aniId": 97728,
+        "createdAt": "2020-10-12T16:10:09.000Z",
+        "updatedAt": "2021-06-04T22:38:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "uratarou": {
+        "authors": [],
+        "identifier": "uratarou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Uratarou",
+        "url": "https://manganelo.com/manga/uratarou",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/17567-uratarou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100217,
+        "aniId": 97728,
+        "createdAt": "2020-10-12T16:25:58.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "uratarou": {
+        "authors": [
+          "NAKAYAMA Atsushi"
+        ],
+        "identifier": "uratarou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Uratarou",
+        "url": "https://fanfox.net/manga/uratarou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22011/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100217,
+        "aniId": 97728,
+        "createdAt": "2021-01-28T04:10:58.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "uratarou": {
+        "authors": [
+          "NAKAYAMA Atsushi"
+        ],
+        "identifier": "uratarou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Uratarou",
+        "url": "https://mangasee123.com/manga/Uratarou",
+        "image": "https://cover.nep.li/cover/Uratarou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100217,
+        "aniId": 97728,
+        "createdAt": "2021-04-18T13:44:38.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

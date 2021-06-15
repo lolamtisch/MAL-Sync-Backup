@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "千一夜ドロップ",
+    "Senichiya Drop",
+    "Senichi'ya Drop"
+  ],
+  "authors": [
+    "Ran Igarashi"
+  ],
+  "id": 85560,
+  "malId": 56779,
+  "type": "manga",
+  "title": "Senichiya Drop",
+  "url": "https://anilist.co/manga/85560",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55560.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:29.000Z",
+  "updatedAt": "2021-06-03T21:19:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "94815b27-f84c-4099-9163-7894b12ec1d9": {
+        "authors": [
+          "Igarashi Ran"
+        ],
+        "identifier": "94815b27-f84c-4099-9163-7894b12ec1d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Senichiya Drop",
+        "url": "https://mangadex.org/title/94815b27-f84c-4099-9163-7894b12ec1d9",
+        "image": "https://uploads.mangadex.org/covers/94815b27-f84c-4099-9163-7894b12ec1d9/e69a09f6-d1c3-43b5-89bc-f7bfdc227a75.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56779,
+        "aniId": 85560,
+        "createdAt": "2020-10-12T16:06:38.000Z",
+        "updatedAt": "2021-06-03T21:40:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sen-ichi-ya-d-r-o-p": {
+        "authors": [
+          "IGARASHI Ran (II)"
+        ],
+        "identifier": "sen-ichi-ya-d-r-o-p",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sen-Ichi-Ya DROP",
+        "url": "https://mangasee123.com/manga/Sen-Ichi-Ya-D-R-O-P",
+        "image": "https://cover.nep.li/cover/Sen-Ichi-Ya-D-R-O-P.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56779,
+        "aniId": 85560,
+        "createdAt": "2021-03-25T21:19:26.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

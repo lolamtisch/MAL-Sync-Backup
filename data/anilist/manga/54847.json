@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "おーまがとき!"
+  ],
+  "authors": [
+    "Nakamura Seiko"
+  ],
+  "id": 54847,
+  "malId": 24847,
+  "type": "manga",
+  "title": "Ooma ga Toki!",
+  "url": "https://anilist.co/manga/54847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/24847.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:50:59.000Z",
+  "updatedAt": "2021-06-04T16:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6fa9ed94-a8ae-4814-9d9e-7d57f4c2c7e4": {
+        "authors": [
+          "Nakamura Seiko"
+        ],
+        "identifier": "6fa9ed94-a8ae-4814-9d9e-7d57f4c2c7e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ooma ga Toki!",
+        "url": "https://mangadex.org/title/6fa9ed94-a8ae-4814-9d9e-7d57f4c2c7e4",
+        "image": "https://uploads.mangadex.org/covers/6fa9ed94-a8ae-4814-9d9e-7d57f4c2c7e4/7bb83d3b-d240-434d-9189-937a1cdc08d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24847,
+        "aniId": 54847,
+        "createdAt": "2020-10-12T16:09:17.000Z",
+        "updatedAt": "2021-06-04T16:51:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

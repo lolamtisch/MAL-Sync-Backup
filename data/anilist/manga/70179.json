@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Hayato Hoshimi"
+  ],
+  "id": 70179,
+  "malId": 40179,
+  "type": "manga",
+  "title": "Sora-Roma",
+  "url": "https://anilist.co/manga/70179",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/40179.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:41.000Z",
+  "updatedAt": "2021-05-20T14:48:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6b1dc29d-31ae-475e-a879-259b6fbff325": {
+        "authors": [
+          "Hoshimi Hayato"
+        ],
+        "identifier": "6b1dc29d-31ae-475e-a879-259b6fbff325",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sora-Roma",
+        "url": "https://mangadex.org/title/6b1dc29d-31ae-475e-a879-259b6fbff325",
+        "image": "https://uploads.mangadex.org/covers/6b1dc29d-31ae-475e-a879-259b6fbff325/630f75fd-518a-497a-9d20-6f5af9b40bde.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40179,
+        "aniId": 70179,
+        "createdAt": "2020-10-12T16:04:49.000Z",
+        "updatedAt": "2021-06-02T23:38:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

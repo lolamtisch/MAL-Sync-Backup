@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "月刊哀川編集",
+    "Monthly Aikawa the Chief Editor"
+  ],
+  "authors": [
+    "Takeshi Ohmi"
+  ],
+  "id": 52280,
+  "malId": 22280,
+  "type": "manga",
+  "title": "Gekkan Aikawa Henshuuchou",
+  "url": "https://anilist.co/manga/52280",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22280.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:30.000Z",
+  "updatedAt": "2021-05-20T14:46:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b456a0c2-3e75-4276-b1fa-b5258ba59f0a": {
+        "authors": [
+          "Ohmi Takeshi"
+        ],
+        "identifier": "b456a0c2-3e75-4276-b1fa-b5258ba59f0a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gekkan Aikawa Henshuuchou",
+        "url": "https://mangadex.org/title/b456a0c2-3e75-4276-b1fa-b5258ba59f0a",
+        "image": "https://uploads.mangadex.org/covers/b456a0c2-3e75-4276-b1fa-b5258ba59f0a/0abfdb1a-4fc3-407f-86bb-f97e1cfb2ca4.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22280,
+        "aniId": 52280,
+        "createdAt": "2020-12-19T07:56:04.000Z",
+        "updatedAt": "2021-06-08T08:58:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

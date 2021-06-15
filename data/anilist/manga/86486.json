@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Coiling Dragon",
+    "盘龙",
+    "Crouching Dragon"
+  ],
+  "authors": [
+    "Kotaro Koizumi",
+    "Tong Yi Ming",
+    "Wo Chi Xihongshi"
+  ],
+  "id": 86486,
+  "malId": 86891,
+  "type": "manga",
+  "title": "Panlong",
+  "url": "https://anilist.co/manga/86486",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86486-lJjo26or9gSk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:45.000Z",
+  "updatedAt": "2021-05-20T14:52:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "77b1fb34-f891-4c8e-b48b-2d425a304c37": {
+        "authors": [
+          "I Eat Tomatoes",
+          "Coolam"
+        ],
+        "identifier": "77b1fb34-f891-4c8e-b48b-2d425a304c37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Panlong",
+        "url": "https://mangadex.org/title/77b1fb34-f891-4c8e-b48b-2d425a304c37",
+        "image": "https://uploads.mangadex.org/covers/77b1fb34-f891-4c8e-b48b-2d425a304c37/864325e1-1bdd-4252-b748-e9d750680979.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86891,
+        "aniId": 86486,
+        "createdAt": "2020-10-12T16:08:22.000Z",
+        "updatedAt": "2021-06-04T09:34:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "read_panlong_manga": {
+        "authors": [],
+        "identifier": "read_panlong_manga",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Panlong",
+        "url": "https://manganelo.com/manga/read_panlong_manga",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/457-read_panlong_manga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86891,
+        "aniId": 86486,
+        "createdAt": "2020-10-12T16:25:07.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zq951873": {
+        "authors": [
+          "I Eat Tomatoes"
+        ],
+        "identifier": "manga-zq951873",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Panlong",
+        "url": "https://readmanganato.com/manga-zq951873",
+        "image": "https://avt.mkklcdnv6temp.com/19/o/1-1583464463.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 86891,
+        "aniId": 86486,
+        "createdAt": "2021-06-01T15:33:20.000Z",
+        "updatedAt": "2021-06-01T20:01:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "放課後",
+    "After School",
+    "Hokago"
+  ],
+  "authors": [
+    "Towa Ooshima",
+    "Tomo Ooshima"
+  ],
+  "id": 111464,
+  "malId": null,
+  "type": "manga",
+  "title": "Houkago",
+  "url": "https://anilist.co/manga/111464",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111464-mqPFRdYlAi3w.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T02:08:17.000Z",
+  "updatedAt": "2021-05-26T02:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1b46b76c-bd79-4d42-8b21-e199993fee49": {
+        "authors": [
+          "Oshima Tomo",
+          "Oshima Towa"
+        ],
+        "identifier": "1b46b76c-bd79-4d42-8b21-e199993fee49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "After School",
+        "url": "https://mangadex.org/title/1b46b76c-bd79-4d42-8b21-e199993fee49",
+        "image": "https://uploads.mangadex.org/covers/1b46b76c-bd79-4d42-8b21-e199993fee49/04949712-644a-4e48-8726-649a9769ca5d.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 111464,
+        "createdAt": "2020-10-12T16:15:07.000Z",
+        "updatedAt": "2021-06-06T13:41:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

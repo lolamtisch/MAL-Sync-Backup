@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "プリンセスコネクト！ Re:Dive",
+    "Purinsesu Konekuto! Ridaibu"
+  ],
+  "authors": [
+    "wEshica/Shogo",
+    "Cygames",
+    "Asahiro Kakashi"
+  ],
+  "id": 123911,
+  "malId": null,
+  "type": "manga",
+  "title": "Princess Connect! Re:Dive",
+  "url": "https://anilist.co/manga/123911",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123911-FSHNeQVvRhTY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T00:53:08.000Z",
+  "updatedAt": "2021-06-08T00:53:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "151d1758-f871-46ac-8edc-75ab69b688fe": {
+        "authors": [
+          "Eshika/Shogo",
+          "KAKASHI Asahiro"
+        ],
+        "identifier": "151d1758-f871-46ac-8edc-75ab69b688fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Princess Connect! Re:Dive",
+        "url": "https://mangadex.org/title/151d1758-f871-46ac-8edc-75ab69b688fe",
+        "image": "https://uploads.mangadex.org/covers/151d1758-f871-46ac-8edc-75ab69b688fe/a1e152de-3367-49cf-8f6e-0839ed109da7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123911,
+        "createdAt": "2020-10-12T16:20:36.000Z",
+        "updatedAt": "2021-06-08T00:54:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

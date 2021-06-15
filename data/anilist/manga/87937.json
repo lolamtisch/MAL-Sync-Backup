@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "LES MISERABLES レ・ミゼラブル",
+    "Les Miserables"
+  ],
+  "authors": [
+    "Victor-Marie Hugo",
+    "Takahiro Arai"
+  ],
+  "id": 87937,
+  "malId": 55301,
+  "type": "manga",
+  "title": "Les Misérables",
+  "url": "https://anilist.co/manga/87937",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87937-ZK2ix2SQeoDj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:02.000Z",
+  "updatedAt": "2021-05-20T14:50:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a2f9d3c4-5e32-46da-947a-ab5a87bd039b": {
+        "authors": [
+          "Arai Takahiro",
+          "Victor Hugo"
+        ],
+        "identifier": "a2f9d3c4-5e32-46da-947a-ab5a87bd039b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Les Miserables (ARAI Takahiro)",
+        "url": "https://mangadex.org/title/a2f9d3c4-5e32-46da-947a-ab5a87bd039b",
+        "image": "https://uploads.mangadex.org/covers/a2f9d3c4-5e32-46da-947a-ab5a87bd039b/6d0a5319-3ba3-4593-a8b2-269d5e3b4500.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55301,
+        "aniId": 87937,
+        "createdAt": "2020-10-12T16:08:24.000Z",
+        "updatedAt": "2021-06-04T09:50:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "les_miserables_arai_takahiro": {
+        "authors": [
+          "Victor",
+          "Hugo"
+        ],
+        "identifier": "les_miserables_arai_takahiro",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Les Miserables (Arai Takahiro)",
+        "url": "https://manganelo.com/manga/les_miserables_arai_takahiro",
+        "image": "https://avt.mkklcdnv6.com/6/s/2-1583465954.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55301,
+        "aniId": 87937,
+        "createdAt": "2020-10-30T06:42:18.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

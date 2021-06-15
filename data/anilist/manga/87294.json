@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "부활남",
+    "Revival Man"
+  ],
+  "authors": [
+    "Yong-Taek Chae",
+    "Kim Jae-Han"
+  ],
+  "id": 87294,
+  "malId": null,
+  "type": "manga",
+  "title": "Buhwalnam",
+  "url": "https://anilist.co/manga/87294",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57294-ne7pxWNMXLjQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-27T13:28:43.000Z",
+  "updatedAt": "2021-05-27T13:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e873799-6f86-4f17-bc50-8b6ba07b9978": {
+        "authors": [
+          "Kim Jae-han",
+          "Jae Yong Taek"
+        ],
+        "identifier": "3e873799-6f86-4f17-bc50-8b6ba07b9978",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Revival Man",
+        "url": "https://mangadex.org/title/3e873799-6f86-4f17-bc50-8b6ba07b9978",
+        "image": "https://uploads.mangadex.org/covers/3e873799-6f86-4f17-bc50-8b6ba07b9978/3205ab00-84e2-4df5-bd80-48d89450fbce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 87294,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T22:09:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ul971646": {
+        "authors": [
+          "Chae Yong Taek",
+          "Kim Jae-Han"
+        ],
+        "identifier": "manga-ul971646",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Revival Man",
+        "url": "https://readmanganato.com/manga-ul971646",
+        "image": "https://avt.mkklcdnv6temp.com/49/p/13-1583489670.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 87294,
+        "createdAt": "2021-05-29T03:46:18.000Z",
+        "updatedAt": "2021-06-08T13:25:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

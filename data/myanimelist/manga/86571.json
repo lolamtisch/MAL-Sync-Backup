@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "リンクス"
+  ],
+  "authors": [
+    "Kizu, Natsuki"
+  ],
+  "id": 86571,
+  "type": "manga",
+  "title": "Links",
+  "url": "https://myanimelist.net/manga/86571/Links",
+  "image": "https://cdn.myanimelist.net/images/manga/1/151303.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:51.000Z",
+  "updatedAt": "2021-05-12T18:54:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cb5ca378-79bf-4f9e-8e4a-1939348c85fa": {
+        "authors": [
+          "Kizu Natsuki"
+        ],
+        "identifier": "cb5ca378-79bf-4f9e-8e4a-1939348c85fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Links",
+        "url": "https://mangadex.org/title/cb5ca378-79bf-4f9e-8e4a-1939348c85fa",
+        "image": "https://uploads.mangadex.org/covers/cb5ca378-79bf-4f9e-8e4a-1939348c85fa/3be308a0-bb6d-4f80-8338-a8d615be4479.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86571,
+        "aniId": 98009,
+        "createdAt": "2020-10-12T16:10:32.000Z",
+        "updatedAt": "2021-06-05T01:31:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

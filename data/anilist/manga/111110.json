@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "나의 하나뿐인 고양이",
+    "My One and Only Cat"
+  ],
+  "authors": [
+    "So-Nyeon"
+  ],
+  "id": 111110,
+  "malId": null,
+  "type": "manga",
+  "title": "Naui Hanappunin Goyangi",
+  "url": "https://anilist.co/manga/111110",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111110-O8Cix2pWn5SM.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-29T22:42:13.000Z",
+  "updatedAt": "2021-05-29T22:42:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "98e1f89b-4375-42bd-ae55-33d6c120c3e8": {
+        "authors": [
+          "Sonyeon"
+        ],
+        "identifier": "98e1f89b-4375-42bd-ae55-33d6c120c3e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My One and Only Cat",
+        "url": "https://mangadex.org/title/98e1f89b-4375-42bd-ae55-33d6c120c3e8",
+        "image": "https://uploads.mangadex.org/covers/98e1f89b-4375-42bd-ae55-33d6c120c3e8/d50140f0-083f-4de0-8484-adac7b692429.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111110,
+        "createdAt": "2020-10-12T16:16:34.000Z",
+        "updatedAt": "2021-06-07T07:16:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

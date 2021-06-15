@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Under the Dapple Shade",
+    "こもれ陽の下で",
+    "Komorebi no Moto de"
+  ],
+  "authors": [
+    "Tsukasa Houjou"
+  ],
+  "id": 34007,
+  "malId": 4007,
+  "type": "manga",
+  "title": "Under the Dapple Shade",
+  "url": "https://anilist.co/manga/34007",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4007.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:23.000Z",
+  "updatedAt": "2021-05-20T14:38:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a8e5083e-ce38-4ab3-9644-68177cb9f868": {
+        "authors": [
+          "Hojo Tsukasa"
+        ],
+        "identifier": "a8e5083e-ce38-4ab3-9644-68177cb9f868",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Under the Dappled Sun",
+        "url": "https://mangadex.org/title/a8e5083e-ce38-4ab3-9644-68177cb9f868",
+        "image": "https://uploads.mangadex.org/covers/a8e5083e-ce38-4ab3-9644-68177cb9f868/ada4aa27-6c48-4f8c-905a-1bf1da0c70d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4007,
+        "aniId": 34007,
+        "createdAt": "2020-10-12T16:05:06.000Z",
+        "updatedAt": "2021-06-03T10:12:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

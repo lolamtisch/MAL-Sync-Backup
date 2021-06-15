@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Time Lag",
+    "タイムラグ"
+  ],
+  "authors": [
+    "Gotou, Shinobu",
+    "Odagiri, Hotaru"
+  ],
+  "id": 1580,
+  "type": "manga",
+  "title": "Time Lag",
+  "url": "https://myanimelist.net/manga/1580/Time_Lag",
+  "image": "https://cdn.myanimelist.net/images/manga/2/24259.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T12:20:59.000Z",
+  "updatedAt": "2021-06-04T12:20:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d37e74e0-9152-4c7b-a706-7f63a2ab9912": {
+        "authors": [
+          "Odagiri Hotaru",
+          "Gotou Shinobu"
+        ],
+        "identifier": "d37e74e0-9152-4c7b-a706-7f63a2ab9912",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Time Lag",
+        "url": "https://mangadex.org/title/d37e74e0-9152-4c7b-a706-7f63a2ab9912",
+        "image": "https://uploads.mangadex.org/covers/d37e74e0-9152-4c7b-a706-7f63a2ab9912/ec2e7cf9-5e7f-4f76-920f-ee58d6600641.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1580,
+        "aniId": 31580,
+        "createdAt": "2020-10-12T16:08:40.000Z",
+        "updatedAt": "2021-06-04T12:48:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

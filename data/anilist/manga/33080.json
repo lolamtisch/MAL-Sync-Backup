@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ぷぎゅる"
+  ],
+  "authors": [
+    "Tohiro Konno"
+  ],
+  "id": 33080,
+  "malId": 3080,
+  "type": "manga",
+  "title": "Pugyuru",
+  "url": "https://anilist.co/manga/33080",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33080-oMPCSgzbS6kq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:02.000Z",
+  "updatedAt": "2021-05-20T14:38:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8cb54e20-b377-49e2-9052-ab77bac02708": {
+        "authors": [
+          "Konno Tohiro"
+        ],
+        "identifier": "8cb54e20-b377-49e2-9052-ab77bac02708",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pugyuru",
+        "url": "https://mangadex.org/title/8cb54e20-b377-49e2-9052-ab77bac02708",
+        "image": "https://uploads.mangadex.org/covers/8cb54e20-b377-49e2-9052-ab77bac02708/216b0386-2e18-4426-b2d8-92b10eb1dc4c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3080,
+        "aniId": 33080,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T00:20:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pugyuru": {
+        "authors": [
+          "Konno",
+          "Tohiro"
+        ],
+        "identifier": "pugyuru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Pugyuru",
+        "url": "https://manganelo.com/manga/pugyuru",
+        "image": "https://avt.mkklcdnv6.com/7/p/5-1583472161.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3080,
+        "aniId": 33080,
+        "createdAt": "2021-01-06T22:35:41.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

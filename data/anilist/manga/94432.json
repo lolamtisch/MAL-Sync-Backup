@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "ヘヴィーオブジェクトA（エース）",
+    "Heavy Object Ace"
+  ],
+  "authors": [
+    "Sakae Saito",
+    "Kazuma Kamachi",
+    "Nagiryo"
+  ],
+  "id": 94432,
+  "malId": 87660,
+  "type": "manga",
+  "title": "Heavy Object A",
+  "url": "https://anilist.co/manga/94432",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94432-yHUbRxjMqSqK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:48.000Z",
+  "updatedAt": "2021-05-20T14:52:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c063326-7e21-4bd5-ab1e-0462d867e6b2": {
+        "authors": [
+          "Saito Sakae",
+          "Kamachi Kazuma"
+        ],
+        "identifier": "7c063326-7e21-4bd5-ab1e-0462d867e6b2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heavy Object A",
+        "url": "https://mangadex.org/title/7c063326-7e21-4bd5-ab1e-0462d867e6b2",
+        "image": "https://uploads.mangadex.org/covers/7c063326-7e21-4bd5-ab1e-0462d867e6b2/0a6d3ce2-41bc-42c5-918f-e0402c0ede09.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87660,
+        "aniId": 94432,
+        "createdAt": "2020-10-12T16:09:01.000Z",
+        "updatedAt": "2021-06-04T14:29:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

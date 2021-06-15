@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "かなしいどうぶつ"
+  ],
+  "authors": [
+    "Kiyo Komizu",
+    "Miyu Matsuda"
+  ],
+  "id": 63947,
+  "malId": 33947,
+  "type": "manga",
+  "title": "Kanashii Doubutsu",
+  "url": "https://anilist.co/manga/63947",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx63947-Ns8NFJUDI6oS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:57.000Z",
+  "updatedAt": "2021-05-20T14:47:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "78a573e6-b937-4867-aaff-6a8f3236c059": {
+        "authors": [
+          "Komizu Kiyo",
+          "Matsuda Miyu"
+        ],
+        "identifier": "78a573e6-b937-4867-aaff-6a8f3236c059",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanashii Doubutsu",
+        "url": "https://mangadex.org/title/78a573e6-b937-4867-aaff-6a8f3236c059",
+        "image": "https://uploads.mangadex.org/covers/78a573e6-b937-4867-aaff-6a8f3236c059/51b9049d-7a90-4e04-b31c-8d742c05f819.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33947,
+        "aniId": 63947,
+        "createdAt": "2020-10-12T16:04:31.000Z",
+        "updatedAt": "2021-06-02T21:39:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "찬란한 액션 유치원",
+    "Fight Club Kindergarten"
+  ],
+  "authors": [
+    "Tom Lee",
+    "Dong Chan Kim"
+  ],
+  "id": 115748,
+  "malId": null,
+  "type": "manga",
+  "title": "Chanlanhan Aegsyeon Yuchiwon",
+  "url": "https://anilist.co/manga/115748",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b115748-jk82GXGlIJ3k.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T13:05:58.000Z",
+  "updatedAt": "2021-06-07T13:05:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "381d64fc-2793-49c0-b363-5d319064adf6": {
+        "authors": [
+          "김동찬",
+          "탐이부"
+        ],
+        "identifier": "381d64fc-2793-49c0-b363-5d319064adf6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fight Club Kindergarten",
+        "url": "https://mangadex.org/title/381d64fc-2793-49c0-b363-5d319064adf6",
+        "image": "https://uploads.mangadex.org/covers/381d64fc-2793-49c0-b363-5d319064adf6/dda7d361-2530-4795-b3ac-4e5dba767c46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 115748,
+        "createdAt": "2020-10-12T16:18:01.000Z",
+        "updatedAt": "2021-06-07T13:40:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

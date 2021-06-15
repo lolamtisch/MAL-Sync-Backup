@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "フェルメルマルディ"
+  ],
+  "authors": [
+    "Hajime Kirino"
+  ],
+  "id": 74777,
+  "malId": 44777,
+  "type": "manga",
+  "title": "Fermer Mardi",
+  "url": "https://anilist.co/manga/74777",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74777-9JY6MT2qvqZ9.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "30d429f9-7850-4074-9eb2-b0e6875d02f5": {
+        "authors": [
+          "KIRINO Hajime"
+        ],
+        "identifier": "30d429f9-7850-4074-9eb2-b0e6875d02f5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fermer Mardi",
+        "url": "https://mangadex.org/title/30d429f9-7850-4074-9eb2-b0e6875d02f5",
+        "image": "https://uploads.mangadex.org/covers/30d429f9-7850-4074-9eb2-b0e6875d02f5/8dac4ebd-16aa-4637-9492-5423cce2dd23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44777,
+        "aniId": 74777,
+        "createdAt": "2020-10-12T16:07:26.000Z",
+        "updatedAt": "2021-06-04T02:44:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

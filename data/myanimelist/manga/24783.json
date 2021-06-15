@@ -1,0 +1,40 @@
+{
+  "altTitle": [
+    "なんじゃもんじゃ"
+  ],
+  "authors": [],
+  "id": 24783,
+  "type": "manga",
+  "title": "Nanja Monja",
+  "url": "https://myanimelist.net/manga/24783/Nanja_Monja",
+  "image": "https://cdn.myanimelist.net/images/manga/3/39860.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-02-21T08:03:32.000Z",
+  "updatedAt": "2021-06-08T12:07:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4308cd33-9620-415f-8a2b-ef5f51c775bd": {
+        "authors": [
+          "ITOU Shizuka"
+        ],
+        "identifier": "4308cd33-9620-415f-8a2b-ef5f51c775bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nanja Monja",
+        "url": "https://mangadex.org/title/4308cd33-9620-415f-8a2b-ef5f51c775bd",
+        "image": "https://uploads.mangadex.org/covers/4308cd33-9620-415f-8a2b-ef5f51c775bd/bf1f1977-170c-463a-abb6-e0fa124320ac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 24783,
+        "aniId": 54783,
+        "createdAt": "2021-02-21T08:03:32.000Z",
+        "updatedAt": "2021-06-08T12:07:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

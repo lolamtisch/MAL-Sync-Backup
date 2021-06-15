@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ゴーレムハーツ"
+  ],
+  "authors": [
+    "Gen Oosuka"
+  ],
+  "id": 100671,
+  "malId": 110026,
+  "type": "manga",
+  "title": "Golem Hearts",
+  "url": "https://anilist.co/manga/100671",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100671-WQVkRH3fAix0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:08.000Z",
+  "updatedAt": "2021-05-20T14:56:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d9a729a0-70d4-4eb2-95f0-493f1b1e02bf": {
+        "authors": [
+          "Oosuga Gen"
+        ],
+        "identifier": "d9a729a0-70d4-4eb2-95f0-493f1b1e02bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Golem Hearts",
+        "url": "https://mangadex.org/title/d9a729a0-70d4-4eb2-95f0-493f1b1e02bf",
+        "image": "https://uploads.mangadex.org/covers/d9a729a0-70d4-4eb2-95f0-493f1b1e02bf/9757d699-7739-4eaa-9187-17be96501511.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110026,
+        "aniId": 100671,
+        "createdAt": "2020-10-12T16:11:05.000Z",
+        "updatedAt": "2021-06-05T05:34:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "golem_hearts": {
+        "authors": [],
+        "identifier": "golem_hearts",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Golem Hearts",
+        "url": "https://manganelo.com/manga/golem_hearts",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18215-golem_hearts.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110026,
+        "aniId": 100671,
+        "createdAt": "2020-10-12T16:23:08.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "golem-hearts": {
+        "authors": [
+          "OSUKA Gen"
+        ],
+        "identifier": "golem-hearts",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Golem Hearts",
+        "url": "https://mangasee123.com/manga/Golem-Hearts",
+        "image": "https://cover.nep.li/cover/Golem-Hearts.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110026,
+        "aniId": 100671,
+        "createdAt": "2021-02-08T05:19:53.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

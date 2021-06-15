@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "メメントメモリ",
+    "Keepsake Memory",
+    "Memento Memory",
+    "Remember that you must die"
+  ],
+  "authors": [
+    "Kou-ki"
+  ],
+  "id": 104216,
+  "malId": null,
+  "type": "manga",
+  "title": "Memento Memori",
+  "url": "https://anilist.co/manga/104216",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104216-YVCuMCtLhGZM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-27T10:28:43.000Z",
+  "updatedAt": "2021-05-27T10:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb": {
+        "authors": [
+          "Kou-ki"
+        ],
+        "identifier": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Memento Memori",
+        "url": "https://mangadex.org/title/1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+        "image": "https://uploads.mangadex.org/covers/1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb/e2445383-a300-4870-b782-f9fd92dd03d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 104216,
+        "createdAt": "2020-10-12T16:13:37.000Z",
+        "updatedAt": "2021-06-06T00:22:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

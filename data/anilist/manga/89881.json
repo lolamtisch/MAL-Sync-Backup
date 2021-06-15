@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "普通百景"
+  ],
+  "authors": [],
+  "id": 89881,
+  "malId": 63913,
+  "type": "manga",
+  "title": "Futsuu Hyakkei",
+  "url": "https://anilist.co/manga/89881",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/89881-T2fsXxDRlNaz.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:49.000Z",
+  "updatedAt": "2021-05-20T14:50:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a406dff1-6798-4d5e-a735-78bc519b1a8c": {
+        "authors": [
+          "Tsujita Ririko"
+        ],
+        "identifier": "a406dff1-6798-4d5e-a735-78bc519b1a8c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futsu Hyakkei",
+        "url": "https://mangadex.org/title/a406dff1-6798-4d5e-a735-78bc519b1a8c",
+        "image": "https://uploads.mangadex.org/covers/a406dff1-6798-4d5e-a735-78bc519b1a8c/d400f4f3-727c-4071-bedd-757b7b385261.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63913,
+        "aniId": 89881,
+        "createdAt": "2020-10-12T16:06:59.000Z",
+        "updatedAt": "2021-06-03T23:32:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

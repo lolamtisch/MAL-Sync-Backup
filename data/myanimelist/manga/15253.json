@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Heroman",
+    "ヒーローマン"
+  ],
+  "authors": [
+    "Lee, Stan",
+    "Ota, Tamon"
+  ],
+  "id": 15253,
+  "type": "manga",
+  "title": "Heroman",
+  "url": "https://myanimelist.net/manga/15253/Heroman",
+  "image": "https://cdn.myanimelist.net/images/manga/1/29478.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:11.000Z",
+  "updatedAt": "2021-05-02T02:02:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "adfab5ea-9f62-4f71-bda5-aafc107fbaf7": {
+        "authors": [
+          "Stan Lee",
+          "BONES",
+          "OOTA Tamon"
+        ],
+        "identifier": "adfab5ea-9f62-4f71-bda5-aafc107fbaf7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heroman",
+        "url": "https://mangadex.org/title/adfab5ea-9f62-4f71-bda5-aafc107fbaf7",
+        "image": "https://uploads.mangadex.org/covers/adfab5ea-9f62-4f71-bda5-aafc107fbaf7/4702cc78-df6a-4006-96d3-875d2f353b91.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15253,
+        "aniId": 45253,
+        "createdAt": "2020-10-12T16:13:16.000Z",
+        "updatedAt": "2021-06-05T20:03:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

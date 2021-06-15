@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "みずたまリンドウ"
+  ],
+  "authors": [
+    "Toshinori Sogabe"
+  ],
+  "id": 73645,
+  "malId": 43645,
+  "type": "manga",
+  "title": "Mizutama Rindou",
+  "url": "https://anilist.co/manga/73645",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43645.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:58.000Z",
+  "updatedAt": "2021-05-20T14:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "817b01cb-fc71-4101-aa0c-a25229db634d": {
+        "authors": [
+          "SOGABE Toshinori"
+        ],
+        "identifier": "817b01cb-fc71-4101-aa0c-a25229db634d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mizutama Rindou",
+        "url": "https://mangadex.org/title/817b01cb-fc71-4101-aa0c-a25229db634d",
+        "image": "https://uploads.mangadex.org/covers/817b01cb-fc71-4101-aa0c-a25229db634d/55d9bc4f-ddbd-43e4-a0cf-51ebff3ecd70.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43645,
+        "aniId": 73645,
+        "createdAt": "2020-10-12T16:05:25.000Z",
+        "updatedAt": "2021-06-03T12:27:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

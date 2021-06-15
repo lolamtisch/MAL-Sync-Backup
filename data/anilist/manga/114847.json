@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "I'm Destined to Greatness",
+    "나는 될 놈이다",
+    "I'm Destined For Greatness!",
+    "Мне предначертано величие!"
+  ],
+  "authors": [
+    "Yoonkyu Seo",
+    "Geulsseuneungigye"
+  ],
+  "id": 114847,
+  "malId": null,
+  "type": "manga",
+  "title": "Naneun Doel Nomida",
+  "url": "https://anilist.co/manga/114847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114847-WznYo3AwCl6y.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T12:13:18.000Z",
+  "updatedAt": "2021-06-07T04:51:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc84b02b-3b16-40af-89a5-a5f849f20721": {
+        "authors": [
+          "글쓰는기계",
+          "서윤교"
+        ],
+        "identifier": "fc84b02b-3b16-40af-89a5-a5f849f20721",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I'm Destined for Greatness!",
+        "url": "https://mangadex.org/title/fc84b02b-3b16-40af-89a5-a5f849f20721",
+        "image": "https://uploads.mangadex.org/covers/fc84b02b-3b16-40af-89a5-a5f849f20721/500bc78c-5f2b-4652-8978-b5946a5d0ff4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 114847,
+        "createdAt": "2020-10-12T16:17:06.000Z",
+        "updatedAt": "2021-06-07T07:33:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fa982883": {
+        "authors": [
+          "Author Bot",
+          "Yoonkyu Seo"
+        ],
+        "identifier": "manga-fa982883",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I'm Destined For Greatness!",
+        "url": "https://readmanganato.com/manga-fa982883",
+        "image": "https://avt.mkklcdnv6temp.com/17/y/19-1583499796.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 114847,
+        "createdAt": "2021-05-28T21:23:46.000Z",
+        "updatedAt": "2021-05-28T21:23:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

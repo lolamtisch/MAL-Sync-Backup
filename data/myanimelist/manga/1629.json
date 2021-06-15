@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "Spiderman",
+    "スパイダーマン"
+  ],
+  "authors": [
+    "Hirai, Kazumasa",
+    "Ikegami, Ryoichi"
+  ],
+  "id": 1629,
+  "type": "manga",
+  "title": "Spider-Man",
+  "url": "https://myanimelist.net/manga/1629/Spider-Man",
+  "image": "https://cdn.myanimelist.net/images/manga/3/75931.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:35.000Z",
+  "updatedAt": "2021-01-08T17:21:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "374c418b-405d-4442-b8f7-cc532c2912e5": {
+        "authors": [
+          "Hirai Kazumasa",
+          "Ikegami Ryoichi"
+        ],
+        "identifier": "374c418b-405d-4442-b8f7-cc532c2912e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spider-Man",
+        "url": "https://mangadex.org/title/374c418b-405d-4442-b8f7-cc532c2912e5",
+        "image": "https://uploads.mangadex.org/covers/374c418b-405d-4442-b8f7-cc532c2912e5/182b47f9-eaac-412e-ad02-1a7b7c2e719c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1629,
+        "aniId": 31629,
+        "createdAt": "2020-10-12T16:03:57.000Z",
+        "updatedAt": "2021-06-02T17:38:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "spider-man": {
+        "authors": [
+          "HIRAI Kazumasa",
+          "IKEGAMI Ryoichi",
+          "Stan Lee"
+        ],
+        "identifier": "spider-man",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Spider-Man",
+        "url": "https://mangasee123.com/manga/Spider-Man",
+        "image": "https://cover.nep.li/cover/Spider-Man.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1629,
+        "aniId": 31629,
+        "createdAt": "2021-01-08T17:21:38.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "spiderman": {
+        "authors": [
+          "Hirai",
+          "Kazumasa"
+        ],
+        "identifier": "spiderman",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Spider-Man",
+        "url": "https://manganelo.com/manga/spiderman",
+        "image": "https://avt.mkklcdnv6.com/36/g/9-1583481569.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1629,
+        "aniId": 31629,
+        "createdAt": "2021-01-16T11:02:42.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

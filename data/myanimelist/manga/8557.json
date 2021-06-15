@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "You and I",
+    "君と僕。"
+  ],
+  "authors": [
+    "Hotta, Kiichi"
+  ],
+  "id": 8557,
+  "type": "manga",
+  "title": "Kimi to Boku.",
+  "url": "https://myanimelist.net/manga/8557/Kimi_to_Boku",
+  "image": "https://cdn.myanimelist.net/images/manga/3/59039.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:19.000Z",
+  "updatedAt": "2021-02-14T20:06:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a9ecb3ef-4c10-4686-a1f6-5a9598726f86": {
+        "authors": [
+          "Hotta Kiichi"
+        ],
+        "identifier": "a9ecb3ef-4c10-4686-a1f6-5a9598726f86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi to Boku.",
+        "url": "https://mangadex.org/title/a9ecb3ef-4c10-4686-a1f6-5a9598726f86",
+        "image": "https://uploads.mangadex.org/covers/a9ecb3ef-4c10-4686-a1f6-5a9598726f86/92332aa4-c480-4fd9-81f4-8414e552ddc5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8557,
+        "aniId": 38557,
+        "createdAt": "2020-10-12T16:02:27.000Z",
+        "updatedAt": "2021-06-02T06:56:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kimi_to_boku": {
+        "authors": [
+          "Hotta",
+          "Kiichi"
+        ],
+        "identifier": "kimi_to_boku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kimi To Boku",
+        "url": "https://manganelo.com/manga/kimi_to_boku",
+        "image": "https://avt.mkklcdnv6.com/29/a/3-1583468822.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 8557,
+        "aniId": 38557,
+        "createdAt": "2020-10-12T16:23:54.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kimi-to-boku": {
+        "authors": [
+          "HOTTA Kiichi"
+        ],
+        "identifier": "kimi-to-boku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi to Boku",
+        "url": "https://mangasee123.com/manga/Kimi-To-Boku",
+        "image": "https://cover.nep.li/cover/Kimi-To-Boku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8557,
+        "aniId": 38557,
+        "createdAt": "2021-01-02T06:20:23.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

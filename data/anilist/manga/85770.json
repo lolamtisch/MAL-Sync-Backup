@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "There's Nothing Wrong with Me",
+    "僕は問題ありません"
+  ],
+  "authors": [
+    "Natsujikei Miyazaki"
+  ],
+  "id": 85770,
+  "malId": 75141,
+  "type": "manga",
+  "title": "Boku wa Mondai Arimasen",
+  "url": "https://anilist.co/manga/85770",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55770-ZnS59t7zMcTe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:44.000Z",
+  "updatedAt": "2021-05-20T14:51:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09383082-6256-4e8c-81b4-c376fe1bb86b": {
+        "authors": [
+          "Miyazaki Natsujikei"
+        ],
+        "identifier": "09383082-6256-4e8c-81b4-c376fe1bb86b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "There's Nothing Wrong with Me",
+        "url": "https://mangadex.org/title/09383082-6256-4e8c-81b4-c376fe1bb86b",
+        "image": "https://uploads.mangadex.org/covers/09383082-6256-4e8c-81b4-c376fe1bb86b/e33aea59-f194-4dea-bd7c-b21f40a4ce49.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75141,
+        "aniId": 85770,
+        "createdAt": "2020-10-12T16:07:47.000Z",
+        "updatedAt": "2021-06-04T05:22:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_wa_mondai_arimasen": {
+        "authors": [],
+        "identifier": "boku_wa_mondai_arimasen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku Wa Mondai Arimasen",
+        "url": "https://manganelo.com/manga/boku_wa_mondai_arimasen",
+        "image": "https://avt.mkklcdnv6.com/19/m/8-1583478914.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75141,
+        "aniId": 85770,
+        "createdAt": "2020-10-12T16:22:20.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

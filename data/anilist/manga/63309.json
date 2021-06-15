@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "パパのいうことを聞きなさい! 〜うさぎのまぁく〜",
+    "Papa no Iukoto o Kikinasai!: Mark of the Rabbit"
+  ],
+  "authors": [
+    "Matsuda98",
+    "Tomohiro Matsu"
+  ],
+  "id": 63309,
+  "malId": 33309,
+  "type": "manga",
+  "title": "Papa no Iukoto wo Kikinasai!: Usagi no Mark",
+  "url": "https://anilist.co/manga/63309",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/33309.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:54.000Z",
+  "updatedAt": "2021-05-20T14:47:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5de2a027-12b5-4106-9c3d-497bd23d3b6f": {
+        "authors": [
+          "Matsu Tomohiro",
+          "MATSUDA98"
+        ],
+        "identifier": "5de2a027-12b5-4106-9c3d-497bd23d3b6f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Papa no Iu Koto wo Kikinasai! - Usagi no Mark",
+        "url": "https://mangadex.org/title/5de2a027-12b5-4106-9c3d-497bd23d3b6f",
+        "image": "https://uploads.mangadex.org/covers/5de2a027-12b5-4106-9c3d-497bd23d3b6f/0e194774-f496-4fed-9546-bfa134d2f770.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33309,
+        "aniId": 63309,
+        "createdAt": "2020-10-12T16:03:44.000Z",
+        "updatedAt": "2021-06-02T16:07:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "papa-no-iu-koto-o-kikinasai-usagi-no-mark": {
+        "authors": [
+          "MATSU Tomohiro",
+          "MATSUDA98"
+        ],
+        "identifier": "papa-no-iu-koto-o-kikinasai-usagi-no-mark",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Papa no Iu Koto o Kikinasai! - Usagi no Mark",
+        "url": "https://mangasee123.com/manga/Papa-No-Iu-Koto-O-Kikinasai-Usagi-No-Mark",
+        "image": "https://cover.nep.li/cover/Papa-No-Iu-Koto-O-Kikinasai-Usagi-No-Mark.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33309,
+        "aniId": 63309,
+        "createdAt": "2021-03-17T14:03:15.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

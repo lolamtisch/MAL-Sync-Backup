@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "ほしのふるまち",
+    "The Town the Stars Fall Upon",
+    "When You Wish Upon a Star"
+  ],
+  "authors": [
+    "Hidenori Hara"
+  ],
+  "id": 42284,
+  "malId": 12284,
+  "type": "manga",
+  "title": "Hoshi no Furu Machi",
+  "url": "https://anilist.co/manga/42284",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12284.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "18d277e8-e76a-4af6-ad48-bc5fceaf53b7": {
+        "authors": [
+          "HARA Hidenori"
+        ],
+        "identifier": "18d277e8-e76a-4af6-ad48-bc5fceaf53b7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshi no Furu Machi",
+        "url": "https://mangadex.org/title/18d277e8-e76a-4af6-ad48-bc5fceaf53b7",
+        "image": "https://uploads.mangadex.org/covers/18d277e8-e76a-4af6-ad48-bc5fceaf53b7/3ad7418c-d4bc-46cf-9791-cf539ceccbdf.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12284,
+        "aniId": 42284,
+        "createdAt": "2020-10-12T16:02:40.000Z",
+        "updatedAt": "2021-06-02T08:37:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hoshi_no_furu_machi": {
+        "authors": [],
+        "identifier": "hoshi_no_furu_machi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hoshi No Furu Machi",
+        "url": "https://manganelo.com/manga/hoshi_no_furu_machi",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11638-hoshi_no_furu_machi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12284,
+        "aniId": 42284,
+        "createdAt": "2020-10-12T16:23:24.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hoshi-no-furu-machi": {
+        "authors": [
+          "HARA Hidenori"
+        ],
+        "identifier": "hoshi-no-furu-machi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hoshi no Furu Machi",
+        "url": "https://mangasee123.com/manga/Hoshi-No-Furu-Machi",
+        "image": "https://cover.nep.li/cover/Hoshi-No-Furu-Machi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12284,
+        "aniId": 42284,
+        "createdAt": "2021-04-06T15:09:15.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

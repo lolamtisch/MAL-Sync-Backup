@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "バイ・マイ・サイド"
+  ],
+  "authors": [
+    "Natsume, Kazuki"
+  ],
+  "id": 100112,
+  "type": "manga",
+  "title": "By My Side",
+  "url": "https://myanimelist.net/manga/100112/By_My_Side",
+  "image": "https://cdn.myanimelist.net/images/manga/1/181177.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:38.000Z",
+  "updatedAt": "2021-04-01T01:00:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12f17feb-13a1-4a13-b715-fa53f73aec1e": {
+        "authors": [
+          "Natsume Kazuki"
+        ],
+        "identifier": "12f17feb-13a1-4a13-b715-fa53f73aec1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "By My Side",
+        "url": "https://mangadex.org/title/12f17feb-13a1-4a13-b715-fa53f73aec1e",
+        "image": "https://uploads.mangadex.org/covers/12f17feb-13a1-4a13-b715-fa53f73aec1e/1cec805b-f5c8-459a-ba6c-83e61107cd40.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100112,
+        "aniId": 87358,
+        "createdAt": "2020-10-12T16:10:13.000Z",
+        "updatedAt": "2021-06-04T23:10:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "by_my_side": {
+        "authors": [
+          "NATSUME Kazuki"
+        ],
+        "identifier": "by_my_side",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "By My Side",
+        "url": "https://fanfox.net/manga/by_my_side/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21161/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100112,
+        "aniId": 87358,
+        "createdAt": "2021-04-01T01:00:52.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

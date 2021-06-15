@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Sue & Tai-chan",
+    "スーと鯛ちゃん"
+  ],
+  "authors": [
+    "Konami, Kanata"
+  ],
+  "id": 123973,
+  "type": "manga",
+  "title": "Sue to Tai-chan",
+  "url": "https://myanimelist.net/manga/123973/Sue_to_Tai-chan",
+  "image": "https://cdn.myanimelist.net/images/manga/3/226286.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-03-09T19:10:30.000Z",
+  "updatedAt": "2021-06-07T13:40:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "54d25c60-4537-4149-ab23-420bc778e6ce": {
+        "authors": [
+          "﻿Konami Kanata",
+          "Konami Kanata"
+        ],
+        "identifier": "54d25c60-4537-4149-ab23-420bc778e6ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suu to Tai-chan",
+        "url": "https://mangadex.org/title/54d25c60-4537-4149-ab23-420bc778e6ce",
+        "image": "https://uploads.mangadex.org/covers/54d25c60-4537-4149-ab23-420bc778e6ce/74ec5d7f-e6ff-42c9-b037-d5bbfb4a08bd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 123973,
+        "aniId": 121879,
+        "createdAt": "2020-10-12T16:18:03.000Z",
+        "updatedAt": "2021-06-07T13:40:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sue-tai-chan": {
+        "authors": [
+          "KONAMI Kanata"
+        ],
+        "identifier": "sue-tai-chan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sue & Tai-chan",
+        "url": "https://mangasee123.com/manga/Sue-Tai-chan",
+        "image": "https://cover.nep.li/cover/Sue-Tai-chan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123973,
+        "aniId": 121879,
+        "createdAt": "2021-03-09T19:10:39.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

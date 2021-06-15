@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "償いの行方",
+    "The Whereabouts of Compensation"
+  ],
+  "authors": [
+    "Masara Minase"
+  ],
+  "id": 32203,
+  "malId": 2203,
+  "type": "manga",
+  "title": "Tsugunai no Yukue",
+  "url": "https://anilist.co/manga/32203",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2203.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:03.000Z",
+  "updatedAt": "2021-05-20T14:37:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f20a62e4-0557-458c-b2f9-75d8b4af572d": {
+        "authors": [
+          "Minase Masara"
+        ],
+        "identifier": "f20a62e4-0557-458c-b2f9-75d8b4af572d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsugunai no Yukue",
+        "url": "https://mangadex.org/title/f20a62e4-0557-458c-b2f9-75d8b4af572d",
+        "image": "https://uploads.mangadex.org/covers/f20a62e4-0557-458c-b2f9-75d8b4af572d/9a38703d-9204-411b-ae65-a0da506d92ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2203,
+        "aniId": 32203,
+        "createdAt": "2020-10-12T16:16:20.000Z",
+        "updatedAt": "2021-06-06T21:38:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

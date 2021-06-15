@@ -1,0 +1,38 @@
+{
+  "altTitle": [
+    "デュエル・マスターズVSRF",
+    "Duel Masters Versus Revolution Final"
+  ],
+  "id": 21603,
+  "malId": 32582,
+  "type": "anime",
+  "title": "Duel Masters VSRF",
+  "url": "https://anilist.co/anime/21603",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21603-rUZbKiBhQUCa.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:02.000Z",
+  "updatedAt": "2021-05-20T14:43:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "duel-masters-versus": {
+        "identifier": "duel-masters-versus",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Duel Masters Versus",
+        "url": "https://www5.gogoanime.tv/category/duel-masters-versus",
+        "image": "https://cdnimg.xyz/cover/duel-masters-versus.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32582,
+        "aniId": 21603,
+        "createdAt": "2020-10-12T16:00:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Compiler 2",
+    "Compiler Festa"
+  ],
+  "id": 5237,
+  "malId": 5237,
+  "type": "anime",
+  "title": "Compiler 2",
+  "url": "https://anilist.co/anime/5237",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5237-lWgYFpUtDX6B.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:44.000Z",
+  "updatedAt": "2021-05-20T14:37:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "rzjn": {
+        "identifier": "rzjn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Compiler 2",
+        "url": "https://9anime.ru/watch/compiler-2.rzjn",
+        "image": "https://static.akacdn.ru/files/images/2018/05/928a1f2d033b69cfda14ce1c2508ae05.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5237,
+        "aniId": 5237,
+        "createdAt": "2020-10-12T15:55:44.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "compiler-festa": {
+        "identifier": "compiler-festa",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Compiler Festa",
+        "url": "https://www9.gogoanime.io/category/compiler-festa",
+        "image": "https://cdnimg.xyz/cover/compiler-festa.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5237,
+        "aniId": 5237,
+        "createdAt": "2020-10-12T16:00:09.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

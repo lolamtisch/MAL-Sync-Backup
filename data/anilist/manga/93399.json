@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "アルカイック スマイル"
+  ],
+  "authors": [
+    "Yoshiyuki Sadamoto",
+    "Takaha Mako"
+  ],
+  "id": 93399,
+  "malId": 83413,
+  "type": "manga",
+  "title": "Archaic Smile",
+  "url": "https://anilist.co/manga/93399",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93399-Ku2mTJq60k5T.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T06:19:59.000Z",
+  "updatedAt": "2021-06-05T06:19:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fb66e1ee-e780-4ba1-8cdf-6035198b536d": {
+        "authors": [
+          "Takaha Mako",
+          "Sadamoto Yoshiyuki"
+        ],
+        "identifier": "fb66e1ee-e780-4ba1-8cdf-6035198b536d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Archaic Smile",
+        "url": "https://mangadex.org/title/fb66e1ee-e780-4ba1-8cdf-6035198b536d",
+        "image": "https://uploads.mangadex.org/covers/fb66e1ee-e780-4ba1-8cdf-6035198b536d/57117c12-1a40-455e-a2ca-43c75f6747d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83413,
+        "aniId": 93399,
+        "createdAt": "2020-10-12T16:11:10.000Z",
+        "updatedAt": "2021-06-05T08:58:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

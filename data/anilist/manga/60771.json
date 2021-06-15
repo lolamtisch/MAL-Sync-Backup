@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "お姉コレ",
+    "Nonfiction",
+    "Onekore"
+  ],
+  "authors": [
+    "Yuzuki N'"
+  ],
+  "id": 60771,
+  "malId": 30771,
+  "type": "manga",
+  "title": "One Kore",
+  "url": "https://anilist.co/manga/60771",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30771.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:47:42.000Z",
+  "updatedAt": "2021-05-20T14:47:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "735ad089-1b9a-4afb-9d5c-7a8e28499936": {
+        "authors": [
+          "Yuzuki N'"
+        ],
+        "identifier": "735ad089-1b9a-4afb-9d5c-7a8e28499936",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onekore",
+        "url": "https://mangadex.org/title/735ad089-1b9a-4afb-9d5c-7a8e28499936",
+        "image": "https://uploads.mangadex.org/covers/735ad089-1b9a-4afb-9d5c-7a8e28499936/b8b914f7-3b3b-40bd-99fe-52e0da1d6d20.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30771,
+        "aniId": 60771,
+        "createdAt": "2020-10-12T16:17:58.000Z",
+        "updatedAt": "2021-06-07T12:48:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

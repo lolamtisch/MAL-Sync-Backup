@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Sukitte Iwasete?, I Want to Say Love",
+    "好きって言わせて?"
+  ],
+  "authors": [
+    "Yamamoto, Kotetsuko"
+  ],
+  "id": 18768,
+  "type": "manga",
+  "title": "Suki tte Iwasete?",
+  "url": "https://myanimelist.net/manga/18768/Suki_tte_Iwasete",
+  "image": "https://cdn.myanimelist.net/images/manga/5/130161.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:41.000Z",
+  "updatedAt": "2021-03-21T15:04:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8cfb6113-99d3-4901-8f60-b5ed0b60acfc": {
+        "authors": [
+          "Yamamoto Kotetsuko"
+        ],
+        "identifier": "8cfb6113-99d3-4901-8f60-b5ed0b60acfc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sukitte Iwasete?",
+        "url": "https://mangadex.org/title/8cfb6113-99d3-4901-8f60-b5ed0b60acfc",
+        "image": "https://uploads.mangadex.org/covers/8cfb6113-99d3-4901-8f60-b5ed0b60acfc/a3fe735f-dfa6-4f7c-86c1-32e9ebda18d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18768,
+        "aniId": 48768,
+        "createdAt": "2020-10-12T16:04:28.000Z",
+        "updatedAt": "2021-06-02T21:13:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sukitte_iwasete": {
+        "authors": [
+          "YAMAMOTO Kotetsuko"
+        ],
+        "identifier": "sukitte_iwasete",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sukitte Iwasete?",
+        "url": "https://fanfox.net/manga/sukitte_iwasete/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10493/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18768,
+        "aniId": 48768,
+        "createdAt": "2021-03-21T15:04:34.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

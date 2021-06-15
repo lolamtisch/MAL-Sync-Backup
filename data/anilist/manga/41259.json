@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いつか恋が叶うまで",
+    "Some Time Until Love Is Fulfilled"
+  ],
+  "authors": [
+    "CJ Michalski"
+  ],
+  "id": 41259,
+  "malId": 11259,
+  "type": "manga",
+  "title": "Itsuka Koi ga Kanau Made",
+  "url": "https://anilist.co/manga/41259",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx41259-Jzd33sTazRPG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T10:51:20.000Z",
+  "updatedAt": "2021-06-04T10:51:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df96f7eb-545e-429c-bf89-01fbb71bb256": {
+        "authors": [
+          "CJ Michalski"
+        ],
+        "identifier": "df96f7eb-545e-429c-bf89-01fbb71bb256",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itsuka Koi ga Kanau made",
+        "url": "https://mangadex.org/title/df96f7eb-545e-429c-bf89-01fbb71bb256",
+        "image": "https://uploads.mangadex.org/covers/df96f7eb-545e-429c-bf89-01fbb71bb256/b79f2f08-00bd-4631-a4c3-b11683d25e88.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11259,
+        "aniId": 41259,
+        "createdAt": "2020-10-12T16:08:30.000Z",
+        "updatedAt": "2021-06-04T12:51:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "先生はダミー",
+    "The Teacher is a Dummy",
+    "Stupid Teacher"
+  ],
+  "authors": [
+    "Yonezou Nekota"
+  ],
+  "id": 53055,
+  "malId": 23055,
+  "type": "manga",
+  "title": "Sensei wa Dummy",
+  "url": "https://anilist.co/manga/53055",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23055.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:35.000Z",
+  "updatedAt": "2021-05-20T14:46:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e59962ef-2e55-4c34-9c95-1674f9df875e": {
+        "authors": [
+          "Nekota Yonezou"
+        ],
+        "identifier": "e59962ef-2e55-4c34-9c95-1674f9df875e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sensei wa Dummy",
+        "url": "https://mangadex.org/title/e59962ef-2e55-4c34-9c95-1674f9df875e",
+        "image": "https://uploads.mangadex.org/covers/e59962ef-2e55-4c34-9c95-1674f9df875e/99099102-9484-46b9-8d3f-928c6757fe05.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23055,
+        "aniId": 53055,
+        "createdAt": "2020-10-12T16:06:03.000Z",
+        "updatedAt": "2021-06-03T16:52:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

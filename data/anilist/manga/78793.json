@@ -1,0 +1,85 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yukisato Sakamaki"
+  ],
+  "id": 78793,
+  "malId": 48793,
+  "type": "manga",
+  "title": "inGrid",
+  "url": "https://anilist.co/manga/78793",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48793.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:40.000Z",
+  "updatedAt": "2021-05-20T14:49:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5b38a1ae-c340-4bbf-b9f5-a3573abedbee": {
+        "authors": [
+          "SAKAMAKI Yukisato"
+        ],
+        "identifier": "5b38a1ae-c340-4bbf-b9f5-a3573abedbee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "inGrid",
+        "url": "https://mangadex.org/title/5b38a1ae-c340-4bbf-b9f5-a3573abedbee",
+        "image": "https://uploads.mangadex.org/covers/5b38a1ae-c340-4bbf-b9f5-a3573abedbee/7b397fe0-1e36-41ee-91f4-207d037298e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48793,
+        "aniId": 78793,
+        "createdAt": "2020-10-12T16:06:21.000Z",
+        "updatedAt": "2021-06-03T19:04:49.000Z",
+        "deletedAt": null
+      },
+      "5b286dc8-4e48-473d-acc6-815155f4d3f3": {
+        "authors": [
+          "Tuna Empire",
+          "Mesu Gorilla (Circle)"
+        ],
+        "identifier": "5b286dc8-4e48-473d-acc6-815155f4d3f3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Makai Kishi Ingrid - Makai Kishi Ingrid ni Nakadashi Dekiru Soapland (Doujinshi)",
+        "url": "https://mangadex.org/title/5b286dc8-4e48-473d-acc6-815155f4d3f3",
+        "image": "https://uploads.mangadex.org/covers/5b286dc8-4e48-473d-acc6-815155f4d3f3/582a0947-1696-48e4-adca-12212684dea6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48793,
+        "aniId": 78793,
+        "createdAt": "2020-10-12T16:19:45.000Z",
+        "updatedAt": "2021-06-07T22:33:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "qk922463": {
+        "authors": [
+          "Red",
+          "Parsley"
+        ],
+        "identifier": "qk922463",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ingrid, The White Deer",
+        "url": "https://manganelo.com/manga/qk922463",
+        "image": "https://avt.mkklcdnv6temp.com/44/y/20-1584323309.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48793,
+        "aniId": 78793,
+        "createdAt": "2020-10-12T16:24:58.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

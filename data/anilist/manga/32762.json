@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Detective Bluecat",
+    "探偵青猫",
+    "Tantei Ao Neko",
+    "Tantei Seibyou"
+  ],
+  "authors": [
+    "Modoru Motoni"
+  ],
+  "id": 32762,
+  "malId": 2762,
+  "type": "manga",
+  "title": "Tantei Aoneko",
+  "url": "https://anilist.co/manga/32762",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32762-OeK5TuoSLu82.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:14.000Z",
+  "updatedAt": "2021-05-20T14:37:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64ef0c33-9196-415d-97af-f9d49e4c44ee": {
+        "authors": [
+          "Motoni Modoru"
+        ],
+        "identifier": "64ef0c33-9196-415d-97af-f9d49e4c44ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tantei Aoneko",
+        "url": "https://mangadex.org/title/64ef0c33-9196-415d-97af-f9d49e4c44ee",
+        "image": "https://uploads.mangadex.org/covers/64ef0c33-9196-415d-97af-f9d49e4c44ee/9e257f8b-de2f-4c5f-af51-36230fc2697e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2762,
+        "aniId": 32762,
+        "createdAt": "2020-10-12T16:13:09.000Z",
+        "updatedAt": "2021-06-05T19:10:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

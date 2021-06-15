@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Azuraeru"
+  ],
+  "authors": [
+    "Rumi Nakamura"
+  ],
+  "id": 33139,
+  "malId": 3139,
+  "type": "manga",
+  "title": "Azrael",
+  "url": "https://anilist.co/manga/33139",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3139.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab9cabec-d917-4f8b-9121-791461f59232": {
+        "authors": [
+          "Nakamura Rumi"
+        ],
+        "identifier": "ab9cabec-d917-4f8b-9121-791461f59232",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Azrael",
+        "url": "https://mangadex.org/title/ab9cabec-d917-4f8b-9121-791461f59232",
+        "image": "https://uploads.mangadex.org/covers/ab9cabec-d917-4f8b-9121-791461f59232/3cb01893-29d6-4089-ba34-2bf08c23c26e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3139,
+        "aniId": 33139,
+        "createdAt": "2020-10-12T16:03:36.000Z",
+        "updatedAt": "2021-06-02T15:09:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

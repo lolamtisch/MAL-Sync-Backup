@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Suzu Log, Suzuro's Log, Suzuro's Logfile",
+    "スズログ"
+  ],
+  "authors": [
+    "FLIPFLOPs"
+  ],
+  "id": 18840,
+  "type": "manga",
+  "title": "Suzu Rogu",
+  "url": "https://myanimelist.net/manga/18840/Suzu_Rogu",
+  "image": "https://cdn.myanimelist.net/images/manga/3/28874.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:41.000Z",
+  "updatedAt": "2021-05-02T19:02:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bf2724c3-7874-4e11-8214-8c7192f9bc49": {
+        "authors": [
+          "FLIPFLOPs"
+        ],
+        "identifier": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suzu Rogu",
+        "url": "https://mangadex.org/title/bf2724c3-7874-4e11-8214-8c7192f9bc49",
+        "image": "https://uploads.mangadex.org/covers/bf2724c3-7874-4e11-8214-8c7192f9bc49/2786972f-1dea-45f7-81d4-77e0cbfa4567.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18840,
+        "aniId": 48840,
+        "createdAt": "2020-10-12T16:03:54.000Z",
+        "updatedAt": "2021-06-02T17:14:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "suzu_rogu": {
+        "authors": [
+          "Flipflops"
+        ],
+        "identifier": "suzu_rogu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suzu Rogu",
+        "url": "https://manganelo.com/manga/suzu_rogu",
+        "image": "https://avt.mkklcdnv6.com/15/r/10-1583482735.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18840,
+        "aniId": 48840,
+        "createdAt": "2020-11-02T21:22:42.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

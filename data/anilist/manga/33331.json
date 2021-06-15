@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ももいろさんご",
+    "The Pink Coral"
+  ],
+  "authors": [
+    "Q-taro Hanamizawa"
+  ],
+  "id": 33331,
+  "malId": 3331,
+  "type": "manga",
+  "title": "Momoiro Sango",
+  "url": "https://anilist.co/manga/33331",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx33331-uJTUf4jT0pPN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "04f45ed5-469d-44e0-8733-04174b6487de": {
+        "authors": [
+          "Hanamizawa Q-Taro"
+        ],
+        "identifier": "04f45ed5-469d-44e0-8733-04174b6487de",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Momoiro Sango",
+        "url": "https://mangadex.org/title/04f45ed5-469d-44e0-8733-04174b6487de",
+        "image": "https://uploads.mangadex.org/covers/04f45ed5-469d-44e0-8733-04174b6487de/81af0d9f-d851-46ce-89bb-debf4deff0de.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3331,
+        "aniId": 33331,
+        "createdAt": "2020-10-12T16:13:12.000Z",
+        "updatedAt": "2021-06-05T19:35:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "momoiro_sango": {
+        "authors": [],
+        "identifier": "momoiro_sango",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Momoiro Sango",
+        "url": "https://manganelo.com/manga/momoiro_sango",
+        "image": "https://avt.mkklcdnv6.com/21/s/12-1583486616.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3331,
+        "aniId": 33331,
+        "createdAt": "2020-10-12T16:24:21.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "純情かれん"
+  ],
+  "authors": [
+    "Mieko Koide"
+  ],
+  "id": 31181,
+  "malId": 1181,
+  "type": "manga",
+  "title": "Junjou Karen",
+  "url": "https://anilist.co/manga/31181",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1181.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:54.000Z",
+  "updatedAt": "2021-05-20T14:35:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c88622e3-adfa-4bc7-92db-dcdf2e65f916": {
+        "authors": [
+          "Koide Mieko"
+        ],
+        "identifier": "c88622e3-adfa-4bc7-92db-dcdf2e65f916",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Junjou Karen",
+        "url": "https://mangadex.org/title/c88622e3-adfa-4bc7-92db-dcdf2e65f916",
+        "image": "https://uploads.mangadex.org/covers/c88622e3-adfa-4bc7-92db-dcdf2e65f916/45a6ba10-2d1d-4902-9281-b9e3eee60a5e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1181,
+        "aniId": 31181,
+        "createdAt": "2020-10-12T16:05:39.000Z",
+        "updatedAt": "2021-06-03T14:03:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

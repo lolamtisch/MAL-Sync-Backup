@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "テンペスト"
+  ],
+  "authors": [
+    "Yuiji Aniya"
+  ],
+  "id": 103106,
+  "malId": 60467,
+  "type": "manga",
+  "title": "Tempest",
+  "url": "https://anilist.co/manga/103106",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103106-jZlxZmxx6ani.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:39.000Z",
+  "updatedAt": "2021-05-20T14:50:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9f802bd1-c403-407b-85ca-1846979a69ed": {
+        "authors": [
+          "Aniya Yuiji"
+        ],
+        "identifier": "9f802bd1-c403-407b-85ca-1846979a69ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tempest",
+        "url": "https://mangadex.org/title/9f802bd1-c403-407b-85ca-1846979a69ed",
+        "image": "https://uploads.mangadex.org/covers/9f802bd1-c403-407b-85ca-1846979a69ed/7caf7892-944b-4a8d-804e-01c28f9d2a22.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60467,
+        "aniId": 103106,
+        "createdAt": "2020-10-12T16:09:09.000Z",
+        "updatedAt": "2021-06-04T15:31:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "宇宙のライカ",
+    "Laika in Space"
+  ],
+  "authors": [
+    "Shou Kunoda"
+  ],
+  "id": 124346,
+  "malId": null,
+  "type": "manga",
+  "title": "Uchuu no Laika",
+  "url": "https://anilist.co/manga/124346",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b124346-xz6wDQdwJPs6.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T02:53:10.000Z",
+  "updatedAt": "2021-06-08T02:53:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31e3af40-9750-4589-8a9c-9854e5fd9d26": {
+        "authors": [
+          "KUNODA Shou"
+        ],
+        "identifier": "31e3af40-9750-4589-8a9c-9854e5fd9d26",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Laika in Space",
+        "url": "https://mangadex.org/title/31e3af40-9750-4589-8a9c-9854e5fd9d26",
+        "image": "https://uploads.mangadex.org/covers/31e3af40-9750-4589-8a9c-9854e5fd9d26/2ad87595-554d-4cb9-8a3d-d1b7ea7364ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 124346,
+        "createdAt": "2020-10-12T16:21:27.000Z",
+        "updatedAt": "2021-06-08T06:59:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

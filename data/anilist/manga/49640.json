@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "カメレオン",
+    "Kamereon",
+    "Bite me! Chameleon"
+  ],
+  "authors": [
+    "Atsushi Kase"
+  ],
+  "id": 49640,
+  "malId": 19640,
+  "type": "manga",
+  "title": "Chameleon",
+  "url": "https://anilist.co/manga/49640",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx49640-NCdOviyI3ADW.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:23.000Z",
+  "updatedAt": "2021-05-20T14:45:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ca2a4812-67b2-4c8c-b2d3-87428b970be6": {
+        "authors": [
+          "KASE Atsushi"
+        ],
+        "identifier": "ca2a4812-67b2-4c8c-b2d3-87428b970be6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chameleon",
+        "url": "https://mangadex.org/title/ca2a4812-67b2-4c8c-b2d3-87428b970be6",
+        "image": "https://uploads.mangadex.org/covers/ca2a4812-67b2-4c8c-b2d3-87428b970be6/08d32c2f-5925-4751-8d57-93599c98b6db.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19640,
+        "aniId": 49640,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:05:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "vn919699": {
+        "authors": [],
+        "identifier": "vn919699",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Chameleon of Nibiiro",
+        "url": "https://manganelo.com/manga/vn919699",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1103-vn919699.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19640,
+        "aniId": 49640,
+        "createdAt": "2020-10-12T16:26:03.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

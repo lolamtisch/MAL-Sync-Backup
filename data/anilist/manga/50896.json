@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "近くて遠い",
+    "Near and Far"
+  ],
+  "authors": [
+    "Neneko Narazaki"
+  ],
+  "id": 50896,
+  "malId": 20896,
+  "type": "manga",
+  "title": "Chikakute Tooi",
+  "url": "https://anilist.co/manga/50896",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20896.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:36.000Z",
+  "updatedAt": "2021-05-20T14:45:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cee4dc10-5a04-4f53-a4de-ad63f504f5e5": {
+        "authors": [
+          "Narazaki Neneko"
+        ],
+        "identifier": "cee4dc10-5a04-4f53-a4de-ad63f504f5e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chikakute Tooi",
+        "url": "https://mangadex.org/title/cee4dc10-5a04-4f53-a4de-ad63f504f5e5",
+        "image": "https://uploads.mangadex.org/covers/cee4dc10-5a04-4f53-a4de-ad63f504f5e5/434723f0-fdb5-4606-afcd-54185d0122b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20896,
+        "aniId": 50896,
+        "createdAt": "2020-10-12T16:17:43.000Z",
+        "updatedAt": "2021-06-07T10:07:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

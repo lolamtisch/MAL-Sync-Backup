@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "好きです鈴木くん!!",
+    "I like you",
+    "Suzuki-kun!!",
+    "I love you",
+    "Suzuki-kun!!"
+  ],
+  "authors": [
+    "Go Ikeyamada"
+  ],
+  "id": 40893,
+  "malId": 10893,
+  "type": "manga",
+  "title": "Suki desu Suzuki-kun!!",
+  "url": "https://anilist.co/manga/40893",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10893-uQjIrof9DuWI.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:12.000Z",
+  "updatedAt": "2021-05-20T14:41:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c31a3a4e-2f88-4cf1-82bf-45c5957d72fa": {
+        "authors": [
+          "IKEYAMADA Go"
+        ],
+        "identifier": "c31a3a4e-2f88-4cf1-82bf-45c5957d72fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suki desu Suzuki-kun!!",
+        "url": "https://mangadex.org/title/c31a3a4e-2f88-4cf1-82bf-45c5957d72fa",
+        "image": "https://uploads.mangadex.org/covers/c31a3a4e-2f88-4cf1-82bf-45c5957d72fa/c982e65c-3f92-47eb-9db8-3059811751fb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10893,
+        "aniId": 40893,
+        "createdAt": "2020-10-12T16:02:59.000Z",
+        "updatedAt": "2021-06-02T11:02:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "suki_desu_suzukikun": {
+        "authors": [],
+        "identifier": "suki_desu_suzukikun",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Suki Desu Suzuki-Kun!!",
+        "url": "https://manganelo.com/manga/suki_desu_suzukikun",
+        "image": "https://avt.mkklcdnv6.com/28/u/1-1583464822.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10893,
+        "aniId": 40893,
+        "createdAt": "2020-10-12T16:25:34.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

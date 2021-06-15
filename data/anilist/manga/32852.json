@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "花にて候",
+    "Hananite Sorou",
+    "Hananite Sourou"
+  ],
+  "authors": [
+    "Heim Hinode"
+  ],
+  "id": 32852,
+  "malId": 2852,
+  "type": "manga",
+  "title": "Hana Nite Sourou",
+  "url": "https://anilist.co/manga/32852",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2852.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:16.000Z",
+  "updatedAt": "2021-05-20T14:37:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fab33d07-439a-47fa-a647-ebaddd8e0731": {
+        "authors": [
+          "Hinode Heim"
+        ],
+        "identifier": "fab33d07-439a-47fa-a647-ebaddd8e0731",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hananite Sourou",
+        "url": "https://mangadex.org/title/fab33d07-439a-47fa-a647-ebaddd8e0731",
+        "image": "https://uploads.mangadex.org/covers/fab33d07-439a-47fa-a647-ebaddd8e0731/9593f32b-6aab-422f-8b4c-a448397c4f66.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2852,
+        "aniId": 32852,
+        "createdAt": "2020-11-09T09:43:27.000Z",
+        "updatedAt": "2021-06-08T06:58:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

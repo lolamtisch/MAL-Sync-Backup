@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "みゆき"
+  ],
+  "authors": [
+    "Adachi, Mitsuru"
+  ],
+  "id": 1015,
+  "type": "manga",
+  "title": "Miyuki",
+  "url": "https://myanimelist.net/manga/1015/Miyuki",
+  "image": "https://cdn.myanimelist.net/images/manga/1/48687.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:29.000Z",
+  "updatedAt": "2021-04-26T15:49:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3f6995b7-78f8-4c03-b6dd-cd75a6de53d2": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "3f6995b7-78f8-4c03-b6dd-cd75a6de53d2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Miyuki",
+        "url": "https://mangadex.org/title/3f6995b7-78f8-4c03-b6dd-cd75a6de53d2",
+        "image": "https://uploads.mangadex.org/covers/3f6995b7-78f8-4c03-b6dd-cd75a6de53d2/9a5144ca-84cc-4f87-9391-7adfe94ad962.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1015,
+        "aniId": 31015,
+        "createdAt": "2020-10-12T16:02:57.000Z",
+        "updatedAt": "2021-06-02T10:39:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "miyuki": {
+        "authors": [
+          "ADACHI Mitsuru"
+        ],
+        "identifier": "miyuki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Miyuki",
+        "url": "https://mangasee123.com/manga/Miyuki",
+        "image": "https://cover.nep.li/cover/Miyuki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1015,
+        "aniId": 31015,
+        "createdAt": "2021-05-03T09:33:47.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

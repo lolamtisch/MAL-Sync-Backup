@@ -1,0 +1,76 @@
+{
+  "altTitle": [
+    "LBX: Little Battlers eXperience",
+    "ダンボール戦機",
+    "Danbooru Senki",
+    "Cardboard War Chronicles"
+  ],
+  "id": 7081,
+  "malId": 7081,
+  "type": "anime",
+  "title": "Danball Senki",
+  "url": "https://anilist.co/anime/7081",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7081-rjsRHnnJDtFi.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:48.000Z",
+  "updatedAt": "2021-05-20T14:38:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "llwq": {
+        "identifier": "llwq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Danball Senki",
+        "url": "https://9anime.ru/watch/danball-senki.llwq",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-SBUVZXbJvTY/V5oQInSScjI/AAAAAAAAyl4/E7LYMN_lYhY/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7081,
+        "aniId": 7081,
+        "createdAt": "2020-10-12T15:53:06.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "yyxj": {
+        "identifier": "yyxj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Danball Senki (Dub)",
+        "url": "https://www12.9anime.to/watch/lbx-little-battlers-experience-dub.yyxj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b3/b3bf5ceb360695f01f18e6e65162a63e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7081,
+        "aniId": 7081,
+        "createdAt": "2021-03-28T16:28:11.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "danball-senki": {
+        "identifier": "danball-senki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Danball Senki",
+        "url": "https://gogoanime.so/category/danball-senki",
+        "image": "https://gogocdn.net/cover/danball-senki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7081,
+        "aniId": 7081,
+        "createdAt": "2021-01-20T14:34:11.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

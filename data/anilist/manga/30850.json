@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Acid Flower",
+    "アシッド・フラワー"
+  ],
+  "authors": [
+    "Yoshimi Amasaki"
+  ],
+  "id": 30850,
+  "malId": 850,
+  "type": "manga",
+  "title": "Acid Flower",
+  "url": "https://anilist.co/manga/30850",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/850.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44f600e5-1248-4da8-862f-bbed3cc688f6": {
+        "authors": [
+          "Amasaki Yoshimi"
+        ],
+        "identifier": "44f600e5-1248-4da8-862f-bbed3cc688f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Acid Flower",
+        "url": "https://mangadex.org/title/44f600e5-1248-4da8-862f-bbed3cc688f6",
+        "image": "https://uploads.mangadex.org/covers/44f600e5-1248-4da8-862f-bbed3cc688f6/2b3b1660-9fae-4c7a-a377-9a19633c3c04.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 850,
+        "aniId": 30850,
+        "createdAt": "2020-10-12T16:11:31.000Z",
+        "updatedAt": "2021-06-05T09:02:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

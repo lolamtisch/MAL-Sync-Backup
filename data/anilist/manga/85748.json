@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "For the Sake of Sita",
+    "시타를 위하여",
+    "為了西塔"
+  ],
+  "authors": [
+    "Haga"
+  ],
+  "id": 85748,
+  "malId": 94417,
+  "type": "manga",
+  "title": "Sitareul Wihayeo",
+  "url": "https://anilist.co/manga/85748",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55748-J9CrKV3pKlEi.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:52.000Z",
+  "updatedAt": "2021-05-20T14:53:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "26057952-76f7-4365-a85a-0667cc58e87e": {
+        "authors": [
+          "Haga"
+        ],
+        "identifier": "26057952-76f7-4365-a85a-0667cc58e87e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sita Wihayeo",
+        "url": "https://mangadex.org/title/26057952-76f7-4365-a85a-0667cc58e87e",
+        "image": "https://uploads.mangadex.org/covers/26057952-76f7-4365-a85a-0667cc58e87e/0f3f02b6-e460-44c4-b1d9-8c1548f55c3f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94417,
+        "aniId": 85748,
+        "createdAt": "2020-10-12T16:13:15.000Z",
+        "updatedAt": "2021-06-05T19:57:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sita_wihayeo": {
+        "authors": [],
+        "identifier": "sita_wihayeo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sita Wihayeo",
+        "url": "https://manganelo.com/manga/sita_wihayeo",
+        "image": "https://avt.mkklcdnv6.com/37/b/7-1583477668.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94417,
+        "aniId": 85748,
+        "createdAt": "2020-10-12T16:25:28.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

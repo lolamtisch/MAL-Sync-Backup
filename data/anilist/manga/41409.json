@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "The Man I Picked Up",
+    "オトコ拾いました。",
+    "Ano Koro no Mama de Ite",
+    "Stay the Way You Were"
+  ],
+  "authors": [
+    "CJ Michalski"
+  ],
+  "id": 41409,
+  "malId": 11409,
+  "type": "manga",
+  "title": "Otoko Hiroimashita",
+  "url": "https://anilist.co/manga/41409",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11409.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:18.000Z",
+  "updatedAt": "2021-05-20T14:41:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1b4ecaf-eb66-4c59-a473-19a18645ae79": {
+        "authors": [
+          "CJ Michalski"
+        ],
+        "identifier": "e1b4ecaf-eb66-4c59-a473-19a18645ae79",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otoko Hiroimashita.",
+        "url": "https://mangadex.org/title/e1b4ecaf-eb66-4c59-a473-19a18645ae79",
+        "image": "https://uploads.mangadex.org/covers/e1b4ecaf-eb66-4c59-a473-19a18645ae79/97f9df8f-0959-4221-bc1b-8d42f654db52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 11409,
+        "aniId": 41409,
+        "createdAt": "2020-10-12T16:09:14.000Z",
+        "updatedAt": "2021-06-04T22:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "picked_up_a_little_fox": {
+        "authors": [
+          "Tong",
+          "You"
+        ],
+        "identifier": "picked_up_a_little_fox",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Picked Up A Little Fox",
+        "url": "https://manganelo.com/manga/picked_up_a_little_fox",
+        "image": "https://avt.mkklcdnv6temp.com/3/g/17-1583495380.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11409,
+        "aniId": 41409,
+        "createdAt": "2020-10-12T16:24:51.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

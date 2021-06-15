@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "트리거",
+    "Teurigeo"
+  ],
+  "authors": [
+    "Bulmaninnyang"
+  ],
+  "id": 119723,
+  "malId": null,
+  "type": "manga",
+  "title": "Trigger",
+  "url": "https://anilist.co/manga/119723",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b119723-FPNUXa237FUK.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:52:15.000Z",
+  "updatedAt": "2021-06-07T23:52:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "043a10f5-c16d-4402-bf82-0f3e8a33de29": {
+        "authors": [
+          "불만있냥"
+        ],
+        "identifier": "043a10f5-c16d-4402-bf82-0f3e8a33de29",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trigger",
+        "url": "https://mangadex.org/title/043a10f5-c16d-4402-bf82-0f3e8a33de29",
+        "image": "https://uploads.mangadex.org/covers/043a10f5-c16d-4402-bf82-0f3e8a33de29/5beee768-eef7-4076-8dd4-078c7941ac91.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119723,
+        "createdAt": "2020-10-12T16:20:03.000Z",
+        "updatedAt": "2021-06-08T00:33:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

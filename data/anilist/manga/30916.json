@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Lock Out"
+  ],
+  "authors": [
+    "Ayano Yamane"
+  ],
+  "id": 30916,
+  "malId": 916,
+  "type": "manga",
+  "title": "Lock Out",
+  "url": "https://anilist.co/manga/30916",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/916.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:47.000Z",
+  "updatedAt": "2021-05-20T14:35:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe1c4eb5-e190-42aa-aaaa-77e7a0c390f4": {
+        "authors": [
+          "Yamane Ayano"
+        ],
+        "identifier": "fe1c4eb5-e190-42aa-aaaa-77e7a0c390f4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lock Out",
+        "url": "https://mangadex.org/title/fe1c4eb5-e190-42aa-aaaa-77e7a0c390f4",
+        "image": "https://uploads.mangadex.org/covers/fe1c4eb5-e190-42aa-aaaa-77e7a0c390f4/1b323f3c-8734-4e79-81ea-1ddb6e0432ce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 916,
+        "aniId": 30916,
+        "createdAt": "2020-10-12T16:16:02.000Z",
+        "updatedAt": "2021-06-06T19:04:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-rl968968": {
+        "authors": [
+          "Yamane Ayano"
+        ],
+        "identifier": "manga-rl968968",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Lock Out",
+        "url": "https://manganato.com/manga-rl968968",
+        "image": "https://avt.mkklcdnv6temp.com/31/q/12-1583487011.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 916,
+        "aniId": 30916,
+        "createdAt": "2021-05-31T09:45:34.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

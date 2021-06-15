@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "アリスの楽園"
+  ],
+  "authors": [
+    "Tsukiko Hirono"
+  ],
+  "id": 105591,
+  "malId": 111432,
+  "type": "manga",
+  "title": "Alice no Rakuen",
+  "url": "https://anilist.co/manga/105591",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105591-ilCdwB8dwY2F.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:48.000Z",
+  "updatedAt": "2021-05-20T14:56:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2d6e369b-5723-477a-9666-3bea5526999c": {
+        "authors": [
+          "HIRUNO Tsukiko"
+        ],
+        "identifier": "2d6e369b-5723-477a-9666-3bea5526999c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Alice no Rakuen",
+        "url": "https://mangadex.org/title/2d6e369b-5723-477a-9666-3bea5526999c",
+        "image": "https://uploads.mangadex.org/covers/2d6e369b-5723-477a-9666-3bea5526999c/f3e5ac5a-19f4-4bae-94d0-9a573beebf22.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111432,
+        "aniId": 105591,
+        "createdAt": "2020-10-12T16:18:26.000Z",
+        "updatedAt": "2021-06-07T16:57:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

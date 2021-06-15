@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Mao",
+    "MAO"
+  ],
+  "authors": [
+    "Rumiko Takahashi"
+  ],
+  "id": 106102,
+  "malId": 119588,
+  "type": "manga",
+  "title": "MAO",
+  "url": "https://anilist.co/manga/106102",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b106102-PWXon6HvkE1o.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:09.000Z",
+  "updatedAt": "2021-05-20T14:58:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "26102334-1f7b-4a5b-a64f-107c5c24a70f": {
+        "authors": [
+          "Takahashi Rumiko"
+        ],
+        "identifier": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mao",
+        "url": "https://mangadex.org/title/26102334-1f7b-4a5b-a64f-107c5c24a70f",
+        "image": "https://uploads.mangadex.org/covers/26102334-1f7b-4a5b-a64f-107c5c24a70f/2b2a9329-5dc3-45a0-b809-335ee607a926.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119588,
+        "aniId": 106102,
+        "createdAt": "2020-10-12T16:15:54.000Z",
+        "updatedAt": "2021-06-06T17:43:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rt919301": {
+        "authors": [],
+        "identifier": "rt919301",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mao",
+        "url": "https://manganelo.com/manga/rt919301",
+        "image": "https://avt.mkklcdnv6.com/27/f/18-1583498142.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119588,
+        "aniId": 106102,
+        "createdAt": "2020-10-12T16:25:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mao": {
+        "authors": [
+          "TAKAHASHI Rumiko"
+        ],
+        "identifier": "mao",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mao",
+        "url": "https://mangasee123.com/manga/Mao",
+        "image": "https://cover.nep.li/cover/Mao.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119588,
+        "aniId": 106102,
+        "createdAt": "2021-03-11T01:09:56.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "altTitle": [
+    "The Great Rabbit",
+    "グレートラビット",
+    "Gureto Rabitto",
+    "Gureeto Rabitto"
+  ],
+  "id": 103451,
+  "malId": 28641,
+  "type": "anime",
+  "title": "Great Rabbit",
+  "url": "https://anilist.co/anime/103451",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103451-IToTNXFfZJAk.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:45.000Z",
+  "updatedAt": "2021-05-20T14:41:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "jq54": {
+        "identifier": "jq54",
+        "type": "anime",
+        "page": "9anime",
+        "title": "The Great Rabbit",
+        "url": "https://9anime.ru/watch/the-great-rabbit.jq54",
+        "image": "https://static.akacdn.ru/files/images/2018/03/3edb02781d16f4a0ac9980e85e5f1a3b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28641,
+        "aniId": 103451,
+        "createdAt": "2020-10-12T15:52:17.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

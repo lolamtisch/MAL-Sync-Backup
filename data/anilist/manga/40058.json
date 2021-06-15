@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "まるごと☆オレのモノ",
+    "Whole Thing As Me"
+  ],
+  "authors": [
+    "Kaori"
+  ],
+  "id": 40058,
+  "malId": 10058,
+  "type": "manga",
+  "title": "Marugoto Ore no Mono",
+  "url": "https://anilist.co/manga/40058",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40058-kX532HLy319q.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0457d51d-c270-457a-9ae3-82d3622ff5e0": {
+        "authors": [
+          "Kaori (花緒莉)"
+        ],
+        "identifier": "0457d51d-c270-457a-9ae3-82d3622ff5e0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Marugoto Ore no Mono",
+        "url": "https://mangadex.org/title/0457d51d-c270-457a-9ae3-82d3622ff5e0",
+        "image": "https://uploads.mangadex.org/covers/0457d51d-c270-457a-9ae3-82d3622ff5e0/cc94a496-cb20-4469-bcd5-862bfbc35227.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10058,
+        "aniId": 40058,
+        "createdAt": "2020-10-12T16:06:33.000Z",
+        "updatedAt": "2021-06-03T20:29:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

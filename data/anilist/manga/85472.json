@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Nine Tales",
+    "NINE TALES 나인테일즈",
+    "Nine Tails"
+  ],
+  "authors": [],
+  "id": 85472,
+  "malId": 61317,
+  "type": "manga",
+  "title": "Nine Tales",
+  "url": "https://anilist.co/manga/85472",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55472.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:40.000Z",
+  "updatedAt": "2021-05-20T14:50:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9929379c-1931-42c7-8140-26ab22966558": {
+        "authors": [
+          "Chara",
+          "Doxx"
+        ],
+        "identifier": "9929379c-1931-42c7-8140-26ab22966558",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nine Tales",
+        "url": "https://mangadex.org/title/9929379c-1931-42c7-8140-26ab22966558",
+        "image": "https://uploads.mangadex.org/covers/9929379c-1931-42c7-8140-26ab22966558/97fc0cfd-600a-41e8-bed5-482f16150ca1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61317,
+        "aniId": 85472,
+        "createdAt": "2020-10-12T16:08:02.000Z",
+        "updatedAt": "2021-06-04T07:05:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "わたしのクロちゃん",
+    "My Little Noir",
+    "Ma Petit Noir"
+  ],
+  "authors": [
+    "Kamome Shirahama"
+  ],
+  "id": 102730,
+  "malId": 108265,
+  "type": "manga",
+  "title": "Watashi no Kuro-chan",
+  "url": "https://anilist.co/manga/102730",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/102730-qu7xRXTFzlZe.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:58.000Z",
+  "updatedAt": "2021-05-20T14:55:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "08038488-a64f-44a4-8b88-7dae11dcf2d5": {
+        "authors": [
+          "Shirahama Kamome"
+        ],
+        "identifier": "08038488-a64f-44a4-8b88-7dae11dcf2d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Little Noir",
+        "url": "https://mangadex.org/title/08038488-a64f-44a4-8b88-7dae11dcf2d5",
+        "image": "https://uploads.mangadex.org/covers/08038488-a64f-44a4-8b88-7dae11dcf2d5/87333cac-a5ba-468f-8bf4-1259fdf7fb05.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108265,
+        "aniId": 102730,
+        "createdAt": "2020-10-12T16:10:50.000Z",
+        "updatedAt": "2021-06-05T03:40:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "my_little_noir": {
+        "authors": [
+          "Shirahama",
+          "Kamome"
+        ],
+        "identifier": "my_little_noir",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Little Noir",
+        "url": "https://manganelo.com/manga/my_little_noir",
+        "image": "https://avt.mkklcdnv6.com/36/l/15-1583492885.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108265,
+        "aniId": 102730,
+        "createdAt": "2020-10-25T11:18:25.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

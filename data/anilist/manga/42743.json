@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Kaprekar",
+    "カプレカ",
+    "Kapureka",
+    "Caprica"
+  ],
+  "authors": [
+    "Makoto Matsumoto",
+    "Maika Netsu"
+  ],
+  "id": 42743,
+  "malId": 12743,
+  "type": "manga",
+  "title": "Kaprekar",
+  "url": "https://anilist.co/manga/42743",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12743.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "94aa7317-0f2a-4dc4-b6c3-05c83ea4d7f8": {
+        "authors": [
+          "MATSUMOTO Makoto",
+          "NETSU Maika (ネツマイカ)"
+        ],
+        "identifier": "94aa7317-0f2a-4dc4-b6c3-05c83ea4d7f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaprekar",
+        "url": "https://mangadex.org/title/94aa7317-0f2a-4dc4-b6c3-05c83ea4d7f8",
+        "image": "https://uploads.mangadex.org/covers/94aa7317-0f2a-4dc4-b6c3-05c83ea4d7f8/73c0f2d2-7848-458c-8009-4fec31f0ea76.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12743,
+        "aniId": 42743,
+        "createdAt": "2020-10-12T16:06:44.000Z",
+        "updatedAt": "2021-06-03T21:51:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

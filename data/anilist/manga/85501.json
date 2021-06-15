@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "The Tenth Prism",
+    "テンプリズム",
+    " Temprism"
+  ],
+  "authors": [
+    "Masahito Soda",
+    "Carlo Vanstiphout",
+    "David Saylor"
+  ],
+  "id": 85501,
+  "malId": 72451,
+  "type": "manga",
+  "title": "Ten Prism",
+  "url": "https://anilist.co/manga/85501",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55501-Dgzk2pDEW3xk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:39.000Z",
+  "updatedAt": "2021-05-20T14:51:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bffa75d5-a0a0-49c3-98e8-50bc5355c604": {
+        "authors": [
+          "MIZUKI Kanaka",
+          "SODA Masahito"
+        ],
+        "identifier": "bffa75d5-a0a0-49c3-98e8-50bc5355c604",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ten Prism",
+        "url": "https://mangadex.org/title/bffa75d5-a0a0-49c3-98e8-50bc5355c604",
+        "image": "https://uploads.mangadex.org/covers/bffa75d5-a0a0-49c3-98e8-50bc5355c604/4b501966-7bf2-42af-bdaa-4b1cfdae7bb8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72451,
+        "aniId": 85501,
+        "createdAt": "2020-10-12T16:13:05.000Z",
+        "updatedAt": "2021-06-05T18:40:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-tenth-prism": {
+        "authors": [
+          "Mizuki Kanaka",
+          "SODA Masahito"
+        ],
+        "identifier": "the-tenth-prism",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Tenth Prism",
+        "url": "https://mangasee123.com/manga/The-Tenth-Prism",
+        "image": "https://cover.nep.li/cover/The-Tenth-Prism.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72451,
+        "aniId": 85501,
+        "createdAt": "2021-01-17T12:33:47.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "altTitle": [
+    "ボーイズラブ"
+  ],
+  "authors": [
+    "Kaimu Tachibana"
+  ],
+  "id": 37141,
+  "malId": 7141,
+  "type": "manga",
+  "title": "Boys Love",
+  "url": "https://anilist.co/manga/37141",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7141.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:46.000Z",
+  "updatedAt": "2021-05-20T14:39:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2dccdf85-0ea5-426d-a43c-5fdb6042d5c5": {
+        "authors": [
+          "Tachibana Kaimu"
+        ],
+        "identifier": "2dccdf85-0ea5-426d-a43c-5fdb6042d5c5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boys Love",
+        "url": "https://mangadex.org/title/2dccdf85-0ea5-426d-a43c-5fdb6042d5c5",
+        "image": "https://uploads.mangadex.org/covers/2dccdf85-0ea5-426d-a43c-5fdb6042d5c5/0f3960c7-b7a8-447b-93f9-5bbeb25490e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7141,
+        "aniId": 37141,
+        "createdAt": "2020-10-12T16:04:04.000Z",
+        "updatedAt": "2021-06-02T18:24:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boys_love": {
+        "authors": [],
+        "identifier": "boys_love",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boys Love",
+        "url": "https://manganelo.com/manga/boys_love",
+        "image": "https://avt.mkklcdnv6.com/6/f/9-1583480336.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7141,
+        "aniId": 37141,
+        "createdAt": "2020-10-12T16:22:21.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "hg919609": {
+        "authors": [],
+        "identifier": "hg919609",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boy's Love",
+        "url": "https://manganelo.com/manga/hg919609",
+        "image": "https://avt.mkklcdnv6.com/38/i/18-1583498581.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7141,
+        "aniId": 37141,
+        "createdAt": "2020-10-12T16:23:19.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

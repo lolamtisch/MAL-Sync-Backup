@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "君に好きっていわせたい"
+  ],
+  "authors": [
+    "Eku Takeshima"
+  ],
+  "id": 106119,
+  "malId": null,
+  "type": "manga",
+  "title": "Kimi ni Sukitte Iwasetai",
+  "url": "https://anilist.co/manga/106119",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106119-Zgitgyvlmcgf.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-26T09:08:17.000Z",
+  "updatedAt": "2021-05-26T09:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8af6f938-8de8-475a-8b9b-01bcfe65f641": {
+        "authors": [
+          "Takeshima Eku"
+        ],
+        "identifier": "8af6f938-8de8-475a-8b9b-01bcfe65f641",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Want You To Say You Love Me",
+        "url": "https://mangadex.org/title/8af6f938-8de8-475a-8b9b-01bcfe65f641",
+        "image": "https://uploads.mangadex.org/covers/8af6f938-8de8-475a-8b9b-01bcfe65f641/898d1b4f-57ea-491e-a480-e448268fadcb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 106119,
+        "createdAt": "2020-10-12T16:11:13.000Z",
+        "updatedAt": "2021-06-05T08:34:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ハーレムエンド"
+  ],
+  "authors": [
+    "Shintarou Kago"
+  ],
+  "id": 80725,
+  "malId": 50725,
+  "type": "manga",
+  "title": "Harem End",
+  "url": "https://anilist.co/manga/80725",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50725.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-05-20T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc069bf1-295f-4e2a-86ad-507dee3a9819": {
+        "authors": [
+          "Kago Shintaro"
+        ],
+        "identifier": "bc069bf1-295f-4e2a-86ad-507dee3a9819",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Harem End",
+        "url": "https://mangadex.org/title/bc069bf1-295f-4e2a-86ad-507dee3a9819",
+        "image": "https://uploads.mangadex.org/covers/bc069bf1-295f-4e2a-86ad-507dee3a9819/8bfc59f2-4de1-4a48-b11a-4143e8aebdb1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50725,
+        "aniId": 80725,
+        "createdAt": "2020-10-12T16:06:48.000Z",
+        "updatedAt": "2021-06-03T22:13:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "harem-end": {
+        "authors": [
+          "KAGO Shintaro"
+        ],
+        "identifier": "harem-end",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Harem End",
+        "url": "https://mangasee123.com/manga/Harem-End",
+        "image": "https://cover.nep.li/cover/Harem-End.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50725,
+        "aniId": 80725,
+        "createdAt": "2021-02-10T09:10:34.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

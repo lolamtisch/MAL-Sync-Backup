@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "そんなの恋じゃない",
+    "That's Not Love"
+  ],
+  "authors": [
+    "Ao Mimori"
+  ],
+  "id": 34059,
+  "malId": 4059,
+  "type": "manga",
+  "title": "Sonna no Koi Janai",
+  "url": "https://anilist.co/manga/34059",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4059.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:23.000Z",
+  "updatedAt": "2021-05-20T14:38:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c44560d-662e-49b1-bb0d-3f94dd055473": {
+        "authors": [
+          "MIMORI Ao"
+        ],
+        "identifier": "7c44560d-662e-49b1-bb0d-3f94dd055473",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sonna no Koi ja Nai",
+        "url": "https://mangadex.org/title/7c44560d-662e-49b1-bb0d-3f94dd055473",
+        "image": "https://uploads.mangadex.org/covers/7c44560d-662e-49b1-bb0d-3f94dd055473/e209e19b-e555-476d-8870-3d0192a8b13d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4059,
+        "aniId": 34059,
+        "createdAt": "2020-10-12T16:06:54.000Z",
+        "updatedAt": "2021-06-03T22:58:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

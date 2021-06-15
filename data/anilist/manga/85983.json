@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "My Secret Brother",
+    "말할 수 없는 남매",
+    "Unstoppable Siblings"
+  ],
+  "authors": [
+    "Willow"
+  ],
+  "id": 85983,
+  "malId": 103117,
+  "type": "manga",
+  "title": "Malhal su Eopneun Nammae",
+  "url": "https://anilist.co/manga/85983",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/85983-n98F1lszxeQD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:02.000Z",
+  "updatedAt": "2021-06-04T10:21:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3771fc57-3d85-4622-9414-027a6460152f": {
+        "authors": [
+          "Willow"
+        ],
+        "identifier": "3771fc57-3d85-4622-9414-027a6460152f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Secret Brother",
+        "url": "https://mangadex.org/title/3771fc57-3d85-4622-9414-027a6460152f",
+        "image": "https://uploads.mangadex.org/covers/3771fc57-3d85-4622-9414-027a6460152f/beab528e-88f9-4453-a0a0-0d05bf583d5e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103117,
+        "aniId": 85983,
+        "createdAt": "2020-10-12T16:08:24.000Z",
+        "updatedAt": "2021-06-04T12:56:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "unstoppable_siblings": {
+        "authors": [],
+        "identifier": "unstoppable_siblings",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Unstoppable Siblings",
+        "url": "https://manganelo.com/manga/unstoppable_siblings",
+        "image": "https://avt.mkklcdnv6.com/48/h/7-1583478111.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103117,
+        "aniId": 85983,
+        "createdAt": "2020-10-12T16:25:57.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kx961732": {
+        "authors": [
+          "Willow"
+        ],
+        "identifier": "manga-kx961732",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Unstoppable Siblings",
+        "url": "https://readmanganato.com/manga-kx961732",
+        "image": "https://avt.mkklcdnv6temp.com/48/h/7-1583478111.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103117,
+        "aniId": 85983,
+        "createdAt": "2021-06-03T00:00:51.000Z",
+        "updatedAt": "2021-06-03T00:30:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

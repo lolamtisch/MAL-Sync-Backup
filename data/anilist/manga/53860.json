@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "魔法ブルマ",
+    "Magic Bloomers"
+  ],
+  "authors": [
+    "Seihoukei"
+  ],
+  "id": 53860,
+  "malId": 23860,
+  "type": "manga",
+  "title": "Mahou Bloomers",
+  "url": "https://anilist.co/manga/53860",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23860.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:40.000Z",
+  "updatedAt": "2021-05-20T14:46:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d798a4e9-8d2d-4ae4-9c9c-fe142495d65e": {
+        "authors": [
+          "Seihoukei"
+        ],
+        "identifier": "d798a4e9-8d2d-4ae4-9c9c-fe142495d65e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Magic Bloomers",
+        "url": "https://mangadex.org/title/d798a4e9-8d2d-4ae4-9c9c-fe142495d65e",
+        "image": "https://uploads.mangadex.org/covers/d798a4e9-8d2d-4ae4-9c9c-fe142495d65e/86b0d37c-8dd5-4f16-9c4e-356eff0e1d19.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23860,
+        "aniId": 53860,
+        "createdAt": "2020-10-12T16:05:29.000Z",
+        "updatedAt": "2021-06-03T12:59:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

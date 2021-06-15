@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Koekoi",
+    "こえ恋",
+    "Voice Love"
+  ],
+  "authors": [
+    "Do-ruru"
+  ],
+  "id": 87492,
+  "malId": 99157,
+  "type": "manga",
+  "title": "Koe Koi",
+  "url": "https://anilist.co/manga/87492",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87492-IJGuSIoS2Wv3.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:41.000Z",
+  "updatedAt": "2021-05-20T14:54:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "20ced4e2-2cb6-48d7-aa5b-d0a45755307c": {
+        "authors": [
+          "Doruru"
+        ],
+        "identifier": "20ced4e2-2cb6-48d7-aa5b-d0a45755307c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koe Koi",
+        "url": "https://mangadex.org/title/20ced4e2-2cb6-48d7-aa5b-d0a45755307c",
+        "image": "https://uploads.mangadex.org/covers/20ced4e2-2cb6-48d7-aa5b-d0a45755307c/5feaca39-c4ff-409d-9b83-5e7b91011f3b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99157,
+        "aniId": 87492,
+        "createdAt": "2020-10-12T16:09:49.000Z",
+        "updatedAt": "2021-06-04T20:10:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koe_koi": {
+        "authors": [],
+        "identifier": "koe_koi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koe Koi",
+        "url": "https://manganelo.com/manga/koe_koi",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16850-koe_koi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99157,
+        "aniId": 87492,
+        "createdAt": "2020-10-12T16:23:57.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "Crimson Grimoire",
+    "赫のグリモア"
+  ],
+  "authors": [
+    "A-10"
+  ],
+  "id": 117059,
+  "type": "manga",
+  "title": "Aka no Grimoire",
+  "url": "https://myanimelist.net/manga/117059/Aka_no_Grimoire",
+  "image": "https://cdn.myanimelist.net/images/manga/1/220861.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:49.000Z",
+  "updatedAt": "2021-01-01T06:40:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f88a7fa6-60c8-4a4b-a8d6-44716a05636b": {
+        "authors": [
+          "A-10"
+        ],
+        "identifier": "f88a7fa6-60c8-4a4b-a8d6-44716a05636b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crimson Grimoire",
+        "url": "https://mangadex.org/title/f88a7fa6-60c8-4a4b-a8d6-44716a05636b",
+        "image": "https://uploads.mangadex.org/covers/f88a7fa6-60c8-4a4b-a8d6-44716a05636b/d9ece3e6-9fb2-4431-a6be-1a8949869c88.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117059,
+        "aniId": 106954,
+        "createdAt": "2020-10-12T16:14:41.000Z",
+        "updatedAt": "2021-06-06T07:13:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gt918105": {
+        "authors": [],
+        "identifier": "gt918105",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Crimson Grimoire",
+        "url": "https://manganelo.com/manga/gt918105",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/21721-gt918105.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117059,
+        "aniId": 106954,
+        "createdAt": "2020-10-12T16:23:10.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aka_no_grimoire": {
+        "authors": [
+          "A-10"
+        ],
+        "identifier": "aka_no_grimoire",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aka no Grimoire",
+        "url": "https://fanfox.net/manga/aka_no_grimoire/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29516/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117059,
+        "aniId": 106954,
+        "createdAt": "2021-01-01T06:40:04.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

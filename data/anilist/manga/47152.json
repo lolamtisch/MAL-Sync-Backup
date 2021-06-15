@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ワンピース 0",
+    "One Piece Volume 0"
+  ],
+  "authors": [
+    "Eiichirou Oda"
+  ],
+  "id": 47152,
+  "malId": 17152,
+  "type": "manga",
+  "title": "One Piece Strong World 0",
+  "url": "https://anilist.co/manga/47152",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n47152-v3AqgrZH9BsU.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:03.000Z",
+  "updatedAt": "2021-05-20T14:44:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fcb5111f-be88-4f5a-b456-22135f3eda49": {
+        "authors": [
+          "ODA Eiichiro"
+        ],
+        "identifier": "fcb5111f-be88-4f5a-b456-22135f3eda49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One Piece: Strong World",
+        "url": "https://mangadex.org/title/fcb5111f-be88-4f5a-b456-22135f3eda49",
+        "image": "https://uploads.mangadex.org/covers/fcb5111f-be88-4f5a-b456-22135f3eda49/5919a775-29dc-42b9-b3dd-8bee6fa83414.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17152,
+        "aniId": 47152,
+        "createdAt": "2020-10-12T16:05:45.000Z",
+        "updatedAt": "2021-06-03T14:43:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "wazo247611569462996": {
+        "authors": [],
+        "identifier": "wazo247611569462996",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Excuse Me, But The World Will Be Gone For A While",
+        "url": "https://manganelo.com/manga/wazo247611569462996",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18758-excuse_me_but_the_world_will_be_gone_for_a_while.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17152,
+        "aniId": 47152,
+        "createdAt": "2020-10-12T16:26:07.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

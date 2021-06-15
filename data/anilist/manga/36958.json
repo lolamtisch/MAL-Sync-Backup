@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Mi-Ri Hwang"
+  ],
+  "id": 36958,
+  "malId": 6958,
+  "type": "manga",
+  "title": "Money Virus",
+  "url": "https://anilist.co/manga/36958",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6958.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:45.000Z",
+  "updatedAt": "2021-05-20T14:39:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "90d4370e-d4ac-403c-8dd9-bf17e07be7a2": {
+        "authors": [
+          "Hwang Mi-Ri"
+        ],
+        "identifier": "90d4370e-d4ac-403c-8dd9-bf17e07be7a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Money Virus",
+        "url": "https://mangadex.org/title/90d4370e-d4ac-403c-8dd9-bf17e07be7a2",
+        "image": "https://uploads.mangadex.org/covers/90d4370e-d4ac-403c-8dd9-bf17e07be7a2/0dc3f973-92fa-4d1d-bd35-9c94872692bf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6958,
+        "aniId": 36958,
+        "createdAt": "2020-10-12T16:03:57.000Z",
+        "updatedAt": "2021-06-02T17:41:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

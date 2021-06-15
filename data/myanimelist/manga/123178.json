@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "The Only \"R\" in the world",
+    "世界に一つだけのR"
+  ],
+  "authors": [
+    "Iijima, Shingou"
+  ],
+  "id": 123178,
+  "type": "manga",
+  "title": "Sekai ni Hitotsu dake no R",
+  "url": "https://myanimelist.net/manga/123178/Sekai_ni_Hitotsu_dake_no_R",
+  "image": "https://cdn.myanimelist.net/images/manga/1/226451.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-02-21T01:04:10.000Z",
+  "updatedAt": "2021-06-07T11:37:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2dec3b1-aed8-42a1-bae9-27601ac6626b": {
+        "authors": [
+          "Iijima Shingou"
+        ],
+        "identifier": "d2dec3b1-aed8-42a1-bae9-27601ac6626b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Only \"R\" in the world",
+        "url": "https://mangadex.org/title/d2dec3b1-aed8-42a1-bae9-27601ac6626b",
+        "image": "https://uploads.mangadex.org/covers/d2dec3b1-aed8-42a1-bae9-27601ac6626b/ef873a89-dd0c-4b23-9022-ac8f515aa107.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123178,
+        "aniId": 115088,
+        "createdAt": "2020-10-12T16:17:48.000Z",
+        "updatedAt": "2021-06-07T11:59:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_only_r_in_the_world": {
+        "authors": [
+          "IIJIMA Shingou"
+        ],
+        "identifier": "the_only_r_in_the_world",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Only",
+        "url": "https://fanfox.net/manga/the_only_r_in_the_world/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36081/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 123178,
+        "aniId": 115088,
+        "createdAt": "2021-02-21T01:04:12.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

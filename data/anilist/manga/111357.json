@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "Department of Demon Resources",
+    "魔王の人事",
+    "魔王人事"
+  ],
+  "authors": [
+    "Saki Akamura"
+  ],
+  "id": 111357,
+  "malId": 132346,
+  "type": "manga",
+  "title": "Maou no Jinji",
+  "url": "https://anilist.co/manga/111357",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111357-PsWc3TbNGb6n.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:06.000Z",
+  "updatedAt": "2021-05-20T15:00:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5b2bb40b-4a59-4be4-a134-8b75786b9490": {
+        "authors": [
+          "Akamura Saki"
+        ],
+        "identifier": "5b2bb40b-4a59-4be4-a134-8b75786b9490",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maou no Jinji",
+        "url": "https://mangadex.org/title/5b2bb40b-4a59-4be4-a134-8b75786b9490",
+        "image": "https://uploads.mangadex.org/covers/5b2bb40b-4a59-4be4-a134-8b75786b9490/5ae8d19c-bdc6-484b-a033-a7827fa74230.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132346,
+        "aniId": 111357,
+        "createdAt": "2020-11-05T17:27:05.000Z",
+        "updatedAt": "2021-06-08T06:34:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mb925215": {
+        "authors": [
+          "Akamura",
+          "Saki"
+        ],
+        "identifier": "mb925215",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Maou No Jinji",
+        "url": "https://manganelo.com/manga/mb925215",
+        "image": "https://avt.mkklcdnv6.com/7/w/23-1610873244.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132346,
+        "aniId": 111357,
+        "createdAt": "2021-01-17T14:03:03.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "maou_no_jinji": {
+        "authors": [
+          "AKAMURA Saki"
+        ],
+        "identifier": "maou_no_jinji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Maou no Jinji",
+        "url": "https://fanfox.net/manga/maou_no_jinji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36407/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132346,
+        "aniId": 111357,
+        "createdAt": "2021-01-25T04:13:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

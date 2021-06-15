@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "FAN"
+  ],
+  "authors": [
+    "Yamato, Nase"
+  ],
+  "id": 2235,
+  "type": "manga",
+  "title": "Fan",
+  "url": "https://myanimelist.net/manga/2235/Fan",
+  "image": "https://cdn.myanimelist.net/images/manga/3/152591.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:41.000Z",
+  "updatedAt": "2021-01-09T03:21:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "91a7c198-894a-42e0-9c9e-66284f1f8893": {
+        "authors": [
+          "Yamato Nase"
+        ],
+        "identifier": "91a7c198-894a-42e0-9c9e-66284f1f8893",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fan",
+        "url": "https://mangadex.org/title/91a7c198-894a-42e0-9c9e-66284f1f8893",
+        "image": "https://uploads.mangadex.org/covers/91a7c198-894a-42e0-9c9e-66284f1f8893/1063fce6-da10-4202-a2b1-45ef0012d913.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2235,
+        "aniId": 32235,
+        "createdAt": "2020-10-12T16:09:45.000Z",
+        "updatedAt": "2021-06-04T19:45:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fan": {
+        "authors": [
+          "YAMATO Nase"
+        ],
+        "identifier": "fan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fan",
+        "url": "https://fanfox.net/manga/fan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2260/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2235,
+        "aniId": 32235,
+        "createdAt": "2021-01-09T03:22:00.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

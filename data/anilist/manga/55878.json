@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "淡島百景"
+  ],
+  "authors": [
+    "Takako Shimura"
+  ],
+  "id": 55878,
+  "malId": 25878,
+  "type": "manga",
+  "title": "Awashima Hyakkei",
+  "url": "https://anilist.co/manga/55878",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx55878-YjK23hvTtaSy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:56.000Z",
+  "updatedAt": "2021-05-20T14:46:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3a8ba0f9-4f46-4157-b568-c09f9cac3d55": {
+        "authors": [
+          "Shimura Takako"
+        ],
+        "identifier": "3a8ba0f9-4f46-4157-b568-c09f9cac3d55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Awajima Hyakkei",
+        "url": "https://mangadex.org/title/3a8ba0f9-4f46-4157-b568-c09f9cac3d55",
+        "image": "https://uploads.mangadex.org/covers/3a8ba0f9-4f46-4157-b568-c09f9cac3d55/ceb961dd-3b20-41ec-9223-fb7740b707f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25878,
+        "aniId": 55878,
+        "createdAt": "2020-10-12T16:07:21.000Z",
+        "updatedAt": "2021-06-04T02:11:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kx925093": {
+        "authors": [
+          "Shimura",
+          "Takako"
+        ],
+        "identifier": "kx925093",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Awajima Hyakkei",
+        "url": "https://manganelo.com/manga/kx925093",
+        "image": "https://avt.mkklcdnv6.com/2/y/23-1610077468.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25878,
+        "aniId": 55878,
+        "createdAt": "2021-01-08T10:52:00.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

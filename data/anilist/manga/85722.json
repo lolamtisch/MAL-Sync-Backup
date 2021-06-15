@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "華恋 KAREN"
+  ],
+  "authors": [
+    "Kaoru Iwamoto",
+    "Shiro Yamada"
+  ],
+  "id": 85722,
+  "malId": 72535,
+  "type": "manga",
+  "title": "Karen",
+  "url": "https://anilist.co/manga/85722",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55722.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:39.000Z",
+  "updatedAt": "2021-05-20T14:51:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64c59f0d-d034-46c9-97b9-baf39fc324ac": {
+        "authors": [
+          "Iwamoto Kaoru",
+          "Yamada Shiro"
+        ],
+        "identifier": "64c59f0d-d034-46c9-97b9-baf39fc324ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Karen",
+        "url": "https://mangadex.org/title/64c59f0d-d034-46c9-97b9-baf39fc324ac",
+        "image": "https://uploads.mangadex.org/covers/64c59f0d-d034-46c9-97b9-baf39fc324ac/7d4e31ae-ea76-4688-adcb-5f75e5dc5b0a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72535,
+        "aniId": 85722,
+        "createdAt": "2020-10-12T16:07:29.000Z",
+        "updatedAt": "2021-06-04T03:08:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "karen": {
+        "authors": [
+          "Iwamoto",
+          "Kaoru"
+        ],
+        "identifier": "karen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Karen",
+        "url": "https://manganelo.com/manga/karen",
+        "image": "https://avt.mkklcdnv6temp.com/39/y/8-1583479706.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72535,
+        "aniId": 85722,
+        "createdAt": "2021-05-25T17:38:38.000Z",
+        "updatedAt": "2021-05-25T18:08:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

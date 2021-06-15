@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "私の彼女",
+    "My Girlfriend"
+  ],
+  "authors": [
+    "Ruruu Minase"
+  ],
+  "id": 91176,
+  "malId": 70433,
+  "type": "manga",
+  "title": "Watashi no Kanojo",
+  "url": "https://anilist.co/manga/91176",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91176-stBy96f3eorf.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:31.000Z",
+  "updatedAt": "2021-06-01T09:52:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9c66384d-a5c7-48ae-98c9-45bb693ea634": {
+        "authors": [
+          "Minase Ruruu",
+          "GracheGrache (Circle)"
+        ],
+        "identifier": "9c66384d-a5c7-48ae-98c9-45bb693ea634",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi no Kanojo",
+        "url": "https://mangadex.org/title/9c66384d-a5c7-48ae-98c9-45bb693ea634",
+        "image": "https://uploads.mangadex.org/covers/9c66384d-a5c7-48ae-98c9-45bb693ea634/1acc2736-48cb-456a-9bc8-3196baea2e5a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70433,
+        "aniId": 91176,
+        "createdAt": "2020-10-12T16:16:59.000Z",
+        "updatedAt": "2021-06-07T03:42:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

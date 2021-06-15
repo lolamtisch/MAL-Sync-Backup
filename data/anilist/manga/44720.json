@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Like The Beast",
+    "ほんと野獣",
+    "Prawdziwa bestia",
+    "야수처럼"
+  ],
+  "authors": [
+    "Kotetsuko Yamamoto"
+  ],
+  "id": 44720,
+  "malId": 14720,
+  "type": "manga",
+  "title": "Honto Yajuu",
+  "url": "https://anilist.co/manga/44720",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44720-bfLhGs0hcQs8.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:40.000Z",
+  "updatedAt": "2021-05-20T14:43:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ed6abdb4-3363-4872-af32-50743007c9f3": {
+        "authors": [
+          "Yamamoto Kotetsuko"
+        ],
+        "identifier": "ed6abdb4-3363-4872-af32-50743007c9f3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honto Yajuu",
+        "url": "https://mangadex.org/title/ed6abdb4-3363-4872-af32-50743007c9f3",
+        "image": "https://uploads.mangadex.org/covers/ed6abdb4-3363-4872-af32-50743007c9f3/416b1d58-87aa-4a22-a221-2e8f3ab3db93.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14720,
+        "aniId": 44720,
+        "createdAt": "2020-10-12T16:04:24.000Z",
+        "updatedAt": "2021-06-02T20:49:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "honto_yajuu": {
+        "authors": [],
+        "identifier": "honto_yajuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Honto Yajuu",
+        "url": "https://manganelo.com/manga/honto_yajuu",
+        "image": "https://avt.mkklcdnv6.com/31/g/1-1583464924.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14720,
+        "aniId": 44720,
+        "createdAt": "2020-10-12T16:23:23.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

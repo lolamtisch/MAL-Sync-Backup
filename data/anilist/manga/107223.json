@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "のぞえもん"
+  ],
+  "authors": [
+    "Hikari Fujisaki"
+  ],
+  "id": 107223,
+  "malId": 90470,
+  "type": "manga",
+  "title": "Nozoemon",
+  "url": "https://anilist.co/manga/107223",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n107223-N16XtgPzbW5t.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:05.000Z",
+  "updatedAt": "2021-05-20T14:53:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb6a9af1-eadb-4b98-8f33-f53ff1521d9b": {
+        "authors": [
+          "Fujisaki Hikari"
+        ],
+        "identifier": "bb6a9af1-eadb-4b98-8f33-f53ff1521d9b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nozoemon",
+        "url": "https://mangadex.org/title/bb6a9af1-eadb-4b98-8f33-f53ff1521d9b",
+        "image": "https://uploads.mangadex.org/covers/bb6a9af1-eadb-4b98-8f33-f53ff1521d9b/0e4364cf-44c6-44e7-81b8-8b5875e73934.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90470,
+        "aniId": 107223,
+        "createdAt": "2020-10-12T16:08:40.000Z",
+        "updatedAt": "2021-06-04T11:51:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

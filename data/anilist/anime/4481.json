@@ -1,0 +1,76 @@
+{
+  "altTitle": [
+    "Alakazam the Great",
+    "西遊記",
+    "Saiyuki",
+    "Journey to the West"
+  ],
+  "id": 4481,
+  "malId": 4481,
+  "type": "anime",
+  "title": "Saiyuuki",
+  "url": "https://anilist.co/anime/4481",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4481-teZlyolwFmuG.png",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:36.000Z",
+  "updatedAt": "2021-05-20T14:37:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "66jz": {
+        "identifier": "66jz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Alakazam the Great (Dub)",
+        "url": "https://9anime.ru/watch/alakazam-the-great-dub.66jz",
+        "image": "https://static.akacdn.ru/files/images/2018/03/019e0ebea97ce240fd3738496d51f98d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4481,
+        "aniId": 4481,
+        "createdAt": "2020-10-12T15:50:41.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "yjyj": {
+        "identifier": "yjyj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Journey to the West (1960)",
+        "url": "https://9anime.ru/watch/journey-to-the-west-1960.yjyj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-gBNl9kzl7hw/V8UDFuYWqtI/AAAAAAAA6Uw/MmHrzzRMO0I/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4481,
+        "aniId": 4481,
+        "createdAt": "2020-10-12T15:56:52.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saiyuuki": {
+        "identifier": "saiyuuki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saiyuuki",
+        "url": "https://gogoanime.so/category/saiyuuki",
+        "image": "https://gogocdn.net/cover/saiyuuki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4481,
+        "aniId": 4481,
+        "createdAt": "2020-10-12T17:48:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "さすがの猿飛",
+    "Clever Sarutobi",
+    "Amazing Sarutobi",
+    "Chubby Ninja",
+    "The Academy of Ninjas"
+  ],
+  "authors": [
+    "Fujihiko Hosono"
+  ],
+  "id": 43283,
+  "malId": 13283,
+  "type": "manga",
+  "title": "Sasuga no Sarutobi",
+  "url": "https://anilist.co/manga/43283",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13283.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48d18b60-5e96-4586-9200-f856ba93e99e": {
+        "authors": [
+          "Hosono Fujihiko"
+        ],
+        "identifier": "48d18b60-5e96-4586-9200-f856ba93e99e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sasuga no Sarutobi",
+        "url": "https://mangadex.org/title/48d18b60-5e96-4586-9200-f856ba93e99e",
+        "image": "https://uploads.mangadex.org/covers/48d18b60-5e96-4586-9200-f856ba93e99e/31357bce-7761-49a9-83d0-535e0786aa80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13283,
+        "aniId": 43283,
+        "createdAt": "2020-10-12T16:02:48.000Z",
+        "updatedAt": "2021-06-02T09:31:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

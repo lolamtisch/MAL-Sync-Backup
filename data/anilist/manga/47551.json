@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "のりタマ",
+    "Noritama"
+  ],
+  "authors": [
+    "Mahiro Ootsuka"
+  ],
+  "id": 47551,
+  "malId": 17551,
+  "type": "manga",
+  "title": "Nori Tama",
+  "url": "https://anilist.co/manga/47551",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47551-8qEYRLJpjTsc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:08.000Z",
+  "updatedAt": "2021-05-20T14:44:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d91f8813-bd02-4bb7-8c95-3228a56b5875": {
+        "authors": [
+          "OTSUKA Mahiro"
+        ],
+        "identifier": "d91f8813-bd02-4bb7-8c95-3228a56b5875",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Noritama",
+        "url": "https://mangadex.org/title/d91f8813-bd02-4bb7-8c95-3228a56b5875",
+        "image": "https://uploads.mangadex.org/covers/d91f8813-bd02-4bb7-8c95-3228a56b5875/9c4906de-af91-44c7-8c5f-993dd72195ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17551,
+        "aniId": 47551,
+        "createdAt": "2020-10-12T16:03:00.000Z",
+        "updatedAt": "2021-06-02T11:04:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

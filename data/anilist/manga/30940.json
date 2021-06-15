@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Chain of Pearls",
+    "真珠の鎖",
+    "真珠の鎖",
+    "Shinju no Kusari"
+  ],
+  "authors": [
+    "Kanan Minami"
+  ],
+  "id": 30940,
+  "malId": 940,
+  "type": "manga",
+  "title": "Chain of Pearls",
+  "url": "https://anilist.co/manga/30940",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/940.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:47.000Z",
+  "updatedAt": "2021-05-20T14:35:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7819ffc9-f0f2-493c-92b7-40f8933ec7d0": {
+        "authors": [
+          "Minami Kanan"
+        ],
+        "identifier": "7819ffc9-f0f2-493c-92b7-40f8933ec7d0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinju no Kusari",
+        "url": "https://mangadex.org/title/7819ffc9-f0f2-493c-92b7-40f8933ec7d0",
+        "image": "https://uploads.mangadex.org/covers/7819ffc9-f0f2-493c-92b7-40f8933ec7d0/0645e6a5-9352-403c-b1ab-876d167cd653.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 940,
+        "aniId": 30940,
+        "createdAt": "2020-10-12T16:07:54.000Z",
+        "updatedAt": "2021-06-04T06:03:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chain_of_pearls": {
+        "authors": [
+          "Minami",
+          "Kanan"
+        ],
+        "identifier": "chain_of_pearls",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chain Of Pearls",
+        "url": "https://manganelo.com/manga/chain_of_pearls",
+        "image": "https://avt.mkklcdnv6temp.com/34/z/6-1583475541.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 940,
+        "aniId": 30940,
+        "createdAt": "2021-05-04T23:32:00.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

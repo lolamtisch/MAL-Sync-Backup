@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "トリプルKISS"
+  ],
+  "authors": [
+    "Ako Shimaki"
+  ],
+  "id": 34516,
+  "malId": 4516,
+  "type": "manga",
+  "title": "Triple Kiss",
+  "url": "https://anilist.co/manga/34516",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4516.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:32.000Z",
+  "updatedAt": "2021-05-20T14:38:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7261f19a-1db1-4a17-9649-82a7309149c8": {
+        "authors": [
+          "SHIMAKI Ako"
+        ],
+        "identifier": "7261f19a-1db1-4a17-9649-82a7309149c8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Triple Kiss",
+        "url": "https://mangadex.org/title/7261f19a-1db1-4a17-9649-82a7309149c8",
+        "image": "https://uploads.mangadex.org/covers/7261f19a-1db1-4a17-9649-82a7309149c8/1be7ee28-4c63-460b-bd53-768b1452ea8c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4516,
+        "aniId": 34516,
+        "createdAt": "2020-10-12T16:04:56.000Z",
+        "updatedAt": "2021-06-03T00:25:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "triple-kiss": {
+        "authors": [
+          "SHIMAKI Ako"
+        ],
+        "identifier": "triple-kiss",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Triple Kiss",
+        "url": "https://mangasee123.com/manga/Triple-Kiss",
+        "image": "https://cover.nep.li/cover/Triple-Kiss.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4516,
+        "aniId": 34516,
+        "createdAt": "2021-03-29T12:18:15.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

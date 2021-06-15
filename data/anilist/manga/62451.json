@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "神様☆パーマネント",
+    "Permanent God",
+    "Kamisama Permanent",
+    "Kami-sama Permanent"
+  ],
+  "authors": [
+    "Kazuma Kondou",
+    "Jinsei Kataoka"
+  ],
+  "id": 62451,
+  "malId": 32451,
+  "type": "manga",
+  "title": "Kamisama☆Permanent",
+  "url": "https://anilist.co/manga/62451",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32451.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:52.000Z",
+  "updatedAt": "2021-05-20T14:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96c166e4-37cb-4554-bbdd-a4ed6a25566a": {
+        "authors": [
+          "Kondou Kazuma",
+          "Kataoka Jinsei"
+        ],
+        "identifier": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamisama Permanent",
+        "url": "https://mangadex.org/title/96c166e4-37cb-4554-bbdd-a4ed6a25566a",
+        "image": "https://uploads.mangadex.org/covers/96c166e4-37cb-4554-bbdd-a4ed6a25566a/8ccd5677-e2ca-4a10-bdad-131ff1dba437.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32451,
+        "aniId": 62451,
+        "createdAt": "2020-10-12T16:03:43.000Z",
+        "updatedAt": "2021-06-02T16:01:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kamisama_permanent": {
+        "authors": [
+          "KATAOKA Jinsei"
+        ],
+        "identifier": "kamisama_permanent",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kamisama Permanent",
+        "url": "https://fanfox.net/manga/kamisama_permanent/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10056/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32451,
+        "aniId": 62451,
+        "createdAt": "2021-04-17T15:44:29.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "독고"
+  ],
+  "authors": [
+    "Baek, Seung Hoon",
+    "Meen"
+  ],
+  "id": 103293,
+  "type": "manga",
+  "title": "Dokgo",
+  "url": "https://myanimelist.net/manga/103293/Dokgo",
+  "image": "https://cdn.myanimelist.net/images/manga/2/190706.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:48.000Z",
+  "updatedAt": "2021-06-05T08:50:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "993f0e4c-f2b3-44c3-adbb-e4bc162c9e49": {
+        "authors": [
+          "Min (민)",
+          "Baek Seung Hoon"
+        ],
+        "identifier": "993f0e4c-f2b3-44c3-adbb-e4bc162c9e49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dokgo",
+        "url": "https://mangadex.org/title/993f0e4c-f2b3-44c3-adbb-e4bc162c9e49",
+        "image": "https://uploads.mangadex.org/covers/993f0e4c-f2b3-44c3-adbb-e4bc162c9e49/4b80a680-228b-4c69-b8a3-82b5b8153e24.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103293,
+        "aniId": 87182,
+        "createdAt": "2020-10-12T16:11:28.000Z",
+        "updatedAt": "2021-06-05T08:51:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dokgo": {
+        "authors": [
+          "Baek Seung Hoon"
+        ],
+        "identifier": "dokgo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dokgo",
+        "url": "https://mangasee123.com/manga/Dokgo",
+        "image": "https://cover.nep.li/cover/Dokgo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103293,
+        "aniId": 87182,
+        "createdAt": "2021-01-22T17:03:44.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

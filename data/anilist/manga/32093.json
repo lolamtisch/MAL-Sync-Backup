@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "あいつと俺。",
+    "Him and Me"
+  ],
+  "authors": [
+    "Asami Tohjoh"
+  ],
+  "id": 32093,
+  "malId": 2093,
+  "type": "manga",
+  "title": "Aitsu to Ore",
+  "url": "https://anilist.co/manga/32093",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32093-WrI7zdiEi1cd.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:01.000Z",
+  "updatedAt": "2021-05-20T14:37:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3042be64-5561-448b-98c9-4ad1e67bd681": {
+        "authors": [
+          "Tohjoh Asami"
+        ],
+        "identifier": "3042be64-5561-448b-98c9-4ad1e67bd681",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aitsu to Ore.",
+        "url": "https://mangadex.org/title/3042be64-5561-448b-98c9-4ad1e67bd681",
+        "image": "https://uploads.mangadex.org/covers/3042be64-5561-448b-98c9-4ad1e67bd681/77603e81-97ef-4ddd-a499-1cae6cbbcdad.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2093,
+        "aniId": 32093,
+        "createdAt": "2020-10-12T16:15:30.000Z",
+        "updatedAt": "2021-06-06T14:11:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

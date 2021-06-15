@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "ハニーベイビー",
+    "S",
+    "Esu",
+    "That's Another Law of Love",
+    "High Standard Impression"
+  ],
+  "authors": [
+    "Satomi Yamagata"
+  ],
+  "id": 30802,
+  "malId": 802,
+  "type": "manga",
+  "title": "Honey Baby",
+  "url": "https://anilist.co/manga/30802",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/802.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-05-20T14:35:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d5d6d488-1be1-48bf-99d6-ca7f69b60f46": {
+        "authors": [
+          "Yamagata Satomi"
+        ],
+        "identifier": "d5d6d488-1be1-48bf-99d6-ca7f69b60f46",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honey Baby",
+        "url": "https://mangadex.org/title/d5d6d488-1be1-48bf-99d6-ca7f69b60f46",
+        "image": "https://uploads.mangadex.org/covers/d5d6d488-1be1-48bf-99d6-ca7f69b60f46/11c2b083-39f1-4f47-a905-23709eb4c459.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 802,
+        "aniId": 30802,
+        "createdAt": "2020-11-23T08:25:59.000Z",
+        "updatedAt": "2021-06-08T07:35:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "honey_baby": {
+        "authors": [
+          "YAMAGATA Satomi"
+        ],
+        "identifier": "honey_baby",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Honey Baby",
+        "url": "https://fanfox.net/manga/honey_baby/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2570/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 802,
+        "aniId": 30802,
+        "createdAt": "2021-06-04T01:20:20.000Z",
+        "updatedAt": "2021-06-04T01:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

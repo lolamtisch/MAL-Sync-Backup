@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "A Horse with No Name",
+    "ＭＡＲＳ外伝 「名前のない馬」",
+    "Namae no nai Uma",
+    "1 Karatto no Kajitsu",
+    "Mars: A Horse with No Name",
+    "ＭＡＲＳ外伝 ",
+    "名前のない馬"
+  ],
+  "authors": [
+    "Fuyumi Souryou"
+  ],
+  "id": 30851,
+  "malId": 851,
+  "type": "manga",
+  "title": "Mars Gaiden: Namae no Nai Uma",
+  "url": "https://anilist.co/manga/30851",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30851-z9R8HJCtleTb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "777f9015-84af-4117-aa58-299c09ccf684": {
+        "authors": [
+          "Souryo Fuyumi"
+        ],
+        "identifier": "777f9015-84af-4117-aa58-299c09ccf684",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mars Gaiden",
+        "url": "https://mangadex.org/title/777f9015-84af-4117-aa58-299c09ccf684",
+        "image": "https://uploads.mangadex.org/covers/777f9015-84af-4117-aa58-299c09ccf684/21fa160c-5d0c-4bab-9a42-af72c5571917.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 851,
+        "aniId": 30851,
+        "createdAt": "2020-10-12T16:03:06.000Z",
+        "updatedAt": "2021-06-02T11:44:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "ドロップ"
+  ],
+  "authors": [
+    "Hiroshi Takahashi",
+    "Hiroshi Shinagawa",
+    "Dai Suzuki"
+  ],
+  "id": 47106,
+  "malId": 17106,
+  "type": "manga",
+  "title": "Drop",
+  "url": "https://anilist.co/manga/47106",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17106.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:03.000Z",
+  "updatedAt": "2021-05-20T14:44:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4714ec35-68dd-499a-b489-d7703755476f": {
+        "authors": [
+          "Suzuki Dai",
+          "Takahashi Hiroshi",
+          "Shinagawa Hiroshi"
+        ],
+        "identifier": "4714ec35-68dd-499a-b489-d7703755476f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Drop",
+        "url": "https://mangadex.org/title/4714ec35-68dd-499a-b489-d7703755476f",
+        "image": "https://uploads.mangadex.org/covers/4714ec35-68dd-499a-b489-d7703755476f/5fa96109-bcb8-4f8c-8635-1aa3c4d44c43.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17106,
+        "aniId": 47106,
+        "createdAt": "2020-10-12T16:03:49.000Z",
+        "updatedAt": "2021-06-02T16:44:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "drop": {
+        "authors": [
+          "Shinagawa",
+          "Hiroshi"
+        ],
+        "identifier": "drop",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Drop",
+        "url": "https://manganelo.com/manga/drop",
+        "image": "https://avt.mkklcdnv6temp.com/20/c/6-1583474959.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 17106,
+        "aniId": 47106,
+        "createdAt": "2020-10-12T16:22:44.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

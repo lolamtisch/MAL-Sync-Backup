@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Crush"
+  ],
+  "authors": [
+    "Yuzuha Ougi"
+  ],
+  "id": 44327,
+  "malId": 14327,
+  "type": "manga",
+  "title": "Crush",
+  "url": "https://anilist.co/manga/44327",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14327.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:45.000Z",
+  "updatedAt": "2021-05-20T14:42:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7fab404c-2aa4-425e-81ba-5993606ce40a": {
+        "authors": [
+          "Ougi Yuzuha"
+        ],
+        "identifier": "7fab404c-2aa4-425e-81ba-5993606ce40a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crush",
+        "url": "https://mangadex.org/title/7fab404c-2aa4-425e-81ba-5993606ce40a",
+        "image": "https://uploads.mangadex.org/covers/7fab404c-2aa4-425e-81ba-5993606ce40a/be90192c-2b5a-48b9-965e-8dc2064c4304.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14327,
+        "aniId": 44327,
+        "createdAt": "2020-10-12T16:10:00.000Z",
+        "updatedAt": "2021-06-04T21:37:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Enchanting Apple",
+    "魅惑ノリンゴ"
+  ],
+  "authors": [
+    "Kazuhiko Mishima"
+  ],
+  "id": 35142,
+  "malId": 5142,
+  "type": "manga",
+  "title": "Miwaku no Ringo",
+  "url": "https://anilist.co/manga/35142",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5142.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2cb3b7eb-2185-4e69-b3d3-3f44b7444ae8": {
+        "authors": [
+          "Mishima Kazuhiko"
+        ],
+        "identifier": "2cb3b7eb-2185-4e69-b3d3-3f44b7444ae8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Miwaku no Ringo",
+        "url": "https://mangadex.org/title/2cb3b7eb-2185-4e69-b3d3-3f44b7444ae8",
+        "image": "https://uploads.mangadex.org/covers/2cb3b7eb-2185-4e69-b3d3-3f44b7444ae8/315a4759-7657-4cfc-8e95-4943acf5e0cf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5142,
+        "aniId": 35142,
+        "createdAt": "2020-10-12T16:16:14.000Z",
+        "updatedAt": "2021-06-06T20:39:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vx958680": {
+        "authors": [
+          "Mishima Kazuhiko"
+        ],
+        "identifier": "manga-vx958680",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Miwaku No Ringo",
+        "url": "https://manganato.com/manga-vx958680",
+        "image": "https://avt.mkklcdnv6temp.com/35/i/5-1583473285.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5142,
+        "aniId": 35142,
+        "createdAt": "2021-05-31T13:25:46.000Z",
+        "updatedAt": "2021-05-31T13:52:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

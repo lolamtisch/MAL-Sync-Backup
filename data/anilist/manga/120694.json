@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "血液ヌル",
+    "Blood Null"
+  ],
+  "authors": [
+    "Shintarou Tengan"
+  ],
+  "id": 120694,
+  "malId": null,
+  "type": "manga",
+  "title": "Ketsueki Null",
+  "url": "https://anilist.co/manga/120694",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120694-btDlq1YoLepO.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-06T05:19:18.000Z",
+  "updatedAt": "2021-06-06T05:19:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "65ab0c6f-dbf5-40ba-ae30-c1defe1cc15f": {
+        "authors": [
+          "Shintarou Tengan"
+        ],
+        "identifier": "65ab0c6f-dbf5-40ba-ae30-c1defe1cc15f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blood Null",
+        "url": "https://mangadex.org/title/65ab0c6f-dbf5-40ba-ae30-c1defe1cc15f",
+        "image": "https://uploads.mangadex.org/covers/65ab0c6f-dbf5-40ba-ae30-c1defe1cc15f/ba96541f-f009-47d0-ae9a-d0c214d5fc94.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120694,
+        "createdAt": "2020-10-12T16:14:27.000Z",
+        "updatedAt": "2021-06-06T10:20:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

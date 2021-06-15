@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "キラートマトと完熟バナナ"
+  ],
+  "authors": [
+    "Makoto Kobori"
+  ],
+  "id": 98120,
+  "malId": 103326,
+  "type": "manga",
+  "title": "Killer Tomato to Kanjuku Banana",
+  "url": "https://anilist.co/manga/98120",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98120-Dw6LNaU7uEA2.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:02.000Z",
+  "updatedAt": "2021-05-20T14:55:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "84fd93d3-7839-4ac9-9793-502fa3deb290": {
+        "authors": [
+          "Kobori Makoto"
+        ],
+        "identifier": "84fd93d3-7839-4ac9-9793-502fa3deb290",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Killer Tomato and Overripe Banana",
+        "url": "https://mangadex.org/title/84fd93d3-7839-4ac9-9793-502fa3deb290",
+        "image": "https://uploads.mangadex.org/covers/84fd93d3-7839-4ac9-9793-502fa3deb290/0c2598ac-c7b0-4a69-a94c-472bca388e1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103326,
+        "aniId": 98120,
+        "createdAt": "2020-10-12T16:10:21.000Z",
+        "updatedAt": "2021-06-05T00:07:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "killer_tomato_to_kanjuku_banana": {
+        "authors": [
+          "KOBORI Makoto"
+        ],
+        "identifier": "killer_tomato_to_kanjuku_banana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Killer Tomato to Kanjuku Banana",
+        "url": "https://fanfox.net/manga/killer_tomato_to_kanjuku_banana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/23419/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103326,
+        "aniId": 98120,
+        "createdAt": "2021-06-13T08:38:24.000Z",
+        "updatedAt": "2021-06-13T09:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

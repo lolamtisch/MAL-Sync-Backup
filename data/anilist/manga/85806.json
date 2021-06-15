@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "エンゼルゲーム さよならと未来のカケラ"
+  ],
+  "authors": [
+    "Toshiko Machida",
+    "Robinson Haruhara"
+  ],
+  "id": 85806,
+  "malId": 80269,
+  "type": "manga",
+  "title": "Angel Game - Sayonara to Mirai no Kakera",
+  "url": "https://anilist.co/manga/85806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85806-2YT1na4qQL9S.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:59.000Z",
+  "updatedAt": "2021-05-20T14:51:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d59585ef-b4f9-43f6-b40c-14aac7b6f274": {
+        "authors": [
+          "Haruhara Robinson",
+          "Machida Toshiko"
+        ],
+        "identifier": "d59585ef-b4f9-43f6-b40c-14aac7b6f274",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Angel Game",
+        "url": "https://mangadex.org/title/d59585ef-b4f9-43f6-b40c-14aac7b6f274",
+        "image": "https://uploads.mangadex.org/covers/d59585ef-b4f9-43f6-b40c-14aac7b6f274/319a5d4a-9a2e-4fc6-8f78-f934c164af7f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80269,
+        "aniId": 85806,
+        "createdAt": "2020-10-12T16:07:56.000Z",
+        "updatedAt": "2021-06-04T06:23:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

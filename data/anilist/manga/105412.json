@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "山瀬はどこへ行った？",
+    "Falling love with a double-A side boy!"
+  ],
+  "authors": [
+    "Saori"
+  ],
+  "id": 105412,
+  "malId": 112701,
+  "type": "manga",
+  "title": "Yamase wa doko e Itta?",
+  "url": "https://anilist.co/manga/105412",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105412-TZtnZ4Feb48I.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:58.000Z",
+  "updatedAt": "2021-06-05T09:19:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d97c99c2-5e68-4fad-ba10-f1e5f7bee5ea": {
+        "authors": [
+          "Saori (紗織)"
+        ],
+        "identifier": "d97c99c2-5e68-4fad-ba10-f1e5f7bee5ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yamase wa Doko e Itta?",
+        "url": "https://mangadex.org/title/d97c99c2-5e68-4fad-ba10-f1e5f7bee5ea",
+        "image": "https://uploads.mangadex.org/covers/d97c99c2-5e68-4fad-ba10-f1e5f7bee5ea/1fed66bd-6f3e-4354-b8b0-b06f3b32742f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112701,
+        "aniId": 105412,
+        "createdAt": "2020-10-12T16:11:30.000Z",
+        "updatedAt": "2021-06-05T09:47:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yamase_wa_doko_e_itta": {
+        "authors": [
+          "Saori (紗織)"
+        ],
+        "identifier": "yamase_wa_doko_e_itta",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yamase wa doko e Itta?",
+        "url": "https://fanfox.net/manga/yamase_wa_doko_e_itta/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27785/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112701,
+        "aniId": 105412,
+        "createdAt": "2021-03-28T12:19:57.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

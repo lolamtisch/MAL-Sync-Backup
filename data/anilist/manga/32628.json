@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "僕は君の鳥になりたい。; 僕は君の鳥になりたい",
+    "I Want to Become Your Bird"
+  ],
+  "authors": [
+    "Homerun Ken"
+  ],
+  "id": 32628,
+  "malId": 2628,
+  "type": "manga",
+  "title": "Boku wa Kimi no Tori ni Naritai",
+  "url": "https://anilist.co/manga/32628",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2628.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73b3d656-6a1f-4657-8ffe-338e9f441466": {
+        "authors": [
+          "Homerun Ken"
+        ],
+        "identifier": "73b3d656-6a1f-4657-8ffe-338e9f441466",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku wa Kimi no Tori ni Naritai",
+        "url": "https://mangadex.org/title/73b3d656-6a1f-4657-8ffe-338e9f441466",
+        "image": "https://uploads.mangadex.org/covers/73b3d656-6a1f-4657-8ffe-338e9f441466/4f362725-5bba-4964-bd0e-f4bf4de65022.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2628,
+        "aniId": 32628,
+        "createdAt": "2020-11-24T12:56:34.000Z",
+        "updatedAt": "2021-06-08T07:37:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

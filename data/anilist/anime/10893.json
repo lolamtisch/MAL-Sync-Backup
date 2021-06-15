@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "京騒戯画",
+    "Kyousogiga"
+  ],
+  "id": 10893,
+  "malId": 10893,
+  "type": "anime",
+  "title": "Kyousougiga",
+  "url": "https://anilist.co/anime/10893",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10893-B511LX2N4aYm.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:17.000Z",
+  "updatedAt": "2021-05-20T14:39:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "kyousogiga-ona": {
+        "identifier": "kyousogiga-ona",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyousogiga ONA",
+        "url": "https://gogoanime.so/category/kyousogiga-ona",
+        "image": "https://gogocdn.net/images/anime/K/Kyousogiga-ONA.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10893,
+        "aniId": 10893,
+        "createdAt": "2020-10-12T17:53:56.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3633": {
+        "identifier": "3633",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyousou Giga",
+        "url": "https://pahe.win/a/3633",
+        "image": "https://i.animepahe.com/posters/e52997f0cadbd3a27a2f71ac614834ed9ef8648594cbe1abe84369c8627527d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10893,
+        "aniId": 10893,
+        "createdAt": "2021-03-31T05:30:54.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

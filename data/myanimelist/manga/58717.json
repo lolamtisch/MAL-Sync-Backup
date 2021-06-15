@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "UNKNOWN"
+  ],
+  "authors": [
+    "Yoshimura, Tsumuji"
+  ],
+  "id": 58717,
+  "type": "manga",
+  "title": "Unknown",
+  "url": "https://myanimelist.net/manga/58717/Unknown",
+  "image": "https://cdn.myanimelist.net/images/manga/2/147855.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:53.000Z",
+  "updatedAt": "2021-05-08T20:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "638e0536-6f8b-4981-8e23-9f9d90aa5ef8": {
+        "authors": [
+          "Yoshimura Tsumuji"
+        ],
+        "identifier": "638e0536-6f8b-4981-8e23-9f9d90aa5ef8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Unknown",
+        "url": "https://mangadex.org/title/638e0536-6f8b-4981-8e23-9f9d90aa5ef8",
+        "image": "https://uploads.mangadex.org/covers/638e0536-6f8b-4981-8e23-9f9d90aa5ef8/27ccf812-da21-40d0-aab8-caf05babd249.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58717,
+        "aniId": 88664,
+        "createdAt": "2020-10-12T16:06:45.000Z",
+        "updatedAt": "2021-06-03T21:55:19.000Z",
+        "deletedAt": null
+      },
+      "a83a49a9-6b62-411b-a3e5-6a441628b0ef": {
+        "authors": [
+          "PointBlank/Natalwho"
+        ],
+        "identifier": "a83a49a9-6b62-411b-a3e5-6a441628b0ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "TimeLine: Unknown (不明な時間)",
+        "url": "https://mangadex.org/title/a83a49a9-6b62-411b-a3e5-6a441628b0ef",
+        "image": "https://uploads.mangadex.org/covers/a83a49a9-6b62-411b-a3e5-6a441628b0ef/c2ee62ee-5254-44e8-a9de-11367cf70193.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58717,
+        "aniId": 88664,
+        "createdAt": "2020-10-12T16:19:34.000Z",
+        "updatedAt": "2021-06-07T22:06:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "unknown": {
+        "authors": [
+          "YOSHIMURA Tsumuzi"
+        ],
+        "identifier": "unknown",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Unknown",
+        "url": "https://mangasee123.com/manga/Unknown",
+        "image": "https://cover.nep.li/cover/Unknown.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58717,
+        "aniId": 88664,
+        "createdAt": "2021-05-11T15:19:06.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

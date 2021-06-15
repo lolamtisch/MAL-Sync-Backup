@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "쁘띠 아도니스"
+  ],
+  "authors": [
+    "Hye-Dol"
+  ],
+  "id": 111107,
+  "malId": null,
+  "type": "manga",
+  "title": "Petit Adonis",
+  "url": "https://anilist.co/manga/111107",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111107-ikwxZaeqz6eq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T21:49:42.000Z",
+  "updatedAt": "2021-06-06T21:49:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e7dcdf6b-3b2a-438c-ba99-41688d44e2e5": {
+        "authors": [
+          "Feroto",
+          "Hye-Dol",
+          "Team Adonis"
+        ],
+        "identifier": "e7dcdf6b-3b2a-438c-ba99-41688d44e2e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Petit Adonis",
+        "url": "https://mangadex.org/title/e7dcdf6b-3b2a-438c-ba99-41688d44e2e5",
+        "image": "https://uploads.mangadex.org/covers/e7dcdf6b-3b2a-438c-ba99-41688d44e2e5/70595f50-24ff-4f80-a8e3-1332b7adc993.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111107,
+        "createdAt": "2020-10-12T16:16:19.000Z",
+        "updatedAt": "2021-06-07T07:20:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

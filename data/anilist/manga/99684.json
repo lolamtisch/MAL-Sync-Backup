@@ -1,0 +1,110 @@
+{
+  "altTitle": [
+    "イサック"
+  ],
+  "authors": [
+    "Shinji Makari",
+    "Jihyeong Song"
+  ],
+  "id": 99684,
+  "malId": 103489,
+  "type": "manga",
+  "title": "Issak",
+  "url": "https://anilist.co/manga/99684",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99684-UZkPVpFlr9pj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:04.000Z",
+  "updatedAt": "2021-05-20T14:55:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "680c9fa4-1c12-4838-97c2-765cba78374c": {
+        "authors": [
+          "Makari Shinji",
+          "Song Ji-Hyoung"
+        ],
+        "identifier": "680c9fa4-1c12-4838-97c2-765cba78374c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Issak",
+        "url": "https://mangadex.org/title/680c9fa4-1c12-4838-97c2-765cba78374c",
+        "image": "https://uploads.mangadex.org/covers/680c9fa4-1c12-4838-97c2-765cba78374c/8f2f00d4-ba98-4d86-b3e1-5b2b7a05bf79.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103489,
+        "aniId": 99684,
+        "createdAt": "2020-10-12T16:10:57.000Z",
+        "updatedAt": "2021-06-05T04:31:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "issak": {
+        "authors": [],
+        "identifier": "issak",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Issak",
+        "url": "https://manganelo.com/manga/issak",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20141-issak.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103489,
+        "aniId": 99684,
+        "createdAt": "2020-10-12T16:23:36.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "issak": {
+        "authors": [
+          "DOUBLE-S",
+          "MAKARI Shinji"
+        ],
+        "identifier": "issak",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Issak",
+        "url": "https://mangasee123.com/manga/Issak",
+        "image": "https://cover.nep.li/cover/Issak.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103489,
+        "aniId": 99684,
+        "createdAt": "2021-01-10T15:22:13.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "issak": {
+        "authors": [
+          "MAKARI Shinji"
+        ],
+        "identifier": "issak",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Issak",
+        "url": "https://fanfox.net/manga/issak/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27275/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103489,
+        "aniId": 99684,
+        "createdAt": "2021-03-20T17:05:42.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

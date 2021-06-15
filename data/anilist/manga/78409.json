@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "変わる世界"
+  ],
+  "authors": [
+    "Tooko Tateno"
+  ],
+  "id": 78409,
+  "malId": 48409,
+  "type": "manga",
+  "title": "Kawaru Sekai",
+  "url": "https://anilist.co/manga/78409",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78409-vC9DqD3xscBD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:39.000Z",
+  "updatedAt": "2021-05-20T14:49:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "920f96b4-5681-4dde-973d-7fa92eeb82b3": {
+        "authors": [
+          "Tateno Tooko"
+        ],
+        "identifier": "920f96b4-5681-4dde-973d-7fa92eeb82b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kawaru Sekai",
+        "url": "https://mangadex.org/title/920f96b4-5681-4dde-973d-7fa92eeb82b3",
+        "image": "https://uploads.mangadex.org/covers/920f96b4-5681-4dde-973d-7fa92eeb82b3/9b5cd75d-dbab-4c19-90de-9f9ccb0e9fec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48409,
+        "aniId": 78409,
+        "createdAt": "2020-10-12T16:06:05.000Z",
+        "updatedAt": "2021-06-03T17:00:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kawaru_sekai": {
+        "authors": [],
+        "identifier": "kawaru_sekai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kawaru Sekai",
+        "url": "https://manganelo.com/manga/kawaru_sekai",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/12900-kawaru_sekai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48409,
+        "aniId": 78409,
+        "createdAt": "2020-10-12T16:23:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

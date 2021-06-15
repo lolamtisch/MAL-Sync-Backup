@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "우리 헤어졌어요"
+  ],
+  "authors": [
+    "Chae-Lynn Ryu"
+  ],
+  "id": 100001,
+  "malId": null,
+  "type": "manga",
+  "title": "We Broke Up",
+  "url": "https://anilist.co/manga/100001",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100001-O8SSoFHzJ28R.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T09:18:58.000Z",
+  "updatedAt": "2021-06-04T09:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8ef43d3f-c6b6-4746-bc67-e6a493d61136": {
+        "authors": [
+          "RYU ChaeLynn"
+        ],
+        "identifier": "8ef43d3f-c6b6-4746-bc67-e6a493d61136",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "We Broke Up",
+        "url": "https://mangadex.org/title/8ef43d3f-c6b6-4746-bc67-e6a493d61136",
+        "image": "https://uploads.mangadex.org/covers/8ef43d3f-c6b6-4746-bc67-e6a493d61136/b7836a2a-aa43-4278-a9a4-75ff3a933199.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100001,
+        "createdAt": "2020-10-12T16:08:17.000Z",
+        "updatedAt": "2021-06-04T12:46:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "altTitle": [],
+  "authors": [],
+  "id": 53037,
+  "malId": 23037,
+  "type": "manga",
+  "title": "Orange Sweet Olive Blossoms",
+  "url": "https://anilist.co/manga/53037",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23037.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:34.000Z",
+  "updatedAt": "2021-05-20T14:46:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e6b76cc8-1354-40ee-86ad-65b1f88c4039": {
+        "authors": [
+          "Itsuki Maya"
+        ],
+        "identifier": "e6b76cc8-1354-40ee-86ad-65b1f88c4039",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Orange Sweet Olive Blossoms",
+        "url": "https://mangadex.org/title/e6b76cc8-1354-40ee-86ad-65b1f88c4039",
+        "image": "https://uploads.mangadex.org/covers/e6b76cc8-1354-40ee-86ad-65b1f88c4039/eb963091-094f-4008-a67c-01557571589d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23037,
+        "aniId": 53037,
+        "createdAt": "2020-10-12T16:05:21.000Z",
+        "updatedAt": "2021-06-03T12:02:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

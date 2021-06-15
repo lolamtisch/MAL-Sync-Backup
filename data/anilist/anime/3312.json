@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "ドクタースランプ",
+    "Dr. Slump 2",
+    "Doctor Slump"
+  ],
+  "id": 3312,
+  "malId": 3312,
+  "type": "anime",
+  "title": "Dr. Slump",
+  "url": "https://anilist.co/anime/3312",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3312.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:37.000Z",
+  "updatedAt": "2021-05-20T14:36:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "n74l": {
+        "identifier": "n74l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dr. Slump",
+        "url": "https://9anime.ru/watch/dr-slump.n74l",
+        "image": "https://static.akacdn.ru/static/images/2018/04/bf7639169a806e975848b95d5b0a0019.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3312,
+        "aniId": 3312,
+        "createdAt": "2020-10-12T15:53:50.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "2292": {
+        "identifier": "2292",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Doctor Slump (GerDub)",
+        "url": "https://www.anime4you.one/show/1/aid/2292",
+        "image": "https://cdn.anime4you.one/covers/28081801010808299.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3312,
+        "aniId": 3312,
+        "createdAt": "2020-10-15T12:29:14.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

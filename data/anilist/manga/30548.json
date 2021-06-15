@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "The One I Love",
+    "わたしのすきなひと",
+    "Watashi no Sukinahito",
+    "Watashi no Suki na Hito",
+    "A Pessoa Amada"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 30548,
+  "malId": 548,
+  "type": "manga",
+  "title": "Watashi no Sukina Hito",
+  "url": "https://anilist.co/manga/30548",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30548-FMYwoYYHLiU0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-05-20T14:35:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "18bfe440-2670-4b45-a264-1a3adbb65d01": {
+        "authors": [
+          "CLAMP",
+          "Nekoi Tsubaki",
+          "Ohkawa Ageha"
+        ],
+        "identifier": "18bfe440-2670-4b45-a264-1a3adbb65d01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi no Suki na Hito",
+        "url": "https://mangadex.org/title/18bfe440-2670-4b45-a264-1a3adbb65d01",
+        "image": "https://uploads.mangadex.org/covers/18bfe440-2670-4b45-a264-1a3adbb65d01/a44383e2-ca3b-4ec5-97cb-1330bb2e078b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 548,
+        "aniId": 30548,
+        "createdAt": "2020-10-12T16:13:11.000Z",
+        "updatedAt": "2021-06-05T19:27:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "js922505": {
+        "authors": [],
+        "identifier": "js922505",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Zettai Watashi No Koto Suki Daro",
+        "url": "https://manganelo.com/manga/js922505",
+        "image": "https://avt.mkklcdnv6.com/46/p/20-1584894003.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 548,
+        "aniId": 30548,
+        "createdAt": "2020-10-12T16:23:46.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

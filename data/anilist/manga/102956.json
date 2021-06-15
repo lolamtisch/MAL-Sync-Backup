@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ヒロインズゲーム"
+  ],
+  "authors": [
+    "Tabasa Iori",
+    "Miyako Slocombe"
+  ],
+  "id": 102956,
+  "malId": 109775,
+  "type": "manga",
+  "title": "Heroines Game",
+  "url": "https://anilist.co/manga/102956",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102956-ifYQibHX0Y3U.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:07.000Z",
+  "updatedAt": "2021-05-20T14:56:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "01194baf-f5c3-4258-9639-3f6b9c1b6678": {
+        "authors": [
+          "Iori Tabasa"
+        ],
+        "identifier": "01194baf-f5c3-4258-9639-3f6b9c1b6678",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heroines Game",
+        "url": "https://mangadex.org/title/01194baf-f5c3-4258-9639-3f6b9c1b6678",
+        "image": "https://uploads.mangadex.org/covers/01194baf-f5c3-4258-9639-3f6b9c1b6678/f504abc3-f2f3-48e2-8e94-483a0ce73568.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109775,
+        "aniId": 102956,
+        "createdAt": "2020-10-12T16:12:10.000Z",
+        "updatedAt": "2021-06-05T13:53:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "og918988": {
+        "authors": [],
+        "identifier": "og918988",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Heroines Game",
+        "url": "https://manganelo.com/manga/og918988",
+        "image": "https://avt.mkklcdnv6.com/15/m/18-1583497686.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109775,
+        "aniId": 102956,
+        "createdAt": "2020-10-12T16:24:38.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

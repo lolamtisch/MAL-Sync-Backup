@@ -1,0 +1,146 @@
+{
+  "altTitle": [
+    "Evergreen",
+    "エバーグリーン"
+  ],
+  "authors": [
+    "Takemiya, Yuyuko",
+    "Kasukabe, Akira"
+  ],
+  "id": 30595,
+  "type": "manga",
+  "title": "Ever Green",
+  "url": "https://myanimelist.net/manga/30595/Ever_Green",
+  "image": "https://cdn.myanimelist.net/images/manga/3/150961.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:42.000Z",
+  "updatedAt": "2021-05-06T13:18:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "45777a73-98a6-47ba-b7df-e879365cb1cb": {
+        "authors": [
+          "Takemiya Yuyuko",
+          "Kasukabe Akira"
+        ],
+        "identifier": "45777a73-98a6-47ba-b7df-e879365cb1cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ever Green",
+        "url": "https://mangadex.org/title/45777a73-98a6-47ba-b7df-e879365cb1cb",
+        "image": "https://uploads.mangadex.org/covers/45777a73-98a6-47ba-b7df-e879365cb1cb/6da89c0d-4a53-4793-98a3-4ca36ab71b38.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30595,
+        "aniId": 60595,
+        "createdAt": "2020-10-12T16:03:09.000Z",
+        "updatedAt": "2021-06-02T12:04:52.000Z",
+        "deletedAt": null
+      },
+      "2bf02565-6507-469c-ae50-b75f3ea4d444": {
+        "authors": [
+          "Bujji"
+        ],
+        "identifier": "2bf02565-6507-469c-ae50-b75f3ea4d444",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Evergreen",
+        "url": "https://mangadex.org/title/2bf02565-6507-469c-ae50-b75f3ea4d444",
+        "image": "https://uploads.mangadex.org/covers/2bf02565-6507-469c-ae50-b75f3ea4d444/04e3ace5-e286-4798-98ba-2c60d81ea672.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30595,
+        "aniId": 60595,
+        "createdAt": "2020-10-12T16:18:22.000Z",
+        "updatedAt": "2021-06-07T16:20:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "evergreen_kasukabe_akira": {
+        "authors": [],
+        "identifier": "evergreen_kasukabe_akira",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Evergreen (Kasukabe Akira)",
+        "url": "https://manganelo.com/manga/evergreen_kasukabe_akira",
+        "image": "https://avt.mkklcdnv6.com/45/y/3-1583469484.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30595,
+        "aniId": 60595,
+        "createdAt": "2020-10-12T16:22:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "evergreen_tea_shop": {
+        "authors": [],
+        "identifier": "evergreen_tea_shop",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Evergreen Tea Shop",
+        "url": "https://manganelo.com/manga/evergreen_tea_shop",
+        "image": "https://avt.mkklcdnv6.com/21/z/3-1583468537.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30595,
+        "aniId": 60595,
+        "createdAt": "2020-10-12T16:22:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "evergreen": {
+        "authors": [
+          "Takemiya",
+          "Yuyuko"
+        ],
+        "identifier": "evergreen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Evergreen",
+        "url": "https://manganelo.com/manga/evergreen",
+        "image": "https://avt.mkklcdnv6temp.com/4/n/15-1583491630.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30595,
+        "aniId": 60595,
+        "createdAt": "2021-04-07T03:38:48.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "evergreen_kasukabe_akira": {
+        "authors": [
+          "TAKEMIYA Yuyuko"
+        ],
+        "identifier": "evergreen_kasukabe_akira",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Evergreen (KASUKABE Akira)",
+        "url": "https://fanfox.net/manga/evergreen_kasukabe_akira/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10457/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30595,
+        "aniId": 60595,
+        "createdAt": "2021-05-06T13:18:57.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

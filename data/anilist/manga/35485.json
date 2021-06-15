@@ -1,0 +1,43 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Jin Kobayashi",
+    "Keishuu Ando"
+  ],
+  "id": 35485,
+  "malId": 5485,
+  "type": "manga",
+  "title": "Hentai Kamen Returns",
+  "url": "https://anilist.co/manga/35485",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5485.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-05-20T14:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a6e0940a-5555-4c64-b844-b6bde03143d7": {
+        "authors": [
+          "Ando Keishuu",
+          "Kobayashi Jin"
+        ],
+        "identifier": "a6e0940a-5555-4c64-b844-b6bde03143d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hentai Kamen Returns",
+        "url": "https://mangadex.org/title/a6e0940a-5555-4c64-b844-b6bde03143d7",
+        "image": "https://uploads.mangadex.org/covers/a6e0940a-5555-4c64-b844-b6bde03143d7/c3923f49-1821-4700-8df1-1a6ef4b55865.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5485,
+        "aniId": 35485,
+        "createdAt": "2020-10-12T16:03:38.000Z",
+        "updatedAt": "2021-06-02T15:22:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

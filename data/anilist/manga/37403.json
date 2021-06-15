@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "きつねのよめいり",
+    "Fox's Wedding"
+  ],
+  "authors": [
+    "Satoshi Takagi"
+  ],
+  "id": 37403,
+  "malId": 7403,
+  "type": "manga",
+  "title": "Kitsune no Yomeiri",
+  "url": "https://anilist.co/manga/37403",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b37403-YYXwiCm1eQ1K.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:52.000Z",
+  "updatedAt": "2021-05-20T14:39:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "052b1d84-519f-4174-980c-9e4cbcb5e366": {
+        "authors": [
+          "Takagi Satoshi"
+        ],
+        "identifier": "052b1d84-519f-4174-980c-9e4cbcb5e366",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kitsune no Yomeiri",
+        "url": "https://mangadex.org/title/052b1d84-519f-4174-980c-9e4cbcb5e366",
+        "image": "https://uploads.mangadex.org/covers/052b1d84-519f-4174-980c-9e4cbcb5e366/25bede80-56dc-47b9-9dc0-92d642dcaf03.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7403,
+        "aniId": 37403,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:37:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kitsune_no_yomeiri": {
+        "authors": [],
+        "identifier": "kitsune_no_yomeiri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kitsune No Yomeiri",
+        "url": "https://manganelo.com/manga/kitsune_no_yomeiri",
+        "image": "https://avt.mkklcdnv6.com/12/f/3-1583468122.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7403,
+        "aniId": 37403,
+        "createdAt": "2020-10-12T16:23:56.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kitsune-no-yomeiri": {
+        "authors": [
+          "TAKAGI Satoshi"
+        ],
+        "identifier": "kitsune-no-yomeiri",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kitsune no Yomeiri",
+        "url": "https://mangasee123.com/manga/Kitsune-No-Yomeiri",
+        "image": "https://cover.nep.li/cover/Kitsune-No-Yomeiri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7403,
+        "aniId": 37403,
+        "createdAt": "2021-02-15T12:05:50.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

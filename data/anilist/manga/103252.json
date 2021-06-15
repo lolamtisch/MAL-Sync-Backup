@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "Shokugeki no Sanji",
+    "食戟のサンジ"
+  ],
+  "authors": [
+    "Yuki Morisaki",
+    "Yuuto Tsukuda",
+    "Shun Saeki",
+    "Eiichirou Oda"
+  ],
+  "id": 103252,
+  "malId": 114760,
+  "type": "manga",
+  "title": "Shokugeki no Sanji",
+  "url": "https://anilist.co/manga/103252",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103252-y9ucb2YMB1ts.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:11.000Z",
+  "updatedAt": "2021-06-06T02:20:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5d5eab11-c930-4d2f-a669-d9108b4ac7a0": {
+        "authors": [
+          "Tsukuda Yuuto",
+          "Saeki Shun"
+        ],
+        "identifier": "5d5eab11-c930-4d2f-a669-d9108b4ac7a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shokugeki no Sanji",
+        "url": "https://mangadex.org/title/5d5eab11-c930-4d2f-a669-d9108b4ac7a0",
+        "image": "https://uploads.mangadex.org/covers/5d5eab11-c930-4d2f-a669-d9108b4ac7a0/1db96f98-6a53-42f4-b211-b04154dc13eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114760,
+        "aniId": 103252,
+        "createdAt": "2020-10-12T16:13:34.000Z",
+        "updatedAt": "2021-06-05T22:25:58.000Z",
+        "deletedAt": null
+      },
+      "f107142c-8865-4224-9bf8-220689c6f1f2": {
+        "authors": [
+          "",
+          "Yūto Tsukuda"
+        ],
+        "identifier": "f107142c-8865-4224-9bf8-220689c6f1f2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shokugeki no Sanji Full Colored",
+        "url": "https://mangadex.org/title/f107142c-8865-4224-9bf8-220689c6f1f2",
+        "image": "https://uploads.mangadex.org/covers/f107142c-8865-4224-9bf8-220689c6f1f2/555f96cb-bd78-48bc-a600-96ef9f7fcbb5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114760,
+        "aniId": 103252,
+        "createdAt": "2020-10-12T16:14:03.000Z",
+        "updatedAt": "2021-06-06T10:30:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shokugeki_no_sanji": {
+        "authors": [
+          "Tsukuda Yuuto",
+          "Eiichiro Oda"
+        ],
+        "identifier": "shokugeki_no_sanji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shokugeki no Sanji",
+        "url": "https://fanfox.net/manga/shokugeki_no_sanji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27933/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114760,
+        "aniId": 103252,
+        "createdAt": "2021-01-09T22:51:51.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

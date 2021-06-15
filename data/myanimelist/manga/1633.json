@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Teacher's Pet",
+    "先生のお気に入り!"
+  ],
+  "authors": [
+    "Aihara, Miki"
+  ],
+  "id": 1633,
+  "type": "manga",
+  "title": "Sensei no Okiniiri!",
+  "url": "https://myanimelist.net/manga/1633/Sensei_no_Okiniiri",
+  "image": "https://cdn.myanimelist.net/images/manga/2/150834.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:35.000Z",
+  "updatedAt": "2021-04-27T02:50:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09c6cbce-6f20-4c72-9e8d-50bf122a8595": {
+        "authors": [
+          "AIHARA Miki"
+        ],
+        "identifier": "09c6cbce-6f20-4c72-9e8d-50bf122a8595",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sensei no Okiniiri!",
+        "url": "https://mangadex.org/title/09c6cbce-6f20-4c72-9e8d-50bf122a8595",
+        "image": "https://uploads.mangadex.org/covers/09c6cbce-6f20-4c72-9e8d-50bf122a8595/7a32db32-cd9d-4b1a-8a79-fc5550c51841.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1633,
+        "aniId": 31633,
+        "createdAt": "2020-10-12T16:09:19.000Z",
+        "updatedAt": "2021-06-04T16:39:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "teachers_pet": {
+        "authors": [],
+        "identifier": "teachers_pet",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Teacher's Pet",
+        "url": "https://manganelo.com/manga/teachers_pet",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/13885-teachers_pet.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1633,
+        "aniId": 31633,
+        "createdAt": "2020-10-12T16:25:39.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "人形姫と王子様"
+  ],
+  "authors": [
+    "Hisa Kyoumachi"
+  ],
+  "id": 85584,
+  "malId": 70723,
+  "type": "manga",
+  "title": "Ningyo Hime to Ouji-sama",
+  "url": "https://anilist.co/manga/85584",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55584.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:32.000Z",
+  "updatedAt": "2021-06-04T02:50:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b64c9fe9-6009-43f7-a4f7-d7fac2afab61": {
+        "authors": [
+          "KYOUMACHI Hisa"
+        ],
+        "identifier": "b64c9fe9-6009-43f7-a4f7-d7fac2afab61",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ningyo Hime to Ouji-sama",
+        "url": "https://mangadex.org/title/b64c9fe9-6009-43f7-a4f7-d7fac2afab61",
+        "image": "https://uploads.mangadex.org/covers/b64c9fe9-6009-43f7-a4f7-d7fac2afab61/4b639555-0ec5-4cc1-8f90-06f9cb803b9a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70723,
+        "aniId": 85584,
+        "createdAt": "2020-10-12T16:07:23.000Z",
+        "updatedAt": "2021-06-04T08:51:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ningyo_no_oujisama": {
+        "authors": [],
+        "identifier": "ningyo_no_oujisama",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ningyo No Ouji-Sama",
+        "url": "https://manganelo.com/manga/ningyo_no_oujisama",
+        "image": "https://avt.mkklcdnv6.com/32/l/8-1583479409.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70723,
+        "aniId": 85584,
+        "createdAt": "2020-10-12T16:24:32.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

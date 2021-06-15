@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Setsuna's paradise",
+    "セツナの楽園"
+  ],
+  "authors": [
+    "Shiho Watanabe"
+  ],
+  "id": 48058,
+  "malId": 18058,
+  "type": "manga",
+  "title": "Setsuna No Rakuen",
+  "url": "https://anilist.co/manga/48058",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18058.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:09.000Z",
+  "updatedAt": "2021-05-20T14:45:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "621625ae-6ad4-483d-845c-c1379b4508e5": {
+        "authors": [
+          "WATANABE Shiho"
+        ],
+        "identifier": "621625ae-6ad4-483d-845c-c1379b4508e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Setsuna no Rakuen",
+        "url": "https://mangadex.org/title/621625ae-6ad4-483d-845c-c1379b4508e5",
+        "image": "https://uploads.mangadex.org/covers/621625ae-6ad4-483d-845c-c1379b4508e5/19b54626-bdfb-4b8a-9920-4407821b79d9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18058,
+        "aniId": 48058,
+        "createdAt": "2020-10-12T16:04:46.000Z",
+        "updatedAt": "2021-06-02T23:18:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

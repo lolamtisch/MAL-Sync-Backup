@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Kounodori: Dr. Stork",
+    "コウノドリ",
+    "Kou no Dori",
+    "Kounodori - The Stork"
+  ],
+  "authors": [
+    "Yuu Suzunoki"
+  ],
+  "id": 86198,
+  "malId": 75289,
+  "type": "manga",
+  "title": "Kounodori",
+  "url": "https://anilist.co/manga/86198",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86198-qi2PcfvkPCNR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:44.000Z",
+  "updatedAt": "2021-05-20T14:51:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fe03910f-7fec-46b7-bb08-823afadb0a50": {
+        "authors": [
+          "SUZUNOKI Yuu"
+        ],
+        "identifier": "fe03910f-7fec-46b7-bb08-823afadb0a50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kounodori",
+        "url": "https://mangadex.org/title/fe03910f-7fec-46b7-bb08-823afadb0a50",
+        "image": "https://uploads.mangadex.org/covers/fe03910f-7fec-46b7-bb08-823afadb0a50/b5e8c032-7198-4a5d-9a1a-703428c695e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75289,
+        "aniId": 86198,
+        "createdAt": "2020-10-12T16:07:53.000Z",
+        "updatedAt": "2021-06-04T06:01:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "abcdg4561323": {
+        "authors": [],
+        "identifier": "abcdg4561323",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kounodori",
+        "url": "https://manganelo.com/manga/abcdg4561323",
+        "image": "https://avt.mkklcdnv6.com/47/z/1-1583465595.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75289,
+        "aniId": 86198,
+        "createdAt": "2020-10-12T16:22:00.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kounodori-the-stork": {
+        "authors": [
+          "SUZUNOKI Yuu"
+        ],
+        "identifier": "kounodori-the-stork",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kounodori - The Stork",
+        "url": "https://mangasee123.com/manga/Kounodori-The-Stork",
+        "image": "https://cover.nep.li/cover/Kounodori-The-Stork.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 75289,
+        "aniId": 86198,
+        "createdAt": "2021-04-19T15:44:29.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

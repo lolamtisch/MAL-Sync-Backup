@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "Nyanbo!",
+    "にゃんぼー!"
+  ],
+  "id": 32805,
+  "type": "anime",
+  "title": "Nyanbo!",
+  "url": "https://myanimelist.net/anime/32805/Nyanbo",
+  "image": "https://cdn.myanimelist.net/images/anime/12/82325.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:39:43.000Z",
+  "updatedAt": "2021-01-02T03:50:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "lnqm": {
+        "identifier": "lnqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Nyanbo!",
+        "url": "https://9anime.ru/watch/nyanbo.lnqm",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5QTLx3t6d54/V-m5x_pMvrI/AAAAAAABBO0/viwoB8PhgE8/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32805,
+        "aniId": 21655,
+        "createdAt": "2020-10-12T15:53:08.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "nyanbo!": {
+        "identifier": "nyanbo!",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Nyanbo!",
+        "url": "https://www.crunchyroll.com/nyanbo?media_id=720751",
+        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/660c0f751763296bcb1e430dfd1f3b201474920656_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32805,
+        "aniId": 21655,
+        "createdAt": "2021-01-02T03:50:38.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

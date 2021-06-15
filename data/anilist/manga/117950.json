@@ -1,0 +1,95 @@
+{
+  "altTitle": [
+    "ギルドレ",
+    "Girudore",
+    "Guilty Children"
+  ],
+  "authors": [
+    "Anri Sakano",
+    "Kafka Asagiri",
+    "Ame Karasuba",
+    "Ryuuichi Sadamatsu"
+  ],
+  "id": 117950,
+  "malId": 130207,
+  "type": "manga",
+  "title": "Gildre",
+  "url": "https://anilist.co/manga/117950",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117950-KBvaysuXMdeW.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:30.000Z",
+  "updatedAt": "2021-05-20T14:59:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3549aa1e-7337-4e72-a373-85a3e4460dc6": {
+        "authors": [
+          "Asagiri Kafka",
+          "Sakano Anri"
+        ],
+        "identifier": "3549aa1e-7337-4e72-a373-85a3e4460dc6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Guilty Children",
+        "url": "https://mangadex.org/title/3549aa1e-7337-4e72-a373-85a3e4460dc6",
+        "image": "https://uploads.mangadex.org/covers/3549aa1e-7337-4e72-a373-85a3e4460dc6/e144e011-c115-45c8-b9a4-a303575d6bb9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130207,
+        "aniId": 117950,
+        "createdAt": "2020-10-12T16:16:15.000Z",
+        "updatedAt": "2021-06-06T20:59:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "of922323": {
+        "authors": [
+          "Sakano",
+          "Anri"
+        ],
+        "identifier": "of922323",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Guilty Children",
+        "url": "https://manganelo.com/manga/of922323",
+        "image": "https://avt.mkklcdnv6.com/39/t/20-1583572765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 130207,
+        "aniId": 117950,
+        "createdAt": "2020-10-12T16:24:38.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hj984792": {
+        "authors": [
+          "Sakano Anri",
+          "Asagiri Kafka"
+        ],
+        "identifier": "manga-hj984792",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Guilty Children",
+        "url": "https://readmanganato.com/manga-hj984792",
+        "image": "https://avt.mkklcdnv6temp.com/39/t/20-1583572765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130207,
+        "aniId": 117950,
+        "createdAt": "2021-05-29T03:45:38.000Z",
+        "updatedAt": "2021-05-29T04:12:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

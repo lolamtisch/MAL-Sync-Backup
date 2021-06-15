@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "カイジ外伝",
+    "Kaiji Chapter 0"
+  ],
+  "authors": [
+    "Nobuyuki Fukumoto"
+  ],
+  "id": 96314,
+  "malId": 94100,
+  "type": "manga",
+  "title": "Kaiji Gaiden",
+  "url": "https://anilist.co/manga/96314",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96314-ZW9mlrqLuR0a.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:50.000Z",
+  "updatedAt": "2021-05-20T14:53:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "03c9078a-0730-4637-bb3f-339a226ae3ac": {
+        "authors": [
+          "Fukumoto Nobuyuki"
+        ],
+        "identifier": "03c9078a-0730-4637-bb3f-339a226ae3ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaiji Gaiden",
+        "url": "https://mangadex.org/title/03c9078a-0730-4637-bb3f-339a226ae3ac",
+        "image": "https://uploads.mangadex.org/covers/03c9078a-0730-4637-bb3f-339a226ae3ac/18a9a25b-6f0e-4a34-815e-07c25e01d95a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94100,
+        "aniId": 96314,
+        "createdAt": "2020-10-12T16:14:23.000Z",
+        "updatedAt": "2021-06-06T04:41:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kaiji": {
+        "authors": [
+          "FUKUMOTO Nobuyuki"
+        ],
+        "identifier": "kaiji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kaiji",
+        "url": "https://fanfox.net/manga/kaiji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3147/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 94100,
+        "aniId": 96314,
+        "createdAt": "2021-03-30T08:31:33.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

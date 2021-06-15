@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "視線の先に"
+  ],
+  "authors": [
+    "Mato Yamamoto"
+  ],
+  "id": 80553,
+  "malId": 50553,
+  "type": "manga",
+  "title": "Shisen no Saki ni",
+  "url": "https://anilist.co/manga/80553",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50553.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-06-04T16:50:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f6420ddc-35a0-4fbe-b743-da86a2310004": {
+        "authors": [
+          "Yamamoto Mato"
+        ],
+        "identifier": "f6420ddc-35a0-4fbe-b743-da86a2310004",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shisen no Saki ni",
+        "url": "https://mangadex.org/title/f6420ddc-35a0-4fbe-b743-da86a2310004",
+        "image": "https://uploads.mangadex.org/covers/f6420ddc-35a0-4fbe-b743-da86a2310004/37586807-ea3c-4e98-a0e7-b6a2e22a183a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50553,
+        "aniId": 80553,
+        "createdAt": "2020-10-12T16:09:19.000Z",
+        "updatedAt": "2021-06-04T16:50:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shisen_no_saki_ni_yamamoto_mato": {
+        "authors": [],
+        "identifier": "shisen_no_saki_ni_yamamoto_mato",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shisen No Saki Ni (Yamamoto Mato)",
+        "url": "https://manganelo.com/manga/shisen_no_saki_ni_yamamoto_mato",
+        "image": "https://avt.mkklcdnv6.com/44/z/11-1583485636.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50553,
+        "aniId": 80553,
+        "createdAt": "2020-10-12T16:25:26.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

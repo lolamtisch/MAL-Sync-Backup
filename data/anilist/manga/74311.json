@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "くおんの森",
+    "Eternal Forest"
+  ],
+  "authors": [
+    "Nodoka Tsurimaki"
+  ],
+  "id": 74311,
+  "malId": 44311,
+  "type": "manga",
+  "title": "Kuon no Mori",
+  "url": "https://anilist.co/manga/74311",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74311-GvBL7iQ6zfID.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T14:48:58.000Z",
+  "updatedAt": "2021-06-04T14:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "efbc24fc-d76a-441a-832b-f75e3a6a9f1b": {
+        "authors": [
+          "Tsurimaki Nodoka"
+        ],
+        "identifier": "efbc24fc-d76a-441a-832b-f75e3a6a9f1b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kuon no Mori",
+        "url": "https://mangadex.org/title/efbc24fc-d76a-441a-832b-f75e3a6a9f1b",
+        "image": "https://uploads.mangadex.org/covers/efbc24fc-d76a-441a-832b-f75e3a6a9f1b/4e9c4d0f-7fc2-4a72-ad0f-f1b8c738f842.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44311,
+        "aniId": 74311,
+        "createdAt": "2020-10-12T16:09:01.000Z",
+        "updatedAt": "2021-06-04T15:21:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

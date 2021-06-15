@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "14歳",
+    "14 Sai",
+    "14 Years Old"
+  ],
+  "authors": [
+    "Kazuo Umezu"
+  ],
+  "id": 42549,
+  "malId": 12549,
+  "type": "manga",
+  "title": "Fourteen",
+  "url": "https://anilist.co/manga/42549",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42549-q2vuWUTj58tu.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:23.000Z",
+  "updatedAt": "2021-05-20T14:42:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6f03bff0-6313-41c2-92f7-1b5cadadf4b6": {
+        "authors": [
+          "UMEZU Kazuo"
+        ],
+        "identifier": "6f03bff0-6313-41c2-92f7-1b5cadadf4b6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fourteen",
+        "url": "https://mangadex.org/title/6f03bff0-6313-41c2-92f7-1b5cadadf4b6",
+        "image": "https://uploads.mangadex.org/covers/6f03bff0-6313-41c2-92f7-1b5cadadf4b6/245b18d8-c048-4e60-a392-f58ee49368be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12549,
+        "aniId": 42549,
+        "createdAt": "2020-10-12T16:02:54.000Z",
+        "updatedAt": "2021-06-02T10:15:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fourteen": {
+        "authors": [
+          "UMEZU Kazuo"
+        ],
+        "identifier": "fourteen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fourteen",
+        "url": "https://fanfox.net/manga/fourteen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5299/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12549,
+        "aniId": 42549,
+        "createdAt": "2021-01-03T21:56:32.000Z",
+        "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fourteen": {
+        "authors": [
+          "Umezu",
+          "Kazuo"
+        ],
+        "identifier": "fourteen",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fourteen",
+        "url": "https://manganelo.com/manga/fourteen",
+        "image": "https://avt.mkklcdnv6temp.com/14/v/6-1583474742.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12549,
+        "aniId": 42549,
+        "createdAt": "2021-02-18T16:16:02.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "14-sai": {
+        "authors": [
+          "UMEZU Kazuo"
+        ],
+        "identifier": "14-sai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "14-Sai",
+        "url": "https://mangasee123.com/manga/14-Sai",
+        "image": "https://cover.nep.li/cover/14-Sai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 12549,
+        "aniId": 42549,
+        "createdAt": "2021-02-22T19:34:31.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

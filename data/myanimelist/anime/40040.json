@@ -1,0 +1,55 @@
+{
+  "altTitle": [
+    "おどるモワイくん"
+  ],
+  "id": 40040,
+  "type": "anime",
+  "title": "Odoru Mowai-kun",
+  "url": "https://myanimelist.net/anime/40040/Odoru_Mowai-kun",
+  "image": "https://cdn.myanimelist.net/images/anime/1123/102544.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:10.000Z",
+  "updatedAt": "2021-05-01T12:33:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "r2lq": {
+        "identifier": "r2lq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Odoru Mowai-kun",
+        "url": "https://9anime.ru/watch/odoru-mowai-kun.r2lq",
+        "image": "https://static.akacdn.ru/files/images/2020/01/78b8c8d64cf47e3583efccfd4b799933.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40040,
+        "aniId": 110317,
+        "createdAt": "2020-10-12T15:55:25.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "odoru-mowai-kun-dub": {
+        "identifier": "odoru-mowai-kun-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Odoru Mowai-kun (Dub)",
+        "url": "https://www10.gogoanime.io/category/odoru-mowai-kun-dub",
+        "image": "https://cdnimg.xyz/cover/odoru-mowai-kun-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40040,
+        "aniId": 110317,
+        "createdAt": "2020-10-12T16:01:28.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

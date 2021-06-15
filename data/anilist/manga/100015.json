@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "花にくちづけ",
+    "Flowers and Kiss",
+    "Hana to Kiss"
+  ],
+  "authors": [
+    "Akane Abe"
+  ],
+  "id": 100015,
+  "malId": 104999,
+  "type": "manga",
+  "title": "Hana ni Kuchizuke",
+  "url": "https://anilist.co/manga/100015",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100015-j0TpImHkpnpN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:14.000Z",
+  "updatedAt": "2021-06-05T01:20:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "834f59f4-3564-4d88-b591-c3b6de5e236c": {
+        "authors": [
+          "Abe Akane"
+        ],
+        "identifier": "834f59f4-3564-4d88-b591-c3b6de5e236c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana ni Kuchizuke",
+        "url": "https://mangadex.org/title/834f59f4-3564-4d88-b591-c3b6de5e236c",
+        "image": "https://uploads.mangadex.org/covers/834f59f4-3564-4d88-b591-c3b6de5e236c/4cab5abf-ed4d-4f28-b0ab-5214e465c0a9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104999,
+        "aniId": 100015,
+        "createdAt": "2020-10-12T16:10:29.000Z",
+        "updatedAt": "2021-06-05T08:51:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hana_ni_kuchizuke": {
+        "authors": [
+          "Abe",
+          "Akane"
+        ],
+        "identifier": "hana_ni_kuchizuke",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hana Ni Kuchizuke",
+        "url": "https://manganelo.com/manga/hana_ni_kuchizuke",
+        "image": "https://avt.mkklcdnv6temp.com/7/x/15-1583491749.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104999,
+        "aniId": 100015,
+        "createdAt": "2021-03-23T03:04:53.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

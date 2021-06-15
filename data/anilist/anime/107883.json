@@ -1,0 +1,76 @@
+{
+  "altTitle": [
+    "西行纪",
+    "Journey to the West",
+    "Westbound Discipline",
+    "Westbound"
+  ],
+  "id": 107883,
+  "malId": 38490,
+  "type": "anime",
+  "title": "Xixing Ji",
+  "url": "https://anilist.co/anime/107883",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107883-2Gsti6Ac0y90.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:48.000Z",
+  "updatedAt": "2021-05-20T14:44:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "10qm": {
+        "identifier": "10qm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Xi Xing Ji",
+        "url": "https://9anime.to/watch/xi-xing-ji.10qm",
+        "image": "https://static.akacdn.ru/files/images/2020/02/6a8a410a9e2fd3448d54495d889bcc2d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38490,
+        "aniId": 107883,
+        "createdAt": "2020-10-12T15:49:00.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "xi-xing-ji": {
+        "identifier": "xi-xing-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Xi Xing Ji\t",
+        "url": "https://www15.gogoanime.io/category/xi-xing-ji",
+        "image": "https://gogocdn.net/cover/xi-xing-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38490,
+        "aniId": 107883,
+        "createdAt": "2020-10-12T16:02:16.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "xixing-ji": {
+        "identifier": "xixing-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Xixing Ji",
+        "url": "https://www2.gogoanime.sh/category/xixing-ji",
+        "image": "https://gogocdn.net/cover/xixing-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38490,
+        "aniId": 107883,
+        "createdAt": "2021-03-02T23:22:06.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

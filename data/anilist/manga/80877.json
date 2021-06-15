@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Dragonism -ドラゴニズム-"
+  ],
+  "authors": [
+    "Yamato Fujie"
+  ],
+  "id": 80877,
+  "malId": 50877,
+  "type": "manga",
+  "title": "Dragonism",
+  "url": "https://anilist.co/manga/80877",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50877.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:49.000Z",
+  "updatedAt": "2021-05-20T14:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a50615d3-9e49-421a-af27-4fa12ba96913": {
+        "authors": [
+          "新星杯"
+        ],
+        "identifier": "a50615d3-9e49-421a-af27-4fa12ba96913",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ONISW",
+        "url": "https://mangadex.org/title/a50615d3-9e49-421a-af27-4fa12ba96913",
+        "image": "https://uploads.mangadex.org/covers/a50615d3-9e49-421a-af27-4fa12ba96913/59596eb8-590a-424b-a0b4-5c7631f56e04.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50877,
+        "aniId": 80877,
+        "createdAt": "2020-10-12T16:16:11.000Z",
+        "updatedAt": "2021-06-06T20:26:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

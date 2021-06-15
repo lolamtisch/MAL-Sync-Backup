@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Musashi #9",
+    "９番目のムサシ",
+    "Musashi No. 9",
+    "Musashi Number Nine",
+    "Kyuuban no Musashi",
+    "9 Banme no Musashi"
+  ],
+  "authors": [
+    "Miyuki Takahashi"
+  ],
+  "id": 30963,
+  "malId": 963,
+  "type": "manga",
+  "title": "9-Banme no Musashi",
+  "url": "https://anilist.co/manga/30963",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30963-2MmFM8m0IpWx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:47.000Z",
+  "updatedAt": "2021-05-20T14:35:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3a26a09a-73c4-4b75-9972-33d0c1fa9f34": {
+        "authors": [
+          "Takahashi Miyuki"
+        ],
+        "identifier": "3a26a09a-73c4-4b75-9972-33d0c1fa9f34",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "9 Banme no Musashi",
+        "url": "https://mangadex.org/title/3a26a09a-73c4-4b75-9972-33d0c1fa9f34",
+        "image": "https://uploads.mangadex.org/covers/3a26a09a-73c4-4b75-9972-33d0c1fa9f34/0f714336-4f1b-4890-958c-a7d196202f69.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 963,
+        "aniId": 30963,
+        "createdAt": "2020-10-12T16:08:05.000Z",
+        "updatedAt": "2021-06-04T07:28:28.000Z",
+        "deletedAt": null
+      },
+      "046a7583-7a00-4e4a-933c-aad20a3aecc4": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "046a7583-7a00-4e4a-933c-aad20a3aecc4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Iron Knight Musashi",
+        "url": "https://mangadex.org/title/046a7583-7a00-4e4a-933c-aad20a3aecc4",
+        "image": "https://uploads.mangadex.org/covers/046a7583-7a00-4e4a-933c-aad20a3aecc4/6819ded2-6a5c-40d0-9f2a-d27b9b61507d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 963,
+        "aniId": 30963,
+        "createdAt": "2020-10-12T16:11:11.000Z",
+        "updatedAt": "2021-06-05T06:25:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

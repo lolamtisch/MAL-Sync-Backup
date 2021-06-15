@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Peter Panda",
+    "피터판다"
+  ],
+  "authors": [
+    "Yeri Na"
+  ],
+  "id": 35242,
+  "malId": 5242,
+  "type": "manga",
+  "title": "Peter Panda",
+  "url": "https://anilist.co/manga/35242",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5242.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ff297a2b-5374-4b53-bd77-202793db59d4": {
+        "authors": [
+          "Na Yeri"
+        ],
+        "identifier": "ff297a2b-5374-4b53-bd77-202793db59d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Peter Panda",
+        "url": "https://mangadex.org/title/ff297a2b-5374-4b53-bd77-202793db59d4",
+        "image": "https://uploads.mangadex.org/covers/ff297a2b-5374-4b53-bd77-202793db59d4/355e3cc2-2c9b-4a5a-a7f7-e142975fcdf3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5242,
+        "aniId": 35242,
+        "createdAt": "2020-10-12T16:12:04.000Z",
+        "updatedAt": "2021-06-05T13:09:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Karate Heat",
+    "てのひらの熱を"
+  ],
+  "authors": [
+    "Eiichi Katano"
+  ],
+  "id": 96867,
+  "malId": 96684,
+  "type": "manga",
+  "title": "Tenohira no Netsu wo",
+  "url": "https://anilist.co/manga/96867",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96867-VSwNB5Tk59Sf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:06.000Z",
+  "updatedAt": "2021-05-20T14:54:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5b1728e6-835b-4f73-ab3f-f0ce6aa4cf29": {
+        "authors": [
+          "Kitano Eiichi"
+        ],
+        "identifier": "5b1728e6-835b-4f73-ab3f-f0ce6aa4cf29",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenohira no Netsu wo",
+        "url": "https://mangadex.org/title/5b1728e6-835b-4f73-ab3f-f0ce6aa4cf29",
+        "image": "https://uploads.mangadex.org/covers/5b1728e6-835b-4f73-ab3f-f0ce6aa4cf29/1c04d728-5dee-448f-8c1f-12d58e5a3bc5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96684,
+        "aniId": 96867,
+        "createdAt": "2020-10-12T16:09:41.000Z",
+        "updatedAt": "2021-06-04T19:11:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tenohira-no-netsu-o": {
+        "authors": [
+          "KITANO Eiichi"
+        ],
+        "identifier": "tenohira-no-netsu-o",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tenohira no Netsu o",
+        "url": "https://mangasee123.com/manga/Tenohira-No-Netsu-O",
+        "image": "https://cover.nep.li/cover/Tenohira-No-Netsu-O.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96684,
+        "aniId": 96867,
+        "createdAt": "2021-04-08T01:51:18.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Anyway",
+    "とにかくキミが。"
+  ],
+  "authors": [
+    "Uri Sugata"
+  ],
+  "id": 93445,
+  "malId": 83731,
+  "type": "manga",
+  "title": "Tonikaku Kimi ga.",
+  "url": "https://anilist.co/manga/93445",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93445-XdNBpSDFQfhs.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:33.000Z",
+  "updatedAt": "2021-05-20T14:52:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9e9a189e-c2cd-46fa-8add-1f6fc9ad24e2": {
+        "authors": [
+          "SUGATA Uri"
+        ],
+        "identifier": "9e9a189e-c2cd-46fa-8add-1f6fc9ad24e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tonikaku Kimi ga.",
+        "url": "https://mangadex.org/title/9e9a189e-c2cd-46fa-8add-1f6fc9ad24e2",
+        "image": "https://uploads.mangadex.org/covers/9e9a189e-c2cd-46fa-8add-1f6fc9ad24e2/a790d52f-6722-46f8-8d6a-a5e53fa48ff9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83731,
+        "aniId": 93445,
+        "createdAt": "2020-10-12T16:07:47.000Z",
+        "updatedAt": "2021-06-04T05:11:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

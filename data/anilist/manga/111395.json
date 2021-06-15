@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "命を踊る",
+    "命を踊る"
+  ],
+  "authors": [
+    "Shishima  Sakura"
+  ],
+  "id": 111395,
+  "malId": 121593,
+  "type": "manga",
+  "title": "Inochi wo Odoru",
+  "url": "https://anilist.co/manga/111395",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111395-MOAtk0K9ocNF.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-11T23:08:19.000Z",
+  "updatedAt": "2021-06-11T23:08:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b280ea2f-b909-4d43-95f6-2bea982dbe4e": {
+        "authors": [
+          "Ouga"
+        ],
+        "identifier": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inochi o Odoru",
+        "url": "https://mangadex.org/title/b280ea2f-b909-4d43-95f6-2bea982dbe4e",
+        "image": "https://uploads.mangadex.org/covers/b280ea2f-b909-4d43-95f6-2bea982dbe4e/79178004-d985-48c3-8427-e706b591a74d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 121593,
+        "aniId": 111395,
+        "createdAt": "2020-10-12T16:17:04.000Z",
+        "updatedAt": "2021-06-11T23:38:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

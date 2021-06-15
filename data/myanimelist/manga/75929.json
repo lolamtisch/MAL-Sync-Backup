@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "Arte",
+    "アルテ"
+  ],
+  "authors": [
+    "Ookubo, Kei"
+  ],
+  "id": 75929,
+  "type": "manga",
+  "title": "Arte",
+  "url": "https://myanimelist.net/manga/75929/Arte",
+  "image": "https://cdn.myanimelist.net/images/manga/3/131495.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:23.000Z",
+  "updatedAt": "2021-03-20T17:05:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c66d2a14-e0a2-4488-9023-abdab7249d61": {
+        "authors": [
+          "Ookubo Kei"
+        ],
+        "identifier": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Arte",
+        "url": "https://mangadex.org/title/c66d2a14-e0a2-4488-9023-abdab7249d61",
+        "image": "https://uploads.mangadex.org/covers/c66d2a14-e0a2-4488-9023-abdab7249d61/4e177f41-1ca2-494a-8b02-b94d8b037eaf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75929,
+        "aniId": 87466,
+        "createdAt": "2020-10-12T16:09:11.000Z",
+        "updatedAt": "2021-06-04T15:44:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "arte": {
+        "authors": [],
+        "identifier": "arte",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Arte",
+        "url": "https://manganelo.com/manga/arte",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16160-arte.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75929,
+        "aniId": 87466,
+        "createdAt": "2020-10-12T16:22:08.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "arte": {
+        "authors": [
+          "OOKUBO Kei"
+        ],
+        "identifier": "arte",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Arte",
+        "url": "https://mangasee123.com/manga/Arte",
+        "image": "https://cover.nep.li/cover/Arte.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75929,
+        "aniId": 87466,
+        "createdAt": "2020-12-30T01:56:36.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "arte": {
+        "authors": [
+          "OOKUBO Kei"
+        ],
+        "identifier": "arte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Arte",
+        "url": "https://fanfox.net/manga/arte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18369/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75929,
+        "aniId": 87466,
+        "createdAt": "2021-03-20T17:05:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

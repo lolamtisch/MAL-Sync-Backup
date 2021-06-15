@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "双子の帝國",
+    "The Twin Empires"
+  ],
+  "authors": [
+    "Mohiro Kitoh"
+  ],
+  "id": 95880,
+  "malId": 92549,
+  "type": "manga",
+  "title": "Futago no Teikoku",
+  "url": "https://anilist.co/manga/95880",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95880-DKnevZxVrMTA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:40.000Z",
+  "updatedAt": "2021-05-20T14:53:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1317eed1-130f-4bc6-b870-ae73d7e4c043": {
+        "authors": [
+          "Kitoh Mohiro"
+        ],
+        "identifier": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futago no Teikoku",
+        "url": "https://mangadex.org/title/1317eed1-130f-4bc6-b870-ae73d7e4c043",
+        "image": "https://uploads.mangadex.org/covers/1317eed1-130f-4bc6-b870-ae73d7e4c043/310057f9-2619-47ed-a760-e77d794611d0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92549,
+        "aniId": 95880,
+        "createdAt": "2020-10-12T16:09:30.000Z",
+        "updatedAt": "2021-06-04T17:59:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "futago_no_teikoku": {
+        "authors": [],
+        "identifier": "futago_no_teikoku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Futago No Teikoku",
+        "url": "https://manganelo.com/manga/futago_no_teikoku",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16436-futago_no_teikoku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92549,
+        "aniId": 95880,
+        "createdAt": "2020-10-12T16:23:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

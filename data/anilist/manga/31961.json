@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Brothers",
+    "ブラザーズ"
+  ],
+  "authors": [
+    "Kotetsuko Yamamoto"
+  ],
+  "id": 31961,
+  "malId": 1961,
+  "type": "manga",
+  "title": "Brothers",
+  "url": "https://anilist.co/manga/31961",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1961.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:58.000Z",
+  "updatedAt": "2021-05-20T14:36:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b9bc32f-c8bc-4d03-afaf-606056a72add": {
+        "authors": [
+          "Yamamoto Kotetsuko"
+        ],
+        "identifier": "0b9bc32f-c8bc-4d03-afaf-606056a72add",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Brothers",
+        "url": "https://mangadex.org/title/0b9bc32f-c8bc-4d03-afaf-606056a72add",
+        "image": "https://uploads.mangadex.org/covers/0b9bc32f-c8bc-4d03-afaf-606056a72add/65ab9e4d-989b-479a-9691-6681e4c11068.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1961,
+        "aniId": 31961,
+        "createdAt": "2020-10-12T16:06:28.000Z",
+        "updatedAt": "2021-06-03T19:56:18.000Z",
+        "deletedAt": null
+      },
+      "02782362-0981-4cf0-83d3-fdd738dd9067": {
+        "authors": [
+          "Transfer",
+          "pixiv.net/en/users/239687"
+        ],
+        "identifier": "02782362-0981-4cf0-83d3-fdd738dd9067",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Mou Brothers' guy talk, A Kingdom story",
+        "url": "https://mangadex.org/title/02782362-0981-4cf0-83d3-fdd738dd9067",
+        "image": "https://uploads.mangadex.org/covers/02782362-0981-4cf0-83d3-fdd738dd9067/61e367cf-6acb-4e96-a1f5-61bdc7fdffa9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1961,
+        "aniId": 31961,
+        "createdAt": "2020-10-12T16:18:51.000Z",
+        "updatedAt": "2021-06-07T20:51:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

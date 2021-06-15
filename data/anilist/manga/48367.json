@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "私のおウチはHON屋さん",
+    "My Home is a Bookstore"
+  ],
+  "authors": [
+    "Tomoo Yokoyama"
+  ],
+  "id": 48367,
+  "malId": 18367,
+  "type": "manga",
+  "title": "Watashi no Ouchi wa Honya-san",
+  "url": "https://anilist.co/manga/48367",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18367.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:11.000Z",
+  "updatedAt": "2021-05-20T14:45:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "513ad1c7-8277-4fb8-a83c-a946514e319f": {
+        "authors": [
+          "Yokoyama Tomoo"
+        ],
+        "identifier": "513ad1c7-8277-4fb8-a83c-a946514e319f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi no Ouchi wa Honya-san",
+        "url": "https://mangadex.org/title/513ad1c7-8277-4fb8-a83c-a946514e319f",
+        "image": "https://uploads.mangadex.org/covers/513ad1c7-8277-4fb8-a83c-a946514e319f/a7bfafd7-8ea3-43a5-8374-d248009465a7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18367,
+        "aniId": 48367,
+        "createdAt": "2020-10-12T16:03:51.000Z",
+        "updatedAt": "2021-06-02T16:55:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

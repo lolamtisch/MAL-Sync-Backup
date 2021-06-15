@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "リトルスター"
+  ],
+  "authors": [
+    "Mizuki, Chika"
+  ],
+  "id": 15089,
+  "type": "manga",
+  "title": "Little Star",
+  "url": "https://myanimelist.net/manga/15089/Little_Star",
+  "image": "https://cdn.myanimelist.net/images/manga/2/21906.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:10.000Z",
+  "updatedAt": "2021-05-18T11:31:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c40d85e0-ef6d-43ce-9701-5345c21c3e30": {
+        "authors": [
+          "Mizuki Chika"
+        ],
+        "identifier": "c40d85e0-ef6d-43ce-9701-5345c21c3e30",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Little Star",
+        "url": "https://mangadex.org/title/c40d85e0-ef6d-43ce-9701-5345c21c3e30",
+        "image": "https://uploads.mangadex.org/covers/c40d85e0-ef6d-43ce-9701-5345c21c3e30/b711324a-3e9d-4095-868c-4036689b9f22.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15089,
+        "aniId": 45089,
+        "createdAt": "2020-10-12T16:03:54.000Z",
+        "updatedAt": "2021-06-02T17:17:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "little_star": {
+        "authors": [
+          "MIZUKI Chika"
+        ],
+        "identifier": "little_star",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Little Star",
+        "url": "https://fanfox.net/manga/little_star/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6516/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15089,
+        "aniId": 45089,
+        "createdAt": "2021-05-20T21:45:51.000Z",
+        "updatedAt": "2021-05-20T22:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

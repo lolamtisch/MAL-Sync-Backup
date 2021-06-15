@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "リ ・スタート"
+  ],
+  "authors": [
+    "Hirohito Tokie"
+  ],
+  "id": 58583,
+  "malId": 28583,
+  "type": "manga",
+  "title": "Re-Start",
+  "url": "https://anilist.co/manga/58583",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28583.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:47:32.000Z",
+  "updatedAt": "2021-05-20T14:47:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c1d5f4e-a120-4b25-9179-fa4e51112902": {
+        "authors": [
+          "Tokie Hirohito"
+        ],
+        "identifier": "6c1d5f4e-a120-4b25-9179-fa4e51112902",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Re-Start",
+        "url": "https://mangadex.org/title/6c1d5f4e-a120-4b25-9179-fa4e51112902",
+        "image": "https://uploads.mangadex.org/covers/6c1d5f4e-a120-4b25-9179-fa4e51112902/a0419b21-2f31-4027-95ee-1bc1c1d19884.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28583,
+        "aniId": 58583,
+        "createdAt": "2020-10-12T16:19:06.000Z",
+        "updatedAt": "2021-06-07T21:23:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

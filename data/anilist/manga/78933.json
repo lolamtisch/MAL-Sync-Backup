@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "ジョーカーズ",
+    "Jokers"
+  ],
+  "authors": [
+    "Ichi Kurage"
+  ],
+  "id": 78933,
+  "malId": 48933,
+  "type": "manga",
+  "title": "JOKE:ЯR'S",
+  "url": "https://anilist.co/manga/78933",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48933.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:40.000Z",
+  "updatedAt": "2021-05-20T14:49:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4bff177d-23af-45cc-ab14-ae503d11fdeb": {
+        "authors": [
+          "KURAGE Ichi"
+        ],
+        "identifier": "4bff177d-23af-45cc-ab14-ae503d11fdeb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "JOKE:ЯR'S",
+        "url": "https://mangadex.org/title/4bff177d-23af-45cc-ab14-ae503d11fdeb",
+        "image": "https://uploads.mangadex.org/covers/4bff177d-23af-45cc-ab14-ae503d11fdeb/3ebfe4e9-3b21-496b-9108-63f88f244101.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48933,
+        "aniId": 78933,
+        "createdAt": "2020-10-12T16:06:20.000Z",
+        "updatedAt": "2021-06-03T18:59:39.000Z",
+        "deletedAt": null
+      },
+      "cd15415c-53d8-494e-bc71-cc9582eaa02e": {
+        "authors": [
+          "Yamamoto"
+        ],
+        "identifier": "cd15415c-53d8-494e-bc71-cc9582eaa02e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "PokePoke",
+        "url": "https://mangadex.org/title/cd15415c-53d8-494e-bc71-cc9582eaa02e",
+        "image": "https://uploads.mangadex.org/covers/cd15415c-53d8-494e-bc71-cc9582eaa02e/e1102d29-8958-4bd7-9d80-734f2bfc4f11.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48933,
+        "aniId": 78933,
+        "createdAt": "2020-10-12T16:20:00.000Z",
+        "updatedAt": "2021-06-07T23:04:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jokers": {
+        "authors": [],
+        "identifier": "jokers",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jokers",
+        "url": "https://manganelo.com/manga/jokers",
+        "image": "https://avt.mkklcdnv6.com/37/k/2-1583467136.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48933,
+        "aniId": 78933,
+        "createdAt": "2020-10-12T16:23:44.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

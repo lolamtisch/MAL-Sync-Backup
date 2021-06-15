@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "１年で１ページだけ進むマンガの世界",
+    "A Manga World That Gets One Page Once A Year",
+    "1-Nen de 1 pēji dake susumu manga no sekai"
+  ],
+  "authors": [
+    "Jirou Kido"
+  ],
+  "id": 117010,
+  "malId": null,
+  "type": "manga",
+  "title": "1-Nen de 1 Page dake Susumu Manga no Sekai",
+  "url": "https://anilist.co/manga/117010",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117010-wgp3SkdNExFA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-30T20:12:13.000Z",
+  "updatedAt": "2021-05-30T20:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc1d5980-e4bc-454d-be44-8ce4f2072f04": {
+        "authors": [
+          "Kido Jirou"
+        ],
+        "identifier": "bc1d5980-e4bc-454d-be44-8ce4f2072f04",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Manga World That Gets One Page Once A Year",
+        "url": "https://mangadex.org/title/bc1d5980-e4bc-454d-be44-8ce4f2072f04",
+        "image": "https://uploads.mangadex.org/covers/bc1d5980-e4bc-454d-be44-8ce4f2072f04/ac3d3440-555d-45b6-b7fb-5d622ae73e22.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 117010,
+        "createdAt": "2020-10-12T16:18:42.000Z",
+        "updatedAt": "2021-06-07T19:46:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

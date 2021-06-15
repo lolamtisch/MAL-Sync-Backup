@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Masanori Katakura"
+  ],
+  "id": 37575,
+  "malId": 7575,
+  "type": "manga",
+  "title": "Pat-ken",
+  "url": "https://anilist.co/manga/37575",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7575.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:53.000Z",
+  "updatedAt": "2021-05-20T14:39:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c806fc81-de34-4dc3-9102-d6300e06b1f0": {
+        "authors": [
+          "Katakura Masanori"
+        ],
+        "identifier": "c806fc81-de34-4dc3-9102-d6300e06b1f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pat-Ken",
+        "url": "https://mangadex.org/title/c806fc81-de34-4dc3-9102-d6300e06b1f0",
+        "image": "https://uploads.mangadex.org/covers/c806fc81-de34-4dc3-9102-d6300e06b1f0/b2bcc95c-2a77-41c9-8484-6aad44edf874.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7575,
+        "aniId": 37575,
+        "createdAt": "2020-10-12T16:05:33.000Z",
+        "updatedAt": "2021-06-03T13:27:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

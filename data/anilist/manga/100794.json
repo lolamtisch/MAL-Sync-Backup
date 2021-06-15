@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Another Face of Roommate",
+    "한집 두 살림",
+    "2 Lives 1 House",
+    "2 Houses",
+    "Hanjip Du Salrim"
+  ],
+  "authors": [],
+  "id": 100794,
+  "malId": null,
+  "type": "manga",
+  "title": "Hanjip Du Sallim",
+  "url": "https://anilist.co/manga/100794",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100794-vk3onNrerIQJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-27T23:28:43.000Z",
+  "updatedAt": "2021-05-27T23:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab27cda9-b4b7-4450-bdbe-edae6e9ba0bb": {
+        "authors": [
+          "Yulseo"
+        ],
+        "identifier": "ab27cda9-b4b7-4450-bdbe-edae6e9ba0bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Two Lives in the Same House",
+        "url": "https://mangadex.org/title/ab27cda9-b4b7-4450-bdbe-edae6e9ba0bb",
+        "image": "https://uploads.mangadex.org/covers/ab27cda9-b4b7-4450-bdbe-edae6e9ba0bb/a22a4cac-dca9-439e-bdb7-0919d0660684.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100794,
+        "createdAt": "2020-10-12T16:13:54.000Z",
+        "updatedAt": "2021-06-06T10:07:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

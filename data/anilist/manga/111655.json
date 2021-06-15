@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "サボろう系女子",
+    "Let's Slack Off"
+  ],
+  "authors": [
+    "Toshinori Yano"
+  ],
+  "id": 111655,
+  "malId": null,
+  "type": "manga",
+  "title": "Saborou-kei Joshi",
+  "url": "https://anilist.co/manga/111655",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111655-Hvb1yDj0W19L.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T04:51:10.000Z",
+  "updatedAt": "2021-06-07T04:51:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b0b4e155-1466-4074-b8e5-96865221c7bf": {
+        "authors": [
+          "Yano Toshinori"
+        ],
+        "identifier": "b0b4e155-1466-4074-b8e5-96865221c7bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Let's Slack Off",
+        "url": "https://mangadex.org/title/b0b4e155-1466-4074-b8e5-96865221c7bf",
+        "image": "https://uploads.mangadex.org/covers/b0b4e155-1466-4074-b8e5-96865221c7bf/38bf5d63-2a0c-4728-ae87-8e410d7992ff.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111655,
+        "createdAt": "2020-10-12T16:17:03.000Z",
+        "updatedAt": "2021-06-07T07:25:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "サイボーグクロちゃん"
+  ],
+  "authors": [
+    "Naoki Yokouchi"
+  ],
+  "id": 38095,
+  "malId": 8095,
+  "type": "manga",
+  "title": "Cyborg Kuro-chan",
+  "url": "https://anilist.co/manga/38095",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38095-xWQtRa4WwWaU.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:58.000Z",
+  "updatedAt": "2021-05-20T14:39:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7c6346cf-57c5-47ef-80dc-f5cf68e803a4": {
+        "authors": [
+          "YOKOUCHI Naoki"
+        ],
+        "identifier": "7c6346cf-57c5-47ef-80dc-f5cf68e803a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cyborg Kuro-chan",
+        "url": "https://mangadex.org/title/7c6346cf-57c5-47ef-80dc-f5cf68e803a4",
+        "image": "https://uploads.mangadex.org/covers/7c6346cf-57c5-47ef-80dc-f5cf68e803a4/d654aa59-c48f-4ddf-8ee9-5b94e8d965e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8095,
+        "aniId": 38095,
+        "createdAt": "2020-10-12T16:14:05.000Z",
+        "updatedAt": "2021-06-06T02:28:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

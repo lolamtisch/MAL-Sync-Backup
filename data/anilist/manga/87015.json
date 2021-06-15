@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "Imperfect Girl",
+    "少女不十分",
+    "Insufficient Girl",
+    "Broken Girl"
+  ],
+  "authors": [
+    "NISIOISIN",
+    "Mitsuru Hattori",
+    "Foo Midori",
+    "Ko Ransom"
+  ],
+  "id": 87015,
+  "malId": 94396,
+  "type": "manga",
+  "title": "Shoujo Fujuubun",
+  "url": "https://anilist.co/manga/87015",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87015-nrGlPo2tdOKZ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:52.000Z",
+  "updatedAt": "2021-05-20T14:53:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "461bc2a9-34eb-4c1c-be38-2fabb53e4b3f": {
+        "authors": [
+          "NisiOisin",
+          "Hattori Mitsuru"
+        ],
+        "identifier": "461bc2a9-34eb-4c1c-be38-2fabb53e4b3f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shoujo Fujuubun",
+        "url": "https://mangadex.org/title/461bc2a9-34eb-4c1c-be38-2fabb53e4b3f",
+        "image": "https://uploads.mangadex.org/covers/461bc2a9-34eb-4c1c-be38-2fabb53e4b3f/0963c457-0611-46f5-9ca8-2ce5ca7997be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94396,
+        "aniId": 87015,
+        "createdAt": "2020-10-12T16:09:11.000Z",
+        "updatedAt": "2021-06-04T15:43:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eg921902": {
+        "authors": [],
+        "identifier": "eg921902",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Imperfect Pervert",
+        "url": "https://manganelo.com/manga/eg921902",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3311-eg921902.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94396,
+        "aniId": 87015,
+        "createdAt": "2020-10-12T16:22:47.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "shoujo_fujuubun": {
+        "authors": [],
+        "identifier": "shoujo_fujuubun",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shoujo Fujuubun",
+        "url": "https://manganelo.com/manga/shoujo_fujuubun",
+        "image": "https://avt.mkklcdnv6.com/31/d/13-1583488854.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94396,
+        "aniId": 87015,
+        "createdAt": "2020-10-12T16:25:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shoujo-fujuubun": {
+        "authors": [
+          "HATTORI Mitsuru",
+          "NisiOisiN"
+        ],
+        "identifier": "shoujo-fujuubun",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shoujo Fujuubun",
+        "url": "https://mangasee123.com/manga/Shoujo-Fujuubun",
+        "image": "https://cover.nep.li/cover/Shoujo-Fujuubun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94396,
+        "aniId": 87015,
+        "createdAt": "2021-01-28T02:40:43.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "愛の三本勝負"
+  ],
+  "authors": [],
+  "id": 46075,
+  "malId": 16075,
+  "type": "manga",
+  "title": "Ai no Sanbon Shoubu",
+  "url": "https://anilist.co/manga/46075",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16075.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:52.000Z",
+  "updatedAt": "2021-05-20T14:43:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ce4f318-918d-4629-81fa-b55fe99dfe5e": {
+        "authors": [
+          "Watanabe Tomomi"
+        ],
+        "identifier": "4ce4f318-918d-4629-81fa-b55fe99dfe5e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai no Sanbon Shoubu",
+        "url": "https://mangadex.org/title/4ce4f318-918d-4629-81fa-b55fe99dfe5e",
+        "image": "https://uploads.mangadex.org/covers/4ce4f318-918d-4629-81fa-b55fe99dfe5e/9ccee5e5-fce1-4cc9-9b3a-c0f48d2e3820.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16075,
+        "aniId": 46075,
+        "createdAt": "2020-10-12T16:15:26.000Z",
+        "updatedAt": "2021-06-06T13:42:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

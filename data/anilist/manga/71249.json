@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "れすきゅーME!"
+  ],
+  "authors": [
+    "Yoshiharu Makita"
+  ],
+  "id": 71249,
+  "malId": 41249,
+  "type": "manga",
+  "title": "Rescue Me!",
+  "url": "https://anilist.co/manga/71249",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71249-LAty7WstFVWv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:47.000Z",
+  "updatedAt": "2021-05-20T14:48:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "579fa652-addd-4b8b-9fa3-fd730a17dd86": {
+        "authors": [
+          "MAKITA Yoshiharu"
+        ],
+        "identifier": "579fa652-addd-4b8b-9fa3-fd730a17dd86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rescue Me!",
+        "url": "https://mangadex.org/title/579fa652-addd-4b8b-9fa3-fd730a17dd86",
+        "image": "https://uploads.mangadex.org/covers/579fa652-addd-4b8b-9fa3-fd730a17dd86/f0df5c45-ef59-42b9-961a-587941613aff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41249,
+        "aniId": 71249,
+        "createdAt": "2020-10-12T16:06:34.000Z",
+        "updatedAt": "2021-06-03T20:33:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rescue_me": {
+        "authors": [],
+        "identifier": "rescue_me",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rescue Me!",
+        "url": "https://manganelo.com/manga/rescue_me",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/10094-rescue_me.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41249,
+        "aniId": 71249,
+        "createdAt": "2020-10-12T16:25:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rescue-me": {
+        "authors": [
+          "MAKITA Yoshiharu"
+        ],
+        "identifier": "rescue-me",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Rescue Me!",
+        "url": "https://mangasee123.com/manga/Rescue-Me",
+        "image": "https://cover.nep.li/cover/Rescue-Me.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41249,
+        "aniId": 71249,
+        "createdAt": "2021-05-29T07:43:54.000Z",
+        "updatedAt": "2021-05-29T08:12:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

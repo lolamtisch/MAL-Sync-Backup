@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "狂骨の夢",
+    "Crazy Bone Dreams",
+    "Dreams of Mad Bones",
+    "Hyakki Yakou Series 3",
+    "Kyougokudou"
+  ],
+  "authors": [
+    "Aki Shimizu",
+    "Natsuhiko Kyougoku"
+  ],
+  "id": 50567,
+  "malId": 20567,
+  "type": "manga",
+  "title": "Kyoukotsu no Yume",
+  "url": "https://anilist.co/manga/50567",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx50567-1FqGE71pPbzw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acb333bb-1dca-41e8-9c85-6dceca558f5c": {
+        "authors": [
+          "Kyougoku Natsuhiko",
+          "Shimizu Aki"
+        ],
+        "identifier": "acb333bb-1dca-41e8-9c85-6dceca558f5c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyoukotsu no Yume",
+        "url": "https://mangadex.org/title/acb333bb-1dca-41e8-9c85-6dceca558f5c",
+        "image": "https://uploads.mangadex.org/covers/acb333bb-1dca-41e8-9c85-6dceca558f5c/4e815827-ff90-4cf9-84ab-167807ffb664.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20567,
+        "aniId": 50567,
+        "createdAt": "2020-10-12T16:07:50.000Z",
+        "updatedAt": "2021-06-04T05:36:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kyoukotsu_no_yume": {
+        "authors": [],
+        "identifier": "kyoukotsu_no_yume",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kyoukotsu No Yume",
+        "url": "https://manganelo.com/manga/kyoukotsu_no_yume",
+        "image": "https://avt.mkklcdnv6.com/34/c/14-1583490937.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20567,
+        "aniId": 50567,
+        "createdAt": "2020-10-12T16:24:04.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kyoukotsu-no-yume": {
+        "authors": [
+          "KYOUGOKU Natsuhiko",
+          "SHIMIZU Aki"
+        ],
+        "identifier": "kyoukotsu-no-yume",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kyoukotsu no Yume",
+        "url": "https://mangasee123.com/manga/Kyoukotsu-No-Yume",
+        "image": "https://cover.nep.li/cover/Kyoukotsu-No-Yume.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20567,
+        "aniId": 50567,
+        "createdAt": "2021-03-09T19:10:42.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

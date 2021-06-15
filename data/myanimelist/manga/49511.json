@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Odoru Keikan",
+    "踊る警官"
+  ],
+  "authors": [
+    "Urasawa, Naoki"
+  ],
+  "id": 49511,
+  "type": "manga",
+  "title": "Dancing Policeman",
+  "url": "https://myanimelist.net/manga/49511/Dancing_Policeman",
+  "image": "https://cdn.myanimelist.net/images/manga/1/87159.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:33.000Z",
+  "updatedAt": "2021-05-07T18:17:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c747f7a2-e233-43f7-938e-f38afd835e6e": {
+        "authors": [
+          "Urasawa Naoki"
+        ],
+        "identifier": "c747f7a2-e233-43f7-938e-f38afd835e6e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dancing Policeman",
+        "url": "https://mangadex.org/title/c747f7a2-e233-43f7-938e-f38afd835e6e",
+        "image": "https://uploads.mangadex.org/covers/c747f7a2-e233-43f7-938e-f38afd835e6e/bbbb0c8a-72e4-4ead-9d83-57bdb9974269.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49511,
+        "aniId": 79511,
+        "createdAt": "2020-10-12T16:07:03.000Z",
+        "updatedAt": "2021-06-04T00:02:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "odoru_keikan": {
+        "authors": [
+          "Urasawa",
+          "Naoki"
+        ],
+        "identifier": "odoru_keikan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Odoru Keikan",
+        "url": "https://manganelo.com/manga/odoru_keikan",
+        "image": "https://avt.mkklcdnv6temp.com/10/y/15-1583491855.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49511,
+        "aniId": 79511,
+        "createdAt": "2021-05-20T06:00:54.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      },
+      "dancing_policeman": {
+        "authors": [
+          "Urasawa",
+          "Naoki"
+        ],
+        "identifier": "dancing_policeman",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dancing Policeman",
+        "url": "https://manganelo.com/manga/dancing_policeman",
+        "image": "https://avt.mkklcdnv6temp.com/8/v/9-1583480432.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49511,
+        "aniId": 79511,
+        "createdAt": "2021-05-20T06:00:54.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

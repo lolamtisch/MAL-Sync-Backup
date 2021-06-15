@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "どらコン！"
+  ],
+  "authors": [
+    "Hiroomi Shokubai"
+  ],
+  "id": 113284,
+  "malId": 123059,
+  "type": "manga",
+  "title": "Dorakon!",
+  "url": "https://anilist.co/manga/113284",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113284-WYo5zBo0IStK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:58.000Z",
+  "updatedAt": "2021-05-20T14:58:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "41947a30-287e-45a9-a36f-7dfb2e5407c0": {
+        "authors": [
+          "Shokubai Hiroomi"
+        ],
+        "identifier": "41947a30-287e-45a9-a36f-7dfb2e5407c0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dorakon!",
+        "url": "https://mangadex.org/title/41947a30-287e-45a9-a36f-7dfb2e5407c0",
+        "image": "https://uploads.mangadex.org/covers/41947a30-287e-45a9-a36f-7dfb2e5407c0/b842ad0a-e7a8-4892-91d8-5dc80c00d07f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123059,
+        "aniId": 113284,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-06-07T00:26:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fg920912": {
+        "authors": [],
+        "identifier": "fg920912",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dorakon!",
+        "url": "https://manganelo.com/manga/fg920912",
+        "image": "https://avt.mkklcdnv6.com/36/k/19-1583500513.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123059,
+        "aniId": 113284,
+        "createdAt": "2020-10-12T16:22:55.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dorakon": {
+        "authors": [
+          "Shokubai Hiroomi"
+        ],
+        "identifier": "dorakon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dorakon!",
+        "url": "https://fanfox.net/manga/dorakon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31714/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123059,
+        "aniId": 113284,
+        "createdAt": "2021-02-08T09:51:05.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

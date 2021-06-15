@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ウエンディ"
+  ],
+  "authors": [
+    "Matsumoto, Jiro"
+  ],
+  "id": 16594,
+  "type": "manga",
+  "title": "Wendy",
+  "url": "https://myanimelist.net/manga/16594/Wendy",
+  "image": "https://cdn.myanimelist.net/images/manga/1/32238.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:22.000Z",
+  "updatedAt": "2021-03-15T11:03:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "51c3907b-986f-4a73-a643-73689ee580bd": {
+        "authors": [
+          "Matsumoto Jiro"
+        ],
+        "identifier": "51c3907b-986f-4a73-a643-73689ee580bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wendy",
+        "url": "https://mangadex.org/title/51c3907b-986f-4a73-a643-73689ee580bd",
+        "image": "https://uploads.mangadex.org/covers/51c3907b-986f-4a73-a643-73689ee580bd/9b35e05e-9a25-4dfc-b19a-e03a5353c04d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16594,
+        "aniId": 46594,
+        "createdAt": "2020-10-12T16:03:02.000Z",
+        "updatedAt": "2021-06-02T11:18:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "wendy": {
+        "authors": [
+          "MATSUMOTO Jiro"
+        ],
+        "identifier": "wendy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Wendy",
+        "url": "https://mangasee123.com/manga/Wendy",
+        "image": "https://cover.nep.li/cover/Wendy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16594,
+        "aniId": 46594,
+        "createdAt": "2021-03-15T11:03:10.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

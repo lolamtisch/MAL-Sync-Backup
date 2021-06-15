@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "X",
+    "X/1999",
+    "X"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 27,
+  "type": "manga",
+  "title": "X",
+  "url": "https://myanimelist.net/manga/27/X",
+  "image": "https://cdn.myanimelist.net/images/manga/3/10698.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:17.000Z",
+  "updatedAt": "2021-04-25T21:57:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "19121da9-452e-4f98-8eb4-4ef63cf7186f": {
+        "authors": [
+          "CLAMP",
+          "Apapa Mokona",
+          "Ohkawa Ageha"
+        ],
+        "identifier": "19121da9-452e-4f98-8eb4-4ef63cf7186f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "X",
+        "url": "https://mangadex.org/title/19121da9-452e-4f98-8eb4-4ef63cf7186f",
+        "image": "https://uploads.mangadex.org/covers/19121da9-452e-4f98-8eb4-4ef63cf7186f/332a2645-004f-4002-80f1-94976300c629.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27,
+        "aniId": 30027,
+        "createdAt": "2020-10-12T16:11:25.000Z",
+        "updatedAt": "2021-06-05T08:14:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "x": {
+        "authors": [
+          "APAPA Mokona",
+          "CLAMP",
+          "OHKAWA Ageha"
+        ],
+        "identifier": "x",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "X",
+        "url": "https://mangasee123.com/manga/X",
+        "image": "https://cover.nep.li/cover/X.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27,
+        "aniId": 30027,
+        "createdAt": "2021-04-29T14:18:32.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

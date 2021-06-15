@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ピンクとまめしば"
+  ],
+  "authors": [
+    "Kurahashi, Tomo"
+  ],
+  "id": 98989,
+  "type": "manga",
+  "title": "Pink to Mameshiba",
+  "url": "https://myanimelist.net/manga/98989/Pink_to_Mameshiba",
+  "image": "https://cdn.myanimelist.net/images/manga/1/195959.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:31.000Z",
+  "updatedAt": "2021-04-30T19:21:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "29742229-9b01-436b-ab62-a84ebf8c6f26": {
+        "authors": [
+          "Kurahashi Tomo"
+        ],
+        "identifier": "29742229-9b01-436b-ab62-a84ebf8c6f26",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pink to Mameshiba",
+        "url": "https://mangadex.org/title/29742229-9b01-436b-ab62-a84ebf8c6f26",
+        "image": "https://uploads.mangadex.org/covers/29742229-9b01-436b-ab62-a84ebf8c6f26/5923478f-f654-4768-814b-9992287a22f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98989,
+        "aniId": 97309,
+        "createdAt": "2020-10-12T16:10:00.000Z",
+        "updatedAt": "2021-06-04T21:32:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pink_to_mameshiba": {
+        "authors": [
+          "Kurahashi",
+          "Tomo"
+        ],
+        "identifier": "pink_to_mameshiba",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Pink To Mameshiba",
+        "url": "https://manganelo.com/manga/pink_to_mameshiba",
+        "image": "https://avt.mkklcdnv6temp.com/8/t/14-1583490025.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98989,
+        "aniId": 97309,
+        "createdAt": "2021-04-30T19:21:42.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

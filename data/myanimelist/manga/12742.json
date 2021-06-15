@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "A Wild Reward",
+    "オオカミ達のごほうび"
+  ],
+  "authors": [
+    "Hanaya, En"
+  ],
+  "id": 12742,
+  "type": "manga",
+  "title": "Ookami-tachi no Gohoubi",
+  "url": "https://myanimelist.net/manga/12742/Ookami-tachi_no_Gohoubi",
+  "image": "https://cdn.myanimelist.net/images/manga/3/179891.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:48.000Z",
+  "updatedAt": "2021-06-03T13:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "11b536cd-7e3a-4c7a-bd6f-b702c1217cc0": {
+        "authors": [
+          "HANAYA En"
+        ],
+        "identifier": "11b536cd-7e3a-4c7a-bd6f-b702c1217cc0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ookamitachi no Gohoubi",
+        "url": "https://mangadex.org/title/11b536cd-7e3a-4c7a-bd6f-b702c1217cc0",
+        "image": "https://uploads.mangadex.org/covers/11b536cd-7e3a-4c7a-bd6f-b702c1217cc0/f80efd27-b748-47bc-a2e9-c4becf82249d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 12742,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:05:35.000Z",
+        "updatedAt": "2021-06-03T15:29:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

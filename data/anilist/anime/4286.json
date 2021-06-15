@@ -1,0 +1,38 @@
+{
+  "altTitle": [
+    "Bonobono",
+    "ぼのぼの"
+  ],
+  "id": 4286,
+  "malId": 4286,
+  "type": "anime",
+  "title": "Bonobono",
+  "url": "https://anilist.co/anime/4286",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4286.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:34.000Z",
+  "updatedAt": "2021-05-20T14:37:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Crunchyroll": {
+      "bono%20bono": {
+        "identifier": "bono%20bono",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "BONO BONO",
+        "url": "https://www.crunchyroll.com/bono-bono?media_id=714443",
+        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/f48b7a56fd3d19da00e08c3af31d6d3d1464913287_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4286,
+        "aniId": 4286,
+        "createdAt": "2020-11-20T11:51:59.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

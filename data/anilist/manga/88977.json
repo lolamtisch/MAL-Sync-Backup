@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "お届けものです!",
+    "Otodoke mono desu!"
+  ],
+  "authors": [
+    "Atsuyo Fuzuki"
+  ],
+  "id": 88977,
+  "malId": 60115,
+  "type": "manga",
+  "title": "Otokokemono desu!",
+  "url": "https://anilist.co/manga/88977",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/88977-3pXCehIMoDej.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-03T22:50:57.000Z",
+  "updatedAt": "2021-06-03T22:50:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "02d3eb01-11e9-4eff-b522-fffa3ca63619": {
+        "authors": [
+          "Fuduki Atsuyo"
+        ],
+        "identifier": "02d3eb01-11e9-4eff-b522-fffa3ca63619",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otodokemono Desu!",
+        "url": "https://mangadex.org/title/02d3eb01-11e9-4eff-b522-fffa3ca63619",
+        "image": "https://uploads.mangadex.org/covers/02d3eb01-11e9-4eff-b522-fffa3ca63619/038206fe-a2f7-492e-a187-901da00e2d76.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60115,
+        "aniId": 88977,
+        "createdAt": "2020-10-12T16:06:49.000Z",
+        "updatedAt": "2021-06-03T23:08:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

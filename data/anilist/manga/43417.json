@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ムラマサ"
+  ],
+  "authors": [
+    "Tetsuhiro Maruyama"
+  ],
+  "id": 43417,
+  "malId": 13417,
+  "type": "manga",
+  "title": "Muramasa",
+  "url": "https://anilist.co/manga/43417",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13417.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:33.000Z",
+  "updatedAt": "2021-05-20T14:42:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48881cde-d594-4a4f-89b0-1f6d7e25a148": {
+        "authors": [
+          "Tetsuhiro"
+        ],
+        "identifier": "48881cde-d594-4a4f-89b0-1f6d7e25a148",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Muramasa",
+        "url": "https://mangadex.org/title/48881cde-d594-4a4f-89b0-1f6d7e25a148",
+        "image": "https://uploads.mangadex.org/covers/48881cde-d594-4a4f-89b0-1f6d7e25a148/cfdb6f33-3ed1-4fb8-8450-a877794ed95e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13417,
+        "aniId": 43417,
+        "createdAt": "2020-10-12T16:03:13.000Z",
+        "updatedAt": "2021-06-02T12:24:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

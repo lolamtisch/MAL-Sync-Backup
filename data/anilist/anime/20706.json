@@ -1,0 +1,76 @@
+{
+  "altTitle": [
+    "真　ストレンジ・プラス",
+    "Strange+ 2"
+  ],
+  "id": 20706,
+  "malId": 23433,
+  "type": "anime",
+  "title": "Shin Strange+",
+  "url": "https://anilist.co/anime/20706",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20706.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:34.000Z",
+  "updatedAt": "2021-05-20T14:41:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "y7kz": {
+        "identifier": "y7kz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin Strange+",
+        "url": "https://9anime.ru/watch/shin-strange.y7kz",
+        "image": "https://static.akacdn.ru/static/images/2018/05/36176aa8006957aa028bbdaf8c0ad139.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23433,
+        "aniId": 20706,
+        "createdAt": "2020-10-12T15:56:50.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shin-strange-plus": {
+        "identifier": "shin-strange-plus",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shin Strange+",
+        "url": "https://www.gogoanime.movie/category/shin-strange-plus",
+        "image": "https://gogocdn.net/images/summer/Strange2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23433,
+        "aniId": 20706,
+        "createdAt": "2020-10-12T16:01:51.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "shin%20strange%2b": {
+        "identifier": "shin%20strange%2b",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Shin Strange+",
+        "url": "https://www.crunchyroll.com/strange?media_id=657149",
+        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/adb862a3dd175adc379d9489b3292b261411507147_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23433,
+        "aniId": 20706,
+        "createdAt": "2021-01-31T03:31:44.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Sakuya Sakura"
+  ],
+  "id": 38710,
+  "malId": 8710,
+  "type": "manga",
+  "title": "Hotel Hishinuma-Roh",
+  "url": "https://anilist.co/manga/38710",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8710.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ed2d5a1-344b-493e-a9f8-62022a8f0bb6": {
+        "authors": [
+          "Sakura Sakuya"
+        ],
+        "identifier": "5ed2d5a1-344b-493e-a9f8-62022a8f0bb6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hotel Hishinumarou",
+        "url": "https://mangadex.org/title/5ed2d5a1-344b-493e-a9f8-62022a8f0bb6",
+        "image": "https://uploads.mangadex.org/covers/5ed2d5a1-344b-493e-a9f8-62022a8f0bb6/56077e09-25c0-4760-8636-62068b7ba19f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8710,
+        "aniId": 38710,
+        "createdAt": "2020-11-13T04:52:48.000Z",
+        "updatedAt": "2021-06-08T07:03:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

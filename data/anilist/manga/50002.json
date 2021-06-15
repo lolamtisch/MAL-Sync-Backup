@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Fighting Beauty Wulong",
+    "格闘美神武龍",
+    "Kakutou Bijin Wulong"
+  ],
+  "authors": [
+    "Yuugo Ishikawa"
+  ],
+  "id": 50002,
+  "malId": 20002,
+  "type": "manga",
+  "title": "Fighting Beauty Wulong",
+  "url": "https://anilist.co/manga/50002",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20002.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:25.000Z",
+  "updatedAt": "2021-05-20T14:45:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "32137160-9af6-4645-8480-562e84f614c3": {
+        "authors": [
+          "Ishikawa Yugo"
+        ],
+        "identifier": "32137160-9af6-4645-8480-562e84f614c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakutou Bijin Wulong",
+        "url": "https://mangadex.org/title/32137160-9af6-4645-8480-562e84f614c3",
+        "image": "https://uploads.mangadex.org/covers/32137160-9af6-4645-8480-562e84f614c3/41d3451e-12ce-4647-a3ac-8fa39cb87eb1.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20002,
+        "aniId": 50002,
+        "createdAt": "2020-10-12T16:03:29.000Z",
+        "updatedAt": "2021-06-02T14:17:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kakutou_bijin_wulong": {
+        "authors": [],
+        "identifier": "kakutou_bijin_wulong",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kakutou Bijin Wulong",
+        "url": "https://manganelo.com/manga/kakutou_bijin_wulong",
+        "image": "https://avt.mkklcdnv6.com/49/b/10-1583483946.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20002,
+        "aniId": 50002,
+        "createdAt": "2020-10-12T16:23:49.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

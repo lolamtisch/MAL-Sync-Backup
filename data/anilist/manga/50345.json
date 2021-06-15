@@ -1,0 +1,82 @@
+{
+  "altTitle": [
+    "日常茶飯美 - Beautiful Life",
+    "Nichijousahan Bi"
+  ],
+  "authors": [
+    "Haruhira Moto"
+  ],
+  "id": 50345,
+  "malId": 20345,
+  "type": "manga",
+  "title": "Nichijou Sahanbi: Beautiful Life",
+  "url": "https://anilist.co/manga/50345",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50345-rAj8ifv2dKU8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:28.000Z",
+  "updatedAt": "2021-05-20T14:45:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e6daa19a-0e60-41b4-a1db-2be82530b233": {
+        "authors": [
+          "Moto Haruhira"
+        ],
+        "identifier": "e6daa19a-0e60-41b4-a1db-2be82530b233",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Beautiful Life",
+        "url": "https://mangadex.org/title/e6daa19a-0e60-41b4-a1db-2be82530b233",
+        "image": "https://uploads.mangadex.org/covers/e6daa19a-0e60-41b4-a1db-2be82530b233/721f7630-2904-439e-91b2-282b728f7977.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 20345,
+        "aniId": 50345,
+        "createdAt": "2020-10-12T16:04:37.000Z",
+        "updatedAt": "2021-06-03T08:55:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tn922434": {
+        "authors": [],
+        "identifier": "tn922434",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Difficult Life Of A Beautiful Empress",
+        "url": "https://manganelo.com/manga/tn922434",
+        "image": "https://avt.mkklcdnv6.com/43/t/20-1584006766.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20345,
+        "aniId": 50345,
+        "createdAt": "2020-10-12T16:25:45.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      },
+      "vc921113": {
+        "authors": [],
+        "identifier": "vc921113",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Beautiful Wife Of The Whirlwind Marriage",
+        "url": "https://manganelo.com/manga/vc921113",
+        "image": "https://avt.mkklcdnv6.com/43/z/19-1583500778.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20345,
+        "aniId": 50345,
+        "createdAt": "2020-10-12T16:26:01.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Frag",
+    "フラグメンツ"
+  ],
+  "authors": [
+    "Yamamoto, Naoki"
+  ],
+  "id": 22660,
+  "type": "manga",
+  "title": "Fragments",
+  "url": "https://myanimelist.net/manga/22660/Fragments",
+  "image": "https://cdn.myanimelist.net/images/manga/3/36771.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-19T09:28:46.000Z",
+  "updatedAt": "2021-04-19T09:44:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a4d9949e-71aa-4b5d-81fb-957794ff96c4": {
+        "authors": [
+          "Yamamoto Naoki"
+        ],
+        "identifier": "a4d9949e-71aa-4b5d-81fb-957794ff96c4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fragments",
+        "url": "https://mangadex.org/title/a4d9949e-71aa-4b5d-81fb-957794ff96c4",
+        "image": "https://uploads.mangadex.org/covers/a4d9949e-71aa-4b5d-81fb-957794ff96c4/26d533ab-ae56-4543-8fd0-9cf9ea6467c8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22660,
+        "aniId": 52660,
+        "createdAt": "2020-10-12T16:11:31.000Z",
+        "updatedAt": "2021-06-05T09:01:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

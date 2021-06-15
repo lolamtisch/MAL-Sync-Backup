@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "スケッチー"
+  ],
+  "authors": [
+    "Maki, Hirochi"
+  ],
+  "id": 123892,
+  "type": "manga",
+  "title": "Sketchy",
+  "url": "https://myanimelist.net/manga/123892/Sketchy",
+  "image": "https://cdn.myanimelist.net/images/manga/3/225888.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-01-16T03:31:50.000Z",
+  "updatedAt": "2021-06-08T12:26:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "427c6579-cc83-460e-a0ca-f0acd286fa67": {
+        "authors": [
+          "Maki Hirochi"
+        ],
+        "identifier": "427c6579-cc83-460e-a0ca-f0acd286fa67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sketchy",
+        "url": "https://mangadex.org/title/427c6579-cc83-460e-a0ca-f0acd286fa67",
+        "image": "https://uploads.mangadex.org/covers/427c6579-cc83-460e-a0ca-f0acd286fa67/23da24a6-b783-4c07-a24c-5e1e84a025ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123892,
+        "aniId": 115060,
+        "createdAt": "2021-03-06T06:20:30.000Z",
+        "updatedAt": "2021-06-08T15:05:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

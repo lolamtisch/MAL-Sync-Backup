@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "アヴェンジャー"
+  ],
+  "id": 56,
+  "malId": 56,
+  "type": "anime",
+  "title": "Avenger",
+  "url": "https://anilist.co/anime/56",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b56-u0q9CHIgtbQG.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-05-20T14:33:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "lrom": {
+        "identifier": "lrom",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Avenger (Dub)",
+        "url": "https://9anime.ru/watch/avenger-dub.lrom",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-nCUUa1NtQhA/V7H_Wm2XT9I/AAAAAAAA3UU/rgri-JvzM_g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56,
+        "aniId": 56,
+        "createdAt": "2020-10-12T15:53:15.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "nokj": {
+        "identifier": "nokj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Avenger",
+        "url": "https://9anime.ru/watch/avenger.nokj",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-cW3P8kDFaVw/WTtwKopxnvI/AAAAAAAAAEw/_eNtoF471bMjlxuUC1paJE-G2a-kRjtSwCHM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56,
+        "aniId": 56,
+        "createdAt": "2020-10-12T15:53:55.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "avenger-dub": {
+        "identifier": "avenger-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Avenger (Dub)",
+        "url": "https://gogoanime.so/category/avenger-dub",
+        "image": "https://gogocdn.net/cover/avenger-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56,
+        "aniId": 56,
+        "createdAt": "2020-11-13T06:53:19.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1583": {
+        "identifier": "1583",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Avenger",
+        "url": "https://pahe.win/a/1583",
+        "image": "https://i.animepahe.com/posters/d1a825286778e3ae19cc3fe9ca0a5e73.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56,
+        "aniId": 56,
+        "createdAt": "2020-12-23T07:01:18.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "やわはだおとめ",
+    "Sakippo Lesson",
+    "Mizu Asobi",
+    "Love Hip",
+    "Karikoi"
+  ],
+  "authors": [
+    "Aki E-musu"
+  ],
+  "id": 83293,
+  "malId": 53293,
+  "type": "manga",
+  "title": "Yawahada Otome",
+  "url": "https://anilist.co/manga/83293",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/53293.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:49:57.000Z",
+  "updatedAt": "2021-05-20T14:49:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "241dffb2-3f0d-4e28-b5c9-d06fc7a75010": {
+        "authors": [
+          "Harumi Chihiro"
+        ],
+        "identifier": "241dffb2-3f0d-4e28-b5c9-d06fc7a75010",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yawahada",
+        "url": "https://mangadex.org/title/241dffb2-3f0d-4e28-b5c9-d06fc7a75010",
+        "image": "https://uploads.mangadex.org/covers/241dffb2-3f0d-4e28-b5c9-d06fc7a75010/acb7f985-eeba-42c2-8be0-5f4ff5d7da33.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53293,
+        "aniId": 83293,
+        "createdAt": "2020-10-12T16:17:39.000Z",
+        "updatedAt": "2021-06-07T09:35:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

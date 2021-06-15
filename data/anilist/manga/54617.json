@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ハニィ"
+  ],
+  "authors": [
+    "Machiko Sakurai"
+  ],
+  "id": 54617,
+  "malId": 24617,
+  "type": "manga",
+  "title": "Honey",
+  "url": "https://anilist.co/manga/54617",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54617-oB1hvMzkrdqR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T15:52:49.000Z",
+  "updatedAt": "2021-06-04T15:52:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "53c6c963-7a27-42dd-b04b-1217e00a8444": {
+        "authors": [
+          "Sakurai Machiko"
+        ],
+        "identifier": "53c6c963-7a27-42dd-b04b-1217e00a8444",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honey",
+        "url": "https://mangadex.org/title/53c6c963-7a27-42dd-b04b-1217e00a8444",
+        "image": "https://uploads.mangadex.org/covers/53c6c963-7a27-42dd-b04b-1217e00a8444/7fdf149f-bf74-4e4d-a5e0-f74a1333366a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24617,
+        "aniId": 54617,
+        "createdAt": "2020-10-12T16:09:08.000Z",
+        "updatedAt": "2021-06-04T22:10:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

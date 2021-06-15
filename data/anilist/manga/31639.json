@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Cyborg 009",
+    "サイボーグ009"
+  ],
+  "authors": [
+    "Shoutarou Ishinomori"
+  ],
+  "id": 31639,
+  "malId": 1639,
+  "type": "manga",
+  "title": "Cyborg 009",
+  "url": "https://anilist.co/manga/31639",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31639-IDnWDZIHHLUY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:49.000Z",
+  "updatedAt": "2021-05-20T14:36:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "596bae2a-6a5b-4975-8e5e-1dd44393eaaf": {
+        "authors": [
+          "Ishinomori Shotaro"
+        ],
+        "identifier": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cyborg 009",
+        "url": "https://mangadex.org/title/596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
+        "image": "https://uploads.mangadex.org/covers/596bae2a-6a5b-4975-8e5e-1dd44393eaaf/643401e3-f6b7-44db-8a1d-fb627c8e2e95.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1639,
+        "aniId": 31639,
+        "createdAt": "2020-10-12T16:14:01.000Z",
+        "updatedAt": "2021-06-06T01:42:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cyborg_009": {
+        "authors": [
+          "Ishinomori",
+          "Shotaro"
+        ],
+        "identifier": "cyborg_009",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cyborg 009",
+        "url": "https://manganelo.com/manga/cyborg_009",
+        "image": "https://avt.mkklcdnv6.com/2/h/1-1583463754.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1639,
+        "aniId": 31639,
+        "createdAt": "2020-11-03T01:54:40.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cyborg009": {
+        "authors": [
+          "ISHINOMORI Shotaro"
+        ],
+        "identifier": "cyborg009",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cyborg 009",
+        "url": "https://mangasee123.com/manga/Cyborg009",
+        "image": "https://cover.nep.li/cover/Cyborg009.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1639,
+        "aniId": 31639,
+        "createdAt": "2021-01-27T19:10:47.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

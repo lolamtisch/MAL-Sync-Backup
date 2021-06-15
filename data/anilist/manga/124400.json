@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Just Another Hard Day At Work!",
+    "これもお仕事です!",
+    "This is Work Too!",
+    "Work-Love Balance"
+  ],
+  "authors": [
+    "Zim Nerima"
+  ],
+  "id": 124400,
+  "malId": 118778,
+  "type": "manga",
+  "title": "Kore mo Oshigoto desu!",
+  "url": "https://anilist.co/manga/124400",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124400-ahDPM2A9bCoj.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:58:05.000Z",
+  "updatedAt": "2021-05-20T14:58:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9ad0be06-147e-44b7-88fb-654c2d56bd67": {
+        "authors": [
+          "Nerima Zim"
+        ],
+        "identifier": "9ad0be06-147e-44b7-88fb-654c2d56bd67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kore mo Shigoto Desu",
+        "url": "https://mangadex.org/title/9ad0be06-147e-44b7-88fb-654c2d56bd67",
+        "image": "https://uploads.mangadex.org/covers/9ad0be06-147e-44b7-88fb-654c2d56bd67/c9904a66-bb0c-4891-9e91-7793b6052d92.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118778,
+        "aniId": 124400,
+        "createdAt": "2020-10-12T16:18:27.000Z",
+        "updatedAt": "2021-06-07T16:59:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

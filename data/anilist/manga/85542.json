@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "The Hatsukoi Chronicle",
+    "初恋クロニクル"
+  ],
+  "authors": [
+    "Nils Machimura"
+  ],
+  "id": 85542,
+  "malId": 65883,
+  "type": "manga",
+  "title": "Hatsukoi Chronicle",
+  "url": "https://anilist.co/manga/85542",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55542.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:53.000Z",
+  "updatedAt": "2021-05-20T14:50:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ee868db-b4d0-4887-bb66-47a666d9ce82": {
+        "authors": [
+          "Nils Machimura"
+        ],
+        "identifier": "3ee868db-b4d0-4887-bb66-47a666d9ce82",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Hatsukoi Chronicle",
+        "url": "https://mangadex.org/title/3ee868db-b4d0-4887-bb66-47a666d9ce82",
+        "image": "https://uploads.mangadex.org/covers/3ee868db-b4d0-4887-bb66-47a666d9ce82/0e6bd41a-7d51-4f76-bb18-1e820d7d5635.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65883,
+        "aniId": 85542,
+        "createdAt": "2020-10-12T16:07:05.000Z",
+        "updatedAt": "2021-06-04T00:12:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

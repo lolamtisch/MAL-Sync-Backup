@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "ハングリージョーカー"
+  ],
+  "authors": [
+    "Yuuki Tabata"
+  ],
+  "id": 75221,
+  "malId": 45221,
+  "type": "manga",
+  "title": "Hungry Joker",
+  "url": "https://anilist.co/manga/75221",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75221-U9R7TubPrkON.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bd1c17ac-919b-40e7-82a4-57e00cb6fd01": {
+        "authors": [
+          "Tabata Yuuki"
+        ],
+        "identifier": "bd1c17ac-919b-40e7-82a4-57e00cb6fd01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hungry Joker",
+        "url": "https://mangadex.org/title/bd1c17ac-919b-40e7-82a4-57e00cb6fd01",
+        "image": "https://uploads.mangadex.org/covers/bd1c17ac-919b-40e7-82a4-57e00cb6fd01/b1e6341c-6c12-4e34-9a05-eb7bca2af915.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45221,
+        "aniId": 75221,
+        "createdAt": "2020-10-12T16:03:43.000Z",
+        "updatedAt": "2021-06-02T16:04:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hungry_joker": {
+        "authors": [],
+        "identifier": "hungry_joker",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hungry Joker",
+        "url": "https://manganelo.com/manga/hungry_joker",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4994-hungry_joker.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45221,
+        "aniId": 75221,
+        "createdAt": "2020-10-12T16:23:26.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hungry-joker": {
+        "authors": [
+          "TABATA Yuuki"
+        ],
+        "identifier": "hungry-joker",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hungry Joker",
+        "url": "https://mangasee123.com/manga/Hungry-Joker",
+        "image": "https://cover.nep.li/cover/Hungry-Joker.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45221,
+        "aniId": 75221,
+        "createdAt": "2021-01-31T16:34:13.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hungry_joker": {
+        "authors": [
+          "TABATA Yuuki"
+        ],
+        "identifier": "hungry_joker",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hungry Joker",
+        "url": "https://fanfox.net/manga/hungry_joker/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9759/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45221,
+        "aniId": 75221,
+        "createdAt": "2021-02-21T05:03:35.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

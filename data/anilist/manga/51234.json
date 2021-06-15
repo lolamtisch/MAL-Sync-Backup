@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "いぬみみずかん",
+    "Dog-Ears Zukan - Encyclopedia of Doggy Style",
+    "Otogibanashi",
+    "Colorful Pizza"
+  ],
+  "authors": [
+    "Inuburo"
+  ],
+  "id": 51234,
+  "malId": 21234,
+  "type": "manga",
+  "title": "Inumimi Zukan",
+  "url": "https://anilist.co/manga/51234",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21234.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:45:38.000Z",
+  "updatedAt": "2021-05-20T14:45:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "20b06792-b5dd-4939-a87d-38118604d578": {
+        "authors": [
+          "Inuburo"
+        ],
+        "identifier": "20b06792-b5dd-4939-a87d-38118604d578",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inumimi Zukan",
+        "url": "https://mangadex.org/title/20b06792-b5dd-4939-a87d-38118604d578",
+        "image": "https://uploads.mangadex.org/covers/20b06792-b5dd-4939-a87d-38118604d578/681b5b7a-c262-45a3-8d80-d2e4cfd27d97.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21234,
+        "aniId": 51234,
+        "createdAt": "2020-10-12T16:14:56.000Z",
+        "updatedAt": "2021-06-06T09:13:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

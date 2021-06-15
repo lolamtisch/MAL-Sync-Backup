@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Ninth Life Love",
+    "ねこの嫁入り",
+    "Cat's Wedding"
+  ],
+  "authors": [
+    "Lalako Kojima"
+  ],
+  "id": 55123,
+  "malId": 25123,
+  "type": "manga",
+  "title": "Neko no Yomeiri",
+  "url": "https://anilist.co/manga/55123",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55123-5iiCCkclVTjq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:52.000Z",
+  "updatedAt": "2021-05-20T14:46:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "jn920649": {
+        "authors": [],
+        "identifier": "jn920649",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yoru No Yomeiri",
+        "url": "https://manganelo.com/manga/jn920649",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2046-jn920649.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25123,
+        "aniId": 55123,
+        "createdAt": "2020-10-12T16:23:43.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "108a1aad-3e52-4c38-8a3a-26166b30f90f": {
+        "authors": [
+          "Kojima Lalako"
+        ],
+        "identifier": "108a1aad-3e52-4c38-8a3a-26166b30f90f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko no Yomeiri",
+        "url": "https://mangadex.org/title/108a1aad-3e52-4c38-8a3a-26166b30f90f",
+        "image": "https://uploads.mangadex.org/covers/108a1aad-3e52-4c38-8a3a-26166b30f90f/3cfcda16-05a0-4e9d-ab7d-a54d99600051.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25123,
+        "aniId": 55123,
+        "createdAt": "2020-10-30T04:14:42.000Z",
+        "updatedAt": "2021-06-08T06:05:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ニューノーマル"
+  ],
+  "authors": [
+    "Akito Aihara"
+  ],
+  "id": 129725,
+  "malId": null,
+  "type": "manga",
+  "title": "New Normal",
+  "url": "https://anilist.co/manga/129725",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129725-v5b48zANomsn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T20:44:29.000Z",
+  "updatedAt": "2021-05-22T20:44:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1d0056a-fdd3-4f32-af19-50eeb37280ac": {
+        "authors": [
+          "Aihara Akito"
+        ],
+        "identifier": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "New Normal",
+        "url": "https://mangadex.org/title/e1d0056a-fdd3-4f32-af19-50eeb37280ac",
+        "image": "https://uploads.mangadex.org/covers/e1d0056a-fdd3-4f32-af19-50eeb37280ac/52909fd6-a824-4493-a087-144d1bb43fc7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 129725,
+        "createdAt": "2021-02-08T23:10:33.000Z",
+        "updatedAt": "2021-06-08T12:05:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "new-normal": {
+        "authors": [
+          "AIHARA Akito"
+        ],
+        "identifier": "new-normal",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "New Normal",
+        "url": "https://mangasee123.com/manga/New-Normal",
+        "image": "https://cover.nep.li/cover/New-Normal.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 129725,
+        "createdAt": "2021-03-06T18:33:15.000Z",
+        "updatedAt": "2021-05-22T20:44:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

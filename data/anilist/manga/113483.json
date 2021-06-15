@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ECHOES"
+  ],
+  "authors": [
+    "Ayumi"
+  ],
+  "id": 113483,
+  "malId": 103559,
+  "type": "manga",
+  "title": "Echoes",
+  "url": "https://anilist.co/manga/113483",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113483-qasCgFd4KKC2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:04.000Z",
+  "updatedAt": "2021-05-20T14:55:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56e48399-1ae7-4a6f-a064-1f5c26c6f96b": {
+        "authors": [
+          "Ayumi"
+        ],
+        "identifier": "56e48399-1ae7-4a6f-a064-1f5c26c6f96b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ECHOES",
+        "url": "https://mangadex.org/title/56e48399-1ae7-4a6f-a064-1f5c26c6f96b",
+        "image": "https://uploads.mangadex.org/covers/56e48399-1ae7-4a6f-a064-1f5c26c6f96b/5c5c8dad-bf5e-40bd-b150-fded98fdea18.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103559,
+        "aniId": 113483,
+        "createdAt": "2020-10-12T16:13:56.000Z",
+        "updatedAt": "2021-06-06T01:07:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

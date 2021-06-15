@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "花とサカヅキ",
+    "Flowers and Pints"
+  ],
+  "authors": [
+    "Tsutomu"
+  ],
+  "id": 107412,
+  "malId": 120273,
+  "type": "manga",
+  "title": "Hana to Sakazuki",
+  "url": "https://anilist.co/manga/107412",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107412-ApGc7goGtLNm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T14:50:59.000Z",
+  "updatedAt": "2021-06-04T14:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "06c77718-13c9-4b59-a0e4-59cc84c30187": {
+        "authors": [
+          "Tsutomu"
+        ],
+        "identifier": "06c77718-13c9-4b59-a0e4-59cc84c30187",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana to Sakazuki",
+        "url": "https://mangadex.org/title/06c77718-13c9-4b59-a0e4-59cc84c30187",
+        "image": "https://uploads.mangadex.org/covers/06c77718-13c9-4b59-a0e4-59cc84c30187/0d5b6dae-a276-49e9-affe-706e94490083.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120273,
+        "aniId": 107412,
+        "createdAt": "2020-10-12T16:09:02.000Z",
+        "updatedAt": "2021-06-04T15:28:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

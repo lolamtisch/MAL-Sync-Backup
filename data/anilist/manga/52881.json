@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "ツクモノ"
+  ],
+  "authors": [],
+  "id": 52881,
+  "malId": 22881,
+  "type": "manga",
+  "title": "Tsukumono",
+  "url": "https://anilist.co/manga/52881",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22881.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:33.000Z",
+  "updatedAt": "2021-05-20T14:46:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "485471ff-4502-4af9-aa0f-956af49e7782": {
+        "authors": [
+          "Watano Yuka"
+        ],
+        "identifier": "485471ff-4502-4af9-aa0f-956af49e7782",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukumono",
+        "url": "https://mangadex.org/title/485471ff-4502-4af9-aa0f-956af49e7782",
+        "image": "https://uploads.mangadex.org/covers/485471ff-4502-4af9-aa0f-956af49e7782/01831f13-c07c-4c28-9d68-4aadc38ed0e3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22881,
+        "aniId": 52881,
+        "createdAt": "2020-10-12T16:04:13.000Z",
+        "updatedAt": "2021-06-02T19:36:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

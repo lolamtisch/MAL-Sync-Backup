@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "恋愛不行き届き"
+  ],
+  "authors": [
+    "Wataru Nagi"
+  ],
+  "id": 110931,
+  "malId": 116091,
+  "type": "manga",
+  "title": "Renai Fuyuki Todoki",
+  "url": "https://anilist.co/manga/110931",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110931-E41JxzPZjNwr.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:57:21.000Z",
+  "updatedAt": "2021-05-20T14:57:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b1cd38e-e50b-45a6-89c3-47675660e3ce": {
+        "authors": [
+          "Nagi Wataru"
+        ],
+        "identifier": "0b1cd38e-e50b-45a6-89c3-47675660e3ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renai Fuyuki Todoki",
+        "url": "https://mangadex.org/title/0b1cd38e-e50b-45a6-89c3-47675660e3ce",
+        "image": "https://uploads.mangadex.org/covers/0b1cd38e-e50b-45a6-89c3-47675660e3ce/2e2d77a7-da4a-4e16-981c-a586a13a48a6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116091,
+        "aniId": 110931,
+        "createdAt": "2020-10-12T16:13:32.000Z",
+        "updatedAt": "2021-06-05T22:06:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "renai_fuyuki_todoki": {
+        "authors": [],
+        "identifier": "renai_fuyuki_todoki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Renai Fuyuki Todoki",
+        "url": "https://manganelo.com/manga/renai_fuyuki_todoki",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19411-renai_fuyuki_todoki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116091,
+        "aniId": 110931,
+        "createdAt": "2020-10-12T16:25:09.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

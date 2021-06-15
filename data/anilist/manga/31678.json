@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Et Cetera",
+    "えとせとら",
+    "Etcetera"
+  ],
+  "authors": [
+    "Tou Nakazaki"
+  ],
+  "id": 31678,
+  "malId": 1678,
+  "type": "manga",
+  "title": "Et Cetera",
+  "url": "https://anilist.co/manga/31678",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31678-e0IcAuXmOfIc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "20bedf93-6154-416b-ab55-4527c6c04eff": {
+        "authors": [
+          "Aoki Ume",
+          "Apricot Plus (Circle)"
+        ],
+        "identifier": "20bedf93-6154-416b-ab55-4527c6c04eff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "EtceterA",
+        "url": "https://mangadex.org/title/20bedf93-6154-416b-ab55-4527c6c04eff",
+        "image": "https://uploads.mangadex.org/covers/20bedf93-6154-416b-ab55-4527c6c04eff/08880394-bbf0-423e-bab9-c70710d7a43f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1678,
+        "aniId": 31678,
+        "createdAt": "2020-10-12T16:05:48.000Z",
+        "updatedAt": "2021-06-03T15:03:58.000Z",
+        "deletedAt": null
+      },
+      "ddc4175e-db76-4015-b51e-e660bc47d216": {
+        "authors": [
+          "NAKAZAKI Tow"
+        ],
+        "identifier": "ddc4175e-db76-4015-b51e-e660bc47d216",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Et Cetera",
+        "url": "https://mangadex.org/title/ddc4175e-db76-4015-b51e-e660bc47d216",
+        "image": "https://uploads.mangadex.org/covers/ddc4175e-db76-4015-b51e-e660bc47d216/b8c8fb80-e617-46db-9a10-5ff6e22cded8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1678,
+        "aniId": 31678,
+        "createdAt": "2020-10-12T16:17:29.000Z",
+        "updatedAt": "2021-06-07T08:02:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "et_cetera": {
+        "authors": [],
+        "identifier": "et_cetera",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Et Cetera",
+        "url": "https://manganelo.com/manga/et_cetera",
+        "image": "https://avt.mkklcdnv6.com/49/m/3-1583469624.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1678,
+        "aniId": 31678,
+        "createdAt": "2020-10-12T16:22:51.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

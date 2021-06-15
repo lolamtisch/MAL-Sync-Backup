@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "シルバー"
+  ],
+  "authors": [
+    "Kazuko Fujita",
+    "Penny Jordan"
+  ],
+  "id": 46806,
+  "malId": 16806,
+  "type": "manga",
+  "title": "Silver",
+  "url": "https://anilist.co/manga/46806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16806.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:58.000Z",
+  "updatedAt": "2021-05-20T14:43:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "057b9b11-7bbe-4758-a6d3-501a60bba0bb": {
+        "authors": [
+          "Penny JORDAN",
+          "FUJITA Kazuko"
+        ],
+        "identifier": "057b9b11-7bbe-4758-a6d3-501a60bba0bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Silver",
+        "url": "https://mangadex.org/title/057b9b11-7bbe-4758-a6d3-501a60bba0bb",
+        "image": "https://uploads.mangadex.org/covers/057b9b11-7bbe-4758-a6d3-501a60bba0bb/225797f7-b544-492d-acf4-57419ce8003d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16806,
+        "aniId": 46806,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T14:03:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

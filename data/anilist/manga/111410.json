@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "A World Ruled by Cats",
+    "救命！这个猫统治的世界"
+  ],
+  "authors": [
+    "Jing Jian"
+  ],
+  "id": 111410,
+  "malId": null,
+  "type": "manga",
+  "title": "Jiuming! Zhege Mao Tongzhi de Shijie",
+  "url": "https://anilist.co/manga/111410",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111410-fNQovgLtTmr4.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T08:12:57.000Z",
+  "updatedAt": "2021-06-06T08:19:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2a7ba330-e570-4713-9ea7-eb32f5f05d20": {
+        "authors": [
+          "Jing Jian"
+        ],
+        "identifier": "2a7ba330-e570-4713-9ea7-eb32f5f05d20",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A World Ruled By Cats",
+        "url": "https://mangadex.org/title/2a7ba330-e570-4713-9ea7-eb32f5f05d20",
+        "image": "https://uploads.mangadex.org/covers/2a7ba330-e570-4713-9ea7-eb32f5f05d20/32702ddb-d43e-41cc-b588-de611d64e33d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111410,
+        "createdAt": "2020-10-12T16:14:48.000Z",
+        "updatedAt": "2021-06-06T10:20:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ヤンかの！"
+  ],
+  "authors": [
+    "Mitsuki Yanagihara"
+  ],
+  "id": 67631,
+  "malId": 37631,
+  "type": "manga",
+  "title": "Yankano!",
+  "url": "https://anilist.co/manga/67631",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b67631-AM4FsVYuAHyh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:31.000Z",
+  "updatedAt": "2021-05-20T14:48:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "91b915ca-9c92-4a9a-95ec-449f373c0459": {
+        "authors": [
+          "Yanagihara Mitsuki"
+        ],
+        "identifier": "91b915ca-9c92-4a9a-95ec-449f373c0459",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yankano!",
+        "url": "https://mangadex.org/title/91b915ca-9c92-4a9a-95ec-449f373c0459",
+        "image": "https://uploads.mangadex.org/covers/91b915ca-9c92-4a9a-95ec-449f373c0459/eedd5fc3-088e-4049-a949-46a365837813.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37631,
+        "aniId": 67631,
+        "createdAt": "2020-10-12T16:04:30.000Z",
+        "updatedAt": "2021-06-02T21:25:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yankano": {
+        "authors": [],
+        "identifier": "yankano",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yankano!",
+        "url": "https://manganelo.com/manga/yankano",
+        "image": "https://avt.mkklcdnv6.com/50/z/4-1583471843.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37631,
+        "aniId": 67631,
+        "createdAt": "2020-10-12T16:26:20.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

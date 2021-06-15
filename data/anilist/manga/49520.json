@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "カクゴをきめて"
+  ],
+  "authors": [
+    "Romuco Miike",
+    "Naho Watarumi"
+  ],
+  "id": 49520,
+  "malId": 19520,
+  "type": "manga",
+  "title": "Kakugo wo Kimete",
+  "url": "https://anilist.co/manga/49520",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19520.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:22.000Z",
+  "updatedAt": "2021-05-20T14:45:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "932ceb35-c08b-4d39-9c7e-14555d952f3b": {
+        "authors": [
+          "Watarumi Naho",
+          "Miike Romuco"
+        ],
+        "identifier": "932ceb35-c08b-4d39-9c7e-14555d952f3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakugo wo Kimete",
+        "url": "https://mangadex.org/title/932ceb35-c08b-4d39-9c7e-14555d952f3b",
+        "image": "https://uploads.mangadex.org/covers/932ceb35-c08b-4d39-9c7e-14555d952f3b/28b319f1-cafc-438e-9021-518caeefc0e7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19520,
+        "aniId": 49520,
+        "createdAt": "2020-10-12T16:06:28.000Z",
+        "updatedAt": "2021-06-03T19:52:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

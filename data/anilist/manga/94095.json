@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "ネト充のススメ",
+    "Neto-juu no Susume",
+    "Netojuu no Susume",
+    "Recommendation of the Wonderful Virtual Life",
+    "Recommendation of The Internet Enhancement",
+    "Netoju",
+    "Recovery of an MMO Junkie"
+  ],
+  "authors": [
+    "Rin Kokuyou"
+  ],
+  "id": 94095,
+  "malId": 86648,
+  "type": "manga",
+  "title": "Net-juu no Susume",
+  "url": "https://anilist.co/manga/94095",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx94095-MpPvneUYXi7O.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:44.000Z",
+  "updatedAt": "2021-05-20T14:52:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ad24956-53ed-417b-970d-be4d60e3cf02": {
+        "authors": [
+          "Kokuyo Rin"
+        ],
+        "identifier": "4ad24956-53ed-417b-970d-be4d60e3cf02",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Netojuu no Susume",
+        "url": "https://mangadex.org/title/4ad24956-53ed-417b-970d-be4d60e3cf02",
+        "image": "https://uploads.mangadex.org/covers/4ad24956-53ed-417b-970d-be4d60e3cf02/240c0da7-ca42-4c45-a16a-55206b0e0173.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86648,
+        "aniId": 94095,
+        "createdAt": "2020-10-12T16:08:39.000Z",
+        "updatedAt": "2021-06-04T11:42:39.000Z",
+        "deletedAt": null
+      },
+      "b295c453-cdcb-4422-866d-c3f23c940600": {
+        "authors": [
+          "Kuroarama Soukai"
+        ],
+        "identifier": "b295c453-cdcb-4422-866d-c3f23c940600",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou no Susume",
+        "url": "https://mangadex.org/title/b295c453-cdcb-4422-866d-c3f23c940600",
+        "image": "https://uploads.mangadex.org/covers/b295c453-cdcb-4422-866d-c3f23c940600/90a9028f-cc96-4354-8d9f-1974b4893915.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86648,
+        "aniId": 94095,
+        "createdAt": "2020-10-12T16:20:10.000Z",
+        "updatedAt": "2021-06-07T23:30:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "netojuu_no_susume": {
+        "authors": [],
+        "identifier": "netojuu_no_susume",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Netojuu no Susume",
+        "url": "https://manganelo.com/manga/netojuu_no_susume",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2633-netojuu_no_susume.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86648,
+        "aniId": 94095,
+        "createdAt": "2020-10-12T16:24:30.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "altTitle": [
+    "マンガ・オブ・ザ・デッド"
+  ],
+  "authors": [
+    "Hiromoto, Shinichi",
+    "Hiroe, Rei",
+    "Samura, Hiroaki",
+    "Matsumoto, Jiro",
+    "Hokazono, Masaya",
+    "Kino, Hitoshi",
+    "Terada, Katsuya",
+    "Uguisu, Sachiko"
+  ],
+  "id": 48283,
+  "type": "manga",
+  "title": "Manga of the Dead",
+  "url": "https://myanimelist.net/manga/48283/Manga_of_the_Dead",
+  "image": "https://cdn.myanimelist.net/images/manga/1/85139.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:30.000Z",
+  "updatedAt": "2021-03-16T01:03:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ec0b8a74-ad68-49bf-a94d-b285a1b7af40": {
+        "authors": [
+          "Uguisu Sachiko",
+          "Matsumoto Jiro",
+          "Terada Katsuya",
+          "Hiromoto Shinichi",
+          "Tajima Sho-u",
+          "Hiroe Rei",
+          "Shimada Toranosuke",
+          "Kino Hitoshi",
+          "Koizumi Tomohiro",
+          "Samura Hiroaki",
+          "Hokazono Masaya",
+          "Fukao Atsushi"
+        ],
+        "identifier": "ec0b8a74-ad68-49bf-a94d-b285a1b7af40",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Manga of the Dead",
+        "url": "https://mangadex.org/title/ec0b8a74-ad68-49bf-a94d-b285a1b7af40",
+        "image": "https://uploads.mangadex.org/covers/ec0b8a74-ad68-49bf-a94d-b285a1b7af40/8d1fcabf-e3f9-45d9-a517-26fcba328c57.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48283,
+        "aniId": 78283,
+        "createdAt": "2020-10-12T16:07:01.000Z",
+        "updatedAt": "2021-06-03T23:44:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

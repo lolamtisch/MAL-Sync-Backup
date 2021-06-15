@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "메트로놈"
+  ],
+  "authors": [
+    "Won-Jin Lee"
+  ],
+  "id": 72835,
+  "malId": 42835,
+  "type": "manga",
+  "title": "Metronome",
+  "url": "https://anilist.co/manga/72835",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n72835-05TpmO5msuDR.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:55.000Z",
+  "updatedAt": "2021-05-20T14:48:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d39db645-0a95-4d70-80e0-775dc9a6ad89": {
+        "authors": [
+          "Lee Won-jin"
+        ],
+        "identifier": "d39db645-0a95-4d70-80e0-775dc9a6ad89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Metronome",
+        "url": "https://mangadex.org/title/d39db645-0a95-4d70-80e0-775dc9a6ad89",
+        "image": "https://uploads.mangadex.org/covers/d39db645-0a95-4d70-80e0-775dc9a6ad89/e6aa8a89-82fa-4364-9f6c-e3bdbc818ee6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42835,
+        "aniId": 72835,
+        "createdAt": "2020-10-12T16:02:27.000Z",
+        "updatedAt": "2021-06-02T06:55:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "metronome": {
+        "authors": [
+          "LEE Won-Jin"
+        ],
+        "identifier": "metronome",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Metronome (LEE Won-Jin)",
+        "url": "https://mangasee123.com/manga/Metronome",
+        "image": "https://cover.nep.li/cover/Metronome.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42835,
+        "aniId": 72835,
+        "createdAt": "2021-05-08T22:17:23.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

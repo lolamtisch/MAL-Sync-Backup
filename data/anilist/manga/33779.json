@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Sweety"
+  ],
+  "authors": [
+    "Jae Sung Park",
+    "Ju-Ri Kim"
+  ],
+  "id": 33779,
+  "malId": 3779,
+  "type": "manga",
+  "title": "Sweety",
+  "url": "https://anilist.co/manga/33779",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3779.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a": {
+        "authors": [
+          "Kim Ju-Ri",
+          "Park Jae-Sung"
+        ],
+        "identifier": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sweety",
+        "url": "https://mangadex.org/title/5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
+        "image": "https://uploads.mangadex.org/covers/5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a/0d37b223-888f-4cf5-8000-ef6ae6ea4f18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3779,
+        "aniId": 33779,
+        "createdAt": "2020-10-12T16:04:43.000Z",
+        "updatedAt": "2021-06-02T22:56:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

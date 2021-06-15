@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "春の子"
+  ],
+  "authors": [
+    "Machi Yoso"
+  ],
+  "id": 105490,
+  "malId": null,
+  "type": "manga",
+  "title": "Haru no Ko",
+  "url": "https://anilist.co/manga/105490",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105490-Zc9qrYekTLdc.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T13:19:57.000Z",
+  "updatedAt": "2021-06-04T13:19:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d508e36-0953-4bda-abc6-3270b1a667bd": {
+        "authors": [
+          "Yoso Machi"
+        ],
+        "identifier": "7d508e36-0953-4bda-abc6-3270b1a667bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haru no Ko",
+        "url": "https://mangadex.org/title/7d508e36-0953-4bda-abc6-3270b1a667bd",
+        "image": "https://uploads.mangadex.org/covers/7d508e36-0953-4bda-abc6-3270b1a667bd/9f1dd2f9-720e-49ea-b055-d23c64b574d0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 105490,
+        "createdAt": "2020-10-12T16:08:50.000Z",
+        "updatedAt": "2021-06-04T13:24:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

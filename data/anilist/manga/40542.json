@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ミカるんX",
+    "Mika Run X",
+    "Mikarun Xross"
+  ],
+  "authors": [
+    "Rui Takatou"
+  ],
+  "id": 40542,
+  "malId": 10542,
+  "type": "manga",
+  "title": "Mikarun X",
+  "url": "https://anilist.co/manga/40542",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40542-cQ411fffwrSD.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:06.000Z",
+  "updatedAt": "2021-05-20T14:41:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "131a4205-f89d-4521-8512-e3f4221dc8a1": {
+        "authors": [
+          "Takatou Rui"
+        ],
+        "identifier": "131a4205-f89d-4521-8512-e3f4221dc8a1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mikarun X",
+        "url": "https://mangadex.org/title/131a4205-f89d-4521-8512-e3f4221dc8a1",
+        "image": "https://uploads.mangadex.org/covers/131a4205-f89d-4521-8512-e3f4221dc8a1/adb04ab0-6381-4bd1-92a7-2f399ad96e0f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10542,
+        "aniId": 40542,
+        "createdAt": "2020-10-12T16:11:28.000Z",
+        "updatedAt": "2021-06-05T08:34:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mikarun_x": {
+        "authors": [],
+        "identifier": "mikarun_x",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mikarun X",
+        "url": "https://manganelo.com/manga/mikarun_x",
+        "image": "https://avt.mkklcdnv6.com/23/t/12-1583486701.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10542,
+        "aniId": 40542,
+        "createdAt": "2020-10-12T16:24:19.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Hero Ticket",
+    "사신소년",
+    "The Boy of Death"
+  ],
+  "authors": [
+    "Lyu"
+  ],
+  "id": 118769,
+  "malId": null,
+  "type": "manga",
+  "title": "Sasinsonyeon",
+  "url": "https://anilist.co/manga/118769",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118769-105GWeG7vzOy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-31T13:23:15.000Z",
+  "updatedAt": "2021-05-31T13:23:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c6c30be6-3ded-428b-8bcf-be81ab8f7d33": {
+        "authors": [
+          "Ryu (류)"
+        ],
+        "identifier": "c6c30be6-3ded-428b-8bcf-be81ab8f7d33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Boy of Death",
+        "url": "https://mangadex.org/title/c6c30be6-3ded-428b-8bcf-be81ab8f7d33",
+        "image": "https://uploads.mangadex.org/covers/c6c30be6-3ded-428b-8bcf-be81ab8f7d33/3eb0d3de-0479-44fb-8120-7d61c1d78536.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118769,
+        "createdAt": "2020-10-12T16:17:17.000Z",
+        "updatedAt": "2021-06-07T07:37:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

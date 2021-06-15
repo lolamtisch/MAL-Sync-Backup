@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Give My Regards to Black Jack",
+    "ブラックジャックによろしく",
+    "Say Hello to Black Jack"
+  ],
+  "authors": [
+    "Shuuhou Sato"
+  ],
+  "id": 31668,
+  "malId": 1668,
+  "type": "manga",
+  "title": "Black Jack ni Yoroshiku",
+  "url": "https://anilist.co/manga/31668",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31668-u4LJzRLkpx6s.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9fca3c19-ac41-4ebf-8735-f4e3becc2b3e": {
+        "authors": [
+          "Sato Shuho"
+        ],
+        "identifier": "9fca3c19-ac41-4ebf-8735-f4e3becc2b3e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Say Hello to Black Jack",
+        "url": "https://mangadex.org/title/9fca3c19-ac41-4ebf-8735-f4e3becc2b3e",
+        "image": "https://uploads.mangadex.org/covers/9fca3c19-ac41-4ebf-8735-f4e3becc2b3e/1dfc144a-e0db-45d5-8be0-2cf0f5e199d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1668,
+        "aniId": 31668,
+        "createdAt": "2020-10-12T16:02:52.000Z",
+        "updatedAt": "2021-06-02T10:03:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

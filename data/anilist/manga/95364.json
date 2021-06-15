@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "K2"
+  ],
+  "authors": [
+    "Kazuo Mafune"
+  ],
+  "id": 95364,
+  "malId": 90825,
+  "type": "manga",
+  "title": "K2",
+  "url": "https://anilist.co/manga/95364",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95364-DPAUqOihvgYv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:07.000Z",
+  "updatedAt": "2021-05-20T14:53:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3618d2f-6d0c-424d-b6bd-ad48829ac27e": {
+        "authors": [
+          "Mafune Kazuo"
+        ],
+        "identifier": "b3618d2f-6d0c-424d-b6bd-ad48829ac27e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "K2",
+        "url": "https://mangadex.org/title/b3618d2f-6d0c-424d-b6bd-ad48829ac27e",
+        "image": "https://uploads.mangadex.org/covers/b3618d2f-6d0c-424d-b6bd-ad48829ac27e/b6aab6c2-7362-4196-a506-187f916e219e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90825,
+        "aniId": 95364,
+        "createdAt": "2020-10-12T16:09:31.000Z",
+        "updatedAt": "2021-06-04T18:09:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

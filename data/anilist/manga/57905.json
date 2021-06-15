@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "みつめていたい",
+    "I Want to Keep Gazing at You"
+  ],
+  "authors": [
+    "Ryou Ikuemi"
+  ],
+  "id": 57905,
+  "malId": 27905,
+  "type": "manga",
+  "title": "Mitsumete Itai",
+  "url": "https://anilist.co/manga/57905",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27905.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:29.000Z",
+  "updatedAt": "2021-05-20T14:47:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "10506c51-8ee3-4eba-beb7-0bb4238a1677": {
+        "authors": [
+          "Ikuemi Ryou"
+        ],
+        "identifier": "10506c51-8ee3-4eba-beb7-0bb4238a1677",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mitsumeteitai",
+        "url": "https://mangadex.org/title/10506c51-8ee3-4eba-beb7-0bb4238a1677",
+        "image": "https://uploads.mangadex.org/covers/10506c51-8ee3-4eba-beb7-0bb4238a1677/a3d0f9d8-911f-4c4f-91c0-ac8fd4f8cb71.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27905,
+        "aniId": 57905,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T13:32:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

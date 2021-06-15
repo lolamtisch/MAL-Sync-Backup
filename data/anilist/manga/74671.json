@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "マダム・プティ",
+    "Madam Petit"
+  ],
+  "authors": [
+    "Shigeru Takao"
+  ],
+  "id": 74671,
+  "malId": 44671,
+  "type": "manga",
+  "title": "Madame Petit",
+  "url": "https://anilist.co/manga/74671",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx74671-EmrdkYot5Dy7.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:01.000Z",
+  "updatedAt": "2021-05-20T14:49:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c85b4086-fd34-4e0c-8b01-b264c2404f6b": {
+        "authors": [
+          "TAKAO Shigeru"
+        ],
+        "identifier": "c85b4086-fd34-4e0c-8b01-b264c2404f6b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Madame Petit",
+        "url": "https://mangadex.org/title/c85b4086-fd34-4e0c-8b01-b264c2404f6b",
+        "image": "https://uploads.mangadex.org/covers/c85b4086-fd34-4e0c-8b01-b264c2404f6b/074a6db9-bf60-48f2-a11e-e7978f3a3342.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44671,
+        "aniId": 74671,
+        "createdAt": "2020-10-12T16:06:28.000Z",
+        "updatedAt": "2021-06-03T19:55:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "madame_petit": {
+        "authors": [],
+        "identifier": "madame_petit",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Madame Petit",
+        "url": "https://manganelo.com/manga/madame_petit",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3612-madame_petit.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44671,
+        "aniId": 74671,
+        "createdAt": "2020-10-12T16:24:13.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

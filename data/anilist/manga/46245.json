@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "セレストブルー"
+  ],
+  "authors": [
+    "Amyuu Sakura"
+  ],
+  "id": 46245,
+  "malId": 16245,
+  "type": "manga",
+  "title": "Celeste Blue",
+  "url": "https://anilist.co/manga/46245",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16245.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:53.000Z",
+  "updatedAt": "2021-05-20T14:43:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "12c3f735-5280-48a3-8ace-9ef4281e487e": {
+        "authors": [
+          "Sakura Amyuu"
+        ],
+        "identifier": "12c3f735-5280-48a3-8ace-9ef4281e487e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Celeste Blue",
+        "url": "https://mangadex.org/title/12c3f735-5280-48a3-8ace-9ef4281e487e",
+        "image": "https://uploads.mangadex.org/covers/12c3f735-5280-48a3-8ace-9ef4281e487e/fcf02342-d429-4823-b503-cb37805e7f0a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16245,
+        "aniId": 46245,
+        "createdAt": "2020-10-12T16:03:57.000Z",
+        "updatedAt": "2021-06-02T17:36:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

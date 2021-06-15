@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "ちるらん 新撰組鎮魂歌",
+    "Chiruran: Shinsengumi Chinkonka",
+    "Requiem of the Shogun",
+    "新撰组镇魂歌"
+  ],
+  "authors": [
+    "Eiji Hashimoto",
+    "Shinya Umemura"
+  ],
+  "id": 82005,
+  "malId": 52005,
+  "type": "manga",
+  "title": "Chiruran: Shinsengumi Requiem",
+  "url": "https://anilist.co/manga/82005",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx82005-hw4GjRGAvcpG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:52.000Z",
+  "updatedAt": "2021-05-20T14:49:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "32dfa44f-1077-4ed2-bedc-b7707788fb1b": {
+        "authors": [
+          "Umemura Shinya",
+          "Hashimoto Eiji"
+        ],
+        "identifier": "32dfa44f-1077-4ed2-bedc-b7707788fb1b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Requiem of the Shinsengumi",
+        "url": "https://mangadex.org/title/32dfa44f-1077-4ed2-bedc-b7707788fb1b",
+        "image": "https://uploads.mangadex.org/covers/32dfa44f-1077-4ed2-bedc-b7707788fb1b/40fe2cf3-ec4f-4245-8cbd-eeb072af1859.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52005,
+        "aniId": 82005,
+        "createdAt": "2020-10-12T16:10:30.000Z",
+        "updatedAt": "2021-06-05T01:09:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

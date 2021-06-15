@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Aの劇場",
+    "Le Theatre de A",
+    "A no Gekijou",
+    "Oeufs d'Ange",
+    "Velvet Going Underground"
+  ],
+  "authors": [
+    "Asumiko Nakamura"
+  ],
+  "id": 72069,
+  "malId": 42069,
+  "type": "manga",
+  "title": "Le Théâtre de A",
+  "url": "https://anilist.co/manga/72069",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx72069-NOtGnGp5q3WK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:50.000Z",
+  "updatedAt": "2021-05-20T14:48:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "adbd4534-3183-4913-b8d2-f9f8850b1a48": {
+        "authors": [
+          "Nakamura Asumiko"
+        ],
+        "identifier": "adbd4534-3183-4913-b8d2-f9f8850b1a48",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Le Thé&acirc;tre de A",
+        "url": "https://mangadex.org/title/adbd4534-3183-4913-b8d2-f9f8850b1a48",
+        "image": "https://uploads.mangadex.org/covers/adbd4534-3183-4913-b8d2-f9f8850b1a48/c59450d5-57fe-4a12-be83-eadcd086f31a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42069,
+        "aniId": 72069,
+        "createdAt": "2020-10-12T16:06:02.000Z",
+        "updatedAt": "2021-06-03T16:41:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

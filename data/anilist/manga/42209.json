@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "約束の家",
+    "The Promised House",
+    "Love Me Darling",
+    "Winter Walk"
+  ],
+  "authors": [
+    "Saika Kunieda"
+  ],
+  "id": 42209,
+  "malId": 12209,
+  "type": "manga",
+  "title": "Yakusoku no Ie",
+  "url": "https://anilist.co/manga/42209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12209.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e64c9da-e42b-499c-ba90-37ccb1271b7a": {
+        "authors": [
+          "Sakai Kunie"
+        ],
+        "identifier": "1e64c9da-e42b-499c-ba90-37ccb1271b7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yakusoku no Ie",
+        "url": "https://mangadex.org/title/1e64c9da-e42b-499c-ba90-37ccb1271b7a",
+        "image": "https://uploads.mangadex.org/covers/1e64c9da-e42b-499c-ba90-37ccb1271b7a/211cf7fd-bca1-42f5-88e3-070b5dd895d4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12209,
+        "aniId": 42209,
+        "createdAt": "2020-10-12T16:03:01.000Z",
+        "updatedAt": "2021-06-02T11:10:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

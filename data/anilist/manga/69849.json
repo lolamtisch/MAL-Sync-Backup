@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "たりたり",
+    "TariTari"
+  ],
+  "authors": [
+    "Tomiyaki Kagisora",
+    "Evergreen",
+    "Tohru Naomura"
+  ],
+  "id": 69849,
+  "malId": 39849,
+  "type": "manga",
+  "title": "Tari Tari",
+  "url": "https://anilist.co/manga/69849",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39849.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:41.000Z",
+  "updatedAt": "2021-05-20T14:48:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b65df83a-afc3-43c9-8bc5-0ba45ea55ed7": {
+        "authors": [
+          "Evergreen",
+          "Kagisora Tomiyaki"
+        ],
+        "identifier": "b65df83a-afc3-43c9-8bc5-0ba45ea55ed7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tari Tari",
+        "url": "https://mangadex.org/title/b65df83a-afc3-43c9-8bc5-0ba45ea55ed7",
+        "image": "https://uploads.mangadex.org/covers/b65df83a-afc3-43c9-8bc5-0ba45ea55ed7/250536c6-6711-49d7-a2db-db3fc04c5b9e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39849,
+        "aniId": 69849,
+        "createdAt": "2020-10-12T16:04:52.000Z",
+        "updatedAt": "2021-06-03T00:06:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Pretty Cure",
+    "ふたりはプリキュア"
+  ],
+  "authors": [
+    "Izumi Toudou",
+    "Futago Kamikita"
+  ],
+  "id": 55921,
+  "malId": 25921,
+  "type": "manga",
+  "title": "Futari wa Precure",
+  "url": "https://anilist.co/manga/55921",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx55921-Bh1aEDyR8zA8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:56.000Z",
+  "updatedAt": "2021-05-20T14:46:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "73375bd1-e944-4edb-af01-5ce19e20c273": {
+        "authors": [
+          "Kamikita Futago",
+          "Todo Izumi"
+        ],
+        "identifier": "73375bd1-e944-4edb-af01-5ce19e20c273",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futari wa PreCure",
+        "url": "https://mangadex.org/title/73375bd1-e944-4edb-af01-5ce19e20c273",
+        "image": "https://uploads.mangadex.org/covers/73375bd1-e944-4edb-af01-5ce19e20c273/8c200f5e-b86b-45e1-b65d-999da2ae4541.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25921,
+        "aniId": 55921,
+        "createdAt": "2020-10-12T16:10:00.000Z",
+        "updatedAt": "2021-06-04T21:37:29.000Z",
+        "deletedAt": null
+      },
+      "0057b2de-1178-46be-a525-f19a2c0fbb2c": {
+        "authors": [
+          "Yuugai Tosho Kikaku (Circle)",
+          "Tanaka Naburo"
+        ],
+        "identifier": "0057b2de-1178-46be-a525-f19a2c0fbb2c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futari wa Precure - Goumon Kan Sosei Hen (Doujinshi)",
+        "url": "https://mangadex.org/title/0057b2de-1178-46be-a525-f19a2c0fbb2c",
+        "image": "https://uploads.mangadex.org/covers/0057b2de-1178-46be-a525-f19a2c0fbb2c/6729e5dc-8a81-48e2-951d-5bd0104cb62b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25921,
+        "aniId": 55921,
+        "createdAt": "2020-10-12T16:20:00.000Z",
+        "updatedAt": "2021-06-07T23:04:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

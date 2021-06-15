@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "誘拐婚"
+  ],
+  "authors": [
+    "Nana Shiiba"
+  ],
+  "id": 123579,
+  "malId": 129568,
+  "type": "manga",
+  "title": "Yuukai Kon",
+  "url": "https://anilist.co/manga/123579",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123579-7TpI8jGoxiTR.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:24.000Z",
+  "updatedAt": "2021-05-20T14:59:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6b71b6ce-43d5-4a2e-87ad-e09adb08652a": {
+        "authors": [
+          "Shiiba Nana"
+        ],
+        "identifier": "6b71b6ce-43d5-4a2e-87ad-e09adb08652a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuukaikon",
+        "url": "https://mangadex.org/title/6b71b6ce-43d5-4a2e-87ad-e09adb08652a",
+        "image": "https://uploads.mangadex.org/covers/6b71b6ce-43d5-4a2e-87ad-e09adb08652a/18039c5a-440e-4641-8375-da8a9ab78a25.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 129568,
+        "aniId": 123579,
+        "createdAt": "2020-10-12T16:20:11.000Z",
+        "updatedAt": "2021-06-08T07:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tp925950": {
+        "authors": [
+          "Shiiba",
+          "Nana"
+        ],
+        "identifier": "tp925950",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yuukaikon",
+        "url": "https://manganelo.com/manga/tp925950",
+        "image": "https://avt.mkklcdnv6temp.com/38/a/23-1615046562.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129568,
+        "aniId": 123579,
+        "createdAt": "2021-03-06T17:02:46.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

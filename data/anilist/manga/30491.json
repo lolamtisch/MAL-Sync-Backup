@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Qwan",
+    "怪・力・乱・神クワン",
+    "Quwan",
+    "Kairikiranshin Kuwan"
+  ],
+  "authors": [
+    "Aki Shimizu"
+  ],
+  "id": 30491,
+  "malId": 491,
+  "type": "manga",
+  "title": "Kai Riki Ran Shin Quan",
+  "url": "https://anilist.co/manga/30491",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30491-A8Mh97PRV2Ee.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7e01d226-1909-4f13-987f-0ff76794cedb": {
+        "authors": [
+          "Shimizu Aki"
+        ],
+        "identifier": "7e01d226-1909-4f13-987f-0ff76794cedb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Qwan",
+        "url": "https://mangadex.org/title/7e01d226-1909-4f13-987f-0ff76794cedb",
+        "image": "https://uploads.mangadex.org/covers/7e01d226-1909-4f13-987f-0ff76794cedb/06633448-37e2-4645-8620-ef5e4a3d5703.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 491,
+        "aniId": 30491,
+        "createdAt": "2020-10-12T16:05:17.000Z",
+        "updatedAt": "2021-06-03T11:33:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "qwan": {
+        "authors": [],
+        "identifier": "qwan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Qwan",
+        "url": "https://manganelo.com/manga/qwan",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1758-qwan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 491,
+        "aniId": 30491,
+        "createdAt": "2020-10-12T16:25:01.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

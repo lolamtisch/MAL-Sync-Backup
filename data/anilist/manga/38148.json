@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "僕といっしょ",
+    "Together with Me"
+  ],
+  "authors": [
+    "Minoru Furuya"
+  ],
+  "id": 38148,
+  "malId": 8148,
+  "type": "manga",
+  "title": "Boku to Issho",
+  "url": "https://anilist.co/manga/38148",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38148-GpBGxehgKdcP.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:58.000Z",
+  "updatedAt": "2021-05-20T14:39:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6770441-2ade-48c6-9887-a7d448407485": {
+        "authors": [
+          "Furuya Minoru"
+        ],
+        "identifier": "d6770441-2ade-48c6-9887-a7d448407485",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku to Issho",
+        "url": "https://mangadex.org/title/d6770441-2ade-48c6-9887-a7d448407485",
+        "image": "https://uploads.mangadex.org/covers/d6770441-2ade-48c6-9887-a7d448407485/d21cab24-73e2-421a-8099-91e00323364c.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8148,
+        "aniId": 38148,
+        "createdAt": "2020-10-12T16:02:45.000Z",
+        "updatedAt": "2021-06-02T09:12:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "boku-to-issho": {
+        "authors": [
+          "FURUYA Minoru"
+        ],
+        "identifier": "boku-to-issho",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Boku to Issho",
+        "url": "https://mangasee123.com/manga/Boku-To-Issho",
+        "image": "https://cover.nep.li/cover/Boku-To-Issho.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8148,
+        "aniId": 38148,
+        "createdAt": "2021-03-05T05:21:15.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Little Butterfly",
+    "リトル・バタフライ"
+  ],
+  "authors": [
+    "Takanaga, Hinako"
+  ],
+  "id": 284,
+  "type": "manga",
+  "title": "Little Butterfly",
+  "url": "https://myanimelist.net/manga/284/Little_Butterfly",
+  "image": "https://cdn.myanimelist.net/images/manga/4/25450.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:20.000Z",
+  "updatedAt": "2021-06-04T04:20:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2e90d449-072d-4ecf-94f3-115a24349341": {
+        "authors": [
+          "Takanaga Hinako"
+        ],
+        "identifier": "2e90d449-072d-4ecf-94f3-115a24349341",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Little Butterfly",
+        "url": "https://mangadex.org/title/2e90d449-072d-4ecf-94f3-115a24349341",
+        "image": "https://uploads.mangadex.org/covers/2e90d449-072d-4ecf-94f3-115a24349341/1376d130-8723-4c65-831c-acce4684c8f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 284,
+        "aniId": 30284,
+        "createdAt": "2020-10-12T16:07:37.000Z",
+        "updatedAt": "2021-06-04T08:46:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "little_butterfly": {
+        "authors": [
+          "TAKANAGA Hinako"
+        ],
+        "identifier": "little_butterfly",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Little Butterfly",
+        "url": "https://fanfox.net/manga/little_butterfly/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2514/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 284,
+        "aniId": 30284,
+        "createdAt": "2020-12-30T17:32:34.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

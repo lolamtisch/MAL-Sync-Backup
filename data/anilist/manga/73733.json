@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Summer blue"
+  ],
+  "authors": [
+    "Shiki Awafuji"
+  ],
+  "id": 73733,
+  "malId": 43733,
+  "type": "manga",
+  "title": "Summer Blue",
+  "url": "https://anilist.co/manga/73733",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43733.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:58.000Z",
+  "updatedAt": "2021-05-20T14:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d16af09c-4de8-4867-894a-8fa40d74facb": {
+        "authors": [
+          "AWAFUJI Shiki"
+        ],
+        "identifier": "d16af09c-4de8-4867-894a-8fa40d74facb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Summer Blue",
+        "url": "https://mangadex.org/title/d16af09c-4de8-4867-894a-8fa40d74facb",
+        "image": "https://uploads.mangadex.org/covers/d16af09c-4de8-4867-894a-8fa40d74facb/8b7e979b-7609-4898-b653-919f5fc46dff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43733,
+        "aniId": 73733,
+        "createdAt": "2020-10-12T16:09:19.000Z",
+        "updatedAt": "2021-06-04T16:42:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

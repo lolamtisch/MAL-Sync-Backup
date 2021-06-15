@@ -1,0 +1,51 @@
+{
+  "identifier": "4222",
+  "type": "anime",
+  "page": "animepahe",
+  "title": "Given Movie",
+  "url": "https://pahe.win/a/4222",
+  "image": "https://i.animepahe.com/posters/78b52fafe61b8aeba8633c6ca7bec93e76a95a44776bea0c1b6b4df695a2f142.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 40421,
+  "aniId": 111734,
+  "createdAt": "2021-01-07T08:35:46.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Eiga Given",
+      "映画 ギヴン"
+    ],
+    "id": 40421,
+    "type": "anime",
+    "title": "Given Movie",
+    "url": "https://myanimelist.net/anime/40421/Given_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1648/111422.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:12.000Z",
+    "updatedAt": "2021-04-13T02:45:48.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Given The Movie",
+      "映画 ギヴン"
+    ],
+    "id": 111734,
+    "malId": 40421,
+    "type": "anime",
+    "title": "Given Movie",
+    "url": "https://anilist.co/anime/111734",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111734-82sWJBotlzE8.png",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:45:58.000Z",
+    "updatedAt": "2021-05-20T14:45:58.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/40421/Given_Movie"
+}

@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "五月の花はまだ咲かない",
+    "May Flowers Are Not Blooming Yet",
+    "五月之花尚未绽放",
+    "5-gatsu no Hana wa mada Sakanai"
+  ],
+  "authors": [
+    "Riko Sakura"
+  ],
+  "id": 101221,
+  "malId": 112554,
+  "type": "manga",
+  "title": "Gogatsu no Hana wa Made Sakanai",
+  "url": "https://anilist.co/manga/101221",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101221-LnkC7YI2fhHc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:55.000Z",
+  "updatedAt": "2021-06-05T14:21:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96d25fe8-8a25-43b3-9f38-66e32c9f19ae": {
+        "authors": [
+          "Sakura Rico"
+        ],
+        "identifier": "96d25fe8-8a25-43b3-9f38-66e32c9f19ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gogatsu no Hana wa Mada Sakanai",
+        "url": "https://mangadex.org/title/96d25fe8-8a25-43b3-9f38-66e32c9f19ae",
+        "image": "https://uploads.mangadex.org/covers/96d25fe8-8a25-43b3-9f38-66e32c9f19ae/fec3e682-bbc4-4651-92a4-d0e82710a63e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112554,
+        "aniId": 101221,
+        "createdAt": "2020-10-12T16:12:20.000Z",
+        "updatedAt": "2021-06-05T15:30:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gogatsu_no_hana_wa_made_sakanai": {
+        "authors": [
+          "Sakura",
+          "Riko"
+        ],
+        "identifier": "gogatsu_no_hana_wa_made_sakanai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Gogatsu No Hana Wa Made Sakanai",
+        "url": "https://manganelo.com/manga/gogatsu_no_hana_wa_made_sakanai",
+        "image": "https://avt.mkklcdnv6temp.com/13/j/16-1583493955.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112554,
+        "aniId": 101221,
+        "createdAt": "2021-05-14T16:55:03.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

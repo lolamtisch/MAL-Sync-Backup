@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Lady Love"
+  ],
+  "authors": [
+    "Hiromu Ono"
+  ],
+  "id": 87912,
+  "malId": 55169,
+  "type": "manga",
+  "title": "Lady Love",
+  "url": "https://anilist.co/manga/87912",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/87912-0JKUMEyFfeh5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:02.000Z",
+  "updatedAt": "2021-05-20T14:50:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "47440d76-3dc9-45c3-aef5-1fc8267d04e9": {
+        "authors": [
+          "Chon Kye Young"
+        ],
+        "identifier": "47440d76-3dc9-45c3-aef5-1fc8267d04e9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Alarm",
+        "url": "https://mangadex.org/title/47440d76-3dc9-45c3-aef5-1fc8267d04e9",
+        "image": "https://uploads.mangadex.org/covers/47440d76-3dc9-45c3-aef5-1fc8267d04e9/d7cd6099-b4f5-4a12-80cc-651b8f54605d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55169,
+        "aniId": 87912,
+        "createdAt": "2020-10-12T16:18:22.000Z",
+        "updatedAt": "2021-06-07T16:23:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

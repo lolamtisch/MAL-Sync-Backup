@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Touch Me and Melt Me",
+    "さわって、とかして。",
+    "Sawatte Tokashite"
+  ],
+  "authors": [
+    "Mebaru Kobato"
+  ],
+  "id": 42867,
+  "malId": 12867,
+  "type": "manga",
+  "title": "Sawatte, Tokashite.",
+  "url": "https://anilist.co/manga/42867",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12867.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:26.000Z",
+  "updatedAt": "2021-05-20T14:42:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e9077841-1d1e-4b06-8b53-2f0582c5161e": {
+        "authors": [
+          "Kobato Mebaru"
+        ],
+        "identifier": "e9077841-1d1e-4b06-8b53-2f0582c5161e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sawatte, Tokashite",
+        "url": "https://mangadex.org/title/e9077841-1d1e-4b06-8b53-2f0582c5161e",
+        "image": "https://uploads.mangadex.org/covers/e9077841-1d1e-4b06-8b53-2f0582c5161e/12625635-c397-490d-8bb4-8485c62f9a5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12867,
+        "aniId": 42867,
+        "createdAt": "2020-10-12T16:18:44.000Z",
+        "updatedAt": "2021-06-07T19:47:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

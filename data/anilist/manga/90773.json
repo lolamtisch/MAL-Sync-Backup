@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "PACT パクト"
+  ],
+  "authors": [
+    "Shinnosuke Kuji"
+  ],
+  "id": 90773,
+  "malId": 68073,
+  "type": "manga",
+  "title": "Pact",
+  "url": "https://anilist.co/manga/90773",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90773-jTqsT6HO3XNP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:00.000Z",
+  "updatedAt": "2021-05-20T14:51:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "518faa34-1e7c-4424-b93e-66203d85f00b": {
+        "authors": [
+          "KUJI Shinnosuke"
+        ],
+        "identifier": "518faa34-1e7c-4424-b93e-66203d85f00b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pact",
+        "url": "https://mangadex.org/title/518faa34-1e7c-4424-b93e-66203d85f00b",
+        "image": "https://uploads.mangadex.org/covers/518faa34-1e7c-4424-b93e-66203d85f00b/da396cd6-8795-4fe4-b6e8-4a49c2c1130f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68073,
+        "aniId": 90773,
+        "createdAt": "2020-10-12T16:07:53.000Z",
+        "updatedAt": "2021-06-04T05:59:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

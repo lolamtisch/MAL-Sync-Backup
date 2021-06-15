@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "サーク・アラクニ"
+  ],
+  "authors": [
+    "Nika Saida"
+  ],
+  "id": 64525,
+  "malId": 34525,
+  "type": "manga",
+  "title": "Cirque Arachne",
+  "url": "https://anilist.co/manga/64525",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/34525.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:59.000Z",
+  "updatedAt": "2021-05-20T14:47:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31e57876-6edd-4e5e-8655-1f43b0c275dc": {
+        "authors": [
+          "Saida Nika"
+        ],
+        "identifier": "31e57876-6edd-4e5e-8655-1f43b0c275dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cirque Arachne",
+        "url": "https://mangadex.org/title/31e57876-6edd-4e5e-8655-1f43b0c275dc",
+        "image": "https://uploads.mangadex.org/covers/31e57876-6edd-4e5e-8655-1f43b0c275dc/963fde7c-b2d7-46fd-99f0-85545a5c998c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34525,
+        "aniId": 64525,
+        "createdAt": "2020-10-12T16:04:30.000Z",
+        "updatedAt": "2021-06-02T21:25:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cirque_arachne": {
+        "authors": [],
+        "identifier": "cirque_arachne",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cirque Arachne",
+        "url": "https://manganelo.com/manga/cirque_arachne",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7262-cirque_arachne.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34525,
+        "aniId": 64525,
+        "createdAt": "2020-10-12T16:22:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

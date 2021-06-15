@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ブラックサンタのクリスマス",
+    "Dark Santa"
+  ],
+  "authors": [
+    "Pageratta"
+  ],
+  "id": 122849,
+  "malId": null,
+  "type": "manga",
+  "title": "Black Santa no Christmas",
+  "url": "https://anilist.co/manga/122849",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122849-EUpUG1d8TlUm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T04:51:10.000Z",
+  "updatedAt": "2021-06-07T04:51:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1408bbe5-e7d8-4c10-97ea-d4df7fa972b2": {
+        "authors": [
+          "Pageratta"
+        ],
+        "identifier": "1408bbe5-e7d8-4c10-97ea-d4df7fa972b2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dark Santa",
+        "url": "https://mangadex.org/title/1408bbe5-e7d8-4c10-97ea-d4df7fa972b2",
+        "image": "https://uploads.mangadex.org/covers/1408bbe5-e7d8-4c10-97ea-d4df7fa972b2/d6036c9a-edb4-4b36-ac8c-7aff9589ab16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122849,
+        "createdAt": "2020-10-12T16:17:04.000Z",
+        "updatedAt": "2021-06-07T07:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

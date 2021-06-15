@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "血黑犬",
+    "Xueheiquan"
+  ],
+  "authors": [
+    "Xiao Sha Long",
+    "Guiyu Zi"
+  ],
+  "id": 91221,
+  "malId": 70657,
+  "type": "manga",
+  "title": "Black Dog",
+  "url": "https://anilist.co/manga/91221",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91221-1mP7rYYeOa9N.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:32.000Z",
+  "updatedAt": "2021-05-31T10:30:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eac73a7e-5dc2-46d1-98aa-c8a398686fcf": {
+        "authors": [
+          "Gui Yu Zi",
+          "Xiao Sha Long"
+        ],
+        "identifier": "eac73a7e-5dc2-46d1-98aa-c8a398686fcf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Dog",
+        "url": "https://mangadex.org/title/eac73a7e-5dc2-46d1-98aa-c8a398686fcf",
+        "image": "https://uploads.mangadex.org/covers/eac73a7e-5dc2-46d1-98aa-c8a398686fcf/f5d0b1f6-66d6-40f2-8ebf-b6194a003afc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70657,
+        "aniId": 91221,
+        "createdAt": "2020-10-12T16:07:08.000Z",
+        "updatedAt": "2021-06-04T00:34:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "black_dog": {
+        "authors": [],
+        "identifier": "black_dog",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Black Dog",
+        "url": "https://manganelo.com/manga/black_dog",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/967-black_dog.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70657,
+        "aniId": 91221,
+        "createdAt": "2020-10-12T16:22:17.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "black-dog": {
+        "authors": [
+          "Gui Yu Zi",
+          "Xiao Sha Long"
+        ],
+        "identifier": "black-dog",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Black Dog",
+        "url": "https://mangasee123.com/manga/Black-Dog",
+        "image": "https://cover.nep.li/cover/Black-Dog.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70657,
+        "aniId": 91221,
+        "createdAt": "2021-03-05T05:21:24.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

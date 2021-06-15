@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Phoenix",
+    "火の鳥",
+    "Phénix - L'oiseau de feu"
+  ],
+  "authors": [
+    "Osamu Tezuka",
+    "Frederik Schodt"
+  ],
+  "id": 31325,
+  "malId": 1325,
+  "type": "manga",
+  "title": "Hi no Tori",
+  "url": "https://anilist.co/manga/31325",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31325-n1n3iHr1K6xH.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:43.000Z",
+  "updatedAt": "2021-06-09T01:25:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc647d62-3a2c-474b-ac4e-844256ab185d": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "cc647d62-3a2c-474b-ac4e-844256ab185d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hi no Tori",
+        "url": "https://mangadex.org/title/cc647d62-3a2c-474b-ac4e-844256ab185d",
+        "image": "https://uploads.mangadex.org/covers/cc647d62-3a2c-474b-ac4e-844256ab185d/183a57e9-a1dd-402a-b56e-c327e6690565.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1325,
+        "aniId": 31325,
+        "createdAt": "2020-10-12T16:15:21.000Z",
+        "updatedAt": "2021-06-06T13:01:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hi_no_tori": {
+        "authors": [],
+        "identifier": "hi_no_tori",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hi no Tori",
+        "url": "https://manganelo.com/manga/hi_no_tori",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4343-hi_no_tori.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1325,
+        "aniId": 31325,
+        "createdAt": "2020-10-12T16:23:20.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

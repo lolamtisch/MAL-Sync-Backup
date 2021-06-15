@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "盾の勇者のとある一日",
+    "A Day in the Life of the Shield Hero"
+  ],
+  "authors": [
+    "Aneko Yusagi",
+    "Seira Minami",
+    "Akagashi"
+  ],
+  "id": 107845,
+  "malId": 115900,
+  "type": "manga",
+  "title": "Tate no Yuusha no Toaru Ichinichi",
+  "url": "https://anilist.co/manga/107845",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107845-4ugM9DKccnlV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:20.000Z",
+  "updatedAt": "2021-05-20T14:57:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7df1f449-d3e9-4507-9fb3-18d6238d76fa": {
+        "authors": [
+          "Aneko Yusagi",
+          "Akagashi"
+        ],
+        "identifier": "7df1f449-d3e9-4507-9fb3-18d6238d76fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tate no Yuusha no Toaru Ichinichi",
+        "url": "https://mangadex.org/title/7df1f449-d3e9-4507-9fb3-18d6238d76fa",
+        "image": "https://uploads.mangadex.org/covers/7df1f449-d3e9-4507-9fb3-18d6238d76fa/4b89b629-dbdb-4dc6-9e25-3dbff6cc763a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115900,
+        "aniId": 107845,
+        "createdAt": "2020-10-12T16:14:01.000Z",
+        "updatedAt": "2021-06-06T01:43:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "op919661": {
+        "authors": [],
+        "identifier": "op919661",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "A Day in the Life of the Shield Hero",
+        "url": "https://manganelo.com/manga/op919661",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1065-op919661.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115900,
+        "aniId": 107845,
+        "createdAt": "2020-10-12T16:24:43.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tate_no_yuusha_no_to_aru_ichinichi": {
+        "authors": [
+          "ANEKO Yusagi"
+        ],
+        "identifier": "tate_no_yuusha_no_to_aru_ichinichi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tate no Yuusha no to aru Ichinichi",
+        "url": "https://fanfox.net/manga/tate_no_yuusha_no_to_aru_ichinichi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29520/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115900,
+        "aniId": 107845,
+        "createdAt": "2021-04-12T03:21:26.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

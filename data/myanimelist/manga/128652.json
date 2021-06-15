@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "The Future Starts Today",
+    "今日から未来"
+  ],
+  "authors": [
+    "Yoshitomi, Akihito"
+  ],
+  "id": 128652,
+  "type": "manga",
+  "title": "Kyou kara Mirai",
+  "url": "https://myanimelist.net/manga/128652/Kyou_kara_Mirai",
+  "image": "https://cdn.myanimelist.net/images/manga/2/234728.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-11-20T22:51:16.000Z",
+  "updatedAt": "2021-06-02T22:31:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a42c3990-b766-4543-a002-260996ebce15": {
+        "authors": [
+          "Yoshitomi Akihito"
+        ],
+        "identifier": "a42c3990-b766-4543-a002-260996ebce15",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kyou Kara Mirai",
+        "url": "https://mangadex.org/title/a42c3990-b766-4543-a002-260996ebce15",
+        "image": "https://uploads.mangadex.org/covers/a42c3990-b766-4543-a002-260996ebce15/800ab5cd-59a0-43d3-b287-069ae1416818.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128652,
+        "aniId": 112650,
+        "createdAt": "2020-10-12T16:20:48.000Z",
+        "updatedAt": "2021-06-08T00:57:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyou_kara_mirai": {
+        "authors": [
+          "YOSHITOMI Akihito"
+        ],
+        "identifier": "kyou_kara_mirai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyou Kara Mirai",
+        "url": "https://fanfox.net/manga/kyou_kara_mirai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34902/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128652,
+        "aniId": 112650,
+        "createdAt": "2021-03-23T06:06:29.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ib985984": {
+        "authors": [
+          "Yoshitomi Akihito"
+        ],
+        "identifier": "manga-ib985984",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kyou Kara Mirai",
+        "url": "https://manganato.com/manga-ib985984",
+        "image": "https://avt.mkklcdnv6temp.com/38/w/21-1595822397.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128652,
+        "aniId": 112650,
+        "createdAt": "2021-06-02T22:31:01.000Z",
+        "updatedAt": "2021-06-02T23:00:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

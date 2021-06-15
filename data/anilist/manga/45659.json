@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "春よ恋",
+    "Haruyo Koi"
+  ],
+  "authors": [
+    "Neneko Narazaki"
+  ],
+  "id": 45659,
+  "malId": 15659,
+  "type": "manga",
+  "title": "Haru yo Koi",
+  "url": "https://anilist.co/manga/45659",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15659.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:47.000Z",
+  "updatedAt": "2021-05-20T14:43:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4beceeb0-6f0e-4817-a240-2c7f7b68cbf9": {
+        "authors": [
+          "Narazaki Neneko"
+        ],
+        "identifier": "4beceeb0-6f0e-4817-a240-2c7f7b68cbf9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haru yo Koi",
+        "url": "https://mangadex.org/title/4beceeb0-6f0e-4817-a240-2c7f7b68cbf9",
+        "image": "https://uploads.mangadex.org/covers/4beceeb0-6f0e-4817-a240-2c7f7b68cbf9/0b49f965-ec43-46ef-8b82-b9a6cc9cb94a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15659,
+        "aniId": 45659,
+        "createdAt": "2020-10-12T16:17:46.000Z",
+        "updatedAt": "2021-06-07T10:52:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

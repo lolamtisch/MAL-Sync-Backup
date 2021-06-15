@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "オゲハ"
+  ],
+  "authors": [
+    "oimo"
+  ],
+  "id": 96456,
+  "type": "manga",
+  "title": "Ogeha",
+  "url": "https://myanimelist.net/manga/96456/Ogeha",
+  "image": "https://cdn.myanimelist.net/images/manga/1/173379.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:25.000Z",
+  "updatedAt": "2021-04-13T21:45:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "619cf70e-6444-4505-a2c8-a65d300fd4e5": {
+        "authors": [
+          "Oimo"
+        ],
+        "identifier": "619cf70e-6444-4505-a2c8-a65d300fd4e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ogeha",
+        "url": "https://mangadex.org/title/619cf70e-6444-4505-a2c8-a65d300fd4e5",
+        "image": "https://uploads.mangadex.org/covers/619cf70e-6444-4505-a2c8-a65d300fd4e5/709e3a52-4712-4d9f-9789-9061deb106ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96456,
+        "aniId": 96821,
+        "createdAt": "2020-10-12T16:09:40.000Z",
+        "updatedAt": "2021-06-04T19:07:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ogeha1": {
+        "authors": [
+          "Oimo"
+        ],
+        "identifier": "ogeha1",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ogeha",
+        "url": "https://manganelo.com/manga/ogeha1",
+        "image": "https://avt.mkklcdnv6temp.com/10/e/14-1583490105.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96456,
+        "aniId": 96821,
+        "createdAt": "2021-04-13T21:45:28.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ogeha": {
+        "authors": [
+          "Oimo"
+        ],
+        "identifier": "ogeha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ogeha",
+        "url": "https://fanfox.net/manga/ogeha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21029/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96456,
+        "aniId": 96821,
+        "createdAt": "2021-04-22T06:29:31.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

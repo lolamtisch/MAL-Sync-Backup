@@ -1,0 +1,38 @@
+{
+  "altTitle": [
+    "Hacka Doll",
+    "ハッカドール"
+  ],
+  "id": 102337,
+  "malId": 25943,
+  "type": "anime",
+  "title": "Hacka Doll",
+  "url": "https://anilist.co/anime/102337",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102337-mf8hAQvCh3Fl.jpg",
+  "category": "special",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:38.000Z",
+  "updatedAt": "2021-05-20T14:41:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Aniwatch": {
+      "1238": {
+        "identifier": "1238",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Hacka Doll The Animation",
+        "url": "https://aniwatch.me/anime/1238",
+        "image": "https://img.aniwatch.me/8AC9D11EB6728AA35DA13D379170A46F",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25943,
+        "aniId": 102337,
+        "createdAt": "2020-10-12T15:57:49.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

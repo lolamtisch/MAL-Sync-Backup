@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Closer Than One Centimeter",
+    "Warui Koto Shimasho.",
+    "1センチよりも近く"
+  ],
+  "authors": [
+    "Ishizawa, Umi"
+  ],
+  "id": 101121,
+  "type": "manga",
+  "title": "1 cm yori mo Chikaku",
+  "url": "https://myanimelist.net/manga/101121/1_cm_yori_mo_Chikaku",
+  "image": "https://cdn.myanimelist.net/images/manga/2/190424.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:42.000Z",
+  "updatedAt": "2020-12-31T12:50:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "839941d6-fb4a-4de9-b240-fdc06c8d8611": {
+        "authors": [
+          "Ishizawa Umi"
+        ],
+        "identifier": "839941d6-fb4a-4de9-b240-fdc06c8d8611",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "1-Senchi yori mo Chikaku",
+        "url": "https://mangadex.org/title/839941d6-fb4a-4de9-b240-fdc06c8d8611",
+        "image": "https://uploads.mangadex.org/covers/839941d6-fb4a-4de9-b240-fdc06c8d8611/ba9fd4a5-5b22-4b47-a516-7bea6aeee935.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101121,
+        "aniId": 101533,
+        "createdAt": "2020-10-12T16:09:54.000Z",
+        "updatedAt": "2021-06-04T20:55:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "1_senchi_yori_mo_chikaku": {
+        "authors": [
+          "ISHIZAWA Umi"
+        ],
+        "identifier": "1_senchi_yori_mo_chikaku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "1-Senchi yori mo chikaku",
+        "url": "https://fanfox.net/manga/1_senchi_yori_mo_chikaku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36953/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 101121,
+        "aniId": 101533,
+        "createdAt": "2020-12-31T12:50:57.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

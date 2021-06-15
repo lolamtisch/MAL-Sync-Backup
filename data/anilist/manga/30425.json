@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Psycho Busters",
+    "サイコバスターズ"
+  ],
+  "authors": [
+    "Shin Kibayashi",
+    "Nao Akinari",
+    "Rando Ayamine"
+  ],
+  "id": 30425,
+  "malId": 425,
+  "type": "manga",
+  "title": "Psycho Busters",
+  "url": "https://anilist.co/manga/30425",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30425-IL3ikB7ea550.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cda5f8d4-1898-4c86-9d1b-320fa5fc427d": {
+        "authors": [
+          "AOKI Yuuya",
+          "NAO Akinari"
+        ],
+        "identifier": "cda5f8d4-1898-4c86-9d1b-320fa5fc427d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Psycho Busters",
+        "url": "https://mangadex.org/title/cda5f8d4-1898-4c86-9d1b-320fa5fc427d",
+        "image": "https://uploads.mangadex.org/covers/cda5f8d4-1898-4c86-9d1b-320fa5fc427d/44a5d430-3f1e-4327-814b-45c6e1d25a0b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 425,
+        "aniId": 30425,
+        "createdAt": "2020-10-12T16:02:38.000Z",
+        "updatedAt": "2021-06-02T08:26:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "psycho-busters": {
+        "authors": [
+          "AOKI Yuuya",
+          "NAO Akinari"
+        ],
+        "identifier": "psycho-busters",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Psycho Busters",
+        "url": "https://mangasee123.com/manga/Psycho-Busters",
+        "image": "https://cover.nep.li/cover/Psycho-Busters.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 425,
+        "aniId": 30425,
+        "createdAt": "2021-02-07T12:50:19.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

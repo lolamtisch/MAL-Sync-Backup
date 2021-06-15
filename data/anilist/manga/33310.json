@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "クリムゾングレイヴ"
+  ],
+  "authors": [
+    "Taishi Miyake"
+  ],
+  "id": 33310,
+  "malId": 3310,
+  "type": "manga",
+  "title": "Crimson Grave",
+  "url": "https://anilist.co/manga/33310",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3310.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1921a8ca-e9af-417a-beda-b02760a05e44": {
+        "authors": [
+          "Miyake Taishi"
+        ],
+        "identifier": "1921a8ca-e9af-417a-beda-b02760a05e44",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Crimson Grave",
+        "url": "https://mangadex.org/title/1921a8ca-e9af-417a-beda-b02760a05e44",
+        "image": "https://uploads.mangadex.org/covers/1921a8ca-e9af-417a-beda-b02760a05e44/2f20ecb0-b731-4d83-abbd-d1ea399c553d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3310,
+        "aniId": 33310,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:32:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

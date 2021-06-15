@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "パラダイス・ビュー"
+  ],
+  "authors": [
+    "Lalako Kojima"
+  ],
+  "id": 90587,
+  "malId": 67223,
+  "type": "manga",
+  "title": "Paradise View",
+  "url": "https://anilist.co/manga/90587",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90587-GUp9JC94V92F.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:59.000Z",
+  "updatedAt": "2021-05-20T14:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a812e76d-fca5-45ae-9ba7-11fa15d00be6": {
+        "authors": [
+          "Kojima Lalako"
+        ],
+        "identifier": "a812e76d-fca5-45ae-9ba7-11fa15d00be6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Paradise View",
+        "url": "https://mangadex.org/title/a812e76d-fca5-45ae-9ba7-11fa15d00be6",
+        "image": "https://uploads.mangadex.org/covers/a812e76d-fca5-45ae-9ba7-11fa15d00be6/bc8b9997-6801-400f-b6cb-586caf46e898.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67223,
+        "aniId": 90587,
+        "createdAt": "2020-10-12T16:09:29.000Z",
+        "updatedAt": "2021-06-04T17:56:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "paradise_view": {
+        "authors": [
+          "KOJIMA Lalako"
+        ],
+        "identifier": "paradise_view",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Paradise View",
+        "url": "https://fanfox.net/manga/paradise_view/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18575/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67223,
+        "aniId": 90587,
+        "createdAt": "2021-04-01T13:31:56.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

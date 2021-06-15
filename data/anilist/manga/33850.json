@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "先生のススメ",
+    "Raising Moe"
+  ],
+  "authors": [
+    "Ryou Saenagi"
+  ],
+  "id": 33850,
+  "malId": 3850,
+  "type": "manga",
+  "title": "Sensei no Susume",
+  "url": "https://anilist.co/manga/33850",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3850.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6d8fa202-711e-4f82-816d-1f347f0c5e47": {
+        "authors": [
+          "SAENAGI Ryo"
+        ],
+        "identifier": "6d8fa202-711e-4f82-816d-1f347f0c5e47",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sensei no Susume",
+        "url": "https://mangadex.org/title/6d8fa202-711e-4f82-816d-1f347f0c5e47",
+        "image": "https://uploads.mangadex.org/covers/6d8fa202-711e-4f82-816d-1f347f0c5e47/9d9c6793-98c0-457c-939f-d1222300a04a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3850,
+        "aniId": 33850,
+        "createdAt": "2020-10-12T16:12:55.000Z",
+        "updatedAt": "2021-06-05T17:27:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sensei_no_susume": {
+        "authors": [
+          "SAENAGI Ryou"
+        ],
+        "identifier": "sensei_no_susume",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sensei no Susume",
+        "url": "https://fanfox.net/manga/sensei_no_susume/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3072/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3850,
+        "aniId": 33850,
+        "createdAt": "2021-05-20T23:15:20.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

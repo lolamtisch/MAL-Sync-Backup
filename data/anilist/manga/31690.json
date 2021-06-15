@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "かみちゅ!",
+    "Kami-chu!"
+  ],
+  "authors": [
+    "Hideyuki Kurata",
+    "Hanaharu Naruko",
+    "Taraku Uon",
+    "Besame Mucho"
+  ],
+  "id": 31690,
+  "malId": 1690,
+  "type": "manga",
+  "title": "Kamichu!",
+  "url": "https://anilist.co/manga/31690",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1690.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f2fdd80f-1aa2-416a-83e2-7818bec25cf1": {
+        "authors": [
+          "Kurata Hideyuki",
+          "Naruko Hanaharu"
+        ],
+        "identifier": "f2fdd80f-1aa2-416a-83e2-7818bec25cf1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamichu!",
+        "url": "https://mangadex.org/title/f2fdd80f-1aa2-416a-83e2-7818bec25cf1",
+        "image": "https://uploads.mangadex.org/covers/f2fdd80f-1aa2-416a-83e2-7818bec25cf1/c3649bb4-cf57-43e7-8dd1-aabe3cbb4ca8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1690,
+        "aniId": 31690,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:34:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kamichu": {
+        "authors": [],
+        "identifier": "kamichu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kamichu!",
+        "url": "https://manganelo.com/manga/kamichu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4690-kamichu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1690,
+        "aniId": 31690,
+        "createdAt": "2020-10-12T16:23:49.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

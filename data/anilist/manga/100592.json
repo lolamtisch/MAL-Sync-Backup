@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "からめるハニー"
+  ],
+  "authors": [
+    "Takuhei"
+  ],
+  "id": 100592,
+  "malId": 108799,
+  "type": "manga",
+  "title": "Caramel Honey",
+  "url": "https://anilist.co/manga/100592",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100592-QTzousX87eky.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:00.000Z",
+  "updatedAt": "2021-06-05T02:20:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c4c9c790-62d2-411f-8b57-9b746220dc17": {
+        "authors": [
+          "Takuhei"
+        ],
+        "identifier": "c4c9c790-62d2-411f-8b57-9b746220dc17",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Caramel Honey",
+        "url": "https://mangadex.org/title/c4c9c790-62d2-411f-8b57-9b746220dc17",
+        "image": "https://uploads.mangadex.org/covers/c4c9c790-62d2-411f-8b57-9b746220dc17/d5aab747-68d5-4196-9f60-5a92b8966b6b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108799,
+        "aniId": 100592,
+        "createdAt": "2020-10-12T16:10:38.000Z",
+        "updatedAt": "2021-06-05T08:56:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "caramel_honey": {
+        "authors": [
+          "Takuhei"
+        ],
+        "identifier": "caramel_honey",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Caramel Honey",
+        "url": "https://fanfox.net/manga/caramel_honey/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25639/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108799,
+        "aniId": 100592,
+        "createdAt": "2021-03-28T10:19:06.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "caramel_honey": {
+        "authors": [
+          "Takuhei"
+        ],
+        "identifier": "caramel_honey",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Caramel Honey",
+        "url": "https://manganelo.com/manga/caramel_honey",
+        "image": "https://avt.mkklcdnv6temp.com/31/o/15-1583492711.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108799,
+        "aniId": 100592,
+        "createdAt": "2021-03-28T10:20:40.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

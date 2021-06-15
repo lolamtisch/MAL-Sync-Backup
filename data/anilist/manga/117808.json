@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "金魚の恋",
+    "A Goldfish's Love"
+  ],
+  "authors": [
+    "Ayu Inui"
+  ],
+  "id": 117808,
+  "malId": null,
+  "type": "manga",
+  "title": "Kingyo no Koi",
+  "url": "https://anilist.co/manga/117808",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117808-LfQ1LJZMIStg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T10:19:00.000Z",
+  "updatedAt": "2021-06-07T10:19:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc8576ef-53d4-46bb-8e7c-e9d4edb1ab63": {
+        "authors": [
+          "Inui Ayu"
+        ],
+        "identifier": "bc8576ef-53d4-46bb-8e7c-e9d4edb1ab63",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Goldfish's Love",
+        "url": "https://mangadex.org/title/bc8576ef-53d4-46bb-8e7c-e9d4edb1ab63",
+        "image": "https://uploads.mangadex.org/covers/bc8576ef-53d4-46bb-8e7c-e9d4edb1ab63/0347c326-56dc-4555-9060-ee79aa11bac8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117808,
+        "createdAt": "2020-10-12T16:17:41.000Z",
+        "updatedAt": "2021-06-07T10:28:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

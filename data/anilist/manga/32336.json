@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "DARLING"
+  ],
+  "authors": [
+    "Yuzuha Ougi"
+  ],
+  "id": 32336,
+  "malId": 2336,
+  "type": "manga",
+  "title": "Darling",
+  "url": "https://anilist.co/manga/32336",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2336.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b69a8454-f510-46bd-b781-876272224587": {
+        "authors": [
+          "Ougi Yuzuha"
+        ],
+        "identifier": "b69a8454-f510-46bd-b781-876272224587",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Darling",
+        "url": "https://mangadex.org/title/b69a8454-f510-46bd-b781-876272224587",
+        "image": "https://uploads.mangadex.org/covers/b69a8454-f510-46bd-b781-876272224587/87f474f7-35a0-480a-838b-c3ed0c7638c2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2336,
+        "aniId": 32336,
+        "createdAt": "2020-10-12T16:05:26.000Z",
+        "updatedAt": "2021-06-03T12:40:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nm921344": {
+        "authors": [],
+        "identifier": "nm921344",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "My Darling Ebi Senpai",
+        "url": "https://manganelo.com/manga/nm921344",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2748-nm921344.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2336,
+        "aniId": 32336,
+        "createdAt": "2020-10-12T16:24:33.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ましのアルチ"
+  ],
+  "authors": [
+    "Tadataka Kawasaki"
+  ],
+  "id": 110783,
+  "malId": null,
+  "type": "manga",
+  "title": "Mashino Aruchi",
+  "url": "https://anilist.co/manga/110783",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110783-zGtaBRjFXK3k.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-06T21:50:00.000Z",
+  "updatedAt": "2021-06-06T21:50:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f55010b2-597e-48de-9960-f3b31d80b515": {
+        "authors": [
+          "Kawasaki Tadataka"
+        ],
+        "identifier": "f55010b2-597e-48de-9960-f3b31d80b515",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mashino Aruchi",
+        "url": "https://mangadex.org/title/f55010b2-597e-48de-9960-f3b31d80b515",
+        "image": "https://uploads.mangadex.org/covers/f55010b2-597e-48de-9960-f3b31d80b515/fb725a4f-24a8-48b2-9e15-da137e0ca656.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110783,
+        "createdAt": "2020-10-12T16:16:18.000Z",
+        "updatedAt": "2021-06-09T13:02:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

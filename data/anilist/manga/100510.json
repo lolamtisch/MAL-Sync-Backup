@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "연애가 제일 쉬웠어요",
+    "Dating 101",
+    "Dating Was the Easiest!",
+    "God of Love."
+  ],
+  "authors": [
+    "Tuna Can"
+  ],
+  "id": 100510,
+  "malId": null,
+  "type": "manga",
+  "title": "Yeonaega Jier Swiwosseoyo",
+  "url": "https://anilist.co/manga/100510",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100510-zZtjKlF1kUvr.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T07:19:38.000Z",
+  "updatedAt": "2021-06-04T07:19:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d3e26acf-c5f6-4bb2-97d1-fa8631f52e03": {
+        "authors": [
+          "Tuna Can"
+        ],
+        "identifier": "d3e26acf-c5f6-4bb2-97d1-fa8631f52e03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dating was the Easiest",
+        "url": "https://mangadex.org/title/d3e26acf-c5f6-4bb2-97d1-fa8631f52e03",
+        "image": "https://uploads.mangadex.org/covers/d3e26acf-c5f6-4bb2-97d1-fa8631f52e03/4644200e-4ad8-4b7b-8e5c-2e9a57431ab2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100510,
+        "createdAt": "2020-10-12T16:08:01.000Z",
+        "updatedAt": "2021-06-04T08:51:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

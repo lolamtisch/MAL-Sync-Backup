@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "わたし（仮）",
+    "My Tentative Name"
+  ],
+  "authors": [
+    "Takeru Okutsu"
+  ],
+  "id": 116011,
+  "malId": null,
+  "type": "manga",
+  "title": "Watashi (Kari)",
+  "url": "https://anilist.co/manga/116011",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116011-QS8Fb9HBJKZn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T01:20:10.000Z",
+  "updatedAt": "2021-06-07T01:20:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2d636944-cec1-4a32-81de-f7816a2f50bf": {
+        "authors": [
+          "Okutsu Takeru"
+        ],
+        "identifier": "2d636944-cec1-4a32-81de-f7816a2f50bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Me (Provisional)",
+        "url": "https://mangadex.org/title/2d636944-cec1-4a32-81de-f7816a2f50bf",
+        "image": "https://uploads.mangadex.org/covers/2d636944-cec1-4a32-81de-f7816a2f50bf/7f96e471-a5e8-4ee4-8c1b-7d8c14fce99a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116011,
+        "createdAt": "2020-10-12T16:16:41.000Z",
+        "updatedAt": "2021-06-07T07:33:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

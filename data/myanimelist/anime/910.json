@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Himawari!",
+    "Himawari",
+    "ひまわりっ!"
+  ],
+  "id": 910,
+  "type": "anime",
+  "title": "Himawari!",
+  "url": "https://myanimelist.net/anime/910/Himawari",
+  "image": "https://cdn.myanimelist.net/images/anime/3/10221.jpg",
+  "category": "TV",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:38:10.000Z",
+  "updatedAt": "2021-04-15T13:14:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "j212": {
+        "identifier": "j212",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Himawari!",
+        "url": "https://9anime.ru/watch/himawari.j212",
+        "image": "http://static.akacdn.ru/static/images/2018/04/4cf500d44d72d44be6ed08768decde29.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 910,
+        "aniId": 910,
+        "createdAt": "2020-10-12T15:52:01.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "himawari": {
+        "identifier": "himawari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Himawari!",
+        "url": "https://www.gogoanime.movie/category/himawari",
+        "image": "https://gogocdn.net/cover/himawari.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 910,
+        "aniId": 910,
+        "createdAt": "2020-10-12T16:00:44.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

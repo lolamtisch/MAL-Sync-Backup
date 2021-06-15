@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "野獣先生のメイドさん",
+    "Maid and the Beast"
+  ],
+  "authors": [
+    "Pinko Kurimoto"
+  ],
+  "id": 101825,
+  "malId": 99698,
+  "type": "manga",
+  "title": "Yajuu-sensei no Maid-san",
+  "url": "https://anilist.co/manga/101825",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101825-ntfframoTGbE.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:44.000Z",
+  "updatedAt": "2021-05-20T14:54:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db0cbcfc-24ea-48c9-91e6-562c668e88a5": {
+        "authors": [
+          "KURIMOTO Pinko"
+        ],
+        "identifier": "db0cbcfc-24ea-48c9-91e6-562c668e88a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yajuu Sensei no Maid-san",
+        "url": "https://mangadex.org/title/db0cbcfc-24ea-48c9-91e6-562c668e88a5",
+        "image": "https://uploads.mangadex.org/covers/db0cbcfc-24ea-48c9-91e6-562c668e88a5/4ada7d02-78e0-4a8f-87e7-75323ea728fb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99698,
+        "aniId": 101825,
+        "createdAt": "2020-10-12T16:11:38.000Z",
+        "updatedAt": "2021-06-05T09:57:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yajuu_sensei_no_maidsan": {
+        "authors": [],
+        "identifier": "yajuu_sensei_no_maidsan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yajuu Sensei No Maid-San",
+        "url": "https://manganelo.com/manga/yajuu_sensei_no_maidsan",
+        "image": "https://avt.mkklcdnv6.com/35/h/16-1583494736.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99698,
+        "aniId": 101825,
+        "createdAt": "2020-10-12T16:26:19.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

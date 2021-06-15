@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Pretty Boy Detective Club",
+    "美少年探偵団"
+  ],
+  "authors": [
+    "NISIOISIN",
+    "Suzuka Oda",
+    "Kinako"
+  ],
+  "id": 103100,
+  "malId": 104584,
+  "type": "manga",
+  "title": "Bishounen Tanteidan",
+  "url": "https://anilist.co/manga/103100",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103100-BBrOZR0FNVtM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:12.000Z",
+  "updatedAt": "2021-05-20T14:55:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e7f7a94-69da-4226-9eab-76ee21ca2dd2": {
+        "authors": [
+          "Oda Suzuka",
+          "NisiOisiN"
+        ],
+        "identifier": "3e7f7a94-69da-4226-9eab-76ee21ca2dd2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bishounen Tanteidan",
+        "url": "https://mangadex.org/title/3e7f7a94-69da-4226-9eab-76ee21ca2dd2",
+        "image": "https://uploads.mangadex.org/covers/3e7f7a94-69da-4226-9eab-76ee21ca2dd2/6bc8508f-67a5-4414-b622-89b9635a60f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104584,
+        "aniId": 103100,
+        "createdAt": "2020-10-12T16:12:19.000Z",
+        "updatedAt": "2021-06-05T14:10:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bishounen_tanteidan": {
+        "authors": [],
+        "identifier": "bishounen_tanteidan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bishounen Tanteidan",
+        "url": "https://manganelo.com/manga/bishounen_tanteidan",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20473-bishounen_tanteidan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104584,
+        "aniId": 103100,
+        "createdAt": "2020-10-12T16:22:16.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

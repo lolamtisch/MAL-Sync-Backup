@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "はにめろ。",
+    "Honey Melon",
+    "Hani Mero"
+  ],
+  "authors": [
+    "Shiori Furukawa"
+  ],
+  "id": 69391,
+  "malId": 39391,
+  "type": "manga",
+  "title": "Hanimero.",
+  "url": "https://anilist.co/manga/69391",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39391.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:39.000Z",
+  "updatedAt": "2021-05-20T14:48:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "918d0588-7059-4f8d-9113-b604fcd47458": {
+        "authors": [
+          "FURUKAWA Shiori"
+        ],
+        "identifier": "918d0588-7059-4f8d-9113-b604fcd47458",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanimero",
+        "url": "https://mangadex.org/title/918d0588-7059-4f8d-9113-b604fcd47458",
+        "image": "https://uploads.mangadex.org/covers/918d0588-7059-4f8d-9113-b604fcd47458/3acbb7a5-b4a1-4971-b57b-d7c594063962.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39391,
+        "aniId": 69391,
+        "createdAt": "2020-10-12T16:07:06.000Z",
+        "updatedAt": "2021-06-04T00:21:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hanimero": {
+        "authors": [],
+        "identifier": "hanimero",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hanimero.",
+        "url": "https://manganelo.com/manga/hanimero",
+        "image": "https://avt.mkklcdnv6.com/43/u/1-1583465433.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39391,
+        "aniId": 69391,
+        "createdAt": "2020-10-12T16:23:15.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

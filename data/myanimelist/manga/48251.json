@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "School Idol Project",
+    "ラブライブ！"
+  ],
+  "authors": [
+    "Kimino, Sakurako",
+    "Tokita, Arumi"
+  ],
+  "id": 48251,
+  "type": "manga",
+  "title": "Love Live!",
+  "url": "https://myanimelist.net/manga/48251/Love_Live",
+  "image": "https://cdn.myanimelist.net/images/manga/2/104927.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:30.000Z",
+  "updatedAt": "2021-06-03T08:31:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "084b1a87-72ef-4bd6-b725-3c2a9a0ab5da": {
+        "authors": [
+          "Tokita Arumi",
+          "Kimino Sakurako"
+        ],
+        "identifier": "084b1a87-72ef-4bd6-b725-3c2a9a0ab5da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Live! - School Idol Project",
+        "url": "https://mangadex.org/title/084b1a87-72ef-4bd6-b725-3c2a9a0ab5da",
+        "image": "https://uploads.mangadex.org/covers/084b1a87-72ef-4bd6-b725-3c2a9a0ab5da/6c33f369-b546-46b4-8200-bcb9e6e0ae0e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48251,
+        "aniId": 78251,
+        "createdAt": "2020-10-12T16:07:35.000Z",
+        "updatedAt": "2021-06-04T03:54:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "love_live_school_idol_project": {
+        "authors": [],
+        "identifier": "love_live_school_idol_project",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love Live! - School Idol Project",
+        "url": "https://manganelo.com/manga/love_live_school_idol_project",
+        "image": "https://avt.mkklcdnv6.com/34/o/3-1583469037.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48251,
+        "aniId": 78251,
+        "createdAt": "2020-10-12T16:24:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nr955326": {
+        "authors": [
+          "Kimino Sakurako"
+        ],
+        "identifier": "manga-nr955326",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Love Live! - School Idol Project",
+        "url": "https://readmanganato.com/manga-nr955326",
+        "image": "https://avt.mkklcdnv6temp.com/34/o/3-1583469037.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 48251,
+        "aniId": 78251,
+        "createdAt": "2021-06-03T08:31:01.000Z",
+        "updatedAt": "2021-06-03T08:55:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

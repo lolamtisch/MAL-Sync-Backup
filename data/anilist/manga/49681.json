@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Rei Hiroe"
+  ],
+  "id": 49681,
+  "malId": 19681,
+  "type": "manga",
+  "title": "Shook Up!",
+  "url": "https://anilist.co/manga/49681",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19681.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:23.000Z",
+  "updatedAt": "2021-05-20T14:45:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0def1e39-9adb-438f-a218-a08f8fba40cc": {
+        "authors": [
+          "Hiroe Rei"
+        ],
+        "identifier": "0def1e39-9adb-438f-a218-a08f8fba40cc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shook Up!",
+        "url": "https://mangadex.org/title/0def1e39-9adb-438f-a218-a08f8fba40cc",
+        "image": "https://uploads.mangadex.org/covers/0def1e39-9adb-438f-a218-a08f8fba40cc/dc9960f3-5e1e-4ccd-9472-7e8a9434e784.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19681,
+        "aniId": 49681,
+        "createdAt": "2020-10-12T16:06:14.000Z",
+        "updatedAt": "2021-06-03T18:12:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

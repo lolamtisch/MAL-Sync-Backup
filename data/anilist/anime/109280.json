@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "ぷそ煮コミ",
+    "Phantasy Star Online 2 Comic "
+  ],
+  "id": 109280,
+  "malId": 38837,
+  "type": "anime",
+  "title": "Puso Ni Comi",
+  "url": "https://anilist.co/anime/109280",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109280-jYgZRiu7Gync.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:53.000Z",
+  "updatedAt": "2021-05-20T14:44:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "9xrn": {
+        "identifier": "9xrn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Puso Ni Comi",
+        "url": "https://www.9anime.to/watch/puso-ni-comi.9xrn",
+        "image": "https://static.akacdn.ru/files/images/2019/01/972a62604b1101877653406138c1f299.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38837,
+        "aniId": 109280,
+        "createdAt": "2020-10-12T15:51:52.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "puso-ni-comi": {
+        "identifier": "puso-ni-comi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Puso Ni Comi",
+        "url": "https://www16.gogoanime.io/category/puso-ni-comi",
+        "image": "https://gogocdn.net/cover/puso-ni-comi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38837,
+        "aniId": 109280,
+        "createdAt": "2020-10-12T16:01:39.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

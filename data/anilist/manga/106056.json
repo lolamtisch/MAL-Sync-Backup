@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "モンスターとペアレント",
+    "Monster & Parent"
+  ],
+  "authors": [
+    "Ichi Sayo"
+  ],
+  "id": 106056,
+  "malId": 115728,
+  "type": "manga",
+  "title": "Monster to Parent",
+  "url": "https://anilist.co/manga/106056",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106056-2jKYAkicHchi.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:18.000Z",
+  "updatedAt": "2021-05-20T14:57:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "badda1e4-6a2a-4e1e-b92f-986c5732439f": {
+        "authors": [
+          "Sayo Ichi"
+        ],
+        "identifier": "badda1e4-6a2a-4e1e-b92f-986c5732439f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Monster and Parent",
+        "url": "https://mangadex.org/title/badda1e4-6a2a-4e1e-b92f-986c5732439f",
+        "image": "https://uploads.mangadex.org/covers/badda1e4-6a2a-4e1e-b92f-986c5732439f/437c4f92-0efd-40f0-93ec-4f5321eace8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115728,
+        "aniId": 106056,
+        "createdAt": "2020-10-12T16:20:16.000Z",
+        "updatedAt": "2021-06-07T23:37:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "monster_to_parent": {
+        "authors": [
+          "SAYO Ichi"
+        ],
+        "identifier": "monster_to_parent",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Monster to Parent",
+        "url": "https://fanfox.net/manga/monster_to_parent/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34476/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115728,
+        "aniId": 106056,
+        "createdAt": "2021-05-01T21:03:31.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "超次元ゲイム ネプテューヌ ~めがみつうしん~",
+    "Hyperdimension Neptunia: Megami Tsuushin"
+  ],
+  "authors": [
+    "Saimaru Bamyuuda"
+  ],
+  "id": 53207,
+  "malId": 23207,
+  "type": "manga",
+  "title": "Choujigen Game Neptune: Megami Tsuushin",
+  "url": "https://anilist.co/manga/53207",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23207.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:35.000Z",
+  "updatedAt": "2021-05-20T14:46:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0a2fecf1-d816-407d-b041-8e1c42277ffb": {
+        "authors": [
+          "BAMYUUDA Saimaru (BERMUDA Saimaru)",
+          "Compile Heart"
+        ],
+        "identifier": "0a2fecf1-d816-407d-b041-8e1c42277ffb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Choujigen Game Neptune - Megami Tsuushin",
+        "url": "https://mangadex.org/title/0a2fecf1-d816-407d-b041-8e1c42277ffb",
+        "image": "https://uploads.mangadex.org/covers/0a2fecf1-d816-407d-b041-8e1c42277ffb/56319a8b-26b4-448f-b7bf-2881ca39c80c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23207,
+        "aniId": 53207,
+        "createdAt": "2020-10-12T16:04:28.000Z",
+        "updatedAt": "2021-06-02T21:15:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "choujigen-game-neptune-megami-tsuushin": {
+        "authors": [
+          "BAMYUUDA Saimaru",
+          "Compile Heart"
+        ],
+        "identifier": "choujigen-game-neptune-megami-tsuushin",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Choujigen Game Neptune - Megami Tsuushin",
+        "url": "https://mangasee123.com/manga/Choujigen-Game-Neptune-Megami-Tsuushin",
+        "image": "https://cover.nep.li/cover/Choujigen-Game-Neptune-Megami-Tsuushin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23207,
+        "aniId": 53207,
+        "createdAt": "2021-03-27T00:19:36.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

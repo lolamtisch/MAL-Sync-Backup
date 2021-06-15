@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "快楽範囲",
+    "Kairaku Han'i",
+    "Range of Pleasure"
+  ],
+  "authors": [
+    "Kirico Higashizato"
+  ],
+  "id": 42153,
+  "malId": 12153,
+  "type": "manga",
+  "title": "Kairaku Hani",
+  "url": "https://anilist.co/manga/42153",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b42153-qULJGZNV0S8I.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "373d9a90-278e-4d8b-b9fb-5676bde0b06d": {
+        "authors": [
+          "Higashizato Kirico"
+        ],
+        "identifier": "373d9a90-278e-4d8b-b9fb-5676bde0b06d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kairaku Hani",
+        "url": "https://mangadex.org/title/373d9a90-278e-4d8b-b9fb-5676bde0b06d",
+        "image": "https://uploads.mangadex.org/covers/373d9a90-278e-4d8b-b9fb-5676bde0b06d/ca1265b5-068d-430b-b441-d5280079dab8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12153,
+        "aniId": 42153,
+        "createdAt": "2020-10-30T12:13:57.000Z",
+        "updatedAt": "2021-06-08T06:23:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

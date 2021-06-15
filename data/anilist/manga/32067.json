@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "囚われの身",
+    "Arrested Man",
+    "Memories of the Snow",
+    "Naive Gespenst",
+    "Naive Gespent"
+  ],
+  "authors": [
+    "Bohra Naono"
+  ],
+  "id": 32067,
+  "malId": 2067,
+  "type": "manga",
+  "title": "Toraware no Mi",
+  "url": "https://anilist.co/manga/32067",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2067.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T10:21:49.000Z",
+  "updatedAt": "2021-06-05T10:21:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "71b016a9-4a0c-4db4-914a-17741111d0d2": {
+        "authors": [
+          "Naono Bohra"
+        ],
+        "identifier": "71b016a9-4a0c-4db4-914a-17741111d0d2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toware no Mi",
+        "url": "https://mangadex.org/title/71b016a9-4a0c-4db4-914a-17741111d0d2",
+        "image": "https://uploads.mangadex.org/covers/71b016a9-4a0c-4db4-914a-17741111d0d2/302eb066-62a0-4d4c-9c7f-9a70b4e12427.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2067,
+        "aniId": 32067,
+        "createdAt": "2020-10-12T16:11:39.000Z",
+        "updatedAt": "2021-06-05T12:49:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

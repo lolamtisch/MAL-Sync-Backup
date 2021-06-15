@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Love Automation"
+  ],
+  "authors": [
+    "Hiroyuki Tamakoshi"
+  ],
+  "id": 33987,
+  "malId": 3987,
+  "type": "manga",
+  "title": "Love Automation",
+  "url": "https://anilist.co/manga/33987",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3987.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:22.000Z",
+  "updatedAt": "2021-05-20T14:38:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6e02221-7f55-4c16-97ea-1de4927a23be": {
+        "authors": [
+          "Tamakoshi Hiroyuki"
+        ],
+        "identifier": "d6e02221-7f55-4c16-97ea-1de4927a23be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Automation",
+        "url": "https://mangadex.org/title/d6e02221-7f55-4c16-97ea-1de4927a23be",
+        "image": "https://uploads.mangadex.org/covers/d6e02221-7f55-4c16-97ea-1de4927a23be/470d6d31-96ae-474e-a293-837aa996adf0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3987,
+        "aniId": 33987,
+        "createdAt": "2020-10-12T16:05:29.000Z",
+        "updatedAt": "2021-06-03T12:58:59.000Z",
+        "deletedAt": null
+      },
+      "14be08b9-5e93-4b23-b51a-a26265bb944d": {
+        "authors": [
+          "Enu",
+          "Usagizadou  (Circle)",
+          "Rua"
+        ],
+        "identifier": "14be08b9-5e93-4b23-b51a-a26265bb944d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "NieR: Automata - Mizu o Eta Sakana (Doujinshi)",
+        "url": "https://mangadex.org/title/14be08b9-5e93-4b23-b51a-a26265bb944d",
+        "image": "https://uploads.mangadex.org/covers/14be08b9-5e93-4b23-b51a-a26265bb944d/41403007-2b76-49ac-a9ef-8f9281d3a673.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3987,
+        "aniId": 33987,
+        "createdAt": "2020-10-12T16:13:58.000Z",
+        "updatedAt": "2021-06-06T01:26:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

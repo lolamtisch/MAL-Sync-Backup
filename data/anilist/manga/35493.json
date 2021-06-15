@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Tokyo Juliet",
+    "東京ジュリエット"
+  ],
+  "authors": [
+    "Miyuki Kitagawa"
+  ],
+  "id": 35493,
+  "malId": 5493,
+  "type": "manga",
+  "title": "Tokyo Juliet",
+  "url": "https://anilist.co/manga/35493",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5493.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T00:50:49.000Z",
+  "updatedAt": "2021-06-05T00:50:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b7ecf14a-f9f7-402e-915e-03dce779c506": {
+        "authors": [
+          "Kitagawa Miyuki"
+        ],
+        "identifier": "b7ecf14a-f9f7-402e-915e-03dce779c506",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Juliet",
+        "url": "https://mangadex.org/title/b7ecf14a-f9f7-402e-915e-03dce779c506",
+        "image": "https://uploads.mangadex.org/covers/b7ecf14a-f9f7-402e-915e-03dce779c506/da6ec742-30e4-4923-a5e2-e49ac26af8e7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5493,
+        "aniId": 35493,
+        "createdAt": "2020-10-12T16:10:23.000Z",
+        "updatedAt": "2021-06-05T08:47:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "マジンサーガ",
+    "Majinsaga"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 38777,
+  "malId": 8777,
+  "type": "manga",
+  "title": "Mazin Saga",
+  "url": "https://anilist.co/manga/38777",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8777.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7acc973b-11ac-44bf-b65b-37d19d7974e6": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "7acc973b-11ac-44bf-b65b-37d19d7974e6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mazin Saga",
+        "url": "https://mangadex.org/title/7acc973b-11ac-44bf-b65b-37d19d7974e6",
+        "image": "https://uploads.mangadex.org/covers/7acc973b-11ac-44bf-b65b-37d19d7974e6/58e04140-bcad-4115-b378-a536180a37cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8777,
+        "aniId": 38777,
+        "createdAt": "2020-10-12T16:14:21.000Z",
+        "updatedAt": "2021-06-06T04:29:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "ピーピング・ライフ"
+  ],
+  "id": 6525,
+  "malId": 6525,
+  "type": "anime",
+  "title": "Peeping Life",
+  "url": "https://anilist.co/anime/6525",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6525.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:57.000Z",
+  "updatedAt": "2021-05-20T14:37:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "l0jn": {
+        "identifier": "l0jn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Peeping Life",
+        "url": "https://9anime.ru/watch/peeping-life.l0jn",
+        "image": "https://static.akacdn.ru/files/images/2018/03/0c24106e22aed49958e8518a78b948f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6525,
+        "aniId": 6525,
+        "createdAt": "2020-10-12T15:52:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "the%20perfect%20edition": {
+        "identifier": "the%20perfect%20edition",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "The Perfect Edition",
+        "url": "https://www.crunchyroll.com/peeping-life?media_id=529200",
+        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/94fd921c6f145f8d8d6fa30ee67d9bea1242951054_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6525,
+        "aniId": 6525,
+        "createdAt": "2020-10-24T05:29:17.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

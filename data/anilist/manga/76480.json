@@ -1,0 +1,39 @@
+{
+  "altTitle": [],
+  "authors": [],
+  "id": 76480,
+  "malId": 46480,
+  "type": "manga",
+  "title": "Until You Fall Asleep",
+  "url": "https://anilist.co/manga/76480",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46480.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:30.000Z",
+  "updatedAt": "2021-05-20T14:49:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fdf89ccc-b244-408f-b164-afede1163661": {
+        "authors": [
+          "Yoon Lee Hyun"
+        ],
+        "identifier": "fdf89ccc-b244-408f-b164-afede1163661",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Until You Fall Asleep",
+        "url": "https://mangadex.org/title/fdf89ccc-b244-408f-b164-afede1163661",
+        "image": "https://uploads.mangadex.org/covers/fdf89ccc-b244-408f-b164-afede1163661/bacafb32-5300-45ef-a525-cbc5c0fa5af8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46480,
+        "aniId": 76480,
+        "createdAt": "2020-10-12T16:05:51.000Z",
+        "updatedAt": "2021-06-03T15:25:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "QuickStart!!",
+    "くいっくすたーと"
+  ],
+  "authors": [
+    "Adachi, Yousuke"
+  ],
+  "id": 54829,
+  "type": "manga",
+  "title": "Quick Start!!",
+  "url": "https://myanimelist.net/manga/54829/Quick_Start",
+  "image": "https://cdn.myanimelist.net/images/manga/3/95489.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:46.000Z",
+  "updatedAt": "2021-05-03T12:33:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "70d20ce1-00e9-46a8-be99-5a1d0758a5b1": {
+        "authors": [
+          "Adachi Yousuke"
+        ],
+        "identifier": "70d20ce1-00e9-46a8-be99-5a1d0758a5b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Quick Start!!",
+        "url": "https://mangadex.org/title/70d20ce1-00e9-46a8-be99-5a1d0758a5b1",
+        "image": "https://uploads.mangadex.org/covers/70d20ce1-00e9-46a8-be99-5a1d0758a5b1/b750b114-4a88-4e96-afc9-15d8ade93d37.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54829,
+        "aniId": 84829,
+        "createdAt": "2020-10-12T16:06:33.000Z",
+        "updatedAt": "2021-06-03T20:28:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "quick_start": {
+        "authors": [
+          "ADACHI Yousuke"
+        ],
+        "identifier": "quick_start",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Quick Start!!",
+        "url": "https://fanfox.net/manga/quick_start/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12744/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54829,
+        "aniId": 84829,
+        "createdAt": "2021-05-03T12:33:35.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

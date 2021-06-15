@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Eiken",
+    "エイケン",
+    "Eiken Club"
+  ],
+  "authors": [
+    "Seiji Matsuyama"
+  ],
+  "id": 32585,
+  "malId": 2585,
+  "type": "manga",
+  "title": "Eiken",
+  "url": "https://anilist.co/manga/32585",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2585.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1d50a9c8-e7c6-4eba-8422-82e750529ed2": {
+        "authors": [
+          "MATSUYAMA Seiji"
+        ],
+        "identifier": "1d50a9c8-e7c6-4eba-8422-82e750529ed2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eiken",
+        "url": "https://mangadex.org/title/1d50a9c8-e7c6-4eba-8422-82e750529ed2",
+        "image": "https://uploads.mangadex.org/covers/1d50a9c8-e7c6-4eba-8422-82e750529ed2/6d0a89f2-22ae-466b-a744-0433835cd16c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2585,
+        "aniId": 32585,
+        "createdAt": "2020-10-12T16:04:05.000Z",
+        "updatedAt": "2021-06-02T18:38:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eiken": {
+        "authors": [
+          "Matsuyama",
+          "Seiji"
+        ],
+        "identifier": "eiken",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Eiken",
+        "url": "https://manganelo.com/manga/eiken",
+        "image": "https://avt.mkklcdnv6.com/15/g/2-1583466287.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2585,
+        "aniId": 32585,
+        "createdAt": "2021-02-10T23:42:02.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ジャイアントシンデレラ"
+  ],
+  "authors": [
+    "Maika Narumi"
+  ],
+  "id": 96892,
+  "malId": 96841,
+  "type": "manga",
+  "title": "Giant Cinderella",
+  "url": "https://anilist.co/manga/96892",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96892-UihAeymTC9ZB.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:07.000Z",
+  "updatedAt": "2021-05-20T14:54:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9735a025-e603-4346-bfd0-abcf2a6d3a2e": {
+        "authors": [
+          "NARUMI Maika"
+        ],
+        "identifier": "9735a025-e603-4346-bfd0-abcf2a6d3a2e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Giant Cinderella",
+        "url": "https://mangadex.org/title/9735a025-e603-4346-bfd0-abcf2a6d3a2e",
+        "image": "https://uploads.mangadex.org/covers/9735a025-e603-4346-bfd0-abcf2a6d3a2e/e1d48326-e680-43c7-abd3-7c37fd388652.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96841,
+        "aniId": 96892,
+        "createdAt": "2020-10-12T16:14:31.000Z",
+        "updatedAt": "2021-06-06T05:54:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "giant_cinderella": {
+        "authors": [
+          "Narumi",
+          "Maika"
+        ],
+        "identifier": "giant_cinderella",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Giant Cinderella",
+        "url": "https://manganelo.com/manga/giant_cinderella",
+        "image": "https://avt.mkklcdnv6.com/25/f/13-1583488653.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96841,
+        "aniId": 96892,
+        "createdAt": "2021-01-13T18:09:56.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

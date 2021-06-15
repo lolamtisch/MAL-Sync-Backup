@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "루어"
+  ],
+  "authors": [
+    "Moon Da Mi Seo"
+  ],
+  "id": 30504,
+  "malId": 504,
+  "type": "manga",
+  "title": "Rure",
+  "url": "https://anilist.co/manga/30504",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/504.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "264b1025-f5f3-47ab-b2c7-64d7b7e2ee31": {
+        "authors": [
+          "Seo Moon Da Mi"
+        ],
+        "identifier": "264b1025-f5f3-47ab-b2c7-64d7b7e2ee31",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rure",
+        "url": "https://mangadex.org/title/264b1025-f5f3-47ab-b2c7-64d7b7e2ee31",
+        "image": "https://uploads.mangadex.org/covers/264b1025-f5f3-47ab-b2c7-64d7b7e2ee31/48757247-6566-4d76-8984-11df283d7b48.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 504,
+        "aniId": 30504,
+        "createdAt": "2020-10-12T16:03:58.000Z",
+        "updatedAt": "2021-06-02T17:47:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

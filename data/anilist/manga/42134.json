@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Code-Ex",
+    "ＣＯＤＥ－ＥＸ",
+    "Codex"
+  ],
+  "authors": [
+    "Ichirou Sakaki",
+    "Yumiko Harao"
+  ],
+  "id": 42134,
+  "malId": 12134,
+  "type": "manga",
+  "title": "Code-Ex",
+  "url": "https://anilist.co/manga/42134",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12134.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:17.000Z",
+  "updatedAt": "2021-05-20T14:42:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "61dd9f34-b04a-4d89-b53c-ac93e1eb2df4": {
+        "authors": [
+          "HARAO Yumiko",
+          "SAKAKI Ichiro"
+        ],
+        "identifier": "61dd9f34-b04a-4d89-b53c-ac93e1eb2df4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "CODE-EX",
+        "url": "https://mangadex.org/title/61dd9f34-b04a-4d89-b53c-ac93e1eb2df4",
+        "image": "https://uploads.mangadex.org/covers/61dd9f34-b04a-4d89-b53c-ac93e1eb2df4/52161caf-ca8a-4d8d-9f44-65c0735c9457.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12134,
+        "aniId": 42134,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:27:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

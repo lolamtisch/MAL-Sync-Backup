@@ -1,0 +1,80 @@
+{
+  "altTitle": [
+    "VAMPIRE WING"
+  ],
+  "authors": [
+    "Shiono, Etorouji"
+  ],
+  "id": 12601,
+  "type": "manga",
+  "title": "Vampire Wing",
+  "url": "https://myanimelist.net/manga/12601/Vampire_Wing",
+  "image": "https://cdn.myanimelist.net/images/manga/2/130315.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:47.000Z",
+  "updatedAt": "2021-01-09T21:51:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aa499bb2-6fd0-45f6-b15c-74c1a65916b7": {
+        "authors": [
+          "Shiono Etorouji"
+        ],
+        "identifier": "aa499bb2-6fd0-45f6-b15c-74c1a65916b7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vampire Wing",
+        "url": "https://mangadex.org/title/aa499bb2-6fd0-45f6-b15c-74c1a65916b7",
+        "image": "https://uploads.mangadex.org/covers/aa499bb2-6fd0-45f6-b15c-74c1a65916b7/25905552-0017-4207-befc-26ba0bc824e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12601,
+        "aniId": 42601,
+        "createdAt": "2020-10-12T16:04:08.000Z",
+        "updatedAt": "2021-06-02T18:54:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hb917825": {
+        "authors": [],
+        "identifier": "hb917825",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Vampire Adonis",
+        "url": "https://manganelo.com/manga/hb917825",
+        "image": "https://avt.mkklcdnv6.com/23/g/17-1583496093.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12601,
+        "aniId": 42601,
+        "createdAt": "2020-10-12T16:23:17.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "vampire_sphere": {
+        "authors": [],
+        "identifier": "vampire_sphere",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Vampire Sphere",
+        "url": "https://manganelo.com/manga/vampire_sphere",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/140-vampire_sphere.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12601,
+        "aniId": 42601,
+        "createdAt": "2020-10-12T16:26:00.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

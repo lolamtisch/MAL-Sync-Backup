@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Legal Drug",
+    "合法ドラッグ",
+    "Lawful Drug",
+    "A drugstore with medicine and a danger"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 30108,
+  "malId": 108,
+  "type": "manga",
+  "title": "Gohou Drug",
+  "url": "https://anilist.co/manga/30108",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30108-01nymgIQeHfh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:23.000Z",
+  "updatedAt": "2021-05-20T14:35:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b530af3-b431-48ff-8d37-32b304765503": {
+        "authors": [
+          "Nekoi Tsubaki",
+          "Ohkawa Ageha",
+          "CLAMP"
+        ],
+        "identifier": "8b530af3-b431-48ff-8d37-32b304765503",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gohou Drug",
+        "url": "https://mangadex.org/title/8b530af3-b431-48ff-8d37-32b304765503",
+        "image": "https://uploads.mangadex.org/covers/8b530af3-b431-48ff-8d37-32b304765503/d5992df2-9dc7-4d13-be4a-a5ec82271d94.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108,
+        "aniId": 30108,
+        "createdAt": "2020-10-12T16:04:21.000Z",
+        "updatedAt": "2021-06-02T20:25:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "do_you_know_the_real_dangers_of_those_socalled_legal_drugs_that_are_being_sold": {
+        "authors": [],
+        "identifier": "do_you_know_the_real_dangers_of_those_socalled_legal_drugs_that_are_being_sold",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Do You Know The Real Dangers Of Those So-Called \"legal\" Drugs That Are Being Sold?",
+        "url": "https://manganelo.com/manga/do_you_know_the_real_dangers_of_those_socalled_legal_drugs_that_are_being_sold",
+        "image": "https://avt.mkklcdnv6.com/15/r/8-1583478773.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108,
+        "aniId": 30108,
+        "createdAt": "2020-10-12T16:22:41.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Miracle Girls",
+    "ミラクル☆ガールズ",
+    "Mirakuru Garusu"
+  ],
+  "authors": [
+    "Nami Akimoto"
+  ],
+  "id": 30449,
+  "malId": 449,
+  "type": "manga",
+  "title": "Miracle☆Girls",
+  "url": "https://anilist.co/manga/30449",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30449-me0jSpZdwwZC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "miracle_heronim": {
+        "authors": [],
+        "identifier": "miracle_heronim",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Miracle! Hero-nim",
+        "url": "https://manganelo.com/manga/miracle_heronim",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2100-miracle_heronim.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 449,
+        "aniId": 30449,
+        "createdAt": "2020-10-12T16:24:19.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "b4741957-c515-4396-bc54-c5c704844e74": {
+        "authors": [
+          "AKIMOTO Nami"
+        ],
+        "identifier": "b4741957-c515-4396-bc54-c5c704844e74",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Miracle Girls",
+        "url": "https://mangadex.org/title/b4741957-c515-4396-bc54-c5c704844e74",
+        "image": "https://uploads.mangadex.org/covers/b4741957-c515-4396-bc54-c5c704844e74/241b93b1-a55b-4fb9-b8c8-71654a72b6d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 449,
+        "aniId": 30449,
+        "createdAt": "2020-10-12T18:19:15.000Z",
+        "updatedAt": "2021-06-08T05:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

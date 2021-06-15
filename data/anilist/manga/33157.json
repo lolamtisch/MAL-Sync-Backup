@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Pinku Batafurai"
+  ],
+  "authors": [
+    "Kaen"
+  ],
+  "id": 33157,
+  "malId": 3157,
+  "type": "manga",
+  "title": "Pink Butterfly",
+  "url": "https://anilist.co/manga/33157",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3157.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7bc332ee-7dc0-4da9-93c1-8a9391b4ef96": {
+        "authors": [
+          "Kaen"
+        ],
+        "identifier": "7bc332ee-7dc0-4da9-93c1-8a9391b4ef96",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pink Butterfly",
+        "url": "https://mangadex.org/title/7bc332ee-7dc0-4da9-93c1-8a9391b4ef96",
+        "image": "https://uploads.mangadex.org/covers/7bc332ee-7dc0-4da9-93c1-8a9391b4ef96/262d0fb5-5c11-442b-a1eb-733fcdbe3741.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3157,
+        "aniId": 33157,
+        "createdAt": "2020-11-06T08:58:47.000Z",
+        "updatedAt": "2021-06-08T06:52:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

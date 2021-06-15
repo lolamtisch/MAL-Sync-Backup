@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "MegaMan ZX",
+    "ロックマン ゼクス"
+  ],
+  "authors": [
+    "Ogino, Shin"
+  ],
+  "id": 8008,
+  "type": "manga",
+  "title": "Rockman ZX",
+  "url": "https://myanimelist.net/manga/8008/Rockman_ZX",
+  "image": "https://cdn.myanimelist.net/images/manga/1/207091.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:17.000Z",
+  "updatedAt": "2021-04-30T03:49:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1bd08bdd-4557-4ba5-a247-5f4a9c0b573b": {
+        "authors": [
+          "OGINO Shin"
+        ],
+        "identifier": "1bd08bdd-4557-4ba5-a247-5f4a9c0b573b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rockman ZX",
+        "url": "https://mangadex.org/title/1bd08bdd-4557-4ba5-a247-5f4a9c0b573b",
+        "image": "https://uploads.mangadex.org/covers/1bd08bdd-4557-4ba5-a247-5f4a9c0b573b/3984d3e8-53e2-41ac-8f07-33742e497fc9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8008,
+        "aniId": 38008,
+        "createdAt": "2020-10-12T16:06:05.000Z",
+        "updatedAt": "2021-06-03T17:06:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rockman_zx": {
+        "authors": [
+          "Ogino",
+          "Shin"
+        ],
+        "identifier": "rockman_zx",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rockman Zx",
+        "url": "https://manganelo.com/manga/rockman_zx",
+        "image": "https://avt.mkklcdnv6.com/2/r/12-1583485925.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8008,
+        "aniId": 38008,
+        "createdAt": "2020-10-30T13:40:37.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

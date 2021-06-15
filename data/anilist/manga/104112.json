@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "私の拳をうけとめて!",
+    "Accept My Fist of Love",
+    "Accept my Fist!"
+  ],
+  "authors": [
+    "murata"
+  ],
+  "id": 104112,
+  "malId": 116355,
+  "type": "manga",
+  "title": "Watashi no Kobushi wo Uketomete!",
+  "url": "https://anilist.co/manga/104112",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104112-YBh80OeJZGQK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:23.000Z",
+  "updatedAt": "2021-05-20T14:57:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db7744a6-785e-4504-9d59-1c6b84de7033": {
+        "authors": [
+          "murata"
+        ],
+        "identifier": "db7744a6-785e-4504-9d59-1c6b84de7033",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi no Kobushi wo Uketomete!",
+        "url": "https://mangadex.org/title/db7744a6-785e-4504-9d59-1c6b84de7033",
+        "image": "https://uploads.mangadex.org/covers/db7744a6-785e-4504-9d59-1c6b84de7033/e39ac9ae-f495-4e8e-9ba4-1d091cc1e7ab.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116355,
+        "aniId": 104112,
+        "createdAt": "2020-10-12T16:13:40.000Z",
+        "updatedAt": "2021-06-05T23:05:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "accept_my_fist_of_love": {
+        "authors": [],
+        "identifier": "accept_my_fist_of_love",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Accept My Fist Of Love",
+        "url": "https://manganelo.com/manga/accept_my_fist_of_love",
+        "image": "https://avt.mkklcdnv6.com/50/x/16-1583495296.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116355,
+        "aniId": 104112,
+        "createdAt": "2020-10-12T16:22:00.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

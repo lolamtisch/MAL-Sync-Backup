@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "もう少し夜が永ければ"
+  ],
+  "authors": [
+    "Kasuga, Naoka"
+  ],
+  "id": 8160,
+  "type": "manga",
+  "title": "Mousukoshi Yoru ga Nagakereba",
+  "url": "https://myanimelist.net/manga/8160/Mousukoshi_Yoru_ga_Nagakereba",
+  "image": "https://cdn.myanimelist.net/images/manga/3/11124.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-11-27T09:31:59.000Z",
+  "updatedAt": "2020-12-16T10:24:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9a0edac8-24b1-46f9-8ade-2e5d5c30aa65": {
+        "authors": [
+          "KASUGA Naoka"
+        ],
+        "identifier": "9a0edac8-24b1-46f9-8ade-2e5d5c30aa65",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mousukoshi Yoru ga Nagakereba",
+        "url": "https://mangadex.org/title/9a0edac8-24b1-46f9-8ade-2e5d5c30aa65",
+        "image": "https://uploads.mangadex.org/covers/9a0edac8-24b1-46f9-8ade-2e5d5c30aa65/9b23a529-d432-4a58-aae4-dead33e36d34.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8160,
+        "aniId": 38160,
+        "createdAt": "2020-11-27T09:32:00.000Z",
+        "updatedAt": "2021-06-08T07:58:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mousukoshi_yoru_ga_nagakereba": {
+        "authors": [
+          "Kasuga",
+          "Naoka"
+        ],
+        "identifier": "mousukoshi_yoru_ga_nagakereba",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mousukoshi Yoru Ga Nagakereba",
+        "url": "https://manganelo.com/manga/mousukoshi_yoru_ga_nagakereba",
+        "image": "https://avt.mkklcdnv6.com/20/v/12-1583486583.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8160,
+        "aniId": 38160,
+        "createdAt": "2020-12-16T10:24:31.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

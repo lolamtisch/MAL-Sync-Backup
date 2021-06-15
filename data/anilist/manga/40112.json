@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "神太刀女",
+    "Holy Sword Woman"
+  ],
+  "authors": [
+    "Tooru Tamegai",
+    "Task Ohna"
+  ],
+  "id": 40112,
+  "malId": 10112,
+  "type": "manga",
+  "title": "Kandachime",
+  "url": "https://anilist.co/manga/40112",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10112.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "31897567-bbe5-4172-a945-b8efc66e2281": {
+        "authors": [
+          "Task Ohna",
+          "Tamegai Tohru"
+        ],
+        "identifier": "31897567-bbe5-4172-a945-b8efc66e2281",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kandachime",
+        "url": "https://mangadex.org/title/31897567-bbe5-4172-a945-b8efc66e2281",
+        "image": "https://uploads.mangadex.org/covers/31897567-bbe5-4172-a945-b8efc66e2281/9149b490-3252-45ac-a6da-84831e5fb77a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10112,
+        "aniId": 40112,
+        "createdAt": "2020-10-12T16:02:38.000Z",
+        "updatedAt": "2021-06-02T08:22:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kandachime": {
+        "authors": [
+          "TAMEGAI Tohru"
+        ],
+        "identifier": "kandachime",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kandachime",
+        "url": "https://fanfox.net/manga/kandachime/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4260/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10112,
+        "aniId": 40112,
+        "createdAt": "2021-03-22T03:34:44.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kandachime": {
+        "authors": [
+          "TAMEGAI Tohru",
+          "Task Ohna"
+        ],
+        "identifier": "kandachime",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kandachime",
+        "url": "https://mangasee123.com/manga/Kandachime",
+        "image": "https://cover.nep.li/cover/Kandachime.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10112,
+        "aniId": 40112,
+        "createdAt": "2021-03-24T19:49:43.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

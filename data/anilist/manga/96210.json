@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ミラ"
+  ],
+  "authors": [
+    "Sound Horizon",
+    "Yukimaru Katsura"
+  ],
+  "id": 96210,
+  "malId": 93713,
+  "type": "manga",
+  "title": "Moira",
+  "url": "https://anilist.co/manga/96210",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96210-8jsSA4zncqA6.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T17:52:18.000Z",
+  "updatedAt": "2021-06-04T17:52:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3c0cf23-aa7b-477f-a3df-31b27b0a01b9": {
+        "authors": [
+          "Katsura Yukimaru",
+          "Sound Horizon"
+        ],
+        "identifier": "c3c0cf23-aa7b-477f-a3df-31b27b0a01b9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Moira",
+        "url": "https://mangadex.org/title/c3c0cf23-aa7b-477f-a3df-31b27b0a01b9",
+        "image": "https://uploads.mangadex.org/covers/c3c0cf23-aa7b-477f-a3df-31b27b0a01b9/6d4ea149-00ff-4989-976f-0979db82b675.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93713,
+        "aniId": 96210,
+        "createdAt": "2020-10-12T16:09:26.000Z",
+        "updatedAt": "2021-06-04T18:37:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

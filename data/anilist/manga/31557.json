@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "ピエタ",
+    "Pieta",
+    "海辺の一週間",
+    "Umibe no Isshuukan"
+  ],
+  "authors": [
+    "Nanae Haruno"
+  ],
+  "id": 31557,
+  "malId": 1557,
+  "type": "manga",
+  "title": "Pietà",
+  "url": "https://anilist.co/manga/31557",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx31557-Wh8A2JtYwqm8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:47.000Z",
+  "updatedAt": "2021-05-20T14:36:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "384754ae-9079-433f-8abf-c7170538eff9": {
+        "authors": [
+          "Haruno Nanae"
+        ],
+        "identifier": "384754ae-9079-433f-8abf-c7170538eff9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pietà",
+        "url": "https://mangadex.org/title/384754ae-9079-433f-8abf-c7170538eff9",
+        "image": "https://uploads.mangadex.org/covers/384754ae-9079-433f-8abf-c7170538eff9/c2b1cbc2-6044-4571-a353-3c86122f3f2a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1557,
+        "aniId": 31557,
+        "createdAt": "2020-10-12T16:05:02.000Z",
+        "updatedAt": "2021-06-03T09:49:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

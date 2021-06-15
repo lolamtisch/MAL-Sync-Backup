@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Kids Will Not Stop",
+    "子供は止まらない"
+  ],
+  "authors": [
+    "Akira Sugano",
+    "Etsumi Ninomiya"
+  ],
+  "id": 43166,
+  "malId": 13166,
+  "type": "manga",
+  "title": "Kodomo wa Tomaranai",
+  "url": "https://anilist.co/manga/43166",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13166.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:32.000Z",
+  "updatedAt": "2021-05-20T14:42:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "839ad890-7cc1-4d96-abe6-bfcc1a42923c": {
+        "authors": [
+          "Ninomiya Etsumi",
+          "Sugano Akira"
+        ],
+        "identifier": "839ad890-7cc1-4d96-abe6-bfcc1a42923c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kodomo wa Tomaranai",
+        "url": "https://mangadex.org/title/839ad890-7cc1-4d96-abe6-bfcc1a42923c",
+        "image": "https://uploads.mangadex.org/covers/839ad890-7cc1-4d96-abe6-bfcc1a42923c/2337a1fa-6ef6-425c-a4be-d7da7e790436.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13166,
+        "aniId": 43166,
+        "createdAt": "2020-10-12T16:13:33.000Z",
+        "updatedAt": "2021-06-05T22:09:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

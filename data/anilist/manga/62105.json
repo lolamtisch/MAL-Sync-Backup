@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "テイルズオブハーツアンソロジーコミック",
+    "Tales of Hearts Anthology Comic"
+  ],
+  "authors": [
+    "Ayumi Fujimura"
+  ],
+  "id": 62105,
+  "malId": 32105,
+  "type": "manga",
+  "title": "Tales of Hearts: Anthology Comic",
+  "url": "https://anilist.co/manga/62105",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32105.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:49.000Z",
+  "updatedAt": "2021-05-20T14:47:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "194439a2-bedd-4577-ad48-da2b7ed607a5": {
+        "authors": [
+          "Kanno Wako"
+        ],
+        "identifier": "194439a2-bedd-4577-ad48-da2b7ed607a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of Hearts",
+        "url": "https://mangadex.org/title/194439a2-bedd-4577-ad48-da2b7ed607a5",
+        "image": "https://uploads.mangadex.org/covers/194439a2-bedd-4577-ad48-da2b7ed607a5/4df595e1-b951-4c0c-a954-00cfa348462c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 32105,
+        "aniId": 62105,
+        "createdAt": "2020-10-12T16:15:12.000Z",
+        "updatedAt": "2021-06-06T16:29:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

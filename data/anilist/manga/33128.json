@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "The Ring",
+    "リング",
+    "Ringu"
+  ],
+  "authors": [
+    "Koji Suzuki",
+    "Misao Inagaki",
+    "Hiroshi Takahashi"
+  ],
+  "id": 33128,
+  "malId": 3128,
+  "type": "manga",
+  "title": "Ring",
+  "url": "https://anilist.co/manga/33128",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33128-DpPJxoUxZ34N.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5621223a-f2cd-413a-baea-dabc108b0bd9": {
+        "authors": [
+          "Suzuki Koji",
+          "Inagaki Misao",
+          "Takahashi Hiroshi"
+        ],
+        "identifier": "5621223a-f2cd-413a-baea-dabc108b0bd9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Ring",
+        "url": "https://mangadex.org/title/5621223a-f2cd-413a-baea-dabc108b0bd9",
+        "image": "https://uploads.mangadex.org/covers/5621223a-f2cd-413a-baea-dabc108b0bd9/f0960c8d-3caf-4284-81dd-7c6b7d9e391e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3128,
+        "aniId": 33128,
+        "createdAt": "2020-10-12T16:10:08.000Z",
+        "updatedAt": "2021-06-04T22:31:19.000Z",
+        "deletedAt": null
+      },
+      "42c50755-da1e-43b3-b630-2c294ea70f12": {
+        "authors": [
+          "ZHANG Sanfeng"
+        ],
+        "identifier": "42c50755-da1e-43b3-b630-2c294ea70f12",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Devil Ring",
+        "url": "https://mangadex.org/title/42c50755-da1e-43b3-b630-2c294ea70f12",
+        "image": "https://uploads.mangadex.org/covers/42c50755-da1e-43b3-b630-2c294ea70f12/cbc25c12-8e61-44ad-889c-33f2c8fa9aca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3128,
+        "aniId": 33128,
+        "createdAt": "2020-10-12T16:17:17.000Z",
+        "updatedAt": "2021-06-07T06:30:45.000Z",
+        "deletedAt": null
+      },
+      "ea602e52-c61f-48b4-bce2-f3975828220c": {
+        "authors": [
+          "Misao Inagaki",
+          "Takahashi Hiroshi"
+        ],
+        "identifier": "ea602e52-c61f-48b4-bce2-f3975828220c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Ring Vol.1",
+        "url": "https://mangadex.org/title/ea602e52-c61f-48b4-bce2-f3975828220c",
+        "image": "https://uploads.mangadex.org/covers/ea602e52-c61f-48b4-bce2-f3975828220c/777dc675-2900-4376-89bb-ed6f981dc0df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3128,
+        "aniId": 33128,
+        "createdAt": "2020-10-12T16:19:32.000Z",
+        "updatedAt": "2021-06-07T22:05:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

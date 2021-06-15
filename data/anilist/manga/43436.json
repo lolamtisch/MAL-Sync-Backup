@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "I Like You PLUS",
+    "キミがスキPLUS"
+  ],
+  "authors": [
+    "Ayu Watanabe"
+  ],
+  "id": 43436,
+  "malId": 13436,
+  "type": "manga",
+  "title": "Kimi ga Suki Plus",
+  "url": "https://anilist.co/manga/43436",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b43436-3VatH3QJmxo8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:35.000Z",
+  "updatedAt": "2021-05-20T14:42:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7ef85528-6729-4887-b481-4a680079d2dd": {
+        "authors": [
+          "Watanabe Ayu"
+        ],
+        "identifier": "7ef85528-6729-4887-b481-4a680079d2dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi ga Suki PLUS",
+        "url": "https://mangadex.org/title/7ef85528-6729-4887-b481-4a680079d2dd",
+        "image": "https://uploads.mangadex.org/covers/7ef85528-6729-4887-b481-4a680079d2dd/516c5a6d-98e1-4c73-81b3-d64a1537bb32.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13436,
+        "aniId": 43436,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T21:04:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "19天",
+    "19天"
+  ],
+  "authors": [],
+  "id": 121108,
+  "type": "manga",
+  "title": "19 Days",
+  "url": "https://myanimelist.net/manga/121108/19_Days",
+  "image": null,
+  "category": "Manhua",
+  "hentai": false,
+  "createdAt": "2021-03-18T17:04:50.000Z",
+  "updatedAt": "2021-06-04T07:49:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dc90853b-a3e6-4d5b-8b47-1fa15aa15923": {
+        "authors": [
+          "Old Xian"
+        ],
+        "identifier": "dc90853b-a3e6-4d5b-8b47-1fa15aa15923",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "19 Tian",
+        "url": "https://mangadex.org/title/dc90853b-a3e6-4d5b-8b47-1fa15aa15923",
+        "image": "https://uploads.mangadex.org/covers/dc90853b-a3e6-4d5b-8b47-1fa15aa15923/457d51ae-42c4-4bdc-b251-e10789cb8ebd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 121108,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:08:07.000Z",
+        "updatedAt": "2021-06-04T08:59:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

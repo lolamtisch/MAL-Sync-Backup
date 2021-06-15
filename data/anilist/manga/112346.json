@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "The 101st Heroine",
+    "101번째 여주인공",
+    "101st Female Protagonist  "
+  ],
+  "authors": [
+    "Menanik",
+    "Studio D"
+  ],
+  "id": 112346,
+  "malId": null,
+  "type": "manga",
+  "title": "101 Beonjjae Yeojuingong",
+  "url": "https://anilist.co/manga/112346",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112346-XAoVlv4hUQXr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-22T19:12:58.000Z",
+  "updatedAt": "2021-06-07T05:20:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "342c4ac4-4843-46df-90e6-b31a164a43b2": {
+        "authors": [
+          "Studio D",
+          "Menanik"
+        ],
+        "identifier": "342c4ac4-4843-46df-90e6-b31a164a43b2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The 101ˢᵗ Heroine",
+        "url": "https://mangadex.org/title/342c4ac4-4843-46df-90e6-b31a164a43b2",
+        "image": "https://uploads.mangadex.org/covers/342c4ac4-4843-46df-90e6-b31a164a43b2/ac3ab2dc-a071-4bcd-8d0b-5a6f75ec38e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112346,
+        "createdAt": "2020-10-12T16:17:07.000Z",
+        "updatedAt": "2021-06-07T07:36:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Journey to the West, Westbound, Westbound Discipline",
+    "西行纪"
+  ],
+  "authors": [
+    "Tang, Chi Fai",
+    "Zheng, Jian He"
+  ],
+  "id": 109143,
+  "type": "manga",
+  "title": "Xi Xing Ji",
+  "url": "https://myanimelist.net/manga/109143/Xi_Xing_Ji",
+  "image": "https://cdn.myanimelist.net/images/manga/3/199761.jpg",
+  "category": "Manhua",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:12.000Z",
+  "updatedAt": "2021-04-06T19:38:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1a4c6dbe-47f0-441c-b762-06c1166bc223": {
+        "authors": [
+          "Tang Chi Fai",
+          "Cheng Kin Wo"
+        ],
+        "identifier": "1a4c6dbe-47f0-441c-b762-06c1166bc223",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Journey To The West",
+        "url": "https://mangadex.org/title/1a4c6dbe-47f0-441c-b762-06c1166bc223",
+        "image": "https://uploads.mangadex.org/covers/1a4c6dbe-47f0-441c-b762-06c1166bc223/9730ff2f-4bbb-4d1b-87ec-f88a689acb65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109143,
+        "aniId": 102196,
+        "createdAt": "2020-10-12T16:10:34.000Z",
+        "updatedAt": "2021-06-05T01:43:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "journey_to_the_west": {
+        "authors": [],
+        "identifier": "journey_to_the_west",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Journey to the West",
+        "url": "https://manganelo.com/manga/journey_to_the_west",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18678-journey_to_the_west.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109143,
+        "aniId": 102196,
+        "createdAt": "2020-10-12T16:23:45.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

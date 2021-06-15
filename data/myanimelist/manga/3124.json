@@ -1,0 +1,100 @@
+{
+  "altTitle": [
+    "COMPLEX"
+  ],
+  "authors": [
+    "Kikuchi, Kumiko"
+  ],
+  "id": 3124,
+  "type": "manga",
+  "title": "Complex",
+  "url": "https://myanimelist.net/manga/3124/Complex",
+  "image": "https://cdn.myanimelist.net/images/manga/1/186460.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:48.000Z",
+  "updatedAt": "2021-06-14T01:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fef154e8-2dae-45e8-8e36-de56a1b6f35f": {
+        "authors": [
+          "KIKUCHI Kumiko"
+        ],
+        "identifier": "fef154e8-2dae-45e8-8e36-de56a1b6f35f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Complex",
+        "url": "https://mangadex.org/title/fef154e8-2dae-45e8-8e36-de56a1b6f35f",
+        "image": "https://uploads.mangadex.org/covers/fef154e8-2dae-45e8-8e36-de56a1b6f35f/20125031-6caa-4f66-bf3b-963c29445a0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3124,
+        "aniId": 33124,
+        "createdAt": "2020-10-12T16:03:26.000Z",
+        "updatedAt": "2021-06-02T13:55:53.000Z",
+        "deletedAt": null
+      },
+      "d5b49dca-3b45-49fe-b448-625f6d256142": {
+        "authors": [
+          "Yuzuki Yu"
+        ],
+        "identifier": "d5b49dca-3b45-49fe-b448-625f6d256142",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Complex Soulmate!",
+        "url": "https://mangadex.org/title/d5b49dca-3b45-49fe-b448-625f6d256142",
+        "image": "https://uploads.mangadex.org/covers/d5b49dca-3b45-49fe-b448-625f6d256142/0a09d9ef-40f2-4642-a153-d46d5ddfbf4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3124,
+        "aniId": 33124,
+        "createdAt": "2020-10-12T16:17:08.000Z",
+        "updatedAt": "2021-06-07T05:03:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "complex": {
+        "authors": [],
+        "identifier": "complex",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Complex",
+        "url": "https://manganelo.com/manga/complex",
+        "image": "https://avt.mkklcdnv6.com/43/s/3-1583469391.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3124,
+        "aniId": 33124,
+        "createdAt": "2020-10-12T16:22:31.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "pride_complex": {
+        "authors": [],
+        "identifier": "pride_complex",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Pride Complex",
+        "url": "https://manganelo.com/manga/pride_complex",
+        "image": "https://avt.mkklcdnv6.com/42/f/3-1583469332.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3124,
+        "aniId": 33124,
+        "createdAt": "2020-10-12T16:24:54.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

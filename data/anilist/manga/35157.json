@@ -1,0 +1,124 @@
+{
+  "altTitle": [
+    "Baki: The Search of our Strongest Hero",
+    "バキ",
+    "New Grappler Baki",
+    "Baki"
+  ],
+  "authors": [
+    "Keisuke Itagaki"
+  ],
+  "id": 35157,
+  "malId": 5157,
+  "type": "manga",
+  "title": "New Grappler Baki: In Search of Our Strongest Hero",
+  "url": "https://anilist.co/manga/35157",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35157-trkQLXrIhY2s.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ee2f134-87c6-4715-b31e-b3b1344fa5ea": {
+        "authors": [
+          "Itagaki Keisuke"
+        ],
+        "identifier": "0ee2f134-87c6-4715-b31e-b3b1344fa5ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Baki",
+        "url": "https://mangadex.org/title/0ee2f134-87c6-4715-b31e-b3b1344fa5ea",
+        "image": "https://uploads.mangadex.org/covers/0ee2f134-87c6-4715-b31e-b3b1344fa5ea/c4116ea7-4575-4b8b-b61b-ca1580910782.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5157,
+        "aniId": 35157,
+        "createdAt": "2020-10-12T16:03:27.000Z",
+        "updatedAt": "2021-06-02T14:11:22.000Z",
+        "deletedAt": null
+      },
+      "36f07de5-deac-4643-a608-d95e791b5571": {
+        "authors": [
+          "Itagaki Keisuke"
+        ],
+        "identifier": "36f07de5-deac-4643-a608-d95e791b5571",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Grappler Baki Remake",
+        "url": "https://mangadex.org/title/36f07de5-deac-4643-a608-d95e791b5571",
+        "image": "https://uploads.mangadex.org/covers/36f07de5-deac-4643-a608-d95e791b5571/5f6b0599-f613-4483-8e07-1182277bf85a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5157,
+        "aniId": 35157,
+        "createdAt": "2020-10-12T16:16:34.000Z",
+        "updatedAt": "2021-06-06T23:42:32.000Z",
+        "deletedAt": null
+      },
+      "c213f7a4-61f6-4384-978c-8c12e5ef70a9": {
+        "authors": [
+          "Tonari Toyama"
+        ],
+        "identifier": "c213f7a4-61f6-4384-978c-8c12e5ef70a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Adam's Apple",
+        "url": "https://mangadex.org/title/c213f7a4-61f6-4384-978c-8c12e5ef70a9",
+        "image": "https://uploads.mangadex.org/covers/c213f7a4-61f6-4384-978c-8c12e5ef70a9/5f0c8f5a-77f0-454d-9dbb-b656388ed9a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5157,
+        "aniId": 35157,
+        "createdAt": "2020-10-12T16:17:59.000Z",
+        "updatedAt": "2021-06-07T12:50:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "baki": {
+        "authors": [],
+        "identifier": "baki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Baki",
+        "url": "https://manganelo.com/manga/baki",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7625-baki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5157,
+        "aniId": 35157,
+        "createdAt": "2020-10-12T16:22:13.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "new_grappler_baki": {
+        "authors": [],
+        "identifier": "new_grappler_baki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "New Grappler Baki",
+        "url": "https://manganelo.com/manga/new_grappler_baki",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19711-new_grappler_baki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5157,
+        "aniId": 35157,
+        "createdAt": "2020-10-12T16:24:31.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

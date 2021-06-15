@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "はぴナビ!",
+    "Hapi Nabi!",
+    "Happy Navigation!"
+  ],
+  "authors": [
+    "Ira Ishida",
+    "Mio Mizuki"
+  ],
+  "id": 91216,
+  "malId": 70631,
+  "type": "manga",
+  "title": "Hapi Navi!",
+  "url": "https://anilist.co/manga/91216",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91216-qhUdyYQ67Hhz.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T02:51:59.000Z",
+  "updatedAt": "2021-06-04T02:51:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b77705a4-4777-4d01-815d-d7cecf58a6bf": {
+        "authors": [
+          "Ishida Ira",
+          "Mizuki Mio"
+        ],
+        "identifier": "b77705a4-4777-4d01-815d-d7cecf58a6bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hapi Nabi!",
+        "url": "https://mangadex.org/title/b77705a4-4777-4d01-815d-d7cecf58a6bf",
+        "image": "https://uploads.mangadex.org/covers/b77705a4-4777-4d01-815d-d7cecf58a6bf/a6d66023-648e-453e-8fa5-e7ed1b8de292.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70631,
+        "aniId": 91216,
+        "createdAt": "2020-10-12T16:07:23.000Z",
+        "updatedAt": "2021-06-04T08:56:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

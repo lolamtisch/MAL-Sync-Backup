@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Therefore I am Miyoko.",
+    "だから美代子です"
+  ],
+  "authors": [
+    "MUNKO"
+  ],
+  "id": 101075,
+  "malId": 111815,
+  "type": "manga",
+  "title": "Dakara Miyoko Desu",
+  "url": "https://anilist.co/manga/101075",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101075-aOjwNRT7ilrT.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:50.000Z",
+  "updatedAt": "2021-05-20T14:56:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d5fcf4ce-5634-48a4-aa27-1576ac725760": {
+        "authors": [
+          "Munko"
+        ],
+        "identifier": "d5fcf4ce-5634-48a4-aa27-1576ac725760",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dakara Miyoko desu",
+        "url": "https://mangadex.org/title/d5fcf4ce-5634-48a4-aa27-1576ac725760",
+        "image": "https://uploads.mangadex.org/covers/d5fcf4ce-5634-48a4-aa27-1576ac725760/e277339f-a84b-4f7a-9fde-9a2de2f427b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111815,
+        "aniId": 101075,
+        "createdAt": "2020-10-12T16:11:14.000Z",
+        "updatedAt": "2021-06-05T06:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "dakara_miyoko_desu": {
+        "authors": [],
+        "identifier": "dakara_miyoko_desu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dakara Miyoko Desu",
+        "url": "https://manganelo.com/manga/dakara_miyoko_desu",
+        "image": "https://avt.mkklcdnv6.com/13/u/16-1583493969.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111815,
+        "aniId": 101075,
+        "createdAt": "2020-10-12T16:22:34.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ネコのメール",
+    "Cat's Mail"
+  ],
+  "authors": [
+    "Chihiro Ayano"
+  ],
+  "id": 76942,
+  "malId": 46942,
+  "type": "manga",
+  "title": "Neko no Mail",
+  "url": "https://anilist.co/manga/76942",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/46942.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:32.000Z",
+  "updatedAt": "2021-05-20T14:49:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2b604612-37be-4193-a36a-05583ecd3db5": {
+        "authors": [
+          "Ayano Chihiro"
+        ],
+        "identifier": "2b604612-37be-4193-a36a-05583ecd3db5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko no Mail - Igai na Kareshi",
+        "url": "https://mangadex.org/title/2b604612-37be-4193-a36a-05583ecd3db5",
+        "image": "https://uploads.mangadex.org/covers/2b604612-37be-4193-a36a-05583ecd3db5/920d8d5e-edab-4071-82a3-b5d486d6783c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46942,
+        "aniId": 76942,
+        "createdAt": "2020-10-12T16:05:53.000Z",
+        "updatedAt": "2021-06-03T15:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

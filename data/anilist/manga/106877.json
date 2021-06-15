@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "それはまるで春雪のごとき",
+    "Like A Snowfall in Spring"
+  ],
+  "authors": [
+    "Neji"
+  ],
+  "id": 106877,
+  "malId": null,
+  "type": "manga",
+  "title": "Sore wa Marude Shunsetsu no Gotoki",
+  "url": "https://anilist.co/manga/106877",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106877-gWt8MaTPsEnM.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T03:19:30.000Z",
+  "updatedAt": "2021-06-06T03:19:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4cdbb077-6403-4021-8839-136d51a5aedd": {
+        "authors": [
+          "Neji"
+        ],
+        "identifier": "4cdbb077-6403-4021-8839-136d51a5aedd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Like a Snowfall in Spring",
+        "url": "https://mangadex.org/title/4cdbb077-6403-4021-8839-136d51a5aedd",
+        "image": "https://uploads.mangadex.org/covers/4cdbb077-6403-4021-8839-136d51a5aedd/a2566421-9028-4912-9a3f-2bd9821476a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 106877,
+        "createdAt": "2020-10-12T16:14:10.000Z",
+        "updatedAt": "2021-06-06T10:27:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

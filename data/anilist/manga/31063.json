@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Kurozakuro",
+    "クロザクロ"
+  ],
+  "authors": [
+    "Yoshinori Natsume"
+  ],
+  "id": 31063,
+  "malId": 1063,
+  "type": "manga",
+  "title": "Kurozakuro",
+  "url": "https://anilist.co/manga/31063",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1063.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:53.000Z",
+  "updatedAt": "2021-05-20T14:35:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c22d472a-4d3b-4373-b608-2a16e37f1822": {
+        "authors": [
+          "NATSUME Yoshinori"
+        ],
+        "identifier": "c22d472a-4d3b-4373-b608-2a16e37f1822",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kurozakuro",
+        "url": "https://mangadex.org/title/c22d472a-4d3b-4373-b608-2a16e37f1822",
+        "image": "https://uploads.mangadex.org/covers/c22d472a-4d3b-4373-b608-2a16e37f1822/0a555ad4-a202-4a3d-b515-72ca8449fc6d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1063,
+        "aniId": 31063,
+        "createdAt": "2020-10-12T16:05:20.000Z",
+        "updatedAt": "2021-06-03T11:51:27.000Z",
+        "deletedAt": null
+      },
+      "2ab3e905-55d4-4be6-90fe-273e9a70eb72": {
+        "authors": [
+          "Kuku Hayate"
+        ],
+        "identifier": "2ab3e905-55d4-4be6-90fe-273e9a70eb72",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hakurou no Shi",
+        "url": "https://mangadex.org/title/2ab3e905-55d4-4be6-90fe-273e9a70eb72",
+        "image": "https://uploads.mangadex.org/covers/2ab3e905-55d4-4be6-90fe-273e9a70eb72/a82d5aa2-135a-4724-8d5c-e2391d79b0d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1063,
+        "aniId": 31063,
+        "createdAt": "2020-10-12T16:17:59.000Z",
+        "updatedAt": "2021-06-07T12:49:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

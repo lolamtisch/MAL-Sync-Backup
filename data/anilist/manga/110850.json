@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "Dear NOMAN",
+    "Dear NOMAN",
+    "ディアノーマン"
+  ],
+  "authors": [
+    "Neji"
+  ],
+  "id": 110850,
+  "malId": 123507,
+  "type": "manga",
+  "title": "Dear NOMAN",
+  "url": "https://anilist.co/manga/110850",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110850-Okl7NikCye3C.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:00.000Z",
+  "updatedAt": "2021-05-20T14:59:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "59813bfa-fa47-4f95-89ab-ae578d618197": {
+        "authors": [
+          "Neji"
+        ],
+        "identifier": "59813bfa-fa47-4f95-89ab-ae578d618197",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dear NOMAN",
+        "url": "https://mangadex.org/title/59813bfa-fa47-4f95-89ab-ae578d618197",
+        "image": "https://uploads.mangadex.org/covers/59813bfa-fa47-4f95-89ab-ae578d618197/e621b136-8049-45d1-a1b6-f67e975d5f9f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123507,
+        "aniId": 110850,
+        "createdAt": "2020-10-12T16:16:45.000Z",
+        "updatedAt": "2021-06-07T01:32:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gu920329": {
+        "authors": [
+          "Neji"
+        ],
+        "identifier": "gu920329",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Dear Noman",
+        "url": "https://manganelo.com/manga/gu920329",
+        "image": "https://avt.mkklcdnv6temp.com/14/v/19-1583499659.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 123507,
+        "aniId": 110850,
+        "createdAt": "2020-10-12T16:23:11.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dear-noman": {
+        "authors": [
+          "Neji"
+        ],
+        "identifier": "dear-noman",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dear NOMAN",
+        "url": "https://mangasee123.com/manga/Dear-NOMAN",
+        "image": "https://cover.nep.li/cover/Dear-NOMAN.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123507,
+        "aniId": 110850,
+        "createdAt": "2021-03-01T15:24:47.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

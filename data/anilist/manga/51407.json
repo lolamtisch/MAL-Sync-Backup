@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "忍者ハットリくん",
+    "Aspirant-ninja Hattori-kun"
+  ],
+  "authors": [
+    "Fujio A Fujiko"
+  ],
+  "id": 51407,
+  "malId": 21407,
+  "type": "manga",
+  "title": "Ninja Hattori-kun",
+  "url": "https://anilist.co/manga/51407",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21407.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:42.000Z",
+  "updatedAt": "2021-05-20T14:45:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c5db38b5-4b6b-43a1-908b-894bdcdbf120": {
+        "authors": [
+          "Fujiko Fujio (A)"
+        ],
+        "identifier": "c5db38b5-4b6b-43a1-908b-894bdcdbf120",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ninja Hattori-Kun",
+        "url": "https://mangadex.org/title/c5db38b5-4b6b-43a1-908b-894bdcdbf120",
+        "image": "https://uploads.mangadex.org/covers/c5db38b5-4b6b-43a1-908b-894bdcdbf120/6f4891c5-1d37-4896-9d91-154fd77fbdbf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21407,
+        "aniId": 51407,
+        "createdAt": "2020-10-12T16:15:31.000Z",
+        "updatedAt": "2021-06-06T14:31:59.000Z",
+        "deletedAt": null
+      },
+      "c22edde5-e980-42b8-82c5-5c9d81a53d58": {
+        "authors": [
+          "Fujiko Fujio (A)"
+        ],
+        "identifier": "c22edde5-e980-42b8-82c5-5c9d81a53d58",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "New Ninja Hattori-kun",
+        "url": "https://mangadex.org/title/c22edde5-e980-42b8-82c5-5c9d81a53d58",
+        "image": "https://uploads.mangadex.org/covers/c22edde5-e980-42b8-82c5-5c9d81a53d58/0c059809-753e-48db-af68-ecce71b29a4e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21407,
+        "aniId": 51407,
+        "createdAt": "2021-02-13T16:36:04.000Z",
+        "updatedAt": "2021-06-08T11:10:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

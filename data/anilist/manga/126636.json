@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "나 홀로 주문 사용자",
+    "Solo Spell Caster"
+  ],
+  "authors": [
+    "Cheongcho",
+    "Cho-Ba Min"
+  ],
+  "id": 126636,
+  "malId": null,
+  "type": "manga",
+  "title": "Na Hollo Jumun Sayongja",
+  "url": "https://anilist.co/manga/126636",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126636-QOL1fKpmqm9Z.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T05:42:57.000Z",
+  "updatedAt": "2021-05-21T05:42:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd390a8e-1db0-48cb-b660-bceee2ef37d8": {
+        "authors": [
+          "민초바",
+          "청초"
+        ],
+        "identifier": "dd390a8e-1db0-48cb-b660-bceee2ef37d8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Solo Spell Caster",
+        "url": "https://mangadex.org/title/dd390a8e-1db0-48cb-b660-bceee2ef37d8",
+        "image": "https://uploads.mangadex.org/covers/dd390a8e-1db0-48cb-b660-bceee2ef37d8/07529052-1558-4149-b98b-995d441aaed6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126636,
+        "createdAt": "2020-11-21T19:22:23.000Z",
+        "updatedAt": "2021-06-08T08:47:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "solo_spell_caster": {
+        "authors": [
+          "Cheongcho"
+        ],
+        "identifier": "solo_spell_caster",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Solo Spell Caster",
+        "url": "https://fanfox.net/manga/solo_spell_caster/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36627/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 126636,
+        "createdAt": "2020-12-20T11:26:05.000Z",
+        "updatedAt": "2021-05-21T18:12:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

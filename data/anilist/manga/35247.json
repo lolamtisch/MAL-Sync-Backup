@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ツいてる彼女"
+  ],
+  "authors": [
+    "Maki Enjouji"
+  ],
+  "id": 35247,
+  "malId": 5247,
+  "type": "manga",
+  "title": "Tsuiteru Kanojo",
+  "url": "https://anilist.co/manga/35247",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5247.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ca197bfb-e2fd-4779-a2d2-80752519ddd8": {
+        "authors": [
+          "Enjouji Maki"
+        ],
+        "identifier": "ca197bfb-e2fd-4779-a2d2-80752519ddd8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuiteru Kanojo",
+        "url": "https://mangadex.org/title/ca197bfb-e2fd-4779-a2d2-80752519ddd8",
+        "image": "https://uploads.mangadex.org/covers/ca197bfb-e2fd-4779-a2d2-80752519ddd8/453c030f-7356-44ce-9579-7889f1205635.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5247,
+        "aniId": 35247,
+        "createdAt": "2020-10-12T16:05:31.000Z",
+        "updatedAt": "2021-06-03T13:09:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tsuiteru_kanojo_niku": {
+        "authors": [],
+        "identifier": "tsuiteru_kanojo_niku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tsuiteru Kanojo (Niku)",
+        "url": "https://manganelo.com/manga/tsuiteru_kanojo_niku",
+        "image": "https://avt.mkklcdnv6.com/14/f/2-1583466248.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5247,
+        "aniId": 35247,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

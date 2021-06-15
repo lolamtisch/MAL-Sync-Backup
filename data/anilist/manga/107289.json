@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ジャジャ子ちゃん"
+  ],
+  "authors": [
+    "Fujio Akatsuka"
+  ],
+  "id": 107289,
+  "malId": null,
+  "type": "manga",
+  "title": "Jajako-chan",
+  "url": "https://anilist.co/manga/107289",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n107289-5mdhPLgMI2pb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T12:19:48.000Z",
+  "updatedAt": "2021-06-06T12:19:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "917a7307-2da5-4c7e-be23-33982be0c561": {
+        "authors": [
+          "Akatsuka Fujio"
+        ],
+        "identifier": "917a7307-2da5-4c7e-be23-33982be0c561",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jajako-Chan",
+        "url": "https://mangadex.org/title/917a7307-2da5-4c7e-be23-33982be0c561",
+        "image": "https://uploads.mangadex.org/covers/917a7307-2da5-4c7e-be23-33982be0c561/a9a43f16-e2c9-4df0-adea-2a66329cc54c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 107289,
+        "createdAt": "2020-10-12T16:15:16.000Z",
+        "updatedAt": "2021-06-06T13:35:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

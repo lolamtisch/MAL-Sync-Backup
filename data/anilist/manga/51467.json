@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Stargazing Dog",
+    "星守る犬",
+    "Star Protector Dog",
+    "O Cão que Guarda as Estrelas",
+    "Il Cane che Guarda le Stelle "
+  ],
+  "authors": [
+    "Takashi Murakami",
+    "Marco Franca"
+  ],
+  "id": 51467,
+  "malId": 21467,
+  "type": "manga",
+  "title": "Hoshi Mamoru Inu",
+  "url": "https://anilist.co/manga/51467",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51467-RusjQiRfJxfr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:42.000Z",
+  "updatedAt": "2021-05-20T14:45:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "832a84fc-5644-40d3-94db-d9b23bda1173": {
+        "authors": [
+          "Murakami Takashi"
+        ],
+        "identifier": "832a84fc-5644-40d3-94db-d9b23bda1173",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshi Mamoru Inu",
+        "url": "https://mangadex.org/title/832a84fc-5644-40d3-94db-d9b23bda1173",
+        "image": "https://uploads.mangadex.org/covers/832a84fc-5644-40d3-94db-d9b23bda1173/49aad246-3030-44f8-b924-4734d4cbceaa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21467,
+        "aniId": 51467,
+        "createdAt": "2020-10-12T16:09:43.000Z",
+        "updatedAt": "2021-06-04T19:30:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

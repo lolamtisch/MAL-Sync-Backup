@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Yo-kai Watch",
+    "妖怪ウォッチ"
+  ],
+  "authors": [
+    "Noriyuki Konishi"
+  ],
+  "id": 91171,
+  "malId": 70401,
+  "type": "manga",
+  "title": "Youkai Watch",
+  "url": "https://anilist.co/manga/91171",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91171-S6t5zJY9xrce.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:31.000Z",
+  "updatedAt": "2021-05-20T14:51:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "500ac84c-959c-4d6d-bea4-1ebcee2aea67": {
+        "authors": [
+          "Konishi Noriyuki"
+        ],
+        "identifier": "500ac84c-959c-4d6d-bea4-1ebcee2aea67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yo-kai Watch",
+        "url": "https://mangadex.org/title/500ac84c-959c-4d6d-bea4-1ebcee2aea67",
+        "image": "https://uploads.mangadex.org/covers/500ac84c-959c-4d6d-bea4-1ebcee2aea67/680387ed-f5b3-4bfa-9a84-99af7b44fe9f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70401,
+        "aniId": 91171,
+        "createdAt": "2020-10-12T16:08:06.000Z",
+        "updatedAt": "2021-06-04T07:33:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

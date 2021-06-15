@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "カイテンワン",
+    "Kaitenwan"
+  ],
+  "authors": [
+    "Yokusaru Shibata"
+  ],
+  "id": 102061,
+  "malId": 106789,
+  "type": "manga",
+  "title": "Kaiten-One",
+  "url": "https://anilist.co/manga/102061",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102061-snH5O5rHkMDe.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:48.000Z",
+  "updatedAt": "2021-05-20T14:55:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1bba4f25-2262-4dbe-aed0-7006d2429b9c": {
+        "authors": [
+          "Shibata Yokusaru"
+        ],
+        "identifier": "1bba4f25-2262-4dbe-aed0-7006d2429b9c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaiten-One",
+        "url": "https://mangadex.org/title/1bba4f25-2262-4dbe-aed0-7006d2429b9c",
+        "image": "https://uploads.mangadex.org/covers/1bba4f25-2262-4dbe-aed0-7006d2429b9c/ea335e70-a047-40cd-a91c-27d008d23b2d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106789,
+        "aniId": 102061,
+        "createdAt": "2020-10-12T16:10:41.000Z",
+        "updatedAt": "2021-06-05T02:35:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "My Darling Signed In",
+    "내 자기님이 로그인 하셨습니다"
+  ],
+  "authors": [
+    "Dimang",
+    "New Lung"
+  ],
+  "id": 103232,
+  "malId": null,
+  "type": "manga",
+  "title": "Nae Jaginimi Login Hasyeotseumnida",
+  "url": "https://anilist.co/manga/103232",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103232-wE1ASlpLllA8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-29T16:12:13.000Z",
+  "updatedAt": "2021-05-29T16:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6a50ffeb-9678-47b4-868e-15fe0febe188": {
+        "authors": [
+          "New Lung",
+          "Dimang"
+        ],
+        "identifier": "6a50ffeb-9678-47b4-868e-15fe0febe188",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Darling Signed In",
+        "url": "https://mangadex.org/title/6a50ffeb-9678-47b4-868e-15fe0febe188",
+        "image": "https://uploads.mangadex.org/covers/6a50ffeb-9678-47b4-868e-15fe0febe188/1329f5ca-ffdd-43ee-980e-8d08d42b0dd1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 103232,
+        "createdAt": "2020-10-12T16:16:25.000Z",
+        "updatedAt": "2021-06-09T08:06:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

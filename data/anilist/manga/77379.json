@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Ginger Honey",
+    "ジンジャーハニー"
+  ],
+  "authors": [
+    "Isaku Natsume"
+  ],
+  "id": 77379,
+  "malId": 47379,
+  "type": "manga",
+  "title": "Ginger Honey",
+  "url": "https://anilist.co/manga/77379",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b77379-5mKGsl9XL9Nv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:36.000Z",
+  "updatedAt": "2021-05-20T14:49:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "89be3bef-0696-4d1a-96bf-31a49cbf1846": {
+        "authors": [
+          "Natsume Isaku"
+        ],
+        "identifier": "89be3bef-0696-4d1a-96bf-31a49cbf1846",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ginger Honey",
+        "url": "https://mangadex.org/title/89be3bef-0696-4d1a-96bf-31a49cbf1846",
+        "image": "https://uploads.mangadex.org/covers/89be3bef-0696-4d1a-96bf-31a49cbf1846/bc3791cc-d2f2-489d-b687-d15601f5a74b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47379,
+        "aniId": 77379,
+        "createdAt": "2020-10-12T16:16:01.000Z",
+        "updatedAt": "2021-06-06T18:43:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

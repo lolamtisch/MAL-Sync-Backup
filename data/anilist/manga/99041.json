@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "キング・オブ・アイドル",
+    "K.O.I"
+  ],
+  "authors": [
+    "Tamiki Wakaki"
+  ],
+  "id": 99041,
+  "malId": 106193,
+  "type": "manga",
+  "title": "King of Idol",
+  "url": "https://anilist.co/manga/99041",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99041-EhnI3bJc45qO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:45.000Z",
+  "updatedAt": "2021-05-20T14:55:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "370233a6-8ad5-493a-b463-dcae722ce177": {
+        "authors": [
+          "Wakaki Tamiki"
+        ],
+        "identifier": "370233a6-8ad5-493a-b463-dcae722ce177",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "King of Idol",
+        "url": "https://mangadex.org/title/370233a6-8ad5-493a-b463-dcae722ce177",
+        "image": "https://uploads.mangadex.org/covers/370233a6-8ad5-493a-b463-dcae722ce177/9df99b3b-5df0-4928-aa48-a7bcaa8d28ac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106193,
+        "aniId": 99041,
+        "createdAt": "2020-10-12T16:10:44.000Z",
+        "updatedAt": "2021-06-05T02:57:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "king_of_idol": {
+        "authors": [
+          "WAKAKI Tamiki"
+        ],
+        "identifier": "king_of_idol",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "King of Idol",
+        "url": "https://fanfox.net/manga/king_of_idol/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25599/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106193,
+        "aniId": 99041,
+        "createdAt": "2021-03-26T15:49:16.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

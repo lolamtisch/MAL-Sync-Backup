@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "NAKED -ネイキッド-"
+  ],
+  "authors": [
+    "Saya Miyauchi"
+  ],
+  "id": 35352,
+  "malId": 5352,
+  "type": "manga",
+  "title": "Naked",
+  "url": "https://anilist.co/manga/35352",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b35352-ToKndw0q40de.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:27.000Z",
+  "updatedAt": "2021-05-20T14:39:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f4a2b5a5-c591-43eb-b7dc-d0486e48a7ab": {
+        "authors": [
+          "SAGAWA Miku"
+        ],
+        "identifier": "f4a2b5a5-c591-43eb-b7dc-d0486e48a7ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Club Naked",
+        "url": "https://mangadex.org/title/f4a2b5a5-c591-43eb-b7dc-d0486e48a7ab",
+        "image": "https://uploads.mangadex.org/covers/f4a2b5a5-c591-43eb-b7dc-d0486e48a7ab/ad19a8f0-1a69-433f-b826-b57300142b20.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5352,
+        "aniId": 35352,
+        "createdAt": "2020-10-12T16:19:22.000Z",
+        "updatedAt": "2021-06-07T21:55:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

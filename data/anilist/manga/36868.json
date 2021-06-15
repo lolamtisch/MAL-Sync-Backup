@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "KEEP OUT キープ アウト",
+    "Держись подальше!"
+  ],
+  "authors": [
+    "Hirotaka Kisaragi",
+    "Hichiwa Yuka"
+  ],
+  "id": 36868,
+  "malId": 6868,
+  "type": "manga",
+  "title": "Keep Out",
+  "url": "https://anilist.co/manga/36868",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36868-dzoH500RKsWz.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:43.000Z",
+  "updatedAt": "2021-05-20T14:39:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "30c7bb1c-a10b-4aba-aaf7-0a327181a3fd": {
+        "authors": [
+          "Hichiwa Yuka",
+          "Kisaragi Hirotaka"
+        ],
+        "identifier": "30c7bb1c-a10b-4aba-aaf7-0a327181a3fd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Keep Out",
+        "url": "https://mangadex.org/title/30c7bb1c-a10b-4aba-aaf7-0a327181a3fd",
+        "image": "https://uploads.mangadex.org/covers/30c7bb1c-a10b-4aba-aaf7-0a327181a3fd/3f66d5ec-0e87-4f2b-884f-2870a2ea58f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6868,
+        "aniId": 36868,
+        "createdAt": "2020-10-12T16:13:04.000Z",
+        "updatedAt": "2021-06-05T18:33:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "keep_out_kisaragi_hirotaka": {
+        "authors": [
+          "HICHIWA Yuka"
+        ],
+        "identifier": "keep_out_kisaragi_hirotaka",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Keep Out (KISARAGI Hirotaka)",
+        "url": "https://fanfox.net/manga/keep_out_kisaragi_hirotaka/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3946/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 6868,
+        "aniId": 36868,
+        "createdAt": "2021-05-20T21:13:37.000Z",
+        "updatedAt": "2021-05-21T07:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "altTitle": [
+    "Toyama Tourism Anime Project",
+    "富山観光アニメプロジェクト",
+    "Nakaseru Sora ni Aitai: Toyama",
+    "Miwaku no Muttsu no Monogatari"
+  ],
+  "id": 10511,
+  "malId": 10511,
+  "type": "anime",
+  "title": "Toyama Kankou Anime Project",
+  "url": "https://anilist.co/anime/10511",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10511.jpg",
+  "category": "special",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:16.000Z",
+  "updatedAt": "2021-05-20T14:39:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "55o0": {
+        "identifier": "55o0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toyama Tourism Anime Project",
+        "url": "https://9anime.ru/watch/toyama-tourism-anime-project.55o0",
+        "image": "http://static.akacdn.ru/static/images/2018/03/e090a77b684b078ced2c557b44b871f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10511,
+        "aniId": 10511,
+        "createdAt": "2020-10-12T15:50:24.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "toyama-kankou-anime-project": {
+        "identifier": "toyama-kankou-anime-project",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Toyama Kankou Anime Project",
+        "url": "https://gogoanime.ai/category/toyama-kankou-anime-project",
+        "image": "https://gogocdn.net/cover/toyama-kankou-anime-project.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10511,
+        "aniId": 10511,
+        "createdAt": "2021-06-07T10:20:58.000Z",
+        "updatedAt": "2021-06-07T10:27:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

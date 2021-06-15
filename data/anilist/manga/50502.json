@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Keita Saiki"
+  ],
+  "id": 50502,
+  "malId": 20502,
+  "type": "manga",
+  "title": "Fairy Gone Garden",
+  "url": "https://anilist.co/manga/50502",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20502.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:45:32.000Z",
+  "updatedAt": "2021-05-20T14:45:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c8a6aff5-c69b-425f-bcfe-19849ec4ba01": {
+        "authors": [
+          "Saiki Keita"
+        ],
+        "identifier": "c8a6aff5-c69b-425f-bcfe-19849ec4ba01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fairy Gone Garden",
+        "url": "https://mangadex.org/title/c8a6aff5-c69b-425f-bcfe-19849ec4ba01",
+        "image": "https://uploads.mangadex.org/covers/c8a6aff5-c69b-425f-bcfe-19849ec4ba01/86a288ee-e51b-407d-a047-3cb720a2d121.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20502,
+        "aniId": 50502,
+        "createdAt": "2020-10-12T16:13:55.000Z",
+        "updatedAt": "2021-06-06T01:02:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

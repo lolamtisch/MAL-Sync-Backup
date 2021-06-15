@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ヤクソクの種",
+    "Seed of Promise"
+  ],
+  "authors": [
+    "Tomiyaki Kagisora",
+    "40mP"
+  ],
+  "id": 93288,
+  "malId": 82671,
+  "type": "manga",
+  "title": "Yakusoku no Tane",
+  "url": "https://anilist.co/manga/93288",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/93288-Kp3LYaxU7CeF.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:05.000Z",
+  "updatedAt": "2021-05-20T14:52:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "af318bdf-e713-4020-b19f-274bb04bbdf4": {
+        "authors": [
+          "Kagisora Tomiyaki"
+        ],
+        "identifier": "af318bdf-e713-4020-b19f-274bb04bbdf4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yakusoku no Tane",
+        "url": "https://mangadex.org/title/af318bdf-e713-4020-b19f-274bb04bbdf4",
+        "image": "https://uploads.mangadex.org/covers/af318bdf-e713-4020-b19f-274bb04bbdf4/75e87316-938c-42db-8444-f9dcd60478aa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82671,
+        "aniId": 93288,
+        "createdAt": "2020-10-12T16:08:05.000Z",
+        "updatedAt": "2021-06-04T07:29:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

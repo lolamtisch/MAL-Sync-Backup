@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "in THE ROOM -イン・ザ・ルーム-"
+  ],
+  "authors": [
+    "Kousuke Yasuda"
+  ],
+  "id": 104020,
+  "malId": 114824,
+  "type": "manga",
+  "title": "in THE ROOM",
+  "url": "https://anilist.co/manga/104020",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104020-9OVfrtH8at2a.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:11.000Z",
+  "updatedAt": "2021-05-20T14:57:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e339b43c-4808-4a5c-bfee-fda7daa3c563": {
+        "authors": [
+          "Yasuda Kousuke"
+        ],
+        "identifier": "e339b43c-4808-4a5c-bfee-fda7daa3c563",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "In the Room",
+        "url": "https://mangadex.org/title/e339b43c-4808-4a5c-bfee-fda7daa3c563",
+        "image": "https://uploads.mangadex.org/covers/e339b43c-4808-4a5c-bfee-fda7daa3c563/4b5a5fbf-a3b6-414d-9e37-8f96dff52b0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114824,
+        "aniId": 104020,
+        "createdAt": "2020-10-12T16:13:32.000Z",
+        "updatedAt": "2021-06-05T22:05:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "in_the_room": {
+        "authors": [],
+        "identifier": "in_the_room",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "In The Room",
+        "url": "https://manganelo.com/manga/in_the_room",
+        "image": "https://avt.mkklcdnv6.com/2/g/17-1583495341.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114824,
+        "aniId": 104020,
+        "createdAt": "2020-10-12T16:23:33.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

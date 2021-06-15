@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Monkey's Foot",
+    "猿の足",
+    "Saru no Ashi"
+  ],
+  "authors": [
+    "Mieko Osaka"
+  ],
+  "id": 36020,
+  "malId": 6020,
+  "type": "manga",
+  "title": "Monkey's Foot",
+  "url": "https://anilist.co/manga/36020",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6020.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:36.000Z",
+  "updatedAt": "2021-05-20T14:39:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "37681ff1-feba-4fb8-85c1-03a97160831f": {
+        "authors": [
+          "OUSAKA Mieko"
+        ],
+        "identifier": "37681ff1-feba-4fb8-85c1-03a97160831f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Monkey's Foot",
+        "url": "https://mangadex.org/title/37681ff1-feba-4fb8-85c1-03a97160831f",
+        "image": "https://uploads.mangadex.org/covers/37681ff1-feba-4fb8-85c1-03a97160831f/6c155fe4-2bb8-4604-81ee-a591162d4763.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6020,
+        "aniId": 36020,
+        "createdAt": "2020-10-12T16:11:41.000Z",
+        "updatedAt": "2021-06-05T10:13:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

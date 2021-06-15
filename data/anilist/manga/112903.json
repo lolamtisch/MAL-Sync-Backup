@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "The Ring of The Nibelung",
+    "ニーベルングの指環",
+    "Der Ring des Nibelungen",
+    "Nibelungen no Yubiwa"
+  ],
+  "authors": [
+    "Richard Wagner",
+    "Ryo Azumi"
+  ],
+  "id": 112903,
+  "malId": 110708,
+  "type": "manga",
+  "title": "Nibelung no Yubiwa",
+  "url": "https://anilist.co/manga/112903",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112903-Y6uQ8eRXwHPx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:15.000Z",
+  "updatedAt": "2021-05-20T14:56:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cc714a52-483d-4099-bbd7-2d9a2368d64f": {
+        "authors": [
+          "Richard Wagner",
+          "AZUMI Ryou"
+        ],
+        "identifier": "cc714a52-483d-4099-bbd7-2d9a2368d64f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Niebelungen no Yubiwa",
+        "url": "https://mangadex.org/title/cc714a52-483d-4099-bbd7-2d9a2368d64f",
+        "image": "https://uploads.mangadex.org/covers/cc714a52-483d-4099-bbd7-2d9a2368d64f/f9fc3bae-ae0b-4e58-80c6-594964cea3e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 110708,
+        "aniId": 112903,
+        "createdAt": "2020-10-12T16:13:11.000Z",
+        "updatedAt": "2021-06-05T20:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "niebelungen-no-yubiwa": {
+        "authors": [
+          "AZUMI Ryou",
+          "Richard Wagner"
+        ],
+        "identifier": "niebelungen-no-yubiwa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ring of the Nibelung",
+        "url": "https://mangasee123.com/manga/Niebelungen-No-Yubiwa",
+        "image": "https://cover.nep.li/cover/Niebelungen-No-Yubiwa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110708,
+        "aniId": 112903,
+        "createdAt": "2021-04-30T07:51:37.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

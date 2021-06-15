@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "決闘裁判"
+  ],
+  "authors": [
+    "Hiroki Miyashita"
+  ],
+  "id": 100446,
+  "malId": 106898,
+  "type": "manga",
+  "title": "Kettou Saiban",
+  "url": "https://anilist.co/manga/100446",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100446-mwyHBCc9jLg7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:48.000Z",
+  "updatedAt": "2021-05-20T14:55:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "278e0e3b-eb2b-4095-83e8-b1590942398d": {
+        "authors": [
+          "Miyashita Hiroki"
+        ],
+        "identifier": "278e0e3b-eb2b-4095-83e8-b1590942398d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Judicial Duel",
+        "url": "https://mangadex.org/title/278e0e3b-eb2b-4095-83e8-b1590942398d",
+        "image": "https://uploads.mangadex.org/covers/278e0e3b-eb2b-4095-83e8-b1590942398d/e22b41a7-2cd4-485f-b2e1-f40e63f1ad18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106898,
+        "aniId": 100446,
+        "createdAt": "2020-10-12T16:14:20.000Z",
+        "updatedAt": "2021-06-06T04:26:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sc917876": {
+        "authors": [
+          "Hiroki",
+          "Miyashita"
+        ],
+        "identifier": "sc917876",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Judicial Duel",
+        "url": "https://manganelo.com/manga/sc917876",
+        "image": "https://avt.mkklcdnv6temp.com/25/e/17-1583496159.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106898,
+        "aniId": 100446,
+        "createdAt": "2021-05-08T02:18:13.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

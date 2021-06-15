@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "はにらび！",
+    "Hanirabi!"
+  ],
+  "authors": [
+    "Souta Kuwahara"
+  ],
+  "id": 51629,
+  "malId": 21629,
+  "type": "manga",
+  "title": "Honey Rabbit!",
+  "url": "https://anilist.co/manga/51629",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51629-N8pfty096iCJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:43.000Z",
+  "updatedAt": "2021-05-20T14:45:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22231dea-4bb3-49af-b7b1-82777f3ce713": {
+        "authors": [
+          "KUWAHARA Souta"
+        ],
+        "identifier": "22231dea-4bb3-49af-b7b1-82777f3ce713",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanirabi!",
+        "url": "https://mangadex.org/title/22231dea-4bb3-49af-b7b1-82777f3ce713",
+        "image": "https://uploads.mangadex.org/covers/22231dea-4bb3-49af-b7b1-82777f3ce713/f45688a7-de59-46d6-8073-0466ab17386d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21629,
+        "aniId": 51629,
+        "createdAt": "2020-10-12T16:04:06.000Z",
+        "updatedAt": "2021-06-02T18:46:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

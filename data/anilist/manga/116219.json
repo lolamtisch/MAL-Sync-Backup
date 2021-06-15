@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "親愛なるジーンへ",
+    "Dear Gene",
+    "친애하는 진에게"
+  ],
+  "authors": [
+    "Kaya Azuma"
+  ],
+  "id": 116219,
+  "malId": 127572,
+  "type": "manga",
+  "title": "Shinnainaru Gene e",
+  "url": "https://anilist.co/manga/116219",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116219-HHOPtUHYRjIL.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:59:20.000Z",
+  "updatedAt": "2021-05-27T15:58:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5fa9c811-6afe-4932-8802-af1907a3163f": {
+        "authors": [
+          "Azuma Kaya"
+        ],
+        "identifier": "5fa9c811-6afe-4932-8802-af1907a3163f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dear Gene",
+        "url": "https://mangadex.org/title/5fa9c811-6afe-4932-8802-af1907a3163f",
+        "image": "https://uploads.mangadex.org/covers/5fa9c811-6afe-4932-8802-af1907a3163f/f3d629db-b212-476e-b34d-b53d2539dcf1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127572,
+        "aniId": 116219,
+        "createdAt": "2020-10-12T16:20:12.000Z",
+        "updatedAt": "2021-06-08T00:41:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shinai_naru_gene_e": {
+        "authors": [
+          "AZUMA Kaya"
+        ],
+        "identifier": "shinai_naru_gene_e",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shinai Naru Gene e",
+        "url": "https://fanfox.net/manga/shinai_naru_gene_e/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37169/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127572,
+        "aniId": 116219,
+        "createdAt": "2021-03-29T21:31:10.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

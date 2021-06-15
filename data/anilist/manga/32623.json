@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Wren Tamaquis"
+  ],
+  "id": 32623,
+  "malId": 2623,
+  "type": "manga",
+  "title": "Job Searching Advice",
+  "url": "https://anilist.co/manga/32623",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2623.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a5d32e71-2e2c-4a22-baed-1e6dd5dc7735": {
+        "authors": [
+          "Tamaquis Wren"
+        ],
+        "identifier": "a5d32e71-2e2c-4a22-baed-1e6dd5dc7735",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Job Searching Advice",
+        "url": "https://mangadex.org/title/a5d32e71-2e2c-4a22-baed-1e6dd5dc7735",
+        "image": "https://uploads.mangadex.org/covers/a5d32e71-2e2c-4a22-baed-1e6dd5dc7735/9f02050b-2951-4ee4-a71e-b7236431a0ea.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2623,
+        "aniId": 32623,
+        "createdAt": "2020-10-12T16:11:57.000Z",
+        "updatedAt": "2021-06-05T12:11:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

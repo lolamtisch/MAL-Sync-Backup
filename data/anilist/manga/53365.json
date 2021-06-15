@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "世紀末オカルト学院",
+    "Occult Academy Plus"
+  ],
+  "authors": [
+    "Kei Toru"
+  ],
+  "id": 53365,
+  "malId": 23365,
+  "type": "manga",
+  "title": "Seikimatsu Occult Gakuin",
+  "url": "https://anilist.co/manga/53365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23365.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:37.000Z",
+  "updatedAt": "2021-05-20T14:46:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3d109f2e-e3b3-4216-a24b-99c3a7bb579f": {
+        "authors": [
+          "TORU Kei"
+        ],
+        "identifier": "3d109f2e-e3b3-4216-a24b-99c3a7bb579f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Occult Academy",
+        "url": "https://mangadex.org/title/3d109f2e-e3b3-4216-a24b-99c3a7bb579f",
+        "image": "https://uploads.mangadex.org/covers/3d109f2e-e3b3-4216-a24b-99c3a7bb579f/0772e3f9-273d-4e2c-86da-a20f36f8390a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23365,
+        "aniId": 53365,
+        "createdAt": "2020-10-12T16:03:43.000Z",
+        "updatedAt": "2021-06-02T16:01:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "occult-academy": {
+        "authors": [
+          "TORU Kei"
+        ],
+        "identifier": "occult-academy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Occult Academy",
+        "url": "https://mangasee123.com/manga/Occult-Academy",
+        "image": "https://cover.nep.li/cover/Occult-Academy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23365,
+        "aniId": 53365,
+        "createdAt": "2021-05-22T17:43:11.000Z",
+        "updatedAt": "2021-05-22T18:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

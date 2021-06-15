@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Like Wind on a Dry Branch",
+    "마른 가지에 바람처럼"
+  ],
+  "authors": [
+    "Hwa-Eum  ",
+    "Sa-Eul Dal"
+  ],
+  "id": 124522,
+  "malId": 134707,
+  "type": "manga",
+  "title": "Mareun Gajie Baramcheoreom",
+  "url": "https://anilist.co/manga/124522",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124522-053McfiMn6NK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-28T11:23:47.000Z",
+  "updatedAt": "2021-06-09T10:34:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b716dd00-fc58-4266-b3e4-49bfd78f8a35": {
+        "authors": [
+          "Hwa Eum",
+          "Dal Seaul"
+        ],
+        "identifier": "b716dd00-fc58-4266-b3e4-49bfd78f8a35",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Like the Wind on a Dry Branch",
+        "url": "https://mangadex.org/title/b716dd00-fc58-4266-b3e4-49bfd78f8a35",
+        "image": "https://uploads.mangadex.org/covers/b716dd00-fc58-4266-b3e4-49bfd78f8a35/517efbaf-9e3d-459c-87d0-dae992cc1b42.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134707,
+        "aniId": 124522,
+        "createdAt": "2020-10-12T16:21:39.000Z",
+        "updatedAt": "2021-06-08T06:59:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "like-wind-on-a-dry-branch": {
+        "authors": [
+          "Dalsaeowl",
+          "Hwaeum"
+        ],
+        "identifier": "like-wind-on-a-dry-branch",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Like Wind on a Dry Branch",
+        "url": "https://mangasee123.com/manga/Like-Wind-on-a-Dry-Branch",
+        "image": "https://cover.nep.li/cover/Like-Wind-on-a-Dry-Branch.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134707,
+        "aniId": 124522,
+        "createdAt": "2021-03-25T17:49:17.000Z",
+        "updatedAt": "2021-06-09T11:04:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "百合",
+    "Bai He (Lily)",
+    "Blackbird of Destiny"
+  ],
+  "authors": [
+    "Ge Bi De Te Te Luo"
+  ],
+  "id": 105016,
+  "malId": null,
+  "type": "manga",
+  "title": "Bai He",
+  "url": "https://anilist.co/manga/105016",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105016-6cIdXXBNaDrv.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T22:50:42.000Z",
+  "updatedAt": "2021-06-05T22:50:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "56c013d1-28da-4e88-ad5c-a7863549aacc": {
+        "authors": [
+          "Gebi de tete luo"
+        ],
+        "identifier": "56c013d1-28da-4e88-ad5c-a7863549aacc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blackbird of Destiny",
+        "url": "https://mangadex.org/title/56c013d1-28da-4e88-ad5c-a7863549aacc",
+        "image": "https://uploads.mangadex.org/covers/56c013d1-28da-4e88-ad5c-a7863549aacc/f0199dee-dc9a-41e9-b210-8a0302cf206d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 105016,
+        "createdAt": "2020-10-12T16:13:34.000Z",
+        "updatedAt": "2021-06-06T00:23:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

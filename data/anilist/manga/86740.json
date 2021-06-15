@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "まほろばきっさ"
+  ],
+  "authors": [
+    "tugeneko"
+  ],
+  "id": 86740,
+  "malId": 96214,
+  "type": "manga",
+  "title": "Mahoroba Kissa",
+  "url": "https://anilist.co/manga/86740",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86740-DfmOjYMvyabD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:02.000Z",
+  "updatedAt": "2021-05-20T14:54:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d85b002-be1d-4c55-a96b-91b856362830": {
+        "authors": [
+          "tugeneko"
+        ],
+        "identifier": "7d85b002-be1d-4c55-a96b-91b856362830",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahoroba Kissa",
+        "url": "https://mangadex.org/title/7d85b002-be1d-4c55-a96b-91b856362830",
+        "image": "https://uploads.mangadex.org/covers/7d85b002-be1d-4c55-a96b-91b856362830/a30692d3-c75d-4085-8472-fbcc94482a20.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96214,
+        "aniId": 86740,
+        "createdAt": "2020-10-12T16:09:29.000Z",
+        "updatedAt": "2021-06-04T17:53:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mahoroba_kissa": {
+        "authors": [],
+        "identifier": "mahoroba_kissa",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mahoroba Kissa",
+        "url": "https://manganelo.com/manga/mahoroba_kissa",
+        "image": "https://avt.mkklcdnv6.com/35/i/11-1583485284.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96214,
+        "aniId": 86740,
+        "createdAt": "2020-10-12T16:24:14.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

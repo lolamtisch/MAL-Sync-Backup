@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "サクラカプセル"
+  ],
+  "id": 98207,
+  "malId": 25915,
+  "type": "anime",
+  "title": "Sakura Capsule",
+  "url": "https://anilist.co/anime/98207",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98207-fjCJdp5T3hAt.png",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:38.000Z",
+  "updatedAt": "2021-05-20T14:41:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "2m8q": {
+        "identifier": "2m8q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sakura Capusule",
+        "url": "https://9anime.ru/watch/sakura-capusule.2m8q",
+        "image": "http://static.akacdn.ru/static/images/2018/07/85d919ac8615233dbf0d930c219c0cd4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25915,
+        "aniId": 98207,
+        "createdAt": "2020-10-12T15:49:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "2219": {
+        "identifier": "2219",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Sakura Capusule (GerSub)",
+        "url": "https://www.anime4you.one/show/1/aid/2219",
+        "image": "https://cdn.anime4you.one/covers/0908181212080875512.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25915,
+        "aniId": 98207,
+        "createdAt": "2020-10-15T12:24:53.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

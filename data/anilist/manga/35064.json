@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Love Home",
+    "ラブ・ホーム"
+  ],
+  "authors": [
+    "Kiriyu Kiyoi"
+  ],
+  "id": 35064,
+  "malId": 5064,
+  "type": "manga",
+  "title": "Love Home",
+  "url": "https://anilist.co/manga/35064",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5064.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b9b9c9cf-96b3-4862-9fa7-0c55cbdc8a4e": {
+        "authors": [
+          "Tsuyuki Yuruco"
+        ],
+        "identifier": "b9b9c9cf-96b3-4862-9fa7-0c55cbdc8a4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Home",
+        "url": "https://mangadex.org/title/b9b9c9cf-96b3-4862-9fa7-0c55cbdc8a4e",
+        "image": "https://uploads.mangadex.org/covers/b9b9c9cf-96b3-4862-9fa7-0c55cbdc8a4e/e79093ee-becb-40c3-a867-ad228923e2c1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5064,
+        "aniId": 35064,
+        "createdAt": "2020-10-12T16:14:38.000Z",
+        "updatedAt": "2021-06-06T06:44:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "love_home": {
+        "authors": [],
+        "identifier": "love_home",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love Home",
+        "url": "https://manganelo.com/manga/love_home",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/6128-love_home.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5064,
+        "aniId": 35064,
+        "createdAt": "2020-10-12T16:24:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

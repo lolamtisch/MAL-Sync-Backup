@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Love in One Go",
+    "あと一息で愛"
+  ],
+  "authors": [
+    "Sangatsu Masao"
+  ],
+  "id": 86794,
+  "malId": 58101,
+  "type": "manga",
+  "title": "Ato Hitoiki de Ai",
+  "url": "https://anilist.co/manga/86794",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56794-raBotLMxLgxF.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:32.000Z",
+  "updatedAt": "2021-05-20T14:50:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3049917b-b2fc-4be0-9935-4c04031152d9": {
+        "authors": [
+          "Masao Sangatsu"
+        ],
+        "identifier": "3049917b-b2fc-4be0-9935-4c04031152d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ato Hitoiki de Ai",
+        "url": "https://mangadex.org/title/3049917b-b2fc-4be0-9935-4c04031152d9",
+        "image": "https://uploads.mangadex.org/covers/3049917b-b2fc-4be0-9935-4c04031152d9/50c7c973-9f09-4912-b156-4c3d508c888a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58101,
+        "aniId": 86794,
+        "createdAt": "2020-10-12T16:07:00.000Z",
+        "updatedAt": "2021-06-03T23:35:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

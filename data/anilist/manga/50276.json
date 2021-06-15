@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "トランス・ヴィーナス",
+    "Trans-Venus"
+  ],
+  "authors": [
+    "Hisao Tamaki"
+  ],
+  "id": 50276,
+  "malId": 20276,
+  "type": "manga",
+  "title": "Trans Venus",
+  "url": "https://anilist.co/manga/50276",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50276-FlONfYk5RHFk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:28.000Z",
+  "updatedAt": "2021-05-20T14:45:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ba58545f-7fd3-496a-add5-f8ce2ffe169c": {
+        "authors": [
+          "Tamaki Hisao"
+        ],
+        "identifier": "ba58545f-7fd3-496a-add5-f8ce2ffe169c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trans Venus",
+        "url": "https://mangadex.org/title/ba58545f-7fd3-496a-add5-f8ce2ffe169c",
+        "image": "https://uploads.mangadex.org/covers/ba58545f-7fd3-496a-add5-f8ce2ffe169c/f7e84b06-d1d6-441c-84af-b0a1b36481e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20276,
+        "aniId": 50276,
+        "createdAt": "2020-10-12T16:05:01.000Z",
+        "updatedAt": "2021-06-03T09:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "trans_venus": {
+        "authors": [
+          "Tamaki",
+          "Hisao"
+        ],
+        "identifier": "trans_venus",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Trans Venus",
+        "url": "https://manganelo.com/manga/trans_venus",
+        "image": "https://avt.mkklcdnv6.com/23/s/5-1583472756.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20276,
+        "aniId": 50276,
+        "createdAt": "2020-12-31T13:29:03.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

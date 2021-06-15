@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Excuse Me for Being a Cat!",
+    "猫でごめん！",
+    "Excuse Me for Being a Cat!"
+  ],
+  "authors": [
+    "Akane Nagano"
+  ],
+  "id": 35807,
+  "malId": 5807,
+  "type": "manga",
+  "title": "Neko de Gomen!",
+  "url": "https://anilist.co/manga/35807",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5807.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:33.000Z",
+  "updatedAt": "2021-05-20T14:39:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "049ccf8f-8412-4ff3-bfea-2bc64776d1ec": {
+        "authors": [
+          "Nagano Akane"
+        ],
+        "identifier": "049ccf8f-8412-4ff3-bfea-2bc64776d1ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neko de Gomen!",
+        "url": "https://mangadex.org/title/049ccf8f-8412-4ff3-bfea-2bc64776d1ec",
+        "image": "https://uploads.mangadex.org/covers/049ccf8f-8412-4ff3-bfea-2bc64776d1ec/04d59371-09dd-44ea-94ae-fd1d4ff1efee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5807,
+        "aniId": 35807,
+        "createdAt": "2020-10-12T16:03:16.000Z",
+        "updatedAt": "2021-06-02T12:46:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

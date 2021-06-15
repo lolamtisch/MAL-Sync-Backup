@@ -1,0 +1,64 @@
+{
+  "altTitle": [],
+  "authors": [
+    "MISS BLACK"
+  ],
+  "id": 55038,
+  "malId": 25038,
+  "type": "manga",
+  "title": "Ziggurat",
+  "url": "https://anilist.co/manga/55038",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25038.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:48.000Z",
+  "updatedAt": "2021-05-20T14:46:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96727fbf-b71d-44a6-a785-d13c0a0526bb": {
+        "authors": [
+          "Miss Black"
+        ],
+        "identifier": "96727fbf-b71d-44a6-a785-d13c0a0526bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ziggurat",
+        "url": "https://mangadex.org/title/96727fbf-b71d-44a6-a785-d13c0a0526bb",
+        "image": "https://uploads.mangadex.org/covers/96727fbf-b71d-44a6-a785-d13c0a0526bb/2501cbf6-485a-4205-a5a9-d3ac75812256.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25038,
+        "aniId": 55038,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:05:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ziggurat": {
+        "authors": [
+          "Miss",
+          "Black"
+        ],
+        "identifier": "ziggurat",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ziggurat",
+        "url": "https://manganelo.com/manga/ziggurat",
+        "image": "https://avt.mkklcdnv6.com/47/w/9-1583482102.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25038,
+        "aniId": 55038,
+        "createdAt": "2020-10-25T20:22:21.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

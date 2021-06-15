@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Tiger Dragon Brothers",
+    "タイガー兄とドラゴン"
+  ],
+  "authors": [
+    "Ryuuhei Tamura"
+  ],
+  "id": 85859,
+  "malId": 85525,
+  "type": "manga",
+  "title": "Tiger-ani to Dragon",
+  "url": "https://anilist.co/manga/85859",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55859-teJooXcMLOeI.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:36.000Z",
+  "updatedAt": "2021-05-20T14:52:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3f01e7a-01e0-4889-90bf-e4850881c980": {
+        "authors": [
+          "Tamura Ryuuhei"
+        ],
+        "identifier": "c3f01e7a-01e0-4889-90bf-e4850881c980",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tiger Dragon Brothers",
+        "url": "https://mangadex.org/title/c3f01e7a-01e0-4889-90bf-e4850881c980",
+        "image": "https://uploads.mangadex.org/covers/c3f01e7a-01e0-4889-90bf-e4850881c980/71313191-3403-4b88-b346-143d050ef17e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85525,
+        "aniId": 85859,
+        "createdAt": "2020-10-12T16:08:16.000Z",
+        "updatedAt": "2021-06-04T08:52:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tiger_dragon_brothers": {
+        "authors": [
+          "TAMURA Ryuuhei"
+        ],
+        "identifier": "tiger_dragon_brothers",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tiger Dragon Brothers",
+        "url": "https://fanfox.net/manga/tiger_dragon_brothers/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14960/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85525,
+        "aniId": 85859,
+        "createdAt": "2021-03-18T19:35:21.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

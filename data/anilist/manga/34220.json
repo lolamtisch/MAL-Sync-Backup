@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "普羅旺斯"
+  ],
+  "authors": [
+    "Nicky Lee"
+  ],
+  "id": 34220,
+  "malId": 4220,
+  "type": "manga",
+  "title": "Provence",
+  "url": "https://anilist.co/manga/34220",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4220.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:26.000Z",
+  "updatedAt": "2021-05-20T14:38:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "00251b0a-d30f-4433-b20c-33eb76449f92": {
+        "authors": [
+          "LEE Nicky"
+        ],
+        "identifier": "00251b0a-d30f-4433-b20c-33eb76449f92",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Provence",
+        "url": "https://mangadex.org/title/00251b0a-d30f-4433-b20c-33eb76449f92",
+        "image": "https://uploads.mangadex.org/covers/00251b0a-d30f-4433-b20c-33eb76449f92/468167fb-5de9-4f2c-8193-3e7614ff050c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4220,
+        "aniId": 34220,
+        "createdAt": "2020-10-12T16:13:07.000Z",
+        "updatedAt": "2021-06-05T18:59:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "SECRET JOURNEY"
+  ],
+  "authors": [
+    "Zappa, Gou",
+    "Po-ju"
+  ],
+  "id": 7875,
+  "type": "manga",
+  "title": "Secret Journey",
+  "url": "https://myanimelist.net/manga/7875/Secret_Journey",
+  "image": "https://cdn.myanimelist.net/images/manga/3/71323.jpg",
+  "category": "Manga",
+  "hentai": true,
+  "createdAt": "2020-10-12T15:41:16.000Z",
+  "updatedAt": "2021-04-30T03:19:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "242aa7c1-457a-4deb-b8ef-a88ebf71e7e5": {
+        "authors": [
+          "Po-ju"
+        ],
+        "identifier": "242aa7c1-457a-4deb-b8ef-a88ebf71e7e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Secret Journey",
+        "url": "https://mangadex.org/title/242aa7c1-457a-4deb-b8ef-a88ebf71e7e5",
+        "image": "https://uploads.mangadex.org/covers/242aa7c1-457a-4deb-b8ef-a88ebf71e7e5/7bb61c5e-77ad-43e5-a765-44978d930d9d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7875,
+        "aniId": 37875,
+        "createdAt": "2020-10-12T16:16:51.000Z",
+        "updatedAt": "2021-06-07T02:30:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

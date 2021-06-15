@@ -1,0 +1,61 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Hiroshi Aro"
+  ],
+  "id": 58633,
+  "malId": 28633,
+  "type": "manga",
+  "title": "Morumo 1/10",
+  "url": "https://anilist.co/manga/58633",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/28633.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:32.000Z",
+  "updatedAt": "2021-05-20T14:47:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "facf7f6f-fa2d-464d-a543-8888bc47a560": {
+        "authors": [
+          "Aro Hiroshi"
+        ],
+        "identifier": "facf7f6f-fa2d-464d-a543-8888bc47a560",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Morumo 1/10",
+        "url": "https://mangadex.org/title/facf7f6f-fa2d-464d-a543-8888bc47a560",
+        "image": "https://uploads.mangadex.org/covers/facf7f6f-fa2d-464d-a543-8888bc47a560/70489a9c-bfc5-45b4-94d6-ec749945d531.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28633,
+        "aniId": 58633,
+        "createdAt": "2020-10-12T16:14:06.000Z",
+        "updatedAt": "2021-06-06T02:32:18.000Z",
+        "deletedAt": null
+      },
+      "2aae997b-d8ab-46a3-9981-a413136a9285": {
+        "authors": [
+          "Marvin. W"
+        ],
+        "identifier": "2aae997b-d8ab-46a3-9981-a413136a9285",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Humor Me",
+        "url": "https://mangadex.org/title/2aae997b-d8ab-46a3-9981-a413136a9285",
+        "image": "https://uploads.mangadex.org/covers/2aae997b-d8ab-46a3-9981-a413136a9285/2215f616-bae0-4a20-9128-9147211e175f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28633,
+        "aniId": 58633,
+        "createdAt": "2020-10-12T16:19:29.000Z",
+        "updatedAt": "2021-06-07T22:02:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

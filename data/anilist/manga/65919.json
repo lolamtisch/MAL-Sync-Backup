@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "哪吒传"
+  ],
+  "authors": [
+    "Jia MaoMao"
+  ],
+  "id": 65919,
+  "malId": 35919,
+  "type": "manga",
+  "title": "Tale of Nezha",
+  "url": "https://anilist.co/manga/65919",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35919.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:27.000Z",
+  "updatedAt": "2021-05-20T14:48:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5d46b7b5-90de-409a-9ddb-51879948eef4": {
+        "authors": [
+          "Mao Mao Jia"
+        ],
+        "identifier": "5d46b7b5-90de-409a-9ddb-51879948eef4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tale of Nezha",
+        "url": "https://mangadex.org/title/5d46b7b5-90de-409a-9ddb-51879948eef4",
+        "image": "https://uploads.mangadex.org/covers/5d46b7b5-90de-409a-9ddb-51879948eef4/f3a6906b-f42b-4878-8f72-1e19821c7554.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35919,
+        "aniId": 65919,
+        "createdAt": "2020-10-12T16:02:49.000Z",
+        "updatedAt": "2021-06-02T09:38:32.000Z",
+        "deletedAt": null
+      },
+      "51e4cd4b-a1a1-464b-b12c-76ed02d9b483": {
+        "authors": [
+          "古吉",
+          "二斯特洛夫斯基"
+        ],
+        "identifier": "51e4cd4b-a1a1-464b-b12c-76ed02d9b483",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aobing Zhuan",
+        "url": "https://mangadex.org/title/51e4cd4b-a1a1-464b-b12c-76ed02d9b483",
+        "image": "https://uploads.mangadex.org/covers/51e4cd4b-a1a1-464b-b12c-76ed02d9b483/a0919450-f59d-48e6-aeed-eca325802997.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35919,
+        "aniId": 65919,
+        "createdAt": "2020-10-12T16:20:01.000Z",
+        "updatedAt": "2021-06-07T23:05:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ec921316": {
+        "authors": [],
+        "identifier": "ec921316",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nezha Zhuan",
+        "url": "https://manganelo.com/manga/ec921316",
+        "image": "https://avt.mkklcdnv6.com/1/r/19-1583501056.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35919,
+        "aniId": 65919,
+        "createdAt": "2020-10-12T16:22:46.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

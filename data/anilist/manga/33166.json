@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "愛の新大陸",
+    "Brave New World of Love",
+    "New Continent's Love"
+  ],
+  "authors": [
+    "Nari Yamada"
+  ],
+  "id": 33166,
+  "malId": 3166,
+  "type": "manga",
+  "title": "Ai no Shintairiku",
+  "url": "https://anilist.co/manga/33166",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33166-xcfNKZkYWTyZ.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "68417a01-7262-406a-97fc-8b137a5a853c": {
+        "authors": [
+          "Yamada Nari"
+        ],
+        "identifier": "68417a01-7262-406a-97fc-8b137a5a853c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai no Shintairiku",
+        "url": "https://mangadex.org/title/68417a01-7262-406a-97fc-8b137a5a853c",
+        "image": "https://uploads.mangadex.org/covers/68417a01-7262-406a-97fc-8b137a5a853c/09407cf2-f310-43af-8844-6dd7924b1e46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3166,
+        "aniId": 33166,
+        "createdAt": "2020-10-12T16:04:58.000Z",
+        "updatedAt": "2021-06-03T09:23:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "brave_new_world": {
+        "authors": [],
+        "identifier": "brave_new_world",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Brave New World",
+        "url": "https://manganelo.com/manga/brave_new_world",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/20094-brave_new_world.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3166,
+        "aniId": 33166,
+        "createdAt": "2020-10-12T16:22:21.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      },
+      "ai_no_shintairiku": {
+        "authors": [
+          "Yamada",
+          "Nari"
+        ],
+        "identifier": "ai_no_shintairiku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ai No Shintairiku",
+        "url": "https://manganelo.com/manga/ai_no_shintairiku",
+        "image": "https://avt.mkklcdnv6temp.com/13/y/4-1583470238.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3166,
+        "aniId": 33166,
+        "createdAt": "2021-05-06T02:33:32.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

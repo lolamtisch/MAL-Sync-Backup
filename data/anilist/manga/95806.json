@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ぱらのいあけ〜じ"
+  ],
+  "authors": [
+    "Cool-kyou Shinja"
+  ],
+  "id": 95806,
+  "malId": 92236,
+  "type": "manga",
+  "title": "Paranoia Cage",
+  "url": "https://anilist.co/manga/95806",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/95806-Ye3CnzR2drYS.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:38.000Z",
+  "updatedAt": "2021-05-20T14:53:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96534c0e-fdf6-45e0-9ec0-4fbdc7336bce": {
+        "authors": [
+          "Cool Kyoushinsha"
+        ],
+        "identifier": "96534c0e-fdf6-45e0-9ec0-4fbdc7336bce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Paranoia Cage",
+        "url": "https://mangadex.org/title/96534c0e-fdf6-45e0-9ec0-4fbdc7336bce",
+        "image": "https://uploads.mangadex.org/covers/96534c0e-fdf6-45e0-9ec0-4fbdc7336bce/7e4c7664-c563-4487-be9b-bda298e4005a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92236,
+        "aniId": 95806,
+        "createdAt": "2020-10-12T16:11:24.000Z",
+        "updatedAt": "2021-06-05T08:07:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "paranoia_cage": {
+        "authors": [],
+        "identifier": "paranoia_cage",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Paranoia Cage",
+        "url": "https://manganelo.com/manga/paranoia_cage",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/19895-paranoia_cage.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92236,
+        "aniId": 95806,
+        "createdAt": "2020-10-12T16:24:49.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

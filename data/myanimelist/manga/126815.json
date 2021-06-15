@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "大親友"
+  ],
+  "authors": [
+    "Oshima, Towa"
+  ],
+  "id": 126815,
+  "type": "manga",
+  "title": "Daishinyuu",
+  "url": "https://myanimelist.net/manga/126815/Daishinyuu",
+  "image": "https://cdn.myanimelist.net/images/manga/2/236176.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-01-05T11:26:46.000Z",
+  "updatedAt": "2021-03-06T18:33:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5800753-fc4b-454a-bf17-02fef8717687": {
+        "authors": [
+          "OSHIMA Towa"
+        ],
+        "identifier": "b5800753-fc4b-454a-bf17-02fef8717687",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dai Shin You",
+        "url": "https://mangadex.org/title/b5800753-fc4b-454a-bf17-02fef8717687",
+        "image": "https://uploads.mangadex.org/covers/b5800753-fc4b-454a-bf17-02fef8717687/e525c14b-f005-4129-866a-64843a6ad6a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126815,
+        "aniId": 118915,
+        "createdAt": "2020-10-12T16:15:53.000Z",
+        "updatedAt": "2021-06-06T17:41:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "daishinyuu": {
+        "authors": [
+          "OSHIMA Towa"
+        ],
+        "identifier": "daishinyuu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Daishinyuu",
+        "url": "https://fanfox.net/manga/daishinyuu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34002/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126815,
+        "aniId": 118915,
+        "createdAt": "2021-01-05T11:26:46.000Z",
+        "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Dog Catalog",
+    "犬カタログ"
+  ],
+  "authors": [
+    "Kirishima, Tamaki"
+  ],
+  "id": 8400,
+  "type": "manga",
+  "title": "Inu Catalog",
+  "url": "https://myanimelist.net/manga/8400/Inu_Catalog",
+  "image": "https://cdn.myanimelist.net/images/manga/1/28490.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:18.000Z",
+  "updatedAt": "2021-04-30T06:20:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6c0dcfc4-a914-46fe-8bc0-7e39065ba2a1": {
+        "authors": [
+          "Kirishima Tamaki"
+        ],
+        "identifier": "6c0dcfc4-a914-46fe-8bc0-7e39065ba2a1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inu Catalog",
+        "url": "https://mangadex.org/title/6c0dcfc4-a914-46fe-8bc0-7e39065ba2a1",
+        "image": "https://uploads.mangadex.org/covers/6c0dcfc4-a914-46fe-8bc0-7e39065ba2a1/8cec2ca9-660a-4096-9444-dc5c7d7ecdb9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8400,
+        "aniId": 38400,
+        "createdAt": "2020-10-12T16:09:07.000Z",
+        "updatedAt": "2021-06-04T15:12:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

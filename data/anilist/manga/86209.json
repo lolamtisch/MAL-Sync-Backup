@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "あやしや",
+    "Ayashiya The Demon Slayer",
+    "Ayashi-ya"
+  ],
+  "authors": [
+    "Mutsumi Banno"
+  ],
+  "id": 86209,
+  "malId": 87302,
+  "type": "manga",
+  "title": "Ayashiya",
+  "url": "https://anilist.co/manga/86209",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86209-OZNPCbKLeHTg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:47.000Z",
+  "updatedAt": "2021-05-20T14:52:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e3405cd-2d84-4d23-821d-8bc07235aa72": {
+        "authors": [
+          "Banno Mutsumi"
+        ],
+        "identifier": "1e3405cd-2d84-4d23-821d-8bc07235aa72",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ayashiya",
+        "url": "https://mangadex.org/title/1e3405cd-2d84-4d23-821d-8bc07235aa72",
+        "image": "https://uploads.mangadex.org/covers/1e3405cd-2d84-4d23-821d-8bc07235aa72/ddaec8ec-014d-4217-ae98-fa8bf5969402.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87302,
+        "aniId": 86209,
+        "createdAt": "2020-10-12T16:08:24.000Z",
+        "updatedAt": "2021-06-04T09:55:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ayashiya": {
+        "authors": [],
+        "identifier": "ayashiya",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ayashiya",
+        "url": "https://manganelo.com/manga/ayashiya",
+        "image": "https://avt.mkklcdnv6.com/25/r/2-1583466694.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87302,
+        "aniId": 86209,
+        "createdAt": "2020-10-12T16:22:11.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ayashiya": {
+        "authors": [
+          "BANNO Mutsumi"
+        ],
+        "identifier": "ayashiya",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ayashiya",
+        "url": "https://mangasee123.com/manga/Ayashiya",
+        "image": "https://cover.nep.li/cover/Ayashiya.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87302,
+        "aniId": 86209,
+        "createdAt": "2021-02-06T14:50:01.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

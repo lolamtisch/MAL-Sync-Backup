@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "福本ALLSTARS",
+    "Fukumoto All Stars"
+  ],
+  "authors": [
+    "Nobuyuki Fukumoto",
+    "Yuupon",
+    "Chiromaru"
+  ],
+  "id": 108473,
+  "malId": 112780,
+  "type": "manga",
+  "title": "Koushiki Ekkyouden: Fukumoto All Stars",
+  "url": "https://anilist.co/manga/108473",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108473-196PinOQ9AJA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:58.000Z",
+  "updatedAt": "2021-06-04T14:22:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a80ac925-c01e-4826-9ecc-28c5645f1721": {
+        "authors": [
+          "Chiromaru",
+          "Yuupon",
+          "Fukumoto Nobuyuki"
+        ],
+        "identifier": "a80ac925-c01e-4826-9ecc-28c5645f1721",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fukumoto All Stars",
+        "url": "https://mangadex.org/title/a80ac925-c01e-4826-9ecc-28c5645f1721",
+        "image": "https://uploads.mangadex.org/covers/a80ac925-c01e-4826-9ecc-28c5645f1721/3538687d-d13b-4030-8d4c-d0050d48475a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 113669,
+        "aniId": 108473,
+        "createdAt": "2020-10-12T16:08:56.000Z",
+        "updatedAt": "2021-06-04T14:36:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koushiki_ekkyouden_fukumoto_all_stars": {
+        "authors": [],
+        "identifier": "koushiki_ekkyouden_fukumoto_all_stars",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koushiki Ekkyouden - Fukumoto All Stars",
+        "url": "https://manganelo.com/manga/koushiki_ekkyouden_fukumoto_all_stars",
+        "image": "https://avt.mkklcdnv6.com/24/u/1-1583464670.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112780,
+        "aniId": 108473,
+        "createdAt": "2020-10-12T16:24:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

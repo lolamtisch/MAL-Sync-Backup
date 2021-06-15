@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ふしぎなメルモ",
+    "Mamaa-chan",
+    "Marvelous Melmo"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 39275,
+  "malId": 9275,
+  "type": "manga",
+  "title": "Fushigi na Melmo",
+  "url": "https://anilist.co/manga/39275",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9275.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:55.000Z",
+  "updatedAt": "2021-05-20T14:40:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8960a296-62a3-4b1a-ae02-60f0c1d0173c": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "8960a296-62a3-4b1a-ae02-60f0c1d0173c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fushigi na Melmo",
+        "url": "https://mangadex.org/title/8960a296-62a3-4b1a-ae02-60f0c1d0173c",
+        "image": "https://uploads.mangadex.org/covers/8960a296-62a3-4b1a-ae02-60f0c1d0173c/316be4c5-f47f-456d-9150-933a22e0db60.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9275,
+        "aniId": 39275,
+        "createdAt": "2020-10-12T16:04:15.000Z",
+        "updatedAt": "2021-06-02T19:46:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fushigi_na_melmo": {
+        "authors": [],
+        "identifier": "fushigi_na_melmo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fushigi Na Melmo",
+        "url": "https://manganelo.com/manga/fushigi_na_melmo",
+        "image": "https://avt.mkklcdnv6.com/47/q/3-1583469554.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9275,
+        "aniId": 39275,
+        "createdAt": "2020-10-12T16:23:00.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

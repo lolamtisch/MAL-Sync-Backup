@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Suehiro Maruo"
+  ],
+  "id": 46324,
+  "malId": 16324,
+  "type": "manga",
+  "title": "DDT",
+  "url": "https://anilist.co/manga/46324",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16324.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:53.000Z",
+  "updatedAt": "2021-05-20T14:43:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3ba57f94-f3f6-4cd4-ba04-ed1c6268fbee": {
+        "authors": [
+          "Maruo Suehiro"
+        ],
+        "identifier": "3ba57f94-f3f6-4cd4-ba04-ed1c6268fbee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "DDT",
+        "url": "https://mangadex.org/title/3ba57f94-f3f6-4cd4-ba04-ed1c6268fbee",
+        "image": "https://uploads.mangadex.org/covers/3ba57f94-f3f6-4cd4-ba04-ed1c6268fbee/bf073f99-37b0-4186-9308-a3a2333d9761.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16324,
+        "aniId": 46324,
+        "createdAt": "2020-10-12T16:08:06.000Z",
+        "updatedAt": "2021-06-04T07:32:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "まっすぐ君へ"
+  ],
+  "authors": [
+    "Haruka Mitsui"
+  ],
+  "id": 102536,
+  "malId": 89840,
+  "type": "manga",
+  "title": "Massugu Kimi e",
+  "url": "https://anilist.co/manga/102536",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102536-raGFO89xSKBG.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:02.000Z",
+  "updatedAt": "2021-05-20T14:53:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "86de36b1-cbe3-46f6-905a-3f4c14e71a13": {
+        "authors": [
+          "Mitsui Haruka"
+        ],
+        "identifier": "86de36b1-cbe3-46f6-905a-3f4c14e71a13",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Massugu Kimi e",
+        "url": "https://mangadex.org/title/86de36b1-cbe3-46f6-905a-3f4c14e71a13",
+        "image": "https://uploads.mangadex.org/covers/86de36b1-cbe3-46f6-905a-3f4c14e71a13/8468af83-cf17-4dd7-8071-7e9c8fa970d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89840,
+        "aniId": 102536,
+        "createdAt": "2020-10-12T16:08:36.000Z",
+        "updatedAt": "2021-06-04T11:25:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

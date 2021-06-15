@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "外れたみんなの頭のネジ"
+  ],
+  "authors": [
+    "Yohsuken"
+  ],
+  "id": 105831,
+  "malId": 110918,
+  "type": "manga",
+  "title": "Hazureta Minna no Atama no Neji",
+  "url": "https://anilist.co/manga/105831",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105831-SV3Db8GsEK5U.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:17.000Z",
+  "updatedAt": "2021-05-20T14:56:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cd93c380-1882-436c-8667-22070736da5d": {
+        "authors": [
+          "Yohsuken"
+        ],
+        "identifier": "cd93c380-1882-436c-8667-22070736da5d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Everyone's Loose Screw",
+        "url": "https://mangadex.org/title/cd93c380-1882-436c-8667-22070736da5d",
+        "image": "https://uploads.mangadex.org/covers/cd93c380-1882-436c-8667-22070736da5d/d3f48253-d4ac-42e6-8da7-8b350532bae6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110918,
+        "aniId": 105831,
+        "createdAt": "2020-10-12T16:17:57.000Z",
+        "updatedAt": "2021-06-07T12:25:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

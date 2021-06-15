@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "ランブル・ラッシュ",
+    "Dr. H!",
+    "High School Maze",
+    "Roar of the Sea",
+    "Shiosai"
+  ],
+  "authors": [
+    "Hiroi Takao",
+    "Akira Kamuro"
+  ],
+  "id": 41717,
+  "malId": 11717,
+  "type": "manga",
+  "title": "Rumble Rush",
+  "url": "https://anilist.co/manga/41717",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11717.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:12.000Z",
+  "updatedAt": "2021-05-20T14:42:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4da3410e-f80d-429e-ae8b-dafab2a8094a": {
+        "authors": [
+          "Kamuro Akira",
+          "Takao Hiroi"
+        ],
+        "identifier": "4da3410e-f80d-429e-ae8b-dafab2a8094a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rumble Rush",
+        "url": "https://mangadex.org/title/4da3410e-f80d-429e-ae8b-dafab2a8094a",
+        "image": "https://uploads.mangadex.org/covers/4da3410e-f80d-429e-ae8b-dafab2a8094a/2f2949c3-1262-462f-9c8d-1d88df50690b.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11717,
+        "aniId": 41717,
+        "createdAt": "2020-10-12T16:15:15.000Z",
+        "updatedAt": "2021-06-06T12:03:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

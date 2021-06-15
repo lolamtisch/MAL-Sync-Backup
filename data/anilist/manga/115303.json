@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ふじょ子とユリ子"
+  ],
+  "authors": [
+    "Moru"
+  ],
+  "id": 115303,
+  "malId": 108659,
+  "type": "manga",
+  "title": "Fujoko to Yuriko",
+  "url": "https://anilist.co/manga/115303",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115303-78acqLupJF7N.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:00.000Z",
+  "updatedAt": "2021-05-20T14:56:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f7244422-2845-43f5-ad49-00a434915ad5": {
+        "authors": [
+          "Moru"
+        ],
+        "identifier": "f7244422-2845-43f5-ad49-00a434915ad5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fujoko to Yuriko",
+        "url": "https://mangadex.org/title/f7244422-2845-43f5-ad49-00a434915ad5",
+        "image": "https://uploads.mangadex.org/covers/f7244422-2845-43f5-ad49-00a434915ad5/b1077487-67ce-4c5e-80de-3c3b4a1eba77.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108659,
+        "aniId": 115303,
+        "createdAt": "2020-10-12T16:21:51.000Z",
+        "updatedAt": "2021-06-08T03:07:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fujoko_to_yuriko": {
+        "authors": [
+          "Moru"
+        ],
+        "identifier": "fujoko_to_yuriko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fujoko to Yuriko",
+        "url": "https://fanfox.net/manga/fujoko_to_yuriko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35974/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108659,
+        "aniId": 115303,
+        "createdAt": "2020-12-20T21:56:11.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

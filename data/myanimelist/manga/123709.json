@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Fly In an Arc",
+    "Draw an Arc",
+    "弧を描く"
+  ],
+  "authors": [
+    "Kinoshita, Satoshi",
+    "Iwai, Yoshiki"
+  ],
+  "id": 123709,
+  "type": "manga",
+  "title": "Ko wo Egaku",
+  "url": "https://myanimelist.net/manga/123709/Ko_wo_Egaku",
+  "image": "https://cdn.myanimelist.net/images/manga/2/233757.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:24:01.000Z",
+  "updatedAt": "2021-06-07T23:24:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "242864e0-9205-4a9c-b4ec-da64819c9fad": {
+        "authors": [
+          "Kinoshita Satoshi",
+          "Iwai Yoshiki"
+        ],
+        "identifier": "242864e0-9205-4a9c-b4ec-da64819c9fad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ko wo Egaku",
+        "url": "https://mangadex.org/title/242864e0-9205-4a9c-b4ec-da64819c9fad",
+        "image": "https://uploads.mangadex.org/covers/242864e0-9205-4a9c-b4ec-da64819c9fad/c5799784-eac1-41f0-9f7b-7b1373c5dbdb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 123709,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:20:01.000Z",
+        "updatedAt": "2021-06-08T07:06:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

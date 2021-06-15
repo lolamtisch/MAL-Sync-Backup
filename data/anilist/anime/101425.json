@@ -1,0 +1,37 @@
+{
+  "altTitle": [
+    "デュエル・マスターズ!"
+  ],
+  "id": 101425,
+  "malId": 37484,
+  "type": "anime",
+  "title": "Duel Masters!",
+  "url": "https://anilist.co/anime/101425",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101425-9HiRIAcOPoXI.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:36.000Z",
+  "updatedAt": "2021-05-20T14:44:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "duel-masters": {
+        "identifier": "duel-masters",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Duel Masters",
+        "url": "https://www15.gogoanime.io/category/duel-masters",
+        "image": "https://gogocdn.net/images/anime/D/duel-masters.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37484,
+        "aniId": 101425,
+        "createdAt": "2020-10-12T16:00:19.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

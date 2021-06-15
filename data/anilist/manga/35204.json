@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "機動戦士クロスボーンガンダム 鋼鉄の7人",
+    "Crossbone Gundam Steel 7",
+    "Mobile Suit Crossbone Gundam Koutetsu no 7 Nin",
+    "Mobile Suit Crossbone Gundam: The Steel Seven",
+    "Kidou Senshi Crossbone Gundam Koutetsu no Shichinin"
+  ],
+  "authors": [
+    "Yuuichi Hasegawa",
+    "Yoshiyuki Tomino"
+  ],
+  "id": 35204,
+  "malId": 5204,
+  "type": "manga",
+  "title": "Kidou Senshi Cross Bone Gundam: Koutetsu no 7-nin",
+  "url": "https://anilist.co/manga/35204",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35204-WLW8W7zTS2UN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:25.000Z",
+  "updatedAt": "2021-05-20T14:39:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "65cb3cc3-9ba3-46f6-afa3-a625755ece14": {
+        "authors": [
+          "Hasegawa Yuuichi",
+          "Tomino Yoshiyuki",
+          "Yatate Hajime"
+        ],
+        "identifier": "65cb3cc3-9ba3-46f6-afa3-a625755ece14",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kidou Senshi Crossbone Gundam - Koutetsu no 7 Nin",
+        "url": "https://mangadex.org/title/65cb3cc3-9ba3-46f6-afa3-a625755ece14",
+        "image": "https://uploads.mangadex.org/covers/65cb3cc3-9ba3-46f6-afa3-a625755ece14/df28c1a7-4d85-45d5-ae61-d906f8ae4d61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5204,
+        "aniId": 35204,
+        "createdAt": "2020-10-12T16:05:52.000Z",
+        "updatedAt": "2021-06-03T15:34:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kidou_senshi_crossbone_gundam_ghost": {
+        "authors": [],
+        "identifier": "kidou_senshi_crossbone_gundam_ghost",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kidou Senshi Crossbone Gundam Ghost",
+        "url": "https://manganelo.com/manga/kidou_senshi_crossbone_gundam_ghost",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/10906-kidou_senshi_crossbone_gundam_ghost.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5204,
+        "aniId": 35204,
+        "createdAt": "2020-10-12T16:23:53.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "kidou_senshi_crossbone_gundam_koutetsu_no_shichinin": {
+        "authors": [],
+        "identifier": "kidou_senshi_crossbone_gundam_koutetsu_no_shichinin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kidou Senshi Crossbone Gundam Koutetsu No Shichinin",
+        "url": "https://manganelo.com/manga/kidou_senshi_crossbone_gundam_koutetsu_no_shichinin",
+        "image": "https://avt.mkklcdnv6.com/4/e/13-1583487880.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5204,
+        "aniId": 35204,
+        "createdAt": "2020-10-12T16:23:53.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

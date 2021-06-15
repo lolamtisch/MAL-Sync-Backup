@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "HELP ME!",
+    "ヘルプミー"
+  ],
+  "authors": [
+    "Shinri Fuwa"
+  ],
+  "id": 32482,
+  "malId": 2482,
+  "type": "manga",
+  "title": "Help Me!",
+  "url": "https://anilist.co/manga/32482",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32482-fKStS5OhZ2Nk.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fdd0899e-543b-4765-8c4c-66fc2a9a31a5": {
+        "authors": [
+          "Fuwa Shinri"
+        ],
+        "identifier": "fdd0899e-543b-4765-8c4c-66fc2a9a31a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Help Me!",
+        "url": "https://mangadex.org/title/fdd0899e-543b-4765-8c4c-66fc2a9a31a5",
+        "image": "https://uploads.mangadex.org/covers/fdd0899e-543b-4765-8c4c-66fc2a9a31a5/1c57f962-a946-4e4d-9bac-9da0f772050a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2482,
+        "aniId": 32482,
+        "createdAt": "2020-10-12T16:20:22.000Z",
+        "updatedAt": "2021-06-07T23:59:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

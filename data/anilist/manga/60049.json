@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "最終ループ",
+    "The Final Loop"
+  ],
+  "authors": [
+    "Aoi Makino"
+  ],
+  "id": 60049,
+  "malId": 30049,
+  "type": "manga",
+  "title": "Saishuu Loop",
+  "url": "https://anilist.co/manga/60049",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30049.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:39.000Z",
+  "updatedAt": "2021-06-05T00:20:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "792917c7-0d19-4fba-847b-93bcdd85f2fb": {
+        "authors": [
+          "Makino Aoi"
+        ],
+        "identifier": "792917c7-0d19-4fba-847b-93bcdd85f2fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saishuu Loop",
+        "url": "https://mangadex.org/title/792917c7-0d19-4fba-847b-93bcdd85f2fb",
+        "image": "https://uploads.mangadex.org/covers/792917c7-0d19-4fba-847b-93bcdd85f2fb/b5624f9a-70ca-4b9b-a081-2dcdec4ea59c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30049,
+        "aniId": 60049,
+        "createdAt": "2020-10-12T16:10:16.000Z",
+        "updatedAt": "2021-06-04T23:50:39.000Z",
+        "deletedAt": null
+      },
+      "d0a7aec2-9766-4437-abfe-6b6bed9fadc1": {
+        "authors": [
+          "Makino Aoi"
+        ],
+        "identifier": "d0a7aec2-9766-4437-abfe-6b6bed9fadc1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Final Loop",
+        "url": "https://mangadex.org/title/d0a7aec2-9766-4437-abfe-6b6bed9fadc1",
+        "image": "https://uploads.mangadex.org/covers/d0a7aec2-9766-4437-abfe-6b6bed9fadc1/0906cc9f-b3cc-4e86-95d8-216d2b35a1e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30049,
+        "aniId": 60049,
+        "createdAt": "2020-10-12T16:10:20.000Z",
+        "updatedAt": "2021-06-05T08:51:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

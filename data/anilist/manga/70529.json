@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "テルペノイド",
+    "Terupenoido",
+    "Terupe Noido",
+    "UltiMATE"
+  ],
+  "authors": [
+    "Tetuzoh Okadaya"
+  ],
+  "id": 70529,
+  "malId": 40529,
+  "type": "manga",
+  "title": "Terpenoid",
+  "url": "https://anilist.co/manga/70529",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx70529-Pn2Vncbm1Pu8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T08:26:12.000Z",
+  "updatedAt": "2021-06-08T08:26:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "10be1e76-3ed6-43ed-85da-6454fcc6eb94": {
+        "authors": [
+          "Okadaya Tetuzoh"
+        ],
+        "identifier": "10be1e76-3ed6-43ed-85da-6454fcc6eb94",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Terpenoid",
+        "url": "https://mangadex.org/title/10be1e76-3ed6-43ed-85da-6454fcc6eb94",
+        "image": "https://uploads.mangadex.org/covers/10be1e76-3ed6-43ed-85da-6454fcc6eb94/b5458a73-57a3-4faa-aadf-c4e3acdd1f22.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40529,
+        "aniId": 70529,
+        "createdAt": "2020-12-04T12:52:50.000Z",
+        "updatedAt": "2021-06-08T08:46:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

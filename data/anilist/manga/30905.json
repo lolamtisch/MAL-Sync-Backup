@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Shout Out Loud!",
+    "叫んでやるぜ！",
+    "I Will Shout!"
+  ],
+  "authors": [
+    "Satosumi Takaguchi"
+  ],
+  "id": 30905,
+  "malId": 905,
+  "type": "manga",
+  "title": "Sakende Yaruze!",
+  "url": "https://anilist.co/manga/30905",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30905-ZQ1SoB65gaNO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "abb970c7-5d91-40c1-be2d-c3ec0aa9c459": {
+        "authors": [
+          "Takaguchi Satosumi"
+        ],
+        "identifier": "abb970c7-5d91-40c1-be2d-c3ec0aa9c459",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakende Yaruze!",
+        "url": "https://mangadex.org/title/abb970c7-5d91-40c1-be2d-c3ec0aa9c459",
+        "image": "https://uploads.mangadex.org/covers/abb970c7-5d91-40c1-be2d-c3ec0aa9c459/efa13374-5ca5-4247-8551-b0a67bb77008.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 905,
+        "aniId": 30905,
+        "createdAt": "2020-10-12T16:05:55.000Z",
+        "updatedAt": "2021-06-03T15:57:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

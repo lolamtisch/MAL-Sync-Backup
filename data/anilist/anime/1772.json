@@ -1,0 +1,55 @@
+{
+  "altTitle": [
+    "Virgin Fleet",
+    "聖少女艦隊バージンフリート"
+  ],
+  "id": 1772,
+  "malId": 1772,
+  "type": "anime",
+  "title": "Seishoujo Kantai Virgin Fleet",
+  "url": "https://anilist.co/anime/1772",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1772.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:17.000Z",
+  "updatedAt": "2021-05-20T14:35:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "0683": {
+        "identifier": "0683",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Virgin Fleet (Dub)",
+        "url": "https://9anime.ru/watch/virgin-fleet-dub.0683",
+        "image": "https://static.akacdn.ru/files/images/2018/04/a36861435a34005c0b879864e4e24212.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1772,
+        "aniId": 1772,
+        "createdAt": "2020-10-12T15:48:37.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "zpy2": {
+        "identifier": "zpy2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Virgin Fleet",
+        "url": "https://9anime.to/watch/virgin-fleet.zpy2",
+        "image": "https://static.akacdn.ru/files/images/2018/04/cd67ddeccbcd3a456c4ea100ab56471d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1772,
+        "aniId": 1772,
+        "createdAt": "2020-10-12T15:57:15.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

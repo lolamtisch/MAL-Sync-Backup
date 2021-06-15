@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Beyond the Beyond",
+    "その向こうの向こう側",
+    "There Beyond the Beyond"
+  ],
+  "authors": [
+    "Yoshitomo Watanabe"
+  ],
+  "id": 30147,
+  "malId": 147,
+  "type": "manga",
+  "title": "Sono Mukou no Mukougawa",
+  "url": "https://anilist.co/manga/30147",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30147-832ekxagIOwv.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "434fce68-4796-4d43-a38d-f79f0ee9103f": {
+        "authors": [
+          "Watanabe Yoshitomo"
+        ],
+        "identifier": "434fce68-4796-4d43-a38d-f79f0ee9103f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sono Mukou no Mukougawa",
+        "url": "https://mangadex.org/title/434fce68-4796-4d43-a38d-f79f0ee9103f",
+        "image": "https://uploads.mangadex.org/covers/434fce68-4796-4d43-a38d-f79f0ee9103f/43ff435c-bfbd-4a97-a7a4-e84ffbe00e2e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 147,
+        "aniId": 30147,
+        "createdAt": "2020-10-12T16:04:41.000Z",
+        "updatedAt": "2021-06-02T22:43:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

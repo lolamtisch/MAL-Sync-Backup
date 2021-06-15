@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "ちんつぶ",
+    "Chinko no Tsubuyaki"
+  ],
+  "authors": [
+    "Nase Yamato"
+  ],
+  "id": 32229,
+  "malId": 2229,
+  "type": "manga",
+  "title": "Chintsubu",
+  "url": "https://anilist.co/manga/32229",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32229-DTiviPrw7PL2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-06-05T20:19:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2bd9f63-d72e-40b3-b99b-8b0ed8b8554a": {
+        "authors": [
+          "Yamato Nase"
+        ],
+        "identifier": "d2bd9f63-d72e-40b3-b99b-8b0ed8b8554a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chinko no Tsubuyaki",
+        "url": "https://mangadex.org/title/d2bd9f63-d72e-40b3-b99b-8b0ed8b8554a",
+        "image": "https://uploads.mangadex.org/covers/d2bd9f63-d72e-40b3-b99b-8b0ed8b8554a/58d7e12c-e556-4ce6-adce-b67bd7c389ad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2229,
+        "aniId": 32229,
+        "createdAt": "2020-10-12T16:13:15.000Z",
+        "updatedAt": "2021-06-05T20:20:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chintsubu": {
+        "authors": [
+          "Yamato",
+          "Nase"
+        ],
+        "identifier": "chintsubu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chintsubu",
+        "url": "https://manganelo.com/manga/chintsubu",
+        "image": "https://avt.mkklcdnv6temp.com/33/b/6-1583475461.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2229,
+        "aniId": 32229,
+        "createdAt": "2021-04-16T19:45:14.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

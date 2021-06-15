@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "失踪宣言"
+  ],
+  "authors": [
+    "Yori Kurokawa"
+  ],
+  "id": 122507,
+  "malId": 129279,
+  "type": "manga",
+  "title": "Shissou Sengen",
+  "url": "https://anilist.co/manga/122507",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122507-qbLu6j0WdkI5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:24.000Z",
+  "updatedAt": "2021-05-20T14:59:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fb0f33ca-5b0e-4915-b1b5-ad03482714a5": {
+        "authors": [
+          "KUROKAWA Yori"
+        ],
+        "identifier": "fb0f33ca-5b0e-4915-b1b5-ad03482714a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shissou Sengen",
+        "url": "https://mangadex.org/title/fb0f33ca-5b0e-4915-b1b5-ad03482714a5",
+        "image": "https://uploads.mangadex.org/covers/fb0f33ca-5b0e-4915-b1b5-ad03482714a5/4519dc85-00be-47cf-b842-8d24c1fa921f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129279,
+        "aniId": 122507,
+        "createdAt": "2020-10-12T16:20:22.000Z",
+        "updatedAt": "2021-06-07T23:58:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

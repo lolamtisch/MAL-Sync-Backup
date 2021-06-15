@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "The Top",
+    "てっぺん!"
+  ],
+  "authors": [
+    "Tsukimiya, An"
+  ],
+  "id": 10776,
+  "type": "manga",
+  "title": "Teppen!",
+  "url": "https://myanimelist.net/manga/10776/Teppen",
+  "image": "https://cdn.myanimelist.net/images/manga/1/15946.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T21:13:47.000Z",
+  "updatedAt": "2021-06-04T16:49:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96ad2fa5-b8c3-449e-b431-471903949314": {
+        "authors": [
+          "TSUKIMIYA An"
+        ],
+        "identifier": "96ad2fa5-b8c3-449e-b431-471903949314",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Teppen!",
+        "url": "https://mangadex.org/title/96ad2fa5-b8c3-449e-b431-471903949314",
+        "image": "https://uploads.mangadex.org/covers/96ad2fa5-b8c3-449e-b431-471903949314/37ea0d51-9031-4af5-89b4-fa89c4ea3f80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10776,
+        "aniId": 40776,
+        "createdAt": "2020-10-12T16:09:18.000Z",
+        "updatedAt": "2021-06-04T16:49:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "teppen": {
+        "authors": [
+          "TSUKIMIYA An"
+        ],
+        "identifier": "teppen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Teppen!",
+        "url": "https://fanfox.net/manga/teppen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5158/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10776,
+        "aniId": 40776,
+        "createdAt": "2021-05-20T21:13:47.000Z",
+        "updatedAt": "2021-06-04T17:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

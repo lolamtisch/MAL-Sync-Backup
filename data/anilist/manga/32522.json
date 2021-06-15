@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "がってんどうてんまつ き",
+    "Gattendou Tenmatsuki",
+    "Gattendo Tenmatsuki"
+  ],
+  "authors": [
+    "Mitori Fujii"
+  ],
+  "id": 32522,
+  "malId": 2522,
+  "type": "manga",
+  "title": "Gatsuten Douten Matsuki",
+  "url": "https://anilist.co/manga/32522",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2522.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T13:20:59.000Z",
+  "updatedAt": "2021-06-04T13:20:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd75f292-39f4-4ee7-a8b2-3416f20fe439": {
+        "authors": [
+          "Fujii Mitori"
+        ],
+        "identifier": "dd75f292-39f4-4ee7-a8b2-3416f20fe439",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gattendou Tenmatsuki",
+        "url": "https://mangadex.org/title/dd75f292-39f4-4ee7-a8b2-3416f20fe439",
+        "image": "https://uploads.mangadex.org/covers/dd75f292-39f4-4ee7-a8b2-3416f20fe439/5d8f5a83-ef38-4dcb-a19e-c24cf52a6995.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2522,
+        "aniId": 32522,
+        "createdAt": "2020-10-12T16:08:51.000Z",
+        "updatedAt": "2021-06-04T13:25:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

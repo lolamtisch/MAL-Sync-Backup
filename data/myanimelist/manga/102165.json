@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "Tokidoki",
+    "刻どキ"
+  ],
+  "authors": [
+    "Komi, Naoshi"
+  ],
+  "id": 102165,
+  "type": "manga",
+  "title": "Tokidoki",
+  "url": "https://myanimelist.net/manga/102165/Tokidoki",
+  "image": "https://cdn.myanimelist.net/images/manga/1/184995.jpg",
+  "category": "One-shot",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:44.000Z",
+  "updatedAt": "2021-05-31T06:42:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "566ab917-4893-423a-8b0c-787ba77b6def": {
+        "authors": [
+          "Komi Naoshi"
+        ],
+        "identifier": "566ab917-4893-423a-8b0c-787ba77b6def",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toki Doki",
+        "url": "https://mangadex.org/title/566ab917-4893-423a-8b0c-787ba77b6def",
+        "image": "https://uploads.mangadex.org/covers/566ab917-4893-423a-8b0c-787ba77b6def/1d1d3347-bd50-4b08-9957-8f23c3a9d1af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102165,
+        "aniId": 97812,
+        "createdAt": "2020-10-12T16:10:12.000Z",
+        "updatedAt": "2021-06-04T23:02:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "toki_doki": {
+        "authors": [],
+        "identifier": "toki_doki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Toki Doki",
+        "url": "https://manganelo.com/manga/toki_doki",
+        "image": "https://avt.mkklcdnv6.com/32/p/14-1583490887.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102165,
+        "aniId": 97812,
+        "createdAt": "2020-10-12T16:25:46.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "toki_doki": {
+        "authors": [
+          "KOMI Naoshi"
+        ],
+        "identifier": "toki_doki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Toki Doki",
+        "url": "https://fanfox.net/manga/toki_doki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22491/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102165,
+        "aniId": 97812,
+        "createdAt": "2021-03-21T00:05:43.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wu973403": {
+        "authors": [
+          "Komi Naoshi"
+        ],
+        "identifier": "manga-wu973403",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Toki Doki",
+        "url": "https://manganato.com/manga-wu973403",
+        "image": "https://avt.mkklcdnv6temp.com/32/p/14-1583490887.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102165,
+        "aniId": 97812,
+        "createdAt": "2021-05-31T06:42:14.000Z",
+        "updatedAt": "2021-05-31T07:12:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

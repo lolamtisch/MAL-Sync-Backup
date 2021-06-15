@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "僕等Living"
+  ],
+  "authors": [
+    "Inami, Hajime"
+  ],
+  "id": 18709,
+  "type": "manga",
+  "title": "Bokura Living",
+  "url": "https://myanimelist.net/manga/18709/Bokura_Living",
+  "image": "https://cdn.myanimelist.net/images/manga/2/158210.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:39.000Z",
+  "updatedAt": "2021-06-04T00:49:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0b66e39b-0481-4ea1-bef2-61efc563ccd2": {
+        "authors": [
+          "Ziho",
+          "Mina (미나)"
+        ],
+        "identifier": "0b66e39b-0481-4ea1-bef2-61efc563ccd2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Living Will",
+        "url": "https://mangadex.org/title/0b66e39b-0481-4ea1-bef2-61efc563ccd2",
+        "image": "https://uploads.mangadex.org/covers/0b66e39b-0481-4ea1-bef2-61efc563ccd2/e77b6005-d1c7-4a54-8a87-f7fc4a8092e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18709,
+        "aniId": 48709,
+        "createdAt": "2020-10-12T16:17:06.000Z",
+        "updatedAt": "2021-06-07T04:41:53.000Z",
+        "deletedAt": null
+      },
+      "4a92e15f-f59d-48f3-b2af-bfadeba71f07": {
+        "authors": [
+          "Inami Hajime"
+        ],
+        "identifier": "4a92e15f-f59d-48f3-b2af-bfadeba71f07",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bokura Living",
+        "url": "https://mangadex.org/title/4a92e15f-f59d-48f3-b2af-bfadeba71f07",
+        "image": "https://uploads.mangadex.org/covers/4a92e15f-f59d-48f3-b2af-bfadeba71f07/87dc174a-d5e2-4571-945a-489e374fd0b3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18709,
+        "aniId": 48709,
+        "createdAt": "2020-12-04T00:23:04.000Z",
+        "updatedAt": "2021-06-08T08:06:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

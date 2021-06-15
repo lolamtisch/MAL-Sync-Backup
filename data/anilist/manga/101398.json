@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いい子いい子してあげる",
+    "Ii Ko Ii Ko Shite Ageru"
+  ],
+  "authors": [
+    "Youko Fujitani"
+  ],
+  "id": 101398,
+  "malId": 111286,
+  "type": "manga",
+  "title": "Ii Ko li Ko Shiteageru",
+  "url": "https://anilist.co/manga/101398",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101398-2VmQ0JsCMe4j.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T09:12:58.000Z",
+  "updatedAt": "2021-05-23T09:12:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c48ca1b4-304c-4e0d-8c82-287659b9ff8c": {
+        "authors": [
+          "Fujitani Youko"
+        ],
+        "identifier": "c48ca1b4-304c-4e0d-8c82-287659b9ff8c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Iiko Iiko Shiteageru",
+        "url": "https://mangadex.org/title/c48ca1b4-304c-4e0d-8c82-287659b9ff8c",
+        "image": "https://uploads.mangadex.org/covers/c48ca1b4-304c-4e0d-8c82-287659b9ff8c/92dde1ef-81b7-4a69-92aa-d3694c9c16e8.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111286,
+        "aniId": 101398,
+        "createdAt": "2020-10-12T16:11:10.000Z",
+        "updatedAt": "2021-06-05T08:41:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

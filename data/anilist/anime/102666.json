@@ -1,0 +1,39 @@
+{
+  "altTitle": [
+    "コミックス",
+    "Cosmic Wave",
+    "Comix"
+  ],
+  "id": 102666,
+  "malId": 30332,
+  "type": "anime",
+  "title": "Comics",
+  "url": "https://anilist.co/anime/102666",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102666-cYjFW6jVG6Bf.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:53.000Z",
+  "updatedAt": "2021-05-20T14:41:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "7787": {
+        "identifier": "7787",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Comics",
+        "url": "https://9anime.ru/watch/comics.7787",
+        "image": "https://static.akacdn.ru/files/images/2018/03/3335b015dd97a1041f2bccb442e133b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30332,
+        "aniId": 102666,
+        "createdAt": "2020-10-12T15:48:34.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

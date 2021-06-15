@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "TRIGGER"
+  ],
+  "authors": [
+    "Norikazu Akira"
+  ],
+  "id": 32305,
+  "malId": 2305,
+  "type": "manga",
+  "title": "TRIGGER",
+  "url": "https://anilist.co/manga/32305",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx32305-0sBNI8zj1Wtc.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:04.000Z",
+  "updatedAt": "2021-05-20T14:37:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a6376272-95ca-4fbb-bfa2-9b10ede476e2": {
+        "authors": [
+          "Norikazu Akira"
+        ],
+        "identifier": "a6376272-95ca-4fbb-bfa2-9b10ede476e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trigger",
+        "url": "https://mangadex.org/title/a6376272-95ca-4fbb-bfa2-9b10ede476e2",
+        "image": "https://uploads.mangadex.org/covers/a6376272-95ca-4fbb-bfa2-9b10ede476e2/6a69c8ad-4723-4640-82f3-9008a135337c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2305,
+        "aniId": 32305,
+        "createdAt": "2020-10-12T16:05:25.000Z",
+        "updatedAt": "2021-06-03T12:31:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yq922181": {
+        "authors": [],
+        "identifier": "yq922181",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Girls' Frontline Trigger Happy",
+        "url": "https://manganelo.com/manga/yq922181",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3601-yq922181.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2305,
+        "aniId": 32305,
+        "createdAt": "2020-10-12T16:26:25.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kh957642": {
+        "authors": [
+          "Akira Norikazu"
+        ],
+        "identifier": "manga-kh957642",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Trigger",
+        "url": "https://manganato.com/manga-kh957642",
+        "image": "https://avt.mkklcdnv6temp.com/2/t/5-1583471933.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2305,
+        "aniId": 32305,
+        "createdAt": "2021-06-13T04:38:22.000Z",
+        "updatedAt": "2021-06-13T05:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

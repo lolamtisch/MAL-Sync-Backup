@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "恋々ざかり"
+  ],
+  "authors": [
+    "Risa Konno"
+  ],
+  "id": 65597,
+  "malId": 35597,
+  "type": "manga",
+  "title": "Renren Zakari",
+  "url": "https://anilist.co/manga/65597",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35597.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:25.000Z",
+  "updatedAt": "2021-05-20T14:48:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6c01b72-32a4-41dc-a550-e37fb2f4bfa9": {
+        "authors": [
+          "Konno Risa"
+        ],
+        "identifier": "b6c01b72-32a4-41dc-a550-e37fb2f4bfa9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renren Zakari",
+        "url": "https://mangadex.org/title/b6c01b72-32a4-41dc-a550-e37fb2f4bfa9",
+        "image": "https://uploads.mangadex.org/covers/b6c01b72-32a4-41dc-a550-e37fb2f4bfa9/3105e858-42db-4466-a0eb-6b5eb00ed4a8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35597,
+        "aniId": 65597,
+        "createdAt": "2020-10-12T16:05:01.000Z",
+        "updatedAt": "2021-06-03T09:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "renren_zakari": {
+        "authors": [],
+        "identifier": "renren_zakari",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Renren Zakari",
+        "url": "https://manganelo.com/manga/renren_zakari",
+        "image": "https://avt.mkklcdnv6.com/25/u/10-1583483106.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35597,
+        "aniId": 65597,
+        "createdAt": "2020-10-12T16:25:09.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "renren_zakari": {
+        "authors": [
+          "KONNO Risa"
+        ],
+        "identifier": "renren_zakari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Renren Zakari",
+        "url": "https://fanfox.net/manga/renren_zakari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10830/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35597,
+        "aniId": 65597,
+        "createdAt": "2021-03-24T23:19:06.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "RahXephon",
+    "ラーゼフォン",
+    "Rah Xephon"
+  ],
+  "authors": [
+    "Takeaki Momose",
+    "Yutaka Izubuchi"
+  ],
+  "id": 30216,
+  "malId": 216,
+  "type": "manga",
+  "title": "RahXephon",
+  "url": "https://anilist.co/manga/30216",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30216-RHCz99iFEtO7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:26.000Z",
+  "updatedAt": "2021-05-20T14:35:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2126b18a-494b-4042-9b84-1420b453b3c5": {
+        "authors": [
+          "Momose Takeaki",
+          "Izubuchi Yutaka"
+        ],
+        "identifier": "2126b18a-494b-4042-9b84-1420b453b3c5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "RahXephon",
+        "url": "https://mangadex.org/title/2126b18a-494b-4042-9b84-1420b453b3c5",
+        "image": "https://uploads.mangadex.org/covers/2126b18a-494b-4042-9b84-1420b453b3c5/78fbedc9-b75b-47e0-8340-7a52d16c2a11.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 216,
+        "aniId": 30216,
+        "createdAt": "2020-10-12T16:05:00.000Z",
+        "updatedAt": "2021-06-03T09:35:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rahxephon": {
+        "authors": [
+          "Izubuchi",
+          "Yutaka"
+        ],
+        "identifier": "rahxephon",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rahxephon",
+        "url": "https://manganelo.com/manga/rahxephon",
+        "image": "https://avt.mkklcdnv6temp.com/31/i/8-1583479369.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 216,
+        "aniId": 30216,
+        "createdAt": "2021-04-11T07:21:30.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

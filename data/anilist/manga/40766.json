@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "ホットロード"
+  ],
+  "authors": [
+    "Taku Tsumugi"
+  ],
+  "id": 40766,
+  "malId": 10766,
+  "type": "manga",
+  "title": "Hot Road",
+  "url": "https://anilist.co/manga/40766",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40766-4WyNToI8O1Ya.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:08.000Z",
+  "updatedAt": "2021-05-20T14:41:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e6c00c0-d10b-4852-99cb-9e84b8ecfb05": {
+        "authors": [
+          "Tsumugi Taku"
+        ],
+        "identifier": "3e6c00c0-d10b-4852-99cb-9e84b8ecfb05",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hot Road",
+        "url": "https://mangadex.org/title/3e6c00c0-d10b-4852-99cb-9e84b8ecfb05",
+        "image": "https://uploads.mangadex.org/covers/3e6c00c0-d10b-4852-99cb-9e84b8ecfb05/f734c453-e065-4179-8b90-2346fc28a582.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10766,
+        "aniId": 40766,
+        "createdAt": "2020-10-12T16:03:22.000Z",
+        "updatedAt": "2021-06-02T13:36:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hot-road": {
+        "authors": [
+          "TSUMUGI Taku"
+        ],
+        "identifier": "hot-road",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hot Road",
+        "url": "https://mangasee123.com/manga/Hot-Road",
+        "image": "https://cover.nep.li/cover/Hot-Road.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10766,
+        "aniId": 40766,
+        "createdAt": "2021-03-09T19:11:32.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

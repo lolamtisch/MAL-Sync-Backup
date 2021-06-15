@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "11th CAT",
+    "열한번째 고양이"
+  ],
+  "authors": [
+    "Kim Mi-kyung"
+  ],
+  "id": 33227,
+  "malId": 3227,
+  "type": "manga",
+  "title": "11th Cat",
+  "url": "https://anilist.co/manga/33227",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3227.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "84ac413b-98ca-4a70-93ad-798084e923c8": {
+        "authors": [
+          "KIM Mi Kyung"
+        ],
+        "identifier": "84ac413b-98ca-4a70-93ad-798084e923c8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "11th Cat",
+        "url": "https://mangadex.org/title/84ac413b-98ca-4a70-93ad-798084e923c8",
+        "image": "https://uploads.mangadex.org/covers/84ac413b-98ca-4a70-93ad-798084e923c8/3a0d02bc-db5a-4bfd-a596-c775beb83b7a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3227,
+        "aniId": 33227,
+        "createdAt": "2020-10-12T16:08:09.000Z",
+        "updatedAt": "2021-06-04T07:56:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "11th_cat": {
+        "authors": [
+          "Kim",
+          "Mi",
+          "Kyung"
+        ],
+        "identifier": "11th_cat",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "11Th Cat",
+        "url": "https://manganelo.com/manga/11th_cat",
+        "image": "https://avt.mkklcdnv6temp.com/23/i/4-1583470639.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3227,
+        "aniId": 33227,
+        "createdAt": "2021-05-16T03:55:25.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ゾンビマリア"
+  ],
+  "authors": [
+    "Atsushi Nakayama"
+  ],
+  "id": 97331,
+  "malId": 99251,
+  "type": "manga",
+  "title": "Zombie Maria",
+  "url": "https://anilist.co/manga/97331",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97331-uvsNkGJemz14.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:41.000Z",
+  "updatedAt": "2021-05-20T14:54:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d7a9dd46-4e6e-4477-8b93-8aebcd342de4": {
+        "authors": [
+          "Nakayama Atsushi"
+        ],
+        "identifier": "d7a9dd46-4e6e-4477-8b93-8aebcd342de4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Zombie Maria",
+        "url": "https://mangadex.org/title/d7a9dd46-4e6e-4477-8b93-8aebcd342de4",
+        "image": "https://uploads.mangadex.org/covers/d7a9dd46-4e6e-4477-8b93-8aebcd342de4/6e83eaec-7b7f-49b7-965f-58ad85542341.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99251,
+        "aniId": 97331,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:24:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "the_zombie_maria1": {
+        "authors": [],
+        "identifier": "the_zombie_maria1",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Zombie Maria",
+        "url": "https://manganelo.com/manga/the_zombie_maria1",
+        "image": "https://avt.mkklcdnv6.com/1/y/13-1583489755.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99251,
+        "aniId": 97331,
+        "createdAt": "2020-10-12T16:25:44.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

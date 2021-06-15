@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Bone Collection",
+    "ボーンコレクション"
+  ],
+  "authors": [
+    "Jun Kirarazaka"
+  ],
+  "id": 117958,
+  "malId": 126254,
+  "type": "manga",
+  "title": "Bone Collection",
+  "url": "https://anilist.co/manga/117958",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117958-x8AXXcQOfIOD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:13.000Z",
+  "updatedAt": "2021-05-20T14:59:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "863ed97e-045a-4df0-8831-769fb26379ce": {
+        "authors": [
+          "Kirarazaka Jun"
+        ],
+        "identifier": "863ed97e-045a-4df0-8831-769fb26379ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bone Collection",
+        "url": "https://mangadex.org/title/863ed97e-045a-4df0-8831-769fb26379ce",
+        "image": "https://uploads.mangadex.org/covers/863ed97e-045a-4df0-8831-769fb26379ce/f3e21ef8-44c9-4386-a732-7969b959682b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126254,
+        "aniId": 117958,
+        "createdAt": "2020-10-12T16:17:09.000Z",
+        "updatedAt": "2021-06-07T05:13:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bone-collection": {
+        "authors": [
+          "KIRARAZAKA Jun"
+        ],
+        "identifier": "bone-collection",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bone Collection",
+        "url": "https://mangasee123.com/manga/Bone-Collection",
+        "image": "https://cover.nep.li/cover/Bone-Collection.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126254,
+        "aniId": 117958,
+        "createdAt": "2021-01-09T05:51:55.000Z",
+        "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

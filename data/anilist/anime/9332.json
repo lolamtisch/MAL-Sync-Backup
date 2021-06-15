@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "ドットハック クワンタム"
+  ],
+  "id": 9332,
+  "malId": 9332,
+  "type": "anime",
+  "title": ".hack//Quantum",
+  "url": "https://anilist.co/anime/9332",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9332.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:03.000Z",
+  "updatedAt": "2021-05-20T14:39:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "5jnj": {
+        "identifier": "5jnj",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".hack//Quantum (Dub)",
+        "url": "https://9anime.ru/watch/hackquantum-dub.5jnj",
+        "image": "https://static.akacdn.ru/static/images/2018/04/0a4d579c0e4f271b10cc2f637434dd52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9332,
+        "aniId": 9332,
+        "createdAt": "2020-10-12T15:50:27.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "op5j": {
+        "identifier": "op5j",
+        "type": "anime",
+        "page": "9anime",
+        "title": ".hack//Quantum",
+        "url": "https://9anime.ru/watch/hackquantum.op5j",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-3mmgvk7Hdg4/WYFmV3FC75I/AAAAAAAAAsc/6olR3gp2pE0XwXh-ZC6FgY8pTgFhOGicwCHMYCw/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9332,
+        "aniId": 9332,
+        "createdAt": "2020-10-12T15:54:20.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hackquantum-": {
+        "identifier": "hackquantum-",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": ".hack//Quantum ",
+        "url": "https://www10.gogoanime.io/category/hackquantum-",
+        "image": "https://cdnimg.xyz/images/anime/A/hackquantum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9332,
+        "aniId": 9332,
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

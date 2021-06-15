@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "Blade of Heaven",
+    "소마신화전기",
+    "Myth of Soma"
+  ],
+  "authors": [
+    "Kyung-Il Yang",
+    "Yong-Su Hwang",
+    "Jason Milligan",
+    "Lauren Na"
+  ],
+  "id": 30547,
+  "malId": 547,
+  "type": "manga",
+  "title": "Soma Shinhwa Jungi",
+  "url": "https://anilist.co/manga/30547",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30547-nUCGPVHQbjbW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:36.000Z",
+  "updatedAt": "2021-06-03T14:45:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bff33e55-8882-4eab-8eed-9a5df438ba8d": {
+        "authors": [
+          "Yang Kyung-Il",
+          "Yong-Su Hwang"
+        ],
+        "identifier": "bff33e55-8882-4eab-8eed-9a5df438ba8d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Legend of Soma",
+        "url": "https://mangadex.org/title/bff33e55-8882-4eab-8eed-9a5df438ba8d",
+        "image": "https://uploads.mangadex.org/covers/bff33e55-8882-4eab-8eed-9a5df438ba8d/bf1b5a3d-1a14-462e-aa50-7fa1890fab56.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 547,
+        "aniId": 30547,
+        "createdAt": "2020-10-12T16:05:22.000Z",
+        "updatedAt": "2021-06-03T14:45:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "the_legend_of_soma": {
+        "authors": [
+          "Yong-Su",
+          "Hwang"
+        ],
+        "identifier": "the_legend_of_soma",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Legend Of Soma",
+        "url": "https://manganelo.com/manga/the_legend_of_soma",
+        "image": "https://avt.mkklcdnv6temp.com/12/n/10-1583482619.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 547,
+        "aniId": 30547,
+        "createdAt": "2021-05-16T03:55:16.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

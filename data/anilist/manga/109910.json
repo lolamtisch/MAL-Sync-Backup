@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "FLY"
+  ],
+  "authors": [
+    "Jun Nishikawa"
+  ],
+  "id": 109910,
+  "malId": null,
+  "type": "manga",
+  "title": "FLY",
+  "url": "https://anilist.co/manga/109910",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109910-gdjTFru5UOh7.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T21:19:28.000Z",
+  "updatedAt": "2021-06-06T21:19:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "759c4b10-af8f-4e0a-ae1d-1be33a34080f": {
+        "authors": [
+          "NISHIKAWA Jun"
+        ],
+        "identifier": "759c4b10-af8f-4e0a-ae1d-1be33a34080f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fly - Tondemo Teleport Girl Yumi",
+        "url": "https://mangadex.org/title/759c4b10-af8f-4e0a-ae1d-1be33a34080f",
+        "image": "https://uploads.mangadex.org/covers/759c4b10-af8f-4e0a-ae1d-1be33a34080f/141204d1-15c9-445a-adff-d05f9732fb6c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 109910,
+        "createdAt": "2020-10-12T16:16:16.000Z",
+        "updatedAt": "2021-06-07T07:33:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

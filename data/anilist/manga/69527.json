@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "フレックスキッド"
+  ],
+  "authors": [
+    "Youkihi"
+  ],
+  "id": 69527,
+  "malId": 39527,
+  "type": "manga",
+  "title": "Flexible Kid",
+  "url": "https://anilist.co/manga/69527",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39527.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b78228f2-abb8-4a96-9ed9-b7ee2fa86c5b": {
+        "authors": [
+          "Youkihi"
+        ],
+        "identifier": "b78228f2-abb8-4a96-9ed9-b7ee2fa86c5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flexible Kid",
+        "url": "https://mangadex.org/title/b78228f2-abb8-4a96-9ed9-b7ee2fa86c5b",
+        "image": "https://uploads.mangadex.org/covers/b78228f2-abb8-4a96-9ed9-b7ee2fa86c5b/0ea85e16-a2b8-4784-93a1-039291321188.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39527,
+        "aniId": 69527,
+        "createdAt": "2020-10-12T16:19:42.000Z",
+        "updatedAt": "2021-06-07T22:30:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

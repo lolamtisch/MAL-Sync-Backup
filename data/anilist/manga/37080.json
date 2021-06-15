@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "七色いんこ",
+    "Rainbow Parakeet"
+  ],
+  "authors": [
+    "Osamu Tezuka"
+  ],
+  "id": 37080,
+  "malId": 7080,
+  "type": "manga",
+  "title": "Nanairo Inko",
+  "url": "https://anilist.co/manga/37080",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx37080-YsQIRQosxJ2t.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:45.000Z",
+  "updatedAt": "2021-05-20T14:39:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7885d54a-c0a4-4f08-9ebb-ac75723442ed": {
+        "authors": [
+          "Osamu Tezuka"
+        ],
+        "identifier": "7885d54a-c0a4-4f08-9ebb-ac75723442ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rainbow Parakeet",
+        "url": "https://mangadex.org/title/7885d54a-c0a4-4f08-9ebb-ac75723442ed",
+        "image": "https://uploads.mangadex.org/covers/7885d54a-c0a4-4f08-9ebb-ac75723442ed/65c568ee-1c33-452f-a8b5-1f5f52f4e61b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7080,
+        "aniId": 37080,
+        "createdAt": "2020-11-30T18:23:04.000Z",
+        "updatedAt": "2021-06-08T08:03:07.000Z",
+        "deletedAt": null
+      },
+      "722dab7c-7386-49f2-851a-2348515de82b": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "722dab7c-7386-49f2-851a-2348515de82b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nanairo Inko",
+        "url": "https://mangadex.org/title/722dab7c-7386-49f2-851a-2348515de82b",
+        "image": "https://uploads.mangadex.org/covers/722dab7c-7386-49f2-851a-2348515de82b/d98d7287-8d16-4526-8d47-69aad061d4d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7080,
+        "aniId": 37080,
+        "createdAt": "2020-12-18T02:56:02.000Z",
+        "updatedAt": "2021-06-08T08:40:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

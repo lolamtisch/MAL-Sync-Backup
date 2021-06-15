@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "天空之狗"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 38561,
+  "malId": 8561,
+  "type": "manga",
+  "title": "Tenkuu no Inu",
+  "url": "https://anilist.co/manga/38561",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38561-lLHOQGeDFj0P.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T21:21:28.000Z",
+  "updatedAt": "2021-06-03T21:21:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b2be6849-bc1d-4460-9739-7b6361f74195": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "b2be6849-bc1d-4460-9739-7b6361f74195",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenku no Inu",
+        "url": "https://mangadex.org/title/b2be6849-bc1d-4460-9739-7b6361f74195",
+        "image": "https://uploads.mangadex.org/covers/b2be6849-bc1d-4460-9739-7b6361f74195/284cb6d3-8edd-455e-adbb-55336db354db.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 8561,
+        "aniId": 38561,
+        "createdAt": "2020-10-12T16:06:39.000Z",
+        "updatedAt": "2021-06-03T21:40:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

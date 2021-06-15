@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Kaho Miyasaka"
+  ],
+  "id": 34745,
+  "malId": 4745,
+  "type": "manga",
+  "title": "Kiss in the Blue",
+  "url": "https://anilist.co/manga/34745",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4745.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:36.000Z",
+  "updatedAt": "2021-05-20T14:38:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "60253d0e-f232-46a9-a20a-68534facef1b": {
+        "authors": [
+          "Miyasaka Kaho"
+        ],
+        "identifier": "60253d0e-f232-46a9-a20a-68534facef1b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiss In The Blue",
+        "url": "https://mangadex.org/title/60253d0e-f232-46a9-a20a-68534facef1b",
+        "image": "https://uploads.mangadex.org/covers/60253d0e-f232-46a9-a20a-68534facef1b/a2916328-ff92-4039-ab02-274042c78f4d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4745,
+        "aniId": 34745,
+        "createdAt": "2020-10-12T16:03:41.000Z",
+        "updatedAt": "2021-06-02T15:47:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

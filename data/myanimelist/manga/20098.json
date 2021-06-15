@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Pen and Chocolate",
+    "ペンとチョコレート"
+  ],
+  "authors": [
+    "Nemu, Youko"
+  ],
+  "id": 20098,
+  "type": "manga",
+  "title": "Pen to Chocolate",
+  "url": "https://myanimelist.net/manga/20098/Pen_to_Chocolate",
+  "image": "https://cdn.myanimelist.net/images/manga/2/171400.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:47.000Z",
+  "updatedAt": "2021-02-16T10:36:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6a3ec62c-14c6-45a1-8ba2-e6a644795752": {
+        "authors": [
+          "Nemu Youko"
+        ],
+        "identifier": "6a3ec62c-14c6-45a1-8ba2-e6a644795752",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pen to Chocolate",
+        "url": "https://mangadex.org/title/6a3ec62c-14c6-45a1-8ba2-e6a644795752",
+        "image": "https://uploads.mangadex.org/covers/6a3ec62c-14c6-45a1-8ba2-e6a644795752/0fdffd1c-e472-42ee-a47e-5d116b5cfdc4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20098,
+        "aniId": 50098,
+        "createdAt": "2020-10-12T16:05:16.000Z",
+        "updatedAt": "2021-06-03T11:24:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "pen_to_chocolate": {
+        "authors": [],
+        "identifier": "pen_to_chocolate",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Pen To Chocolate",
+        "url": "https://manganelo.com/manga/pen_to_chocolate",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3537-pen_to_chocolate.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20098,
+        "aniId": 50098,
+        "createdAt": "2020-10-12T16:24:50.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

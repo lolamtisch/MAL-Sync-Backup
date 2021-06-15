@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "レセプタクル"
+  ],
+  "authors": [
+    "Rendou Kurosaki"
+  ],
+  "id": 51429,
+  "malId": 21429,
+  "type": "manga",
+  "title": "Receptacle",
+  "url": "https://anilist.co/manga/51429",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51429-ssIfF4AKozRy.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:42.000Z",
+  "updatedAt": "2021-05-20T14:45:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a1138bd4-2972-4514-a24d-54e367c9b7d7": {
+        "authors": [
+          "Kurosaki Rendou"
+        ],
+        "identifier": "a1138bd4-2972-4514-a24d-54e367c9b7d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Receptacle",
+        "url": "https://mangadex.org/title/a1138bd4-2972-4514-a24d-54e367c9b7d7",
+        "image": "https://uploads.mangadex.org/covers/a1138bd4-2972-4514-a24d-54e367c9b7d7/f772be41-2608-4839-8b89-49292b9f8b79.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21429,
+        "aniId": 51429,
+        "createdAt": "2020-10-12T16:03:37.000Z",
+        "updatedAt": "2021-06-02T15:15:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "receptacle": {
+        "authors": [
+          "Kurosaki",
+          "Rendou"
+        ],
+        "identifier": "receptacle",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Receptacle",
+        "url": "https://manganelo.com/manga/receptacle",
+        "image": "https://avt.mkklcdnv6temp.com/26/g/10-1583483123.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21429,
+        "aniId": 51429,
+        "createdAt": "2021-04-05T14:08:56.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

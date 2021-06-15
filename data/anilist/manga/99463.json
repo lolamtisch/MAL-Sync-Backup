@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "いじめられっこが来る！",
+    "Here Comes the Bullied Kid!"
+  ],
+  "authors": [
+    "Takashi Wada"
+  ],
+  "id": 99463,
+  "malId": null,
+  "type": "manga",
+  "title": "Ijimerarekko ga Kuru!",
+  "url": "https://anilist.co/manga/99463",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99463-uEqYFoYsJyXZ.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-05T03:50:08.000Z",
+  "updatedAt": "2021-06-05T03:50:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8c116ad0-c64e-4e47-b4aa-6c00c92e5748": {
+        "authors": [
+          "WADA Takashi"
+        ],
+        "identifier": "8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Here Comes the Bullied Kid!",
+        "url": "https://mangadex.org/title/8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
+        "image": "https://uploads.mangadex.org/covers/8c116ad0-c64e-4e47-b4aa-6c00c92e5748/42346235-6f6b-4913-986e-c937903e53a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99463,
+        "createdAt": "2020-10-12T16:10:49.000Z",
+        "updatedAt": "2021-06-05T09:06:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

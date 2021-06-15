@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ヴァーチャル・ビースト"
+  ],
+  "authors": [
+    "Rin Fujiki",
+    "Wakako Hoshino"
+  ],
+  "id": 33013,
+  "malId": 3013,
+  "type": "manga",
+  "title": "Virtual Beast",
+  "url": "https://anilist.co/manga/33013",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n33013-7QzIM6hJ0klC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:17.000Z",
+  "updatedAt": "2021-05-20T14:37:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd21a1a4-729b-41dd-b1fe-48f89a9cb6ac": {
+        "authors": [
+          "Fujiki Rin",
+          "Hoshino Wakako"
+        ],
+        "identifier": "dd21a1a4-729b-41dd-b1fe-48f89a9cb6ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Virtual Beast",
+        "url": "https://mangadex.org/title/dd21a1a4-729b-41dd-b1fe-48f89a9cb6ac",
+        "image": "https://uploads.mangadex.org/covers/dd21a1a4-729b-41dd-b1fe-48f89a9cb6ac/fb6868d4-d9d0-4293-bf88-c3122134e7dd.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3013,
+        "aniId": 33013,
+        "createdAt": "2020-10-12T16:11:50.000Z",
+        "updatedAt": "2021-06-05T11:25:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

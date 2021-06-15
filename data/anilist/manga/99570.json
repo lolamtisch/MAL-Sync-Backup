@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ヒーローの秘密",
+    "The Secret of a Hero"
+  ],
+  "authors": [
+    "Yoko Imamura"
+  ],
+  "id": 99570,
+  "malId": 81449,
+  "type": "manga",
+  "title": "Hero no Himitsu",
+  "url": "https://anilist.co/manga/99570",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99570-x0HzxUzx2fGN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:02.000Z",
+  "updatedAt": "2021-05-20T14:52:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b4a21b67-22e7-4482-add5-8cd9451bedfe": {
+        "authors": [
+          "Imamura Yoko"
+        ],
+        "identifier": "b4a21b67-22e7-4482-add5-8cd9451bedfe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hero no Himitsu",
+        "url": "https://mangadex.org/title/b4a21b67-22e7-4482-add5-8cd9451bedfe",
+        "image": "https://uploads.mangadex.org/covers/b4a21b67-22e7-4482-add5-8cd9451bedfe/394cad12-79b4-4e3e-ae52-0f54a32c7fab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81449,
+        "aniId": 99570,
+        "createdAt": "2020-10-12T16:10:46.000Z",
+        "updatedAt": "2021-06-05T03:12:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hero_no_himitsu": {
+        "authors": [],
+        "identifier": "hero_no_himitsu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hero No Himitsu",
+        "url": "https://manganelo.com/manga/hero_no_himitsu",
+        "image": "https://avt.mkklcdnv6.com/31/e/15-1583492697.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81449,
+        "aniId": 99570,
+        "createdAt": "2020-10-12T16:23:18.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

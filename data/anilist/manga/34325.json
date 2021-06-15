@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Takaaki Kusaka"
+  ],
+  "id": 34325,
+  "malId": 4325,
+  "type": "manga",
+  "title": "Pochi no Shiawase",
+  "url": "https://anilist.co/manga/34325",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4325.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:28.000Z",
+  "updatedAt": "2021-05-20T14:38:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "44408640-39f0-4366-a276-89cbd2fe50b1": {
+        "authors": [
+          "Kusaka Takaaki"
+        ],
+        "identifier": "44408640-39f0-4366-a276-89cbd2fe50b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pochi no Shiawase",
+        "url": "https://mangadex.org/title/44408640-39f0-4366-a276-89cbd2fe50b1",
+        "image": "https://uploads.mangadex.org/covers/44408640-39f0-4366-a276-89cbd2fe50b1/acdb728f-28db-4d6b-aee4-e04ff6695de0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4325,
+        "aniId": 34325,
+        "createdAt": "2020-10-12T16:21:44.000Z",
+        "updatedAt": "2021-06-08T03:00:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

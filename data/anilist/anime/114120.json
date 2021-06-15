@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "Legend of Deification",
+    "姜子牙",
+    "Legend of Deification"
+  ],
+  "id": 114120,
+  "malId": 42106,
+  "type": "anime",
+  "title": "Jiang Ziya",
+  "url": "https://anilist.co/anime/114120",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114120-e3pJoX2YbqIS.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:06.000Z",
+  "updatedAt": "2021-05-20T14:46:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "r5nm": {
+        "identifier": "r5nm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jiang Ziya",
+        "url": "https://www12.9anime.to/watch/jiang-ziya.r5nm",
+        "image": "//static.9anime.to/i/cache/images/3/3d/3d780427cd611bb4a926a8703a64d9f8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42106,
+        "aniId": 114120,
+        "createdAt": "2020-12-09T13:59:40.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      },
+      "50y9": {
+        "identifier": "50y9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jiang Ziya (Dub)",
+        "url": "https://www12.9anime.to/watch/jiang-ziya-dub.50y9",
+        "image": "//static.bunnycdn.ru/i/cache/images/6/65/65b22efdfa5177ae78b45cff58603c81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42106,
+        "aniId": 114120,
+        "createdAt": "2021-02-16T20:37:29.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jiang-ziya": {
+        "identifier": "jiang-ziya",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jiang Ziya",
+        "url": "https://gogoanime.so/category/jiang-ziya",
+        "image": "https://gogocdn.net/cover/jiang-ziya.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42106,
+        "aniId": 114120,
+        "createdAt": "2021-02-01T08:35:16.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

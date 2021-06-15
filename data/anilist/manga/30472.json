@@ -1,0 +1,76 @@
+{
+  "altTitle": [
+    "Jing: King of Bandits",
+    "王ドロボウJING"
+  ],
+  "authors": [
+    "Yuuichi Kumakura",
+    "Deron Bennett",
+    "Jose Macasocol Jr.",
+    "Jesse Fernley",
+    "Vicente Rivera Jr.",
+    "Yoohae Yang",
+    "Kong Chang",
+    "Brian Bossin",
+    "John Lo",
+    "Tomas Montalvo-Lagos",
+    "María Ferrer"
+  ],
+  "id": 30472,
+  "malId": 472,
+  "type": "manga",
+  "title": "Ou Dorobou Jing",
+  "url": "https://anilist.co/manga/30472",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30472-GIK2m8h7cysl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-20T14:35:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f3be1ae-ec3a-4af9-bc21-dcdb6999658f": {
+        "authors": [
+          "KUMAKURA Yuichi"
+        ],
+        "identifier": "4f3be1ae-ec3a-4af9-bc21-dcdb6999658f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "King of Bandit Jing",
+        "url": "https://mangadex.org/title/4f3be1ae-ec3a-4af9-bc21-dcdb6999658f",
+        "image": "https://uploads.mangadex.org/covers/4f3be1ae-ec3a-4af9-bc21-dcdb6999658f/060b0120-89ae-493b-9102-7142c202b567.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 472,
+        "aniId": 30472,
+        "createdAt": "2020-10-12T16:11:23.000Z",
+        "updatedAt": "2021-06-05T07:59:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ou_dorobou_jing": {
+        "authors": [
+          "KUMAKURA Yuichi"
+        ],
+        "identifier": "ou_dorobou_jing",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ou Dorobou Jing",
+        "url": "https://fanfox.net/manga/ou_dorobou_jing/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6651/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 472,
+        "aniId": 30472,
+        "createdAt": "2021-04-22T10:59:10.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "指輪の選んだ婚約者",
+    "Yubiwano",
+    "Fiancee Be Chosen by the Ring",
+    "La Novia es Elegida por el Anillo"
+  ],
+  "authors": [
+    "Yue Matsuyuki",
+    "Yasuyuki Torikai",
+    "Jun Hayase"
+  ],
+  "id": 105174,
+  "malId": 120911,
+  "type": "manga",
+  "title": "Yubiwa no Eranda Konyakusha",
+  "url": "https://anilist.co/manga/105174",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105174-RPCNzjb1Wtq5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:18.000Z",
+  "updatedAt": "2021-05-20T14:58:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "06a785aa-8e4f-4690-a049-28c30fda3261": {
+        "authors": [
+          "Matsuyuki Yue",
+          "Hayase Jyun"
+        ],
+        "identifier": "06a785aa-8e4f-4690-a049-28c30fda3261",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fiancée Be Chosen by the Ring",
+        "url": "https://mangadex.org/title/06a785aa-8e4f-4690-a049-28c30fda3261",
+        "image": "https://uploads.mangadex.org/covers/06a785aa-8e4f-4690-a049-28c30fda3261/e4c44cf5-7f02-4a99-9ca5-2b2ee4a71ee1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120911,
+        "aniId": 105174,
+        "createdAt": "2020-10-12T16:16:10.000Z",
+        "updatedAt": "2021-06-06T20:09:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fr919443": {
+        "authors": [],
+        "identifier": "fr919443",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fiancee Be Chosen By The Ring",
+        "url": "https://manganelo.com/manga/fr919443",
+        "image": "https://avt.mkklcdnv6.com/32/g/18-1583498334.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120911,
+        "aniId": 105174,
+        "createdAt": "2020-10-12T16:22:58.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yubiwa_no_eranda_kon_yakusha": {
+        "authors": [
+          "MATSUYUKI Yue"
+        ],
+        "identifier": "yubiwa_no_eranda_kon_yakusha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yubiwa no Eranda Kon'yakusha",
+        "url": "https://fanfox.net/manga/yubiwa_no_eranda_kon_yakusha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30932/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120911,
+        "aniId": 105174,
+        "createdAt": "2021-04-30T01:50:57.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

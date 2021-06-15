@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "Getter Robo Go",
+    "ゲッターロボ號",
+    "ゲッターロボ號"
+  ],
+  "id": 5292,
+  "malId": 5292,
+  "type": "anime",
+  "title": "Getter Robo Go",
+  "url": "https://anilist.co/anime/5292",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5292-DLiutsWESCEr.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:44.000Z",
+  "updatedAt": "2021-05-20T14:37:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "0qn9": {
+        "identifier": "0qn9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Getter Robo Go",
+        "url": "https://9anime.to/watch/getter-robo-go.0qn9",
+        "image": "https://static.akacdn.ru/files/images/2018/04/dc1edb71718e8bc590e7ca515d502ddf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5292,
+        "aniId": 5292,
+        "createdAt": "2020-10-12T15:48:51.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "getter-robo-go": {
+        "identifier": "getter-robo-go",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Getter Robo Go",
+        "url": "https://gogoanime.ai/category/getter-robo-go",
+        "image": "https://gogocdn.net/cover/getter-robo-go.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5292,
+        "aniId": 5292,
+        "createdAt": "2021-05-09T04:17:38.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

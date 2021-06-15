@@ -1,0 +1,127 @@
+{
+  "altTitle": [
+    "うぽって！！"
+  ],
+  "authors": [
+    "Kitsune Tennouji"
+  ],
+  "id": 46542,
+  "malId": 16542,
+  "type": "manga",
+  "title": "Upotte!!",
+  "url": "https://anilist.co/manga/46542",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46542-ha6gbbKya9Ao.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:55.000Z",
+  "updatedAt": "2021-05-20T14:43:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f267da6a-f2c2-4245-b766-82f7bae9bed9": {
+        "authors": [
+          "Tennouji Kitsune"
+        ],
+        "identifier": "f267da6a-f2c2-4245-b766-82f7bae9bed9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Upotte!!",
+        "url": "https://mangadex.org/title/f267da6a-f2c2-4245-b766-82f7bae9bed9",
+        "image": "https://uploads.mangadex.org/covers/f267da6a-f2c2-4245-b766-82f7bae9bed9/58497efc-272d-4851-8c02-73c902e804c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16542,
+        "aniId": 46542,
+        "createdAt": "2020-10-12T16:02:39.000Z",
+        "updatedAt": "2021-06-02T08:35:54.000Z",
+        "deletedAt": null
+      },
+      "61043eaa-4bfb-4821-abfb-a0c54569363d": {
+        "authors": [
+          "TENNOUJI Kitsune"
+        ],
+        "identifier": "61043eaa-4bfb-4821-abfb-a0c54569363d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Upotte!! Nano",
+        "url": "https://mangadex.org/title/61043eaa-4bfb-4821-abfb-a0c54569363d",
+        "image": "https://uploads.mangadex.org/covers/61043eaa-4bfb-4821-abfb-a0c54569363d/2ddb373c-2c79-4806-a11a-50b4d8c58f96.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16542,
+        "aniId": 46542,
+        "createdAt": "2020-10-12T16:03:44.000Z",
+        "updatedAt": "2021-06-02T16:09:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "upotte": {
+        "authors": [],
+        "identifier": "upotte",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Upotte!!",
+        "url": "https://manganelo.com/manga/upotte",
+        "image": "https://avt.mkklcdnv6.com/23/z/1-1583464640.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16542,
+        "aniId": 46542,
+        "createdAt": "2020-10-12T16:25:57.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "upotte": {
+        "authors": [
+          "TENNOUJI Kitsune"
+        ],
+        "identifier": "upotte",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Upotte!!",
+        "url": "https://mangasee123.com/manga/Upotte",
+        "image": "https://cover.nep.li/cover/Upotte.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16542,
+        "aniId": 46542,
+        "createdAt": "2021-04-09T11:51:08.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "upotte": {
+        "authors": [
+          "TENNOUJI Kitsune"
+        ],
+        "identifier": "upotte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Upotte!!",
+        "url": "https://fanfox.net/manga/upotte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6698/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16542,
+        "aniId": 46542,
+        "createdAt": "2021-04-16T11:44:51.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Mythology of the Heavens",
+    "God of War",
+    "Phoenix Rising"
+  ],
+  "authors": [
+    "Hyun Se Lee"
+  ],
+  "id": 69401,
+  "malId": 39401,
+  "type": "manga",
+  "title": "Mythology of the Heavens",
+  "url": "https://anilist.co/manga/69401",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39401.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d6dcd49-2cde-478f-9b19-775f3e53b980": {
+        "authors": [
+          "ZhuLang Comic (逐浪动漫)"
+        ],
+        "identifier": "9d6dcd49-2cde-478f-9b19-775f3e53b980",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "God of War",
+        "url": "https://mangadex.org/title/9d6dcd49-2cde-478f-9b19-775f3e53b980",
+        "image": "https://uploads.mangadex.org/covers/9d6dcd49-2cde-478f-9b19-775f3e53b980/e95cacd5-3f0b-4818-b984-0ec9134940f5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39401,
+        "aniId": 69401,
+        "createdAt": "2020-10-12T16:15:40.000Z",
+        "updatedAt": "2021-06-06T15:39:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

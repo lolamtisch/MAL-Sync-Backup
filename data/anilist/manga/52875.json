@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "魔法女がくる",
+    "Here Comes Magical Woman",
+    "The Magical Woman is Coming"
+  ],
+  "authors": [
+    "Nobuto Hagio"
+  ],
+  "id": 52875,
+  "malId": 22875,
+  "type": "manga",
+  "title": "Mahou Onna ga Kuru",
+  "url": "https://anilist.co/manga/52875",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22875.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:33.000Z",
+  "updatedAt": "2021-05-20T14:46:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0379dce1-e895-4247-8d1b-549da5eb2c48": {
+        "authors": [
+          "Hagio Nobuto"
+        ],
+        "identifier": "0379dce1-e895-4247-8d1b-549da5eb2c48",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Onna ga Kuru!!",
+        "url": "https://mangadex.org/title/0379dce1-e895-4247-8d1b-549da5eb2c48",
+        "image": "https://uploads.mangadex.org/covers/0379dce1-e895-4247-8d1b-549da5eb2c48/148c0cde-43ae-4f17-8cb5-4626154d5b23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22875,
+        "aniId": 52875,
+        "createdAt": "2020-10-12T16:02:51.000Z",
+        "updatedAt": "2021-06-02T09:55:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mahou_onna_ga_kuru": {
+        "authors": [
+          "Hagio",
+          "Nobuto"
+        ],
+        "identifier": "mahou_onna_ga_kuru",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mahou Onna Ga Kuru",
+        "url": "https://manganelo.com/manga/mahou_onna_ga_kuru",
+        "image": "https://avt.mkklcdnv6.com/27/x/12-1583486866.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22875,
+        "aniId": 52875,
+        "createdAt": "2020-11-08T15:15:38.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "映画プリキュアミラクルユニバース",
+    "Precure Miracle Universe"
+  ],
+  "id": 106858,
+  "malId": 38672,
+  "type": "anime",
+  "title": "Precure Miracle Universe",
+  "url": "https://anilist.co/anime/106858",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106858-6OLiISxhFQwz.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:52.000Z",
+  "updatedAt": "2021-05-20T14:44:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "wxnl": {
+        "identifier": "wxnl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Precure Miracle Universe Movie",
+        "url": "https://9anime.ru/watch/precure-miracle-universe-movie.wxnl",
+        "image": "https://static.akacdn.ru/files/images/2019/07/290b9a79c8372cba5b8983af14b7c483.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38672,
+        "aniId": 106858,
+        "createdAt": "2020-10-12T15:56:19.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "precure-miracle-universe-movie": {
+        "identifier": "precure-miracle-universe-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Precure Miracle Universe Movie",
+        "url": "https://www7.gogoanime.io/category/precure-miracle-universe-movie",
+        "image": "https://cdnimg.xyz/cover/precure-miracle-universe-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38672,
+        "aniId": 106858,
+        "createdAt": "2020-10-12T16:01:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

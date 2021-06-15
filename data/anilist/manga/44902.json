@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Gate 7",
+    "GATE 7",
+    "Mangettes: Gate 7",
+    "Gate7",
+    "ゲート セブン"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 44902,
+  "malId": 14902,
+  "type": "manga",
+  "title": "GATE 7",
+  "url": "https://anilist.co/manga/44902",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44902-DRXymbjMeWkl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:41.000Z",
+  "updatedAt": "2021-05-20T14:43:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "GATE 7",
+        "url": "https://mangadex.org/title/39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
+        "image": "https://uploads.mangadex.org/covers/39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d/fa3d581d-f3c0-428e-adf9-2e40562cc5e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14902,
+        "aniId": 44902,
+        "createdAt": "2020-10-12T16:02:48.000Z",
+        "updatedAt": "2021-06-02T09:36:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "gate7": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "gate7",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gate 7",
+        "url": "https://mangasee123.com/manga/Gate7",
+        "image": "https://cover.nep.li/cover/Gate7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14902,
+        "aniId": 44902,
+        "createdAt": "2021-03-13T11:39:41.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "忘れもの",
+    "Wasure Mono",
+    "Lost Article"
+  ],
+  "authors": [
+    "Setsuko Katou"
+  ],
+  "id": 49219,
+  "malId": 19219,
+  "type": "manga",
+  "title": "Wasuremono",
+  "url": "https://anilist.co/manga/49219",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19219.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:17.000Z",
+  "updatedAt": "2021-05-20T14:45:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d6478bf3-96cf-4573-99a4-0baded4fbd99": {
+        "authors": [
+          "Katou Setsuko"
+        ],
+        "identifier": "d6478bf3-96cf-4573-99a4-0baded4fbd99",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wasuremono",
+        "url": "https://mangadex.org/title/d6478bf3-96cf-4573-99a4-0baded4fbd99",
+        "image": "https://uploads.mangadex.org/covers/d6478bf3-96cf-4573-99a4-0baded4fbd99/7170351a-1c3f-4f07-8e30-6365046509a7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19219,
+        "aniId": 49219,
+        "createdAt": "2020-10-12T16:15:15.000Z",
+        "updatedAt": "2021-06-06T12:05:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

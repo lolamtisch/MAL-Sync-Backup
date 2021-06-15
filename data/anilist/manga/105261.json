@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Silver By Night",
+    "銀色のジェンダーズ",
+    "Gin Iro no Genders"
+  ],
+  "authors": [
+    "Hiro Tomono"
+  ],
+  "id": 105261,
+  "malId": 116568,
+  "type": "manga",
+  "title": "Giniro no Genders",
+  "url": "https://anilist.co/manga/105261",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105261-W0kLH1RsFDTu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:24.000Z",
+  "updatedAt": "2021-05-20T14:57:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "398f55e5-e684-471e-b49d-9fb23b00fb87": {
+        "authors": [
+          "Tomono Hiro"
+        ],
+        "identifier": "398f55e5-e684-471e-b49d-9fb23b00fb87",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Giniro no Genders",
+        "url": "https://mangadex.org/title/398f55e5-e684-471e-b49d-9fb23b00fb87",
+        "image": "https://uploads.mangadex.org/covers/398f55e5-e684-471e-b49d-9fb23b00fb87/79470e14-5c09-4302-b47d-79bdb1a13539.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116568,
+        "aniId": 105261,
+        "createdAt": "2020-10-12T16:14:16.000Z",
+        "updatedAt": "2021-06-06T03:53:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ya917742": {
+        "authors": [],
+        "identifier": "ya917742",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Silver Genders",
+        "url": "https://manganelo.com/manga/ya917742",
+        "image": "https://avt.mkklcdnv6.com/20/e/17-1583495984.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116568,
+        "aniId": 105261,
+        "createdAt": "2020-10-12T16:26:18.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

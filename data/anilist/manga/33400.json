@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "First Love Sisters",
+    "初恋姉妹",
+    "Loving Sisters"
+  ],
+  "authors": [
+    "Mizuo Shinonome",
+    "Mako Komao",
+    "Reine Hibiki"
+  ],
+  "id": 33400,
+  "malId": 3400,
+  "type": "manga",
+  "title": "Hatsukoi Shimai",
+  "url": "https://anilist.co/manga/33400",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33400-V2XWbA51jM6O.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:08.000Z",
+  "updatedAt": "2021-05-20T14:38:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e88125e4-f0b4-45c1-a2f8-e762c69d6a0a": {
+        "authors": [
+          "Shinonome Mizuo",
+          "Komao Mako"
+        ],
+        "identifier": "e88125e4-f0b4-45c1-a2f8-e762c69d6a0a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hatsukoi Shimai",
+        "url": "https://mangadex.org/title/e88125e4-f0b4-45c1-a2f8-e762c69d6a0a",
+        "image": "https://uploads.mangadex.org/covers/e88125e4-f0b4-45c1-a2f8-e762c69d6a0a/54670917-55ba-488c-a8ba-4e60b16e561d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3400,
+        "aniId": 33400,
+        "createdAt": "2020-10-12T16:05:33.000Z",
+        "updatedAt": "2021-06-03T13:23:29.000Z",
+        "deletedAt": null
+      },
+      "11839bad-c514-445d-93c9-ccf2890c7b06": {
+        "authors": [
+          "Ryoma"
+        ],
+        "identifier": "11839bad-c514-445d-93c9-ccf2890c7b06",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Sisters",
+        "url": "https://mangadex.org/title/11839bad-c514-445d-93c9-ccf2890c7b06",
+        "image": "https://uploads.mangadex.org/covers/11839bad-c514-445d-93c9-ccf2890c7b06/872b44e7-12bb-45e1-86ce-bc1afceda868.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3400,
+        "aniId": 33400,
+        "createdAt": "2020-10-12T16:13:25.000Z",
+        "updatedAt": "2021-06-05T21:12:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pu966855": {
+        "authors": [
+          "Komao Mako"
+        ],
+        "identifier": "manga-pu966855",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hatsukoi Shimai",
+        "url": "https://manganato.com/manga-pu966855",
+        "image": "https://avt.mkklcdnv6temp.com/6/e/11-1583484219.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3400,
+        "aniId": 33400,
+        "createdAt": "2021-06-04T19:52:09.000Z",
+        "updatedAt": "2021-06-04T20:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

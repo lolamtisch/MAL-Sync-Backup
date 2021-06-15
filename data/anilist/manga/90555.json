@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "レイニーソング",
+    "Aru Shoujo no Gunjou",
+    "A Girl in Ultramarine",
+    "Kurayami no Asterisk",
+    "Snowflakes",
+    "落雪冰晶",
+    "레이니송"
+  ],
+  "authors": [
+    "Momono Moto"
+  ],
+  "id": 90555,
+  "malId": 67101,
+  "type": "manga",
+  "title": "Rainy Song",
+  "url": "https://anilist.co/manga/90555",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx90555-sxdTnHVvo2Jf.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:59.000Z",
+  "updatedAt": "2021-05-20T14:50:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "02dfdfbf-8b72-48c8-9854-5d44ae1ddb25": {
+        "authors": [
+          "Momono Moto"
+        ],
+        "identifier": "02dfdfbf-8b72-48c8-9854-5d44ae1ddb25",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rainy Song",
+        "url": "https://mangadex.org/title/02dfdfbf-8b72-48c8-9854-5d44ae1ddb25",
+        "image": "https://uploads.mangadex.org/covers/02dfdfbf-8b72-48c8-9854-5d44ae1ddb25/2c9e4d3a-9607-4b63-b46e-490cd0e11fca.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67101,
+        "aniId": 90555,
+        "createdAt": "2020-10-12T16:07:38.000Z",
+        "updatedAt": "2021-06-04T04:09:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rainy_song": {
+        "authors": [
+          "Momono",
+          "Moto"
+        ],
+        "identifier": "rainy_song",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rainy Song",
+        "url": "https://manganelo.com/manga/rainy_song",
+        "image": "https://avt.mkklcdnv6temp.com/46/n/2-1583467479.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67101,
+        "aniId": 90555,
+        "createdAt": "2021-05-22T23:13:52.000Z",
+        "updatedAt": "2021-05-22T23:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

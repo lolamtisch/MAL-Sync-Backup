@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "解体ザナフ",
+    "Kaitai Zanafu",
+    "Zanuff the Butcher"
+  ],
+  "authors": [
+    "Yui Jouyama"
+  ],
+  "id": 100095,
+  "malId": 108948,
+  "type": "manga",
+  "title": "Kaitai Zanuff",
+  "url": "https://anilist.co/manga/100095",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b100095-VbJ1mdr3MAV5.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:04.000Z",
+  "updatedAt": "2021-05-20T14:56:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "87a7705f-fa93-4353-867f-dde9a26799af": {
+        "authors": [
+          "Jouyama Yui"
+        ],
+        "identifier": "87a7705f-fa93-4353-867f-dde9a26799af",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Zanuff the Butcher",
+        "url": "https://mangadex.org/title/87a7705f-fa93-4353-867f-dde9a26799af",
+        "image": "https://uploads.mangadex.org/covers/87a7705f-fa93-4353-867f-dde9a26799af/456317ef-b196-4b55-a0cf-c5a80aac270f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108948,
+        "aniId": 100095,
+        "createdAt": "2020-10-12T16:10:54.000Z",
+        "updatedAt": "2021-06-05T04:13:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "zanuff_the_butcher": {
+        "authors": [],
+        "identifier": "zanuff_the_butcher",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Zanuff The Butcher",
+        "url": "https://manganelo.com/manga/zanuff_the_butcher",
+        "image": "https://avt.mkklcdnv6.com/41/k/15-1583493153.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108948,
+        "aniId": 100095,
+        "createdAt": "2020-10-12T16:26:29.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

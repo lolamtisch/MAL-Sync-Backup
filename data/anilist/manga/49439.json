@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "ロックマンゼロ",
+    "Mega Man Zero",
+    "Megaman Zero"
+  ],
+  "authors": [
+    "Hideto Kajima",
+    "Keiji Inafune",
+    "Akira Kitamura"
+  ],
+  "id": 49439,
+  "malId": 19439,
+  "type": "manga",
+  "title": "Rockman Zero",
+  "url": "https://anilist.co/manga/49439",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b49439-T87Bm5smsxp2.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T10:52:19.000Z",
+  "updatedAt": "2021-06-05T10:52:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1c7b2a4-73e4-4e29-85aa-fee952b4a1f6": {
+        "authors": [
+          "Kajima Hideto"
+        ],
+        "identifier": "e1c7b2a4-73e4-4e29-85aa-fee952b4a1f6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rockman Zero",
+        "url": "https://mangadex.org/title/e1c7b2a4-73e4-4e29-85aa-fee952b4a1f6",
+        "image": "https://uploads.mangadex.org/covers/e1c7b2a4-73e4-4e29-85aa-fee952b4a1f6/1441bf95-3469-4b2b-8036-525b52e1afb8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19439,
+        "aniId": 49439,
+        "createdAt": "2020-10-12T16:11:41.000Z",
+        "updatedAt": "2021-06-05T12:50:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

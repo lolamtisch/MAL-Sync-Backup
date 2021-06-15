@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "난약",
+    "Promised Orchid"
+  ],
+  "authors": [
+    "Geuk-Jin Jeon",
+    "Jin-Hwan Park"
+  ],
+  "id": 112326,
+  "malId": null,
+  "type": "manga",
+  "title": "Nan Yak",
+  "url": "https://anilist.co/manga/112326",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112326-lYRnf2offfPK.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-27T13:28:43.000Z",
+  "updatedAt": "2021-05-27T13:28:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "add8a78e-c432-4f8b-855f-3365db5e40f1": {
+        "authors": [
+          "Jeon Geuk-jin",
+          "Park Jin-Hwan"
+        ],
+        "identifier": "add8a78e-c432-4f8b-855f-3365db5e40f1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Promised Orchid",
+        "url": "https://mangadex.org/title/add8a78e-c432-4f8b-855f-3365db5e40f1",
+        "image": "https://uploads.mangadex.org/covers/add8a78e-c432-4f8b-855f-3365db5e40f1/f04ad4b2-33f2-4351-af32-7b1a1c5cc9ca.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112326,
+        "createdAt": "2020-10-12T16:16:34.000Z",
+        "updatedAt": "2021-06-07T07:34:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

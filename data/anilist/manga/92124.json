@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "ふわり!どんぱっち",
+    "Fuwari! Don Pacchi",
+    "Gently! Don Patch"
+  ],
+  "authors": [
+    "Yoshio Sawai"
+  ],
+  "id": 92124,
+  "malId": 75051,
+  "type": "manga",
+  "title": "Fuwari! Don Patch",
+  "url": "https://anilist.co/manga/92124",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/92124-bgAF0FpMbzdF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:44.000Z",
+  "updatedAt": "2021-05-20T14:51:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f7a779a-84c6-40f7-b90b-5f4feb59ae84": {
+        "authors": [
+          "Fujisawa Makoto"
+        ],
+        "identifier": "4f7a779a-84c6-40f7-b90b-5f4feb59ae84",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fuwari",
+        "url": "https://mangadex.org/title/4f7a779a-84c6-40f7-b90b-5f4feb59ae84",
+        "image": "https://uploads.mangadex.org/covers/4f7a779a-84c6-40f7-b90b-5f4feb59ae84/6d60473c-9ed3-404d-b90c-2cc75d79713a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75051,
+        "aniId": 92124,
+        "createdAt": "2020-10-12T16:18:04.000Z",
+        "updatedAt": "2021-06-07T13:28:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

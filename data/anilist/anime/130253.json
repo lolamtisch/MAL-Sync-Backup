@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "ベイブレードバースト DB",
+    "ベイブレードバースト ダイナマイトバトル",
+    "Beyblade Burst Dynamite Battle"
+  ],
+  "id": 130253,
+  "malId": 48455,
+  "type": "anime",
+  "title": "Beyblade Burst DB",
+  "url": "https://anilist.co/anime/130253",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130253-xGqNj5lKnuwN.png",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:16.000Z",
+  "updatedAt": "2021-05-20T14:46:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "r7zm": {
+        "identifier": "r7zm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Beyblade Burst Dynamite Battle",
+        "url": "https://www12.9anime.to/watch/beyblade-burst-dynamite-battle.r7zm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d1/d115b087eec9cf7e879cea626e3933ba.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48455,
+        "aniId": 130253,
+        "createdAt": "2021-04-14T11:15:59.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "beyblade-burst-dynamite-battle": {
+        "identifier": "beyblade-burst-dynamite-battle",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Beyblade Burst Dynamite Battle",
+        "url": "https://gogoanime.ai/category/beyblade-burst-dynamite-battle",
+        "image": "https://gogocdn.net/cover/beyblade-burst-dynamite-battle.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48455,
+        "aniId": 130253,
+        "createdAt": "2021-04-14T16:47:29.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

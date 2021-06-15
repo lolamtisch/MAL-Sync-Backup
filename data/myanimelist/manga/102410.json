@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Here in Tender Garden.",
+    "ここはやさしい庭"
+  ],
+  "authors": [
+    "Enzou"
+  ],
+  "id": 102410,
+  "type": "manga",
+  "title": "Koko wa Yasashii Niwa",
+  "url": "https://myanimelist.net/manga/102410/Koko_wa_Yasashii_Niwa",
+  "image": "https://cdn.myanimelist.net/images/manga/3/227788.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-05-18T12:31:53.000Z",
+  "updatedAt": "2021-06-04T23:19:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6658cd0e-da3c-470c-8b31-49948ad9b4bf": {
+        "authors": [
+          "Enzou"
+        ],
+        "identifier": "6658cd0e-da3c-470c-8b31-49948ad9b4bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koko wa Yasashii Niwa",
+        "url": "https://mangadex.org/title/6658cd0e-da3c-470c-8b31-49948ad9b4bf",
+        "image": "https://uploads.mangadex.org/covers/6658cd0e-da3c-470c-8b31-49948ad9b4bf/e693781a-13a6-47f1-821f-dfd998f589ac.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 102410,
+        "aniId": 110679,
+        "createdAt": "2020-10-12T16:10:13.000Z",
+        "updatedAt": "2021-06-04T23:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "koko_wa_yasashii_niwa": {
+        "authors": [
+          "Enzou"
+        ],
+        "identifier": "koko_wa_yasashii_niwa",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Koko Wa Yasashii Niwa",
+        "url": "https://manganelo.com/manga/koko_wa_yasashii_niwa",
+        "image": "https://avt.mkklcdnv6temp.com/32/l/14-1583490882.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102410,
+        "aniId": 110679,
+        "createdAt": "2021-05-18T12:31:53.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

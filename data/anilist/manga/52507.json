@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "伊達人間"
+  ],
+  "authors": [
+    "Ryu Miyanaga"
+  ],
+  "id": 52507,
+  "malId": 22507,
+  "type": "manga",
+  "title": "Date Ningen",
+  "url": "https://anilist.co/manga/52507",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22507.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:30.000Z",
+  "updatedAt": "2021-05-20T14:46:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c3bdafd0-396a-46a9-a41a-563db37aa9c2": {
+        "authors": [
+          "MIYANAGA Ryu"
+        ],
+        "identifier": "c3bdafd0-396a-46a9-a41a-563db37aa9c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Date Ningen",
+        "url": "https://mangadex.org/title/c3bdafd0-396a-46a9-a41a-563db37aa9c2",
+        "image": "https://uploads.mangadex.org/covers/c3bdafd0-396a-46a9-a41a-563db37aa9c2/d38b5f19-bfcd-46d2-935d-c2c14ac1d005.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22507,
+        "aniId": 52507,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:38:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

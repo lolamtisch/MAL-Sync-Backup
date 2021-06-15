@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Wolf Alert",
+    "Wolf Warning"
+  ],
+  "authors": [
+    "Yun-Jeong Kim"
+  ],
+  "id": 41808,
+  "malId": 11808,
+  "type": "manga",
+  "title": "A Wolf Warning",
+  "url": "https://anilist.co/manga/41808",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11808.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:14.000Z",
+  "updatedAt": "2021-05-20T14:42:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7a3ede8e-40c1-4f7e-a63d-6bd417f856cd": {
+        "authors": [
+          "KIM Yoon-Jung (김윤정)"
+        ],
+        "identifier": "7a3ede8e-40c1-4f7e-a63d-6bd417f856cd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Wolf Warning",
+        "url": "https://mangadex.org/title/7a3ede8e-40c1-4f7e-a63d-6bd417f856cd",
+        "image": "https://uploads.mangadex.org/covers/7a3ede8e-40c1-4f7e-a63d-6bd417f856cd/8bb15b75-2325-42ac-8605-a1a92e936840.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11808,
+        "aniId": 41808,
+        "createdAt": "2020-10-12T16:11:46.000Z",
+        "updatedAt": "2021-06-05T10:54:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

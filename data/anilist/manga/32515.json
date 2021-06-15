@@ -1,0 +1,44 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Haiji Sakura"
+  ],
+  "id": 32515,
+  "malId": 2515,
+  "type": "manga",
+  "title": "Bishounen no Koi",
+  "url": "https://anilist.co/manga/32515",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2515.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:07.000Z",
+  "updatedAt": "2021-05-20T14:37:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "708ede4a-6dcf-473f-bad5-5d5551ab517f": {
+        "authors": [
+          "Kido Sakura",
+          "Fan Yong",
+          "Sakura Haiji",
+          "Mizuta Nao"
+        ],
+        "identifier": "708ede4a-6dcf-473f-bad5-5d5551ab517f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bishounen no Koi",
+        "url": "https://mangadex.org/title/708ede4a-6dcf-473f-bad5-5d5551ab517f",
+        "image": "https://uploads.mangadex.org/covers/708ede4a-6dcf-473f-bad5-5d5551ab517f/ac5a6375-ba0f-42a5-946c-c9885b0aaf56.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2515,
+        "aniId": 32515,
+        "createdAt": "2020-10-12T16:05:04.000Z",
+        "updatedAt": "2021-06-03T10:03:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

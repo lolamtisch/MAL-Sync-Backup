@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Pyeswaeja",
+    "폐쇄자",
+    "The Closer"
+  ],
+  "authors": [
+    "Shi Jin Yoo"
+  ],
+  "id": 99768,
+  "malId": null,
+  "type": "manga",
+  "title": "Pyeswaeja",
+  "url": "https://anilist.co/manga/99768",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99768-zniBMrziOjZx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T04:19:41.000Z",
+  "updatedAt": "2021-06-05T04:19:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb532c73-a733-473c-9ede-8b3182c1fadd": {
+        "authors": [
+          "Shi-Jin Yoo"
+        ],
+        "identifier": "bb532c73-a733-473c-9ede-8b3182c1fadd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Closer",
+        "url": "https://mangadex.org/title/bb532c73-a733-473c-9ede-8b3182c1fadd",
+        "image": "https://uploads.mangadex.org/covers/bb532c73-a733-473c-9ede-8b3182c1fadd/b1f496ec-d65c-4472-98f4-bd415e0d0ac2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99768,
+        "createdAt": "2020-10-12T16:10:53.000Z",
+        "updatedAt": "2021-06-05T08:41:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

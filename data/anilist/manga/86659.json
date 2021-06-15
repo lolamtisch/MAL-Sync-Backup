@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ホープ"
+  ],
+  "authors": [
+    "Keiko Suenobu"
+  ],
+  "id": 86659,
+  "malId": 57383,
+  "type": "manga",
+  "title": "Hope",
+  "url": "https://anilist.co/manga/86659",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56659-KEH6tv32gXEG.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:30.000Z",
+  "updatedAt": "2021-05-20T14:50:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "13cb691c-75f6-4ec7-a41f-e07341e33226": {
+        "authors": [
+          "Suenobu Keiko"
+        ],
+        "identifier": "13cb691c-75f6-4ec7-a41f-e07341e33226",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "HOPE",
+        "url": "https://mangadex.org/title/13cb691c-75f6-4ec7-a41f-e07341e33226",
+        "image": "https://uploads.mangadex.org/covers/13cb691c-75f6-4ec7-a41f-e07341e33226/4a84d47d-d4b3-404d-8814-d0a24223529d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57383,
+        "aniId": 86659,
+        "createdAt": "2020-10-12T16:06:41.000Z",
+        "updatedAt": "2021-06-03T21:23:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

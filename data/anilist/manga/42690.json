@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ガクラン忍法長",
+    "The Gakuran Ninja Scroll"
+  ],
+  "authors": [
+    "Row Takakura"
+  ],
+  "id": 42690,
+  "malId": 12690,
+  "type": "manga",
+  "title": "Gakuran Ninpouchou",
+  "url": "https://anilist.co/manga/42690",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12690.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b56fd7d7-30fd-4d82-ba68-39c0972a158a": {
+        "authors": [
+          "Takakura Row"
+        ],
+        "identifier": "b56fd7d7-30fd-4d82-ba68-39c0972a158a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Gakuran Ninja Scroll",
+        "url": "https://mangadex.org/title/b56fd7d7-30fd-4d82-ba68-39c0972a158a",
+        "image": "https://uploads.mangadex.org/covers/b56fd7d7-30fd-4d82-ba68-39c0972a158a/9fde894d-6325-4370-84f5-e176c9ac2f08.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12690,
+        "aniId": 42690,
+        "createdAt": "2020-10-12T16:03:03.000Z",
+        "updatedAt": "2021-06-02T11:21:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hi922272": {
+        "authors": [],
+        "identifier": "hi922272",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Gakuran Ninja Scroll",
+        "url": "https://manganelo.com/manga/hi922272",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3699-hi922272.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12690,
+        "aniId": 42690,
+        "createdAt": "2020-10-12T16:23:19.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

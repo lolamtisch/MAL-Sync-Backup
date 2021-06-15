@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ロストマン"
+  ],
+  "authors": [
+    "Shinnosuke Kuji"
+  ],
+  "id": 91335,
+  "malId": 71131,
+  "type": "manga",
+  "title": "Lost Man",
+  "url": "https://anilist.co/manga/91335",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91335-zgo49kHeWJ8O.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:34.000Z",
+  "updatedAt": "2021-05-20T14:51:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "78cfcf5e-63e5-45d0-b151-6b81c13232fb": {
+        "authors": [
+          "Kuji Shinnosuke"
+        ],
+        "identifier": "78cfcf5e-63e5-45d0-b151-6b81c13232fb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lost Man (KUJI Shinnosuke)",
+        "url": "https://mangadex.org/title/78cfcf5e-63e5-45d0-b151-6b81c13232fb",
+        "image": "https://uploads.mangadex.org/covers/78cfcf5e-63e5-45d0-b151-6b81c13232fb/b1b36156-add3-430a-b65e-86c7c73cbdb9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71131,
+        "aniId": 91335,
+        "createdAt": "2020-10-12T16:07:24.000Z",
+        "updatedAt": "2021-06-04T02:32:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

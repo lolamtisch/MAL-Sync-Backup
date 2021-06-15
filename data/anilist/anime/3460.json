@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "ボスコ アドベンチャ",
+    "Bosco Daibouken"
+  ],
+  "id": 3460,
+  "malId": 3460,
+  "type": "anime",
+  "title": "Bosco Adventure",
+  "url": "https://anilist.co/anime/3460",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3460-sQL4ZaaikRY8.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:23.000Z",
+  "updatedAt": "2021-05-20T14:37:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "2m4q": {
+        "identifier": "2m4q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bosco Adventure",
+        "url": "https://9anime.ru/watch/bosco-adventure.2m4q",
+        "image": "http://static.akacdn.ru/static/images/2018/07/b2bf321ba4c55e1b68ce607a948f7e45.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3460,
+        "aniId": 3460,
+        "createdAt": "2020-10-12T15:49:27.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bosco-daibouken": {
+        "identifier": "bosco-daibouken",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bosco Daibouken",
+        "url": "https://www10.gogoanime.io/category/bosco-daibouken",
+        "image": "https://cdnimg.xyz/cover/bosco-daibouken.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3460,
+        "aniId": 3460,
+        "createdAt": "2020-10-12T16:00:02.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

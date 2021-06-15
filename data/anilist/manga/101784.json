@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "恋は盲目",
+    "Love is Blind"
+  ],
+  "authors": [
+    "Tatsuki Fujimoto"
+  ],
+  "id": 101784,
+  "malId": 108414,
+  "type": "manga",
+  "title": "Koi wa Moumoku",
+  "url": "https://anilist.co/manga/101784",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101784-KbzWebNiiY9G.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:58.000Z",
+  "updatedAt": "2021-05-20T14:55:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5addf995-1b07-442a-9f4c-5a1762b0dc81": {
+        "authors": [
+          "Fujimoto Tatsuki"
+        ],
+        "identifier": "5addf995-1b07-442a-9f4c-5a1762b0dc81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Is Blind",
+        "url": "https://mangadex.org/title/5addf995-1b07-442a-9f4c-5a1762b0dc81",
+        "image": "https://uploads.mangadex.org/covers/5addf995-1b07-442a-9f4c-5a1762b0dc81/c9be4f6c-3a14-4770-8c71-76a73c9a872c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108414,
+        "aniId": 101784,
+        "createdAt": "2020-10-12T16:10:51.000Z",
+        "updatedAt": "2021-06-05T03:52:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "love_is_blind_fujimoto_tatsuki": {
+        "authors": [],
+        "identifier": "love_is_blind_fujimoto_tatsuki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Love is Blind (FUJIMOTO Tatsuki)",
+        "url": "https://manganelo.com/manga/love_is_blind_fujimoto_tatsuki",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/18858-love_is_blind_fujimoto_tatsuki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108414,
+        "aniId": 101784,
+        "createdAt": "2020-10-12T16:24:10.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

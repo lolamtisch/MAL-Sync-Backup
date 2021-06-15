@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Knight of the Ice",
+    "ぎんばんきし"
+  ],
+  "authors": [
+    "Yayoi Ogawa"
+  ],
+  "id": 87365,
+  "malId": 68023,
+  "type": "manga",
+  "title": "Ginban Kishi",
+  "url": "https://anilist.co/manga/87365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57365-rU5eXJFpKrqP.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:00.000Z",
+  "updatedAt": "2021-05-20T14:51:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "228dac80-ea4a-460f-8c8c-150110180ba1": {
+        "authors": [
+          "Ogawa Yayoi"
+        ],
+        "identifier": "228dac80-ea4a-460f-8c8c-150110180ba1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ginban Kishi",
+        "url": "https://mangadex.org/title/228dac80-ea4a-460f-8c8c-150110180ba1",
+        "image": "https://uploads.mangadex.org/covers/228dac80-ea4a-460f-8c8c-150110180ba1/c090472a-8623-4a66-bf20-aa1beec2ab7a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68023,
+        "aniId": 87365,
+        "createdAt": "2020-10-12T16:08:42.000Z",
+        "updatedAt": "2021-06-04T12:03:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ginban_kishi": {
+        "authors": [
+          "OGAWA Yayoi"
+        ],
+        "identifier": "ginban_kishi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ginban Kishi",
+        "url": "https://fanfox.net/manga/ginban_kishi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17287/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68023,
+        "aniId": 87365,
+        "createdAt": "2021-05-20T02:00:57.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-js951975": {
+        "authors": [
+          "Ogawa Yayoi"
+        ],
+        "identifier": "manga-js951975",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ginban Kishi",
+        "url": "https://manganato.com/manga-js951975",
+        "image": "https://avt.mkklcdnv6temp.com/23/g/1-1583464612.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68023,
+        "aniId": 87365,
+        "createdAt": "2021-06-12T13:38:18.000Z",
+        "updatedAt": "2021-06-12T14:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

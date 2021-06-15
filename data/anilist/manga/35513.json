@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "He's A Naturalist",
+    "He Is A Naturalist"
+  ],
+  "authors": [
+    "Takaaki Kusaka"
+  ],
+  "id": 35513,
+  "malId": 5513,
+  "type": "manga",
+  "title": "Naturalist no Kare",
+  "url": "https://anilist.co/manga/35513",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5513.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:30.000Z",
+  "updatedAt": "2021-05-20T14:39:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f8d8b148-f1ec-4bfa-94bd-5b7791b1a44a": {
+        "authors": [
+          "Kusaka Takaaki"
+        ],
+        "identifier": "f8d8b148-f1ec-4bfa-94bd-5b7791b1a44a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Naturalist no Kare",
+        "url": "https://mangadex.org/title/f8d8b148-f1ec-4bfa-94bd-5b7791b1a44a",
+        "image": "https://uploads.mangadex.org/covers/f8d8b148-f1ec-4bfa-94bd-5b7791b1a44a/c23b5299-a86f-40ed-bd66-9402b0323955.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5513,
+        "aniId": 35513,
+        "createdAt": "2020-10-12T16:21:21.000Z",
+        "updatedAt": "2021-06-08T02:04:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

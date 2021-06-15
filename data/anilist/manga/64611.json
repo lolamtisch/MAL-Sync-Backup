@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "ゴーストライター"
+  ],
+  "authors": [
+    "Kawori Tsubaki"
+  ],
+  "id": 64611,
+  "malId": 34611,
+  "type": "manga",
+  "title": "Ghost Writer",
+  "url": "https://anilist.co/manga/64611",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx64611-3UD9eL0cvqx0.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:59.000Z",
+  "updatedAt": "2021-05-20T14:47:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aad496ed-7aa9-47bc-9ea3-35e5bfd6982e": {
+        "authors": [
+          "Tsubaki Kawori"
+        ],
+        "identifier": "aad496ed-7aa9-47bc-9ea3-35e5bfd6982e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ghost Writer",
+        "url": "https://mangadex.org/title/aad496ed-7aa9-47bc-9ea3-35e5bfd6982e",
+        "image": "https://uploads.mangadex.org/covers/aad496ed-7aa9-47bc-9ea3-35e5bfd6982e/1a63bf79-0e85-48b0-86c4-800cd8fb6b99.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34611,
+        "aniId": 64611,
+        "createdAt": "2020-10-12T16:04:01.000Z",
+        "updatedAt": "2021-06-02T18:06:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ghost_writer": {
+        "authors": [
+          "Tsubaki",
+          "Kawori"
+        ],
+        "identifier": "ghost_writer",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ghost Writer",
+        "url": "https://manganelo.com/manga/ghost_writer",
+        "image": "https://avt.mkklcdnv6.com/10/b/11-1583484371.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34611,
+        "aniId": 64611,
+        "createdAt": "2020-12-02T17:23:21.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ghost-writer": {
+        "authors": [
+          "TSUBAKI Kawori"
+        ],
+        "identifier": "ghost-writer",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ghost Writer",
+        "url": "https://mangasee123.com/manga/Ghost-Writer",
+        "image": "https://cover.nep.li/cover/Ghost-Writer.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34611,
+        "aniId": 64611,
+        "createdAt": "2021-02-01T18:31:44.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

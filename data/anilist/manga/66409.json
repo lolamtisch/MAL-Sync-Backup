@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "王子とヒーロー",
+    "Prince and Hero"
+  ],
+  "authors": [
+    "Daisy Yamada"
+  ],
+  "id": 66409,
+  "malId": 36409,
+  "type": "manga",
+  "title": "Ouji to Hero",
+  "url": "https://anilist.co/manga/66409",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx66409-iNNeBhg0VYLc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:28.000Z",
+  "updatedAt": "2021-05-20T14:48:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "42a40849-78b5-4e53-acfe-d5f235a7f48d": {
+        "authors": [
+          "YAMADA Daisy"
+        ],
+        "identifier": "42a40849-78b5-4e53-acfe-d5f235a7f48d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ouji to Hero",
+        "url": "https://mangadex.org/title/42a40849-78b5-4e53-acfe-d5f235a7f48d",
+        "image": "https://uploads.mangadex.org/covers/42a40849-78b5-4e53-acfe-d5f235a7f48d/c5abe3ed-8a7e-4e10-a830-e8e8a2a3a4b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36409,
+        "aniId": 66409,
+        "createdAt": "2020-10-12T16:04:24.000Z",
+        "updatedAt": "2021-06-02T20:45:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ouji-to-hero": {
+        "authors": [
+          "YAMADA Daisy"
+        ],
+        "identifier": "ouji-to-hero",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ouji to Hero",
+        "url": "https://mangasee123.com/manga/Ouji-To-Hero",
+        "image": "https://cover.nep.li/cover/Ouji-To-Hero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36409,
+        "aniId": 66409,
+        "createdAt": "2021-06-12T14:09:11.000Z",
+        "updatedAt": "2021-06-12T14:38:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

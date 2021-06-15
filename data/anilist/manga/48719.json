@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Nobody Knows"
+  ],
+  "authors": [
+    "SHOOWA"
+  ],
+  "id": 48719,
+  "malId": 18719,
+  "type": "manga",
+  "title": "Nobody Knows",
+  "url": "https://anilist.co/manga/48719",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18719.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:14.000Z",
+  "updatedAt": "2021-05-20T14:45:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "88d77ef4-6c15-49f9-abd6-b4d279ddfad3": {
+        "authors": [
+          "Shoowa"
+        ],
+        "identifier": "88d77ef4-6c15-49f9-abd6-b4d279ddfad3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nobody Knows",
+        "url": "https://mangadex.org/title/88d77ef4-6c15-49f9-abd6-b4d279ddfad3",
+        "image": "https://uploads.mangadex.org/covers/88d77ef4-6c15-49f9-abd6-b4d279ddfad3/c757499f-558c-4788-ad75-e76210302140.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18719,
+        "aniId": 48719,
+        "createdAt": "2020-10-12T16:12:49.000Z",
+        "updatedAt": "2021-06-05T16:34:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

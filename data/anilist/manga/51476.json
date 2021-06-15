@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "Brave Dan",
+    "勇者ダン",
+    "Brave Man Dan"
+  ],
+  "authors": [
+    "Osamu Tezuka",
+    "Kyle Vandersteen",
+    "Mikayla Bactad",
+    "Rachelle Lipp",
+    "Corinna Cornett"
+  ],
+  "id": 51476,
+  "malId": 21476,
+  "type": "manga",
+  "title": "Yuusha Dan",
+  "url": "https://anilist.co/manga/51476",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21476.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:42.000Z",
+  "updatedAt": "2021-05-20T14:45:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1eeaa139-d334-489c-9006-77bde84873ec": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "1eeaa139-d334-489c-9006-77bde84873ec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuusha Dan",
+        "url": "https://mangadex.org/title/1eeaa139-d334-489c-9006-77bde84873ec",
+        "image": "https://uploads.mangadex.org/covers/1eeaa139-d334-489c-9006-77bde84873ec/753cf68b-fb18-477a-8a48-3d641228b84f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21476,
+        "aniId": 51476,
+        "createdAt": "2020-10-12T16:03:51.000Z",
+        "updatedAt": "2021-06-02T16:52:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

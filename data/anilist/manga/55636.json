@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "My Darling Kitten Hair",
+    "いとしの猫っ毛",
+    "Mi lindo minino"
+  ],
+  "authors": [
+    "Haruko Kumota",
+    "Ana María Caro",
+    "Elina Ishikawa"
+  ],
+  "id": 55636,
+  "malId": 25636,
+  "type": "manga",
+  "title": "Itoshi no Nekokke",
+  "url": "https://anilist.co/manga/55636",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55636-pT0dTJ6XqM7u.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:55.000Z",
+  "updatedAt": "2021-05-20T14:46:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6a62fa05-941f-491c-901a-af963263844d": {
+        "authors": [
+          "Kumota Haruko"
+        ],
+        "identifier": "6a62fa05-941f-491c-901a-af963263844d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itoshi no Nekokke",
+        "url": "https://mangadex.org/title/6a62fa05-941f-491c-901a-af963263844d",
+        "image": "https://uploads.mangadex.org/covers/6a62fa05-941f-491c-901a-af963263844d/70900122-f323-429a-87a8-def4519c6aa1.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25636,
+        "aniId": 55636,
+        "createdAt": "2020-10-12T16:09:00.000Z",
+        "updatedAt": "2021-06-04T14:25:48.000Z",
+        "deletedAt": null
+      },
+      "28afe27e-fa4e-465c-abd2-dc55b8a1d800": {
+        "authors": [
+          "Kumota Haruko"
+        ],
+        "identifier": "28afe27e-fa4e-465c-abd2-dc55b8a1d800",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itoshi no Nekokke: Ban Gaihen",
+        "url": "https://mangadex.org/title/28afe27e-fa4e-465c-abd2-dc55b8a1d800",
+        "image": "https://uploads.mangadex.org/covers/28afe27e-fa4e-465c-abd2-dc55b8a1d800/540e0b59-354c-4944-98a0-f6088e6e8003.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25636,
+        "aniId": 55636,
+        "createdAt": "2020-10-12T16:16:21.000Z",
+        "updatedAt": "2021-06-06T21:43:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

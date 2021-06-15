@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "やさしいヒカリ",
+    "Warm and somewhat sleepy light"
+  ],
+  "authors": [
+    "Hinata Nakamura"
+  ],
+  "id": 102258,
+  "malId": 118644,
+  "type": "manga",
+  "title": "Yasashii Hikari",
+  "url": "https://anilist.co/manga/102258",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102258-aC0my2p9aQIh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:05.000Z",
+  "updatedAt": "2021-05-20T14:58:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0cde7b45-4089-492c-b9ba-e6bb206ba287": {
+        "authors": [
+          "Nakamura Hinata"
+        ],
+        "identifier": "0cde7b45-4089-492c-b9ba-e6bb206ba287",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yasashii Hikari",
+        "url": "https://mangadex.org/title/0cde7b45-4089-492c-b9ba-e6bb206ba287",
+        "image": "https://uploads.mangadex.org/covers/0cde7b45-4089-492c-b9ba-e6bb206ba287/244f9146-a4f8-4c55-aa3c-dbc176a15bf3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118644,
+        "aniId": 102258,
+        "createdAt": "2020-10-12T16:13:41.000Z",
+        "updatedAt": "2021-06-05T23:22:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "fk920813": {
+        "authors": [],
+        "identifier": "fk920813",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Warm and Somewhat Sleepy Light",
+        "url": "https://manganelo.com/manga/fk920813",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/2210-fk920813.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118644,
+        "aniId": 102258,
+        "createdAt": "2020-10-12T16:22:56.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

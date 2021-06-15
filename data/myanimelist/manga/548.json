@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "The One I Love",
+    "わたしのすきなひと"
+  ],
+  "authors": [
+    "CLAMP"
+  ],
+  "id": 548,
+  "type": "manga",
+  "title": "Watashi no Suki na Hito",
+  "url": "https://myanimelist.net/manga/548/Watashi_no_Suki_na_Hito",
+  "image": "https://cdn.myanimelist.net/images/manga/3/144145.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:23.000Z",
+  "updatedAt": "2021-01-07T17:22:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "18bfe440-2670-4b45-a264-1a3adbb65d01": {
+        "authors": [
+          "CLAMP",
+          "Nekoi Tsubaki",
+          "Ohkawa Ageha"
+        ],
+        "identifier": "18bfe440-2670-4b45-a264-1a3adbb65d01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi no Suki na Hito",
+        "url": "https://mangadex.org/title/18bfe440-2670-4b45-a264-1a3adbb65d01",
+        "image": "https://uploads.mangadex.org/covers/18bfe440-2670-4b45-a264-1a3adbb65d01/a44383e2-ca3b-4ec5-97cb-1330bb2e078b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 548,
+        "aniId": 30548,
+        "createdAt": "2020-10-12T16:13:11.000Z",
+        "updatedAt": "2021-06-05T19:27:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "js922505": {
+        "authors": [],
+        "identifier": "js922505",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Zettai Watashi No Koto Suki Daro",
+        "url": "https://manganelo.com/manga/js922505",
+        "image": "https://avt.mkklcdnv6.com/46/p/20-1584894003.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 548,
+        "aniId": 30548,
+        "createdAt": "2020-10-12T16:23:46.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

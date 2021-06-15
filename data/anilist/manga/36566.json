@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Interceptor-Doll HoiHoi-san",
+    "一撃殺虫!!ホイホイさん"
+  ],
+  "authors": [
+    "Kunihiko Tanaka",
+    "Sakura Banta",
+    "Eamon Banta"
+  ],
+  "id": 36566,
+  "malId": 6566,
+  "type": "manga",
+  "title": "Ichigeki Sacchuu!! Hoihoi-san",
+  "url": "https://anilist.co/manga/36566",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx36566-8ddF7IVgkrhe.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:42.000Z",
+  "updatedAt": "2021-05-20T14:39:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f9e6a8ea-9585-40c8-8c86-622836e9759b": {
+        "authors": [
+          "TANAKA Kunihiko"
+        ],
+        "identifier": "f9e6a8ea-9585-40c8-8c86-622836e9759b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichigeki Sacchu!! Hoihoi-san",
+        "url": "https://mangadex.org/title/f9e6a8ea-9585-40c8-8c86-622836e9759b",
+        "image": "https://uploads.mangadex.org/covers/f9e6a8ea-9585-40c8-8c86-622836e9759b/9568866a-d217-40fd-afb8-484dc25aa238.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 6566,
+        "aniId": 36566,
+        "createdAt": "2020-10-12T16:04:54.000Z",
+        "updatedAt": "2021-06-03T08:38:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "interceptor-doll-hoihoi-san": {
+        "authors": [
+          "TANAKA Kunihiko"
+        ],
+        "identifier": "interceptor-doll-hoihoi-san",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Interceptor Doll Hoihoi-san",
+        "url": "https://mangasee123.com/manga/Interceptor-Doll-Hoihoi-San",
+        "image": "https://cover.nep.li/cover/Interceptor-Doll-Hoihoi-San.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6566,
+        "aniId": 36566,
+        "createdAt": "2021-04-29T16:21:23.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

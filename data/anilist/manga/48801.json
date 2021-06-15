@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "のりりん"
+  ],
+  "authors": [
+    "Mohiro Kitoh"
+  ],
+  "id": 48801,
+  "malId": 18801,
+  "type": "manga",
+  "title": "Noririn",
+  "url": "https://anilist.co/manga/48801",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48801-cEugGU3Xqzf8.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:14.000Z",
+  "updatedAt": "2021-05-20T14:45:14.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5a93bff9-7055-4fbf-966b-c3716f514e50": {
+        "authors": [
+          "Kitoh Mohiro"
+        ],
+        "identifier": "5a93bff9-7055-4fbf-966b-c3716f514e50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Noririn",
+        "url": "https://mangadex.org/title/5a93bff9-7055-4fbf-966b-c3716f514e50",
+        "image": "https://uploads.mangadex.org/covers/5a93bff9-7055-4fbf-966b-c3716f514e50/2974a8a7-936e-4a79-a30d-d131ec18e118.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18801,
+        "aniId": 48801,
+        "createdAt": "2020-10-12T16:02:50.000Z",
+        "updatedAt": "2021-06-02T09:42:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "noririn": {
+        "authors": [
+          "KITOH Mohiro"
+        ],
+        "identifier": "noririn",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Noririn",
+        "url": "https://mangasee123.com/manga/Noririn",
+        "image": "https://cover.nep.li/cover/Noririn.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18801,
+        "aniId": 48801,
+        "createdAt": "2021-04-06T15:08:43.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

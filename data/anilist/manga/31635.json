@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Bring it on!",
+    "건강합니다!",
+    "Bring It On",
+    "Blooming",
+    "Mama x Boy"
+  ],
+  "authors": [
+    "Hye-Kyung Baek"
+  ],
+  "id": 31635,
+  "malId": 1635,
+  "type": "manga",
+  "title": "Bring it on!",
+  "url": "https://anilist.co/manga/31635",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1635.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:49.000Z",
+  "updatedAt": "2021-05-20T14:36:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1ed2d4e0-3749-4ca7-8be6-aaf690fad8eb": {
+        "authors": [
+          "Baek Hye-Kyung"
+        ],
+        "identifier": "1ed2d4e0-3749-4ca7-8be6-aaf690fad8eb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blooming",
+        "url": "https://mangadex.org/title/1ed2d4e0-3749-4ca7-8be6-aaf690fad8eb",
+        "image": "https://uploads.mangadex.org/covers/1ed2d4e0-3749-4ca7-8be6-aaf690fad8eb/f5150ad6-1ca5-4bf9-84eb-169bd3bc03e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1635,
+        "aniId": 31635,
+        "createdAt": "2020-10-12T16:05:14.000Z",
+        "updatedAt": "2021-06-03T11:05:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

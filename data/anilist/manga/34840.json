@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Ooru Wan",
+    "All one"
+  ],
+  "authors": [
+    "Akari Hayano"
+  ],
+  "id": 34840,
+  "malId": 4840,
+  "type": "manga",
+  "title": "All 1",
+  "url": "https://anilist.co/manga/34840",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4840.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:36.000Z",
+  "updatedAt": "2021-05-20T14:38:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "de760ef1-3c39-4785-8f56-a9ce956189b9": {
+        "authors": [
+          "HAYANO Akari"
+        ],
+        "identifier": "de760ef1-3c39-4785-8f56-a9ce956189b9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "ALL 1",
+        "url": "https://mangadex.org/title/de760ef1-3c39-4785-8f56-a9ce956189b9",
+        "image": "https://uploads.mangadex.org/covers/de760ef1-3c39-4785-8f56-a9ce956189b9/9d29a1b9-3a3d-40cc-a333-c8327903a17b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4840,
+        "aniId": 34840,
+        "createdAt": "2020-10-12T16:05:47.000Z",
+        "updatedAt": "2021-06-03T14:55:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

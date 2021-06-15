@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "ほっ健室",
+    "Feel Relieved a Nurse's Office",
+    "Ho Kenshitsu"
+  ],
+  "authors": [
+    "Yasu"
+  ],
+  "id": 60241,
+  "malId": 30241,
+  "type": "manga",
+  "title": "Hokkenshitsu",
+  "url": "https://anilist.co/manga/60241",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60241-yD8mZH2Euh5F.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:40.000Z",
+  "updatedAt": "2021-05-20T14:47:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "97fd314f-a608-4152-9ab3-35d75ea72ad1": {
+        "authors": [
+          "Yasu"
+        ],
+        "identifier": "97fd314f-a608-4152-9ab3-35d75ea72ad1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hokkenshitsu",
+        "url": "https://mangadex.org/title/97fd314f-a608-4152-9ab3-35d75ea72ad1",
+        "image": "https://uploads.mangadex.org/covers/97fd314f-a608-4152-9ab3-35d75ea72ad1/b17824fe-68c7-49c7-8b3c-6a449e02d1de.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30241,
+        "aniId": 60241,
+        "createdAt": "2020-10-12T16:03:07.000Z",
+        "updatedAt": "2021-06-02T11:49:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hokkenshitsu": {
+        "authors": [
+          "Yasu"
+        ],
+        "identifier": "hokkenshitsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hokkenshitsu",
+        "url": "https://fanfox.net/manga/hokkenshitsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9589/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30241,
+        "aniId": 60241,
+        "createdAt": "2021-04-22T08:57:01.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

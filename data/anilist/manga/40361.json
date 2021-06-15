@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "荒魂トライブ"
+  ],
+  "authors": [
+    "Ryuuji Gotsubo"
+  ],
+  "id": 40361,
+  "malId": 10361,
+  "type": "manga",
+  "title": "Aratama Tribe",
+  "url": "https://anilist.co/manga/40361",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40361-2EuC1yKRuigu.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:03.000Z",
+  "updatedAt": "2021-05-20T14:41:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3a0e2bd-2a78-46cb-9b93-ca34dd9344a8": {
+        "authors": [
+          "Gotsubo Ryuuji"
+        ],
+        "identifier": "b3a0e2bd-2a78-46cb-9b93-ca34dd9344a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aratama Tribe",
+        "url": "https://mangadex.org/title/b3a0e2bd-2a78-46cb-9b93-ca34dd9344a8",
+        "image": "https://uploads.mangadex.org/covers/b3a0e2bd-2a78-46cb-9b93-ca34dd9344a8/52d5fb96-5242-478a-913d-f7c44aa56e8a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10361,
+        "aniId": 40361,
+        "createdAt": "2020-10-12T16:04:58.000Z",
+        "updatedAt": "2021-06-03T00:43:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

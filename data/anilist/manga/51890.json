@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "セーラー♥男子",
+    "Sailor Danshi",
+    "Sailor Men"
+  ],
+  "authors": [
+    "Sakira"
+  ],
+  "id": 51890,
+  "malId": 21890,
+  "type": "manga",
+  "title": "Sailor♥Danshi",
+  "url": "https://anilist.co/manga/51890",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21890.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T03:31:16.000Z",
+  "updatedAt": "2021-06-02T03:31:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "436cd351-27e1-42c7-9c4e-d5f1b3446b21": {
+        "authors": [
+          "Sakira"
+        ],
+        "identifier": "436cd351-27e1-42c7-9c4e-d5f1b3446b21",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sailor Danshi",
+        "url": "https://mangadex.org/title/436cd351-27e1-42c7-9c4e-d5f1b3446b21",
+        "image": "https://uploads.mangadex.org/covers/436cd351-27e1-42c7-9c4e-d5f1b3446b21/4cccb222-e296-4813-9cca-83e226e3be7f.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21890,
+        "aniId": 51890,
+        "createdAt": "2020-10-12T16:12:11.000Z",
+        "updatedAt": "2021-06-05T15:30:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

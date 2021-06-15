@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ラッシュ！"
+  ],
+  "authors": [
+    "Yukimura"
+  ],
+  "id": 44654,
+  "malId": 14654,
+  "type": "manga",
+  "title": "Rush!",
+  "url": "https://anilist.co/manga/44654",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14654.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:38.000Z",
+  "updatedAt": "2021-05-20T14:43:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "adbb9565-1e8c-42f2-92b3-d7712e46672d": {
+        "authors": [
+          "Yukimura"
+        ],
+        "identifier": "adbb9565-1e8c-42f2-92b3-d7712e46672d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rush!",
+        "url": "https://mangadex.org/title/adbb9565-1e8c-42f2-92b3-d7712e46672d",
+        "image": "https://uploads.mangadex.org/covers/adbb9565-1e8c-42f2-92b3-d7712e46672d/d0bfe538-6b39-4937-8a63-6808dfdf2479.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14654,
+        "aniId": 44654,
+        "createdAt": "2020-10-12T16:05:59.000Z",
+        "updatedAt": "2021-06-03T16:26:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

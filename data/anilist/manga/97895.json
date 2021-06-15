@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "あいしてない、かも。",
+    "Maybe I don't love you."
+  ],
+  "authors": [
+    "Risa Hanano"
+  ],
+  "id": 97895,
+  "malId": 99536,
+  "type": "manga",
+  "title": "Aishite Nai, kamo.",
+  "url": "https://anilist.co/manga/97895",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97895-GQ3wwdzkzvSo.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:42.000Z",
+  "updatedAt": "2021-05-20T14:54:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "baa86314-d669-41b5-88e6-1fcd83bffdd9": {
+        "authors": [
+          "Hanano Risa"
+        ],
+        "identifier": "baa86314-d669-41b5-88e6-1fcd83bffdd9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aishite Nai, Kamo.",
+        "url": "https://mangadex.org/title/baa86314-d669-41b5-88e6-1fcd83bffdd9",
+        "image": "https://uploads.mangadex.org/covers/baa86314-d669-41b5-88e6-1fcd83bffdd9/b3086728-66db-4a22-b9e5-74dcfb884588.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99536,
+        "aniId": 97895,
+        "createdAt": "2020-10-12T16:10:10.000Z",
+        "updatedAt": "2021-06-04T22:50:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

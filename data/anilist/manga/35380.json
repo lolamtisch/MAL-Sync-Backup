@@ -1,0 +1,110 @@
+{
+  "altTitle": [
+    "へうげもの",
+    "Hyougemono",
+    "Tea for Universe",
+    "Tea for Life"
+  ],
+  "authors": [
+    "Yoshihiro Yamada"
+  ],
+  "id": 35380,
+  "malId": 5380,
+  "type": "manga",
+  "title": "Hyouge Mono",
+  "url": "https://anilist.co/manga/35380",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35380-9zOqmtKg9fOA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:28.000Z",
+  "updatedAt": "2021-05-20T14:39:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "408b1018-bb00-4384-a6f1-d72492ebc29a": {
+        "authors": [
+          "Yoshihiro Yamada"
+        ],
+        "identifier": "408b1018-bb00-4384-a6f1-d72492ebc29a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hyouge Mono",
+        "url": "https://mangadex.org/title/408b1018-bb00-4384-a6f1-d72492ebc29a",
+        "image": "https://uploads.mangadex.org/covers/408b1018-bb00-4384-a6f1-d72492ebc29a/2ea1f67a-871b-47aa-b7e7-fa9e29b9e01f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5380,
+        "aniId": 35380,
+        "createdAt": "2020-10-12T16:04:16.000Z",
+        "updatedAt": "2021-06-02T19:55:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hyougemono": {
+        "authors": [],
+        "identifier": "hyougemono",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hyougemono",
+        "url": "https://manganelo.com/manga/hyougemono",
+        "image": "https://avt.mkklcdnv6.com/25/m/1-1583464697.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5380,
+        "aniId": 35380,
+        "createdAt": "2020-10-12T16:23:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hyouge-mono": {
+        "authors": [
+          "YAMADA Yoshihiro"
+        ],
+        "identifier": "hyouge-mono",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hyouge Mono",
+        "url": "https://mangasee123.com/manga/Hyouge-Mono",
+        "image": "https://cover.nep.li/cover/Hyouge-Mono.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5380,
+        "aniId": 35380,
+        "createdAt": "2021-01-28T03:14:58.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hyougemono": {
+        "authors": [
+          "YAMADA Yoshihiro"
+        ],
+        "identifier": "hyougemono",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hyougemono",
+        "url": "https://fanfox.net/manga/hyougemono/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3230/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5380,
+        "aniId": 35380,
+        "createdAt": "2021-04-06T14:08:26.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

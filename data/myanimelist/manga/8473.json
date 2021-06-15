@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Promise",
+    "프라미스"
+  ],
+  "authors": [
+    "Lee, Eun-Young"
+  ],
+  "id": 8473,
+  "type": "manga",
+  "title": "Promise",
+  "url": "https://myanimelist.net/manga/8473/Promise",
+  "image": "https://cdn.myanimelist.net/images/manga/2/30234.jpg",
+  "category": "Manhwa",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:19.000Z",
+  "updatedAt": "2021-05-28T21:54:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96e41f8a-c7f8-4fd2-9c99-abefa811bd4e": {
+        "authors": [
+          "Lee Eun Young"
+        ],
+        "identifier": "96e41f8a-c7f8-4fd2-9c99-abefa811bd4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Promise",
+        "url": "https://mangadex.org/title/96e41f8a-c7f8-4fd2-9c99-abefa811bd4e",
+        "image": "https://uploads.mangadex.org/covers/96e41f8a-c7f8-4fd2-9c99-abefa811bd4e/87ab453e-40b9-4262-98e9-311f6ba3cb27.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8473,
+        "aniId": 38473,
+        "createdAt": "2020-10-12T16:07:16.000Z",
+        "updatedAt": "2021-06-04T08:56:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

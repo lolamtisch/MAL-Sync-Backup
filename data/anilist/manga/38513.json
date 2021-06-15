@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "柊小学校 恋愛くらぶ",
+    "Hiiragi Shougakkou Renai Kurabu",
+    "Hiiragi Elementary School Love Club"
+  ],
+  "authors": [
+    "Yuki Azuma"
+  ],
+  "id": 38513,
+  "malId": 8513,
+  "type": "manga",
+  "title": "Hiiragi Shougakkou Renai Club",
+  "url": "https://anilist.co/manga/38513",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx38513-TmqQCPDrUeN8.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:47.000Z",
+  "updatedAt": "2021-05-20T14:40:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6fc4f9d5-ac9b-4f04-822d-343dde6ff755": {
+        "authors": [
+          "Azuma Yuki"
+        ],
+        "identifier": "6fc4f9d5-ac9b-4f04-822d-343dde6ff755",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hiiragi Shougakkou Ren&rsquo;ai Club",
+        "url": "https://mangadex.org/title/6fc4f9d5-ac9b-4f04-822d-343dde6ff755",
+        "image": "https://uploads.mangadex.org/covers/6fc4f9d5-ac9b-4f04-822d-343dde6ff755/91b94a08-0c99-43db-ae86-a358b2fbd144.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8513,
+        "aniId": 38513,
+        "createdAt": "2020-10-12T16:05:44.000Z",
+        "updatedAt": "2021-06-03T14:35:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hiiragi_shougakkou_renai_kurabu": {
+        "authors": [
+          "AZUMA Yuki"
+        ],
+        "identifier": "hiiragi_shougakkou_renai_kurabu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hiiragi Shougakkou Renai Kurabu",
+        "url": "https://fanfox.net/manga/hiiragi_shougakkou_renai_kurabu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5282/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8513,
+        "aniId": 38513,
+        "createdAt": "2021-05-04T01:32:05.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Finder Series",
+    "ファインダーの標的",
+    "Viewfinder",
+    "Finder No Hyouteki",
+    "Finder no Ori",
+    "Finder no Sekiyoku"
+  ],
+  "authors": [
+    "Ayano Yamane"
+  ],
+  "id": 30769,
+  "malId": 769,
+  "type": "manga",
+  "title": "Finder Series",
+  "url": "https://anilist.co/manga/30769",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30769-XUMJiI33mC0q.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:35:43.000Z",
+  "updatedAt": "2021-05-20T14:35:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "52d1b525-9461-4cb8-9d9d-b9f3ebd5fd95": {
+        "authors": [
+          "Yamane Ayano"
+        ],
+        "identifier": "52d1b525-9461-4cb8-9d9d-b9f3ebd5fd95",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Finder",
+        "url": "https://mangadex.org/title/52d1b525-9461-4cb8-9d9d-b9f3ebd5fd95",
+        "image": "https://uploads.mangadex.org/covers/52d1b525-9461-4cb8-9d9d-b9f3ebd5fd95/91c8732f-495a-4ea6-8fd6-f9afa269020c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 769,
+        "aniId": 30769,
+        "createdAt": "2020-10-12T16:02:34.000Z",
+        "updatedAt": "2021-06-02T08:26:14.000Z",
+        "deletedAt": null
+      },
+      "72d198a1-a0b0-4b16-a5e2-b6c993769e84": {
+        "authors": [
+          "Eyzi"
+        ],
+        "identifier": "72d198a1-a0b0-4b16-a5e2-b6c993769e84",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Viewfinder",
+        "url": "https://mangadex.org/title/72d198a1-a0b0-4b16-a5e2-b6c993769e84",
+        "image": "https://uploads.mangadex.org/covers/72d198a1-a0b0-4b16-a5e2-b6c993769e84/324d5338-950c-437f-a702-0a3d97f475aa.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 769,
+        "aniId": 30769,
+        "createdAt": "2020-10-12T16:15:03.000Z",
+        "updatedAt": "2021-06-06T10:13:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "xlpz24381567048958": {
+        "authors": [],
+        "identifier": "xlpz24381567048958",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Finder",
+        "url": "https://manganelo.com/manga/xlpz24381567048958",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2181-finder.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 769,
+        "aniId": 30769,
+        "createdAt": "2020-10-12T16:26:16.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

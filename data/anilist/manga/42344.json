@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "シュガーはお年頃",
+    "Sugar is Pubescent"
+  ],
+  "authors": [
+    "Hikaru Ninomiya"
+  ],
+  "id": 42344,
+  "malId": 12344,
+  "type": "manga",
+  "title": "Sugar wa Otoshigoro",
+  "url": "https://anilist.co/manga/42344",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12344.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:22.000Z",
+  "updatedAt": "2021-05-20T14:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "40edf87e-6c14-4f22-ac16-ed92c9471c9f": {
+        "authors": [
+          "NINOMIYA Hikaru"
+        ],
+        "identifier": "40edf87e-6c14-4f22-ac16-ed92c9471c9f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sugar wa Otoshigoro",
+        "url": "https://mangadex.org/title/40edf87e-6c14-4f22-ac16-ed92c9471c9f",
+        "image": "https://uploads.mangadex.org/covers/40edf87e-6c14-4f22-ac16-ed92c9471c9f/da8f9e71-108a-491b-aaea-850d900d4248.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12344,
+        "aniId": 42344,
+        "createdAt": "2020-10-12T16:05:22.000Z",
+        "updatedAt": "2021-06-03T12:06:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sugar_wa_otoshigoro": {
+        "authors": [
+          "Ninomiya",
+          "Hikaru"
+        ],
+        "identifier": "sugar_wa_otoshigoro",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Sugar Wa Otoshigoro",
+        "url": "https://manganelo.com/manga/sugar_wa_otoshigoro",
+        "image": "https://avt.mkklcdnv6.com/16/p/10-1583482766.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12344,
+        "aniId": 42344,
+        "createdAt": "2020-10-25T20:22:12.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

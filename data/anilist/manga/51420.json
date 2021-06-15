@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Seiryou Hyuuga"
+  ],
+  "id": 51420,
+  "malId": 21420,
+  "type": "manga",
+  "title": "Amai Jouken dj - Amai Jouken",
+  "url": "https://anilist.co/manga/51420",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21420.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:42.000Z",
+  "updatedAt": "2021-05-20T14:45:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "94413410-b03a-4581-b55e-0048d9781ddb": {
+        "authors": [
+          "Hyuuga Seiryou"
+        ],
+        "identifier": "94413410-b03a-4581-b55e-0048d9781ddb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Amai Jouken - Amai Jouken (Doujinshi)",
+        "url": "https://mangadex.org/title/94413410-b03a-4581-b55e-0048d9781ddb",
+        "image": "https://uploads.mangadex.org/covers/94413410-b03a-4581-b55e-0048d9781ddb/d6b5c38a-0331-4370-ae01-c897d17adec3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21420,
+        "aniId": 51420,
+        "createdAt": "2020-10-12T16:20:57.000Z",
+        "updatedAt": "2021-06-08T01:22:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

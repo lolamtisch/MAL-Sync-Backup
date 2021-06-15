@@ -1,0 +1,106 @@
+{
+  "altTitle": [
+    "デストロイアンドレボリューション"
+  ],
+  "authors": [
+    "Kouji Mori"
+  ],
+  "id": 53271,
+  "malId": 23271,
+  "type": "manga",
+  "title": "Destroy and Revolution",
+  "url": "https://anilist.co/manga/53271",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23271.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:35.000Z",
+  "updatedAt": "2021-05-20T14:46:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1ed367e0-7942-41c4-b63d-c81434db222d": {
+        "authors": [
+          "Mori Kouji"
+        ],
+        "identifier": "1ed367e0-7942-41c4-b63d-c81434db222d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Destroy and Revolution",
+        "url": "https://mangadex.org/title/1ed367e0-7942-41c4-b63d-c81434db222d",
+        "image": "https://uploads.mangadex.org/covers/1ed367e0-7942-41c4-b63d-c81434db222d/b1fccb79-cfff-4cf4-8479-5dc955dbf888.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23271,
+        "aniId": 53271,
+        "createdAt": "2020-10-12T16:02:27.000Z",
+        "updatedAt": "2021-06-02T06:55:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "xw917710": {
+        "authors": [],
+        "identifier": "xw917710",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shin Kaku Gi Kou And The 11 Destroyers",
+        "url": "https://manganelo.com/manga/xw917710",
+        "image": "https://avt.mkklcdnv6.com/19/c/17-1583495947.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23271,
+        "aniId": 53271,
+        "createdAt": "2020-10-12T16:26:18.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      },
+      "destroy_and_revolution": {
+        "authors": [
+          "Mori",
+          "Kouji"
+        ],
+        "identifier": "destroy_and_revolution",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Destroy And Revolution",
+        "url": "https://manganelo.com/manga/destroy_and_revolution",
+        "image": "https://avt.mkklcdnv6.com/40/t/1-1583465309.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23271,
+        "aniId": 53271,
+        "createdAt": "2020-11-30T15:53:06.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "destroy-and-revolution": {
+        "authors": [
+          "MORI Kouji"
+        ],
+        "identifier": "destroy-and-revolution",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Destroy and Revolution",
+        "url": "https://mangasee123.com/manga/Destroy-And-Revolution",
+        "image": "https://cover.nep.li/cover/Destroy-And-Revolution.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23271,
+        "aniId": 53271,
+        "createdAt": "2021-04-02T02:01:03.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

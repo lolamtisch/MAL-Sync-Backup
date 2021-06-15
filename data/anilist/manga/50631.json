@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Sai Drill",
+    "賽ドリル",
+    "Sai Doriru"
+  ],
+  "authors": [
+    "Izumi Kawachi"
+  ],
+  "id": 50631,
+  "malId": 20631,
+  "type": "manga",
+  "title": "Sai Drill",
+  "url": "https://anilist.co/manga/50631",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20631.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "sv922007": {
+        "authors": [],
+        "identifier": "sv922007",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yuri-Drill",
+        "url": "https://manganelo.com/manga/sv922007",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/3422-sv922007.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20631,
+        "aniId": 50631,
+        "createdAt": "2020-10-12T16:25:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

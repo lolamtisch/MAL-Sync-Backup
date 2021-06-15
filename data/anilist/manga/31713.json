@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "のらみみ"
+  ],
+  "authors": [
+    "Kazuo Hara"
+  ],
+  "id": 31713,
+  "malId": 1713,
+  "type": "manga",
+  "title": "Noramimi",
+  "url": "https://anilist.co/manga/31713",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1713.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f81efff2-9c03-4786-957f-e147d5197378": {
+        "authors": [
+          "Hara Kazuo"
+        ],
+        "identifier": "f81efff2-9c03-4786-957f-e147d5197378",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Noramimi",
+        "url": "https://mangadex.org/title/f81efff2-9c03-4786-957f-e147d5197378",
+        "image": "https://uploads.mangadex.org/covers/f81efff2-9c03-4786-957f-e147d5197378/d309f47e-7a37-48b8-9b5b-5594a497664b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1713,
+        "aniId": 31713,
+        "createdAt": "2020-10-12T16:02:56.000Z",
+        "updatedAt": "2021-06-02T10:32:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

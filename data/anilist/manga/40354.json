@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "湾岸ミッドナイト",
+    "Wangan Middonaito",
+    "湾岸MIDNIGHT"
+  ],
+  "authors": [
+    "Michiharu Kusunoki"
+  ],
+  "id": 40354,
+  "malId": 10354,
+  "type": "manga",
+  "title": "Wangan Midnight",
+  "url": "https://anilist.co/manga/40354",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40354-MXZepk6CPrz7.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:03.000Z",
+  "updatedAt": "2021-05-20T14:41:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "68669554-88ef-43ac-966b-e41d56682290": {
+        "authors": [
+          "Kusunoki Michiharu"
+        ],
+        "identifier": "68669554-88ef-43ac-966b-e41d56682290",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Wangan Midnight",
+        "url": "https://mangadex.org/title/68669554-88ef-43ac-966b-e41d56682290",
+        "image": "https://uploads.mangadex.org/covers/68669554-88ef-43ac-966b-e41d56682290/a405dbba-fb15-4c3e-8173-24bbdc9889f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10354,
+        "aniId": 40354,
+        "createdAt": "2020-10-12T16:03:56.000Z",
+        "updatedAt": "2021-06-02T17:34:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "uav13868945": {
+        "authors": [],
+        "identifier": "uav13868945",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Wangan Midnight",
+        "url": "https://manganelo.com/manga/uav13868945",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/11828-wangan_midnight.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10354,
+        "aniId": 40354,
+        "createdAt": "2020-10-12T16:25:53.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

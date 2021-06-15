@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "To Meet You",
+    "君を迎えに",
+    "Kimi wo Mukae ni"
+  ],
+  "authors": [
+    "Kairi Shimotsuki"
+  ],
+  "id": 42375,
+  "malId": 12375,
+  "type": "manga",
+  "title": "Kimi wo Mukaeni",
+  "url": "https://anilist.co/manga/42375",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12375.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:22.000Z",
+  "updatedAt": "2021-05-20T14:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "887b5cdc-63b0-43bb-9531-41478689d6ea": {
+        "authors": [
+          "Shimotsuki Kairi"
+        ],
+        "identifier": "887b5cdc-63b0-43bb-9531-41478689d6ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi wo Mukaeni",
+        "url": "https://mangadex.org/title/887b5cdc-63b0-43bb-9531-41478689d6ea",
+        "image": "https://uploads.mangadex.org/covers/887b5cdc-63b0-43bb-9531-41478689d6ea/c406e840-20ff-4dee-8e33-0bcf48a0dd08.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12375,
+        "aniId": 42375,
+        "createdAt": "2020-10-12T16:20:26.000Z",
+        "updatedAt": "2021-06-08T00:03:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

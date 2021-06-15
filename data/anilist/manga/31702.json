@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "自殺サークル",
+    "Jisatsu Saakuru",
+    "Suicide Circle",
+    "El Club del Suicidio",
+    "Cercle du Suicide",
+    "Suicide Club"
+  ],
+  "authors": [
+    "Usamaru Furuya"
+  ],
+  "id": 31702,
+  "malId": 1702,
+  "type": "manga",
+  "title": "Jisatsu Circle",
+  "url": "https://anilist.co/manga/31702",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31702-zFWGrQoHv5Hj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:51.000Z",
+  "updatedAt": "2021-05-20T14:36:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "76a56cd3-65a0-40e6-8549-c866e91ac0ba": {
+        "authors": [
+          "Furuya Usamaru"
+        ],
+        "identifier": "76a56cd3-65a0-40e6-8549-c866e91ac0ba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jisatsu Circle",
+        "url": "https://mangadex.org/title/76a56cd3-65a0-40e6-8549-c866e91ac0ba",
+        "image": "https://uploads.mangadex.org/covers/76a56cd3-65a0-40e6-8549-c866e91ac0ba/ec248dc6-dce2-42c5-9895-610e41da4d10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1702,
+        "aniId": 31702,
+        "createdAt": "2020-10-12T16:04:35.000Z",
+        "updatedAt": "2021-06-02T22:07:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jisatsu_circle": {
+        "authors": [],
+        "identifier": "jisatsu_circle",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Jisatsu Circle",
+        "url": "https://manganelo.com/manga/jisatsu_circle",
+        "image": "https://avt.mkklcdnv6.com/50/k/10-1583483999.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1702,
+        "aniId": 31702,
+        "createdAt": "2020-10-12T16:23:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "Anne of Green Gables",
+    "Redheaded Anne",
+    "赤毛のアン"
+  ],
+  "authors": [
+    "Igarashi, Yumiko",
+    "Montgomery, Lucy Maud"
+  ],
+  "id": 10282,
+  "type": "manga",
+  "title": "Akage no Anne",
+  "url": "https://myanimelist.net/manga/10282/Akage_no_Anne",
+  "image": "https://cdn.myanimelist.net/images/manga/1/30000.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:26.000Z",
+  "updatedAt": "2021-03-30T16:31:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9e114ad1-8a63-4034-b193-2375e3058305": {
+        "authors": [
+          "IGARASHI Yumiko",
+          "Lucy Maud Montgomery"
+        ],
+        "identifier": "9e114ad1-8a63-4034-b193-2375e3058305",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akage no Anne",
+        "url": "https://mangadex.org/title/9e114ad1-8a63-4034-b193-2375e3058305",
+        "image": "https://uploads.mangadex.org/covers/9e114ad1-8a63-4034-b193-2375e3058305/de8ad38b-997d-411d-9f39-aca954565c0e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10282,
+        "aniId": 40282,
+        "createdAt": "2020-10-12T16:05:49.000Z",
+        "updatedAt": "2021-06-03T15:07:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akage_no_anne": {
+        "authors": [
+          "Igarashi",
+          "Yumiko"
+        ],
+        "identifier": "akage_no_anne",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akage No Anne",
+        "url": "https://manganelo.com/manga/akage_no_anne",
+        "image": "https://avt.mkklcdnv6temp.com/6/h/10-1583482399.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10282,
+        "aniId": 40282,
+        "createdAt": "2021-03-30T16:31:51.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "akage_no_anne": {
+        "authors": [
+          "IGARASHI Yumiko",
+          "Lucy Maud Montgomery"
+        ],
+        "identifier": "akage_no_anne",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akage no Anne",
+        "url": "https://fanfox.net/manga/akage_no_anne/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11589/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10282,
+        "aniId": 40282,
+        "createdAt": "2021-03-31T12:01:05.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Imitation Mate",
+    "イミテーションメイト"
+  ],
+  "authors": [
+    "Makoto Kashiwagi"
+  ],
+  "id": 110087,
+  "malId": 124384,
+  "type": "manga",
+  "title": "Imitation Mate",
+  "url": "https://anilist.co/manga/110087",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110087-DWeeB1PKEeFQ.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:59:04.000Z",
+  "updatedAt": "2021-05-20T14:59:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "74cc2dfb-d322-45af-a325-5ce14b47d101": {
+        "authors": [
+          "KASHIWAGI Makoto"
+        ],
+        "identifier": "74cc2dfb-d322-45af-a325-5ce14b47d101",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Imitation Mate",
+        "url": "https://mangadex.org/title/74cc2dfb-d322-45af-a325-5ce14b47d101",
+        "image": "https://uploads.mangadex.org/covers/74cc2dfb-d322-45af-a325-5ce14b47d101/c0c67476-158d-4af1-bd96-fca943ec8da2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124384,
+        "aniId": 110087,
+        "createdAt": "2020-11-09T23:13:24.000Z",
+        "updatedAt": "2021-06-08T06:59:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

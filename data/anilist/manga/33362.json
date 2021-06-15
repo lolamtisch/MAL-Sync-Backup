@@ -1,0 +1,61 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yuuri Higuchi"
+  ],
+  "id": 33362,
+  "malId": 3362,
+  "type": "manga",
+  "title": "Tonight The night",
+  "url": "https://anilist.co/manga/33362",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3362.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:08.000Z",
+  "updatedAt": "2021-05-20T14:38:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4142eac9-d73b-4d5d-92b5-47b78919c8dd": {
+        "authors": [
+          "Sakusaku (Re_saku)"
+        ],
+        "identifier": "4142eac9-d73b-4d5d-92b5-47b78919c8dd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "BanG Dream! - Konya wa Kimi o Hitorijime! (Doujinshi)",
+        "url": "https://mangadex.org/title/4142eac9-d73b-4d5d-92b5-47b78919c8dd",
+        "image": "https://uploads.mangadex.org/covers/4142eac9-d73b-4d5d-92b5-47b78919c8dd/6038bbb9-7c15-40a1-9572-13c22a9c7470.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3362,
+        "aniId": 33362,
+        "createdAt": "2020-10-12T16:17:22.000Z",
+        "updatedAt": "2021-06-07T07:05:09.000Z",
+        "deletedAt": null
+      },
+      "41fb3170-135d-4d0f-847d-d967dbd2f40e": {
+        "authors": [
+          "Higuchi Yuuri"
+        ],
+        "identifier": "41fb3170-135d-4d0f-847d-d967dbd2f40e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tonight The Night",
+        "url": "https://mangadex.org/title/41fb3170-135d-4d0f-847d-d967dbd2f40e",
+        "image": "https://uploads.mangadex.org/covers/41fb3170-135d-4d0f-847d-d967dbd2f40e/8c6cb0ab-8b4d-4e4e-8242-50845e95bc08.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3362,
+        "aniId": 33362,
+        "createdAt": "2020-10-12T16:18:49.000Z",
+        "updatedAt": "2021-06-07T20:25:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

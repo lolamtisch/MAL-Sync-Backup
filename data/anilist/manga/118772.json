@@ -1,0 +1,50 @@
+{
+  "altTitle": [
+    "My Red String of Fate",
+    "붉은 실을 조심하세요",
+    "Beware of the Red Thread",
+    "赤い糸に気をつけてください"
+  ],
+  "authors": [
+    "Cumin",
+    "Ji-An Cheon",
+    "Ji-Sang Shin"
+  ],
+  "id": 118772,
+  "malId": null,
+  "type": "manga",
+  "title": "Bulgeun Sireul Josimhaseyo",
+  "url": "https://anilist.co/manga/118772",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b118772-NzPMpgWNCjLT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-29T00:12:13.000Z",
+  "updatedAt": "2021-05-29T00:12:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d905d83a-b2a9-4219-9645-df64ff7c580a": {
+        "authors": [
+          "Cumin",
+          "CHEON Jian",
+          "SHIN Ji-Sang"
+        ],
+        "identifier": "d905d83a-b2a9-4219-9645-df64ff7c580a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Beware of the Red Thread",
+        "url": "https://mangadex.org/title/d905d83a-b2a9-4219-9645-df64ff7c580a",
+        "image": "https://uploads.mangadex.org/covers/d905d83a-b2a9-4219-9645-df64ff7c580a/6a8e6acf-40dc-4d24-bc76-52122e741209.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118772,
+        "createdAt": "2020-10-12T16:19:16.000Z",
+        "updatedAt": "2021-06-07T21:56:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

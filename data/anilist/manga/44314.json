@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Blue Hole",
+    "ブルーホール",
+    "Le Trou Bleu"
+  ],
+  "authors": [
+    "Yukinobu Hoshino"
+  ],
+  "id": 44314,
+  "malId": 14314,
+  "type": "manga",
+  "title": "Blue Hole",
+  "url": "https://anilist.co/manga/44314",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx44314-unU6irGvoPcr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:45.000Z",
+  "updatedAt": "2021-05-20T14:42:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b0664cad-e427-4469-90a2-f471a69bfe3f": {
+        "authors": [
+          "Hoshino Yukinobu"
+        ],
+        "identifier": "b0664cad-e427-4469-90a2-f471a69bfe3f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Blue Hole",
+        "url": "https://mangadex.org/title/b0664cad-e427-4469-90a2-f471a69bfe3f",
+        "image": "https://uploads.mangadex.org/covers/b0664cad-e427-4469-90a2-f471a69bfe3f/163c4866-4641-41eb-827b-b36d38250141.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14314,
+        "aniId": 44314,
+        "createdAt": "2020-10-12T16:15:40.000Z",
+        "updatedAt": "2021-06-06T15:40:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hh919081": {
+        "authors": [],
+        "identifier": "hh919081",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "The Blue Hole",
+        "url": "https://manganelo.com/manga/hh919081",
+        "image": "https://avt.mkklcdnv6.com/19/a/18-1583497835.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14314,
+        "aniId": 44314,
+        "createdAt": "2020-10-12T16:23:19.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

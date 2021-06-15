@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "You're My Girlfriend",
+    "キミはガールフレンド"
+  ],
+  "authors": [
+    "Minami, Maki"
+  ],
+  "id": 1444,
+  "type": "manga",
+  "title": "Kimi wa Girlfriend",
+  "url": "https://myanimelist.net/manga/1444/Kimi_wa_Girlfriend",
+  "image": "https://cdn.myanimelist.net/images/manga/2/179812.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:33.000Z",
+  "updatedAt": "2021-05-20T23:15:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "96fff049-eb7d-472e-888f-e48bba81d1b0": {
+        "authors": [
+          "Minami Maki"
+        ],
+        "identifier": "96fff049-eb7d-472e-888f-e48bba81d1b0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "You're My Girlfriend",
+        "url": "https://mangadex.org/title/96fff049-eb7d-472e-888f-e48bba81d1b0",
+        "image": "https://uploads.mangadex.org/covers/96fff049-eb7d-472e-888f-e48bba81d1b0/6d27437e-8b88-4198-9f57-9f30d647ca3b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1444,
+        "aniId": 31444,
+        "createdAt": "2020-10-12T16:03:36.000Z",
+        "updatedAt": "2021-06-02T15:11:02.000Z",
+        "deletedAt": null
+      },
+      "9f1d5f45-dd95-4f6e-9aed-b50ff86ad9e0": {
+        "authors": [
+          "miseo",
+          "Omise! (Circle)"
+        ],
+        "identifier": "9f1d5f45-dd95-4f6e-9aed-b50ff86ad9e0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Live! - Girlfriend (Doujinshi)",
+        "url": "https://mangadex.org/title/9f1d5f45-dd95-4f6e-9aed-b50ff86ad9e0",
+        "image": "https://uploads.mangadex.org/covers/9f1d5f45-dd95-4f6e-9aed-b50ff86ad9e0/ec2e9750-4723-4aea-a4a1-a40b770b8505.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1444,
+        "aniId": 31444,
+        "createdAt": "2020-10-12T16:16:23.000Z",
+        "updatedAt": "2021-06-06T22:08:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "you_re_my_girlfriend": {
+        "authors": [
+          "MINAMI Maki"
+        ],
+        "identifier": "you_re_my_girlfriend",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "You're My Girlfriend",
+        "url": "https://fanfox.net/manga/you_re_my_girlfriend/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/884/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1444,
+        "aniId": 31444,
+        "createdAt": "2021-05-20T23:15:48.000Z",
+        "updatedAt": "2021-05-20T23:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

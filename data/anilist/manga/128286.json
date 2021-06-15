@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "テスラノート"
+  ],
+  "authors": [
+    "Masafumi Nishida",
+    "Kouta Sannomiya",
+    "Tadayoshi Kubo"
+  ],
+  "id": 128286,
+  "malId": 132532,
+  "type": "manga",
+  "title": "Tesla Note",
+  "url": "https://anilist.co/manga/128286",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b128286-SNyVzWyRz8C9.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:10.000Z",
+  "updatedAt": "2021-05-20T15:00:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "040598d9-5d22-4573-9cb9-b0aaecdc5c7f": {
+        "authors": [
+          "SANNOMIYA Kouta",
+          "NISHIDA Masafumi",
+          "KUBO Tadayoshi"
+        ],
+        "identifier": "040598d9-5d22-4573-9cb9-b0aaecdc5c7f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tesla Note",
+        "url": "https://mangadex.org/title/040598d9-5d22-4573-9cb9-b0aaecdc5c7f",
+        "image": "https://uploads.mangadex.org/covers/040598d9-5d22-4573-9cb9-b0aaecdc5c7f/9728faa5-6cd5-4ea1-92fc-17daab5a749a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132532,
+        "aniId": 128286,
+        "createdAt": "2021-01-10T00:51:30.000Z",
+        "updatedAt": "2021-06-08T09:39:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

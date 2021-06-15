@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "まとちゃん"
+  ],
+  "authors": [
+    "Shinichi Yuuki"
+  ],
+  "id": 37340,
+  "malId": 7340,
+  "type": "manga",
+  "title": "Mato-chan",
+  "url": "https://anilist.co/manga/37340",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7340.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:48.000Z",
+  "updatedAt": "2021-05-20T14:39:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f0d010f1-f8cc-4f81-b332-e3d86d207e75": {
+        "authors": [
+          "Yuuki Shinichi"
+        ],
+        "identifier": "f0d010f1-f8cc-4f81-b332-e3d86d207e75",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mato-chan",
+        "url": "https://mangadex.org/title/f0d010f1-f8cc-4f81-b332-e3d86d207e75",
+        "image": "https://uploads.mangadex.org/covers/f0d010f1-f8cc-4f81-b332-e3d86d207e75/1c505947-5543-432b-a8b6-35622ee5d30e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7340,
+        "aniId": 37340,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:36:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

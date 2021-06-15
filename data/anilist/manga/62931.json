@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "大好きだったよ、先生…",
+    "Toraware Beast",
+    "Captured Beast"
+  ],
+  "authors": [
+    "Yuki Shiraishi"
+  ],
+  "id": 62931,
+  "malId": 32931,
+  "type": "manga",
+  "title": "Daisuki Datta yo, Sensei...",
+  "url": "https://anilist.co/manga/62931",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32931.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:52.000Z",
+  "updatedAt": "2021-05-20T14:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "83ca97e6-7482-4eb3-9bb5-3f9e5cbd4af2": {
+        "authors": [
+          "Shiraishi Yuki"
+        ],
+        "identifier": "83ca97e6-7482-4eb3-9bb5-3f9e5cbd4af2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Daisuki Datta yo, Sensei...",
+        "url": "https://mangadex.org/title/83ca97e6-7482-4eb3-9bb5-3f9e5cbd4af2",
+        "image": "https://uploads.mangadex.org/covers/83ca97e6-7482-4eb3-9bb5-3f9e5cbd4af2/a102ae9a-2aae-4f65-9e57-aa0e7e95852e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32931,
+        "aniId": 62931,
+        "createdAt": "2020-10-12T16:03:42.000Z",
+        "updatedAt": "2021-06-02T15:53:42.000Z",
+        "deletedAt": null
+      },
+      "38e896e8-e0c5-4d26-b7f2-964efa5afdfc": {
+        "authors": [
+          "Airandou"
+        ],
+        "identifier": "38e896e8-e0c5-4d26-b7f2-964efa5afdfc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mesukko Daisuki♡",
+        "url": "https://mangadex.org/title/38e896e8-e0c5-4d26-b7f2-964efa5afdfc",
+        "image": "https://uploads.mangadex.org/covers/38e896e8-e0c5-4d26-b7f2-964efa5afdfc/c960ac67-3f88-47f4-8aab-debd6426a9e0.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32931,
+        "aniId": 62931,
+        "createdAt": "2020-10-12T16:20:04.000Z",
+        "updatedAt": "2021-06-07T23:24:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

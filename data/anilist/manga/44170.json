@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "チェリーズファイト"
+  ],
+  "authors": [
+    "Yasuko"
+  ],
+  "id": 44170,
+  "malId": 14170,
+  "type": "manga",
+  "title": "Cherries Fight",
+  "url": "https://anilist.co/manga/44170",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14170.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:43.000Z",
+  "updatedAt": "2021-05-20T14:42:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b496341f-22ae-42ea-8ad8-7c53f61c28d7": {
+        "authors": [
+          "Yasuko"
+        ],
+        "identifier": "b496341f-22ae-42ea-8ad8-7c53f61c28d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cherries Fight",
+        "url": "https://mangadex.org/title/b496341f-22ae-42ea-8ad8-7c53f61c28d7",
+        "image": "https://uploads.mangadex.org/covers/b496341f-22ae-42ea-8ad8-7c53f61c28d7/23fb7e99-7c0f-438a-9a47-d008ba51a18a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14170,
+        "aniId": 44170,
+        "createdAt": "2020-10-12T16:06:06.000Z",
+        "updatedAt": "2021-06-03T17:12:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cherries-fight": {
+        "authors": [
+          "YASUKO"
+        ],
+        "identifier": "cherries-fight",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cherries Fight",
+        "url": "https://mangasee123.com/manga/Cherries-Fight",
+        "image": "https://cover.nep.li/cover/Cherries-Fight.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14170,
+        "aniId": 44170,
+        "createdAt": "2021-04-14T08:16:02.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

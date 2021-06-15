@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "学び生きるは夫婦のつとめ"
+  ],
+  "authors": [
+    "Daizu Kosame"
+  ],
+  "id": 100751,
+  "malId": 111320,
+  "type": "manga",
+  "title": "Manabi Ikiru wa Fuufu no Tsutome",
+  "url": "https://anilist.co/manga/100751",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100751-QbryN6UTcOKo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:20.000Z",
+  "updatedAt": "2021-05-20T14:56:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f444f209-e72b-460e-9e3c-37ed9ac2e615": {
+        "authors": [
+          "Kosame Daizu"
+        ],
+        "identifier": "f444f209-e72b-460e-9e3c-37ed9ac2e615",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Manabi Ikiru wa Fuufu no Tsutome",
+        "url": "https://mangadex.org/title/f444f209-e72b-460e-9e3c-37ed9ac2e615",
+        "image": "https://uploads.mangadex.org/covers/f444f209-e72b-460e-9e3c-37ed9ac2e615/962b326e-057d-410d-bdd8-702bf680e83d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111320,
+        "aniId": 100751,
+        "createdAt": "2020-10-12T16:11:10.000Z",
+        "updatedAt": "2021-06-05T06:13:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "manabi_ikiru_ha_huuhu_no_tsutome": {
+        "authors": [],
+        "identifier": "manabi_ikiru_ha_huuhu_no_tsutome",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Manabi Ikiru Ha Huuhu No Tsutome",
+        "url": "https://manganelo.com/manga/manabi_ikiru_ha_huuhu_no_tsutome",
+        "image": "https://avt.mkklcdnv6.com/34/u/16-1583494720.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111320,
+        "aniId": 100751,
+        "createdAt": "2020-10-12T16:24:15.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bd979260": {
+        "authors": [
+          "Daizu Kosame"
+        ],
+        "identifier": "manga-bd979260",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Manabi Ikiru Ha Huuhu No Tsutome",
+        "url": "https://manganato.com/manga-bd979260",
+        "image": "https://avt.mkklcdnv6temp.com/34/u/16-1583494720.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 111320,
+        "aniId": 100751,
+        "createdAt": "2021-06-04T08:49:38.000Z",
+        "updatedAt": "2021-06-04T09:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

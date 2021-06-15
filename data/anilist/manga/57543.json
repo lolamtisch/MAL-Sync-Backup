@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "小さな恋のメロディ",
+    "Promise of Children"
+  ],
+  "authors": [
+    "Shimaji"
+  ],
+  "id": 57543,
+  "malId": 27543,
+  "type": "manga",
+  "title": "Chiisana Koi no Melody",
+  "url": "https://anilist.co/manga/57543",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27543.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:27.000Z",
+  "updatedAt": "2021-06-03T14:50:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c03d08ff-2d65-4198-a89f-af1c9c3f123f": {
+        "authors": [
+          "Shimaji"
+        ],
+        "identifier": "c03d08ff-2d65-4198-a89f-af1c9c3f123f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chiisana Koi no Melody",
+        "url": "https://mangadex.org/title/c03d08ff-2d65-4198-a89f-af1c9c3f123f",
+        "image": "https://uploads.mangadex.org/covers/c03d08ff-2d65-4198-a89f-af1c9c3f123f/dd5aaa6c-d2a1-4abb-b98c-be891b03de4d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27543,
+        "aniId": 57543,
+        "createdAt": "2020-10-12T16:05:21.000Z",
+        "updatedAt": "2021-06-03T14:50:20.000Z",
+        "deletedAt": null
+      },
+      "76615630-eec9-4c26-98d7-ae5169c1498c": {
+        "authors": [
+          "Wazuka",
+          "Sakazaka"
+        ],
+        "identifier": "76615630-eec9-4c26-98d7-ae5169c1498c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haikyuu!! - Chiisana Koi no Melody (Doujinshi)",
+        "url": "https://mangadex.org/title/76615630-eec9-4c26-98d7-ae5169c1498c",
+        "image": "https://uploads.mangadex.org/covers/76615630-eec9-4c26-98d7-ae5169c1498c/af49fbb6-3f96-4847-9c31-bdcceeb6fafb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27543,
+        "aniId": 57543,
+        "createdAt": "2020-10-12T16:14:49.000Z",
+        "updatedAt": "2021-06-06T08:26:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "chiisana_koi_no_melody": {
+        "authors": [],
+        "identifier": "chiisana_koi_no_melody",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Chiisana Koi no Melody",
+        "url": "https://manganelo.com/manga/chiisana_koi_no_melody",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7310-chiisana_koi_no_melody.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27543,
+        "aniId": 57543,
+        "createdAt": "2020-10-12T16:22:27.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

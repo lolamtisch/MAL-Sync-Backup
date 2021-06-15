@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "ビビッドレッド・オペレーション"
+  ],
+  "authors": [
+    "Keito Koume",
+    "Team Vivid"
+  ],
+  "id": 78687,
+  "malId": 48687,
+  "type": "manga",
+  "title": "Vividred Operation",
+  "url": "https://anilist.co/manga/78687",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/48687.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:39.000Z",
+  "updatedAt": "2021-05-20T14:49:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ded67f00-5f45-425a-847c-46c72a26baff": {
+        "authors": [
+          "KOUME Keito",
+          "Team Vivid"
+        ],
+        "identifier": "ded67f00-5f45-425a-847c-46c72a26baff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vividred Operation",
+        "url": "https://mangadex.org/title/ded67f00-5f45-425a-847c-46c72a26baff",
+        "image": "https://uploads.mangadex.org/covers/ded67f00-5f45-425a-847c-46c72a26baff/bdb67b0f-187e-4140-abeb-7c35f72c60e1.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48687,
+        "aniId": 78687,
+        "createdAt": "2020-10-12T16:06:11.000Z",
+        "updatedAt": "2021-06-03T17:51:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "vividred_operation": {
+        "authors": [
+          "Team",
+          "Vivid"
+        ],
+        "identifier": "vividred_operation",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Vividred Operation",
+        "url": "https://manganelo.com/manga/vividred_operation",
+        "image": "https://avt.mkklcdnv6temp.com/7/i/10-1583482438.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48687,
+        "aniId": 78687,
+        "createdAt": "2021-05-21T06:12:57.000Z",
+        "updatedAt": "2021-05-21T06:42:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

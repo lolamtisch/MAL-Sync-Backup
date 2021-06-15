@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "寝ても醒めても",
+    "Even When I'm Asleep, Even When I'm Awake"
+  ],
+  "authors": [
+    "Mieko Koide"
+  ],
+  "id": 42794,
+  "malId": 12794,
+  "type": "manga",
+  "title": "Netemo Sametemo",
+  "url": "https://anilist.co/manga/42794",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12794.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T17:20:48.000Z",
+  "updatedAt": "2021-06-05T17:20:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6add00c1-6e24-4e03-9030-c5c5d1cdfead": {
+        "authors": [
+          "Koide Mieko"
+        ],
+        "identifier": "6add00c1-6e24-4e03-9030-c5c5d1cdfead",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Netemo Sametemo",
+        "url": "https://mangadex.org/title/6add00c1-6e24-4e03-9030-c5c5d1cdfead",
+        "image": "https://uploads.mangadex.org/covers/6add00c1-6e24-4e03-9030-c5c5d1cdfead/f92e3c0c-dae4-4417-ad45-26c2135fcf23.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12794,
+        "aniId": 42794,
+        "createdAt": "2020-10-12T16:12:52.000Z",
+        "updatedAt": "2021-06-05T17:58:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

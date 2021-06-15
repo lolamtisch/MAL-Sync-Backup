@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "コンコン×ハニー"
+  ],
+  "authors": [
+    "Nao Maita"
+  ],
+  "id": 34588,
+  "malId": 4588,
+  "type": "manga",
+  "title": "Con Con x Honey",
+  "url": "https://anilist.co/manga/34588",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4588.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:33.000Z",
+  "updatedAt": "2021-05-20T14:38:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0da0797f-bfc5-47b2-97fb-8f71d077e2d6": {
+        "authors": [
+          "MAITA Nao"
+        ],
+        "identifier": "0da0797f-bfc5-47b2-97fb-8f71d077e2d6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Con Con x Honey",
+        "url": "https://mangadex.org/title/0da0797f-bfc5-47b2-97fb-8f71d077e2d6",
+        "image": "https://uploads.mangadex.org/covers/0da0797f-bfc5-47b2-97fb-8f71d077e2d6/60b93696-fc14-4267-b96c-ebd5308c80e3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4588,
+        "aniId": 34588,
+        "createdAt": "2020-10-12T16:05:51.000Z",
+        "updatedAt": "2021-06-03T15:27:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "con_con_x_honey": {
+        "authors": [
+          "MAITA Nao"
+        ],
+        "identifier": "con_con_x_honey",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Con Con x Honey",
+        "url": "https://fanfox.net/manga/con_con_x_honey/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2276/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4588,
+        "aniId": 34588,
+        "createdAt": "2021-05-20T21:14:58.000Z",
+        "updatedAt": "2021-05-20T21:42:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Renai Junky"
+  ],
+  "authors": [
+    "Akemi Chihara"
+  ],
+  "id": 33344,
+  "malId": 3344,
+  "type": "manga",
+  "title": "Love Junky",
+  "url": "https://anilist.co/manga/33344",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3344.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:08.000Z",
+  "updatedAt": "2021-05-20T14:38:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e689d58e-52dc-471f-a0d9-67eb854af653": {
+        "authors": [
+          "Chihara Akemi"
+        ],
+        "identifier": "e689d58e-52dc-471f-a0d9-67eb854af653",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renai Junky",
+        "url": "https://mangadex.org/title/e689d58e-52dc-471f-a0d9-67eb854af653",
+        "image": "https://uploads.mangadex.org/covers/e689d58e-52dc-471f-a0d9-67eb854af653/48da4761-a62f-4726-82b9-a7c32f3f4aa0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3344,
+        "aniId": 33344,
+        "createdAt": "2020-10-12T16:12:33.000Z",
+        "updatedAt": "2021-06-05T15:11:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

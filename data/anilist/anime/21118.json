@@ -1,0 +1,96 @@
+{
+  "altTitle": [
+    "STARMYU",
+    "スタミュ",
+    "High School Star Musical"
+  ],
+  "id": 21118,
+  "malId": 30375,
+  "type": "anime",
+  "title": "Star Mu",
+  "url": "https://anilist.co/anime/21118",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21118-foApkR3Z6LDj.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:53.000Z",
+  "updatedAt": "2021-05-20T14:41:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "d25": {
+        "identifier": "d25",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Starmyu",
+        "url": "https://9anime.ru/watch/starmyu.d25",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-euyRphyI2jA/V2ie6Nwy_pI/AAAAAAAApgU/1KzWw8EJuvc/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30375,
+        "aniId": 21118,
+        "createdAt": "2020-10-12T15:51:54.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Aniwatch": {
+      "2444": {
+        "identifier": "2444",
+        "type": "anime",
+        "page": "Aniwatch",
+        "title": "Starmyu",
+        "url": "https://aniwatch.me/anime/2444",
+        "image": "-",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30375,
+        "aniId": 21118,
+        "createdAt": "2020-10-12T15:58:26.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "high-school-star-musical": {
+        "identifier": "high-school-star-musical",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "High School Star Musical",
+        "url": "https://www10.gogoanime.io/category/high-school-star-musical",
+        "image": "https://cdnimg.xyz/images/upload/75765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30375,
+        "aniId": 21118,
+        "createdAt": "2020-10-12T16:00:43.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "3599": {
+        "identifier": "3599",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Starmyu (2019) (GerSub)",
+        "url": "https://www.anime4you.one/show/1/aid/3599",
+        "image": "https://cdn.anime4you.one/covers/Starmyu-s3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 30375,
+        "aniId": 21118,
+        "createdAt": "2020-10-15T11:20:55.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

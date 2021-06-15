@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Purgatory Dead Roll",
+    "煉獄デッドロール"
+  ],
+  "authors": [
+    "Hideaki Yoshimura",
+    "Homura Kawamoto"
+  ],
+  "id": 87385,
+  "malId": 94704,
+  "type": "manga",
+  "title": "Rengoku Deadroll",
+  "url": "https://anilist.co/manga/87385",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57385-HzRRLfSKH5th.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:56.000Z",
+  "updatedAt": "2021-05-20T14:53:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0bb38e0f-6e4c-4fea-a582-10e62ef42271": {
+        "authors": [
+          "YOSHIMURA Hideaki",
+          "KAWAMOTO Homura"
+        ],
+        "identifier": "0bb38e0f-6e4c-4fea-a582-10e62ef42271",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rengoku Deadroll",
+        "url": "https://mangadex.org/title/0bb38e0f-6e4c-4fea-a582-10e62ef42271",
+        "image": "https://uploads.mangadex.org/covers/0bb38e0f-6e4c-4fea-a582-10e62ef42271/3dbdda24-6ba3-40b4-9b06-631514c344f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94704,
+        "aniId": 87385,
+        "createdAt": "2020-10-12T16:09:52.000Z",
+        "updatedAt": "2021-06-04T20:33:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "rengoku_deadroll": {
+        "authors": [],
+        "identifier": "rengoku_deadroll",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Rengoku Deadroll",
+        "url": "https://manganelo.com/manga/rengoku_deadroll",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/16945-rengoku_deadroll.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94704,
+        "aniId": 87385,
+        "createdAt": "2020-10-12T16:25:09.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "＊～アスタリスク～",
+    "Asterisk"
+  ],
+  "authors": [
+    "Kana Anemori"
+  ],
+  "id": 79683,
+  "malId": 49683,
+  "type": "manga",
+  "title": "* ~Asterisk~",
+  "url": "https://anilist.co/manga/79683",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49683.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T19:19:38.000Z",
+  "updatedAt": "2021-06-03T19:19:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2bd59473-3ad6-46d0-9272-c712609fb276": {
+        "authors": [
+          "Anemori Kana"
+        ],
+        "identifier": "2bd59473-3ad6-46d0-9272-c712609fb276",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "* ~Asterisk~",
+        "url": "https://mangadex.org/title/2bd59473-3ad6-46d0-9272-c712609fb276",
+        "image": "https://uploads.mangadex.org/covers/2bd59473-3ad6-46d0-9272-c712609fb276/ec5b1d8c-42f0-483a-8dac-80f293bee066.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49683,
+        "aniId": 79683,
+        "createdAt": "2020-10-12T16:06:19.000Z",
+        "updatedAt": "2021-06-03T20:23:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

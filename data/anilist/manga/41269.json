@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Brocken Blood",
+    "ブロッケンブラッド",
+    "Broken Blood"
+  ],
+  "authors": [
+    "Etorouji Shiono"
+  ],
+  "id": 41269,
+  "malId": 11269,
+  "type": "manga",
+  "title": "Brocken Blood",
+  "url": "https://anilist.co/manga/41269",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx41269-jqCNkplidTni.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:16.000Z",
+  "updatedAt": "2021-05-20T14:41:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bb1cb2cf-b733-4fa4-a327-05887ec1564d": {
+        "authors": [
+          "Shiono Etorouji"
+        ],
+        "identifier": "bb1cb2cf-b733-4fa4-a327-05887ec1564d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Brocken Blood",
+        "url": "https://mangadex.org/title/bb1cb2cf-b733-4fa4-a327-05887ec1564d",
+        "image": "https://uploads.mangadex.org/covers/bb1cb2cf-b733-4fa4-a327-05887ec1564d/9010af29-0cfe-4eb3-a36e-29a1975c9be6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11269,
+        "aniId": 41269,
+        "createdAt": "2020-10-12T16:04:08.000Z",
+        "updatedAt": "2021-06-02T18:54:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "brocken_blood": {
+        "authors": [],
+        "identifier": "brocken_blood",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Brocken Blood",
+        "url": "https://manganelo.com/manga/brocken_blood",
+        "image": "https://avt.mkklcdnv6.com/37/v/6-1583475679.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11269,
+        "aniId": 41269,
+        "createdAt": "2020-10-12T16:22:22.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

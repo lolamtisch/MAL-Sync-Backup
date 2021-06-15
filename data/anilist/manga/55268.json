@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "The Wedding In White",
+    "純白のウエディング"
+  ],
+  "authors": [
+    "Diana Palmer",
+    "Maia Tori"
+  ],
+  "id": 55268,
+  "malId": 25268,
+  "type": "manga",
+  "title": "Junpaku no Wedding",
+  "url": "https://anilist.co/manga/55268",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx55268-4qePKg40iO1U.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:53.000Z",
+  "updatedAt": "2021-05-20T14:46:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3e9ef57a-83e2-4268-a089-a30cc994fe24": {
+        "authors": [
+          "AI Marito",
+          "Diana Palmer"
+        ],
+        "identifier": "3e9ef57a-83e2-4268-a089-a30cc994fe24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Junpaku no Wedding",
+        "url": "https://mangadex.org/title/3e9ef57a-83e2-4268-a089-a30cc994fe24",
+        "image": "https://uploads.mangadex.org/covers/3e9ef57a-83e2-4268-a089-a30cc994fe24/0c0e696e-a594-41da-a464-f759ecf5d46b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25268,
+        "aniId": 55268,
+        "createdAt": "2020-10-12T16:09:57.000Z",
+        "updatedAt": "2021-06-04T21:20:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "junpaku_no_wedding": {
+        "authors": [
+          "Diana Palmer"
+        ],
+        "identifier": "junpaku_no_wedding",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Junpaku no Wedding",
+        "url": "https://fanfox.net/manga/junpaku_no_wedding/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11001/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25268,
+        "aniId": 55268,
+        "createdAt": "2020-12-16T23:27:25.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

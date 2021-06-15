@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "メディスン"
+  ],
+  "authors": [
+    "Kei Sasuga"
+  ],
+  "id": 81489,
+  "malId": 51489,
+  "type": "manga",
+  "title": "Medicine",
+  "url": "https://anilist.co/manga/81489",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/51489.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:51.000Z",
+  "updatedAt": "2021-05-20T14:49:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9101aa86-47f1-4fb2-9e99-d8fe00491d67": {
+        "authors": [
+          "Sasuga Kei"
+        ],
+        "identifier": "9101aa86-47f1-4fb2-9e99-d8fe00491d67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Medicine",
+        "url": "https://mangadex.org/title/9101aa86-47f1-4fb2-9e99-d8fe00491d67",
+        "image": "https://uploads.mangadex.org/covers/9101aa86-47f1-4fb2-9e99-d8fe00491d67/0e9dd7a8-1bf9-47f0-894e-54be17aeb835.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51489,
+        "aniId": 81489,
+        "createdAt": "2020-10-12T16:07:01.000Z",
+        "updatedAt": "2021-06-03T23:42:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "medicine": {
+        "authors": [],
+        "identifier": "medicine",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Medicine",
+        "url": "https://manganelo.com/manga/medicine",
+        "image": "https://avt.mkklcdnv6.com/34/g/4-1583471092.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51489,
+        "aniId": 81489,
+        "createdAt": "2020-10-12T16:24:17.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "medicine": {
+        "authors": [
+          "SASUGA Kei"
+        ],
+        "identifier": "medicine",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Medicine",
+        "url": "https://fanfox.net/manga/medicine/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22821/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51489,
+        "aniId": 81489,
+        "createdAt": "2021-04-23T15:56:59.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fl957068": {
+        "authors": [
+          "Sasuga Kei"
+        ],
+        "identifier": "manga-fl957068",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Medicine",
+        "url": "https://manganato.com/manga-fl957068",
+        "image": "https://avt.mkklcdnv6temp.com/34/g/4-1583471092.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51489,
+        "aniId": 81489,
+        "createdAt": "2021-06-13T04:38:22.000Z",
+        "updatedAt": "2021-06-13T05:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

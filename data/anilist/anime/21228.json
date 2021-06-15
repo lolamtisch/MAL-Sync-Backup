@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Lovely Muuuuuuuco!",
+    "いとしのムーコ"
+  ],
+  "id": 21228,
+  "malId": 30651,
+  "type": "anime",
+  "title": "Itoshi no Muco",
+  "url": "https://anilist.co/anime/21228",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21228-MjCN5xVPgigR.png",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:55.000Z",
+  "updatedAt": "2021-05-20T14:41:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "jjn": {
+        "identifier": "jjn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Itoshi no Muco",
+        "url": "https://9anime.ru/watch/itoshi-no-muco.jjn",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-zjsRox9Gk2U/V2ix9PCt0sI/AAAAAAAApmE/3iz40v0CbgQ/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30651,
+        "aniId": 21228,
+        "createdAt": "2020-10-12T15:52:08.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "lovely%20muuuuuuuco!": {
+        "identifier": "lovely%20muuuuuuuco!",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Lovely Muuuuuuuco!",
+        "url": "https://www.crunchyroll.com/lovely-muuuuuuuco?media_id=686549",
+        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/cb2a2dc333b6924cf7c8a6f947d2b2621443835521_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30651,
+        "aniId": 21228,
+        "createdAt": "2020-10-22T02:39:12.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

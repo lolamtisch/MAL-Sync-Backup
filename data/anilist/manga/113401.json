@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "チル、チル、ミチル。"
+  ],
+  "authors": [
+    "Matsu Kotou"
+  ],
+  "id": 113401,
+  "malId": 107443,
+  "type": "manga",
+  "title": "Chiru, Chiru, Michiru.",
+  "url": "https://anilist.co/manga/113401",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b113401-ed3HuWH93QWo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:54.000Z",
+  "updatedAt": "2021-05-20T14:55:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e4da1f09-cdce-4e40-8121-be2ef3e51325": {
+        "authors": [
+          "Kotou Matsu"
+        ],
+        "identifier": "e4da1f09-cdce-4e40-8121-be2ef3e51325",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chiru, Chiru, Michiru.",
+        "url": "https://mangadex.org/title/e4da1f09-cdce-4e40-8121-be2ef3e51325",
+        "image": "https://uploads.mangadex.org/covers/e4da1f09-cdce-4e40-8121-be2ef3e51325/27d0789c-817c-4e09-a188-e7294fe1488c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107443,
+        "aniId": 113401,
+        "createdAt": "2021-01-25T06:42:29.000Z",
+        "updatedAt": "2021-06-08T10:30:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

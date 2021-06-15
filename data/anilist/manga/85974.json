@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "ギリギリアウト",
+    "Giri Giri Out"
+  ],
+  "authors": [
+    "Soumatou"
+  ],
+  "id": 85974,
+  "malId": 59065,
+  "type": "manga",
+  "title": "Girigiri Out",
+  "url": "https://anilist.co/manga/85974",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx85974-qfh2rlYOPrl7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:37.000Z",
+  "updatedAt": "2021-05-20T14:50:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "34c683d4-5284-4df8-adb2-e0fbb1710105": {
+        "authors": [
+          "Soumatou"
+        ],
+        "identifier": "34c683d4-5284-4df8-adb2-e0fbb1710105",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girigiri Out",
+        "url": "https://mangadex.org/title/34c683d4-5284-4df8-adb2-e0fbb1710105",
+        "image": "https://uploads.mangadex.org/covers/34c683d4-5284-4df8-adb2-e0fbb1710105/2c51ca91-9f50-4caf-a116-c74ced732791.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59065,
+        "aniId": 85974,
+        "createdAt": "2020-10-12T16:06:46.000Z",
+        "updatedAt": "2021-06-03T21:59:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "girigiri_out": {
+        "authors": [],
+        "identifier": "girigiri_out",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Girigiri Out",
+        "url": "https://manganelo.com/manga/girigiri_out",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/3096-girigiri_out.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59065,
+        "aniId": 85974,
+        "createdAt": "2020-10-12T16:23:06.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

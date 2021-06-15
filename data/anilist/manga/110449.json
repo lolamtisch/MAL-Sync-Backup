@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "吸血のデアボリカ"
+  ],
+  "authors": [
+    "Maya Mineo"
+  ],
+  "id": 110449,
+  "malId": null,
+  "type": "manga",
+  "title": "Kyuuketsu no diabolica",
+  "url": "https://anilist.co/manga/110449",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110449-IKZAM5MUHRI0.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-04T19:19:09.000Z",
+  "updatedAt": "2021-06-04T19:19:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "40fef7ac-4c48-4088-b4a6-e7283f59d571": {
+        "authors": [
+          "Maya Mineo"
+        ],
+        "identifier": "40fef7ac-4c48-4088-b4a6-e7283f59d571",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Le Vampire Diabolique",
+        "url": "https://mangadex.org/title/40fef7ac-4c48-4088-b4a6-e7283f59d571",
+        "image": "https://uploads.mangadex.org/covers/40fef7ac-4c48-4088-b4a6-e7283f59d571/7791fe6d-f166-49e2-b647-af8e05d03188.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110449,
+        "createdAt": "2020-10-12T16:09:36.000Z",
+        "updatedAt": "2021-06-04T19:26:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

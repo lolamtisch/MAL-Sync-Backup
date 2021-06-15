@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "恋する野獣～LoveBeast～",
+    "Love Beast"
+  ],
+  "authors": [
+    "Kasane Katsumoto"
+  ],
+  "id": 43844,
+  "malId": 13844,
+  "type": "manga",
+  "title": "Koisuru Yajuu: Love Beast",
+  "url": "https://anilist.co/manga/43844",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43844-uFsIerSNFDnw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T16:53:04.000Z",
+  "updatedAt": "2021-06-04T16:53:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3f494972-92b1-43cb-891c-b0974ae48e94": {
+        "authors": [
+          "Katsumoto Kasane"
+        ],
+        "identifier": "3f494972-92b1-43cb-891c-b0974ae48e94",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koisuru Yajuu",
+        "url": "https://mangadex.org/title/3f494972-92b1-43cb-891c-b0974ae48e94",
+        "image": "https://uploads.mangadex.org/covers/3f494972-92b1-43cb-891c-b0974ae48e94/ccea929a-ad41-4338-b6d5-ed78604a2528.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13844,
+        "aniId": 43844,
+        "createdAt": "2020-10-12T16:09:18.000Z",
+        "updatedAt": "2021-06-04T18:36:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

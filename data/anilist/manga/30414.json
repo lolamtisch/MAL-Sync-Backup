@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Mamotte! Lollipop",
+    "まもって! ロリポップ",
+    "Medical Magical",
+    "Kaitou Papillon"
+  ],
+  "authors": [
+    "Michiyo Kikuta",
+    "Elina Ishikawa"
+  ],
+  "id": 30414,
+  "malId": 414,
+  "type": "manga",
+  "title": "Mamotte! Lollipop",
+  "url": "https://anilist.co/manga/30414",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30414-H1bcYfORwhVg.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:33.000Z",
+  "updatedAt": "2021-05-20T14:35:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaFox": {
+      "mamotte_lollipop": {
+        "authors": [
+          "Kikuta Michiyo"
+        ],
+        "identifier": "mamotte_lollipop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mamotte! Lollipop",
+        "url": "https://fanfox.net/manga/mamotte_lollipop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/846/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 414,
+        "aniId": 30414,
+        "createdAt": "2021-04-22T06:29:30.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

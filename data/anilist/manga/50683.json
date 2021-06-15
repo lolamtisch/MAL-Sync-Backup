@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Oz―オズ―"
+  ],
+  "authors": [
+    "Seigo Tokiya"
+  ],
+  "id": 50683,
+  "malId": 20683,
+  "type": "manga",
+  "title": "OZ",
+  "url": "https://anilist.co/manga/50683",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20683.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:33.000Z",
+  "updatedAt": "2021-05-20T14:45:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3859c524-5950-4b51-be15-c737abe63d0c": {
+        "authors": [
+          "Iwai Kyohei",
+          "Tokiya Seigo"
+        ],
+        "identifier": "3859c524-5950-4b51-be15-c737abe63d0c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "OZ (TOKIYA Seigo)",
+        "url": "https://mangadex.org/title/3859c524-5950-4b51-be15-c737abe63d0c",
+        "image": "https://uploads.mangadex.org/covers/3859c524-5950-4b51-be15-c737abe63d0c/d177efc9-c16c-418a-9dbc-db04f2139475.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20683,
+        "aniId": 50683,
+        "createdAt": "2020-10-12T16:02:25.000Z",
+        "updatedAt": "2021-06-02T06:46:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

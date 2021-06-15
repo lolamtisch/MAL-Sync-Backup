@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Love! Love! Love!",
+    "ラブ!ラブ!ラブ!",
+    "Rabu! Rabu! Rabu!"
+  ],
+  "authors": [
+    "Aya Nakahara"
+  ],
+  "id": 41898,
+  "malId": 11898,
+  "type": "manga",
+  "title": "Love! Love! Love!",
+  "url": "https://anilist.co/manga/41898",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11898.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:15.000Z",
+  "updatedAt": "2021-05-20T14:42:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "43304f33-193e-48a6-a603-b1a3cd2aace7": {
+        "authors": [
+          "Nakahara Aya"
+        ],
+        "identifier": "43304f33-193e-48a6-a603-b1a3cd2aace7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love! Love! Love!",
+        "url": "https://mangadex.org/title/43304f33-193e-48a6-a603-b1a3cd2aace7",
+        "image": "https://uploads.mangadex.org/covers/43304f33-193e-48a6-a603-b1a3cd2aace7/d4a63816-82e4-439d-94d6-432eaa25831a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11898,
+        "aniId": 41898,
+        "createdAt": "2020-10-12T16:10:39.000Z",
+        "updatedAt": "2021-06-05T02:21:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

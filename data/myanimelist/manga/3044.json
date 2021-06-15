@@ -1,0 +1,104 @@
+{
+  "altTitle": [
+    "WORKING!!"
+  ],
+  "authors": [
+    "Takatsu, Karino"
+  ],
+  "id": 3044,
+  "type": "manga",
+  "title": "Working!!",
+  "url": "https://myanimelist.net/manga/3044/Working",
+  "image": "https://cdn.myanimelist.net/images/manga/1/3306.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:47.000Z",
+  "updatedAt": "2021-04-09T04:51:33.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b54c1fe5-61f3-47db-898d-8e4fc58ac204": {
+        "authors": [
+          "Takatsu Karino"
+        ],
+        "identifier": "b54c1fe5-61f3-47db-898d-8e4fc58ac204",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Working!!",
+        "url": "https://mangadex.org/title/b54c1fe5-61f3-47db-898d-8e4fc58ac204",
+        "image": "https://uploads.mangadex.org/covers/b54c1fe5-61f3-47db-898d-8e4fc58ac204/eec08f49-b1d0-47b3-acde-dcae8e89f6f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3044,
+        "aniId": 33044,
+        "createdAt": "2020-10-12T16:02:33.000Z",
+        "updatedAt": "2021-06-02T07:55:38.000Z",
+        "deletedAt": null
+      },
+      "5b1494d9-37b1-48f6-8c4d-d9c434836190": {
+        "authors": [
+          "Go Ara"
+        ],
+        "identifier": "5b1494d9-37b1-48f6-8c4d-d9c434836190",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Homework of the Heart",
+        "url": "https://mangadex.org/title/5b1494d9-37b1-48f6-8c4d-d9c434836190",
+        "image": "https://uploads.mangadex.org/covers/5b1494d9-37b1-48f6-8c4d-d9c434836190/f577de5c-08b0-4fb1-87b9-6fbaa6c59957.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 3044,
+        "aniId": 33044,
+        "createdAt": "2020-10-12T16:19:49.000Z",
+        "updatedAt": "2021-06-08T00:50:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "working": {
+        "authors": [],
+        "identifier": "working",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Working!!",
+        "url": "https://manganelo.com/manga/working",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/374-working.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3044,
+        "aniId": 33044,
+        "createdAt": "2020-10-12T16:26:10.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "working": {
+        "authors": [
+          "TAKATSU Karino"
+        ],
+        "identifier": "working",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Working!!",
+        "url": "https://fanfox.net/manga/working/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3384/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3044,
+        "aniId": 33044,
+        "createdAt": "2021-04-09T04:51:40.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "altTitle": [
+    "Ai Tenchi Muyo!",
+    "愛・天地無用!",
+    "Tenchi Muyo! Love"
+  ],
+  "id": 20726,
+  "malId": 24699,
+  "type": "anime",
+  "title": "Ai Tenchi Muyou!",
+  "url": "https://anilist.co/anime/20726",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20726-unPfLPhwnSek.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:35.000Z",
+  "updatedAt": "2021-05-20T14:41:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "1q3m": {
+        "identifier": "1q3m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ai Tenchi Muyou!",
+        "url": "https://9anime.ru/watch/ai-tenchi-muyou.1q3m",
+        "image": "https://static.akacdn.ru/static/images/2018/04/21e925af1c580f6a187f646e1de913f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24699,
+        "aniId": 20726,
+        "createdAt": "2020-10-12T15:49:16.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "z7zw": {
+        "identifier": "z7zw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ai Tenchi Muyou! (Dub)",
+        "url": "https://9anime.ru/watch/ai-tenchi-muyou-dub.z7zw",
+        "image": "http://static.akacdn.ru/static/images/2018/06/4025e3cd95603a834853265cdc2c8931.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24699,
+        "aniId": 20726,
+        "createdAt": "2020-10-12T15:57:07.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ai-tenchi-muyo": {
+        "identifier": "ai-tenchi-muyo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ai Tenchi Muyo!",
+        "url": "https://www6.gogoanime.io/category/ai-tenchi-muyo",
+        "image": "https://cdnimg.xyz/images/fall/Ai Tenchi Muyo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24699,
+        "aniId": 20726,
+        "createdAt": "2020-10-12T15:59:47.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

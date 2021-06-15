@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "リバーズ・エッジ"
+  ],
+  "authors": [
+    "Okazaki, Kyoko"
+  ],
+  "id": 3586,
+  "type": "manga",
+  "title": "River's Edge",
+  "url": "https://myanimelist.net/manga/3586/Rivers_Edge",
+  "image": "https://cdn.myanimelist.net/images/manga/3/25190.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:52.000Z",
+  "updatedAt": "2021-04-22T20:27:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c9b39de1-4376-46f2-b8af-4ecae305bdc3": {
+        "authors": [
+          "OKAZAKI Kyoko"
+        ],
+        "identifier": "c9b39de1-4376-46f2-b8af-4ecae305bdc3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "River's Edge",
+        "url": "https://mangadex.org/title/c9b39de1-4376-46f2-b8af-4ecae305bdc3",
+        "image": "https://uploads.mangadex.org/covers/c9b39de1-4376-46f2-b8af-4ecae305bdc3/255303be-e1b1-43f5-ae83-34853953bd80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3586,
+        "aniId": 33586,
+        "createdAt": "2020-10-12T16:02:53.000Z",
+        "updatedAt": "2021-06-02T10:09:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rivers-edge": {
+        "authors": [
+          "OKAZAKI Kyoko"
+        ],
+        "identifier": "rivers-edge",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "River's Edge",
+        "url": "https://mangasee123.com/manga/Rivers-Edge",
+        "image": "https://cover.nep.li/cover/Rivers-Edge.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3586,
+        "aniId": 33586,
+        "createdAt": "2021-04-22T20:27:08.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

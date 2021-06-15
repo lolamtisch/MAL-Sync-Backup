@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Nephilim",
+    "ネフィリム",
+    "Nehuirimu",
+    "Nefirim",
+    "Nephylym"
+  ],
+  "authors": [
+    "Anna Hanamaki"
+  ],
+  "id": 33496,
+  "malId": 3496,
+  "type": "manga",
+  "title": "Nephilim",
+  "url": "https://anilist.co/manga/33496",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3496.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:12.000Z",
+  "updatedAt": "2021-05-20T14:38:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "nephilim": {
+        "authors": [],
+        "identifier": "nephilim",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nephilim",
+        "url": "https://manganelo.com/manga/nephilim",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/14720-nephilim.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3496,
+        "aniId": 33496,
+        "createdAt": "2020-10-12T16:24:30.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nephylym_hanamaki_anna": {
+        "authors": [
+          "HANAMAKI Anna"
+        ],
+        "identifier": "nephylym_hanamaki_anna",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nephylym (HANAMAKI Anna)",
+        "url": "https://fanfox.net/manga/nephylym_hanamaki_anna/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5942/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 3496,
+        "aniId": 33496,
+        "createdAt": "2021-05-20T22:13:48.000Z",
+        "updatedAt": "2021-05-21T07:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

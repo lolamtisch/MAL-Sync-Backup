@@ -1,0 +1,43 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Yuumi Yamada",
+    "hatsuko"
+  ],
+  "id": 86944,
+  "malId": 80005,
+  "type": "manga",
+  "title": "SSS!",
+  "url": "https://anilist.co/manga/86944",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56944-tFw21ji24mLc.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:59.000Z",
+  "updatedAt": "2021-05-20T14:51:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df2d9172-418b-49f3-8999-424210153bf0": {
+        "authors": [
+          "Hatsuko",
+          "Yamada Yuhmi"
+        ],
+        "identifier": "df2d9172-418b-49f3-8999-424210153bf0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "SSS!",
+        "url": "https://mangadex.org/title/df2d9172-418b-49f3-8999-424210153bf0",
+        "image": "https://uploads.mangadex.org/covers/df2d9172-418b-49f3-8999-424210153bf0/b948677d-add4-469f-b713-adfe8f5b75dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80005,
+        "aniId": 86944,
+        "createdAt": "2020-10-12T16:09:31.000Z",
+        "updatedAt": "2021-06-04T18:10:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

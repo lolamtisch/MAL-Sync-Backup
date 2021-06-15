@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "とげとげ",
+    "Thorn",
+    "Toge Toge"
+  ],
+  "authors": [
+    "Kenta Tsuchida"
+  ],
+  "id": 126765,
+  "malId": 132411,
+  "type": "manga",
+  "title": "Togetoge",
+  "url": "https://anilist.co/manga/126765",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126765-Q3rdnHyo2xEk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T15:00:06.000Z",
+  "updatedAt": "2021-05-20T15:00:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "af154bf2-342b-4b11-a0ac-e6a178545570": {
+        "authors": [
+          "Tsuchida Kenta"
+        ],
+        "identifier": "af154bf2-342b-4b11-a0ac-e6a178545570",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Togetoge",
+        "url": "https://mangadex.org/title/af154bf2-342b-4b11-a0ac-e6a178545570",
+        "image": "https://uploads.mangadex.org/covers/af154bf2-342b-4b11-a0ac-e6a178545570/51a773c7-e17c-459e-b41b-121b2ac6db61.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132411,
+        "aniId": 126765,
+        "createdAt": "2021-01-01T14:50:21.000Z",
+        "updatedAt": "2021-06-08T09:28:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

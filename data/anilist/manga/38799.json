@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "うみちゃんのおともだち",
+    "Umi-chan's Friends"
+  ],
+  "authors": [
+    "Kouji Kumeta"
+  ],
+  "id": 38799,
+  "malId": 8799,
+  "type": "manga",
+  "title": "Umi-chan no Otomodachi",
+  "url": "https://anilist.co/manga/38799",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8799.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:50.000Z",
+  "updatedAt": "2021-05-20T14:40:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "45bea3bf-39ff-45f4-b443-21bbc4a5e653": {
+        "authors": [
+          "Kumeta Kouji"
+        ],
+        "identifier": "45bea3bf-39ff-45f4-b443-21bbc4a5e653",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Umi-chan's Friends",
+        "url": "https://mangadex.org/title/45bea3bf-39ff-45f4-b443-21bbc4a5e653",
+        "image": "https://uploads.mangadex.org/covers/45bea3bf-39ff-45f4-b443-21bbc4a5e653/4801b1a0-1001-4cc4-91ed-88ccad5064c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8799,
+        "aniId": 38799,
+        "createdAt": "2020-10-12T16:03:07.000Z",
+        "updatedAt": "2021-06-02T11:52:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

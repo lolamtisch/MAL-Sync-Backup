@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "閃乱カグラ -紅蓮の蛇-",
+    "Senran Kagura: Guren no Hebi"
+  ],
+  "authors": [
+    "Kenichirou Takaki",
+    "Manabu Aoi"
+  ],
+  "id": 72915,
+  "malId": 42915,
+  "type": "manga",
+  "title": "Senran Kagura: Guren no Uroboros",
+  "url": "https://anilist.co/manga/72915",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42915.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:55.000Z",
+  "updatedAt": "2021-05-20T14:48:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9a3236e1-3d8f-4341-8445-2dda6186b8ae": {
+        "authors": [
+          "AOI Manabu",
+          "TAKAKI Kenichiro"
+        ],
+        "identifier": "9a3236e1-3d8f-4341-8445-2dda6186b8ae",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Senran Kagura - Guren no Hebi",
+        "url": "https://mangadex.org/title/9a3236e1-3d8f-4341-8445-2dda6186b8ae",
+        "image": "https://uploads.mangadex.org/covers/9a3236e1-3d8f-4341-8445-2dda6186b8ae/b41deba3-6019-43d4-85bc-fb0779af74dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42915,
+        "aniId": 72915,
+        "createdAt": "2020-10-12T16:05:26.000Z",
+        "updatedAt": "2021-06-03T12:37:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "senran-kagura-guren-no-hebi": {
+        "authors": [
+          "AOI Manabu",
+          "TAKAKI Kenichiro"
+        ],
+        "identifier": "senran-kagura-guren-no-hebi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Senran Kagura - Guren no Hebi",
+        "url": "https://mangasee123.com/manga/Senran-Kagura-Guren-No-Hebi",
+        "image": "https://cover.nep.li/cover/Senran-Kagura-Guren-No-Hebi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42915,
+        "aniId": 72915,
+        "createdAt": "2021-02-02T11:32:07.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

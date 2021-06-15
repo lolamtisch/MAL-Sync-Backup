@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "バビル２世",
+    "Babil Junior"
+  ],
+  "id": 1666,
+  "malId": 1666,
+  "type": "anime",
+  "title": "Babel Nisei (1973)",
+  "url": "https://anilist.co/anime/1666",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1666-vBYpqA5tAbQG.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:14.000Z",
+  "updatedAt": "2021-05-20T15:59:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "kn6r": {
+        "identifier": "kn6r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Babel II",
+        "url": "https://9anime.ru/watch/babel-ii.kn6r",
+        "image": "https://static.akacdn.ru/files/images/2018/12/7631199b04d37cc12c9890e2816c4918.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1666,
+        "aniId": 1666,
+        "createdAt": "2020-10-12T15:52:40.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "babel-nisei-dub": {
+        "identifier": "babel-nisei-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Babel Nisei (Dub)",
+        "url": "https://www1.gogoanime.movie/category/babel-nisei-dub",
+        "image": "https://gogocdn.net/cover/babel-nisei-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1666,
+        "aniId": 1666,
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

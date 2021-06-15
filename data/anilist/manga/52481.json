@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Mana Sorcerer",
+    "マナソーサラ"
+  ],
+  "authors": [
+    "Sato Fujiwara"
+  ],
+  "id": 52481,
+  "malId": 22481,
+  "type": "manga",
+  "title": "Mana Sorcerer",
+  "url": "https://anilist.co/manga/52481",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22481.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:30.000Z",
+  "updatedAt": "2021-05-20T14:46:30.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "187aef3f-63d2-4cf4-812b-bc9c59bd4f15": {
+        "authors": [
+          "Fujiwara Sato"
+        ],
+        "identifier": "187aef3f-63d2-4cf4-812b-bc9c59bd4f15",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mana Sorcerer",
+        "url": "https://mangadex.org/title/187aef3f-63d2-4cf4-812b-bc9c59bd4f15",
+        "image": "https://uploads.mangadex.org/covers/187aef3f-63d2-4cf4-812b-bc9c59bd4f15/f4242a5a-9a90-4c1f-9fe4-b21016220482.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22481,
+        "aniId": 52481,
+        "createdAt": "2020-10-12T16:03:02.000Z",
+        "updatedAt": "2021-06-02T11:19:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

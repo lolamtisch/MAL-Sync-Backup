@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "キラキラのかけら",
+    "Shining Fragment"
+  ],
+  "authors": [
+    "Yugiri  Aika"
+  ],
+  "id": 121589,
+  "malId": null,
+  "type": "manga",
+  "title": "Kirakira no Kakera",
+  "url": "https://anilist.co/manga/121589",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121589-9ATJiP7ry5VC.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T00:53:28.000Z",
+  "updatedAt": "2021-06-08T00:53:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f2ad332-6a82-4a8e-9f00-76d1aea69f33": {
+        "authors": [
+          "Aika Yugiri"
+        ],
+        "identifier": "2f2ad332-6a82-4a8e-9f00-76d1aea69f33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shining Fragment",
+        "url": "https://mangadex.org/title/2f2ad332-6a82-4a8e-9f00-76d1aea69f33",
+        "image": "https://uploads.mangadex.org/covers/2f2ad332-6a82-4a8e-9f00-76d1aea69f33/f58b8d0e-bbff-4c17-94d1-38a14798f612.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 121589,
+        "createdAt": "2020-10-12T16:20:36.000Z",
+        "updatedAt": "2021-06-08T00:54:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

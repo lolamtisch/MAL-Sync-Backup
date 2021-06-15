@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "Tales of Vesperia"
+  ],
+  "authors": [
+    "Yuzuka Morita"
+  ],
+  "id": 40265,
+  "malId": 10265,
+  "type": "manga",
+  "title": "Tales of Vesperia",
+  "url": "https://anilist.co/manga/40265",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10265.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:03.000Z",
+  "updatedAt": "2021-05-20T14:41:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db3271a2-e4e1-4c6b-b17a-0107f15ae876": {
+        "authors": [
+          "Yuzuka Morita",
+          "Bandai Namco Games",
+          "Namco Tales Studio"
+        ],
+        "identifier": "db3271a2-e4e1-4c6b-b17a-0107f15ae876",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of Vesperia",
+        "url": "https://mangadex.org/title/db3271a2-e4e1-4c6b-b17a-0107f15ae876",
+        "image": "https://uploads.mangadex.org/covers/db3271a2-e4e1-4c6b-b17a-0107f15ae876/9ab9d7fb-46b4-4bad-a26e-1e9828fc09b6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10265,
+        "aniId": 40265,
+        "createdAt": "2020-10-12T16:05:27.000Z",
+        "updatedAt": "2021-06-03T12:40:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tales-of-vesperia": {
+        "authors": [
+          "Bandai Namco Games",
+          "MORITA Yuzuka"
+        ],
+        "identifier": "tales-of-vesperia",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tales of Vesperia",
+        "url": "https://mangasee123.com/manga/Tales-Of-Vesperia",
+        "image": "https://cover.nep.li/cover/Tales-Of-Vesperia.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10265,
+        "aniId": 40265,
+        "createdAt": "2021-02-25T07:55:42.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

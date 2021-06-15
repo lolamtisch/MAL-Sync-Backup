@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "君はボクのもの",
+    "You are Mine"
+  ],
+  "authors": [
+    "Saki Ohta"
+  ],
+  "id": 31163,
+  "malId": 1163,
+  "type": "manga",
+  "title": "Kimi wa Boku no Mono",
+  "url": "https://anilist.co/manga/31163",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31163-VeCsyeW6vTpM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:54.000Z",
+  "updatedAt": "2021-05-20T14:35:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e49280e3-1d0a-4221-bbeb-cd8a78439d3e": {
+        "authors": [
+          "OOTA Saki"
+        ],
+        "identifier": "e49280e3-1d0a-4221-bbeb-cd8a78439d3e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi wa Boku no Mono",
+        "url": "https://mangadex.org/title/e49280e3-1d0a-4221-bbeb-cd8a78439d3e",
+        "image": "https://uploads.mangadex.org/covers/e49280e3-1d0a-4221-bbeb-cd8a78439d3e/daa378a2-7a7e-4952-9d1b-b9cc9fb5fb13.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1163,
+        "aniId": 31163,
+        "createdAt": "2020-10-12T16:13:04.000Z",
+        "updatedAt": "2021-06-05T18:33:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

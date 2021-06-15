@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "A Song to the Sun",
+    "タイヨウのうた"
+  ],
+  "authors": [
+    "Kenji Bandou",
+    "Tsunami Minatsuki"
+  ],
+  "id": 42760,
+  "malId": 12760,
+  "type": "manga",
+  "title": "Taiyou no Uta",
+  "url": "https://anilist.co/manga/42760",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b42760-vbST8OekQiEn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5d73e0e4-6ab3-459a-bc19-d197c2c503c9": {
+        "authors": [
+          "Bandou Kenji",
+          "Minatsuki Tsunami"
+        ],
+        "identifier": "5d73e0e4-6ab3-459a-bc19-d197c2c503c9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Taiyou no Uta",
+        "url": "https://mangadex.org/title/5d73e0e4-6ab3-459a-bc19-d197c2c503c9",
+        "image": "https://uploads.mangadex.org/covers/5d73e0e4-6ab3-459a-bc19-d197c2c503c9/dd410eaa-f8f7-4821-8a03-6cc6053e43d8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12760,
+        "aniId": 42760,
+        "createdAt": "2020-10-12T16:03:53.000Z",
+        "updatedAt": "2021-06-02T17:10:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "taiyou-no-uta": {
+        "authors": [
+          "BANDOU Kenji",
+          "MINATSUKI Tsunami"
+        ],
+        "identifier": "taiyou-no-uta",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Taiyou no Uta",
+        "url": "https://mangasee123.com/manga/Taiyou-No-Uta",
+        "image": "https://cover.nep.li/cover/Taiyou-No-Uta.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12760,
+        "aniId": 42760,
+        "createdAt": "2021-05-05T14:03:05.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

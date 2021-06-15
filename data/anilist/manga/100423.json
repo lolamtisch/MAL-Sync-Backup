@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "果肉の娘",
+    "Pulp Girl"
+  ],
+  "authors": [
+    "Youichi Abe"
+  ],
+  "id": 100423,
+  "malId": null,
+  "type": "manga",
+  "title": "Kaniku no Musume",
+  "url": "https://anilist.co/manga/100423",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100423-BoVMpCfRG37x.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-02T19:30:51.000Z",
+  "updatedAt": "2021-06-02T19:30:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "79bed786-0d5e-445d-a811-318f6be67472": {
+        "authors": [
+          "Abe Youichi"
+        ],
+        "identifier": "79bed786-0d5e-445d-a811-318f6be67472",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pulp Girl",
+        "url": "https://mangadex.org/title/79bed786-0d5e-445d-a811-318f6be67472",
+        "image": "https://uploads.mangadex.org/covers/79bed786-0d5e-445d-a811-318f6be67472/dbdbefbd-f74a-45de-aa49-353828ab3965.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100423,
+        "createdAt": "2020-10-12T16:10:52.000Z",
+        "updatedAt": "2021-06-05T08:52:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

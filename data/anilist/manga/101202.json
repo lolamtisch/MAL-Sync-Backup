@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "保坂先生の愛のむち"
+  ],
+  "authors": [
+    "Haruko Kurumatani"
+  ],
+  "id": 101202,
+  "malId": 111244,
+  "type": "manga",
+  "title": "Hosaka Sensei no Ai no Muchi",
+  "url": "https://anilist.co/manga/101202",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101202-J0c6Px8yRSOC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:20.000Z",
+  "updatedAt": "2021-05-20T14:56:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1c10ab2e-1509-4627-ad46-1b50f04245ea": {
+        "authors": [
+          "Kurumatani Haruko"
+        ],
+        "identifier": "1c10ab2e-1509-4627-ad46-1b50f04245ea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hosaka-sensei no Ai no Muchi",
+        "url": "https://mangadex.org/title/1c10ab2e-1509-4627-ad46-1b50f04245ea",
+        "image": "https://uploads.mangadex.org/covers/1c10ab2e-1509-4627-ad46-1b50f04245ea/6a7732ab-75c8-4560-b031-8a63075f011d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111244,
+        "aniId": 101202,
+        "createdAt": "2020-10-12T16:11:23.000Z",
+        "updatedAt": "2021-06-05T08:01:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hosakasensei_no_ai_no_muchi": {
+        "authors": [],
+        "identifier": "hosakasensei_no_ai_no_muchi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hosaka-Sensei No Ai No Muchi",
+        "url": "https://manganelo.com/manga/hosakasensei_no_ai_no_muchi",
+        "image": "https://avt.mkklcdnv6.com/17/x/16-1583494117.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111244,
+        "aniId": 101202,
+        "createdAt": "2020-10-12T16:23:24.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

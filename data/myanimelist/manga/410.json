@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Kagetora",
+    "カゲトラ"
+  ],
+  "authors": [
+    "Segami, Akira"
+  ],
+  "id": 410,
+  "type": "manga",
+  "title": "Kagetora",
+  "url": "https://myanimelist.net/manga/410/Kagetora",
+  "image": "https://cdn.myanimelist.net/images/manga/5/199436.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:21.000Z",
+  "updatedAt": "2021-03-26T09:49:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d97e4080-3367-4ca9-a9e3-d4dd22b29f5c": {
+        "authors": [
+          "Segami Akira"
+        ],
+        "identifier": "d97e4080-3367-4ca9-a9e3-d4dd22b29f5c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kagetora",
+        "url": "https://mangadex.org/title/d97e4080-3367-4ca9-a9e3-d4dd22b29f5c",
+        "image": "https://uploads.mangadex.org/covers/d97e4080-3367-4ca9-a9e3-d4dd22b29f5c/0e82d00a-e3ec-460d-ad8a-8d5a8f660620.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 410,
+        "aniId": 30410,
+        "createdAt": "2020-10-12T16:02:28.000Z",
+        "updatedAt": "2021-06-02T07:04:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kagetora": {
+        "authors": [],
+        "identifier": "kagetora",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kagetora",
+        "url": "https://manganelo.com/manga/kagetora",
+        "image": "https://avt.mkklcdnv6.com/48/w/4-1583471738.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 410,
+        "aniId": 30410,
+        "createdAt": "2020-10-12T16:23:48.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "転瞬",
+    "Ephemeral"
+  ],
+  "authors": [
+    "Yumi Tada"
+  ],
+  "id": 46955,
+  "malId": 16955,
+  "type": "manga",
+  "title": "Tenshun",
+  "url": "https://anilist.co/manga/46955",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16955.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:02.000Z",
+  "updatedAt": "2021-05-20T14:44:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a7283edb-9542-4ada-aaf7-a63f6d471e71": {
+        "authors": [
+          "TADA Yumi"
+        ],
+        "identifier": "a7283edb-9542-4ada-aaf7-a63f6d471e71",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ephemeral",
+        "url": "https://mangadex.org/title/a7283edb-9542-4ada-aaf7-a63f6d471e71",
+        "image": "https://uploads.mangadex.org/covers/a7283edb-9542-4ada-aaf7-a63f6d471e71/625933eb-d6c8-452b-88da-c2afba0cc665.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16955,
+        "aniId": 46955,
+        "createdAt": "2020-10-12T16:03:07.000Z",
+        "updatedAt": "2021-06-02T11:53:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

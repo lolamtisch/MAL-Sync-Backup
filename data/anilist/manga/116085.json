@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "イワン・デジャビュの一日",
+    "One Day in the Life of Ivan Dejavu"
+  ],
+  "authors": [
+    "Yukinobu Hoshino"
+  ],
+  "id": 116085,
+  "malId": null,
+  "type": "manga",
+  "title": "Ivan Dejavu no Ichinichi",
+  "url": "https://anilist.co/manga/116085",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116085-kmXWSFmL9wtp.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T10:21:45.000Z",
+  "updatedAt": "2021-06-07T10:21:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "71aecc2b-65ab-4909-97ad-54afdf513350": {
+        "authors": [
+          "Hoshino Yukinobu"
+        ],
+        "identifier": "71aecc2b-65ab-4909-97ad-54afdf513350",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One Day in the Life of Ivan Dejavu",
+        "url": "https://mangadex.org/title/71aecc2b-65ab-4909-97ad-54afdf513350",
+        "image": "https://uploads.mangadex.org/covers/71aecc2b-65ab-4909-97ad-54afdf513350/128e53c8-01fe-4f00-a259-5716bacc2e1f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116085,
+        "createdAt": "2020-10-12T16:17:42.000Z",
+        "updatedAt": "2021-06-07T10:32:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

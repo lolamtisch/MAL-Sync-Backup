@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Kita Konno"
+  ],
+  "id": 38542,
+  "malId": null,
+  "type": "manga",
+  "title": "In the Afternoon...",
+  "url": "https://anilist.co/manga/38542",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8542.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-07T20:37:00.000Z",
+  "updatedAt": "2021-06-07T20:37:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2960c71b-64eb-4eb1-b7bc-7925d8ce8088": {
+        "authors": [
+          "Konno Kita"
+        ],
+        "identifier": "2960c71b-64eb-4eb1-b7bc-7925d8ce8088",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "In the afternoon...",
+        "url": "https://mangadex.org/title/2960c71b-64eb-4eb1-b7bc-7925d8ce8088",
+        "image": "https://uploads.mangadex.org/covers/2960c71b-64eb-4eb1-b7bc-7925d8ce8088/5d9e682c-248c-412a-b0a7-9043501ab8d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 38542,
+        "createdAt": "2020-10-12T16:18:48.000Z",
+        "updatedAt": "2021-06-07T20:47:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

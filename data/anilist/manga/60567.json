@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "The Prince in His Dark Days",
+    "王子様と灰色の日々",
+    "Ouji-sama to Haiiro no Hibi"
+  ],
+  "authors": [
+    "Hiko Yamanaka"
+  ],
+  "id": 60567,
+  "malId": 30567,
+  "type": "manga",
+  "title": "Oujisama to Haiiro no Hibi",
+  "url": "https://anilist.co/manga/60567",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30567.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:40.000Z",
+  "updatedAt": "2021-05-20T14:47:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "262cdc0f-574e-464a-8793-c1cba15936e9": {
+        "authors": [
+          "Yamanaka Hiko"
+        ],
+        "identifier": "262cdc0f-574e-464a-8793-c1cba15936e9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ouji-sama to Haiiro no Hibi",
+        "url": "https://mangadex.org/title/262cdc0f-574e-464a-8793-c1cba15936e9",
+        "image": "https://uploads.mangadex.org/covers/262cdc0f-574e-464a-8793-c1cba15936e9/98fafa3c-8d45-41c0-9d5b-07e852130c72.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30567,
+        "aniId": 60567,
+        "createdAt": "2020-10-12T16:06:56.000Z",
+        "updatedAt": "2021-06-03T23:11:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "oujisama_to_haiiro_no_hibi": {
+        "authors": [],
+        "identifier": "oujisama_to_haiiro_no_hibi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ouji-Sama To Haiiro No Hibi",
+        "url": "https://manganelo.com/manga/oujisama_to_haiiro_no_hibi",
+        "image": "https://avt.mkklcdnv6.com/15/k/8-1583478762.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30567,
+        "aniId": 60567,
+        "createdAt": "2020-10-12T16:24:46.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ouji-sama-to-haiiro-no-hibi": {
+        "authors": [
+          "YAMANAKA Hiko"
+        ],
+        "identifier": "ouji-sama-to-haiiro-no-hibi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Prince in His Dark Days",
+        "url": "https://mangasee123.com/manga/Ouji-sama-To-Haiiro-No-Hibi",
+        "image": "https://cover.nep.li/cover/Ouji-sama-To-Haiiro-No-Hibi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30567,
+        "aniId": 60567,
+        "createdAt": "2021-05-12T00:24:42.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

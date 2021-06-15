@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ミックス"
+  ],
+  "authors": [
+    "Mitsuru Adachi"
+  ],
+  "id": 67815,
+  "malId": 37815,
+  "type": "manga",
+  "title": "Mix",
+  "url": "https://anilist.co/manga/67815",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx67815-l9NLq2KjOBSd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:35.000Z",
+  "updatedAt": "2021-05-20T14:48:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d362fd89-f15c-481f-8bf1-17e59e125d03": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "d362fd89-f15c-481f-8bf1-17e59e125d03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mix",
+        "url": "https://mangadex.org/title/d362fd89-f15c-481f-8bf1-17e59e125d03",
+        "image": "https://uploads.mangadex.org/covers/d362fd89-f15c-481f-8bf1-17e59e125d03/1f62c44c-a24c-42ad-b667-3f363527b5d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37815,
+        "aniId": 67815,
+        "createdAt": "2020-10-12T16:04:27.000Z",
+        "updatedAt": "2021-06-02T21:10:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mix": {
+        "authors": [],
+        "identifier": "mix",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mix",
+        "url": "https://manganelo.com/manga/mix",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/2207-mix.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37815,
+        "aniId": 67815,
+        "createdAt": "2020-10-12T16:24:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mix": {
+        "authors": [
+          "ADACHI Mitsuru"
+        ],
+        "identifier": "mix",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mix",
+        "url": "https://mangasee123.com/manga/Mix",
+        "image": "https://cover.nep.li/cover/Mix.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37815,
+        "aniId": 67815,
+        "createdAt": "2021-03-04T15:20:29.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

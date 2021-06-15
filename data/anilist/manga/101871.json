@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "平凡なる皇帝",
+    "Ordinary Emperor",
+    "平凡的皇帝"
+  ],
+  "authors": [
+    "Tsukasa Mikuni",
+    "Yamakawa",
+    "Megimura"
+  ],
+  "id": 101871,
+  "malId": 118634,
+  "type": "manga",
+  "title": "Heibon naru Koutei",
+  "url": "https://anilist.co/manga/101871",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101871-RsYuBmXu0akW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:03.000Z",
+  "updatedAt": "2021-05-20T14:58:03.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e418cdec-172c-4247-8663-18b4c6bb0913": {
+        "authors": [
+          "Mikuni Tsukasa",
+          "Megimura"
+        ],
+        "identifier": "e418cdec-172c-4247-8663-18b4c6bb0913",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ordinary Emperor",
+        "url": "https://mangadex.org/title/e418cdec-172c-4247-8663-18b4c6bb0913",
+        "image": "https://uploads.mangadex.org/covers/e418cdec-172c-4247-8663-18b4c6bb0913/6bcc2c3a-5187-4e6b-9d9f-bcfe20296654.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118634,
+        "aniId": 101871,
+        "createdAt": "2020-10-12T16:18:03.000Z",
+        "updatedAt": "2021-06-07T13:20:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "oj921515": {
+        "authors": [],
+        "identifier": "oj921515",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ordinary Emperor",
+        "url": "https://manganelo.com/manga/oj921515",
+        "image": "https://avt.mkklcdnv6.com/9/e/20-1583501378.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118634,
+        "aniId": 101871,
+        "createdAt": "2020-10-12T16:24:40.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "heibon_naru_koutei": {
+        "authors": [
+          "MIKUNI Tsukasa"
+        ],
+        "identifier": "heibon_naru_koutei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Heibon naru Koutei",
+        "url": "https://fanfox.net/manga/heibon_naru_koutei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32399/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118634,
+        "aniId": 101871,
+        "createdAt": "2020-12-22T12:56:37.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

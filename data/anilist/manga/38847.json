@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "乃木坂春香の秘密",
+    "Nogizaka Haruka's Secret",
+    "Haruka Nogizaka's Secret"
+  ],
+  "authors": [
+    "Yasuhiro Miyama",
+    "Yuusaku Igarashi",
+    "Shaa"
+  ],
+  "id": 38847,
+  "malId": 8847,
+  "type": "manga",
+  "title": "Nogizaka Haruka no Himitsu",
+  "url": "https://anilist.co/manga/38847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38847-mbD3GfyJQ5dW.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:52.000Z",
+  "updatedAt": "2021-05-20T14:40:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d8976050-ec42-44d3-8efe-cdfbf60d7549": {
+        "authors": [
+          "Miyama Yasuhiro",
+          "Igarashi Yusaku"
+        ],
+        "identifier": "d8976050-ec42-44d3-8efe-cdfbf60d7549",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nogizaka Haruka no Himitsu",
+        "url": "https://mangadex.org/title/d8976050-ec42-44d3-8efe-cdfbf60d7549",
+        "image": "https://uploads.mangadex.org/covers/d8976050-ec42-44d3-8efe-cdfbf60d7549/b0970dea-beb0-4bc6-99cc-c41f068f1a09.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8847,
+        "aniId": 38847,
+        "createdAt": "2020-10-12T16:02:40.000Z",
+        "updatedAt": "2021-06-02T08:39:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nogizaka_haruka_no_himitsu": {
+        "authors": [],
+        "identifier": "nogizaka_haruka_no_himitsu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nogizaka Haruka No Himitsu",
+        "url": "https://manganelo.com/manga/nogizaka_haruka_no_himitsu",
+        "image": "https://avt.mkklcdnv6.com/33/e/10-1583483369.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8847,
+        "aniId": 38847,
+        "createdAt": "2020-10-12T16:24:34.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "ay924843": {
+        "authors": [
+          "Igarashi",
+          "Yusaku"
+        ],
+        "identifier": "ay924843",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nogizaka Asuka No Himitsu",
+        "url": "https://manganelo.com/manga/ay924843",
+        "image": "https://avt.mkklcdnv6.com/42/n/22-1607142361.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8847,
+        "aniId": 38847,
+        "createdAt": "2020-12-05T05:41:19.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

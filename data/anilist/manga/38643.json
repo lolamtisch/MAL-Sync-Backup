@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "幕張"
+  ],
+  "authors": [
+    "Yasuaki Kita"
+  ],
+  "id": 38643,
+  "malId": 8643,
+  "type": "manga",
+  "title": "Makuhari",
+  "url": "https://anilist.co/manga/38643",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8643.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:49.000Z",
+  "updatedAt": "2021-05-20T14:40:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "63957b54-1531-43a4-b04f-1e27f4eeffab": {
+        "authors": [
+          "KITA Yasuaki"
+        ],
+        "identifier": "63957b54-1531-43a4-b04f-1e27f4eeffab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Makuhari",
+        "url": "https://mangadex.org/title/63957b54-1531-43a4-b04f-1e27f4eeffab",
+        "image": "https://uploads.mangadex.org/covers/63957b54-1531-43a4-b04f-1e27f4eeffab/8c3056ef-e452-4dd4-8742-d2f95327fcd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8643,
+        "aniId": 38643,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:38:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

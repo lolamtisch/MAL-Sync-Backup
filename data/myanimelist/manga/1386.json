@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Demon Encyclopedia",
+    "悪魔事典"
+  ],
+  "authors": [
+    "Suyama, Shinya"
+  ],
+  "id": 1386,
+  "type": "manga",
+  "title": "Akuma Jiten",
+  "url": "https://myanimelist.net/manga/1386/Akuma_Jiten",
+  "image": "https://cdn.myanimelist.net/images/manga/1/69915.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:33.000Z",
+  "updatedAt": "2021-02-22T07:04:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "743b4322-661c-492d-b8a9-9831c1e021ce": {
+        "authors": [
+          "SUYAMA Shinya"
+        ],
+        "identifier": "743b4322-661c-492d-b8a9-9831c1e021ce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akuma Jiten",
+        "url": "https://mangadex.org/title/743b4322-661c-492d-b8a9-9831c1e021ce",
+        "image": "https://uploads.mangadex.org/covers/743b4322-661c-492d-b8a9-9831c1e021ce/c039f111-13dc-44ac-b6c1-d54f1ca188f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1386,
+        "aniId": 31386,
+        "createdAt": "2020-10-12T16:03:01.000Z",
+        "updatedAt": "2021-06-02T11:11:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "akuma_jiten": {
+        "authors": [
+          "Suyama",
+          "Shinya"
+        ],
+        "identifier": "akuma_jiten",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Akuma Jiten",
+        "url": "https://manganelo.com/manga/akuma_jiten",
+        "image": "https://avt.mkklcdnv6temp.com/12/x/4-1583470192.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1386,
+        "aniId": 31386,
+        "createdAt": "2021-02-22T07:04:02.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

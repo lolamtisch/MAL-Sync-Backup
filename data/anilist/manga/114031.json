@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ヒュードロガール",
+    "Spooky Girl"
+  ],
+  "authors": [
+    "Syuji Yukimoto"
+  ],
+  "id": 114031,
+  "malId": null,
+  "type": "manga",
+  "title": "Hyudoro Girl",
+  "url": "https://anilist.co/manga/114031",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114031-AZ2tJaRXV18H.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T12:06:41.000Z",
+  "updatedAt": "2021-06-07T12:06:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7dd12309-6d61-4bde-9996-8d18aa53873a": {
+        "authors": [
+          "Yukimoto Syuji"
+        ],
+        "identifier": "7dd12309-6d61-4bde-9996-8d18aa53873a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spooky Girl",
+        "url": "https://mangadex.org/title/7dd12309-6d61-4bde-9996-8d18aa53873a",
+        "image": "https://uploads.mangadex.org/covers/7dd12309-6d61-4bde-9996-8d18aa53873a/70f03481-7e11-4197-821e-76b0000393ee.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 114031,
+        "createdAt": "2020-10-12T16:17:51.000Z",
+        "updatedAt": "2021-06-07T13:41:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

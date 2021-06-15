@@ -1,0 +1,132 @@
+{
+  "altTitle": [
+    "魔法少女リリカルなのはViVid",
+    "Magical Girl Lyrical Nanoha ViVid"
+  ],
+  "authors": [
+    "Takuya Fujima",
+    "Masaki Tsuzuki"
+  ],
+  "id": 44238,
+  "malId": 14238,
+  "type": "manga",
+  "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+  "url": "https://anilist.co/manga/44238",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx44238-0UYWSPfYzTIm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:45.000Z",
+  "updatedAt": "2021-05-20T14:42:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22aa03b4-0f72-47a7-87bd-a1f3309afa49": {
+        "authors": [
+          "Masaki Tsuzuki",
+          "Fujima Takuya"
+        ],
+        "identifier": "22aa03b4-0f72-47a7-87bd-a1f3309afa49",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+        "url": "https://mangadex.org/title/22aa03b4-0f72-47a7-87bd-a1f3309afa49",
+        "image": "https://uploads.mangadex.org/covers/22aa03b4-0f72-47a7-87bd-a1f3309afa49/d237aa1f-5941-461b-9abe-14c0949732a2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14238,
+        "aniId": 44238,
+        "createdAt": "2020-10-12T16:02:47.000Z",
+        "updatedAt": "2021-06-02T09:21:22.000Z",
+        "deletedAt": null
+      },
+      "b04c0688-2ed1-4a7b-8fc6-32ecc2344b45": {
+        "authors": [
+          ""
+        ],
+        "identifier": "b04c0688-2ed1-4a7b-8fc6-32ecc2344b45",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mahou Shoujo Lyrical Nanoha - Lovely Motion (Doujinshi)",
+        "url": "https://mangadex.org/title/b04c0688-2ed1-4a7b-8fc6-32ecc2344b45",
+        "image": "https://uploads.mangadex.org/covers/b04c0688-2ed1-4a7b-8fc6-32ecc2344b45/a2874d23-e9e5-4d4d-8e69-0055d7420255.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14238,
+        "aniId": 44238,
+        "createdAt": "2020-10-12T16:18:47.000Z",
+        "updatedAt": "2021-06-07T19:59:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mahou_shoujo_lyrical_nanoha_vivid": {
+        "authors": [
+          "Tsuzuki",
+          "Maki"
+        ],
+        "identifier": "mahou_shoujo_lyrical_nanoha_vivid",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mahou Shoujo Lyrical Nanoha Vivid",
+        "url": "https://manganelo.com/manga/mahou_shoujo_lyrical_nanoha_vivid",
+        "image": "https://avt.mkklcdnv6temp.com/14/d/1-1583464226.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14238,
+        "aniId": 44238,
+        "createdAt": "2021-03-23T16:35:37.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fate_stay_night_x_magical_girl_lyrical_nanoha": {
+        "authors": [
+          "TSUZUKI Maki",
+          "Type-Moon"
+        ],
+        "identifier": "fate_stay_night_x_magical_girl_lyrical_nanoha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fate/stay night x Magical Girl Lyrical Nanoha",
+        "url": "https://fanfox.net/manga/fate_stay_night_x_magical_girl_lyrical_nanoha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7993/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 14238,
+        "aniId": 44238,
+        "createdAt": "2021-04-10T12:21:30.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      },
+      "mahou_shoujo_lyrical_nanoha_vivid": {
+        "authors": [
+          "TSUZUKI Maki"
+        ],
+        "identifier": "mahou_shoujo_lyrical_nanoha_vivid",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahou Shoujo Lyrical Nanoha Vivid",
+        "url": "https://fanfox.net/manga/mahou_shoujo_lyrical_nanoha_vivid/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6038/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14238,
+        "aniId": 44238,
+        "createdAt": "2021-04-10T20:51:59.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

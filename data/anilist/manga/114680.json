@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ときめきのいけにえ"
+  ],
+  "authors": [
+    "Sachiko Uguisu"
+  ],
+  "id": 114680,
+  "malId": 125749,
+  "type": "manga",
+  "title": "Tokimeki no Ike ni e",
+  "url": "https://anilist.co/manga/114680",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114680-q4ZFMV6GY7v0.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T23:23:51.000Z",
+  "updatedAt": "2021-06-07T23:23:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e35356d4-0535-445b-a4dc-5e6f80d7533b": {
+        "authors": [
+          "Uguisu Sachiko"
+        ],
+        "identifier": "e35356d4-0535-445b-a4dc-5e6f80d7533b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokimeki no Ikenie",
+        "url": "https://mangadex.org/title/e35356d4-0535-445b-a4dc-5e6f80d7533b",
+        "image": "https://uploads.mangadex.org/covers/e35356d4-0535-445b-a4dc-5e6f80d7533b/f0fc4d0b-c3bf-4edf-ae5b-f9b2b4847405.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125749,
+        "aniId": 114680,
+        "createdAt": "2020-10-12T16:19:54.000Z",
+        "updatedAt": "2021-06-08T00:46:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

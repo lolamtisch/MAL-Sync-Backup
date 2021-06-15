@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "くるねこ"
+  ],
+  "id": 6604,
+  "malId": 6604,
+  "type": "anime",
+  "title": "Kuruneko",
+  "url": "https://anilist.co/anime/6604",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6604.jpg",
+  "category": "tv_short",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:57.000Z",
+  "updatedAt": "2021-05-20T14:37:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "j968": {
+        "identifier": "j968",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kuruneko",
+        "url": "https://9anime.ru/watch/kuruneko.j968",
+        "image": "http://static.akacdn.ru/static/images/2018/06/d50c21b8a8d3149f9e526c6b75af58d5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6604,
+        "aniId": 6604,
+        "createdAt": "2020-10-12T15:52:07.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kuruneko": {
+        "identifier": "kuruneko",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kuruneko",
+        "url": "https://gogoanime.so/category/kuruneko",
+        "image": "https://gogocdn.net/cover/kuruneko.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6604,
+        "aniId": 6604,
+        "createdAt": "2021-01-29T14:27:26.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

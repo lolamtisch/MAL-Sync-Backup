@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "あだしもの",
+    "Ad Ashi Mono",
+    "Adashi-Mono",
+    "Adashimono"
+  ],
+  "authors": [
+    "Aki Oono"
+  ],
+  "id": 75153,
+  "malId": 45153,
+  "type": "manga",
+  "title": "Adashi Mono",
+  "url": "https://anilist.co/manga/75153",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx75153-XfIwCkHL2a9j.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:26.000Z",
+  "updatedAt": "2021-05-20T14:49:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "39ec2e1e-63d7-4fdb-bf3d-ed838d80f21d": {
+        "authors": [
+          "Yamamoto Kumiko"
+        ],
+        "identifier": "39ec2e1e-63d7-4fdb-bf3d-ed838d80f21d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Adashi Mono",
+        "url": "https://mangadex.org/title/39ec2e1e-63d7-4fdb-bf3d-ed838d80f21d",
+        "image": "https://uploads.mangadex.org/covers/39ec2e1e-63d7-4fdb-bf3d-ed838d80f21d/13fa27c0-29b4-4ef9-aeac-04308027d6fd.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45153,
+        "aniId": 75153,
+        "createdAt": "2020-10-12T16:06:02.000Z",
+        "updatedAt": "2021-06-03T16:38:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "adashi_mono": {
+        "authors": [
+          "YAMAMOTO Kumiko"
+        ],
+        "identifier": "adashi_mono",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Adashi Mono",
+        "url": "https://fanfox.net/manga/adashi_mono/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12116/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45153,
+        "aniId": 75153,
+        "createdAt": "2021-05-06T04:33:56.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

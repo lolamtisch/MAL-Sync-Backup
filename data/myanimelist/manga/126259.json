@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "亜童"
+  ],
+  "authors": [
+    "Amano, Jaku"
+  ],
+  "id": 126259,
+  "type": "manga",
+  "title": "Adou",
+  "url": "https://myanimelist.net/manga/126259/Adou",
+  "image": "https://cdn.myanimelist.net/images/manga/3/229841.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:48:22.000Z",
+  "updatedAt": "2021-06-06T19:19:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "233f8e31-ef4f-48d8-8fa5-7338ea96ae86": {
+        "authors": [
+          "AMANO JAKU"
+        ],
+        "identifier": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Adou",
+        "url": "https://mangadex.org/title/233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
+        "image": "https://uploads.mangadex.org/covers/233f8e31-ef4f-48d8-8fa5-7338ea96ae86/27b447b3-b26b-45f2-82b7-45568719cf39.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126259,
+        "aniId": 111074,
+        "createdAt": "2020-10-12T16:16:02.000Z",
+        "updatedAt": "2021-06-06T19:22:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hs920203": {
+        "authors": [],
+        "identifier": "hs920203",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Adou",
+        "url": "https://manganelo.com/manga/hs920203",
+        "image": "https://avt.mkklcdnv6.com/10/g/19-1583499481.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126259,
+        "aniId": 111074,
+        "createdAt": "2020-10-12T16:23:25.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "adou": {
+        "authors": [
+          "AMANO JAKU"
+        ],
+        "identifier": "adou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Adou",
+        "url": "https://fanfox.net/manga/adou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31177/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126259,
+        "aniId": 111074,
+        "createdAt": "2021-02-04T05:41:06.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "秘すれば"
+  ],
+  "authors": [
+    "Kanno, Touko"
+  ],
+  "id": 92475,
+  "type": "manga",
+  "title": "Hisureba",
+  "url": "https://myanimelist.net/manga/92475/Hisureba",
+  "image": "https://cdn.myanimelist.net/images/manga/3/162496.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:09.000Z",
+  "updatedAt": "2020-12-29T01:52:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e34c3c84-94fc-4c6e-a68c-4138b92b0886": {
+        "authors": [
+          "KANNO Touko"
+        ],
+        "identifier": "e34c3c84-94fc-4c6e-a68c-4138b92b0886",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hisureba",
+        "url": "https://mangadex.org/title/e34c3c84-94fc-4c6e-a68c-4138b92b0886",
+        "image": "https://uploads.mangadex.org/covers/e34c3c84-94fc-4c6e-a68c-4138b92b0886/51900bbe-0cd9-45ba-b634-039555387fb1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92475,
+        "aniId": 95863,
+        "createdAt": "2020-10-12T16:10:01.000Z",
+        "updatedAt": "2021-06-04T21:39:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hisureba": {
+        "authors": [
+          "Kanno",
+          "Touko"
+        ],
+        "identifier": "hisureba",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hisureba",
+        "url": "https://manganelo.com/manga/hisureba",
+        "image": "https://avt.mkklcdnv6.com/20/g/1-1583464495.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92475,
+        "aniId": 95863,
+        "createdAt": "2020-12-29T01:52:24.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

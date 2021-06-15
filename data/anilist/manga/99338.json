@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "ねこまた。",
+    "Nekomata"
+  ],
+  "authors": [
+    "Hayate Kuku"
+  ],
+  "id": 99338,
+  "malId": 105957,
+  "type": "manga",
+  "title": "Nekomata.",
+  "url": "https://anilist.co/manga/99338",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99338-RqKinoLKHaCg.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:45.000Z",
+  "updatedAt": "2021-05-20T14:55:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5cd3b15c-804b-4ebd-967a-c0096c8cd80d": {
+        "authors": [
+          "Kuku Hayate"
+        ],
+        "identifier": "5cd3b15c-804b-4ebd-967a-c0096c8cd80d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nekomata",
+        "url": "https://mangadex.org/title/5cd3b15c-804b-4ebd-967a-c0096c8cd80d",
+        "image": "https://uploads.mangadex.org/covers/5cd3b15c-804b-4ebd-967a-c0096c8cd80d/231402ff-01a5-46a6-b94e-9932fddd81a7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105957,
+        "aniId": 99338,
+        "createdAt": "2020-10-12T16:10:29.000Z",
+        "updatedAt": "2021-06-05T01:04:39.000Z",
+        "deletedAt": null
+      },
+      "a85b9de8-f0af-4eb6-bfec-94581c2f319e": {
+        "authors": [
+          "ヤマガタアツカ",
+          "Yamagata Atsuka"
+        ],
+        "identifier": "a85b9de8-f0af-4eb6-bfec-94581c2f319e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nekoma-san to Inui-kun",
+        "url": "https://mangadex.org/title/a85b9de8-f0af-4eb6-bfec-94581c2f319e",
+        "image": "https://uploads.mangadex.org/covers/a85b9de8-f0af-4eb6-bfec-94581c2f319e/70b23b9a-19bd-44d5-9ac2-9ce7f3ce0087.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105957,
+        "aniId": 99338,
+        "createdAt": "2020-10-12T16:20:11.000Z",
+        "updatedAt": "2021-06-07T23:32:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nekomata": {
+        "authors": [],
+        "identifier": "nekomata",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nekomata.",
+        "url": "https://manganelo.com/manga/nekomata",
+        "image": "https://avt.mkklcdnv6.com/40/d/13-1583489241.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105957,
+        "aniId": 99338,
+        "createdAt": "2020-10-12T16:24:30.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

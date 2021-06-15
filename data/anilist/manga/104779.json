@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "純とかおる"
+  ],
+  "authors": [
+    "Zui Nieki"
+  ],
+  "id": 104779,
+  "malId": 114303,
+  "type": "manga",
+  "title": "Jun to Kaoru",
+  "url": "https://anilist.co/manga/104779",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104779-BOn5OPDUC5CK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:08.000Z",
+  "updatedAt": "2021-05-20T14:57:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "66b52a3a-40b7-4488-9d85-1d3b2a5c550f": {
+        "authors": [
+          "Nieki Zui"
+        ],
+        "identifier": "66b52a3a-40b7-4488-9d85-1d3b2a5c550f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jun and Kaoru",
+        "url": "https://mangadex.org/title/66b52a3a-40b7-4488-9d85-1d3b2a5c550f",
+        "image": "https://uploads.mangadex.org/covers/66b52a3a-40b7-4488-9d85-1d3b2a5c550f/ce43b2ae-890d-4a89-86dd-d786ff7355b7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114303,
+        "aniId": 104779,
+        "createdAt": "2020-10-12T16:13:12.000Z",
+        "updatedAt": "2021-06-05T19:34:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

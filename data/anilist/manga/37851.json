@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "九拾九狐",
+    "The 99 Fox",
+    "The Ninety Nine Fox"
+  ],
+  "authors": [
+    "Suguro Chayamachi"
+  ],
+  "id": 37851,
+  "malId": 7851,
+  "type": "manga",
+  "title": "Tsukumo Kitsune",
+  "url": "https://anilist.co/manga/37851",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7851.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:56.000Z",
+  "updatedAt": "2021-05-20T14:39:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d2213526-c357-46c4-9f8a-f853378700a2": {
+        "authors": [
+          "CHAYAMACHI Suguro"
+        ],
+        "identifier": "d2213526-c357-46c4-9f8a-f853378700a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukumo Kitsune",
+        "url": "https://mangadex.org/title/d2213526-c357-46c4-9f8a-f853378700a2",
+        "image": "https://uploads.mangadex.org/covers/d2213526-c357-46c4-9f8a-f853378700a2/930f20a4-d789-4949-a13c-b47eca884d1f.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7851,
+        "aniId": 37851,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:29:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

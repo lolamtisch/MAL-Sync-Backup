@@ -1,0 +1,90 @@
+{
+  "altTitle": [
+    "ペルソナ3",
+    "Shin Megami Tensei: Persona 3",
+    "P3"
+  ],
+  "authors": [
+    "Shuji Sogabe",
+    "Atlus"
+  ],
+  "id": 32566,
+  "malId": 2566,
+  "type": "manga",
+  "title": "Persona 3",
+  "url": "https://anilist.co/manga/32566",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2566.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d1a950db-4296-4deb-a295-8e20c1b8b65f": {
+        "authors": [
+          "Sogabe Shuuji",
+          "Atlus"
+        ],
+        "identifier": "d1a950db-4296-4deb-a295-8e20c1b8b65f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Persona 3",
+        "url": "https://mangadex.org/title/d1a950db-4296-4deb-a295-8e20c1b8b65f",
+        "image": "https://uploads.mangadex.org/covers/d1a950db-4296-4deb-a295-8e20c1b8b65f/469718f9-8b74-435c-8d18-01fea83fd0c6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2566,
+        "aniId": 32566,
+        "createdAt": "2020-10-12T16:06:09.000Z",
+        "updatedAt": "2021-06-03T17:35:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "persona_3": {
+        "authors": [],
+        "identifier": "persona_3",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Persona 3",
+        "url": "https://manganelo.com/manga/persona_3",
+        "image": "https://avt.mkklcdnv6.com/35/w/7-1583477624.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2566,
+        "aniId": 32566,
+        "createdAt": "2020-10-12T16:24:50.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "persona3": {
+        "authors": [
+          "Atlus",
+          "SOGABE Shuuji"
+        ],
+        "identifier": "persona3",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Persona 3",
+        "url": "https://mangasee123.com/manga/Persona3",
+        "image": "https://cover.nep.li/cover/Persona3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2566,
+        "aniId": 32566,
+        "createdAt": "2020-12-17T14:24:47.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

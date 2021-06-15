@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "かけおちガール",
+    "Run Away With Me, Girl"
+  ],
+  "authors": [
+    "Battan"
+  ],
+  "id": 114003,
+  "malId": 122842,
+  "type": "manga",
+  "title": "Kakeochi Girl",
+  "url": "https://anilist.co/manga/114003",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114003-tvXy37DEmj5N.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:29.000Z",
+  "updatedAt": "2021-05-20T14:58:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fa6ee44f-8c47-4cbc-ba10-9815a100d6b5": {
+        "authors": [
+          "Battan"
+        ],
+        "identifier": "fa6ee44f-8c47-4cbc-ba10-9815a100d6b5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Run Away With Me, Girl",
+        "url": "https://mangadex.org/title/fa6ee44f-8c47-4cbc-ba10-9815a100d6b5",
+        "image": "https://uploads.mangadex.org/covers/fa6ee44f-8c47-4cbc-ba10-9815a100d6b5/24bd30e6-141a-4733-8bb7-d830fa5d6ec3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122842,
+        "aniId": 114003,
+        "createdAt": "2020-10-12T16:17:44.000Z",
+        "updatedAt": "2021-06-07T10:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ry921169": {
+        "authors": [
+          "Battan"
+        ],
+        "identifier": "ry921169",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Run Away With Me, Girl",
+        "url": "https://manganelo.com/manga/ry921169",
+        "image": "https://avt.mkklcdnv6temp.com/46/c/19-1583500854.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 122842,
+        "aniId": 114003,
+        "createdAt": "2020-10-12T16:25:16.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

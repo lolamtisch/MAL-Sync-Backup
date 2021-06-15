@@ -1,0 +1,91 @@
+{
+  "altTitle": [
+    "Strawberry Marshmallow",
+    "苺ましまろ",
+    "Erdbeeren & Marshmallows",
+    "Les petites fraises"
+  ],
+  "authors": [
+    "Barasui",
+    "Gaëlle Ruel"
+  ],
+  "id": 30371,
+  "malId": 371,
+  "type": "manga",
+  "title": "Ichigo Mashimaro",
+  "url": "https://anilist.co/manga/30371",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30371-12DZmJIP37gD.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:31.000Z",
+  "updatedAt": "2021-05-20T14:35:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "840ebe1f-d1a5-4205-9dd0-58124bdda8f7": {
+        "authors": [
+          "Barasui"
+        ],
+        "identifier": "840ebe1f-d1a5-4205-9dd0-58124bdda8f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichigo Mashimaro",
+        "url": "https://mangadex.org/title/840ebe1f-d1a5-4205-9dd0-58124bdda8f7",
+        "image": "https://uploads.mangadex.org/covers/840ebe1f-d1a5-4205-9dd0-58124bdda8f7/7ab2a690-a2ec-4f5a-8e7f-c757ddd5a354.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 371,
+        "aniId": 30371,
+        "createdAt": "2020-10-12T16:03:39.000Z",
+        "updatedAt": "2021-06-02T15:33:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ichigo_mashimaro": {
+        "authors": [
+          "Barasui"
+        ],
+        "identifier": "ichigo_mashimaro",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ichigo Mashimaro",
+        "url": "https://manganelo.com/manga/ichigo_mashimaro",
+        "image": "https://avt.mkklcdnv6.com/41/p/7-1583477848.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 371,
+        "aniId": 30371,
+        "createdAt": "2020-11-29T14:22:34.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ky961533": {
+        "authors": [
+          "Barasui"
+        ],
+        "identifier": "manga-ky961533",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ichigo Mashimaro",
+        "url": "https://manganato.com/manga-ky961533",
+        "image": "https://avt.mkklcdnv6temp.com/41/p/7-1583477848.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 371,
+        "aniId": 30371,
+        "createdAt": "2021-06-04T16:51:50.000Z",
+        "updatedAt": "2021-06-04T17:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

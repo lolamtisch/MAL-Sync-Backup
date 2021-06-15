@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "My Roommate Is A Gumiho",
+    "간 떨어지는 동거",
+    "A Falling Cohabitation",
+    "Living Together",
+    "九尾の狐とキケンな同居",
+    "我的室友是九尾狐"
+  ],
+  "authors": [
+    "Na"
+  ],
+  "id": 119881,
+  "malId": null,
+  "type": "manga",
+  "title": "Gan Tteoreojineun Donggeo",
+  "url": "https://anilist.co/manga/119881",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119881-vXlVMqdjtlW9.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T17:43:19.000Z",
+  "updatedAt": "2021-06-06T14:49:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a3986b2c-892f-4e68-b553-9c1090ee0518": {
+        "authors": [
+          "Na (나)"
+        ],
+        "identifier": "a3986b2c-892f-4e68-b553-9c1090ee0518",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Falling Cohabitation",
+        "url": "https://mangadex.org/title/a3986b2c-892f-4e68-b553-9c1090ee0518",
+        "image": "https://uploads.mangadex.org/covers/a3986b2c-892f-4e68-b553-9c1090ee0518/e7cb1ef1-96b3-4e21-b919-3bf6de686b5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 119881,
+        "createdAt": "2020-10-12T16:15:32.000Z",
+        "updatedAt": "2021-06-06T15:52:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "my-roommate-is-a-gumiho": {
+        "authors": [
+          "Na"
+        ],
+        "identifier": "my-roommate-is-a-gumiho",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "My Roommate is a Gumiho",
+        "url": "https://mangasee123.com/manga/My-Roommate-is-a-Gumiho",
+        "image": "https://cover.nep.li/cover/My-Roommate-is-a-Gumiho.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 119881,
+        "createdAt": "2021-05-18T16:02:30.000Z",
+        "updatedAt": "2021-05-20T17:43:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

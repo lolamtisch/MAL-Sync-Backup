@@ -1,0 +1,54 @@
+{
+  "altTitle": [
+    "ブルーリメイン"
+  ],
+  "id": 4733,
+  "malId": 4733,
+  "type": "anime",
+  "title": "Blue Remains",
+  "url": "https://anilist.co/anime/4733",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4733-kSMKJwd2TXSQ.jpg",
+  "category": "movie",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:37.000Z",
+  "updatedAt": "2021-05-20T14:37:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "08jk": {
+        "identifier": "08jk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blue Remains (Dub)",
+        "url": "https://9anime.to/watch/blue-remains-dub.08jk",
+        "image": "https://static.akacdn.ru/files/images/2018/03/3966a29754055b00832e4e99c0b780fc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4733,
+        "aniId": 4733,
+        "createdAt": "2020-10-12T15:48:47.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "zy9p": {
+        "identifier": "zy9p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Blue Remains",
+        "url": "https://www.9anime.to/watch/blue-remains.zy9p",
+        "image": "https://static.akacdn.ru/files/images/2018/03/69bcba5d4b092cfb600a2eeabba63498.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4733,
+        "aniId": 4733,
+        "createdAt": "2020-10-12T15:57:18.000Z",
+        "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

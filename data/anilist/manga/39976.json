@@ -1,0 +1,64 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Masara Minase"
+  ],
+  "id": 39976,
+  "malId": 9976,
+  "type": "manga",
+  "title": "Aishuu",
+  "url": "https://anilist.co/manga/39976",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/9976-ah7YYiO79Gru.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:59.000Z",
+  "updatedAt": "2021-05-20T14:40:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e6722663-2135-44ce-9309-3691ee9a8edc": {
+        "authors": [
+          "Minase Masara"
+        ],
+        "identifier": "e6722663-2135-44ce-9309-3691ee9a8edc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aishuu",
+        "url": "https://mangadex.org/title/e6722663-2135-44ce-9309-3691ee9a8edc",
+        "image": "https://uploads.mangadex.org/covers/e6722663-2135-44ce-9309-3691ee9a8edc/664f3123-24e3-49e3-a53e-6c5cd3607886.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9976,
+        "aniId": 39976,
+        "createdAt": "2020-10-12T16:06:00.000Z",
+        "updatedAt": "2021-06-03T16:31:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "aishuu": {
+        "authors": [
+          "Minase",
+          "Masara"
+        ],
+        "identifier": "aishuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Aishuu",
+        "url": "https://manganelo.com/manga/aishuu",
+        "image": "https://avt.mkklcdnv6temp.com/5/u/7-1583476513.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9976,
+        "aniId": 39976,
+        "createdAt": "2021-04-15T19:14:57.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "altTitle": [
+    "CUT",
+    "CUT",
+    "クット"
+  ],
+  "authors": [
+    "Touko Kawai"
+  ],
+  "id": 30801,
+  "malId": 801,
+  "type": "manga",
+  "title": "Cut",
+  "url": "https://anilist.co/manga/30801",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30801-GdS5Adc7Kvlv.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:35:44.000Z",
+  "updatedAt": "2021-05-20T14:35:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "48ce9385-781b-4866-a35c-53f73348217f": {
+        "authors": [
+          "Kawai Touko"
+        ],
+        "identifier": "48ce9385-781b-4866-a35c-53f73348217f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "CUT",
+        "url": "https://mangadex.org/title/48ce9385-781b-4866-a35c-53f73348217f",
+        "image": "https://uploads.mangadex.org/covers/48ce9385-781b-4866-a35c-53f73348217f/2b068eb3-9e46-450e-810e-0312787dea0c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 801,
+        "aniId": 30801,
+        "createdAt": "2020-10-12T16:09:12.000Z",
+        "updatedAt": "2021-06-04T15:51:29.000Z",
+        "deletedAt": null
+      },
+      "4b325add-ce42-4092-9b09-9d8e78c28b71": {
+        "authors": [
+          "Hogeol"
+        ],
+        "identifier": "4b325add-ce42-4092-9b09-9d8e78c28b71",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cut",
+        "url": "https://mangadex.org/title/4b325add-ce42-4092-9b09-9d8e78c28b71",
+        "image": "https://uploads.mangadex.org/covers/4b325add-ce42-4092-9b09-9d8e78c28b71/4e569e2d-f737-48c0-a032-d21ee46cfec4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 801,
+        "aniId": 30801,
+        "createdAt": "2020-10-12T16:19:16.000Z",
+        "updatedAt": "2021-06-07T21:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "cut": {
+        "authors": [],
+        "identifier": "cut",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Cut",
+        "url": "https://manganelo.com/manga/cut",
+        "image": "https://avt.mkklcdnv6.com/28/h/6-1583475283.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 801,
+        "aniId": 30801,
+        "createdAt": "2020-10-12T16:22:33.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

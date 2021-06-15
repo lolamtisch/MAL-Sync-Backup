@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "花みちおとめ"
+  ],
+  "authors": [
+    "Hamasin"
+  ],
+  "id": 62199,
+  "malId": 32199,
+  "type": "manga",
+  "title": "Hana Michi Otome",
+  "url": "https://anilist.co/manga/62199",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32199.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:49.000Z",
+  "updatedAt": "2021-05-20T14:47:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "67dd39ed-86ae-4d17-b186-11d3d64842aa": {
+        "authors": [
+          "HAMASIN"
+        ],
+        "identifier": "67dd39ed-86ae-4d17-b186-11d3d64842aa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana Michi Otome",
+        "url": "https://mangadex.org/title/67dd39ed-86ae-4d17-b186-11d3d64842aa",
+        "image": "https://uploads.mangadex.org/covers/67dd39ed-86ae-4d17-b186-11d3d64842aa/63abf434-aec9-468d-89de-8c9711968aee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32199,
+        "aniId": 62199,
+        "createdAt": "2020-10-12T16:04:02.000Z",
+        "updatedAt": "2021-06-02T18:15:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hana_michi_otome": {
+        "authors": [
+          "HAMASIN"
+        ],
+        "identifier": "hana_michi_otome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hana Michi Otome",
+        "url": "https://fanfox.net/manga/hana_michi_otome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10145/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32199,
+        "aniId": 62199,
+        "createdAt": "2021-03-14T09:39:39.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hana-michi-otome": {
+        "authors": [
+          "HAMASIN"
+        ],
+        "identifier": "hana-michi-otome",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hana Michi Otome",
+        "url": "https://mangasee123.com/manga/Hana-Michi-Otome",
+        "image": "https://cover.nep.li/cover/Hana-Michi-Otome.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32199,
+        "aniId": 62199,
+        "createdAt": "2021-04-22T11:27:07.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

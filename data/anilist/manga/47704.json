@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "うさぎの恋"
+  ],
+  "authors": [
+    "Haruka Moto"
+  ],
+  "id": 47704,
+  "malId": 17704,
+  "type": "manga",
+  "title": "Usagi no Koi",
+  "url": "https://anilist.co/manga/47704",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17704.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-06T11:19:08.000Z",
+  "updatedAt": "2021-06-06T11:19:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5dd72c97-94b5-4169-b8eb-d30f22d3ed7a": {
+        "authors": [
+          "MOTO Haruka"
+        ],
+        "identifier": "5dd72c97-94b5-4169-b8eb-d30f22d3ed7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Usagi no Koi",
+        "url": "https://mangadex.org/title/5dd72c97-94b5-4169-b8eb-d30f22d3ed7a",
+        "image": "https://uploads.mangadex.org/covers/5dd72c97-94b5-4169-b8eb-d30f22d3ed7a/81591cbe-d9f9-46ec-bcb3-ac94d7c7b13b.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17704,
+        "aniId": 47704,
+        "createdAt": "2020-10-12T16:15:08.000Z",
+        "updatedAt": "2021-06-06T13:38:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

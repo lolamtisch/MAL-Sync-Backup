@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "青の戦士",
+    "Blue Corner",
+    "Blue Fighter"
+  ],
+  "authors": [
+    "Jirou Taniguchi",
+    "Marley Caribu",
+    "Thibaud Desbief"
+  ],
+  "id": 107323,
+  "malId": 104731,
+  "type": "manga",
+  "title": "Ao no Senshi",
+  "url": "https://anilist.co/manga/107323",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107323-Zy0bWRdCanPn.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:12.000Z",
+  "updatedAt": "2021-05-20T14:55:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fdcb188f-f01f-4341-b80e-17500022ea0e": {
+        "authors": [
+          "TANIGUCHI Jiro",
+          "KARIBU Marei"
+        ],
+        "identifier": "fdcb188f-f01f-4341-b80e-17500022ea0e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ao no Senshi",
+        "url": "https://mangadex.org/title/fdcb188f-f01f-4341-b80e-17500022ea0e",
+        "image": "https://uploads.mangadex.org/covers/fdcb188f-f01f-4341-b80e-17500022ea0e/0eaf8389-4693-4031-a5ed-ea718ed9945d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104731,
+        "aniId": 107323,
+        "createdAt": "2020-11-09T07:43:45.000Z",
+        "updatedAt": "2021-06-08T06:57:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

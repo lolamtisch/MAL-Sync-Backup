@@ -1,0 +1,74 @@
+{
+  "authors": [
+    "Isakawa Megumi"
+  ],
+  "identifier": "2f950e07-120c-435f-8637-48d72c9ec389",
+  "type": "manga",
+  "page": "Mangadex",
+  "title": "The Princess is Delicious When Made Into a Pork Cutlet",
+  "url": "https://mangadex.org/title/2f950e07-120c-435f-8637-48d72c9ec389",
+  "image": "https://uploads.mangadex.org/covers/2f950e07-120c-435f-8637-48d72c9ec389/96285417-18b4-4aff-ad47-6598e18f7575.png",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 85781,
+  "aniId": 86082,
+  "createdAt": "2020-10-12T16:17:07.000Z",
+  "updatedAt": "2021-06-07T05:02:23.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Delicious in Dungeon",
+      "Dungeon Food",
+      "ダンジョン飯"
+    ],
+    "authors": [
+      "Kui, Ryoko"
+    ],
+    "id": 85781,
+    "type": "manga",
+    "title": "Dungeon Meshi",
+    "url": "https://myanimelist.net/manga/85781/Dungeon_Meshi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/148949.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:45:43.000Z",
+    "updatedAt": "2021-05-28T19:56:25.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Delicious in Dungeon",
+      "ダンジョン飯",
+      "Dungeon Food",
+      "Dungeon Meal",
+      "Tragones y Mazmorras",
+      "Gloutons et Dragons",
+      "Подземное питание",
+      "던전밥"
+    ],
+    "authors": [
+      "Ryouko Kui",
+      "Sébastien Ludmann",
+      "Taylor Engel",
+      "Wang",
+      "Marc Bernabé",
+      "Abigail Blackman",
+      "Sandro Cecchi",
+      "Massimiliano Lucidi"
+    ],
+    "id": 86082,
+    "malId": 85781,
+    "type": "manga",
+    "title": "Dungeon Meshi",
+    "url": "https://anilist.co/manga/86082",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86082-it012qMBU8S8.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:52:38.000Z",
+    "updatedAt": "2021-05-20T14:52:38.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/85781/Dungeon_Meshi"
+}

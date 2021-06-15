@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "×ゲーム"
+  ],
+  "authors": [
+    "Conro"
+  ],
+  "id": 106976,
+  "type": "manga",
+  "title": "Batsu Game",
+  "url": "https://myanimelist.net/manga/106976/Batsu_Game",
+  "image": "https://cdn.myanimelist.net/images/manga/3/207493.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:05.000Z",
+  "updatedAt": "2021-05-13T10:55:21.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4bedde50-1af0-4e1f-b23e-b845c2527bf7": {
+        "authors": [
+          "Conro"
+        ],
+        "identifier": "4bedde50-1af0-4e1f-b23e-b845c2527bf7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Batsu Game",
+        "url": "https://mangadex.org/title/4bedde50-1af0-4e1f-b23e-b845c2527bf7",
+        "image": "https://uploads.mangadex.org/covers/4bedde50-1af0-4e1f-b23e-b845c2527bf7/f823bf32-e7e1-4e63-bb04-a09f79e2d992.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106976,
+        "aniId": 98165,
+        "createdAt": "2020-10-12T16:11:01.000Z",
+        "updatedAt": "2021-06-05T05:02:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "batsu_game_conro": {
+        "authors": [
+          "Conro"
+        ],
+        "identifier": "batsu_game_conro",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Batsu Game (Conro)",
+        "url": "https://manganelo.com/manga/batsu_game_conro",
+        "image": "https://avt.mkklcdnv6temp.com/18/x/15-1583492143.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106976,
+        "aniId": 98165,
+        "createdAt": "2021-05-13T10:55:22.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

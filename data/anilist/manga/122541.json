@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "鹿の子高校オシャレ倶楽部",
+    "Kanoko High"
+  ],
+  "authors": [
+    "Kaori Matsumoto"
+  ],
+  "id": 122541,
+  "malId": null,
+  "type": "manga",
+  "title": "Kanoko Koukou Oshare Club",
+  "url": "https://anilist.co/manga/122541",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122541-Zd6Z3v7eygI9.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T01:21:48.000Z",
+  "updatedAt": "2021-06-08T01:21:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ce587cac-b7ae-4c6f-8011-c9f36741e753": {
+        "authors": [
+          "Matsumoto Kaori"
+        ],
+        "identifier": "ce587cac-b7ae-4c6f-8011-c9f36741e753",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanoko High",
+        "url": "https://mangadex.org/title/ce587cac-b7ae-4c6f-8011-c9f36741e753",
+        "image": "https://uploads.mangadex.org/covers/ce587cac-b7ae-4c6f-8011-c9f36741e753/8907a796-ce39-4f81-b9ff-399bcf3b2d81.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122541,
+        "createdAt": "2020-10-12T16:20:49.000Z",
+        "updatedAt": "2021-06-08T01:39:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

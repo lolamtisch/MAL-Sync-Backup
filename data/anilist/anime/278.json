@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "ビューティフル  ジョー",
+    "Beautiful Joe"
+  ],
+  "id": 278,
+  "malId": 278,
+  "type": "anime",
+  "title": "Viewtiful Joe",
+  "url": "https://anilist.co/anime/278",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/278.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:36.000Z",
+  "updatedAt": "2021-05-20T14:33:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "l23m": {
+        "identifier": "l23m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Viewtiful Joe (Dub)",
+        "url": "https://9anime.ru/watch/viewtiful-joe.l23m",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-sZY5PvH-dto/WHdU4AfAixI/AAAAAAABY3M/pNuJYsZ8f5g/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 278,
+        "aniId": 278,
+        "createdAt": "2020-10-12T15:52:56.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "viewtiful-joe-dub": {
+        "identifier": "viewtiful-joe-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Viewtiful Joe (Dub)",
+        "url": "https://www19.gogoanime.io/category/viewtiful-joe-dub",
+        "image": "https://gogocdn.net/cover/viewtiful-joe-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 278,
+        "aniId": 278,
+        "createdAt": "2020-10-12T16:02:13.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

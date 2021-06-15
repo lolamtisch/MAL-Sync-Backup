@@ -1,0 +1,57 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Rie Fujii"
+  ],
+  "id": 35109,
+  "malId": 5109,
+  "type": "manga",
+  "title": "Black Coffee",
+  "url": "https://anilist.co/manga/35109",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5109.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:24.000Z",
+  "updatedAt": "2021-05-20T14:39:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "kw920602": {
+        "authors": [],
+        "identifier": "kw920602",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Coffee & Cat",
+        "url": "https://manganelo.com/manga/kw920602",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1999-kw920602.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5109,
+        "aniId": 35109,
+        "createdAt": "2020-10-12T16:24:03.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      },
+      "lg920338": {
+        "authors": [],
+        "identifier": "lg920338",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Let's Slack Off",
+        "url": "https://manganelo.com/manga/lg920338",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1736-lg920338.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5109,
+        "aniId": 35109,
+        "createdAt": "2020-10-12T16:24:06.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

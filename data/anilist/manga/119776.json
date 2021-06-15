@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "죠르디 24시"
+  ],
+  "authors": [
+    "Jyoleudi",
+    "Gimgeulae"
+  ],
+  "id": 119776,
+  "malId": null,
+  "type": "manga",
+  "title": "Jyordy 24 Hours",
+  "url": "https://anilist.co/manga/119776",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119776-sZwbCrFWX8EK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T22:51:07.000Z",
+  "updatedAt": "2021-06-07T22:51:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "894b68f2-3a49-4cd7-b788-aca67b99fdcb": {
+        "authors": [
+          "죠르디",
+          "김그래"
+        ],
+        "identifier": "894b68f2-3a49-4cd7-b788-aca67b99fdcb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jyordy 24 Hours",
+        "url": "https://mangadex.org/title/894b68f2-3a49-4cd7-b788-aca67b99fdcb",
+        "image": "https://uploads.mangadex.org/covers/894b68f2-3a49-4cd7-b788-aca67b99fdcb/acceb5f8-b739-4308-bb59-c97e2b17597b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119776,
+        "createdAt": "2020-10-12T16:19:44.000Z",
+        "updatedAt": "2021-06-08T00:26:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

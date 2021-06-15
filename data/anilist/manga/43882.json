@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "二の姫の物語",
+    "Ninohime no Monogatari",
+    "Story of Two Princesses",
+    "The Story of the Second Princess",
+    "The Tale of the Second Princess",
+    "二姬爱物语"
+  ],
+  "authors": [
+    "Kaneyoshi Izumi"
+  ],
+  "id": 43882,
+  "malId": 13882,
+  "type": "manga",
+  "title": "Ni no Hime no Monogatari",
+  "url": "https://anilist.co/manga/43882",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43882-OpFOeqqOPpcr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:42.000Z",
+  "updatedAt": "2021-05-20T14:42:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5f38fe0-779d-4228-87c7-9be64b52dd07": {
+        "authors": [
+          "Izumi Kaneyoshi"
+        ],
+        "identifier": "b5f38fe0-779d-4228-87c7-9be64b52dd07",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ninohime no Monogatari",
+        "url": "https://mangadex.org/title/b5f38fe0-779d-4228-87c7-9be64b52dd07",
+        "image": "https://uploads.mangadex.org/covers/b5f38fe0-779d-4228-87c7-9be64b52dd07/d4498684-4267-46d5-b4ee-8ea59c79a138.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13882,
+        "aniId": 43882,
+        "createdAt": "2020-10-12T16:03:20.000Z",
+        "updatedAt": "2021-06-02T13:18:02.000Z",
+        "deletedAt": null
+      },
+      "4011345d-17cf-4387-9661-8dc3fc07db64": {
+        "authors": [
+          "Maodan Dangong Chang"
+        ],
+        "identifier": "4011345d-17cf-4387-9661-8dc3fc07db64",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Coddled Princess's Second Life",
+        "url": "https://mangadex.org/title/4011345d-17cf-4387-9661-8dc3fc07db64",
+        "image": "https://uploads.mangadex.org/covers/4011345d-17cf-4387-9661-8dc3fc07db64/7ab2f20d-0b5b-45ee-a8b3-8595b1f48f5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13882,
+        "aniId": 43882,
+        "createdAt": "2020-10-12T16:15:05.000Z",
+        "updatedAt": "2021-06-06T10:37:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

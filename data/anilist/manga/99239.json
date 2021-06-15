@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ミスターゴシップ"
+  ],
+  "authors": [
+    "Komachi Katsura"
+  ],
+  "id": 99239,
+  "malId": 102201,
+  "type": "manga",
+  "title": "Mr. Gossip",
+  "url": "https://anilist.co/manga/99239",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99239-VmrqhI4c2EXN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:55.000Z",
+  "updatedAt": "2021-05-20T14:54:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1d2c4e8e-206b-46f6-bb5f-695765a5de6a": {
+        "authors": [
+          "Katsura Komachi"
+        ],
+        "identifier": "1d2c4e8e-206b-46f6-bb5f-695765a5de6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mister Gossip",
+        "url": "https://mangadex.org/title/1d2c4e8e-206b-46f6-bb5f-695765a5de6a",
+        "image": "https://uploads.mangadex.org/covers/1d2c4e8e-206b-46f6-bb5f-695765a5de6a/1c157481-f4dc-497c-a601-7b29065883d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102201,
+        "aniId": 99239,
+        "createdAt": "2020-10-12T16:10:14.000Z",
+        "updatedAt": "2021-06-04T23:20:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

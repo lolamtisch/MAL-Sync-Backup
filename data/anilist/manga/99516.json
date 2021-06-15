@@ -1,0 +1,72 @@
+{
+  "altTitle": [
+    "Welcome Home",
+    "ただいま、おかえり",
+    "我回来啦，欢迎回来",
+    "Welcome Back, I'm Home",
+    "Tadaima, Okaeri: Kagayaku Hi",
+    "Tadaima, Okaeri: Mata Ashita",
+    "Tadaima, Okaeri: Hitoyasumi",
+    "Bienvenue à la maison !",
+    "ただいま、おかえり－かがやくひ－",
+    "ただいま、おかえりーひとやすみー"
+  ],
+  "authors": [
+    "Ichi Ichikawa"
+  ],
+  "id": 99516,
+  "malId": 103063,
+  "type": "manga",
+  "title": "Tadaima, Okaeri",
+  "url": "https://anilist.co/manga/99516",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99516-OUtAN5fFEUtL.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:01.000Z",
+  "updatedAt": "2021-05-20T14:55:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d3ffb54-73a6-4bf3-b111-782ec4173999": {
+        "authors": [
+          "Ichikawa Ichi"
+        ],
+        "identifier": "0d3ffb54-73a6-4bf3-b111-782ec4173999",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tadaima, Okaeri",
+        "url": "https://mangadex.org/title/0d3ffb54-73a6-4bf3-b111-782ec4173999",
+        "image": "https://uploads.mangadex.org/covers/0d3ffb54-73a6-4bf3-b111-782ec4173999/ccf35ddb-9576-4a24-ba20-92e0f5225080.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103063,
+        "aniId": 99516,
+        "createdAt": "2020-10-12T16:09:50.000Z",
+        "updatedAt": "2021-06-04T20:21:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tadaima_okaeri": {
+        "authors": [],
+        "identifier": "tadaima_okaeri",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tadaima, Okaeri",
+        "url": "https://manganelo.com/manga/tadaima_okaeri",
+        "image": "https://avt.mkklcdnv6.com/3/t/15-1583491602.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103063,
+        "aniId": 99516,
+        "createdAt": "2020-10-12T16:25:37.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

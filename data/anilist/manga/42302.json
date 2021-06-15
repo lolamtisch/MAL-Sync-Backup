@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "珈琲時間",
+    "Kōhī Jikan",
+    "Koohii Jikan",
+    "Coffee Time"
+  ],
+  "authors": [
+    "Tetsuya Toyoda"
+  ],
+  "id": 42302,
+  "malId": 12302,
+  "type": "manga",
+  "title": "Coffee Jikan",
+  "url": "https://anilist.co/manga/42302",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b42302-RCVk0PiKiRSY.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:18.000Z",
+  "updatedAt": "2021-05-20T14:42:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5024b9cb-b3fd-46d2-a3ab-5adbef22ed74": {
+        "authors": [
+          "Toyoda Tetsuya"
+        ],
+        "identifier": "5024b9cb-b3fd-46d2-a3ab-5adbef22ed74",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koohi Jikan",
+        "url": "https://mangadex.org/title/5024b9cb-b3fd-46d2-a3ab-5adbef22ed74",
+        "image": "https://uploads.mangadex.org/covers/5024b9cb-b3fd-46d2-a3ab-5adbef22ed74/27daea4e-d7e4-4caf-b27a-25f631a9f4d0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12302,
+        "aniId": 42302,
+        "createdAt": "2020-10-12T16:04:16.000Z",
+        "updatedAt": "2021-06-02T19:54:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

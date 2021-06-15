@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Me and an Alien",
+    "僕と宇宙人"
+  ],
+  "authors": [
+    "NOBEL"
+  ],
+  "id": 108452,
+  "type": "manga",
+  "title": "Boku to Uchuujin",
+  "url": "https://myanimelist.net/manga/108452/Boku_to_Uchuujin",
+  "image": "https://cdn.myanimelist.net/images/manga/1/198624.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:09.000Z",
+  "updatedAt": "2021-01-31T16:01:53.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b6ba59dd-a3c6-4c25-a578-b68ae3b3f43a": {
+        "authors": [
+          "NOBEL"
+        ],
+        "identifier": "b6ba59dd-a3c6-4c25-a578-b68ae3b3f43a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Alien Days",
+        "url": "https://mangadex.org/title/b6ba59dd-a3c6-4c25-a578-b68ae3b3f43a",
+        "image": "https://uploads.mangadex.org/covers/b6ba59dd-a3c6-4c25-a578-b68ae3b3f43a/3dcdf20c-f859-437b-b069-2af36cb54834.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108452,
+        "aniId": 97837,
+        "createdAt": "2020-10-12T16:10:51.000Z",
+        "updatedAt": "2021-06-05T03:51:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "boku_to_uchuujin": {
+        "authors": [
+          "Nobel"
+        ],
+        "identifier": "boku_to_uchuujin",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Boku To Uchuujin",
+        "url": "https://manganelo.com/manga/boku_to_uchuujin",
+        "image": "https://avt.mkklcdnv6.com/37/z/15-1583492939.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108452,
+        "aniId": 97837,
+        "createdAt": "2021-01-31T16:01:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

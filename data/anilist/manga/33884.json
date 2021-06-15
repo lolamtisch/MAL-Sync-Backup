@@ -1,0 +1,111 @@
+{
+  "altTitle": [
+    "かのこん"
+  ],
+  "authors": [
+    "Rin Yamaki",
+    "Katsumi Nishino",
+    "Koin"
+  ],
+  "id": 33884,
+  "malId": 3884,
+  "type": "manga",
+  "title": "Kanokon",
+  "url": "https://anilist.co/manga/33884",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3884.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:18.000Z",
+  "updatedAt": "2021-05-20T14:38:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "76e29db7-f094-48b8-a74a-0cc93a9e9c6f": {
+        "authors": [
+          "Nishino Katsumi",
+          "Yamaki Rin"
+        ],
+        "identifier": "76e29db7-f094-48b8-a74a-0cc93a9e9c6f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanokon",
+        "url": "https://mangadex.org/title/76e29db7-f094-48b8-a74a-0cc93a9e9c6f",
+        "image": "https://uploads.mangadex.org/covers/76e29db7-f094-48b8-a74a-0cc93a9e9c6f/3f745b61-cafe-4111-b606-999ac912c287.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3884,
+        "aniId": 33884,
+        "createdAt": "2020-10-12T16:02:29.000Z",
+        "updatedAt": "2021-06-02T07:21:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kanokon": {
+        "authors": [],
+        "identifier": "kanokon",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kanokon",
+        "url": "https://manganelo.com/manga/kanokon",
+        "image": "https://avt.mkklcdnv6.com/48/t/4-1583471732.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3884,
+        "aniId": 33884,
+        "createdAt": "2020-10-12T16:23:50.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kanokon": {
+        "authors": [
+          "NISHINO Katsumi"
+        ],
+        "identifier": "kanokon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kanokon",
+        "url": "https://fanfox.net/manga/kanokon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/739/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3884,
+        "aniId": 33884,
+        "createdAt": "2021-03-26T13:49:48.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kanokon": {
+        "authors": [
+          "NISHINO Katsumi",
+          "YAMAKI Rin"
+        ],
+        "identifier": "kanokon",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kanokon",
+        "url": "https://mangasee123.com/manga/Kanokon",
+        "image": "https://cover.nep.li/cover/Kanokon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3884,
+        "aniId": 33884,
+        "createdAt": "2021-04-22T02:27:29.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

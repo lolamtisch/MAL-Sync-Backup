@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "Delusional Love",
+    "被愛妄想"
+  ],
+  "authors": [
+    "Uzuki Nakamura"
+  ],
+  "id": 86632,
+  "malId": 71787,
+  "type": "manga",
+  "title": "Hiai Mousou",
+  "url": "https://anilist.co/manga/86632",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86632-XHmGeOc5iqe7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:35.000Z",
+  "updatedAt": "2021-05-20T14:51:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2f063073-1990-4b91-8906-a789d721bcd8": {
+        "authors": [
+          "NAKAMURA Uzuki"
+        ],
+        "identifier": "2f063073-1990-4b91-8906-a789d721bcd8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Delusional Love",
+        "url": "https://mangadex.org/title/2f063073-1990-4b91-8906-a789d721bcd8",
+        "image": "https://uploads.mangadex.org/covers/2f063073-1990-4b91-8906-a789d721bcd8/4578d862-b6b5-4770-b855-926d9f97f171.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71787,
+        "aniId": 86632,
+        "createdAt": "2020-10-12T16:09:10.000Z",
+        "updatedAt": "2021-06-04T15:39:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hiai_mousou": {
+        "authors": [],
+        "identifier": "hiai_mousou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hiai Mousou",
+        "url": "https://manganelo.com/manga/hiai_mousou",
+        "image": "https://avt.mkklcdnv6.com/31/s/1-1583464942.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71787,
+        "aniId": 86632,
+        "createdAt": "2020-10-12T16:23:20.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "delusional-love": {
+        "authors": [
+          "NAKAMURA Uzuki"
+        ],
+        "identifier": "delusional-love",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Delusional Love",
+        "url": "https://mangasee123.com/manga/Delusional-Love",
+        "image": "https://cover.nep.li/cover/Delusional-Love.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 71787,
+        "aniId": 86632,
+        "createdAt": "2021-02-01T18:31:55.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

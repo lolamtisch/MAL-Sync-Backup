@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Regatta: Kimi to Ita Eien",
+    "レガッタ〜君といた永遠〜",
+    "Regatta"
+  ],
+  "authors": [
+    "Hidenori Hara"
+  ],
+  "id": 50532,
+  "malId": 20532,
+  "type": "manga",
+  "title": "Regatta: Kimi to Ita Eien",
+  "url": "https://anilist.co/manga/50532",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx50532-Ng8vvIAZBzRJ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:32.000Z",
+  "updatedAt": "2021-05-20T14:45:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8b91b3a7-305a-4da8-ac9e-5092442f0c7a": {
+        "authors": [
+          "Hara Hidenori"
+        ],
+        "identifier": "8b91b3a7-305a-4da8-ac9e-5092442f0c7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Regatta",
+        "url": "https://mangadex.org/title/8b91b3a7-305a-4da8-ac9e-5092442f0c7a",
+        "image": "https://uploads.mangadex.org/covers/8b91b3a7-305a-4da8-ac9e-5092442f0c7a/1c9c8dff-4b8d-44ef-9e7c-eeb56ab61258.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20532,
+        "aniId": 50532,
+        "createdAt": "2020-10-12T16:03:42.000Z",
+        "updatedAt": "2021-06-02T15:50:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "regatta": {
+        "authors": [
+          "HARA Hidenori"
+        ],
+        "identifier": "regatta",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Regatta",
+        "url": "https://mangasee123.com/manga/Regatta",
+        "image": "https://cover.nep.li/cover/Regatta.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 20532,
+        "aniId": 50532,
+        "createdAt": "2021-02-19T13:04:14.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

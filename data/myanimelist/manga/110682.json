@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "スクラッチブルー"
+  ],
+  "authors": [
+    "Mitsuya, Bond"
+  ],
+  "id": 110682,
+  "type": "manga",
+  "title": "Scratch Blue",
+  "url": "https://myanimelist.net/manga/110682/Scratch_Blue",
+  "image": "https://cdn.myanimelist.net/images/manga/3/213977.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T09:06:19.000Z",
+  "updatedAt": "2021-06-05T09:06:19.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "279ed1cf-c182-4700-87fd-112c6edd2000": {
+        "authors": [
+          "Mitsuya Bond"
+        ],
+        "identifier": "279ed1cf-c182-4700-87fd-112c6edd2000",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Scratch Blue",
+        "url": "https://mangadex.org/title/279ed1cf-c182-4700-87fd-112c6edd2000",
+        "image": "https://uploads.mangadex.org/covers/279ed1cf-c182-4700-87fd-112c6edd2000/e1ed81ef-55fc-4cf3-a60d-d3bcb0dd8f61.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 110682,
+        "aniId": 100585,
+        "createdAt": "2020-10-12T16:11:19.000Z",
+        "updatedAt": "2021-06-05T09:06:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

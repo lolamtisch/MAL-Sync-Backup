@@ -1,0 +1,73 @@
+{
+  "altTitle": [
+    "The Lady and the Beast",
+    "그녀와 야수",
+    "She and the Beast",
+    "The Girl and the Beast",
+    "The Woman and the Beast",
+    "Ella y la Bestia",
+    "Kız ve Canavar"
+  ],
+  "authors": [
+    "Maginot Seon",
+    "Seul Hong"
+  ],
+  "id": 123995,
+  "malId": null,
+  "type": "manga",
+  "title": "Geunyowa Yasu",
+  "url": "https://anilist.co/manga/123995",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123995-9OVJ0vQdnOld.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T02:12:57.000Z",
+  "updatedAt": "2021-06-08T02:51:31.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e959ee87-cae7-4903-82b3-fa8800bb8ce6": {
+        "authors": [
+          "The Maginot LIne",
+          "Hongseul"
+        ],
+        "identifier": "e959ee87-cae7-4903-82b3-fa8800bb8ce6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Lady and the Beast",
+        "url": "https://mangadex.org/title/e959ee87-cae7-4903-82b3-fa8800bb8ce6",
+        "image": "https://uploads.mangadex.org/covers/e959ee87-cae7-4903-82b3-fa8800bb8ce6/8543a565-7d82-481e-a57f-7bb6aa045b43.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123995,
+        "createdAt": "2020-10-12T16:21:29.000Z",
+        "updatedAt": "2021-06-08T06:39:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jl986568": {
+        "authors": [
+          "The Maginot Line"
+        ],
+        "identifier": "manga-jl986568",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Lady And The Beast",
+        "url": "https://readmanganato.com/manga-jl986568",
+        "image": "https://avt.mkklcdnv6temp.com/12/b/22-1599926327.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 123995,
+        "createdAt": "2021-05-31T09:44:33.000Z",
+        "updatedAt": "2021-05-31T09:44:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

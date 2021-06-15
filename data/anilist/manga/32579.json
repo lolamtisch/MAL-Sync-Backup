@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "もう一人のマリオネット",
+    "The Other Marionette",
+    "Another Marionette"
+  ],
+  "authors": [
+    "Chiho Saitou"
+  ],
+  "id": 32579,
+  "malId": 2579,
+  "type": "manga",
+  "title": "Mou Hitori no Marionette",
+  "url": "https://anilist.co/manga/32579",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b32579-ES4AUqBBdaxk.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:12.000Z",
+  "updatedAt": "2021-05-20T14:37:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "845a5d9b-aded-4ba9-8ada-c4baefc3783f": {
+        "authors": [
+          "Saitou Chiho"
+        ],
+        "identifier": "845a5d9b-aded-4ba9-8ada-c4baefc3783f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mou Hitori no Marionette",
+        "url": "https://mangadex.org/title/845a5d9b-aded-4ba9-8ada-c4baefc3783f",
+        "image": "https://uploads.mangadex.org/covers/845a5d9b-aded-4ba9-8ada-c4baefc3783f/2b473a32-b36c-4046-af2c-825692155445.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2579,
+        "aniId": 32579,
+        "createdAt": "2020-10-12T16:04:43.000Z",
+        "updatedAt": "2021-06-02T22:55:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

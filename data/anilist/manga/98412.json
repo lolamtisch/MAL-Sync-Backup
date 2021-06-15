@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "I Have No Idea About Boys",
+    "男の子のことは何も知らない",
+    "一点也不懂男孩心"
+  ],
+  "authors": [
+    "Komachi Katsura"
+  ],
+  "id": 98412,
+  "malId": 101099,
+  "type": "manga",
+  "title": "Otokonoko no Koto wa Nani mo Shiranai",
+  "url": "https://anilist.co/manga/98412",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98412-4L769GQoB4J5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T03:30:51.000Z",
+  "updatedAt": "2021-06-03T03:30:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1697e1f5-0e53-4555-b321-a389e19da067": {
+        "authors": [
+          "Katsura Komachi"
+        ],
+        "identifier": "1697e1f5-0e53-4555-b321-a389e19da067",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Otokonoko no Koto wa Nani mo Shiranai",
+        "url": "https://mangadex.org/title/1697e1f5-0e53-4555-b321-a389e19da067",
+        "image": "https://uploads.mangadex.org/covers/1697e1f5-0e53-4555-b321-a389e19da067/32b9ca70-6dca-49bd-a71d-6f2b21ae57be.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101099,
+        "aniId": 98412,
+        "createdAt": "2020-10-12T16:10:01.000Z",
+        "updatedAt": "2021-06-04T22:06:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Mermaid's Egg",
+    "年年有鱼了！",
+    "There Are Fish Every Year!"
+  ],
+  "authors": [
+    "Tang Shi Wan"
+  ],
+  "id": 120476,
+  "malId": null,
+  "type": "manga",
+  "title": "Nian Nian You Yule!",
+  "url": "https://anilist.co/manga/120476",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120476-JFIdsKfGWz4z.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T09:21:05.000Z",
+  "updatedAt": "2021-06-07T09:21:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ed5a1a6f-5511-4aff-b261-f21ac6763d89": {
+        "authors": [
+          "",
+          "汤十碗"
+        ],
+        "identifier": "ed5a1a6f-5511-4aff-b261-f21ac6763d89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mermaid's Egg",
+        "url": "https://mangadex.org/title/ed5a1a6f-5511-4aff-b261-f21ac6763d89",
+        "image": "https://uploads.mangadex.org/covers/ed5a1a6f-5511-4aff-b261-f21ac6763d89/424ca924-7633-44c3-8736-8ef46b81fc89.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120476,
+        "createdAt": "2020-10-12T16:17:36.000Z",
+        "updatedAt": "2021-06-07T10:04:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Digimon Zero Two",
+    "Digimon 02"
+  ],
+  "authors": [
+    "Yu, Yuen Wong"
+  ],
+  "id": 2388,
+  "type": "manga",
+  "title": "Digimon Zero Two",
+  "url": "https://myanimelist.net/manga/2388/Digimon_Zero_Two",
+  "image": "https://cdn.myanimelist.net/images/manga/1/32658.jpg",
+  "category": "Manhua",
+  "hentai": false,
+  "createdAt": "2021-03-08T16:40:50.000Z",
+  "updatedAt": "2021-06-05T10:49:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "de23c1b0-a485-4fa2-ae7f-d6d1809b596a": {
+        "authors": [
+          "Yu Yuen Wong",
+          "Hongo Akiyoshi"
+        ],
+        "identifier": "de23c1b0-a485-4fa2-ae7f-d6d1809b596a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Digimon Zero Two",
+        "url": "https://mangadex.org/title/de23c1b0-a485-4fa2-ae7f-d6d1809b596a",
+        "image": "https://uploads.mangadex.org/covers/de23c1b0-a485-4fa2-ae7f-d6d1809b596a/fbcd2138-08ca-4069-ba10-17cec786d0b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2388,
+        "aniId": 32388,
+        "createdAt": "2020-10-12T16:11:42.000Z",
+        "updatedAt": "2021-06-05T12:43:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "digimon_zero_two": {
+        "authors": [
+          "HONGO Akiyoshi",
+          "YU Yuen Wong"
+        ],
+        "identifier": "digimon_zero_two",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Digimon Zero Two",
+        "url": "https://fanfox.net/manga/digimon_zero_two/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37677/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2388,
+        "aniId": 32388,
+        "createdAt": "2021-03-08T16:40:52.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

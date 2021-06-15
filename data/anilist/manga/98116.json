@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "リリィ"
+  ],
+  "authors": [
+    "Mayo Ebisawa"
+  ],
+  "id": 98116,
+  "malId": 103828,
+  "type": "manga",
+  "title": "LiLy",
+  "url": "https://anilist.co/manga/98116",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b98116-MoUg7TMXzTBA.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:05.000Z",
+  "updatedAt": "2021-05-20T14:55:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64ab62c3-2edd-41cd-a4da-96cbf0907e03": {
+        "authors": [
+          "Ebisawa Mayo"
+        ],
+        "identifier": "64ab62c3-2edd-41cd-a4da-96cbf0907e03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "LiLy",
+        "url": "https://mangadex.org/title/64ab62c3-2edd-41cd-a4da-96cbf0907e03",
+        "image": "https://uploads.mangadex.org/covers/64ab62c3-2edd-41cd-a4da-96cbf0907e03/6ce83de2-ed57-432b-928a-2ea16efab897.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103828,
+        "aniId": 98116,
+        "createdAt": "2020-10-12T16:10:23.000Z",
+        "updatedAt": "2021-06-05T00:28:18.000Z",
+        "deletedAt": null
+      },
+      "724dd143-c35c-478a-9cd8-fa8b58eca714": {
+        "authors": [
+          "Ratana Satis"
+        ],
+        "identifier": "724dd143-c35c-478a-9cd8-fa8b58eca714",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lily Love 2",
+        "url": "https://mangadex.org/title/724dd143-c35c-478a-9cd8-fa8b58eca714",
+        "image": "https://uploads.mangadex.org/covers/724dd143-c35c-478a-9cd8-fa8b58eca714/275be978-020f-49bc-8e00-2e831d3a9d3a.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103828,
+        "aniId": 98116,
+        "createdAt": "2020-10-12T16:13:44.000Z",
+        "updatedAt": "2021-06-05T23:38:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gt918504": {
+        "authors": [
+          "Yy"
+        ],
+        "identifier": "gt918504",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Lily ",
+        "url": "https://manganelo.com/manga/gt918504",
+        "image": "https://avt.mkklcdnv6temp.com/48/d/17-1583497000.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103828,
+        "aniId": 98116,
+        "createdAt": "2020-10-12T16:23:10.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xo974671": {
+        "authors": [
+          "Ebisawa Mayo"
+        ],
+        "identifier": "manga-xo974671",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Lily (Ebisawa Mayo)",
+        "url": "https://manganato.com/manga-xo974671",
+        "image": "https://avt.mkklcdnv6temp.com/47/x/14-1583491404.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 103828,
+        "aniId": 98116,
+        "createdAt": "2021-06-15T05:58:34.000Z",
+        "updatedAt": "2021-06-15T07:27:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "劇場版 FAIRY TAIL 序章 「はじまりの朝」",
+    "Fairy Tail: Houou no Miko Prologue",
+    "Fairy Tail: Priestess of the Phoenix - The Sunrise",
+    "Fairy Tail: Priestess of the Phoenix - The First Morning"
+  ],
+  "authors": [
+    "Hiro Mashima"
+  ],
+  "id": 84697,
+  "malId": 54697,
+  "type": "manga",
+  "title": "Fairy Tail: Houou no Miko - Hajimari no Asa",
+  "url": "https://anilist.co/manga/84697",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/54697.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:01.000Z",
+  "updatedAt": "2021-05-20T14:50:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "58b07096-b80a-47ab-a1d8-3a050fe1cf08": {
+        "authors": [
+          "Mashima Hiro"
+        ],
+        "identifier": "58b07096-b80a-47ab-a1d8-3a050fe1cf08",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fairy Tail The Movie: Priestess Of The Phoenix",
+        "url": "https://mangadex.org/title/58b07096-b80a-47ab-a1d8-3a050fe1cf08",
+        "image": "https://uploads.mangadex.org/covers/58b07096-b80a-47ab-a1d8-3a050fe1cf08/c6482e66-f646-4844-9ee3-e3b26dab5cdf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54697,
+        "aniId": 84697,
+        "createdAt": "2020-10-12T16:11:21.000Z",
+        "updatedAt": "2021-06-05T07:41:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fairy_tail_the_movie_priestess_of_the_phoenix_the_sunrise": {
+        "authors": [
+          "MASHIMA Hiro"
+        ],
+        "identifier": "fairy_tail_the_movie_priestess_of_the_phoenix_the_sunrise",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fairy Tail the Movie: Priestess of The Phoenix - The Sunrise",
+        "url": "https://fanfox.net/manga/fairy_tail_the_movie_priestess_of_the_phoenix_the_sunrise/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12699/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54697,
+        "aniId": 84697,
+        "createdAt": "2021-02-24T17:25:41.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

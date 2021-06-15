@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "Oujisama Level 1",
+    "王子さまLv1",
+    "Oujisama Level 1",
+    "Oujisama Level One",
+    "Oujisama Lv.1"
+  ],
+  "authors": [
+    "Yuko Kuwabara",
+    "Alice Blue"
+  ],
+  "id": 33226,
+  "malId": 3226,
+  "type": "manga",
+  "title": "Oujisama Lv1",
+  "url": "https://anilist.co/manga/33226",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33226-tE58puWAVBQW.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:05.000Z",
+  "updatedAt": "2021-05-20T14:38:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2b779fd-b395-4faf-beb1-1a406b403d55": {
+        "authors": [
+          "Kuwabara Yuuko",
+          "Alice Blue"
+        ],
+        "identifier": "e2b779fd-b395-4faf-beb1-1a406b403d55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oujisama Lv1",
+        "url": "https://mangadex.org/title/e2b779fd-b395-4faf-beb1-1a406b403d55",
+        "image": "https://uploads.mangadex.org/covers/e2b779fd-b395-4faf-beb1-1a406b403d55/506c45a7-6df6-424c-99af-47612b975bd3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3226,
+        "aniId": 33226,
+        "createdAt": "2020-10-12T16:06:02.000Z",
+        "updatedAt": "2021-06-03T16:37:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "watashi_no_oujisama": {
+        "authors": [],
+        "identifier": "watashi_no_oujisama",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Watashi no Oujisama",
+        "url": "https://manganelo.com/manga/watashi_no_oujisama",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/13562-watashi_no_oujisama.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3226,
+        "aniId": 33226,
+        "createdAt": "2020-10-12T16:26:07.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

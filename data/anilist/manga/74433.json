@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "僕が好きだと言えないワケ",
+    "Boku ga Sukida to Ienai Wake"
+  ],
+  "authors": [
+    "Seiryou Hyuuga"
+  ],
+  "id": 74433,
+  "malId": 44433,
+  "type": "manga",
+  "title": "Boku ga Suki da to Ienai Wake",
+  "url": "https://anilist.co/manga/74433",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/44433.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-06T03:19:18.000Z",
+  "updatedAt": "2021-06-06T03:19:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e1af3a7f-4aef-482b-b773-ec0a1a53abc0": {
+        "authors": [
+          "Hyuuga Seiryou"
+        ],
+        "identifier": "e1af3a7f-4aef-482b-b773-ec0a1a53abc0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku ga Suki da to Ienai Wake",
+        "url": "https://mangadex.org/title/e1af3a7f-4aef-482b-b773-ec0a1a53abc0",
+        "image": "https://uploads.mangadex.org/covers/e1af3a7f-4aef-482b-b773-ec0a1a53abc0/48a78b06-5e3c-44ff-a0ce-14daef738ff7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44433,
+        "aniId": 74433,
+        "createdAt": "2020-10-12T16:14:09.000Z",
+        "updatedAt": "2021-06-06T10:22:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

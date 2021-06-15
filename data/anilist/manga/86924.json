@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "独占権利書",
+    "Exclusive Rights"
+  ],
+  "authors": [
+    "Akiho Kousaka"
+  ],
+  "id": 86924,
+  "malId": 61295,
+  "type": "manga",
+  "title": "Dokusen Kenrisho",
+  "url": "https://anilist.co/manga/86924",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56924-fB1WOZmgcxpN.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:40.000Z",
+  "updatedAt": "2021-05-20T14:50:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "38efab33-352e-4275-a46f-a11b16ff6776": {
+        "authors": [
+          "Kousaka Akiho"
+        ],
+        "identifier": "38efab33-352e-4275-a46f-a11b16ff6776",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dokusen Kenrisho",
+        "url": "https://mangadex.org/title/38efab33-352e-4275-a46f-a11b16ff6776",
+        "image": "https://uploads.mangadex.org/covers/38efab33-352e-4275-a46f-a11b16ff6776/9220a527-3c6a-48de-9b58-0da4f1a83f4b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61295,
+        "aniId": 86924,
+        "createdAt": "2020-10-12T16:09:30.000Z",
+        "updatedAt": "2021-06-04T18:01:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

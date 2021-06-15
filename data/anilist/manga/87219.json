@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "안녕하세요, 당신의 스토커입니다",
+    "Hello, I'm Your Stalker"
+  ],
+  "authors": [
+    "Kim Tac"
+  ],
+  "id": 87219,
+  "malId": null,
+  "type": "manga",
+  "title": "Annyeonghaseyo, Dangsin-ui Stalker Ibnida",
+  "url": "https://anilist.co/manga/87219",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b87219-fjUJ5m2w3ZEd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T20:19:50.000Z",
+  "updatedAt": "2021-06-04T20:19:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7d8dcb07-cfb3-4b67-83fe-095873d895d1": {
+        "authors": [
+          "Kim Tac"
+        ],
+        "identifier": "7d8dcb07-cfb3-4b67-83fe-095873d895d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hello, I'm Your Stalker",
+        "url": "https://mangadex.org/title/7d8dcb07-cfb3-4b67-83fe-095873d895d1",
+        "image": "https://uploads.mangadex.org/covers/7d8dcb07-cfb3-4b67-83fe-095873d895d1/359b9cd1-0008-4445-b3af-e2c316454333.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 87219,
+        "createdAt": "2020-10-12T16:09:47.000Z",
+        "updatedAt": "2021-06-04T20:37:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

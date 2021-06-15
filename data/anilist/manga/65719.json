@@ -1,0 +1,107 @@
+{
+  "altTitle": [
+    "日々蝶々"
+  ],
+  "authors": [
+    "Suu Morishita"
+  ],
+  "id": 65719,
+  "malId": 35719,
+  "type": "manga",
+  "title": "Hibi Chouchou",
+  "url": "https://anilist.co/manga/65719",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35719.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:25.000Z",
+  "updatedAt": "2021-05-20T14:48:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0703613c-5508-425b-9094-12d72ee5628d": {
+        "authors": [
+          "Morishita Suu"
+        ],
+        "identifier": "0703613c-5508-425b-9094-12d72ee5628d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hibi Chouchou",
+        "url": "https://mangadex.org/title/0703613c-5508-425b-9094-12d72ee5628d",
+        "image": "https://uploads.mangadex.org/covers/0703613c-5508-425b-9094-12d72ee5628d/7d34653f-503a-4fdb-9ab3-7a91eea230c8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35719,
+        "aniId": 65719,
+        "createdAt": "2020-10-12T16:04:12.000Z",
+        "updatedAt": "2021-06-02T19:24:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "hibi_chouchou": {
+        "authors": [],
+        "identifier": "hibi_chouchou",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hibi Chouchou",
+        "url": "https://manganelo.com/manga/hibi_chouchou",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1866-hibi_chouchou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35719,
+        "aniId": 65719,
+        "createdAt": "2020-10-12T16:23:20.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hibi_chouchou": {
+        "authors": [
+          "MORISHITA Suu"
+        ],
+        "identifier": "hibi_chouchou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hibi Chouchou",
+        "url": "https://fanfox.net/manga/hibi_chouchou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10263/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35719,
+        "aniId": 65719,
+        "createdAt": "2020-12-20T16:55:03.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hibi-chouchou": {
+        "authors": [
+          "MORISHITA Suu"
+        ],
+        "identifier": "hibi-chouchou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hibi Chouchou",
+        "url": "https://mangasee123.com/manga/Hibi-Chouchou",
+        "image": "https://cover.nep.li/cover/Hibi-Chouchou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35719,
+        "aniId": 65719,
+        "createdAt": "2020-12-21T17:26:05.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

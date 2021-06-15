@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "The Country of Tanabata"
+  ],
+  "authors": [
+    "Hitoshi Iwaaki"
+  ],
+  "id": 42750,
+  "malId": 12750,
+  "type": "manga",
+  "title": "Tanabata no Kuni",
+  "url": "https://anilist.co/manga/42750",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/12750.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:25.000Z",
+  "updatedAt": "2021-05-20T14:42:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac2638c5-9aa7-4283-ab51-d2a85c1b8109": {
+        "authors": [
+          "Iwaaki Hitoshi"
+        ],
+        "identifier": "ac2638c5-9aa7-4283-ab51-d2a85c1b8109",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Country of Tanabata",
+        "url": "https://mangadex.org/title/ac2638c5-9aa7-4283-ab51-d2a85c1b8109",
+        "image": "https://uploads.mangadex.org/covers/ac2638c5-9aa7-4283-ab51-d2a85c1b8109/422b52fb-01bb-4db4-85fa-6dbaadd957f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12750,
+        "aniId": 42750,
+        "createdAt": "2020-10-12T16:04:33.000Z",
+        "updatedAt": "2021-06-02T21:48:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

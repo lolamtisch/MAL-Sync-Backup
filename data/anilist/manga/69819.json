@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "サクラ大戦奏組",
+    "Sakura Wars: Kanadegumi"
+  ],
+  "authors": [
+    "Chie Shimada"
+  ],
+  "id": 69819,
+  "malId": 39819,
+  "type": "manga",
+  "title": "Sakura Taisen: Kanadegumi",
+  "url": "https://anilist.co/manga/69819",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/39819.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:40.000Z",
+  "updatedAt": "2021-05-20T14:48:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eba074e5-4ff1-4fc1-825f-fa7db3ea77a4": {
+        "authors": [
+          "SHIMADA Chie"
+        ],
+        "identifier": "eba074e5-4ff1-4fc1-825f-fa7db3ea77a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sakura Taisen Kanadegumi",
+        "url": "https://mangadex.org/title/eba074e5-4ff1-4fc1-825f-fa7db3ea77a4",
+        "image": "https://uploads.mangadex.org/covers/eba074e5-4ff1-4fc1-825f-fa7db3ea77a4/21ad694a-2d6c-4dd4-822c-1c0835d80875.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39819,
+        "aniId": 69819,
+        "createdAt": "2020-10-12T16:05:51.000Z",
+        "updatedAt": "2021-06-03T15:28:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

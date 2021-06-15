@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Youka Nitta"
+  ],
+  "id": 32618,
+  "malId": 2618,
+  "type": "manga",
+  "title": "Groupie",
+  "url": "https://anilist.co/manga/32618",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2618.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "27d43628-476d-48c5-b9fd-5cfab47b525a": {
+        "authors": [
+          "Nitta Youka"
+        ],
+        "identifier": "27d43628-476d-48c5-b9fd-5cfab47b525a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Groupie",
+        "url": "https://mangadex.org/title/27d43628-476d-48c5-b9fd-5cfab47b525a",
+        "image": "https://uploads.mangadex.org/covers/27d43628-476d-48c5-b9fd-5cfab47b525a/13274c40-8375-4ac6-aab7-e0f222e794d7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2618,
+        "aniId": 32618,
+        "createdAt": "2020-11-02T09:13:41.000Z",
+        "updatedAt": "2021-06-08T06:29:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

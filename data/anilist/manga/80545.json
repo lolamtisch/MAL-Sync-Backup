@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "バツ&テリー",
+    "Bats and Terry",
+    "Batsu & Teri"
+  ],
+  "authors": [
+    "Yasuichi Ooshima"
+  ],
+  "id": 80545,
+  "malId": 50545,
+  "type": "manga",
+  "title": "Bats & Terry",
+  "url": "https://anilist.co/manga/80545",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50545.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-08T09:28:32.000Z",
+  "updatedAt": "2021-06-08T09:28:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0f9762a7-ab74-4333-ba7f-a95ad07a7a51": {
+        "authors": [
+          "Ooshima Yasuichi"
+        ],
+        "identifier": "0f9762a7-ab74-4333-ba7f-a95ad07a7a51",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Batsu & Terry",
+        "url": "https://mangadex.org/title/0f9762a7-ab74-4333-ba7f-a95ad07a7a51",
+        "image": "https://uploads.mangadex.org/covers/0f9762a7-ab74-4333-ba7f-a95ad07a7a51/6f7fd2ce-3e23-44b5-aaed-bd49c46a413e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50545,
+        "aniId": 80545,
+        "createdAt": "2020-12-25T21:56:11.000Z",
+        "updatedAt": "2021-06-08T11:09:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

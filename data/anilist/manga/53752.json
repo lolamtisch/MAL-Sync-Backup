@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "まなびの園",
+    "Learning School"
+  ],
+  "authors": [
+    "TYPE.90"
+  ],
+  "id": 53752,
+  "malId": 23752,
+  "type": "manga",
+  "title": "Manabi no Sono",
+  "url": "https://anilist.co/manga/53752",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23752.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:46:40.000Z",
+  "updatedAt": "2021-05-20T14:46:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "293e8d45-ec09-4ca8-ad3e-ca32ccd3a09c": {
+        "authors": [
+          "TYPE.90"
+        ],
+        "identifier": "293e8d45-ec09-4ca8-ad3e-ca32ccd3a09c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Manabi no Sono",
+        "url": "https://mangadex.org/title/293e8d45-ec09-4ca8-ad3e-ca32ccd3a09c",
+        "image": "https://uploads.mangadex.org/covers/293e8d45-ec09-4ca8-ad3e-ca32ccd3a09c/2012cfcf-0ea4-4c32-9b07-b187bef65209.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23752,
+        "aniId": 53752,
+        "createdAt": "2020-10-29T16:14:34.000Z",
+        "updatedAt": "2021-06-08T06:03:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

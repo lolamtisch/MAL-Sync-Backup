@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "The Ring 0: Birthday",
+    "リング０～バースデイ～",
+    "The Ring: 0"
+  ],
+  "authors": [
+    "Kou Uchiyama",
+    "Koji Suzuki",
+    "Hiroshi Takahashi"
+  ],
+  "id": 33131,
+  "malId": 3131,
+  "type": "manga",
+  "title": "Ring 0: Birthday",
+  "url": "https://anilist.co/manga/33131",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33131-yUshYvVTJGOw.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "665f2501-a702-43b2-b763-6fa35c97b651": {
+        "authors": [
+          "Shimofuri Kaeru"
+        ],
+        "identifier": "665f2501-a702-43b2-b763-6fa35c97b651",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "K-ON! - On Her Birthday Eight Years Ago (Doujinshi)",
+        "url": "https://mangadex.org/title/665f2501-a702-43b2-b763-6fa35c97b651",
+        "image": "https://uploads.mangadex.org/covers/665f2501-a702-43b2-b763-6fa35c97b651/af003ee9-c5c5-4823-a33f-cb513d6f7682.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3131,
+        "aniId": 33131,
+        "createdAt": "2020-10-12T16:17:24.000Z",
+        "updatedAt": "2021-06-07T07:13:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

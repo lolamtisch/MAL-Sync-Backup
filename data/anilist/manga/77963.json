@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Pochi and Tama",
+    "ポチとタマ"
+  ],
+  "authors": [
+    "Fumiko Shuusai"
+  ],
+  "id": 77963,
+  "malId": 47963,
+  "type": "manga",
+  "title": "Pochi to Tama",
+  "url": "https://anilist.co/manga/77963",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/47963.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T01:20:08.000Z",
+  "updatedAt": "2021-06-05T01:20:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fc3b07aa-ab8f-43b0-81be-84a9822e0ec7": {
+        "authors": [
+          "Tamaki Yura",
+          "Shuusai Fumiko"
+        ],
+        "identifier": "fc3b07aa-ab8f-43b0-81be-84a9822e0ec7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Pochi to Tama",
+        "url": "https://mangadex.org/title/fc3b07aa-ab8f-43b0-81be-84a9822e0ec7",
+        "image": "https://uploads.mangadex.org/covers/fc3b07aa-ab8f-43b0-81be-84a9822e0ec7/0632b994-b699-446b-bbbc-f50a1d3f91dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47963,
+        "aniId": 77963,
+        "createdAt": "2020-10-12T16:10:27.000Z",
+        "updatedAt": "2021-06-05T08:50:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

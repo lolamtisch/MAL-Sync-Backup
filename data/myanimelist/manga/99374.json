@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Kuzuryuu",
+    "九頭龍〈ヒュドラ〉"
+  ],
+  "authors": [
+    "Hara, Tetsuo",
+    "Ikeda, Sei"
+  ],
+  "id": 99374,
+  "type": "manga",
+  "title": "Hydra",
+  "url": "https://myanimelist.net/manga/99374/Hydra",
+  "image": "https://cdn.myanimelist.net/images/manga/1/179400.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:33.000Z",
+  "updatedAt": "2021-06-04T20:19:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7f77c2e1-8ecd-4171-8645-28ba11fb12ee": {
+        "authors": [
+          "Hara Tetsuo",
+          "Ikuta Tadashi"
+        ],
+        "identifier": "7f77c2e1-8ecd-4171-8645-28ba11fb12ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hydra (HARA Tetsuo)",
+        "url": "https://mangadex.org/title/7f77c2e1-8ecd-4171-8645-28ba11fb12ee",
+        "image": "https://uploads.mangadex.org/covers/7f77c2e1-8ecd-4171-8645-28ba11fb12ee/15f3d588-7fc3-4a4d-85ce-5929c268d600.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 99374,
+        "aniId": 102279,
+        "createdAt": "2020-10-12T16:09:47.000Z",
+        "updatedAt": "2021-06-04T20:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kuzuryuu": {
+        "authors": [],
+        "identifier": "kuzuryuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kuzuryuu",
+        "url": "https://manganelo.com/manga/kuzuryuu",
+        "image": "https://avt.mkklcdnv6.com/45/o/13-1583489428.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99374,
+        "aniId": 102279,
+        "createdAt": "2020-10-12T16:24:03.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

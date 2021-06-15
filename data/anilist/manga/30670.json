@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "Bokurano: Ours",
+    "ぼくらの",
+    "Bokura no",
+    "Bokurano ~Mou Hitotsu no Bokurano~"
+  ],
+  "authors": [
+    "Mohiro Kitoh"
+  ],
+  "id": 30670,
+  "malId": 670,
+  "type": "manga",
+  "title": "Bokurano",
+  "url": "https://anilist.co/manga/30670",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30670-pDFNVLQRGfAj.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:41.000Z",
+  "updatedAt": "2021-05-20T14:35:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4d947ee1-47d6-42cc-bfad-e51147e58bee": {
+        "authors": [
+          "Kitoh Mohiro"
+        ],
+        "identifier": "4d947ee1-47d6-42cc-bfad-e51147e58bee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bokurano",
+        "url": "https://mangadex.org/title/4d947ee1-47d6-42cc-bfad-e51147e58bee",
+        "image": "https://uploads.mangadex.org/covers/4d947ee1-47d6-42cc-bfad-e51147e58bee/559a6fa7-8847-4301-88f5-2fa3d408dff6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 670,
+        "aniId": 30670,
+        "createdAt": "2020-10-12T16:03:37.000Z",
+        "updatedAt": "2021-06-02T15:15:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bokurano": {
+        "authors": [],
+        "identifier": "bokurano",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bokurano",
+        "url": "https://manganelo.com/manga/bokurano",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/7451-bokurano.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 670,
+        "aniId": 30670,
+        "createdAt": "2020-10-12T16:22:20.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bokurano": {
+        "authors": [
+          "KITOH Mohiro"
+        ],
+        "identifier": "bokurano",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bokurano",
+        "url": "https://mangasee123.com/manga/Bokurano",
+        "image": "https://cover.nep.li/cover/Bokurano.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 670,
+        "aniId": 30670,
+        "createdAt": "2021-02-27T03:14:04.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

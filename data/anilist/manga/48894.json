@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "東京ラブストーリー"
+  ],
+  "authors": [
+    "Fumi Saimon"
+  ],
+  "id": 48894,
+  "malId": 18894,
+  "type": "manga",
+  "title": "Tokyo Love Story",
+  "url": "https://anilist.co/manga/48894",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx48894-Yz9K9RSBfnaq.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:15.000Z",
+  "updatedAt": "2021-05-20T14:45:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "42e8facc-00b0-4eff-bb8e-f01af83c6c0b": {
+        "authors": [
+          "Saimon Fumi"
+        ],
+        "identifier": "42e8facc-00b0-4eff-bb8e-f01af83c6c0b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tokyo Love Story",
+        "url": "https://mangadex.org/title/42e8facc-00b0-4eff-bb8e-f01af83c6c0b",
+        "image": "https://uploads.mangadex.org/covers/42e8facc-00b0-4eff-bb8e-f01af83c6c0b/ea2e3e13-e925-4ade-a485-58938783d505.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18894,
+        "aniId": 48894,
+        "createdAt": "2020-10-12T16:14:30.000Z",
+        "updatedAt": "2021-06-06T05:39:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "nt917948": {
+        "authors": [],
+        "identifier": "nt917948",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tokyo Love Story",
+        "url": "https://manganelo.com/manga/nt917948",
+        "image": "https://avt.mkklcdnv6.com/27/x/17-1583496259.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18894,
+        "aniId": 48894,
+        "createdAt": "2020-10-12T16:24:35.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

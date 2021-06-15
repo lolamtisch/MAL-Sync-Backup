@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "The Road of Ryuu",
+    "リュウの道"
+  ],
+  "authors": [
+    "Ishinomori, Shoutarou"
+  ],
+  "id": 30017,
+  "type": "manga",
+  "title": "Ryuu no Michi",
+  "url": "https://myanimelist.net/manga/30017/Ryuu_no_Michi",
+  "image": "https://cdn.myanimelist.net/images/manga/3/178069.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:40.000Z",
+  "updatedAt": "2021-04-25T23:59:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "951034a6-f967-49d0-bbbe-72e2344214f0": {
+        "authors": [
+          "ISHINOMORI Shotaro"
+        ],
+        "identifier": "951034a6-f967-49d0-bbbe-72e2344214f0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ryuu no Michi",
+        "url": "https://mangadex.org/title/951034a6-f967-49d0-bbbe-72e2344214f0",
+        "image": "https://uploads.mangadex.org/covers/951034a6-f967-49d0-bbbe-72e2344214f0/1a5154fa-b65e-4458-8765-86e0fb88162c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30017,
+        "aniId": 60017,
+        "createdAt": "2020-10-12T16:05:29.000Z",
+        "updatedAt": "2021-06-03T12:59:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ryuu-no-michi": {
+        "authors": [
+          "ISHINOMORI Shotaro"
+        ],
+        "identifier": "ryuu-no-michi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ryuu no Michi",
+        "url": "https://mangasee123.com/manga/Ryuu-No-Michi",
+        "image": "https://cover.nep.li/cover/Ryuu-No-Michi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30017,
+        "aniId": 60017,
+        "createdAt": "2021-04-25T23:59:27.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "altTitle": [
+    "An Invitation from a Crab",
+    "蟹に誘われて",
+    "An Invitation by a Crab"
+  ],
+  "authors": [
+    "panpanya",
+    "Ko Ransom",
+    "Nicole Dochych"
+  ],
+  "id": 101982,
+  "malId": 85993,
+  "type": "manga",
+  "title": "Kani ni Sasowarete",
+  "url": "https://anilist.co/manga/101982",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101982-iM3nsStjiYwV.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:38.000Z",
+  "updatedAt": "2021-05-20T14:52:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4460d0d2-83d7-4cf5-beee-4d96f3f046a0": {
+        "authors": [
+          "panpanya"
+        ],
+        "identifier": "4460d0d2-83d7-4cf5-beee-4d96f3f046a0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kani ni Sasowarete",
+        "url": "https://mangadex.org/title/4460d0d2-83d7-4cf5-beee-4d96f3f046a0",
+        "image": "https://uploads.mangadex.org/covers/4460d0d2-83d7-4cf5-beee-4d96f3f046a0/135de2d5-db31-4702-945f-20da3ae2e21e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85993,
+        "aniId": 101982,
+        "createdAt": "2020-10-12T16:10:52.000Z",
+        "updatedAt": "2021-06-05T04:02:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ts920227": {
+        "authors": [],
+        "identifier": "ts920227",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kani ni Sasowarete",
+        "url": "https://manganelo.com/manga/ts920227",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1627-ts920227.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85993,
+        "aniId": 101982,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fn982696": {
+        "authors": [
+          "Panpanya"
+        ],
+        "identifier": "manga-fn982696",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kani Ni Sasowarete",
+        "url": "https://manganato.com/manga-fn982696",
+        "image": "https://avt.mkklcdnv6temp.com/11/c/19-1583499515.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85993,
+        "aniId": 101982,
+        "createdAt": "2021-06-11T22:38:33.000Z",
+        "updatedAt": "2021-06-11T23:08:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

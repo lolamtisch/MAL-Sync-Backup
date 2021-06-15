@@ -1,0 +1,84 @@
+{
+  "altTitle": [
+    "ホーリーナイト"
+  ],
+  "authors": [
+    "Miyazaki, Maya"
+  ],
+  "id": 28133,
+  "type": "manga",
+  "title": "Holy Knight",
+  "url": "https://myanimelist.net/manga/28133/Holy_Knight",
+  "image": "https://cdn.myanimelist.net/images/manga/3/58011.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:29.000Z",
+  "updatedAt": "2021-05-15T15:55:25.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e680d789-04ac-47dd-9216-4b586d77b23b": {
+        "authors": [
+          "Miyazaki Maya"
+        ],
+        "identifier": "e680d789-04ac-47dd-9216-4b586d77b23b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Holy Knight",
+        "url": "https://mangadex.org/title/e680d789-04ac-47dd-9216-4b586d77b23b",
+        "image": "https://uploads.mangadex.org/covers/e680d789-04ac-47dd-9216-4b586d77b23b/e587f1da-d590-4c35-b7bf-2d200c3c3cb0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28133,
+        "aniId": 58133,
+        "createdAt": "2020-10-12T16:03:26.000Z",
+        "updatedAt": "2021-06-02T14:02:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "holy_knight": {
+        "authors": [],
+        "identifier": "holy_knight",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Holy Knight",
+        "url": "https://manganelo.com/manga/holy_knight",
+        "image": "https://avt.mkklcdnv6.com/40/e/7-1583477794.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28133,
+        "aniId": 58133,
+        "createdAt": "2020-10-12T16:23:23.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "holy_knight": {
+        "authors": [
+          "MIYAZAKI Maya"
+        ],
+        "identifier": "holy_knight",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Holy Knight",
+        "url": "https://fanfox.net/manga/holy_knight/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9574/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28133,
+        "aniId": 58133,
+        "createdAt": "2021-02-03T03:01:54.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

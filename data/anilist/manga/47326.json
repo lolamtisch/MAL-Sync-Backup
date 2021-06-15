@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "水色スプラッシュ",
+    "Water Color Splash"
+  ],
+  "authors": [
+    "Kou Maisaka",
+    "Nyaa Murasaki"
+  ],
+  "id": 47326,
+  "malId": 17326,
+  "type": "manga",
+  "title": "Mizuiro Splash",
+  "url": "https://anilist.co/manga/47326",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17326.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:05.000Z",
+  "updatedAt": "2021-05-20T14:44:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac1d1995-e123-40d3-b139-3be1e2a93574": {
+        "authors": [
+          "MURASAKI Nyaa",
+          "MAISAKA Kou"
+        ],
+        "identifier": "ac1d1995-e123-40d3-b139-3be1e2a93574",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mizuiro Splash",
+        "url": "https://mangadex.org/title/ac1d1995-e123-40d3-b139-3be1e2a93574",
+        "image": "https://uploads.mangadex.org/covers/ac1d1995-e123-40d3-b139-3be1e2a93574/fcb378bf-f4c3-4069-8a81-4419527d58cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17326,
+        "aniId": 47326,
+        "createdAt": "2020-10-12T16:05:20.000Z",
+        "updatedAt": "2021-06-03T11:51:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mizuiro_splash": {
+        "authors": [],
+        "identifier": "mizuiro_splash",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mizuiro Splash",
+        "url": "https://manganelo.com/manga/mizuiro_splash",
+        "image": "https://avt.mkklcdnv6.com/8/e/9-1583480408.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17326,
+        "aniId": 47326,
+        "createdAt": "2020-10-12T16:24:20.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

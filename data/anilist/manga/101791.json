@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "彼女の特等席",
+    "Her Special Seat"
+  ],
+  "authors": [
+    "Akari Kajimoto"
+  ],
+  "id": 101791,
+  "malId": 114429,
+  "type": "manga",
+  "title": "Kanojo no Tokutouseki",
+  "url": "https://anilist.co/manga/101791",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101791-bFwgaKswJkEH.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:08.000Z",
+  "updatedAt": "2021-05-20T14:57:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0f14ffea-28ec-41f8-b834-9aebee9774cb": {
+        "authors": [
+          "Kajimoto Akari"
+        ],
+        "identifier": "0f14ffea-28ec-41f8-b834-9aebee9774cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Her Special Seat",
+        "url": "https://mangadex.org/title/0f14ffea-28ec-41f8-b834-9aebee9774cb",
+        "image": "https://uploads.mangadex.org/covers/0f14ffea-28ec-41f8-b834-9aebee9774cb/993b968a-c707-493d-8d4a-5c26f77e06ea.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114429,
+        "aniId": 101791,
+        "createdAt": "2020-10-12T16:12:43.000Z",
+        "updatedAt": "2021-06-05T15:59:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

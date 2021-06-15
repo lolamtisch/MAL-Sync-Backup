@@ -1,0 +1,76 @@
+{
+  "altTitle": [
+    "おそ松くん (1966)",
+    "Osomatsu-kun (1966)"
+  ],
+  "id": 9884,
+  "malId": 9884,
+  "type": "anime",
+  "title": "Osomatsu-kun",
+  "url": "https://anilist.co/anime/9884",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9884-CGiD1zldkPwY.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:07.000Z",
+  "updatedAt": "2021-05-20T14:39:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "nl6j": {
+        "identifier": "nl6j",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Osomatsu-kun",
+        "url": "https://9anime.to/watch/osomatsu-kun.nl6j",
+        "image": "https://static.akacdn.ru/files/images/2019/08/c703a0e6af73961cafbd3816fb686336.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9884,
+        "aniId": 9884,
+        "createdAt": "2020-10-12T15:53:53.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "osomatsu-kun": {
+        "identifier": "osomatsu-kun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Osomatsu-kun",
+        "url": "https://www2.gogoanime.video/category/osomatsu-kun",
+        "image": "https://gogocdn.net/cover/osomatsu-kun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9884,
+        "aniId": 9884,
+        "createdAt": "2020-10-12T16:01:31.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "osomatsu-kun": {
+        "identifier": "osomatsu-kun",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Osomatsu-kun",
+        "url": "https://www.crunchyroll.com/osomatsu-kun?media_id=785933",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/0402484e9997244844e3e588e72fff251557902297_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9884,
+        "aniId": 9884,
+        "createdAt": "2021-03-20T11:35:23.000Z",
+        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

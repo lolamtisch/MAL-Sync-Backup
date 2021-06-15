@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Dandoh!!",
+    "ダンドー"
+  ],
+  "authors": [
+    "Banjou, Daichi"
+  ],
+  "id": 7200,
+  "type": "manga",
+  "title": "Dan Doh!!",
+  "url": "https://myanimelist.net/manga/7200/Dan_Doh",
+  "image": "https://cdn.myanimelist.net/images/manga/1/9681.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:13.000Z",
+  "updatedAt": "2021-06-05T16:20:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "78297fda-eed3-441b-acc6-7bae697cd690": {
+        "authors": [
+          "SAKATA Nobuhiro",
+          "BANJO Daichi"
+        ],
+        "identifier": "78297fda-eed3-441b-acc6-7bae697cd690",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dan Doh!!",
+        "url": "https://mangadex.org/title/78297fda-eed3-441b-acc6-7bae697cd690",
+        "image": "https://uploads.mangadex.org/covers/78297fda-eed3-441b-acc6-7bae697cd690/446afa2a-9a90-4880-9527-560cc0835bc9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7200,
+        "aniId": 37200,
+        "createdAt": "2020-10-12T16:04:05.000Z",
+        "updatedAt": "2021-06-02T18:37:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

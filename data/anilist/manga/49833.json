@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "ホットミルク",
+    "Life Less Life",
+    "Lifeless",
+    "Honey*Filter",
+    "Triple Milky"
+  ],
+  "authors": [
+    "Ayumi Komura"
+  ],
+  "id": 49833,
+  "malId": 19833,
+  "type": "manga",
+  "title": "Hot Milk",
+  "url": "https://anilist.co/manga/49833",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19833.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T22:31:11.000Z",
+  "updatedAt": "2021-06-02T22:31:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eb7bfb14-89d0-4c74-ab39-83eba1c907bb": {
+        "authors": [
+          "Komura Ayumi"
+        ],
+        "identifier": "eb7bfb14-89d0-4c74-ab39-83eba1c907bb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hot Milk",
+        "url": "https://mangadex.org/title/eb7bfb14-89d0-4c74-ab39-83eba1c907bb",
+        "image": "https://uploads.mangadex.org/covers/eb7bfb14-89d0-4c74-ab39-83eba1c907bb/baae3471-e292-4563-8659-11041c6d097f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19833,
+        "aniId": 49833,
+        "createdAt": "2020-10-12T16:04:38.000Z",
+        "updatedAt": "2021-06-03T08:42:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "カメレオンジェイル",
+    "Kaede Purple",
+    "Hana Shounen",
+    "Like Jordan"
+  ],
+  "authors": [
+    "Takehiko Inoue",
+    "Kazuhiko Watanabe"
+  ],
+  "id": 31611,
+  "malId": 1611,
+  "type": "manga",
+  "title": "Chameleon Jail",
+  "url": "https://anilist.co/manga/31611",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1611.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:49.000Z",
+  "updatedAt": "2021-05-20T14:36:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "87516e3d-fea9-4e5f-8c60-11f359c2b705": {
+        "authors": [
+          "Inoue Takehiko",
+          "Watanabe Kazuhiko"
+        ],
+        "identifier": "87516e3d-fea9-4e5f-8c60-11f359c2b705",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Chameleon Jail",
+        "url": "https://mangadex.org/title/87516e3d-fea9-4e5f-8c60-11f359c2b705",
+        "image": "https://uploads.mangadex.org/covers/87516e3d-fea9-4e5f-8c60-11f359c2b705/f2435d68-f617-4c5b-ae18-ddee819d472f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1611,
+        "aniId": 31611,
+        "createdAt": "2020-10-12T16:03:37.000Z",
+        "updatedAt": "2021-06-02T15:19:13.000Z",
+        "deletedAt": null
+      },
+      "3805fc64-44f0-46b6-b972-5c14ce7e856c": {
+        "authors": [
+          "Inoue Takehiko"
+        ],
+        "identifier": "3805fc64-44f0-46b6-b972-5c14ce7e856c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kaede Purple",
+        "url": "https://mangadex.org/title/3805fc64-44f0-46b6-b972-5c14ce7e856c",
+        "image": "https://uploads.mangadex.org/covers/3805fc64-44f0-46b6-b972-5c14ce7e856c/26c6c57e-642f-407b-b457-84185621b464.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1611,
+        "aniId": 31611,
+        "createdAt": "2020-10-12T16:06:25.000Z",
+        "updatedAt": "2021-06-03T19:33:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

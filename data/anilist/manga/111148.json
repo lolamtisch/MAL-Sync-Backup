@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ギャルかぞく",
+    "Gal Family"
+  ],
+  "authors": [
+    "Tsunehiro Date"
+  ],
+  "id": 111148,
+  "malId": 121319,
+  "type": "manga",
+  "title": "Gal Kazoku",
+  "url": "https://anilist.co/manga/111148",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111148-jJhogPHOaXsj.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:23.000Z",
+  "updatedAt": "2021-05-20T14:58:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "83a8f432-c4e8-4eba-879e-7fe47f788eeb": {
+        "authors": [
+          "Date Tsunehiro"
+        ],
+        "identifier": "83a8f432-c4e8-4eba-879e-7fe47f788eeb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gal Kazoku",
+        "url": "https://mangadex.org/title/83a8f432-c4e8-4eba-879e-7fe47f788eeb",
+        "image": "https://uploads.mangadex.org/covers/83a8f432-c4e8-4eba-879e-7fe47f788eeb/56f07d89-ca4d-44eb-ab03-69a95941db6e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121319,
+        "aniId": 111148,
+        "createdAt": "2020-10-12T16:17:00.000Z",
+        "updatedAt": "2021-06-07T03:44:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

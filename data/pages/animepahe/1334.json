@@ -1,0 +1,52 @@
+{
+  "identifier": "1334",
+  "type": "anime",
+  "page": "animepahe",
+  "title": "Air",
+  "url": "https://pahe.win/a/1334",
+  "image": "https://i.animepahe.com/posters/37b4c3e20faa7120e133bdf632221d50.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 101,
+  "aniId": 101,
+  "createdAt": "2020-12-23T07:02:18.000Z",
+  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      "Air",
+      "AIR"
+    ],
+    "id": 101,
+    "type": "anime",
+    "title": "Air",
+    "url": "https://myanimelist.net/anime/101/Air",
+    "image": "https://cdn.myanimelist.net/images/anime/8/22059.jpg",
+    "category": "TV",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:37:59.000Z",
+    "updatedAt": "2020-12-23T07:02:17.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Air",
+      "AIR",
+      "Air TV"
+    ],
+    "id": 101,
+    "malId": 101,
+    "type": "anime",
+    "title": "AIR",
+    "url": "https://anilist.co/anime/101",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101-x3YmfrzYZ9kM.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:33:26.000Z",
+    "updatedAt": "2021-05-20T14:33:26.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/101/Air"
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "お星様にお願いっ！",
+    "お星様にお願いっ！"
+  ],
+  "authors": [
+    "Mao Fujisaki"
+  ],
+  "id": 34804,
+  "malId": 4804,
+  "type": "manga",
+  "title": "Ohoshisama ni Onegai!",
+  "url": "https://anilist.co/manga/34804",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4804.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:36.000Z",
+  "updatedAt": "2021-05-20T14:38:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d16741af-0cc9-40c0-b4e4-733630250e29": {
+        "authors": [
+          "FUJISAKI Mao"
+        ],
+        "identifier": "d16741af-0cc9-40c0-b4e4-733630250e29",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ohoshi-sama ni Onegai!",
+        "url": "https://mangadex.org/title/d16741af-0cc9-40c0-b4e4-733630250e29",
+        "image": "https://uploads.mangadex.org/covers/d16741af-0cc9-40c0-b4e4-733630250e29/6979c789-fc71-469e-a840-35503f7d875a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4804,
+        "aniId": 34804,
+        "createdAt": "2020-10-12T16:03:42.000Z",
+        "updatedAt": "2021-06-02T15:53:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

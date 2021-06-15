@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "囚人リク",
+    "Jail Time Ricky",
+    "Prisoner Riku"
+  ],
+  "authors": [
+    "Shinobu Seguchi"
+  ],
+  "id": 78257,
+  "malId": 48257,
+  "type": "manga",
+  "title": "Shuujin Riku",
+  "url": "https://anilist.co/manga/78257",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78257-gxtW7kUsDFvv.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:37.000Z",
+  "updatedAt": "2021-05-20T14:49:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "63a834d1-5adb-469f-9b18-2996c0469f08": {
+        "authors": [
+          "Seguchi Shinobu"
+        ],
+        "identifier": "63a834d1-5adb-469f-9b18-2996c0469f08",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Prisoner Riku",
+        "url": "https://mangadex.org/title/63a834d1-5adb-469f-9b18-2996c0469f08",
+        "image": "https://uploads.mangadex.org/covers/63a834d1-5adb-469f-9b18-2996c0469f08/18b0cc56-8eea-4eac-aefe-51838364860e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48257,
+        "aniId": 78257,
+        "createdAt": "2020-10-12T16:06:03.000Z",
+        "updatedAt": "2021-06-03T16:51:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shuujin_riku": {
+        "authors": [],
+        "identifier": "shuujin_riku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shuujin Riku",
+        "url": "https://manganelo.com/manga/shuujin_riku",
+        "image": "https://avt.mkklcdnv6.com/35/g/9-1583481524.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48257,
+        "aniId": 78257,
+        "createdAt": "2020-10-12T16:25:27.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

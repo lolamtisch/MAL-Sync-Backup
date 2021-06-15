@@ -1,0 +1,62 @@
+{
+  "altTitle": [
+    "トムソーヤ"
+  ],
+  "authors": [
+    "Takahashi, Shin"
+  ],
+  "id": 10276,
+  "type": "manga",
+  "title": "Tom Sawyer",
+  "url": "https://myanimelist.net/manga/10276/Tom_Sawyer",
+  "image": "https://cdn.myanimelist.net/images/manga/2/13775.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:41:26.000Z",
+  "updatedAt": "2021-04-30T19:20:06.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ef82401e-636b-4817-9e1c-d17cd0573d32": {
+        "authors": [
+          "Takahashi Shin"
+        ],
+        "identifier": "ef82401e-636b-4817-9e1c-d17cd0573d32",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tom Sawyer",
+        "url": "https://mangadex.org/title/ef82401e-636b-4817-9e1c-d17cd0573d32",
+        "image": "https://uploads.mangadex.org/covers/ef82401e-636b-4817-9e1c-d17cd0573d32/4c68a05e-4c5a-4c97-a633-ced3c2abe6d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10276,
+        "aniId": 40276,
+        "createdAt": "2020-10-12T16:13:05.000Z",
+        "updatedAt": "2021-06-05T18:41:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "tom_sawyer": {
+        "authors": [],
+        "identifier": "tom_sawyer",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Tom Sawyer",
+        "url": "https://manganelo.com/manga/tom_sawyer",
+        "image": "https://avt.mkklcdnv6.com/24/a/5-1583472769.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10276,
+        "aniId": 40276,
+        "createdAt": "2020-10-12T16:25:47.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

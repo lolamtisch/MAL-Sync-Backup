@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "TOUGH－タフ－"
+  ],
+  "authors": [
+    "Tetsuya Saruwatari"
+  ],
+  "id": 33287,
+  "malId": 3287,
+  "type": "manga",
+  "title": "Tough",
+  "url": "https://anilist.co/manga/33287",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33287-81yWpxSmIi1X.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "85472ee1-581d-4cab-8f65-e40f338ba20f": {
+        "authors": [
+          "Saruwatari Tetsuya"
+        ],
+        "identifier": "85472ee1-581d-4cab-8f65-e40f338ba20f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tough",
+        "url": "https://mangadex.org/title/85472ee1-581d-4cab-8f65-e40f338ba20f",
+        "image": "https://uploads.mangadex.org/covers/85472ee1-581d-4cab-8f65-e40f338ba20f/a1d6c4b8-5589-4c17-869b-a59c431e8516.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3287,
+        "aniId": 33287,
+        "createdAt": "2020-10-12T16:02:32.000Z",
+        "updatedAt": "2021-06-02T07:36:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tough": {
+        "authors": [
+          "SARUWATARI Tetsuya"
+        ],
+        "identifier": "tough",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tough",
+        "url": "https://mangasee123.com/manga/Tough",
+        "image": "https://cover.nep.li/cover/Tough.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3287,
+        "aniId": 33287,
+        "createdAt": "2021-05-11T15:18:05.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

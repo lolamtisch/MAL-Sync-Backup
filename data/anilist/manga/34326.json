@@ -1,0 +1,48 @@
+{
+  "altTitle": [
+    "Falling Into Love",
+    "この気持ちは恋になる",
+    "This Feeling Turning Into Love",
+    "Prepare Yourself",
+    "I Want to Be With You",
+    "Love's Recommendation"
+  ],
+  "authors": [
+    "Takashi Kanzaki"
+  ],
+  "id": 34326,
+  "malId": 4326,
+  "type": "manga",
+  "title": "Kono Kimochi wa Koi ni Naru",
+  "url": "https://anilist.co/manga/34326",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4326.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:28.000Z",
+  "updatedAt": "2021-05-20T14:38:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ed3ef518-225f-4053-b3f2-ed5301c8ab75": {
+        "authors": [
+          "Kanzaki Takashi"
+        ],
+        "identifier": "ed3ef518-225f-4053-b3f2-ed5301c8ab75",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kono Kimochi wa Koi ni Naru",
+        "url": "https://mangadex.org/title/ed3ef518-225f-4053-b3f2-ed5301c8ab75",
+        "image": "https://uploads.mangadex.org/covers/ed3ef518-225f-4053-b3f2-ed5301c8ab75/2b855508-8893-4270-aece-959e7c28e719.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4326,
+        "aniId": 34326,
+        "createdAt": "2020-10-12T16:21:44.000Z",
+        "updatedAt": "2021-06-08T03:00:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "COUNT OVER"
+  ],
+  "authors": [
+    "Shindou Masaoki"
+  ],
+  "id": 103835,
+  "malId": 114512,
+  "type": "manga",
+  "title": "Count Over",
+  "url": "https://anilist.co/manga/103835",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103835-shA6TytQCMkS.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:08.000Z",
+  "updatedAt": "2021-06-05T20:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9865c978-3393-42a6-9b0c-947814ac8a24": {
+        "authors": [
+          "Shindou Masaoki"
+        ],
+        "identifier": "9865c978-3393-42a6-9b0c-947814ac8a24",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Count Over",
+        "url": "https://mangadex.org/title/9865c978-3393-42a6-9b0c-947814ac8a24",
+        "image": "https://uploads.mangadex.org/covers/9865c978-3393-42a6-9b0c-947814ac8a24/971795f8-3778-4818-9e7f-7b61ff96da9c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114512,
+        "aniId": 103835,
+        "createdAt": "2020-10-12T16:13:21.000Z",
+        "updatedAt": "2021-06-05T21:10:21.000Z",
+        "deletedAt": null
+      },
+      "c2d93afc-dcf5-4b84-bc54-f2d564edbbf8": {
+        "authors": [
+          "GyaGa"
+        ],
+        "identifier": "c2d93afc-dcf5-4b84-bc54-f2d564edbbf8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cover Up",
+        "url": "https://mangadex.org/title/c2d93afc-dcf5-4b84-bc54-f2d564edbbf8",
+        "image": "https://uploads.mangadex.org/covers/c2d93afc-dcf5-4b84-bc54-f2d564edbbf8/80bb48fa-f456-467f-a666-0627fc0c36ca.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114512,
+        "aniId": 103835,
+        "createdAt": "2020-10-12T16:16:51.000Z",
+        "updatedAt": "2021-06-07T02:35:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

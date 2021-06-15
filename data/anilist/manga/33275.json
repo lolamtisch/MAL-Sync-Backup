@@ -1,0 +1,41 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Atsuyo Fuzuki"
+  ],
+  "id": 33275,
+  "malId": 3275,
+  "type": "manga",
+  "title": "Irokoi Comedy",
+  "url": "https://anilist.co/manga/33275",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3275.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fa03b32e-0254-4acd-a3c2-15fa975abbfd": {
+        "authors": [
+          "Fuduki Atsuyo"
+        ],
+        "identifier": "fa03b32e-0254-4acd-a3c2-15fa975abbfd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Irokoi Comedy",
+        "url": "https://mangadex.org/title/fa03b32e-0254-4acd-a3c2-15fa975abbfd",
+        "image": "https://uploads.mangadex.org/covers/fa03b32e-0254-4acd-a3c2-15fa975abbfd/df9c1ae0-aa47-44df-b825-87ce1c222714.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3275,
+        "aniId": 33275,
+        "createdAt": "2020-10-12T16:21:43.000Z",
+        "updatedAt": "2021-06-08T02:58:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

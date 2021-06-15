@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "恋してません!"
+  ],
+  "authors": [
+    "Rino"
+  ],
+  "id": 80583,
+  "malId": 50583,
+  "type": "manga",
+  "title": "Koi Shitemasen!",
+  "url": "https://anilist.co/manga/80583",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/50583.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:47.000Z",
+  "updatedAt": "2021-05-20T14:49:47.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2c52180-7a6c-45a9-b464-2af3ae1fa69a": {
+        "authors": [
+          "Rino"
+        ],
+        "identifier": "e2c52180-7a6c-45a9-b464-2af3ae1fa69a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi Shitemasen!",
+        "url": "https://mangadex.org/title/e2c52180-7a6c-45a9-b464-2af3ae1fa69a",
+        "image": "https://uploads.mangadex.org/covers/e2c52180-7a6c-45a9-b464-2af3ae1fa69a/ea06dd3a-7110-415a-86d1-0e682ca693ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50583,
+        "aniId": 80583,
+        "createdAt": "2020-10-12T16:06:26.000Z",
+        "updatedAt": "2021-06-03T19:37:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

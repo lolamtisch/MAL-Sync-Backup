@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "Fall in Love With Me",
+    "ボクのことスキになって",
+    "Restaurant Debut"
+  ],
+  "authors": [
+    "Naya Minadori"
+  ],
+  "id": 97878,
+  "malId": 82357,
+  "type": "manga",
+  "title": "Boku no Koto Suki ni Natte",
+  "url": "https://anilist.co/manga/97878",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b97878-iqXHdaOvA9Dt.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:05.000Z",
+  "updatedAt": "2021-05-20T14:52:05.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2a5f8e26-661c-4c12-b372-38c9f04e66e6": {
+        "authors": [
+          "Minadori Naya"
+        ],
+        "identifier": "2a5f8e26-661c-4c12-b372-38c9f04e66e6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Boku no Koto Suki ni Natte",
+        "url": "https://mangadex.org/title/2a5f8e26-661c-4c12-b372-38c9f04e66e6",
+        "image": "https://uploads.mangadex.org/covers/2a5f8e26-661c-4c12-b372-38c9f04e66e6/0d70e28e-7665-4996-9fca-78fdc46cf0fb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82357,
+        "aniId": 97878,
+        "createdAt": "2020-10-12T16:21:11.000Z",
+        "updatedAt": "2021-06-08T01:53:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_no_koto_suki_ni_natte": {
+        "authors": [
+          "MINADORI Naya"
+        ],
+        "identifier": "boku_no_koto_suki_ni_natte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku no Koto Suki ni Natte",
+        "url": "https://fanfox.net/manga/boku_no_koto_suki_ni_natte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35301/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82357,
+        "aniId": 97878,
+        "createdAt": "2021-03-26T15:49:15.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

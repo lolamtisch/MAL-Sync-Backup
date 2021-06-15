@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ムラハガネ"
+  ],
+  "authors": [
+    "Manabu Yashiro"
+  ],
+  "id": 58699,
+  "malId": 28699,
+  "type": "manga",
+  "title": "Murahagane",
+  "url": "https://anilist.co/manga/58699",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b58699-2dkITL3hJgal.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:32.000Z",
+  "updatedAt": "2021-05-20T14:47:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a8a9cc7e-f9ab-4886-ab1b-e01fbbccc98c": {
+        "authors": [
+          "Yashiro Manabu"
+        ],
+        "identifier": "a8a9cc7e-f9ab-4886-ab1b-e01fbbccc98c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Murahagane",
+        "url": "https://mangadex.org/title/a8a9cc7e-f9ab-4886-ab1b-e01fbbccc98c",
+        "image": "https://uploads.mangadex.org/covers/a8a9cc7e-f9ab-4886-ab1b-e01fbbccc98c/9ddc3e30-c186-4598-9e7e-517beccc88bb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28699,
+        "aniId": 58699,
+        "createdAt": "2020-10-12T16:02:52.000Z",
+        "updatedAt": "2021-06-02T10:03:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "murahagane": {
+        "authors": [
+          "Yashiro",
+          "Manabu"
+        ],
+        "identifier": "murahagane",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Murahagane",
+        "url": "https://manganelo.com/manga/murahagane",
+        "image": "https://avt.mkklcdnv6.com/10/w/5-1583472282.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28699,
+        "aniId": 58699,
+        "createdAt": "2020-11-18T13:49:34.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

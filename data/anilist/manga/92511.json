@@ -1,0 +1,49 @@
+{
+  "altTitle": [
+    "アラルガンド",
+    "Bookmark",
+    "The Princess and the Crow",
+    "Level C",
+    "375",
+    "Amamori's Spear",
+    "Amamori's Weekend"
+  ],
+  "authors": [
+    "Yuuki Seto"
+  ],
+  "id": 92511,
+  "malId": 77337,
+  "type": "manga",
+  "title": "Allargando",
+  "url": "https://anilist.co/manga/92511",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92511-t7uPCPX9juDm.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:51:51.000Z",
+  "updatedAt": "2021-05-20T14:51:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0d18efde-9f73-442d-87d2-99ab9403e0b1": {
+        "authors": [
+          "Seto Yuuki"
+        ],
+        "identifier": "0d18efde-9f73-442d-87d2-99ab9403e0b1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Allargando",
+        "url": "https://mangadex.org/title/0d18efde-9f73-442d-87d2-99ab9403e0b1",
+        "image": "https://uploads.mangadex.org/covers/0d18efde-9f73-442d-87d2-99ab9403e0b1/9a06706f-4f0b-4450-8d5b-92df23851d0e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77337,
+        "aniId": 92511,
+        "createdAt": "2020-10-31T16:14:24.000Z",
+        "updatedAt": "2021-06-08T06:25:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

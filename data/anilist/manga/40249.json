@@ -1,0 +1,114 @@
+{
+  "altTitle": [
+    "베리타스",
+    "Veristas",
+    "Truth"
+  ],
+  "authors": [
+    "Joon-shik Yoon",
+    "Berry Star"
+  ],
+  "id": 40249,
+  "malId": 10249,
+  "type": "manga",
+  "title": "Veritas",
+  "url": "https://anilist.co/manga/40249",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40249-79kEPHGEC5YC.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-05-20T14:41:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "191667a1-07db-40f8-948d-a8806aedd78c": {
+        "authors": [
+          "윤준식",
+          "김동훈"
+        ],
+        "identifier": "191667a1-07db-40f8-948d-a8806aedd78c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Veritas",
+        "url": "https://mangadex.org/title/191667a1-07db-40f8-948d-a8806aedd78c",
+        "image": "https://uploads.mangadex.org/covers/191667a1-07db-40f8-948d-a8806aedd78c/c17f2578-e300-4408-b0d8-1f84724bba83.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10249,
+        "aniId": 40249,
+        "createdAt": "2020-10-12T16:02:30.000Z",
+        "updatedAt": "2021-06-02T07:18:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "veritas": {
+        "authors": [],
+        "identifier": "veritas",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Veritas",
+        "url": "https://manganelo.com/manga/veritas",
+        "image": "https://avt.mkklcdnv6.com/7/l/10-1583482442.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10249,
+        "aniId": 40249,
+        "createdAt": "2020-10-12T16:26:01.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "veritas": {
+        "authors": [
+          "Berry Star",
+          "KIM Dong-hoon",
+          "YOON Joon-sik"
+        ],
+        "identifier": "veritas",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Veritas",
+        "url": "https://mangasee123.com/manga/Veritas",
+        "image": "https://cover.nep.li/cover/Veritas.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10249,
+        "aniId": 40249,
+        "createdAt": "2021-01-16T13:03:13.000Z",
+        "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "veritas": {
+        "authors": [
+          "KIM Dong-hoon",
+          "YOON Joon-sik"
+        ],
+        "identifier": "veritas",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Veritas",
+        "url": "https://fanfox.net/manga/veritas/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4525/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10249,
+        "aniId": 40249,
+        "createdAt": "2021-03-25T10:49:26.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

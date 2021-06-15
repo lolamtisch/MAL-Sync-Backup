@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "山田太郎ものがたり",
+    "Yamada Taro Monogatari"
+  ],
+  "authors": [
+    "Ai Morinaga"
+  ],
+  "id": 30863,
+  "malId": 863,
+  "type": "manga",
+  "title": "Yamada Tarou Monogatari",
+  "url": "https://anilist.co/manga/30863",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/863.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef": {
+        "authors": [
+          "Morinaga Ai"
+        ],
+        "identifier": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yamada Tarou Monogatari",
+        "url": "https://mangadex.org/title/61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
+        "image": "https://uploads.mangadex.org/covers/61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef/b10f909c-4ed3-4b8b-9b8e-83f498313876.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 863,
+        "aniId": 30863,
+        "createdAt": "2020-10-12T16:03:44.000Z",
+        "updatedAt": "2021-06-02T16:09:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yamada_tarou_monogatari": {
+        "authors": [
+          "MORINAGA Ai"
+        ],
+        "identifier": "yamada_tarou_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yamada Tarou Monogatari",
+        "url": "https://fanfox.net/manga/yamada_tarou_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1769/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 863,
+        "aniId": 30863,
+        "createdAt": "2021-04-29T12:52:08.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

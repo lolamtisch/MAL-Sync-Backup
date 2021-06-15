@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Gorgon",
+    "폐쇄인간"
+  ],
+  "authors": [
+    "Jaeil Seo",
+    "Carnby Kim"
+  ],
+  "id": 108954,
+  "malId": null,
+  "type": "manga",
+  "title": "Pyeswaeingan",
+  "url": "https://anilist.co/manga/108954",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b108954-YqidZmMauuJo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-26T18:08:17.000Z",
+  "updatedAt": "2021-05-26T18:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2cd98eaf-092f-40cc-99c4-a8b36d2b4956": {
+        "authors": [
+          "KIM Carnby",
+          "SEO Jaeil"
+        ],
+        "identifier": "2cd98eaf-092f-40cc-99c4-a8b36d2b4956",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gorgon",
+        "url": "https://mangadex.org/title/2cd98eaf-092f-40cc-99c4-a8b36d2b4956",
+        "image": "https://uploads.mangadex.org/covers/2cd98eaf-092f-40cc-99c4-a8b36d2b4956/ec0294a4-9cab-433a-a369-cc59fc9f7301.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 108954,
+        "createdAt": "2020-10-12T16:18:47.000Z",
+        "updatedAt": "2021-06-07T20:46:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

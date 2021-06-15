@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "I Love You..., It's Lie",
+    "「愛してる」、嘘だけど。",
+    "I Love You...",
+    "It's Lie"
+  ],
+  "authors": [
+    "Miko Mitsuki"
+  ],
+  "id": 73783,
+  "malId": 43783,
+  "type": "manga",
+  "title": "\"Aishiteru\", Uso dakedo.",
+  "url": "https://anilist.co/manga/73783",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/43783.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:58.000Z",
+  "updatedAt": "2021-05-20T14:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ccd10c9b-1aad-437f-a888-d76d64525e67": {
+        "authors": [
+          "MITSUKI Miko"
+        ],
+        "identifier": "ccd10c9b-1aad-437f-a888-d76d64525e67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "\"Aishiteru\", Uso dakedo.",
+        "url": "https://mangadex.org/title/ccd10c9b-1aad-437f-a888-d76d64525e67",
+        "image": "https://uploads.mangadex.org/covers/ccd10c9b-1aad-437f-a888-d76d64525e67/f28d7e71-69ad-4dc2-827a-477ec513eabf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43783,
+        "aniId": 73783,
+        "createdAt": "2020-10-12T16:06:36.000Z",
+        "updatedAt": "2021-06-03T20:42:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aishiteru_uso_dakedo": {
+        "authors": [
+          "MITSUKI Miko"
+        ],
+        "identifier": "aishiteru_uso_dakedo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "\"Aishiteru\", Uso Dakedo.",
+        "url": "https://fanfox.net/manga/aishiteru_uso_dakedo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13223/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43783,
+        "aniId": 73783,
+        "createdAt": "2021-04-18T07:14:43.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

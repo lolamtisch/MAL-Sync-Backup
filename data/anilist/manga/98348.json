@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "The Seven Deadly Sins: Seven Days - The Thief and the Holy Girl",
+    "七つの大罪 セブンデイズ～盗賊と聖少女～"
+  ],
+  "authors": [
+    "Mamoru Iwasa",
+    "You Kokikuji",
+    "Nakaba Suzuki"
+  ],
+  "id": 98348,
+  "malId": 103078,
+  "type": "manga",
+  "title": "Nanatsu no Taizai: Seven Days - Touzoku to Seishoujo",
+  "url": "https://anilist.co/manga/98348",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98348-wp8tExQNImGh.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:02.000Z",
+  "updatedAt": "2021-05-20T14:55:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ee0bd657-5eb4-42a7-9ab1-5886c594989b": {
+        "authors": [
+          "Iwasa Mamoru",
+          "Kokikuji You"
+        ],
+        "identifier": "ee0bd657-5eb4-42a7-9ab1-5886c594989b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nanatsu no Taizai: Seven Days - Touzoku to Seishoujo",
+        "url": "https://mangadex.org/title/ee0bd657-5eb4-42a7-9ab1-5886c594989b",
+        "image": "https://uploads.mangadex.org/covers/ee0bd657-5eb4-42a7-9ab1-5886c594989b/620ed7da-b2ab-4e7c-a422-bcf12ba274f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103078,
+        "aniId": 98348,
+        "createdAt": "2020-10-12T16:13:12.000Z",
+        "updatedAt": "2021-06-05T19:32:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nanatsu_no_taizai_seven_days_touzoku_to_seishoujo": {
+        "authors": [
+          "IWASA Mamoru"
+        ],
+        "identifier": "nanatsu_no_taizai_seven_days_touzoku_to_seishoujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nanatsu no Taizai: Seven Days ~Touzoku to Seishoujo~",
+        "url": "https://fanfox.net/manga/nanatsu_no_taizai_seven_days_touzoku_to_seishoujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/23831/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103078,
+        "aniId": 98348,
+        "createdAt": "2021-02-12T19:05:46.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "Right Hand Gun",
+    "右手に銃、左手に愛。",
+    "Right Hand Gun",
+    "Left Hand Love",
+    "Right Hand Gun Left Hand Love",
+    "Sweet Prisoner"
+  ],
+  "authors": [
+    "Kotetsuko Yamamoto"
+  ],
+  "id": 44303,
+  "malId": 14303,
+  "type": "manga",
+  "title": "Migite ni Juu, Hidarite ni Ai.",
+  "url": "https://anilist.co/manga/44303",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/14303.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:45.000Z",
+  "updatedAt": "2021-06-03T21:19:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "736bdbe9-4617-45ad-948c-b375f9b562d0": {
+        "authors": [
+          "Yamamoto Kotetsuko"
+        ],
+        "identifier": "736bdbe9-4617-45ad-948c-b375f9b562d0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Migite ni Juu, Hidarite ni Ai",
+        "url": "https://mangadex.org/title/736bdbe9-4617-45ad-948c-b375f9b562d0",
+        "image": "https://uploads.mangadex.org/covers/736bdbe9-4617-45ad-948c-b375f9b562d0/a315200a-2e7c-4377-ae81-f84e9c09d45a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14303,
+        "aniId": 44303,
+        "createdAt": "2020-10-12T16:06:37.000Z",
+        "updatedAt": "2021-06-03T21:40:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "migite_ni_juu_hidarite_ni_ai": {
+        "authors": [
+          "Yamamoto",
+          "Kotetsuko"
+        ],
+        "identifier": "migite_ni_juu_hidarite_ni_ai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Migite Ni Juu, Hidarite Ni Ai.",
+        "url": "https://manganelo.com/manga/migite_ni_juu_hidarite_ni_ai",
+        "image": "https://avt.mkklcdnv6temp.com/27/d/3-1583468746.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14303,
+        "aniId": 44303,
+        "createdAt": "2021-05-05T19:33:12.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

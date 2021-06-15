@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ゆめぐりゆりめぐり"
+  ],
+  "authors": [
+    "Hazuki"
+  ],
+  "id": 109232,
+  "malId": 119861,
+  "type": "manga",
+  "title": "Yumeguri Yurimeguri",
+  "url": "https://anilist.co/manga/109232",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109232-oCgTeBsHAN5G.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:09.000Z",
+  "updatedAt": "2021-05-20T14:58:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "32b0dd40-9dcd-4e04-a73c-9be84c025b1e": {
+        "authors": [
+          "Hazuki"
+        ],
+        "identifier": "32b0dd40-9dcd-4e04-a73c-9be84c025b1e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yumeguri Yurimeguri",
+        "url": "https://mangadex.org/title/32b0dd40-9dcd-4e04-a73c-9be84c025b1e",
+        "image": "https://uploads.mangadex.org/covers/32b0dd40-9dcd-4e04-a73c-9be84c025b1e/106caf52-c43a-48c7-bf32-db6708d1eaeb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119861,
+        "aniId": 109232,
+        "createdAt": "2020-10-12T16:17:12.000Z",
+        "updatedAt": "2021-06-07T05:43:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "jh920675": {
+        "authors": [],
+        "identifier": "jh920675",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yumeguri Yurimeguri",
+        "url": "https://manganelo.com/manga/jh920675",
+        "image": "https://avt.mkklcdnv6.com/27/q/19-1583500190.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119861,
+        "aniId": 109232,
+        "createdAt": "2020-10-12T16:23:41.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

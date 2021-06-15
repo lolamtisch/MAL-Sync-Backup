@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "やさしい悪魔",
+    "Kind Demon"
+  ],
+  "authors": [
+    "Akemi Fujii"
+  ],
+  "id": 41595,
+  "malId": 11595,
+  "type": "manga",
+  "title": "Yasashii Akuma",
+  "url": "https://anilist.co/manga/41595",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41595-fopKgYkeI5cQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:11.000Z",
+  "updatedAt": "2021-06-04T15:53:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "610be60d-4731-4d71-81d5-893a9fbd7e57": {
+        "authors": [
+          "Fujii Akemi"
+        ],
+        "identifier": "610be60d-4731-4d71-81d5-893a9fbd7e57",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yasashii Akuma",
+        "url": "https://mangadex.org/title/610be60d-4731-4d71-81d5-893a9fbd7e57",
+        "image": "https://uploads.mangadex.org/covers/610be60d-4731-4d71-81d5-893a9fbd7e57/6b7c15f1-b2b8-4fb2-910d-5300b8b5f54e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11595,
+        "aniId": 41595,
+        "createdAt": "2020-10-12T16:09:08.000Z",
+        "updatedAt": "2021-06-04T22:12:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "sc922203": {
+        "authors": [],
+        "identifier": "sc922203",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yasashii Shirokuma",
+        "url": "https://manganelo.com/manga/sc922203",
+        "image": "https://avt.mkklcdnv6.com/35/a/20-1583502380.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11595,
+        "aniId": 41595,
+        "createdAt": "2020-10-12T16:25:19.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

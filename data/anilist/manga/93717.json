@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "タケヲちゃん物怪録"
+  ],
+  "authors": [
+    "Minoru Toyoda"
+  ],
+  "id": 93717,
+  "malId": 85269,
+  "type": "manga",
+  "title": "Takeo-chan Bukkairoku",
+  "url": "https://anilist.co/manga/93717",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93717-HHef6c8aiIJK.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:36.000Z",
+  "updatedAt": "2021-05-20T14:52:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ab608133-dd59-4e07-8e12-1aa6e42145a1": {
+        "authors": [
+          "Toyoda Minoru"
+        ],
+        "identifier": "ab608133-dd59-4e07-8e12-1aa6e42145a1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Takeo-chan Bukkairoku",
+        "url": "https://mangadex.org/title/ab608133-dd59-4e07-8e12-1aa6e42145a1",
+        "image": "https://uploads.mangadex.org/covers/ab608133-dd59-4e07-8e12-1aa6e42145a1/4d627fd5-628e-478a-bbb4-8188616bc6e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85269,
+        "aniId": 93717,
+        "createdAt": "2020-10-12T16:08:14.000Z",
+        "updatedAt": "2021-06-04T08:39:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "takeochan_bukkairoku": {
+        "authors": [
+          "Toyoda",
+          "Minoru"
+        ],
+        "identifier": "takeochan_bukkairoku",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Takeo-Chan Bukkairoku",
+        "url": "https://manganelo.com/manga/takeochan_bukkairoku",
+        "image": "https://avt.mkklcdnv6temp.com/21/c/1-1583464525.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85269,
+        "aniId": 93717,
+        "createdAt": "2021-02-10T23:45:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

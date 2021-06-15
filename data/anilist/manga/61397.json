@@ -1,0 +1,58 @@
+{
+  "altTitle": [],
+  "authors": [
+    "Tatsuya Hamazaki",
+    "Nao Mitaka"
+  ],
+  "id": 61397,
+  "malId": 31397,
+  "type": "manga",
+  "title": ".hack//Quantum+",
+  "url": "https://anilist.co/manga/61397",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/31397.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:46.000Z",
+  "updatedAt": "2021-05-20T14:47:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "MangaNelo": {
+      "heiquan": {
+        "authors": [],
+        "identifier": "heiquan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Heiquan",
+        "url": "https://manganelo.com/manga/heiquan",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/979-heiquan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31397,
+        "aniId": 61397,
+        "createdAt": "2020-10-12T16:23:18.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "nuan_nuan_wu": {
+        "authors": [],
+        "identifier": "nuan_nuan_wu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Nuan Nuan Wu",
+        "url": "https://manganelo.com/manga/nuan_nuan_wu",
+        "image": "https://avt.mkklcdnv6.com/29/d/2-1583466824.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31397,
+        "aniId": 61397,
+        "createdAt": "2020-10-12T16:24:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

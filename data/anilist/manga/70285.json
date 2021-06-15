@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "空が灰色だから",
+    "Because the Sky Is Gray"
+  ],
+  "authors": [
+    "Tomomi Abe"
+  ],
+  "id": 70285,
+  "malId": 40285,
+  "type": "manga",
+  "title": "Sora ga Haiiro dakara",
+  "url": "https://anilist.co/manga/70285",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/70285-UkEQAa8q35Lv.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:41.000Z",
+  "updatedAt": "2021-05-20T14:48:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "40a5bc77-4889-4780-8d36-3eae7b2c973c": {
+        "authors": [
+          "Abe Tomomi"
+        ],
+        "identifier": "40a5bc77-4889-4780-8d36-3eae7b2c973c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sora ga Haiiro Dakara",
+        "url": "https://mangadex.org/title/40a5bc77-4889-4780-8d36-3eae7b2c973c",
+        "image": "https://uploads.mangadex.org/covers/40a5bc77-4889-4780-8d36-3eae7b2c973c/33108d72-43c0-4c66-8037-a39f7b9fe6ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40285,
+        "aniId": 70285,
+        "createdAt": "2020-10-12T16:04:49.000Z",
+        "updatedAt": "2021-06-02T23:41:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

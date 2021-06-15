@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "ゾゾゾ ゾンビーくん"
+  ],
+  "id": 98467,
+  "malId": 34817,
+  "type": "anime",
+  "title": "Zo Zo Zo Zombie-kun",
+  "url": "https://anilist.co/anime/98467",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98467-F6ucY8lfuC1y.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:22.000Z",
+  "updatedAt": "2021-05-20T14:43:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "xklw": {
+        "identifier": "xklw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zo Zo Zombie (Dub)",
+        "url": "https://9anime.to/watch/zo-zo-zombie-dub.xklw",
+        "image": "https://static.akacdn.ru/files/images/2020/04/55e65248426d5ffbd2affbdf3ce59221.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34817,
+        "aniId": 98467,
+        "createdAt": "2020-10-12T15:56:29.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "zo%20zo%20zombie%20(english%20dub)": {
+        "identifier": "zo%20zo%20zombie%20(english%20dub)",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Zo Zo Zombie (English Dub)",
+        "url": "https://www.crunchyroll.com/zo-zo-zombie?media_id=794300",
+        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/c9d6ec08bcfd1c6949bed4aeb208fc9d1583885126_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34817,
+        "aniId": 98467,
+        "createdAt": "2020-12-31T14:04:38.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

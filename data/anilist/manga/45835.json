@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "キルザキング"
+  ],
+  "authors": [
+    "Kiyo Fujiwara"
+  ],
+  "id": 45835,
+  "malId": 15835,
+  "type": "manga",
+  "title": "Kiruza King",
+  "url": "https://anilist.co/manga/45835",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15835.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:49.000Z",
+  "updatedAt": "2021-05-20T14:43:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "557e421e-90d6-4f95-94bd-b78c0a87f8f9": {
+        "authors": [
+          "FUJIWARA Kiyo"
+        ],
+        "identifier": "557e421e-90d6-4f95-94bd-b78c0a87f8f9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiruza King",
+        "url": "https://mangadex.org/title/557e421e-90d6-4f95-94bd-b78c0a87f8f9",
+        "image": "https://uploads.mangadex.org/covers/557e421e-90d6-4f95-94bd-b78c0a87f8f9/6b73d483-bb78-45a4-a83e-2cbd74f01b3c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15835,
+        "aniId": 45835,
+        "createdAt": "2020-10-12T16:04:10.000Z",
+        "updatedAt": "2021-06-02T19:15:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

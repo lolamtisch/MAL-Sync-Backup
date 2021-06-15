@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "サラダデイズ"
+  ],
+  "authors": [
+    "Shinobu Inokuma"
+  ],
+  "id": 31904,
+  "malId": 1904,
+  "type": "manga",
+  "title": "Salad Days",
+  "url": "https://anilist.co/manga/31904",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1904.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:56.000Z",
+  "updatedAt": "2021-05-20T14:36:56.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e154506b-f57b-4b15-b0e6-623372374eea": {
+        "authors": [
+          "Inokuma Shinobu"
+        ],
+        "identifier": "e154506b-f57b-4b15-b0e6-623372374eea",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Salad Days",
+        "url": "https://mangadex.org/title/e154506b-f57b-4b15-b0e6-623372374eea",
+        "image": "https://uploads.mangadex.org/covers/e154506b-f57b-4b15-b0e6-623372374eea/de88689b-f3d4-42eb-a24c-2354f6779a40.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1904,
+        "aniId": 31904,
+        "createdAt": "2020-10-12T16:02:40.000Z",
+        "updatedAt": "2021-06-02T08:42:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "salad_days": {
+        "authors": [
+          "Inokuma"
+        ],
+        "identifier": "salad_days",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Salad Days",
+        "url": "https://manganelo.com/manga/salad_days",
+        "image": "https://avt.mkklcdnv6.com/45/t/4-1583471613.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1904,
+        "aniId": 31904,
+        "createdAt": "2020-11-12T19:18:35.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "地雷カレシ",
+    "My Boyfriend's a Ticking Time Bomb"
+  ],
+  "authors": [
+    "Hokke Shima"
+  ],
+  "id": 111575,
+  "malId": 122852,
+  "type": "manga",
+  "title": "Jirai Kareshi",
+  "url": "https://anilist.co/manga/111575",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111575-ZzHt3DHyqf2p.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T10:21:07.000Z",
+  "updatedAt": "2021-06-07T10:21:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c4397bf5-ee0d-4722-80ed-c6857efff419": {
+        "authors": [
+          "Shimahokke"
+        ],
+        "identifier": "c4397bf5-ee0d-4722-80ed-c6857efff419",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jirai Kareshi",
+        "url": "https://mangadex.org/title/c4397bf5-ee0d-4722-80ed-c6857efff419",
+        "image": "https://uploads.mangadex.org/covers/c4397bf5-ee0d-4722-80ed-c6857efff419/11af58ed-4f49-4d97-9d80-b7c84adb4212.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 122852,
+        "aniId": 111575,
+        "createdAt": "2020-10-12T16:17:42.000Z",
+        "updatedAt": "2021-06-07T10:32:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

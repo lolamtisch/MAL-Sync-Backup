@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ぶっちぎりCA",
+    "Bucchigiri CA"
+  ],
+  "authors": [
+    "Hideki Oowada"
+  ],
+  "id": 52151,
+  "malId": 22151,
+  "type": "manga",
+  "title": "Bucchigiri Cabin Attendant",
+  "url": "https://anilist.co/manga/52151",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/22151.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:29.000Z",
+  "updatedAt": "2021-05-20T14:46:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "acee363c-a278-4712-ad81-3bc881bbe0eb": {
+        "authors": [
+          "OWADA Hideki"
+        ],
+        "identifier": "acee363c-a278-4712-ad81-3bc881bbe0eb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bucchigiri CA",
+        "url": "https://mangadex.org/title/acee363c-a278-4712-ad81-3bc881bbe0eb",
+        "image": "https://uploads.mangadex.org/covers/acee363c-a278-4712-ad81-3bc881bbe0eb/4d61b3ec-fb3b-4a19-83f6-34ae03eb57f0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22151,
+        "aniId": 52151,
+        "createdAt": "2020-10-12T16:06:00.000Z",
+        "updatedAt": "2021-06-03T16:29:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bucchigiri-c-a": {
+        "authors": [
+          "OWADA Hideki"
+        ],
+        "identifier": "bucchigiri-c-a",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bucchigiri CA",
+        "url": "https://mangasee123.com/manga/Bucchigiri-C-A",
+        "image": "https://cover.nep.li/cover/Bucchigiri-C-A.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22151,
+        "aniId": 52151,
+        "createdAt": "2021-05-04T03:34:11.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

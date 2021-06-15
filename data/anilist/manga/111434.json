@@ -1,0 +1,50 @@
+{
+  "altTitle": [
+    "Genshin Impact",
+    "原神PROJECT",
+    "原神",
+    "Yuanshen",
+    "Yuan Shen",
+    "原神セレベンツ",
+    "Genshin Selevents"
+  ],
+  "authors": [
+    "miHoYo"
+  ],
+  "id": 111434,
+  "malId": null,
+  "type": "manga",
+  "title": "Yuanshen Project",
+  "url": "https://anilist.co/manga/111434",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111434-RTiHLXeDb2un.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T16:12:57.000Z",
+  "updatedAt": "2021-06-06T17:49:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "03eb6c43-9006-477b-9297-7c4bacb6f694": {
+        "authors": [
+          "miHoYo COMIC",
+          "miHoYo"
+        ],
+        "identifier": "03eb6c43-9006-477b-9297-7c4bacb6f694",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Genshin Impact",
+        "url": "https://mangadex.org/title/03eb6c43-9006-477b-9297-7c4bacb6f694",
+        "image": "https://uploads.mangadex.org/covers/03eb6c43-9006-477b-9297-7c4bacb6f694/0b4c3c50-3932-4aea-9c42-d3d4b40b608f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 111434,
+        "createdAt": "2020-10-12T16:15:51.000Z",
+        "updatedAt": "2021-06-06T18:06:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

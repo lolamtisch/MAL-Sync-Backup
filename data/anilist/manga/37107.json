@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "コンノキコノハ",
+    "Leaves of the Deep Blue Tree"
+  ],
+  "authors": [
+    "Sumomo Yumeka"
+  ],
+  "id": 37107,
+  "malId": 7107,
+  "type": "manga",
+  "title": "Kon no Ki Konoha",
+  "url": "https://anilist.co/manga/37107",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/7107.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:45.000Z",
+  "updatedAt": "2021-05-20T14:39:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1": {
+        "authors": [
+          "Yumeka Sumomo"
+        ],
+        "identifier": "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kon no Ki Konoha",
+        "url": "https://mangadex.org/title/6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
+        "image": "https://uploads.mangadex.org/covers/6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1/cbfc39b8-3ca7-4f4c-8d9f-a05ed93c6139.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7107,
+        "aniId": 37107,
+        "createdAt": "2020-10-12T16:04:59.000Z",
+        "updatedAt": "2021-06-03T09:26:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kon_no_ki_konoha": {
+        "authors": [],
+        "identifier": "kon_no_ki_konoha",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kon No Ki Konoha",
+        "url": "https://manganelo.com/manga/kon_no_ki_konoha",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/9870-kon_no_ki_konoha.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7107,
+        "aniId": 37107,
+        "createdAt": "2020-10-12T16:23:59.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

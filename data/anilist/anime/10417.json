@@ -1,0 +1,93 @@
+{
+  "altTitle": [
+    "GYO: Tokyo Fish Attack",
+    "ギョ"
+  ],
+  "id": 10417,
+  "malId": 10417,
+  "type": "anime",
+  "title": "Gyo",
+  "url": "https://anilist.co/anime/10417",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10417-0tPSLVLmnLZY.jpg",
+  "category": "ova",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:15.000Z",
+  "updatedAt": "2021-05-20T14:39:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "pm39": {
+        "identifier": "pm39",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gyo",
+        "url": "https://9anime.ru/watch/gyo.pm39",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-5qrF2aBiD6k/V8UZajkkpNI/AAAAAAAA6ZA/hBgHiZAd3Ck/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10417,
+        "aniId": 10417,
+        "createdAt": "2020-10-12T15:54:48.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gyo": {
+        "identifier": "gyo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gyo",
+        "url": "https://www5.gogoanime.tv/category/gyo",
+        "image": "https://cdnimg.xyz/images/anime/G/Gyo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10417,
+        "aniId": 10417,
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "Anime4you": {
+      "788": {
+        "identifier": "788",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Gyo (GerDub)",
+        "url": "https://www.anime4you.one/show/1/aid/788",
+        "image": "https://cdn.anime4you.one/covers/091017090910106939.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10417,
+        "aniId": 10417,
+        "createdAt": "2020-10-15T12:43:53.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      },
+      "789": {
+        "identifier": "789",
+        "type": "anime",
+        "page": "Anime4you",
+        "title": "Gyo (GerSub)",
+        "url": "https://www.anime4you.one/show/1/aid/789",
+        "image": "https://cdn.anime4you.one/covers/091017090910106939.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10417,
+        "aniId": 10417,
+        "createdAt": "2020-10-15T12:43:54.000Z",
+        "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

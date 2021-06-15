@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "キッド"
+  ],
+  "authors": [
+    "Nanae Tajima"
+  ],
+  "id": 67847,
+  "malId": 37847,
+  "type": "manga",
+  "title": "Kid",
+  "url": "https://anilist.co/manga/67847",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/37847.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:35.000Z",
+  "updatedAt": "2021-05-20T14:48:35.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4ef8edd8-bc8a-44fb-852a-6f9e011021ac": {
+        "authors": [
+          "Nanae Tajima"
+        ],
+        "identifier": "4ef8edd8-bc8a-44fb-852a-6f9e011021ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kid",
+        "url": "https://mangadex.org/title/4ef8edd8-bc8a-44fb-852a-6f9e011021ac",
+        "image": "https://uploads.mangadex.org/covers/4ef8edd8-bc8a-44fb-852a-6f9e011021ac/5ad705a3-c7d7-4637-aebb-2ca4eb8d653a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37847,
+        "aniId": 67847,
+        "createdAt": "2020-10-12T16:04:01.000Z",
+        "updatedAt": "2021-06-02T18:09:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

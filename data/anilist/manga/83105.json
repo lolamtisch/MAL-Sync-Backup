@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "めぐリドコロ"
+  ],
+  "authors": [
+    "Mutsutake"
+  ],
+  "id": 83105,
+  "malId": 53105,
+  "type": "manga",
+  "title": "Meguridokoro",
+  "url": "https://anilist.co/manga/83105",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx83105-WWa5tL7Vrvcg.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:49:57.000Z",
+  "updatedAt": "2021-05-20T14:49:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1a25f1b4-ad22-4228-8207-4ccfbadcaa60": {
+        "authors": [
+          "Mutsutake"
+        ],
+        "identifier": "1a25f1b4-ad22-4228-8207-4ccfbadcaa60",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Meguridokoro",
+        "url": "https://mangadex.org/title/1a25f1b4-ad22-4228-8207-4ccfbadcaa60",
+        "image": "https://uploads.mangadex.org/covers/1a25f1b4-ad22-4228-8207-4ccfbadcaa60/dccac27d-6c41-4ec3-8bc3-cb7e4596de7b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53105,
+        "aniId": 83105,
+        "createdAt": "2020-10-12T16:16:01.000Z",
+        "updatedAt": "2021-06-06T18:58:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

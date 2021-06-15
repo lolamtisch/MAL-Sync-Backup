@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "ナンバーガール"
+  ],
+  "authors": [
+    "Nico Tanigawa"
+  ],
+  "id": 104223,
+  "malId": 59345,
+  "type": "manga",
+  "title": "Number Girl",
+  "url": "https://anilist.co/manga/104223",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104223-R7sQTDqdCSwA.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:37.000Z",
+  "updatedAt": "2021-05-20T14:50:37.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2845adcc-e4b7-41c1-a9e6-140b7a148328": {
+        "authors": [
+          "Tanigawa Nico"
+        ],
+        "identifier": "2845adcc-e4b7-41c1-a9e6-140b7a148328",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Number Girl",
+        "url": "https://mangadex.org/title/2845adcc-e4b7-41c1-a9e6-140b7a148328",
+        "image": "https://uploads.mangadex.org/covers/2845adcc-e4b7-41c1-a9e6-140b7a148328/9c3adb50-7c89-470a-b194-215253b0524f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59345,
+        "aniId": 104223,
+        "createdAt": "2020-10-12T16:13:00.000Z",
+        "updatedAt": "2021-06-05T18:06:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "number_girl": {
+        "authors": [],
+        "identifier": "number_girl",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Number Girl",
+        "url": "https://manganelo.com/manga/number_girl",
+        "image": "https://avt.mkklcdnv6.com/47/r/16-1583495181.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59345,
+        "aniId": 104223,
+        "createdAt": "2020-10-12T16:24:36.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

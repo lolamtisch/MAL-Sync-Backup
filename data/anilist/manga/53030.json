@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "暁の闇",
+    "Akatsuki no Yami",
+    "The Darkness of Dawn"
+  ],
+  "authors": [
+    "Ayumi Kano"
+  ],
+  "id": 53030,
+  "malId": 23030,
+  "type": "manga",
+  "title": "Akatoki no Yami",
+  "url": "https://anilist.co/manga/53030",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23030.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:34.000Z",
+  "updatedAt": "2021-05-20T14:46:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "db727e26-25d7-4f0b-8fa2-f7ae1510d73d": {
+        "authors": [
+          "Kano Ayumi",
+          "Kawai Yumiko"
+        ],
+        "identifier": "db727e26-25d7-4f0b-8fa2-f7ae1510d73d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Akatoki no Yami",
+        "url": "https://mangadex.org/title/db727e26-25d7-4f0b-8fa2-f7ae1510d73d",
+        "image": "https://uploads.mangadex.org/covers/db727e26-25d7-4f0b-8fa2-f7ae1510d73d/d96f7cd5-f0d2-49a4-8463-b3b7bb14926a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23030,
+        "aniId": 53030,
+        "createdAt": "2020-10-12T16:08:12.000Z",
+        "updatedAt": "2021-06-04T08:24:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

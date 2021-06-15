@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "カジカ"
+  ],
+  "authors": [
+    "Akira Toriyama",
+    "Dag Lønsjø"
+  ],
+  "id": 30896,
+  "malId": 896,
+  "type": "manga",
+  "title": "Kajika",
+  "url": "https://anilist.co/manga/30896",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30896-mGVbqg4eMxu4.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:46.000Z",
+  "updatedAt": "2021-05-20T14:35:46.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "cfa01a8e-0f54-4cfb-8e87-0f93d539a20c": {
+        "authors": [
+          "Toriyama Akira"
+        ],
+        "identifier": "cfa01a8e-0f54-4cfb-8e87-0f93d539a20c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kajika",
+        "url": "https://mangadex.org/title/cfa01a8e-0f54-4cfb-8e87-0f93d539a20c",
+        "image": "https://uploads.mangadex.org/covers/cfa01a8e-0f54-4cfb-8e87-0f93d539a20c/435e237f-54f7-4aae-a9a5-becd3b129bbd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 896,
+        "aniId": 30896,
+        "createdAt": "2020-10-12T16:04:57.000Z",
+        "updatedAt": "2021-06-03T00:36:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "ミルクシェル",
+    "Egg Shell",
+    "Passionate Electric Waves",
+    "Kiss Kiss",
+    "Koi no Dracula"
+  ],
+  "authors": [
+    "Milk Morinaga"
+  ],
+  "id": 38349,
+  "malId": 8349,
+  "type": "manga",
+  "title": "Milk Shell",
+  "url": "https://anilist.co/manga/38349",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/8349.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:40:45.000Z",
+  "updatedAt": "2021-05-20T14:40:45.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6524f4a2-6d51-4b37-b1c5-43c382abb5d9": {
+        "authors": [
+          "Morinaga Milk"
+        ],
+        "identifier": "6524f4a2-6d51-4b37-b1c5-43c382abb5d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi no Dracula",
+        "url": "https://mangadex.org/title/6524f4a2-6d51-4b37-b1c5-43c382abb5d9",
+        "image": "https://uploads.mangadex.org/covers/6524f4a2-6d51-4b37-b1c5-43c382abb5d9/4fe6841d-e7eb-4ba2-b439-e5efc0935035.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8349,
+        "aniId": 38349,
+        "createdAt": "2020-10-12T16:04:07.000Z",
+        "updatedAt": "2021-06-02T18:49:42.000Z",
+        "deletedAt": null
+      },
+      "5cad622e-dcdd-48c9-bd39-e4c02572a267": {
+        "authors": [
+          "MORINAGA Milk"
+        ],
+        "identifier": "5cad622e-dcdd-48c9-bd39-e4c02572a267",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Milk Shell",
+        "url": "https://mangadex.org/title/5cad622e-dcdd-48c9-bd39-e4c02572a267",
+        "image": "https://uploads.mangadex.org/covers/5cad622e-dcdd-48c9-bd39-e4c02572a267/296bef25-ae14-4cc4-acd1-0c85962fc9a9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8349,
+        "aniId": 38349,
+        "createdAt": "2020-10-12T16:12:47.000Z",
+        "updatedAt": "2021-06-05T16:22:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

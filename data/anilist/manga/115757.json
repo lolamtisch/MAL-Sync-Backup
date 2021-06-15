@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "恋する竜の島"
+  ],
+  "authors": [
+    "Chisha no Mi"
+  ],
+  "id": 115757,
+  "malId": 131429,
+  "type": "manga",
+  "title": "Koisuru Ryuu no Shima",
+  "url": "https://anilist.co/manga/115757",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115757-jB4itLcDDZWd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T20:36:28.000Z",
+  "updatedAt": "2021-06-07T20:36:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c30a94b5-c3db-4e3d-a0c0-46a5518d7f67": {
+        "authors": [
+          "Chishanomi"
+        ],
+        "identifier": "c30a94b5-c3db-4e3d-a0c0-46a5518d7f67",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koisuru Ryuu no Shima",
+        "url": "https://mangadex.org/title/c30a94b5-c3db-4e3d-a0c0-46a5518d7f67",
+        "image": "https://uploads.mangadex.org/covers/c30a94b5-c3db-4e3d-a0c0-46a5518d7f67/c6bf9fd2-376b-448c-bc99-5e0ba69fd435.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 131429,
+        "aniId": 115757,
+        "createdAt": "2020-10-12T16:18:48.000Z",
+        "updatedAt": "2021-06-07T20:46:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

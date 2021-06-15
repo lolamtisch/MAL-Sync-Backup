@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Shrine of the Morning Mist",
+    "朝霧の巫女"
+  ],
+  "authors": [
+    "Hiroki Ugawa"
+  ],
+  "id": 33730,
+  "malId": 3730,
+  "type": "manga",
+  "title": "Asagiri no Miko",
+  "url": "https://anilist.co/manga/33730",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx33730-epOrGyZV8qmm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:16.000Z",
+  "updatedAt": "2021-05-20T14:38:16.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "13a756d6-030b-479d-8f1b-648dfe9ab016": {
+        "authors": [
+          "Ugawa Hiroki"
+        ],
+        "identifier": "13a756d6-030b-479d-8f1b-648dfe9ab016",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Asagiri no Miko",
+        "url": "https://mangadex.org/title/13a756d6-030b-479d-8f1b-648dfe9ab016",
+        "image": "https://uploads.mangadex.org/covers/13a756d6-030b-479d-8f1b-648dfe9ab016/d46e41cb-8293-442c-ae59-98bf4a595a6c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3730,
+        "aniId": 33730,
+        "createdAt": "2020-10-12T16:07:01.000Z",
+        "updatedAt": "2021-06-03T23:51:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "15sai_asagi_ryuu": {
+        "authors": [],
+        "identifier": "15sai_asagi_ryuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "15-Sai (Asagi Ryuu)",
+        "url": "https://manganelo.com/manga/15sai_asagi_ryuu",
+        "image": "https://avt.mkklcdnv6.com/44/o/2-1583467405.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3730,
+        "aniId": 33730,
+        "createdAt": "2020-10-12T16:21:57.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

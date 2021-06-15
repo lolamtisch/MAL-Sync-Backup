@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Maico 2010",
+    "MAICO2010",
+    "MAICO2010"
+  ],
+  "authors": [
+    "Toshimitsu Shimizu"
+  ],
+  "id": 36865,
+  "malId": 6865,
+  "type": "manga",
+  "title": "Maico 2010",
+  "url": "https://anilist.co/manga/36865",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6865.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:43.000Z",
+  "updatedAt": "2021-05-20T14:39:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0a3778ad-ddc5-4f8e-818c-492915246186": {
+        "authors": [
+          "Shimizu Toshimitsu"
+        ],
+        "identifier": "0a3778ad-ddc5-4f8e-818c-492915246186",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maico 2010",
+        "url": "https://mangadex.org/title/0a3778ad-ddc5-4f8e-818c-492915246186",
+        "image": "https://uploads.mangadex.org/covers/0a3778ad-ddc5-4f8e-818c-492915246186/cb12bb91-a3f3-4862-a9f3-d4d8c3504f04.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6865,
+        "aniId": 36865,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T19:38:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

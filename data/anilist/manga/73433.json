@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "神宿りのナギ",
+    "Shadow Maker Nagi"
+  ],
+  "authors": [
+    "Kei Sanbe"
+  ],
+  "id": 73433,
+  "malId": 43433,
+  "type": "manga",
+  "title": "Kamiyadori no Nagi",
+  "url": "https://anilist.co/manga/73433",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx73433-oTL21Z8BtZMl.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:57.000Z",
+  "updatedAt": "2021-05-20T14:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "03e3ed93-10cc-44d7-89fe-94d1cfd56d45": {
+        "authors": [
+          "Sanbe Kei"
+        ],
+        "identifier": "03e3ed93-10cc-44d7-89fe-94d1cfd56d45",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamiyadori no Nagi",
+        "url": "https://mangadex.org/title/03e3ed93-10cc-44d7-89fe-94d1cfd56d45",
+        "image": "https://uploads.mangadex.org/covers/03e3ed93-10cc-44d7-89fe-94d1cfd56d45/490751c3-438d-4c43-8423-de6789d1e3fd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43433,
+        "aniId": 73433,
+        "createdAt": "2020-10-12T16:20:45.000Z",
+        "updatedAt": "2021-06-08T00:54:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "Momoko Manual",
+    "桃子マニュアル",
+    "桃子マニュアル",
+    "Momoko Manyuaru"
+  ],
+  "authors": [
+    "Yutaka Tachibana"
+  ],
+  "id": 34809,
+  "malId": 4809,
+  "type": "manga",
+  "title": "Momoko Manual",
+  "url": "https://anilist.co/manga/34809",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/4809.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:36.000Z",
+  "updatedAt": "2021-05-20T14:38:36.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9e55ef8b-4cf0-4aab-a1e3-55d6855fb648": {
+        "authors": [
+          "Tachibana Yutaka"
+        ],
+        "identifier": "9e55ef8b-4cf0-4aab-a1e3-55d6855fb648",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Momoko Manual",
+        "url": "https://mangadex.org/title/9e55ef8b-4cf0-4aab-a1e3-55d6855fb648",
+        "image": "https://uploads.mangadex.org/covers/9e55ef8b-4cf0-4aab-a1e3-55d6855fb648/12869342-08ea-4bd4-b271-a6dfafb94371.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4809,
+        "aniId": 34809,
+        "createdAt": "2020-10-12T16:03:41.000Z",
+        "updatedAt": "2021-06-02T15:49:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

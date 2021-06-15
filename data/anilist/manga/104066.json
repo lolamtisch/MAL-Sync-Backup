@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "キボウノシマ",
+    "Island of Hope",
+    "An Island Named Desire"
+  ],
+  "authors": [
+    "Hiroya Moriyasu",
+    "Hiroyuki Tamakoshi"
+  ],
+  "id": 104066,
+  "malId": 108471,
+  "type": "manga",
+  "title": "Kibou no Shima",
+  "url": "https://anilist.co/manga/104066",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n104066-6MBPMUALY7b1.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:55:58.000Z",
+  "updatedAt": "2021-05-20T14:55:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f8e96f84-8632-42f4-9657-b766ac14affa": {
+        "authors": [
+          "Tamakoshi Hiroyuki",
+          "Moriyasu Hiroya"
+        ],
+        "identifier": "f8e96f84-8632-42f4-9657-b766ac14affa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "An Island Named Desire",
+        "url": "https://mangadex.org/title/f8e96f84-8632-42f4-9657-b766ac14affa",
+        "image": "https://uploads.mangadex.org/covers/f8e96f84-8632-42f4-9657-b766ac14affa/b7e611ae-0bce-4c33-81f3-21f4b0219172.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108471,
+        "aniId": 104066,
+        "createdAt": "2020-10-12T16:11:43.000Z",
+        "updatedAt": "2021-06-05T10:32:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "kibou_no_shima": {
+        "authors": [],
+        "identifier": "kibou_no_shima",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Kibou No Shima",
+        "url": "https://manganelo.com/manga/kibou_no_shima",
+        "image": "https://avt.mkklcdnv6.com/26/z/15-1583492427.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108471,
+        "aniId": 104066,
+        "createdAt": "2020-10-12T16:23:53.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

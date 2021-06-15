@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Flower",
+    "花"
+  ],
+  "authors": [
+    "Matsumoto, Taiyou"
+  ],
+  "id": 25848,
+  "type": "manga",
+  "title": "Hana",
+  "url": "https://myanimelist.net/manga/25848/Hana",
+  "image": "https://cdn.myanimelist.net/images/manga/2/48793.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:23.000Z",
+  "updatedAt": "2021-05-04T07:02:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "51a7676a-f726-4c92-a9ad-0d21cc4104a2": {
+        "authors": [
+          "MATSUMOTO Taiyou"
+        ],
+        "identifier": "51a7676a-f726-4c92-a9ad-0d21cc4104a2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flower (MATSUMOTO Taiyou)",
+        "url": "https://mangadex.org/title/51a7676a-f726-4c92-a9ad-0d21cc4104a2",
+        "image": "https://uploads.mangadex.org/covers/51a7676a-f726-4c92-a9ad-0d21cc4104a2/ef39137c-112b-4a45-8b5a-b24e9cffbe54.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25848,
+        "aniId": 55848,
+        "createdAt": "2020-10-12T16:02:55.000Z",
+        "updatedAt": "2021-06-02T10:22:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

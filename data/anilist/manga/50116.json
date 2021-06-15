@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "そら☆みよ",
+    "Soramiyo",
+    "Sora Miyo",
+    "Look at the Sky"
+  ],
+  "authors": [
+    "Kazumi Umekawa"
+  ],
+  "id": 50116,
+  "malId": 20116,
+  "type": "manga",
+  "title": "Sora☆Miyo",
+  "url": "https://anilist.co/manga/50116",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/20116.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:27.000Z",
+  "updatedAt": "2021-05-20T14:45:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a603c0df-669f-47a2-81d5-0477b4bb5e7d": {
+        "authors": [
+          "UMEKAWA Kazumi"
+        ],
+        "identifier": "a603c0df-669f-47a2-81d5-0477b4bb5e7d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Soramiyo",
+        "url": "https://mangadex.org/title/a603c0df-669f-47a2-81d5-0477b4bb5e7d",
+        "image": "https://uploads.mangadex.org/covers/a603c0df-669f-47a2-81d5-0477b4bb5e7d/3d7feb5e-d4bd-4734-a057-bef4b16db0cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20116,
+        "aniId": 50116,
+        "createdAt": "2020-10-12T16:02:51.000Z",
+        "updatedAt": "2021-06-02T09:54:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "soramiyo": {
+        "authors": [
+          "UMEKAWA Kazumi"
+        ],
+        "identifier": "soramiyo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Soramiyo",
+        "url": "https://fanfox.net/manga/soramiyo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7979/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20116,
+        "aniId": 50116,
+        "createdAt": "2021-03-07T14:02:58.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "つよがり"
+  ],
+  "authors": [
+    "Kiyo Fujiwara"
+  ],
+  "id": 35444,
+  "malId": 5444,
+  "type": "manga",
+  "title": "Tsuyogari",
+  "url": "https://anilist.co/manga/35444",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5444.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:28.000Z",
+  "updatedAt": "2021-05-20T14:39:28.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "aed16a84-b4cf-431d-898f-2809c422522f": {
+        "authors": [
+          "Fujiwara Kiyo"
+        ],
+        "identifier": "aed16a84-b4cf-431d-898f-2809c422522f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuyogari",
+        "url": "https://mangadex.org/title/aed16a84-b4cf-431d-898f-2809c422522f",
+        "image": "https://uploads.mangadex.org/covers/aed16a84-b4cf-431d-898f-2809c422522f/883255d9-e446-430b-bf32-db5d7f59b10e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5444,
+        "aniId": 35444,
+        "createdAt": "2020-10-12T16:04:09.000Z",
+        "updatedAt": "2021-06-02T19:10:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

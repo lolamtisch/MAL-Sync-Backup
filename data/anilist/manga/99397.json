@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "소녀지몽",
+    "Dream of a Girl",
+    "A Young Girl's Dream"
+  ],
+  "authors": [
+    "Acho"
+  ],
+  "id": 99397,
+  "malId": null,
+  "type": "manga",
+  "title": "Sonyeo Jimong",
+  "url": "https://anilist.co/manga/99397",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b99397-D1HvnuR4jQiF.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-02T23:31:15.000Z",
+  "updatedAt": "2021-06-02T23:31:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b0d24776-3908-482b-8e6f-ffe5cb1eb1c2": {
+        "authors": [
+          "NachoGirl"
+        ],
+        "identifier": "b0d24776-3908-482b-8e6f-ffe5cb1eb1c2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dream of a Girl",
+        "url": "https://mangadex.org/title/b0d24776-3908-482b-8e6f-ffe5cb1eb1c2",
+        "image": "https://uploads.mangadex.org/covers/b0d24776-3908-482b-8e6f-ffe5cb1eb1c2/1a5adc7a-4e55-4119-b95b-ee8428ed6bcf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99397,
+        "createdAt": "2020-10-12T16:04:46.000Z",
+        "updatedAt": "2021-06-03T08:40:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

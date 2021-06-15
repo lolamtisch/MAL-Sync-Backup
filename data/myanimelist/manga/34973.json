@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "恋愛心中"
+  ],
+  "authors": [
+    "Sasaki, Yuna"
+  ],
+  "id": 34973,
+  "type": "manga",
+  "title": "Renai Shinjuu",
+  "url": "https://myanimelist.net/manga/34973/Renai_Shinjuu",
+  "image": "https://cdn.myanimelist.net/images/manga/2/63593.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-03-31T14:31:14.000Z",
+  "updatedAt": "2021-06-02T21:31:01.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d8c88f99-95fa-4877-974d-275f14ee3273": {
+        "authors": [
+          "Sasaki Yuna"
+        ],
+        "identifier": "d8c88f99-95fa-4877-974d-275f14ee3273",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renai Shinjuu",
+        "url": "https://mangadex.org/title/d8c88f99-95fa-4877-974d-275f14ee3273",
+        "image": "https://uploads.mangadex.org/covers/d8c88f99-95fa-4877-974d-275f14ee3273/1faf617d-977d-4367-a92a-b8be7a4553e9.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 34973,
+        "aniId": 64973,
+        "createdAt": "2020-10-12T16:04:26.000Z",
+        "updatedAt": "2021-06-02T22:00:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "renai_shinjuu": {
+        "authors": [
+          "Sasaki",
+          "Yuna"
+        ],
+        "identifier": "renai_shinjuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Renai Shinjuu",
+        "url": "https://manganelo.com/manga/renai_shinjuu",
+        "image": "https://avt.mkklcdnv6temp.com/25/x/10-1583483110.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34973,
+        "aniId": 64973,
+        "createdAt": "2021-03-31T14:31:14.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "僕らはそれを否定できない",
+    "The Equation of Our Future",
+    "Bokura wa Sore o Hitei Dekinai",
+    "Bokura no Ashita no Houteishiki"
+  ],
+  "authors": [
+    "Kyuugou"
+  ],
+  "id": 59975,
+  "malId": 29975,
+  "type": "manga",
+  "title": "Bokura wa Sore wo Hitei Dekinai",
+  "url": "https://anilist.co/manga/59975",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx59975-sNAGUAgWfsI9.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:39.000Z",
+  "updatedAt": "2021-05-20T14:47:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2a3b002c-505e-476e-a951-39e553b5c0df": {
+        "authors": [
+          "Kyuugou"
+        ],
+        "identifier": "2a3b002c-505e-476e-a951-39e553b5c0df",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bokura wa Sore o Hitei Dekinai",
+        "url": "https://mangadex.org/title/2a3b002c-505e-476e-a951-39e553b5c0df",
+        "image": "https://uploads.mangadex.org/covers/2a3b002c-505e-476e-a951-39e553b5c0df/f669aed3-552e-49ca-b9b9-fd6bff9082c3.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29975,
+        "aniId": 59975,
+        "createdAt": "2020-10-12T16:06:18.000Z",
+        "updatedAt": "2021-06-03T18:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "bokura_wa_sore_o_hitei_dekinai": {
+        "authors": [
+          "Kyuugou"
+        ],
+        "identifier": "bokura_wa_sore_o_hitei_dekinai",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bokura Wa Sore O Hitei Dekinai",
+        "url": "https://manganelo.com/manga/bokura_wa_sore_o_hitei_dekinai",
+        "image": "https://avt.mkklcdnv6temp.com/41/v/7-1583477857.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29975,
+        "aniId": 59975,
+        "createdAt": "2021-05-19T19:31:24.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      },
+      "bokura_no_ashita_no_houteishiki": {
+        "authors": [
+          "Kyuugou"
+        ],
+        "identifier": "bokura_no_ashita_no_houteishiki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Bokura No Ashita No Houteishiki",
+        "url": "https://manganelo.com/manga/bokura_no_ashita_no_houteishiki",
+        "image": "https://avt.mkklcdnv6temp.com/39/d/6-1583475741.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29975,
+        "aniId": 59975,
+        "createdAt": "2021-05-20T06:31:46.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

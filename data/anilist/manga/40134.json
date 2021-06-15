@@ -1,0 +1,87 @@
+{
+  "altTitle": [
+    "Moon of The Fiery Night",
+    "火宵の月",
+    "Hiyoi no Tsuki",
+    "Kashou no Tsuki",
+    "Moon of The Fiery Night"
+  ],
+  "authors": [
+    "Mari Hirai"
+  ],
+  "id": 40134,
+  "malId": 10134,
+  "type": "manga",
+  "title": "Kasho no Tsuki",
+  "url": "https://anilist.co/manga/40134",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx40134-o5mq0blyN6pg.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:41:02.000Z",
+  "updatedAt": "2021-06-04T20:49:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3a6925de-5147-4248-a5bc-34d792423a85": {
+        "authors": [
+          "Hirai Mari"
+        ],
+        "identifier": "3a6925de-5147-4248-a5bc-34d792423a85",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kashou no Tsuki",
+        "url": "https://mangadex.org/title/3a6925de-5147-4248-a5bc-34d792423a85",
+        "image": "https://uploads.mangadex.org/covers/3a6925de-5147-4248-a5bc-34d792423a85/46195071-9354-48bf-8e76-0ca88d99da73.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10134,
+        "aniId": 40134,
+        "createdAt": "2020-10-12T16:09:53.000Z",
+        "updatedAt": "2021-06-04T21:00:05.000Z",
+        "deletedAt": null
+      },
+      "c3710eea-8ad1-4786-9b73-913b79bb08ee": {
+        "authors": [
+          "Fenxiongdongman"
+        ],
+        "identifier": "c3710eea-8ad1-4786-9b73-913b79bb08ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fiery Consort",
+        "url": "https://mangadex.org/title/c3710eea-8ad1-4786-9b73-913b79bb08ee",
+        "image": "https://uploads.mangadex.org/covers/c3710eea-8ad1-4786-9b73-913b79bb08ee/9969250d-eeae-4f3f-9c01-d7271a5f7e25.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10134,
+        "aniId": 40134,
+        "createdAt": "2020-10-12T16:18:51.000Z",
+        "updatedAt": "2021-06-07T20:51:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yh919724": {
+        "authors": [],
+        "identifier": "yh919724",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Fiery Consort",
+        "url": "https://manganelo.com/manga/yh919724",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1128-yh919724.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10134,
+        "aniId": 40134,
+        "createdAt": "2020-10-12T16:26:22.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

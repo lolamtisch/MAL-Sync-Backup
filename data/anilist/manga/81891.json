@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "もらってほしくて",
+    "I Wanted You to Accept Me"
+  ],
+  "authors": [
+    "Mitsutoshi Oona"
+  ],
+  "id": 81891,
+  "malId": 51891,
+  "type": "manga",
+  "title": "Moratte Hoshikute",
+  "url": "https://anilist.co/manga/81891",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/51891.jpg",
+  "category": "one_shot",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:49:52.000Z",
+  "updatedAt": "2021-05-20T14:49:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "75d2a9d5-101f-474c-a744-7594981f3b05": {
+        "authors": [
+          "Oona Mitsutoshi"
+        ],
+        "identifier": "75d2a9d5-101f-474c-a744-7594981f3b05",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Moratte Hoshikute",
+        "url": "https://mangadex.org/title/75d2a9d5-101f-474c-a744-7594981f3b05",
+        "image": "https://uploads.mangadex.org/covers/75d2a9d5-101f-474c-a744-7594981f3b05/67e01475-8243-43cf-a162-fe16d341c53c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51891,
+        "aniId": 81891,
+        "createdAt": "2020-10-12T16:12:07.000Z",
+        "updatedAt": "2021-06-05T13:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

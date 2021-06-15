@@ -1,0 +1,127 @@
+{
+  "altTitle": [
+    ".hack//Legend of the Twilight",
+    ".hack//DUSK, .hack//UdeDen, .hack//Rare Hunter",
+    ".hack//黄昏の腕輪伝説"
+  ],
+  "authors": [
+    "Hamazaki, Tatsuya",
+    "Izumi, Rei"
+  ],
+  "id": 117,
+  "type": "manga",
+  "title": ".hack//Tasogare no Udewa Densetsu",
+  "url": "https://myanimelist.net/manga/117/hack__Tasogare_no_Udewa_Densetsu",
+  "image": "https://cdn.myanimelist.net/images/manga/2/191726.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:18.000Z",
+  "updatedAt": "2021-05-04T05:03:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d56676c2-61be-4ff3-a66e-eb138707369d": {
+        "authors": [
+          "Izumi Rei",
+          "Hamazaki Tatsuya"
+        ],
+        "identifier": "d56676c2-61be-4ff3-a66e-eb138707369d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": ".hack//Tasogare no Udewa Densetsu",
+        "url": "https://mangadex.org/title/d56676c2-61be-4ff3-a66e-eb138707369d",
+        "image": "https://uploads.mangadex.org/covers/d56676c2-61be-4ff3-a66e-eb138707369d/271de75e-fba4-4263-8019-5609990dc6b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117,
+        "aniId": 30117,
+        "createdAt": "2020-10-12T16:04:58.000Z",
+        "updatedAt": "2021-06-03T09:22:20.000Z",
+        "deletedAt": null
+      },
+      "7adb7f61-926e-44af-aed8-05c150357ba7": {
+        "authors": [
+          "Mayuzumi Haruta",
+          "Happy Elements"
+        ],
+        "identifier": "7adb7f61-926e-44af-aed8-05c150357ba7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Phantom in the Twilight",
+        "url": "https://mangadex.org/title/7adb7f61-926e-44af-aed8-05c150357ba7",
+        "image": "https://uploads.mangadex.org/covers/7adb7f61-926e-44af-aed8-05c150357ba7/5789e070-042e-4438-b22a-3655b2cad585.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117,
+        "aniId": 30117,
+        "createdAt": "2020-10-12T16:17:48.000Z",
+        "updatedAt": "2021-06-07T11:15:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gl920556": {
+        "authors": [],
+        "identifier": "gl920556",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Twilight Outfocus",
+        "url": "https://manganelo.com/manga/gl920556",
+        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1954-gl920556.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117,
+        "aniId": 30117,
+        "createdAt": "2020-10-12T16:23:07.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      },
+      "hacktasogare_no_udewa_densetsu": {
+        "authors": [],
+        "identifier": "hacktasogare_no_udewa_densetsu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": ".hack//Tasogare no Udewa Densetsu",
+        "url": "https://manganelo.com/manga/hacktasogare_no_udewa_densetsu",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/4263-hacktasogare_no_udewa_densetsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117,
+        "aniId": 30117,
+        "createdAt": "2020-10-12T16:23:13.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hack_tasogare_no_udewa_densetsu": {
+        "authors": [
+          "HAMAZAKI Tatsuya"
+        ],
+        "identifier": "hack_tasogare_no_udewa_densetsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": ".hack//Tasogare no Udewa Densetsu",
+        "url": "https://fanfox.net/manga/hack_tasogare_no_udewa_densetsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1096/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117,
+        "aniId": 30117,
+        "createdAt": "2021-05-04T05:03:23.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

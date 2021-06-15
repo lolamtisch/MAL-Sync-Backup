@@ -1,0 +1,47 @@
+{
+  "altTitle": [
+    "Springtime For Blossom",
+    "봄이 왔다",
+    "Bomi Wassda"
+  ],
+  "authors": [
+    "JQ STUDIO",
+    "Gang-Hyeon Yeo"
+  ],
+  "id": 112265,
+  "malId": null,
+  "type": "manga",
+  "title": "Bomi Watda",
+  "url": "https://anilist.co/manga/112265",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112265-CDdStiu9ZXLQ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-21T17:12:57.000Z",
+  "updatedAt": "2021-06-06T18:48:57.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "60c328b1-98a5-402a-a163-01cf9225af65": {
+        "authors": [
+          "JQ",
+          "여강현"
+        ],
+        "identifier": "60c328b1-98a5-402a-a163-01cf9225af65",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Springtime for Blossom",
+        "url": "https://mangadex.org/title/60c328b1-98a5-402a-a163-01cf9225af65",
+        "image": "https://uploads.mangadex.org/covers/60c328b1-98a5-402a-a163-01cf9225af65/9d718f36-5bac-40b4-b4a6-da6ee0bb611b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 112265,
+        "createdAt": "2020-10-12T16:16:00.000Z",
+        "updatedAt": "2021-06-06T18:55:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "オオカミ君とシンデレラ",
+    "Wolf Boy and Cinderella"
+  ],
+  "authors": [],
+  "id": 91728,
+  "malId": 73017,
+  "type": "manga",
+  "title": "Ookami-kun to Cinderella",
+  "url": "https://anilist.co/manga/91728",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b91728-7AdPsdJFfpFq.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:51:39.000Z",
+  "updatedAt": "2021-05-20T14:51:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a58df1b1-1487-44ca-bc6a-5c06b97e8005": {
+        "authors": [
+          "AKINO Ema"
+        ],
+        "identifier": "a58df1b1-1487-44ca-bc6a-5c06b97e8005",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ookami-kun to Cinderella",
+        "url": "https://mangadex.org/title/a58df1b1-1487-44ca-bc6a-5c06b97e8005",
+        "image": "https://uploads.mangadex.org/covers/a58df1b1-1487-44ca-bc6a-5c06b97e8005/577cfc56-0fad-4461-8e7b-a96324db1652.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73017,
+        "aniId": 91728,
+        "createdAt": "2020-10-12T16:07:31.000Z",
+        "updatedAt": "2021-06-04T03:28:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "wolf_boy_and_cinderella": {
+        "authors": [
+          "AKINO Ema"
+        ],
+        "identifier": "wolf_boy_and_cinderella",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Wolf Boy and Cinderella",
+        "url": "https://fanfox.net/manga/wolf_boy_and_cinderella/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13892/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73017,
+        "aniId": 91728,
+        "createdAt": "2021-05-10T14:44:06.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

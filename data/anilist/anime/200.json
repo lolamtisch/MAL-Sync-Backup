@@ -1,0 +1,57 @@
+{
+  "altTitle": [
+    "Cheeky Angel",
+    "天使な小生意気"
+  ],
+  "id": 200,
+  "malId": 200,
+  "type": "anime",
+  "title": "Tenshi na Konamaiki",
+  "url": "https://anilist.co/anime/200",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/200.jpg",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:33:34.000Z",
+  "updatedAt": "2021-05-20T14:33:34.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "177x": {
+        "identifier": "177x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tenshi na Konamaiki",
+        "url": "https://9anime.ru/watch/tenshi-na-konamaiki.177x",
+        "image": "https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&amp;gadget=a&amp;no_expand=1&amp;refresh=604800&amp;url=http://2.bp.blogspot.com/-RTgSID1D0RE/V7aX93yrNQI/AAAAAAAA4NI/iMl1yhb_zhM/s0/",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 200,
+        "aniId": 200,
+        "createdAt": "2020-10-12T15:49:10.000Z",
+        "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cheeky-angel": {
+        "identifier": "cheeky-angel",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cheeky Angel",
+        "url": "https://gogoanime.so/category/cheeky-angel",
+        "image": "https://gogocdn.net/images/anime/C/cheeky-angel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 200,
+        "aniId": 200,
+        "createdAt": "2020-12-22T20:26:19.000Z",
+        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

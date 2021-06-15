@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Holy Night"
+  ],
+  "authors": [
+    "Yoshino Kataoka"
+  ],
+  "id": 35543,
+  "malId": 5543,
+  "type": "manga",
+  "title": "Holy Night",
+  "url": "https://anilist.co/manga/35543",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5543.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-03T15:48:58.000Z",
+  "updatedAt": "2021-06-03T15:48:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d0c8e130-5b93-4645-b000-55b3096f496c": {
+        "authors": [
+          "KATAOKA Yoshino"
+        ],
+        "identifier": "d0c8e130-5b93-4645-b000-55b3096f496c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Holy Night",
+        "url": "https://mangadex.org/title/d0c8e130-5b93-4645-b000-55b3096f496c",
+        "image": "https://uploads.mangadex.org/covers/d0c8e130-5b93-4645-b000-55b3096f496c/749f67be-f05f-4f94-8948-be1dcdcea625.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5543,
+        "aniId": 35543,
+        "createdAt": "2020-10-12T16:05:53.000Z",
+        "updatedAt": "2021-06-03T16:18:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

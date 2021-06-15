@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "うまよん"
+  ],
+  "authors": [
+    "Itou Jin",
+    "Cygames",
+    "Kumajet"
+  ],
+  "id": 116943,
+  "malId": null,
+  "type": "manga",
+  "title": "Umayon",
+  "url": "https://anilist.co/manga/116943",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116943-mafaoyrLL1lF.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T13:35:59.000Z",
+  "updatedAt": "2021-06-07T13:35:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "899a6cee-3f2a-42d5-85a1-1388afa0e232": {
+        "authors": [
+          "KumaJet",
+          "CyGames"
+        ],
+        "identifier": "899a6cee-3f2a-42d5-85a1-1388afa0e232",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "UmaYon - Mini Comics",
+        "url": "https://mangadex.org/title/899a6cee-3f2a-42d5-85a1-1388afa0e232",
+        "image": "https://uploads.mangadex.org/covers/899a6cee-3f2a-42d5-85a1-1388afa0e232/a51798fa-72a4-4b43-b661-652608b20754.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116943,
+        "createdAt": "2020-10-12T16:18:02.000Z",
+        "updatedAt": "2021-06-07T13:40:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

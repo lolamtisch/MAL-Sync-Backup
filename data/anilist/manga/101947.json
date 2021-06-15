@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "三日月のカルテ"
+  ],
+  "authors": [
+    "Nana Nanasaka"
+  ],
+  "id": 101947,
+  "malId": 111949,
+  "type": "manga",
+  "title": "Mikazuki no Carte",
+  "url": "https://anilist.co/manga/101947",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101947-WMIPTFDhhUfx.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:52.000Z",
+  "updatedAt": "2021-05-20T14:56:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df9316fb-f900-49b4-96ac-8dbca96d2fac": {
+        "authors": [
+          "Nana Nanasaka"
+        ],
+        "identifier": "df9316fb-f900-49b4-96ac-8dbca96d2fac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mikazuki no Carte",
+        "url": "https://mangadex.org/title/df9316fb-f900-49b4-96ac-8dbca96d2fac",
+        "image": "https://uploads.mangadex.org/covers/df9316fb-f900-49b4-96ac-8dbca96d2fac/02f855f9-c012-42c6-91ee-68100f421f70.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111949,
+        "aniId": 101947,
+        "createdAt": "2020-10-12T16:11:21.000Z",
+        "updatedAt": "2021-06-05T07:39:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "mikazuki_no_carte": {
+        "authors": [
+          "Nana",
+          "Nanasaka"
+        ],
+        "identifier": "mikazuki_no_carte",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Mikazuki No Carte",
+        "url": "https://manganelo.com/manga/mikazuki_no_carte",
+        "image": "https://avt.mkklcdnv6.com/45/a/16-1583495088.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111949,
+        "aniId": 101947,
+        "createdAt": "2021-01-11T17:21:43.000Z",
+        "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

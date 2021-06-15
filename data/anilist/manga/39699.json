@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "Classmates",
+    "同級生",
+    "Doukyusei",
+    "Classmate",
+    "Absolwenci",
+    "En la misma clase"
+  ],
+  "authors": [
+    "Asumiko Nakamura",
+    "Ana María Caro",
+    "Jocelyne Allen"
+  ],
+  "id": 39699,
+  "malId": 9699,
+  "type": "manga",
+  "title": "Doukyuusei",
+  "url": "https://anilist.co/manga/39699",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx39699-qtuG8BilsMtO.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:40:58.000Z",
+  "updatedAt": "2021-05-20T14:40:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "09bd6580-9626-447f-ae9f-b221f33ade74": {
+        "authors": [
+          "Nakamura Asumiko"
+        ],
+        "identifier": "09bd6580-9626-447f-ae9f-b221f33ade74",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Doukyuusei",
+        "url": "https://mangadex.org/title/09bd6580-9626-447f-ae9f-b221f33ade74",
+        "image": "https://uploads.mangadex.org/covers/09bd6580-9626-447f-ae9f-b221f33ade74/378440a4-14b6-4dae-956f-3039e56cdae3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9699,
+        "aniId": 39699,
+        "createdAt": "2020-10-12T16:08:40.000Z",
+        "updatedAt": "2021-06-04T11:51:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "doukyuusei": {
+        "authors": [],
+        "identifier": "doukyuusei",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Doukyuusei",
+        "url": "https://manganelo.com/manga/doukyuusei",
+        "image": "https://avt.mkklcdnv6.com/15/o/3-1583468256.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9699,
+        "aniId": 39699,
+        "createdAt": "2020-10-12T16:22:42.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "doukyuusei": {
+        "authors": [
+          "NAKAMURA Asumiko"
+        ],
+        "identifier": "doukyuusei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Doukyuusei",
+        "url": "https://fanfox.net/manga/doukyuusei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5361/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9699,
+        "aniId": 39699,
+        "createdAt": "2020-12-28T03:44:16.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

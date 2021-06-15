@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Fake",
+    "FAKE"
+  ],
+  "authors": [
+    "Matoh, Sanami"
+  ],
+  "id": 314,
+  "type": "manga",
+  "title": "Fake",
+  "url": "https://myanimelist.net/manga/314/Fake",
+  "image": "https://cdn.myanimelist.net/images/manga/3/161939.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:20.000Z",
+  "updatedAt": "2021-06-12T19:09:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eac524a5-89ff-42ac-b032-a71803829a3a": {
+        "authors": [
+          "Matoh Sanami"
+        ],
+        "identifier": "eac524a5-89ff-42ac-b032-a71803829a3a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fake",
+        "url": "https://mangadex.org/title/eac524a5-89ff-42ac-b032-a71803829a3a",
+        "image": "https://uploads.mangadex.org/covers/eac524a5-89ff-42ac-b032-a71803829a3a/37180ce7-90c1-456c-a803-ddd9579b7896.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 314,
+        "aniId": 30314,
+        "createdAt": "2020-10-12T16:11:34.000Z",
+        "updatedAt": "2021-06-05T09:22:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "New Devilman",
+    "新デビルマン"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 43753,
+  "malId": 13753,
+  "type": "manga",
+  "title": "Shin Devilman",
+  "url": "https://anilist.co/manga/43753",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13753.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:38.000Z",
+  "updatedAt": "2021-05-20T14:42:38.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9dea0e32-3a19-416e-8832-c0b2fd937cce": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "9dea0e32-3a19-416e-8832-c0b2fd937cce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shin Devilman",
+        "url": "https://mangadex.org/title/9dea0e32-3a19-416e-8832-c0b2fd937cce",
+        "image": "https://uploads.mangadex.org/covers/9dea0e32-3a19-416e-8832-c0b2fd937cce/ea38729c-8f38-481e-bd5b-759ae2b7ff49.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13753,
+        "aniId": 43753,
+        "createdAt": "2020-10-12T16:07:04.000Z",
+        "updatedAt": "2021-06-04T00:10:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shin_devilman": {
+        "authors": [],
+        "identifier": "shin_devilman",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shin Devilman",
+        "url": "https://manganelo.com/manga/shin_devilman",
+        "image": "https://avt.mkklcdnv6.com/9/w/6-1583474506.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13753,
+        "aniId": 43753,
+        "createdAt": "2020-10-12T16:25:25.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

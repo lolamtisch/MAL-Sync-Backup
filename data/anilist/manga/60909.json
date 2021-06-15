@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Love Like a Game",
+    "恋愛ゲーム"
+  ],
+  "authors": [
+    "Peko Chidori"
+  ],
+  "id": 60909,
+  "malId": 30909,
+  "type": "manga",
+  "title": "Renai Game",
+  "url": "https://anilist.co/manga/60909",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/30909.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:42.000Z",
+  "updatedAt": "2021-05-20T14:47:42.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "de4b0eaa-61c2-4bf1-bef5-f0b8aaaefba1": {
+        "authors": [
+          "Chidori Peko"
+        ],
+        "identifier": "de4b0eaa-61c2-4bf1-bef5-f0b8aaaefba1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renai Game",
+        "url": "https://mangadex.org/title/de4b0eaa-61c2-4bf1-bef5-f0b8aaaefba1",
+        "image": "https://uploads.mangadex.org/covers/de4b0eaa-61c2-4bf1-bef5-f0b8aaaefba1/3e7e03f4-46dd-416a-8861-dd9db2a53aa9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30909,
+        "aniId": 60909,
+        "createdAt": "2020-10-12T16:05:54.000Z",
+        "updatedAt": "2021-06-03T15:53:37.000Z",
+        "deletedAt": null
+      },
+      "b209ae85-dfca-4310-b424-03adea3b9df0": {
+        "authors": [
+          "Chidori Peko"
+        ],
+        "identifier": "b209ae85-dfca-4310-b424-03adea3b9df0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ijiwaru Na Hero",
+        "url": "https://mangadex.org/title/b209ae85-dfca-4310-b424-03adea3b9df0",
+        "image": "https://uploads.mangadex.org/covers/b209ae85-dfca-4310-b424-03adea3b9df0/c0b97cc6-b25a-46d3-8322-96039cba5aaf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 30909,
+        "aniId": 60909,
+        "createdAt": "2020-10-12T16:07:46.000Z",
+        "updatedAt": "2021-06-04T08:48:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "유령왕",
+    "Yuurei Ou ",
+    "Yuurei Oh"
+  ],
+  "authors": [
+    "Jae-Ho Yoon",
+    "Dal Young Im"
+  ],
+  "id": 48553,
+  "malId": 18553,
+  "type": "manga",
+  "title": "The Phantom King",
+  "url": "https://anilist.co/manga/48553",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18553.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:12.000Z",
+  "updatedAt": "2021-05-20T14:45:12.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "24ceaa4b-d8b9-4c30-b00c-a75d69fdb41f": {
+        "authors": [
+          "Yoon Jae-Ho",
+          "Im Dal-Young"
+        ],
+        "identifier": "24ceaa4b-d8b9-4c30-b00c-a75d69fdb41f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Phantom King",
+        "url": "https://mangadex.org/title/24ceaa4b-d8b9-4c30-b00c-a75d69fdb41f",
+        "image": "https://uploads.mangadex.org/covers/24ceaa4b-d8b9-4c30-b00c-a75d69fdb41f/4618bac8-e243-4355-ab04-1fbe6f35e3cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18553,
+        "aniId": 48553,
+        "createdAt": "2020-10-12T16:02:30.000Z",
+        "updatedAt": "2021-06-02T07:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "phantom-king": {
+        "authors": [
+          "LIM Dall-Young",
+          "YOON Jae-Ho"
+        ],
+        "identifier": "phantom-king",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Phantom King",
+        "url": "https://mangasee123.com/manga/Phantom-King",
+        "image": "https://cover.nep.li/cover/Phantom-King.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18553,
+        "aniId": 48553,
+        "createdAt": "2021-04-13T22:15:39.000Z",
+        "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

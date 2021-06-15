@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "マンホール"
+  ],
+  "authors": [
+    "Tetsuya Tsutsui"
+  ],
+  "id": 31415,
+  "malId": 1415,
+  "type": "manga",
+  "title": "Manhole",
+  "url": "https://anilist.co/manga/31415",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1415.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:44.000Z",
+  "updatedAt": "2021-05-20T14:36:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a7627072-c0cd-4d72-b2c7-cb3cd33ac87a": {
+        "authors": [
+          "Tsutsui Tetsuya"
+        ],
+        "identifier": "a7627072-c0cd-4d72-b2c7-cb3cd33ac87a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Manhole",
+        "url": "https://mangadex.org/title/a7627072-c0cd-4d72-b2c7-cb3cd33ac87a",
+        "image": "https://uploads.mangadex.org/covers/a7627072-c0cd-4d72-b2c7-cb3cd33ac87a/63ea23f3-e128-455b-ad95-9a0527c45990.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1415,
+        "aniId": 31415,
+        "createdAt": "2020-10-12T16:03:28.000Z",
+        "updatedAt": "2021-06-02T14:12:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "manhole": {
+        "authors": [
+          "Tsutsui",
+          "Tetsuya"
+        ],
+        "identifier": "manhole",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Manhole",
+        "url": "https://manganelo.com/manga/manhole",
+        "image": "https://avt.mkklcdnv6temp.com/38/u/10-1583483575.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1415,
+        "aniId": 31415,
+        "createdAt": "2021-05-06T17:19:08.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "manhole": {
+        "authors": [
+          "TSUTSUI Tetsuya"
+        ],
+        "identifier": "manhole",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Manhole",
+        "url": "https://mangasee123.com/manga/Manhole",
+        "image": "https://cover.nep.li/cover/Manhole.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1415,
+        "aniId": 31415,
+        "createdAt": "2021-05-31T09:40:33.000Z",
+        "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

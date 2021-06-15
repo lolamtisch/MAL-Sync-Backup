@@ -1,0 +1,92 @@
+{
+  "altTitle": [
+    "PENGUINDRUM",
+    "輪るピングドラム"
+  ],
+  "authors": [
+    "Isuzu Shibata",
+    "Lily Hoshino",
+    "Kunihiko Ikuhara"
+  ],
+  "id": 88512,
+  "malId": 57849,
+  "type": "manga",
+  "title": "Mawaru Penguindrum",
+  "url": "https://anilist.co/manga/88512",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx88512-PRrh60hIhEkC.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:50:32.000Z",
+  "updatedAt": "2021-05-20T14:50:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4cc467e3-9042-41d1-86e4-51e74d02ecde": {
+        "authors": [
+          "SHIBATA Isuzu",
+          "Ikunichauda"
+        ],
+        "identifier": "4cc467e3-9042-41d1-86e4-51e74d02ecde",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mawaru Penguindrum",
+        "url": "https://mangadex.org/title/4cc467e3-9042-41d1-86e4-51e74d02ecde",
+        "image": "https://uploads.mangadex.org/covers/4cc467e3-9042-41d1-86e4-51e74d02ecde/700ab842-f3fb-4144-bd94-d0d595e8fab2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57849,
+        "aniId": 88512,
+        "createdAt": "2020-10-12T16:07:51.000Z",
+        "updatedAt": "2021-06-04T05:49:48.000Z",
+        "deletedAt": null
+      },
+      "0070370f-18a6-4289-8d82-8b1d7c7339d9": {
+        "authors": [
+          "Momiji Mao",
+          "Komorebi Note (circle)"
+        ],
+        "identifier": "0070370f-18a6-4289-8d82-8b1d7c7339d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mawaru Penguindrum - Listen, You Lowlifes Who Want to See How Foolish I Am (Doujinshi)",
+        "url": "https://mangadex.org/title/0070370f-18a6-4289-8d82-8b1d7c7339d9",
+        "image": "https://uploads.mangadex.org/covers/0070370f-18a6-4289-8d82-8b1d7c7339d9/62a51a7b-2532-4771-8e28-7133aad2c414.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57849,
+        "aniId": 88512,
+        "createdAt": "2020-10-12T16:14:34.000Z",
+        "updatedAt": "2021-06-06T06:11:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mawaru-penguindrum": {
+        "authors": [
+          "HOSHINO Lily",
+          "Ikunichauda",
+          "SHIBATA Isuzu"
+        ],
+        "identifier": "mawaru-penguindrum",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mawaru Penguindrum",
+        "url": "https://mangasee123.com/manga/Mawaru-Penguindrum",
+        "image": "https://cover.nep.li/cover/Mawaru-Penguindrum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57849,
+        "aniId": 88512,
+        "createdAt": "2020-12-31T14:46:15.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

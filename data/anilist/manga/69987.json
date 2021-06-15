@@ -1,0 +1,108 @@
+{
+  "altTitle": [
+    "Ani-Imo",
+    "兄が妹で妹が兄で。"
+  ],
+  "authors": [
+    "Haruko Kurumatani",
+    "Abigail Blackman",
+    "Christine Dashiell"
+  ],
+  "id": 69987,
+  "malId": 39987,
+  "type": "manga",
+  "title": "Ani ga Imouto de Imouto ga Ani de.",
+  "url": "https://anilist.co/manga/69987",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx69987-btuE2ox7R75D.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:41.000Z",
+  "updatedAt": "2021-05-20T14:48:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "997bb5e8-d772-41fc-8a03-ea66c9948327": {
+        "authors": [
+          "Kurumatani Haruko"
+        ],
+        "identifier": "997bb5e8-d772-41fc-8a03-ea66c9948327",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ani ga Imouto de Imouto ga Ani de",
+        "url": "https://mangadex.org/title/997bb5e8-d772-41fc-8a03-ea66c9948327",
+        "image": "https://uploads.mangadex.org/covers/997bb5e8-d772-41fc-8a03-ea66c9948327/deec4873-5d9a-4208-b357-157c97374d21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39987,
+        "aniId": 69987,
+        "createdAt": "2020-10-12T16:04:48.000Z",
+        "updatedAt": "2021-06-02T23:35:42.000Z",
+        "deletedAt": null
+      },
+      "1bddb3cb-44c8-471a-9133-f9589fb1c879": {
+        "authors": [
+          "Uchimura Kaname"
+        ],
+        "identifier": "1bddb3cb-44c8-471a-9133-f9589fb1c879",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Imouto wa Ii Mono da",
+        "url": "https://mangadex.org/title/1bddb3cb-44c8-471a-9133-f9589fb1c879",
+        "image": "https://uploads.mangadex.org/covers/1bddb3cb-44c8-471a-9133-f9589fb1c879/29bdce0c-9549-4b33-af11-cecc8774747c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39987,
+        "aniId": 69987,
+        "createdAt": "2020-10-12T16:17:44.000Z",
+        "updatedAt": "2021-06-07T10:26:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ani_ga_imouto_de_imouto_ga_ani_de": {
+        "authors": [],
+        "identifier": "ani_ga_imouto_de_imouto_ga_ani_de",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ani Ga Imouto De Imouto Ga Ani De.",
+        "url": "https://manganelo.com/manga/ani_ga_imouto_de_imouto_ga_ani_de",
+        "image": "https://avt.mkklcdnv6.com/34/l/3-1583469034.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39987,
+        "aniId": 69987,
+        "createdAt": "2020-10-12T16:22:06.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ani-ga-imouto-de-imouto-ga-ani-de": {
+        "authors": [
+          "KURUMATANI Haruko"
+        ],
+        "identifier": "ani-ga-imouto-de-imouto-ga-ani-de",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ani ga Imouto de Imouto ga Ani de.",
+        "url": "https://mangasee123.com/manga/Ani-Ga-Imouto-De-Imouto-Ga-Ani-De",
+        "image": "https://cover.nep.li/cover/Ani-Ga-Imouto-De-Imouto-Ga-Ani-De.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39987,
+        "aniId": 69987,
+        "createdAt": "2021-04-21T14:27:08.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

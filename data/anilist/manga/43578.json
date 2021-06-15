@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "うぶんちゅ！"
+  ],
+  "authors": [
+    "Hiroshi Seo"
+  ],
+  "id": 43578,
+  "malId": 13578,
+  "type": "manga",
+  "title": "Ubunchu!",
+  "url": "https://anilist.co/manga/43578",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43578-EfMWsQYcIj5S.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:36.000Z",
+  "updatedAt": "2021-06-05T10:21:39.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a6bfedbc-9846-4a97-9fcb-77a426d978e6": {
+        "authors": [
+          "Hiroshi Seo"
+        ],
+        "identifier": "a6bfedbc-9846-4a97-9fcb-77a426d978e6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ubunchu!",
+        "url": "https://mangadex.org/title/a6bfedbc-9846-4a97-9fcb-77a426d978e6",
+        "image": "https://uploads.mangadex.org/covers/a6bfedbc-9846-4a97-9fcb-77a426d978e6/54384a80-4f30-4140-900b-7f4d1d661803.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13578,
+        "aniId": 43578,
+        "createdAt": "2020-10-12T16:11:39.000Z",
+        "updatedAt": "2021-06-05T12:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ep919152": {
+        "authors": [],
+        "identifier": "ep919152",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ubunchu!",
+        "url": "https://manganelo.com/manga/ep919152",
+        "image": "https://avt.mkklcdnv6.com/21/s/18-1583497948.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13578,
+        "aniId": 43578,
+        "createdAt": "2020-10-12T16:22:50.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

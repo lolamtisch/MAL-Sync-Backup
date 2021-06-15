@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "みにでゅら"
+  ],
+  "authors": [
+    "Ryohgo Narita",
+    "Youko Umezu"
+  ],
+  "id": 86718,
+  "malId": 81485,
+  "type": "manga",
+  "title": "Minidura",
+  "url": "https://anilist.co/manga/86718",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56718-UkH9nMqkrLRt.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-04T07:20:40.000Z",
+  "updatedAt": "2021-06-04T07:20:40.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "14eb025c-0790-4e48-a888-ccd64bfc960e": {
+        "authors": [
+          "Narita Ryohgo",
+          "Umezu Youko"
+        ],
+        "identifier": "14eb025c-0790-4e48-a888-ccd64bfc960e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Minidura",
+        "url": "https://mangadex.org/title/14eb025c-0790-4e48-a888-ccd64bfc960e",
+        "image": "https://uploads.mangadex.org/covers/14eb025c-0790-4e48-a888-ccd64bfc960e/bd2f5714-fdda-4074-8a2c-27ece8336db5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81485,
+        "aniId": 86718,
+        "createdAt": "2020-10-12T16:08:00.000Z",
+        "updatedAt": "2021-06-04T08:55:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "altTitle": [
+    "ウィ キャン フライ!"
+  ],
+  "authors": [],
+  "id": 47074,
+  "malId": 17074,
+  "type": "manga",
+  "title": "We Can Fly!",
+  "url": "https://anilist.co/manga/47074",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/17074.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:02.000Z",
+  "updatedAt": "2021-05-20T14:44:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "81a9a7a4-8b65-4124-a884-548d64db0d75": {
+        "authors": [
+          "Megane Mirin"
+        ],
+        "identifier": "81a9a7a4-8b65-4124-a884-548d64db0d75",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "We Can Fly!",
+        "url": "https://mangadex.org/title/81a9a7a4-8b65-4124-a884-548d64db0d75",
+        "image": "https://uploads.mangadex.org/covers/81a9a7a4-8b65-4124-a884-548d64db0d75/cc40c896-6175-46b8-a2d4-3da9358ad79b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17074,
+        "aniId": 47074,
+        "createdAt": "2020-10-12T16:05:26.000Z",
+        "updatedAt": "2021-06-03T12:35:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

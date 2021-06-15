@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "バイオレンスジャック",
+    "Violence Jack Kanzenban"
+  ],
+  "authors": [
+    "Go Nagai"
+  ],
+  "id": 31442,
+  "malId": 1442,
+  "type": "manga",
+  "title": "Violence Jack",
+  "url": "https://anilist.co/manga/31442",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31442-dNQg2E0ftARm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:36:44.000Z",
+  "updatedAt": "2021-05-20T14:36:44.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "eaa7e3d4-4f91-4a2e-89b0-afe448dc6b2a": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "eaa7e3d4-4f91-4a2e-89b0-afe448dc6b2a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Violence Jack",
+        "url": "https://mangadex.org/title/eaa7e3d4-4f91-4a2e-89b0-afe448dc6b2a",
+        "image": "https://uploads.mangadex.org/covers/eaa7e3d4-4f91-4a2e-89b0-afe448dc6b2a/df214597-f55a-4e83-a021-48b1fc7889fc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1442,
+        "aniId": 31442,
+        "createdAt": "2020-10-12T16:04:02.000Z",
+        "updatedAt": "2021-06-02T18:14:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "violence_jack": {
+        "authors": [],
+        "identifier": "violence_jack",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Violence Jack",
+        "url": "https://manganelo.com/manga/violence_jack",
+        "image": "https://avt.mkklcdnv6.com/23/h/8-1583479064.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1442,
+        "aniId": 31442,
+        "createdAt": "2020-10-12T16:26:02.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

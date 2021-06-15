@@ -1,0 +1,70 @@
+{
+  "altTitle": [
+    "Evil's Return",
+    "천지인",
+    "天地人"
+  ],
+  "authors": [
+    "Shin Hwan",
+    "Jong-Kyu Lee",
+    "Seung-Ah Lee",
+    "Vicente Rivera Jr.",
+    "Haruko Furukawa"
+  ],
+  "id": 30312,
+  "malId": 312,
+  "type": "manga",
+  "title": "Cheonjiin",
+  "url": "https://anilist.co/manga/30312",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30312-GHn7JxBtJjdF.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:27.000Z",
+  "updatedAt": "2021-05-20T14:35:27.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f79c76f-97e2-45cd-9308-c2c499a18f37": {
+        "authors": [
+          "LEE Jong-Kyu",
+          "SHIN Hwan"
+        ],
+        "identifier": "4f79c76f-97e2-45cd-9308-c2c499a18f37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Evil's Return",
+        "url": "https://mangadex.org/title/4f79c76f-97e2-45cd-9308-c2c499a18f37",
+        "image": "https://uploads.mangadex.org/covers/4f79c76f-97e2-45cd-9308-c2c499a18f37/cfcf30c7-20a1-467d-b73d-7f53353c6fdc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 312,
+        "aniId": 30312,
+        "createdAt": "2020-10-12T16:13:15.000Z",
+        "updatedAt": "2021-06-05T19:55:52.000Z",
+        "deletedAt": null
+      },
+      "99254ceb-b05d-4b27-8672-5bae9018ff9c": {
+        "authors": [
+          "Lina Im (임리나)"
+        ],
+        "identifier": "99254ceb-b05d-4b27-8672-5bae9018ff9c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blade 2 - The Return of Evil",
+        "url": "https://mangadex.org/title/99254ceb-b05d-4b27-8672-5bae9018ff9c",
+        "image": "https://uploads.mangadex.org/covers/99254ceb-b05d-4b27-8672-5bae9018ff9c/47b1a5e8-c856-4170-8e35-b03950dd32f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 312,
+        "aniId": 30312,
+        "createdAt": "2020-10-12T16:16:20.000Z",
+        "updatedAt": "2021-06-06T21:38:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

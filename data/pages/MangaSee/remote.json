@@ -1,0 +1,64 @@
+{
+  "authors": [
+    "AMAGI Seimaru",
+    "KOSHIBA Tetsuya"
+  ],
+  "identifier": "remote",
+  "type": "manga",
+  "page": "MangaSee",
+  "title": "Remote",
+  "url": "https://mangasee123.com/manga/Remote",
+  "image": "https://cover.nep.li/cover/Remote.jpg",
+  "hentai": false,
+  "sticky": false,
+  "active": true,
+  "actor": null,
+  "malId": 499,
+  "aniId": 30499,
+  "createdAt": "2021-03-12T11:39:09.000Z",
+  "updatedAt": "2021-05-20T15:39:24.000Z",
+  "deletedAt": null,
+  "Mal": {
+    "altTitle": [
+      ".remote.",
+      "リモート"
+    ],
+    "authors": [
+      "Kibayashi, Shin",
+      "Koshiba, Tetsuya"
+    ],
+    "id": 499,
+    "type": "manga",
+    "title": "Remote",
+    "url": "https://myanimelist.net/manga/499/Remote",
+    "image": "https://cdn.myanimelist.net/images/manga/1/56465.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:22.000Z",
+    "updatedAt": "2021-04-08T07:21:59.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Remote; .remote.",
+      "リモート",
+      ".remote."
+    ],
+    "authors": [
+      "Shin Kibayashi",
+      "Tetsuya Koshiba"
+    ],
+    "id": 30499,
+    "malId": 499,
+    "type": "manga",
+    "title": "Remote",
+    "url": "https://anilist.co/manga/30499",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30499-AiyH3MfgWKi5.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:34.000Z",
+    "updatedAt": "2021-05-20T14:35:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/499/Remote"
+}

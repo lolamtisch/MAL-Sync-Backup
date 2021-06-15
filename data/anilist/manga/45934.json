@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "湯の花つばめ",
+    "Yu no Hana Tsubame"
+  ],
+  "authors": [
+    "Shouko Konami"
+  ],
+  "id": 45934,
+  "malId": 15934,
+  "type": "manga",
+  "title": "Yunohana Tsubame",
+  "url": "https://anilist.co/manga/45934",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15934.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:43:52.000Z",
+  "updatedAt": "2021-05-20T14:43:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "576558d0-f47f-4466-9777-06fd97b20e1b": {
+        "authors": [
+          "Konami Shouko"
+        ],
+        "identifier": "576558d0-f47f-4466-9777-06fd97b20e1b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yu no Hana Tsubame",
+        "url": "https://mangadex.org/title/576558d0-f47f-4466-9777-06fd97b20e1b",
+        "image": "https://uploads.mangadex.org/covers/576558d0-f47f-4466-9777-06fd97b20e1b/4d0beaca-737a-4121-af22-f7ee66c6bc83.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15934,
+        "aniId": 45934,
+        "createdAt": "2020-10-12T16:05:57.000Z",
+        "updatedAt": "2021-06-03T16:06:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yu_no_hana_tsubame": {
+        "authors": [
+          "KONAMI Shouko"
+        ],
+        "identifier": "yu_no_hana_tsubame",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yu no Hana Tsubame",
+        "url": "https://fanfox.net/manga/yu_no_hana_tsubame/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1696/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15934,
+        "aniId": 45934,
+        "createdAt": "2021-05-20T20:43:37.000Z",
+        "updatedAt": "2021-05-20T21:12:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

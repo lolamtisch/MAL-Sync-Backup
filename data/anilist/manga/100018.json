@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "なつみちドライブ"
+  ],
+  "authors": [
+    "Homuro Mita"
+  ],
+  "id": 100018,
+  "malId": 101759,
+  "type": "manga",
+  "title": "Natsumichi Drive",
+  "url": "https://anilist.co/manga/100018",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100018-6EyskoN4Muz5.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:54:54.000Z",
+  "updatedAt": "2021-05-20T14:54:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "93db7de8-d050-4865-a22d-f9bd2f7e9c3c": {
+        "authors": [
+          "Mita Homuro"
+        ],
+        "identifier": "93db7de8-d050-4865-a22d-f9bd2f7e9c3c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Natsumichi Drive",
+        "url": "https://mangadex.org/title/93db7de8-d050-4865-a22d-f9bd2f7e9c3c",
+        "image": "https://uploads.mangadex.org/covers/93db7de8-d050-4865-a22d-f9bd2f7e9c3c/7ff340a4-b57d-4c36-af01-b04955108a3d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101759,
+        "aniId": 100018,
+        "createdAt": "2020-10-12T16:10:10.000Z",
+        "updatedAt": "2021-06-04T22:43:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

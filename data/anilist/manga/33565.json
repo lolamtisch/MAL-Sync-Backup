@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Shinobi Life",
+    "シノビライフ",
+    "Ninja Life"
+  ],
+  "authors": [
+    "Shouko Konami"
+  ],
+  "id": 33565,
+  "malId": 3565,
+  "type": "manga",
+  "title": "Shinobi Life",
+  "url": "https://anilist.co/manga/33565",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33565-E9l7QxE1hhXt.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:13.000Z",
+  "updatedAt": "2021-05-20T14:38:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "746e02b6-c71d-43a4-9783-0143962a9d0c": {
+        "authors": [
+          "Konami Shouko"
+        ],
+        "identifier": "746e02b6-c71d-43a4-9783-0143962a9d0c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinobi Life",
+        "url": "https://mangadex.org/title/746e02b6-c71d-43a4-9783-0143962a9d0c",
+        "image": "https://uploads.mangadex.org/covers/746e02b6-c71d-43a4-9783-0143962a9d0c/c5ba0a21-7f93-4c26-b3cd-aa57f6a7f40e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3565,
+        "aniId": 33565,
+        "createdAt": "2020-10-12T16:03:17.000Z",
+        "updatedAt": "2021-06-02T12:51:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "shinobi_life": {
+        "authors": [],
+        "identifier": "shinobi_life",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Shinobi Life",
+        "url": "https://manganelo.com/manga/shinobi_life",
+        "image": "https://avt.mkklcdnv6.com/45/k/4-1583471599.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3565,
+        "aniId": 33565,
+        "createdAt": "2020-10-12T16:25:25.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shinobi-life": {
+        "authors": [
+          "KONAMI Shouko"
+        ],
+        "identifier": "shinobi-life",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shinobi Life",
+        "url": "https://mangasee123.com/manga/Shinobi-Life",
+        "image": "https://cover.nep.li/cover/Shinobi-Life.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3565,
+        "aniId": 33565,
+        "createdAt": "2021-04-12T23:45:31.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shinobi_life": {
+        "authors": [
+          "KONAMI Shouko"
+        ],
+        "identifier": "shinobi_life",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shinobi Life",
+        "url": "https://fanfox.net/manga/shinobi_life/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1085/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3565,
+        "aniId": 33565,
+        "createdAt": "2021-04-22T10:58:49.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

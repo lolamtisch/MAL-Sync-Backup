@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Nano List",
+    "나노리스트"
+  ],
+  "authors": [
+    "Song-A Min"
+  ],
+  "id": 97615,
+  "malId": null,
+  "type": "manga",
+  "title": "Nano List",
+  "url": "https://anilist.co/manga/97615",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97615-IQv0LhyE3QuM.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T21:08:18.000Z",
+  "updatedAt": "2021-06-08T06:20:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "bc2680f7-6ace-4851-8f51-ade84ecb6dbb": {
+        "authors": [
+          "Min Song Ah"
+        ],
+        "identifier": "bc2680f7-6ace-4851-8f51-ade84ecb6dbb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nano List",
+        "url": "https://mangadex.org/title/bc2680f7-6ace-4851-8f51-ade84ecb6dbb",
+        "image": "https://uploads.mangadex.org/covers/bc2680f7-6ace-4851-8f51-ade84ecb6dbb/1cda01a9-2dea-4809-ade4-32ad0465297f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 97615,
+        "createdAt": "2020-10-12T16:09:55.000Z",
+        "updatedAt": "2021-06-04T22:06:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

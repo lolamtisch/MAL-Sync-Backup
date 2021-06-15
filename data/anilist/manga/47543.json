@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ツマヌダ格闘街",
+    "Tsumanuda Kakutoumachi"
+  ],
+  "authors": [
+    "Michiro Ueyama"
+  ],
+  "id": 47543,
+  "malId": 17543,
+  "type": "manga",
+  "title": "Tsumanuda Fight Town",
+  "url": "https://anilist.co/manga/47543",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx47543-NxNH8lW6K6R1.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:08.000Z",
+  "updatedAt": "2021-05-20T14:44:08.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "ac261fd1-2b8f-4a2d-abda-f929e5cc2989": {
+        "authors": [
+          "Ueyama Michiro"
+        ],
+        "identifier": "ac261fd1-2b8f-4a2d-abda-f929e5cc2989",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsumanuda Fight Town",
+        "url": "https://mangadex.org/title/ac261fd1-2b8f-4a2d-abda-f929e5cc2989",
+        "image": "https://uploads.mangadex.org/covers/ac261fd1-2b8f-4a2d-abda-f929e5cc2989/faf364d7-0c66-4b44-881c-f287f588a3d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17543,
+        "aniId": 47543,
+        "createdAt": "2020-10-12T16:03:11.000Z",
+        "updatedAt": "2021-06-02T12:16:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

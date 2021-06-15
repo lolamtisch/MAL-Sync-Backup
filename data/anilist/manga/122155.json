@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "우리가 사랑하는 방법",
+    "How We Love",
+    "The Way We Love"
+  ],
+  "authors": [
+    "Kibi"
+  ],
+  "id": 122155,
+  "malId": null,
+  "type": "manga",
+  "title": "Uriga Saranghaneun Bangbeop",
+  "url": "https://anilist.co/manga/122155",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122155-4wbhY1teFzJw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T19:36:18.000Z",
+  "updatedAt": "2021-06-07T19:36:18.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1c27acc8-b735-4587-a041-e489eba852a5": {
+        "authors": [
+          "Kibi"
+        ],
+        "identifier": "1c27acc8-b735-4587-a041-e489eba852a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "How We Love",
+        "url": "https://mangadex.org/title/1c27acc8-b735-4587-a041-e489eba852a5",
+        "image": "https://uploads.mangadex.org/covers/1c27acc8-b735-4587-a041-e489eba852a5/ef7cd04e-8c43-42c7-a2ca-d224be12dce4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 122155,
+        "createdAt": "2020-10-12T16:18:44.000Z",
+        "updatedAt": "2021-06-07T19:46:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

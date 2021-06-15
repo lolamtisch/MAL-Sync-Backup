@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "연록흔"
+  ],
+  "authors": [
+    "SuYeong Han",
+    "DoGyung Lee"
+  ],
+  "id": 112653,
+  "malId": null,
+  "type": "manga",
+  "title": "Yeon Lok Heun",
+  "url": "https://anilist.co/manga/112653",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112653-rsmOiWLtIZRo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-23T23:08:18.000Z",
+  "updatedAt": "2021-06-07T07:49:00.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "0ee33627-9a1d-454d-bf11-25ee1fa0a136": {
+        "authors": [
+          "Han SuYeong",
+          "Lee DoGyung"
+        ],
+        "identifier": "0ee33627-9a1d-454d-bf11-25ee1fa0a136",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yeon Lok Heun",
+        "url": "https://mangadex.org/title/0ee33627-9a1d-454d-bf11-25ee1fa0a136",
+        "image": "https://uploads.mangadex.org/covers/0ee33627-9a1d-454d-bf11-25ee1fa0a136/4a23c7a8-89a5-4522-a340-af7589b764fc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112653,
+        "createdAt": "2020-10-12T16:17:25.000Z",
+        "updatedAt": "2021-06-07T08:10:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

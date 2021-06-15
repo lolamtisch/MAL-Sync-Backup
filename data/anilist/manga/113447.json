@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "末永くよろしくお願いします",
+    "永生永世請多指教"
+  ],
+  "authors": [
+    "Junko Ike"
+  ],
+  "id": 113447,
+  "malId": 129944,
+  "type": "manga",
+  "title": "Suenagaku Yoroshiku Onegaishimasu",
+  "url": "https://anilist.co/manga/113447",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113447-CVdcn9Q5hajw.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:29.000Z",
+  "updatedAt": "2021-05-20T14:59:29.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2fe66428-2172-4567-9460-229c9ad260e5": {
+        "authors": [
+          "Ike Junko"
+        ],
+        "identifier": "2fe66428-2172-4567-9460-229c9ad260e5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suenagaku Yoroshiku Onegai Shimasu",
+        "url": "https://mangadex.org/title/2fe66428-2172-4567-9460-229c9ad260e5",
+        "image": "https://uploads.mangadex.org/covers/2fe66428-2172-4567-9460-229c9ad260e5/7e00138b-3c31-4ca4-8188-17c61f05665a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129944,
+        "aniId": 113447,
+        "createdAt": "2020-10-12T16:19:12.000Z",
+        "updatedAt": "2021-06-07T21:29:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "suenaga_yoroshiku_onegaishimasu": {
+        "authors": [
+          "Ike Junko"
+        ],
+        "identifier": "suenaga_yoroshiku_onegaishimasu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Suenaga Yoroshiku Onegaishimasu",
+        "url": "https://fanfox.net/manga/suenaga_yoroshiku_onegaishimasu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33591/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129944,
+        "aniId": 113447,
+        "createdAt": "2021-04-05T02:09:05.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

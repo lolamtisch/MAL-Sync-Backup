@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "雨と君と",
+    "Rain, You, and..."
+  ],
+  "authors": [
+    "Kou Nikaidou"
+  ],
+  "id": 123004,
+  "malId": 129418,
+  "type": "manga",
+  "title": "Ame to Kimi to",
+  "url": "https://anilist.co/manga/123004",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123004-lHltcFcKvt6e.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:59:24.000Z",
+  "updatedAt": "2021-05-20T14:59:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "193f91a0-51ef-4653-b3d7-a3f75c42ee9b": {
+        "authors": [
+          "Nikaidou Ko"
+        ],
+        "identifier": "193f91a0-51ef-4653-b3d7-a3f75c42ee9b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ame to Kimi to",
+        "url": "https://mangadex.org/title/193f91a0-51ef-4653-b3d7-a3f75c42ee9b",
+        "image": "https://uploads.mangadex.org/covers/193f91a0-51ef-4653-b3d7-a3f75c42ee9b/8d7796df-646c-4c9b-81f3-a9a43276b211.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129418,
+        "aniId": 123004,
+        "createdAt": "2020-10-12T16:21:18.000Z",
+        "updatedAt": "2021-06-08T02:01:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ame_to_kimi_to": {
+        "authors": [
+          "NIKAIDOU Kou"
+        ],
+        "identifier": "ame_to_kimi_to",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ame to Kimi to",
+        "url": "https://fanfox.net/manga/ame_to_kimi_to/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34753/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129418,
+        "aniId": 123004,
+        "createdAt": "2021-03-18T06:32:54.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

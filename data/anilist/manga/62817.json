@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "死神姫の再婚",
+    "Shinigami Hime no Saikon"
+  ],
+  "authors": [
+    "Ryou Fujiwara",
+    "Meiya Onogami"
+  ],
+  "id": 62817,
+  "malId": 32817,
+  "type": "manga",
+  "title": "Shinigamihime no Saikon",
+  "url": "https://anilist.co/manga/62817",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx62817-YJEeJ0UIXI9j.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:52.000Z",
+  "updatedAt": "2021-05-20T14:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6f21e01e-ceca-4799-9b7d-b370712102b8": {
+        "authors": [
+          "Onogami Meiya",
+          "Fujiwara Ryou"
+        ],
+        "identifier": "6f21e01e-ceca-4799-9b7d-b370712102b8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinigami Hime no Saikon",
+        "url": "https://mangadex.org/title/6f21e01e-ceca-4799-9b7d-b370712102b8",
+        "image": "https://uploads.mangadex.org/covers/6f21e01e-ceca-4799-9b7d-b370712102b8/6da38da0-1d30-49d1-955e-9aa2ff44e389.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32817,
+        "aniId": 62817,
+        "createdAt": "2020-10-12T16:06:02.000Z",
+        "updatedAt": "2021-06-03T16:39:29.000Z",
+        "deletedAt": null
+      },
+      "3f0c534c-04b9-4954-afc8-2c8908a3b063": {
+        "authors": [
+          "HONDA Shingo"
+        ],
+        "identifier": "3f0c534c-04b9-4954-afc8-2c8908a3b063",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saiko",
+        "url": "https://mangadex.org/title/3f0c534c-04b9-4954-afc8-2c8908a3b063",
+        "image": "https://uploads.mangadex.org/covers/3f0c534c-04b9-4954-afc8-2c8908a3b063/5dab4550-21f7-407a-9a3f-a5c48ecbce2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32817,
+        "aniId": 62817,
+        "createdAt": "2020-10-12T16:13:28.000Z",
+        "updatedAt": "2021-06-05T21:34:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shinigamihime_no_saikon": {
+        "authors": [
+          "ONOGAMI Meiya"
+        ],
+        "identifier": "shinigamihime_no_saikon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shinigamihime no Saikon",
+        "url": "https://fanfox.net/manga/shinigamihime_no_saikon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11870/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32817,
+        "aniId": 62817,
+        "createdAt": "2021-03-30T13:31:01.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

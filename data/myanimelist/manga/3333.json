@@ -1,0 +1,42 @@
+{
+  "altTitle": [
+    "ハヤブサ"
+  ],
+  "authors": [
+    "Roppongi, Aya"
+  ],
+  "id": 3333,
+  "type": "manga",
+  "title": "Hayabusa",
+  "url": "https://myanimelist.net/manga/3333/Hayabusa",
+  "image": "https://cdn.myanimelist.net/images/manga/3/3681.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:50.000Z",
+  "updatedAt": "2021-04-28T02:50:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c11fde86-7673-4282-9478-7375d03c8784": {
+        "authors": [
+          "Roppongi Aya"
+        ],
+        "identifier": "c11fde86-7673-4282-9478-7375d03c8784",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hayabusa",
+        "url": "https://mangadex.org/title/c11fde86-7673-4282-9478-7375d03c8784",
+        "image": "https://uploads.mangadex.org/covers/c11fde86-7673-4282-9478-7375d03c8784/974b3c5f-10e4-4f60-9da0-c75f20c65aa3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3333,
+        "aniId": 33333,
+        "createdAt": "2020-10-12T16:06:52.000Z",
+        "updatedAt": "2021-06-03T22:42:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

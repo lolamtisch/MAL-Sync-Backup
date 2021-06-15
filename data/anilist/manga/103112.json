@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "Mr.Monster"
+  ],
+  "authors": [
+    "Kagiri Araido"
+  ],
+  "id": 103112,
+  "malId": null,
+  "type": "manga",
+  "title": "Mr. Monster",
+  "url": "https://anilist.co/manga/103112",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103112-1tBuogjkbo7O.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T15:49:48.000Z",
+  "updatedAt": "2021-06-05T15:49:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e2c5fd76-ae79-444d-b060-dfce25e0977f": {
+        "authors": [
+          "Araido Kagiri"
+        ],
+        "identifier": "e2c5fd76-ae79-444d-b060-dfce25e0977f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mr. Monster",
+        "url": "https://mangadex.org/title/e2c5fd76-ae79-444d-b060-dfce25e0977f",
+        "image": "https://uploads.mangadex.org/covers/e2c5fd76-ae79-444d-b060-dfce25e0977f/19b09d7b-06e0-477c-9bb3-cc63265a0d57.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 103112,
+        "createdAt": "2020-10-12T16:12:39.000Z",
+        "updatedAt": "2021-06-05T16:10:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

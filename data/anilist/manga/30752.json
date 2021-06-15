@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "まぶらほ"
+  ],
+  "authors": [
+    "Toshihiko Tsukiji",
+    "Miki Miyashita"
+  ],
+  "id": 30752,
+  "malId": 752,
+  "type": "manga",
+  "title": "Maburaho",
+  "url": "https://anilist.co/manga/30752",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30752-0ygQNVs2hoJo.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:43.000Z",
+  "updatedAt": "2021-05-20T14:35:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a7bef065-ca97-417a-9b06-d99b483ecb9d": {
+        "authors": [
+          "Tsukiji Toshihiko",
+          "Miyashita Miki"
+        ],
+        "identifier": "a7bef065-ca97-417a-9b06-d99b483ecb9d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maburaho",
+        "url": "https://mangadex.org/title/a7bef065-ca97-417a-9b06-d99b483ecb9d",
+        "image": "https://uploads.mangadex.org/covers/a7bef065-ca97-417a-9b06-d99b483ecb9d/618620e2-3a98-4651-a1a0-05cd3b065175.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 752,
+        "aniId": 30752,
+        "createdAt": "2020-10-12T16:03:41.000Z",
+        "updatedAt": "2021-06-02T15:44:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

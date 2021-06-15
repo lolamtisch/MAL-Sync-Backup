@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "邪馬台幻想記"
+  ],
+  "authors": [
+    "Kentarou Yabuki"
+  ],
+  "id": 31012,
+  "malId": 1012,
+  "type": "manga",
+  "title": "Yamato Gensouki",
+  "url": "https://anilist.co/manga/31012",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b31012-98W37KfWEqNm.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:51.000Z",
+  "updatedAt": "2021-05-20T14:35:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8713f6cf-0956-4fba-a194-af049ff2eee0": {
+        "authors": [
+          "Yabuki Kentaro"
+        ],
+        "identifier": "8713f6cf-0956-4fba-a194-af049ff2eee0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yamato Gensouki",
+        "url": "https://mangadex.org/title/8713f6cf-0956-4fba-a194-af049ff2eee0",
+        "image": "https://uploads.mangadex.org/covers/8713f6cf-0956-4fba-a194-af049ff2eee0/99a97955-1123-4c54-90f8-013ca6de9d73.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1012,
+        "aniId": 31012,
+        "createdAt": "2020-10-12T16:04:50.000Z",
+        "updatedAt": "2021-06-02T23:44:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yamato_gensouki": {
+        "authors": [
+          "Yabuki",
+          "Kentaro"
+        ],
+        "identifier": "yamato_gensouki",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yamato Gensouki",
+        "url": "https://manganelo.com/manga/yamato_gensouki",
+        "image": "https://avt.mkklcdnv6.com/4/d/10-1583482326.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1012,
+        "aniId": 31012,
+        "createdAt": "2020-12-25T03:56:15.000Z",
+        "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

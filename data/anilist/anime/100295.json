@@ -1,0 +1,39 @@
+{
+  "altTitle": [
+    "酷跑英雄",
+    "Parkour Hero",
+    "The Running Heroes"
+  ],
+  "id": 100295,
+  "malId": 36440,
+  "type": "anime",
+  "title": "Ku Pao Yingxiong",
+  "url": "https://anilist.co/anime/100295",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100295-owui37hyOOP6.jpg",
+  "category": "ona",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:44:26.000Z",
+  "updatedAt": "2021-05-20T14:44:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Gogoanime": {
+      "the-running-heroes": {
+        "identifier": "the-running-heroes",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Running Heroes",
+        "url": "https://www5.gogoanime.io/category/the-running-heroes",
+        "image": "https://cdnimg.xyz/cover/the-running-heroes.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36440,
+        "aniId": 100295,
+        "createdAt": "2020-10-12T16:02:04.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

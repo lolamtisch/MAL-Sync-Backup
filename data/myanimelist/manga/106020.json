@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "とりたん"
+  ],
+  "authors": [
+    "Yamamoto, Kotetsuko"
+  ],
+  "id": 106020,
+  "type": "manga",
+  "title": "Toritan",
+  "url": "https://myanimelist.net/manga/106020/Toritan",
+  "image": "https://cdn.myanimelist.net/images/manga/3/194166.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:47:01.000Z",
+  "updatedAt": "2021-05-03T18:03:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "caace745-f5b0-4520-bb18-ae2610942f13": {
+        "authors": [
+          "Yamamoto Kotetsuko"
+        ],
+        "identifier": "caace745-f5b0-4520-bb18-ae2610942f13",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toritan",
+        "url": "https://mangadex.org/title/caace745-f5b0-4520-bb18-ae2610942f13",
+        "image": "https://uploads.mangadex.org/covers/caace745-f5b0-4520-bb18-ae2610942f13/368bc23f-52d6-40a2-bff3-31cd8f9f2b3e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106020,
+        "aniId": 100019,
+        "createdAt": "2020-10-12T16:10:38.000Z",
+        "updatedAt": "2021-06-05T02:10:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "toritan": {
+        "authors": [
+          "Yamamoto",
+          "Kotetsuko"
+        ],
+        "identifier": "toritan",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Toritan",
+        "url": "https://manganelo.com/manga/toritan",
+        "image": "https://avt.mkklcdnv6temp.com/16/d/15-1583492043.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106020,
+        "aniId": 100019,
+        "createdAt": "2021-05-03T18:03:07.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

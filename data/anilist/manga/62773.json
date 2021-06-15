@@ -1,0 +1,71 @@
+{
+  "altTitle": [
+    "그녀와 나의 거리 5000만km",
+    "50 Million Kilometer",
+    "Fifty Million Kilometers"
+  ],
+  "authors": [
+    "Jin Woo Park",
+    "Thor"
+  ],
+  "id": 62773,
+  "malId": 32773,
+  "type": "manga",
+  "title": "50 Million Km",
+  "url": "https://anilist.co/manga/62773",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32773.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:52.000Z",
+  "updatedAt": "2021-05-20T14:47:52.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c4e2775d-40fb-419f-9cc6-10f12f326df7": {
+        "authors": [
+          "박진우",
+          "Thor"
+        ],
+        "identifier": "c4e2775d-40fb-419f-9cc6-10f12f326df7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "50 Million Km",
+        "url": "https://mangadex.org/title/c4e2775d-40fb-419f-9cc6-10f12f326df7",
+        "image": "https://uploads.mangadex.org/covers/c4e2775d-40fb-419f-9cc6-10f12f326df7/cf26d331-1b26-455c-8b85-2443b2125d11.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32773,
+        "aniId": 62773,
+        "createdAt": "2020-10-12T16:03:25.000Z",
+        "updatedAt": "2021-06-02T13:49:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "50_million_km": {
+        "authors": [
+          "Park",
+          "Jin",
+          "Woo"
+        ],
+        "identifier": "50_million_km",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "50 Million Km",
+        "url": "https://manganelo.com/manga/50_million_km",
+        "image": "https://avt.mkklcdnv6.com/14/w/4-1583470278.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32773,
+        "aniId": 62773,
+        "createdAt": "2021-02-07T23:20:30.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "求めてやまない"
+  ],
+  "authors": [
+    "Sangatsu Masao"
+  ],
+  "id": 104206,
+  "malId": 114692,
+  "type": "manga",
+  "title": "Motomete Yamanai",
+  "url": "https://anilist.co/manga/104206",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/104206-sMlZDsL0JPns.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:57:11.000Z",
+  "updatedAt": "2021-05-20T14:57:11.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "39166fb3-55a1-40a8-8221-0ba0a5fae8bc": {
+        "authors": [
+          "Masao Sangatsu"
+        ],
+        "identifier": "39166fb3-55a1-40a8-8221-0ba0a5fae8bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Motomete Yamanai",
+        "url": "https://mangadex.org/title/39166fb3-55a1-40a8-8221-0ba0a5fae8bc",
+        "image": "https://uploads.mangadex.org/covers/39166fb3-55a1-40a8-8221-0ba0a5fae8bc/9332f764-219c-4e35-a305-3cb8c09b5d1c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114692,
+        "aniId": 104206,
+        "createdAt": "2020-10-12T16:14:33.000Z",
+        "updatedAt": "2021-06-06T06:07:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "motomete_yamanai": {
+        "authors": [
+          "MASAO Sangatsu"
+        ],
+        "identifier": "motomete_yamanai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Motomete Yamanai",
+        "url": "https://fanfox.net/manga/motomete_yamanai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27942/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114692,
+        "aniId": 104206,
+        "createdAt": "2021-04-01T11:00:51.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "altTitle": [],
+  "authors": [],
+  "id": 112012,
+  "type": "manga",
+  "title": "Mitsu-Tsuki",
+  "url": "https://myanimelist.net/manga/112012/Mitsu-Tsuki",
+  "image": null,
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2021-06-05T19:49:59.000Z",
+  "updatedAt": "2021-06-05T19:49:59.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "1e8e0586-6c7d-409c-ae70-c196110c560c": {
+        "authors": [
+          "OKU Megumi"
+        ],
+        "identifier": "1e8e0586-6c7d-409c-ae70-c196110c560c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mitsu-Tsuki",
+        "url": "https://mangadex.org/title/1e8e0586-6c7d-409c-ae70-c196110c560c",
+        "image": "https://uploads.mangadex.org/covers/1e8e0586-6c7d-409c-ae70-c196110c560c/bd4b6b82-5ae3-4fdd-bd37-96655322ed53.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 112012,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:13:13.000Z",
+        "updatedAt": "2021-06-05T20:20:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

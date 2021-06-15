@@ -1,0 +1,109 @@
+{
+  "altTitle": [
+    "Archlord",
+    "아크로드",
+    "アークロード"
+  ],
+  "authors": [
+    "Jin-Hwan Park"
+  ],
+  "id": 30126,
+  "malId": 126,
+  "type": "manga",
+  "title": "Archlord",
+  "url": "https://anilist.co/manga/30126",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30126-mDKoDvZy8MKD.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:24.000Z",
+  "updatedAt": "2021-05-20T14:35:24.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "8d414a19-9a19-49c3-9465-773686c686da": {
+        "authors": [
+          "Park Jin-Hwan"
+        ],
+        "identifier": "8d414a19-9a19-49c3-9465-773686c686da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Archlord",
+        "url": "https://mangadex.org/title/8d414a19-9a19-49c3-9465-773686c686da",
+        "image": "https://uploads.mangadex.org/covers/8d414a19-9a19-49c3-9465-773686c686da/bbcd09e3-65d2-42b4-b4cd-fbf58fd9b684.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126,
+        "aniId": 30126,
+        "createdAt": "2020-10-12T16:03:54.000Z",
+        "updatedAt": "2021-06-02T17:16:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "archlord": {
+        "authors": [],
+        "identifier": "archlord",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Archlord",
+        "url": "https://manganelo.com/manga/archlord",
+        "image": "https://avt.mkklcdnv6.com/48/w/6-1583476225.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126,
+        "aniId": 30126,
+        "createdAt": "2020-10-12T16:22:08.000Z",
+        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "archlord": {
+        "authors": [
+          "PARK Jin-Hwan"
+        ],
+        "identifier": "archlord",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Archlord",
+        "url": "https://fanfox.net/manga/archlord/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7028/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126,
+        "aniId": 30126,
+        "createdAt": "2021-05-09T17:18:37.000Z",
+        "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mk960367": {
+        "authors": [
+          "Park Jin-Hwan"
+        ],
+        "identifier": "manga-mk960367",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Archlord",
+        "url": "https://manganato.com/manga-mk960367",
+        "image": "https://avt.mkklcdnv6temp.com/48/w/6-1583476225.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126,
+        "aniId": 30126,
+        "createdAt": "2021-06-09T16:34:14.000Z",
+        "updatedAt": "2021-06-09T17:04:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

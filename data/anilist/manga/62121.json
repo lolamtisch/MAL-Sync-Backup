@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "とりぷるさんしゃいん"
+  ],
+  "authors": [
+    "Tomohiro Kouda"
+  ],
+  "id": 62121,
+  "malId": 32121,
+  "type": "manga",
+  "title": "Triple Sunshine",
+  "url": "https://anilist.co/manga/62121",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/32121.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-05-20T14:47:49.000Z",
+  "updatedAt": "2021-05-20T14:47:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "2fa2056c-a022-4baa-b82b-26ff1c603e55": {
+        "authors": [
+          "KOUDA Tomohiro"
+        ],
+        "identifier": "2fa2056c-a022-4baa-b82b-26ff1c603e55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Triple Sunshine",
+        "url": "https://mangadex.org/title/2fa2056c-a022-4baa-b82b-26ff1c603e55",
+        "image": "https://uploads.mangadex.org/covers/2fa2056c-a022-4baa-b82b-26ff1c603e55/1c7dfba7-a959-4506-9ecd-82835db0a363.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32121,
+        "aniId": 62121,
+        "createdAt": "2020-10-12T16:19:00.000Z",
+        "updatedAt": "2021-06-07T21:03:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

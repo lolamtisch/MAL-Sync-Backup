@@ -1,0 +1,86 @@
+{
+  "altTitle": [
+    "We Are Not Ourselves Today",
+    "There's Something Wrong With Us",
+    "私たちはどうかしている"
+  ],
+  "authors": [
+    "Ando, Natsumi"
+  ],
+  "id": 103003,
+  "type": "manga",
+  "title": "Watashitachi wa Douka shiteiru",
+  "url": "https://myanimelist.net/manga/103003/Watashitachi_wa_Douka_shiteiru",
+  "image": "https://cdn.myanimelist.net/images/manga/2/194771.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:46.000Z",
+  "updatedAt": "2021-06-05T02:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b40ede21-1360-4a35-a86c-b1e7883eb243": {
+        "authors": [
+          "Andou Natsumi"
+        ],
+        "identifier": "b40ede21-1360-4a35-a86c-b1e7883eb243",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashitachi wa Douka shiteiru",
+        "url": "https://mangadex.org/title/b40ede21-1360-4a35-a86c-b1e7883eb243",
+        "image": "https://uploads.mangadex.org/covers/b40ede21-1360-4a35-a86c-b1e7883eb243/6c25db04-2b8d-4dd9-b376-46543c3d6c93.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103003,
+        "aniId": 110429,
+        "createdAt": "2020-10-12T16:10:35.000Z",
+        "updatedAt": "2021-06-05T08:34:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "gy920862": {
+        "authors": [],
+        "identifier": "gy920862",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "We Are Not Ourselves Today",
+        "url": "https://manganelo.com/manga/gy920862",
+        "image": "https://avt.mkklcdnv6.com/34/m/19-1583500438.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103003,
+        "aniId": 110429,
+        "createdAt": "2020-10-12T16:23:12.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "somethings-wrong-with-us": {
+        "authors": [
+          "ANDOU Natsumi"
+        ],
+        "identifier": "somethings-wrong-with-us",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Something's Wrong With Us",
+        "url": "https://mangasee123.com/manga/Somethings-Wrong-With-Us",
+        "image": "https://cover.nep.li/cover/Somethings-Wrong-With-Us.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103003,
+        "aniId": 110429,
+        "createdAt": "2021-02-04T16:20:15.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

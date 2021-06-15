@@ -1,0 +1,69 @@
+{
+  "altTitle": [
+    "EX～少年漂流～",
+    "EX",
+    "EX - Young Castaways",
+    "Young Castaways"
+  ],
+  "authors": [
+    "Yoshinobu Yamada"
+  ],
+  "id": 55598,
+  "malId": 25598,
+  "type": "manga",
+  "title": "EX - Shounen Hyouryuu",
+  "url": "https://anilist.co/manga/55598",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25598.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:55.000Z",
+  "updatedAt": "2021-05-20T14:46:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5b3c88c-a1f9-4458-8823-2592485ac182": {
+        "authors": [
+          "Yamada Yoshinobu"
+        ],
+        "identifier": "b5b3c88c-a1f9-4458-8823-2592485ac182",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "EX - Shounen Hyouryuu",
+        "url": "https://mangadex.org/title/b5b3c88c-a1f9-4458-8823-2592485ac182",
+        "image": "https://uploads.mangadex.org/covers/b5b3c88c-a1f9-4458-8823-2592485ac182/e20ecf16-8aed-42ad-8138-bc0ec2a5a86b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25598,
+        "aniId": 55598,
+        "createdAt": "2020-10-12T16:02:43.000Z",
+        "updatedAt": "2021-06-02T08:56:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ex_shounen_hyouryuu": {
+        "authors": [
+          "Yamada",
+          "Yoshinobu"
+        ],
+        "identifier": "ex_shounen_hyouryuu",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ex - Shounen Hyouryuu",
+        "url": "https://manganelo.com/manga/ex_shounen_hyouryuu",
+        "image": "https://avt.mkklcdnv6.com/17/g/6-1583474842.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25598,
+        "aniId": 55598,
+        "createdAt": "2021-01-24T22:46:23.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

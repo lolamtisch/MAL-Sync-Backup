@@ -1,0 +1,67 @@
+{
+  "altTitle": [
+    "コンビニS",
+    "Happy? Happy!",
+    "The Happy Province"
+  ],
+  "authors": [
+    "Hinako Ashihara"
+  ],
+  "id": 45101,
+  "malId": 15101,
+  "type": "manga",
+  "title": "Konbini S",
+  "url": "https://anilist.co/manga/45101",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/15101.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-03T00:31:23.000Z",
+  "updatedAt": "2021-06-03T00:31:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "fa0d62f7-b826-4096-9bf7-d14ece98d673": {
+        "authors": [
+          "Ashihara Hinako"
+        ],
+        "identifier": "fa0d62f7-b826-4096-9bf7-d14ece98d673",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Konbini S",
+        "url": "https://mangadex.org/title/fa0d62f7-b826-4096-9bf7-d14ece98d673",
+        "image": "https://uploads.mangadex.org/covers/fa0d62f7-b826-4096-9bf7-d14ece98d673/98be5b26-fec2-42f9-953d-7e87cc8ec077.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15101,
+        "aniId": 45101,
+        "createdAt": "2020-10-12T16:04:55.000Z",
+        "updatedAt": "2021-06-03T08:39:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "konbini_s": {
+        "authors": [
+          "ASHIHARA Hinako"
+        ],
+        "identifier": "konbini_s",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Konbini S",
+        "url": "https://fanfox.net/manga/konbini_s/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6392/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15101,
+        "aniId": 45101,
+        "createdAt": "2021-05-20T21:15:09.000Z",
+        "updatedAt": "2021-06-03T01:00:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

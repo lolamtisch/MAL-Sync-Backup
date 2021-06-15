@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Lover Boy",
+    "사랑하는 소년",
+    "爱慕的少年"
+  ],
+  "authors": [
+    "Zec"
+  ],
+  "id": 98245,
+  "malId": null,
+  "type": "manga",
+  "title": "Saranghaneun Sonyeon",
+  "url": "https://anilist.co/manga/98245",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98245-pe61hNSJARSS.jpg",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-02T17:30:51.000Z",
+  "updatedAt": "2021-06-02T17:30:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "64784fe9-93e7-441f-8549-9fbfd06c9497": {
+        "authors": [
+          "Zec"
+        ],
+        "identifier": "64784fe9-93e7-441f-8549-9fbfd06c9497",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lover Boy",
+        "url": "https://mangadex.org/title/64784fe9-93e7-441f-8549-9fbfd06c9497",
+        "image": "https://uploads.mangadex.org/covers/64784fe9-93e7-441f-8549-9fbfd06c9497/603f4813-0b3f-489d-bbc7-96c465b2c7e7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 98245,
+        "createdAt": "2020-10-12T16:10:37.000Z",
+        "updatedAt": "2021-06-05T08:44:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

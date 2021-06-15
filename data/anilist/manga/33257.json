@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Yougen's Blood",
+    "妖幻の血",
+    "Yougen's Blood",
+    "Blood of Yougen"
+  ],
+  "authors": [
+    "Junichirou Akayoshi"
+  ],
+  "id": 33257,
+  "malId": 3257,
+  "type": "manga",
+  "title": "Yougen no Chi",
+  "url": "https://anilist.co/manga/33257",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3257.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:07.000Z",
+  "updatedAt": "2021-05-20T14:38:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "22cccf3c-e171-408b-8edc-824a68960195": {
+        "authors": [
+          "Akayoshi Junichirou"
+        ],
+        "identifier": "22cccf3c-e171-408b-8edc-824a68960195",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yougen no Chi",
+        "url": "https://mangadex.org/title/22cccf3c-e171-408b-8edc-824a68960195",
+        "image": "https://uploads.mangadex.org/covers/22cccf3c-e171-408b-8edc-824a68960195/c3087382-665d-4ac9-844e-eeb46eefc6e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3257,
+        "aniId": 33257,
+        "createdAt": "2020-10-12T16:02:36.000Z",
+        "updatedAt": "2021-06-02T08:15:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yougen_no_chi": {
+        "authors": [],
+        "identifier": "yougen_no_chi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yougen No Chi",
+        "url": "https://manganelo.com/manga/yougen_no_chi",
+        "image": "https://avt.mkklcdnv6.com/2/x/10-1583482283.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3257,
+        "aniId": 33257,
+        "createdAt": "2020-10-12T16:26:24.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

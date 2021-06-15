@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "사우러스"
+  ],
+  "authors": [
+    "Ino"
+  ],
+  "id": 118154,
+  "malId": null,
+  "type": "manga",
+  "title": "Saurus",
+  "url": "https://anilist.co/manga/118154",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118154-J3ogbypfOc1q.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-06-07T20:37:50.000Z",
+  "updatedAt": "2021-06-07T20:37:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "5ba1783b-1dbb-4110-831a-dcca12240802": {
+        "authors": [
+          "이노"
+        ],
+        "identifier": "5ba1783b-1dbb-4110-831a-dcca12240802",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Saurus",
+        "url": "https://mangadex.org/title/5ba1783b-1dbb-4110-831a-dcca12240802",
+        "image": "https://uploads.mangadex.org/covers/5ba1783b-1dbb-4110-831a-dcca12240802/2ce286ce-4366-4d30-b044-6dbbdecb4a0f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 118154,
+        "createdAt": "2020-10-12T16:18:48.000Z",
+        "updatedAt": "2021-06-07T20:47:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

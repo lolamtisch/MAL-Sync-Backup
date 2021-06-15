@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "夜が明けても"
+  ],
+  "authors": [
+    "Masao, Sangatsu"
+  ],
+  "id": 86785,
+  "type": "manga",
+  "title": "Yoru ga Aketemo",
+  "url": "https://myanimelist.net/manga/86785/Yoru_ga_Aketemo",
+  "image": "https://cdn.myanimelist.net/images/manga/1/166351.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:45:53.000Z",
+  "updatedAt": "2021-06-04T09:51:20.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f09b527e-e3cf-4c09-b2a8-003ea7a514fe": {
+        "authors": [
+          "Masao Sangatsu"
+        ],
+        "identifier": "f09b527e-e3cf-4c09-b2a8-003ea7a514fe",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoru ga Aketemo",
+        "url": "https://mangadex.org/title/f09b527e-e3cf-4c09-b2a8-003ea7a514fe",
+        "image": "https://uploads.mangadex.org/covers/f09b527e-e3cf-4c09-b2a8-003ea7a514fe/63c790ba-8395-4329-a34b-77c2c2e6ad2b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86785,
+        "aniId": 100530,
+        "createdAt": "2020-10-12T16:08:22.000Z",
+        "updatedAt": "2021-06-04T12:50:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "yoru_ga_aketemo": {
+        "authors": [
+          "Masao",
+          "Sangatsu"
+        ],
+        "identifier": "yoru_ga_aketemo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Yoru Ga Aketemo",
+        "url": "https://manganelo.com/manga/yoru_ga_aketemo",
+        "image": "https://avt.mkklcdnv6temp.com/4/p/8-1583478350.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86785,
+        "aniId": 100530,
+        "createdAt": "2021-04-14T13:46:09.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

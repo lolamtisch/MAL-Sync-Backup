@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Tasokare’s Dream",
+    "たそかれの夢"
+  ],
+  "authors": [
+    "Kouji Maki"
+  ],
+  "id": 116121,
+  "malId": 110964,
+  "type": "manga",
+  "title": "Tasokare no Yume",
+  "url": "https://anilist.co/manga/116121",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116121-uc2gx9yQx7pr.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:17.000Z",
+  "updatedAt": "2021-05-20T14:56:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4e53ecdd-f18b-48fe-ab2f-d02e96ab72a8": {
+        "authors": [
+          "MAKI Kouji"
+        ],
+        "identifier": "4e53ecdd-f18b-48fe-ab2f-d02e96ab72a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tasokare no Yume",
+        "url": "https://mangadex.org/title/4e53ecdd-f18b-48fe-ab2f-d02e96ab72a8",
+        "image": "https://uploads.mangadex.org/covers/4e53ecdd-f18b-48fe-ab2f-d02e96ab72a8/9818b8b9-5d84-4bcd-844c-9fea132b44b8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110964,
+        "aniId": 116121,
+        "createdAt": "2020-10-12T16:13:09.000Z",
+        "updatedAt": "2021-06-05T19:11:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tasokare-no-yume": {
+        "authors": [
+          "MAKI Kouji"
+        ],
+        "identifier": "tasokare-no-yume",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tasokare no Yume",
+        "url": "https://mangasee123.com/manga/Tasokare-No-Yume",
+        "image": "https://cover.nep.li/cover/Tasokare-No-Yume.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110964,
+        "aniId": 116121,
+        "createdAt": "2021-03-01T13:45:21.000Z",
+        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

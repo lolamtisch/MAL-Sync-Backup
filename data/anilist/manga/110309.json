@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "青の蕾",
+    "Buds of Blue"
+  ],
+  "authors": [
+    "Natsume Tsuno"
+  ],
+  "id": 110309,
+  "malId": 120149,
+  "type": "manga",
+  "title": "Ao no Tsubomi",
+  "url": "https://anilist.co/manga/110309",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110309-fMcyilVFpfdi.png",
+  "category": "manga",
+  "hentai": true,
+  "createdAt": "2021-06-06T22:19:17.000Z",
+  "updatedAt": "2021-06-06T22:19:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "3f3fffc0-4fa5-4dbd-a843-c08610758da9": {
+        "authors": [
+          "Natsume Tsuno"
+        ],
+        "identifier": "3f3fffc0-4fa5-4dbd-a843-c08610758da9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ao no Tsubomi",
+        "url": "https://mangadex.org/title/3f3fffc0-4fa5-4dbd-a843-c08610758da9",
+        "image": "https://uploads.mangadex.org/covers/3f3fffc0-4fa5-4dbd-a843-c08610758da9/6e445a04-ac93-4d98-b5f5-d1774c8b86d6.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 120149,
+        "aniId": 110309,
+        "createdAt": "2020-10-12T16:16:23.000Z",
+        "updatedAt": "2021-06-07T07:25:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

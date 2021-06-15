@@ -1,0 +1,112 @@
+{
+  "altTitle": [
+    "リバティ"
+  ],
+  "authors": [
+    "Kitta, Izumi",
+    "Momono, Moto"
+  ],
+  "id": 105161,
+  "type": "manga",
+  "title": "Liberty",
+  "url": "https://myanimelist.net/manga/105161/Liberty",
+  "image": "https://cdn.myanimelist.net/images/manga/2/217944.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:46:59.000Z",
+  "updatedAt": "2021-05-18T17:00:54.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4f5f5117-e06f-4bf5-bc7e-8fbcd4dfbafb": {
+        "authors": [
+          "Kitta Izumi",
+          "Momono Moto"
+        ],
+        "identifier": "4f5f5117-e06f-4bf5-bc7e-8fbcd4dfbafb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Liberty",
+        "url": "https://mangadex.org/title/4f5f5117-e06f-4bf5-bc7e-8fbcd4dfbafb",
+        "image": "https://uploads.mangadex.org/covers/4f5f5117-e06f-4bf5-bc7e-8fbcd4dfbafb/cbe67238-a39a-492a-a535-bd53fbb40ee8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105161,
+        "aniId": 99021,
+        "createdAt": "2020-10-12T16:11:38.000Z",
+        "updatedAt": "2021-06-05T09:59:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "liberty": {
+        "authors": [
+          "Kitta",
+          "Izumi"
+        ],
+        "identifier": "liberty",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Liberty",
+        "url": "https://manganelo.com/manga/liberty",
+        "image": "https://avt.mkklcdnv6.com/8/t/15-1583491778.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105161,
+        "aniId": 99021,
+        "createdAt": "2020-11-29T19:52:46.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ye975361": {
+        "authors": [
+          "Kitta Izumi",
+          "Momono Moto"
+        ],
+        "identifier": "manga-ye975361",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Liberty",
+        "url": "https://manganato.com/manga-ye975361",
+        "image": "https://avt.mkklcdnv6temp.com/8/t/15-1583491778.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105161,
+        "aniId": 99021,
+        "createdAt": "2021-06-09T12:04:38.000Z",
+        "updatedAt": "2021-06-09T12:34:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "liberty": {
+        "authors": [
+          "MOMONO Moto"
+        ],
+        "identifier": "liberty",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Liberty",
+        "url": "https://fanfox.net/manga/liberty/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24419/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105161,
+        "aniId": 99021,
+        "createdAt": "2021-06-09T12:34:15.000Z",
+        "updatedAt": "2021-06-09T13:04:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

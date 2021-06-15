@@ -1,0 +1,108 @@
+{
+  "altTitle": [
+    "NOiSE",
+    "ノイズ"
+  ],
+  "authors": [
+    "Tsutomu Nihei",
+    "Paweł Dybała"
+  ],
+  "id": 30465,
+  "malId": 465,
+  "type": "manga",
+  "title": "NOiSE",
+  "url": "https://anilist.co/manga/30465",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30465-DEA0poczEQVO.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:35:34.000Z",
+  "updatedAt": "2021-05-24T15:08:17.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9d6393a0-e651-496d-9c68-465b7ee5fad2": {
+        "authors": [
+          "Nihei Tsutomu"
+        ],
+        "identifier": "9d6393a0-e651-496d-9c68-465b7ee5fad2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "NOiSE",
+        "url": "https://mangadex.org/title/9d6393a0-e651-496d-9c68-465b7ee5fad2",
+        "image": "https://uploads.mangadex.org/covers/9d6393a0-e651-496d-9c68-465b7ee5fad2/54075f91-004c-4391-b2f6-37b0eb65e7d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 465,
+        "aniId": 30465,
+        "createdAt": "2020-10-12T16:03:35.000Z",
+        "updatedAt": "2021-06-02T15:05:32.000Z",
+        "deletedAt": null
+      },
+      "bfccaf34-a3e2-40eb-9f7e-7100bc8f611d": {
+        "authors": [
+          "azurite / dmm games r18",
+          "fumi ito"
+        ],
+        "identifier": "bfccaf34-a3e2-40eb-9f7e-7100bc8f611d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinsou Noise",
+        "url": "https://mangadex.org/title/bfccaf34-a3e2-40eb-9f7e-7100bc8f611d",
+        "image": "https://uploads.mangadex.org/covers/bfccaf34-a3e2-40eb-9f7e-7100bc8f611d/4c8d269c-9ccb-41a7-92cf-74131d7da1bc.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 465,
+        "aniId": 30465,
+        "createdAt": "2020-10-12T16:19:24.000Z",
+        "updatedAt": "2021-06-07T21:57:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "noise": {
+        "authors": [],
+        "identifier": "noise",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Noise",
+        "url": "https://manganelo.com/manga/noise",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/12519-noise.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 465,
+        "aniId": 30465,
+        "createdAt": "2020-10-12T16:24:34.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "n-oi-s-e": {
+        "authors": [
+          "NIHEI Tsutomu"
+        ],
+        "identifier": "n-oi-s-e",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "NOiSE",
+        "url": "https://mangasee123.com/manga/N-Oi-S-E",
+        "image": "https://cover.nep.li/cover/N-Oi-S-E.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 465,
+        "aniId": 30465,
+        "createdAt": "2021-02-27T10:43:55.000Z",
+        "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Burai-an, Buraian",
+    "無頼庵"
+  ],
+  "authors": [
+    "Sakurai, Shushushu"
+  ],
+  "id": 16899,
+  "type": "manga",
+  "title": "Burai-an",
+  "url": "https://myanimelist.net/manga/16899/Burai-an",
+  "image": "https://cdn.myanimelist.net/images/manga/3/25195.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:42:24.000Z",
+  "updatedAt": "2021-05-31T09:14:10.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b3c4598c-e73f-4aef-8547-fddc9816243d": {
+        "authors": [
+          "Sakurai Shushushu"
+        ],
+        "identifier": "b3c4598c-e73f-4aef-8547-fddc9816243d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Burai-an",
+        "url": "https://mangadex.org/title/b3c4598c-e73f-4aef-8547-fddc9816243d",
+        "image": "https://uploads.mangadex.org/covers/b3c4598c-e73f-4aef-8547-fddc9816243d/0390a863-33f2-4ece-a495-79f84d52c1b3.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16899,
+        "aniId": 46899,
+        "createdAt": "2020-10-12T16:13:03.000Z",
+        "updatedAt": "2021-06-05T18:28:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wg956189": {
+        "authors": [
+          "Sakurai Shushushu"
+        ],
+        "identifier": "manga-wg956189",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Burai-An",
+        "url": "https://manganato.com/manga-wg956189",
+        "image": "https://avt.mkklcdnv6temp.com/6/c/4-1583469914.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16899,
+        "aniId": 46899,
+        "createdAt": "2021-05-31T09:14:10.000Z",
+        "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

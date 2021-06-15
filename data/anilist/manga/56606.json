@@ -1,0 +1,46 @@
+{
+  "altTitle": [
+    "彼じゃないけど",
+    "I'm Not Your Boyfriend",
+    "Waruikotachi no Bansan",
+    "Warui Kotachi no Bansan"
+  ],
+  "authors": [
+    "Mei Sakuraga"
+  ],
+  "id": 56606,
+  "malId": 26606,
+  "type": "manga",
+  "title": "Kare ja nai kedo",
+  "url": "https://anilist.co/manga/56606",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx56606-zotdNBsLcR8S.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:47:04.000Z",
+  "updatedAt": "2021-05-20T14:47:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "963db824-c8d7-478e-83e1-ad780aff05fa": {
+        "authors": [
+          "Sakuraga Mei"
+        ],
+        "identifier": "963db824-c8d7-478e-83e1-ad780aff05fa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kare Janai Kedo",
+        "url": "https://mangadex.org/title/963db824-c8d7-478e-83e1-ad780aff05fa",
+        "image": "https://uploads.mangadex.org/covers/963db824-c8d7-478e-83e1-ad780aff05fa/612bccd8-8dc7-46e8-afe4-39ff536938ba.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26606,
+        "aniId": 56606,
+        "createdAt": "2020-10-12T16:07:26.000Z",
+        "updatedAt": "2021-06-04T02:44:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

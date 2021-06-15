@@ -1,0 +1,58 @@
+{
+  "altTitle": [
+    "ムーミン",
+    "Mumin",
+    "Muumin"
+  ],
+  "id": 8234,
+  "malId": 8234,
+  "type": "anime",
+  "title": "Moomin",
+  "url": "https://anilist.co/anime/8234",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8234-YR94i09hee8o.png",
+  "category": "tv",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:55.000Z",
+  "updatedAt": "2021-05-20T14:38:55.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "vl5l": {
+        "identifier": "vl5l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Muumin",
+        "url": "https://9anime.ru/watch/muumin.vl5l",
+        "image": "https://static.akacdn.ru/static/images/2018/03/14a3b75b1356dd8513c4e5f70dd5dd80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8234,
+        "aniId": 8234,
+        "createdAt": "2020-10-12T15:55:54.000Z",
+        "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "muumin": {
+        "identifier": "muumin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Muumin",
+        "url": "https://www4.gogoanime.io/category/muumin",
+        "image": "https://cdnimg.xyz/cover/muumin.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8234,
+        "aniId": 8234,
+        "createdAt": "2020-10-12T16:01:21.000Z",
+        "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "altTitle": [
+    "アイとアオの境界",
+    "In Between Indigo and Blue",
+    "아이와 아오의 경계"
+  ],
+  "authors": [
+    "Kirin Tendou"
+  ],
+  "id": 109666,
+  "malId": 121502,
+  "type": "manga",
+  "title": "Ai to Ao no Kyoukai",
+  "url": "https://anilist.co/manga/109666",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109666-M4UY6g8DLs0Y.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:58:25.000Z",
+  "updatedAt": "2021-06-05T16:18:58.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "d1346aa4-3193-4a9b-8ada-ebdf957e8919": {
+        "authors": [
+          "Tendou Kirin"
+        ],
+        "identifier": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ai to Ao no Kyoukai",
+        "url": "https://mangadex.org/title/d1346aa4-3193-4a9b-8ada-ebdf957e8919",
+        "image": "https://uploads.mangadex.org/covers/d1346aa4-3193-4a9b-8ada-ebdf957e8919/32195536-05ff-44f4-af71-6fb119865d8c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121502,
+        "aniId": 109666,
+        "createdAt": "2020-10-12T16:12:43.000Z",
+        "updatedAt": "2021-06-05T17:04:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "eo920021": {
+        "authors": [
+          "Kirin",
+          "Tendou"
+        ],
+        "identifier": "eo920021",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "In Between Indigo And Blue",
+        "url": "https://manganelo.com/manga/eo920021",
+        "image": "https://avt.mkklcdnv6temp.com/3/t/19-1583499215.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121502,
+        "aniId": 109666,
+        "createdAt": "2021-04-13T10:16:22.000Z",
+        "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

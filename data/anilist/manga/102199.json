@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "路地裏バンチ",
+    "Backstreet Bunch"
+  ],
+  "authors": [
+    "Matsumoto Kabata"
+  ],
+  "id": 102199,
+  "malId": 109486,
+  "type": "manga",
+  "title": "Rojiura Bunch",
+  "url": "https://anilist.co/manga/102199",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102199-MDRRlSRza7Jb.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:56:07.000Z",
+  "updatedAt": "2021-05-20T14:56:07.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "68206d68-fd20-4d8b-ab34-f2b563cb2f70": {
+        "authors": [
+          "Matsumoto Kabata"
+        ],
+        "identifier": "68206d68-fd20-4d8b-ab34-f2b563cb2f70",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rodjiura Banchi",
+        "url": "https://mangadex.org/title/68206d68-fd20-4d8b-ab34-f2b563cb2f70",
+        "image": "https://uploads.mangadex.org/covers/68206d68-fd20-4d8b-ab34-f2b563cb2f70/a847e212-e0c2-457e-b3f0-b90b36eded77.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109486,
+        "aniId": 102199,
+        "createdAt": "2020-10-12T16:11:23.000Z",
+        "updatedAt": "2021-06-05T07:59:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

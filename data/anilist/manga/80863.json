@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "男水!"
+  ],
+  "authors": [
+    "Tatsuya Kiuchi"
+  ],
+  "id": 80863,
+  "malId": 50863,
+  "type": "manga",
+  "title": "Dansui!",
+  "url": "https://anilist.co/manga/80863",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx80863-lw2fnrlUWyDT.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:49.000Z",
+  "updatedAt": "2021-05-20T14:49:49.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "29bf265f-cf22-4be8-8bad-28b36f191d50": {
+        "authors": [
+          "Kiuchi Tatsuya"
+        ],
+        "identifier": "29bf265f-cf22-4be8-8bad-28b36f191d50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dansui!",
+        "url": "https://mangadex.org/title/29bf265f-cf22-4be8-8bad-28b36f191d50",
+        "image": "https://uploads.mangadex.org/covers/29bf265f-cf22-4be8-8bad-28b36f191d50/acf8291d-43b4-4c26-9083-f2f389cbb3a5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50863,
+        "aniId": 80863,
+        "createdAt": "2020-10-12T16:06:19.000Z",
+        "updatedAt": "2021-06-03T18:49:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dansui": {
+        "authors": [
+          "KIUCHI Tatsuya"
+        ],
+        "identifier": "dansui",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dansui!",
+        "url": "https://mangasee123.com/manga/Dansui",
+        "image": "https://cover.nep.li/cover/Dansui.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50863,
+        "aniId": 80863,
+        "createdAt": "2021-05-11T15:17:35.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

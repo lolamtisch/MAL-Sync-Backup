@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "Dragon Eye",
+    "Ryuugan",
+    "龍眼－ドラゴンアイ－"
+  ],
+  "authors": [
+    "Fujiyama, Kairi"
+  ],
+  "id": 343,
+  "type": "manga",
+  "title": "Dragon Eye",
+  "url": "https://myanimelist.net/manga/343/Dragon_Eye",
+  "image": "https://cdn.myanimelist.net/images/manga/2/176196.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:40:20.000Z",
+  "updatedAt": "2021-05-20T21:44:09.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4cf6421d-a8c6-4596-b384-6a812df60b3b": {
+        "authors": [
+          "FUJIYAMA Kairi"
+        ],
+        "identifier": "4cf6421d-a8c6-4596-b384-6a812df60b3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ryuugan",
+        "url": "https://mangadex.org/title/4cf6421d-a8c6-4596-b384-6a812df60b3b",
+        "image": "https://uploads.mangadex.org/covers/4cf6421d-a8c6-4596-b384-6a812df60b3b/5e376781-3f41-4eb5-aa4c-ea79ec7a1985.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 343,
+        "aniId": 30343,
+        "createdAt": "2020-10-12T16:04:01.000Z",
+        "updatedAt": "2021-06-02T18:08:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dragon_eye": {
+        "authors": [
+          "FUJIYAMA Kairi"
+        ],
+        "identifier": "dragon_eye",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dragon Eye",
+        "url": "https://fanfox.net/manga/dragon_eye/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6449/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 343,
+        "aniId": 30343,
+        "createdAt": "2021-05-20T21:44:10.000Z",
+        "updatedAt": "2021-05-20T22:12:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

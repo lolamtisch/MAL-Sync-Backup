@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "王様の恋あそび"
+  ],
+  "authors": [
+    "Youko Fujitani"
+  ],
+  "id": 101436,
+  "malId": 94010,
+  "type": "manga",
+  "title": "Ousama no Koiasobi",
+  "url": "https://anilist.co/manga/101436",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101436-YAAFSn9zLBYd.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:53:50.000Z",
+  "updatedAt": "2021-06-04T15:20:48.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "c5d60363-486e-4043-ab5b-997627fcb44d": {
+        "authors": [
+          "Fujitani Youko"
+        ],
+        "identifier": "c5d60363-486e-4043-ab5b-997627fcb44d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ou-sama no Koi Asobi",
+        "url": "https://mangadex.org/title/c5d60363-486e-4043-ab5b-997627fcb44d",
+        "image": "https://uploads.mangadex.org/covers/c5d60363-486e-4043-ab5b-997627fcb44d/a7fd7272-f058-4978-9deb-16a142fd35f2.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94010,
+        "aniId": 101436,
+        "createdAt": "2020-10-12T16:09:06.000Z",
+        "updatedAt": "2021-06-04T15:27:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ousama_no_koi_asobi": {
+        "authors": [],
+        "identifier": "ousama_no_koi_asobi",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ou-Sama No Koi Asobi",
+        "url": "https://manganelo.com/manga/ousama_no_koi_asobi",
+        "image": "https://avt.mkklcdnv3.com/avatar_225/1568-ousama_no_koi_asobi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94010,
+        "aniId": 101436,
+        "createdAt": "2020-10-12T16:24:47.000Z",
+        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

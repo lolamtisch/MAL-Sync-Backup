@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Loveletter from･･･",
+    "Love Letter from",
+    "情書來自…"
+  ],
+  "authors": [
+    "Aruko"
+  ],
+  "id": 52172,
+  "malId": 22172,
+  "type": "manga",
+  "title": "Loveletter from...",
+  "url": "https://anilist.co/manga/52172",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx52172-9a5tZwWsjHYt.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:46:29.000Z",
+  "updatedAt": "2021-06-04T02:51:50.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e4076d80-315d-489e-a565-4b69d7e3f187": {
+        "authors": [
+          "Aruko"
+        ],
+        "identifier": "e4076d80-315d-489e-a565-4b69d7e3f187",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Loveletter from...",
+        "url": "https://mangadex.org/title/e4076d80-315d-489e-a565-4b69d7e3f187",
+        "image": "https://uploads.mangadex.org/covers/e4076d80-315d-489e-a565-4b69d7e3f187/30b15113-23ef-4d17-abac-1d19dc42a0ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22172,
+        "aniId": 52172,
+        "createdAt": "2020-10-12T16:07:26.000Z",
+        "updatedAt": "2021-06-04T08:56:15.000Z",
+        "deletedAt": null
+      },
+      "dadefc55-772e-4eca-a2ed-512aeaac3308": {
+        "authors": [
+          "MN"
+        ],
+        "identifier": "dadefc55-772e-4eca-a2ed-512aeaac3308",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "1.5 Meters From Love",
+        "url": "https://mangadex.org/title/dadefc55-772e-4eca-a2ed-512aeaac3308",
+        "image": "https://uploads.mangadex.org/covers/dadefc55-772e-4eca-a2ed-512aeaac3308/3e85455d-85b2-44bf-ae53-29fc4ba1122f.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22172,
+        "aniId": 52172,
+        "createdAt": "2020-10-12T16:20:08.000Z",
+        "updatedAt": "2021-06-07T23:28:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

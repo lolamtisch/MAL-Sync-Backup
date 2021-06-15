@@ -1,0 +1,43 @@
+{
+  "altTitle": [
+    "ブラックベリー"
+  ],
+  "authors": [
+    "Ao Fukami"
+  ],
+  "id": 43145,
+  "malId": 13145,
+  "type": "manga",
+  "title": "Blackberry",
+  "url": "https://anilist.co/manga/43145",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13145.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:42:32.000Z",
+  "updatedAt": "2021-05-20T14:42:32.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "940fbcd4-aa12-4a1a-be22-8b27ad000c9f": {
+        "authors": [
+          "Ao Fukami"
+        ],
+        "identifier": "940fbcd4-aa12-4a1a-be22-8b27ad000c9f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blackberry",
+        "url": "https://mangadex.org/title/940fbcd4-aa12-4a1a-be22-8b27ad000c9f",
+        "image": "https://uploads.mangadex.org/covers/940fbcd4-aa12-4a1a-be22-8b27ad000c9f/2629e356-a494-45e4-a319-2d29bf411d8f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13145,
+        "aniId": 43145,
+        "createdAt": "2020-10-12T16:06:06.000Z",
+        "updatedAt": "2021-06-03T17:08:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

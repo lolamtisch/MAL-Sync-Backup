@@ -1,0 +1,88 @@
+{
+  "altTitle": [
+    "The Pale Horse",
+    "창백한 말",
+    "苍白的马",
+    "Бледный конь"
+  ],
+  "authors": [
+    "Hae-Yun Choo"
+  ],
+  "id": 70253,
+  "malId": 40253,
+  "type": "manga",
+  "title": "Changbaekan Mal",
+  "url": "https://anilist.co/manga/70253",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx70253-Y3rlx1DeH9gf.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:41.000Z",
+  "updatedAt": "2021-05-20T14:48:41.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "6600bc63-ebe4-4289-9ef5-a896e4bc6ae3": {
+        "authors": [
+          "Choo Hae-Yun"
+        ],
+        "identifier": "6600bc63-ebe4-4289-9ef5-a896e4bc6ae3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Pale Horse",
+        "url": "https://mangadex.org/title/6600bc63-ebe4-4289-9ef5-a896e4bc6ae3",
+        "image": "https://uploads.mangadex.org/covers/6600bc63-ebe4-4289-9ef5-a896e4bc6ae3/eaf661bf-7142-4820-ac51-34f85a14a60f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40253,
+        "aniId": 70253,
+        "createdAt": "2020-10-12T16:03:51.000Z",
+        "updatedAt": "2021-06-02T17:02:52.000Z",
+        "deletedAt": null
+      },
+      "215df2eb-cb51-4ea4-a57f-d4324bb6ea6a": {
+        "authors": [
+          "Makari Tohru"
+        ],
+        "identifier": "215df2eb-cb51-4ea4-a57f-d4324bb6ea6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Subverse: Trojan Horse",
+        "url": "https://mangadex.org/title/215df2eb-cb51-4ea4-a57f-d4324bb6ea6a",
+        "image": "https://uploads.mangadex.org/covers/215df2eb-cb51-4ea4-a57f-d4324bb6ea6a/715486d3-f880-4946-b1c2-0179a55bd906.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40253,
+        "aniId": 70253,
+        "createdAt": "2020-10-12T16:19:31.000Z",
+        "updatedAt": "2021-06-07T22:03:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-pale-horse": {
+        "authors": [
+          "CHOO Hae-Yun"
+        ],
+        "identifier": "the-pale-horse",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Pale Horse",
+        "url": "https://mangasee123.com/manga/The-Pale-Horse",
+        "image": "https://cover.nep.li/cover/The-Pale-Horse.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40253,
+        "aniId": 70253,
+        "createdAt": "2021-03-27T18:20:18.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

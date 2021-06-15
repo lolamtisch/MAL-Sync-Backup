@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "漫画家異世界取材旅行",
+    "An Author's Research Trip to Another World"
+  ],
+  "authors": [
+    "Shuuichi Asou"
+  ],
+  "id": 123431,
+  "malId": 126053,
+  "type": "manga",
+  "title": "Mangaka Isekai Shuzai Ryokou",
+  "url": "https://anilist.co/manga/123431",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123431-eH1niTUqxeg0.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-07T21:24:26.000Z",
+  "updatedAt": "2021-06-07T21:24:26.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f276bc26-7b91-4431-ac26-8e1c36c66ecd": {
+        "authors": [
+          "Asou Shuuichi"
+        ],
+        "identifier": "f276bc26-7b91-4431-ac26-8e1c36c66ecd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "An Author's Research Trip to Another World",
+        "url": "https://mangadex.org/title/f276bc26-7b91-4431-ac26-8e1c36c66ecd",
+        "image": "https://uploads.mangadex.org/covers/f276bc26-7b91-4431-ac26-8e1c36c66ecd/ab8ea9cd-761f-4903-bb3e-310722931848.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126053,
+        "aniId": 123431,
+        "createdAt": "2020-10-12T16:18:53.000Z",
+        "updatedAt": "2021-06-07T21:29:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

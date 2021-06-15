@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "くらやみにストロボ",
+    "A Strobe in the Darkness",
+    "Une lumière dans la pénombre"
+  ],
+  "authors": [
+    "Nojiko Hayakawa"
+  ],
+  "id": 65211,
+  "malId": 35211,
+  "type": "manga",
+  "title": "Kurayami ni Strobe",
+  "url": "https://anilist.co/manga/65211",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx65211-xpuyRZytTOFZ.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:02.000Z",
+  "updatedAt": "2021-05-20T14:48:02.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "a21c01d6-f111-42bf-960d-2cf8a8c8adce": {
+        "authors": [
+          "Hayakawa Nojiko"
+        ],
+        "identifier": "a21c01d6-f111-42bf-960d-2cf8a8c8adce",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kurayami ni Strobe",
+        "url": "https://mangadex.org/title/a21c01d6-f111-42bf-960d-2cf8a8c8adce",
+        "image": "https://uploads.mangadex.org/covers/a21c01d6-f111-42bf-960d-2cf8a8c8adce/b4ee287e-42ef-4219-80d7-eb02fe188de0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35211,
+        "aniId": 65211,
+        "createdAt": "2020-10-12T16:04:20.000Z",
+        "updatedAt": "2021-06-02T20:22:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

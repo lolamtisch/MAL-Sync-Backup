@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Try! Try! Try!",
+    "Try! Try! Try!",
+    "Yotsuba&! Pilot"
+  ],
+  "authors": [
+    "Kiyohiko Azuma"
+  ],
+  "id": 36604,
+  "malId": 6604,
+  "type": "manga",
+  "title": "Try! Try! Try!",
+  "url": "https://anilist.co/manga/36604",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/36604-UnTtD0zWaSPC.jpg",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:39:42.000Z",
+  "updatedAt": "2021-06-09T06:42:22.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "df5821b1-4000-4d5f-a444-f1c1f6e7abf6": {
+        "authors": [
+          "Azuma Kiyohiko"
+        ],
+        "identifier": "df5821b1-4000-4d5f-a444-f1c1f6e7abf6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Try! Try! Try!",
+        "url": "https://mangadex.org/title/df5821b1-4000-4d5f-a444-f1c1f6e7abf6",
+        "image": "https://uploads.mangadex.org/covers/df5821b1-4000-4d5f-a444-f1c1f6e7abf6/9abe6495-b24d-4263-bb26-7a217655510b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6604,
+        "aniId": 36604,
+        "createdAt": "2020-10-12T16:05:17.000Z",
+        "updatedAt": "2021-06-03T11:31:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "try_try_try": {
+        "authors": [],
+        "identifier": "try_try_try",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Try! Try! Try!",
+        "url": "https://manganelo.com/manga/try_try_try",
+        "image": "https://avt.mkklcdnv6.com/2/p/5-1583471927.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6604,
+        "aniId": 36604,
+        "createdAt": "2020-10-12T16:25:50.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

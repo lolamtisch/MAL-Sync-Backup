@@ -1,0 +1,65 @@
+{
+  "altTitle": [
+    "Tsubasa: Those With Wings",
+    "翼を持つ者",
+    "Knockin on the Wall"
+  ],
+  "authors": [
+    "Natsuki Takaya"
+  ],
+  "id": 33113,
+  "malId": 3113,
+  "type": "manga",
+  "title": "Tsubasa wo Motsu Mono",
+  "url": "https://anilist.co/manga/33113",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33113-CniUkL9CKRSm.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:38:04.000Z",
+  "updatedAt": "2021-05-20T14:38:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "dd01b0e5-2fe2-4ca0-8ceb-ca69ecc9471d": {
+        "authors": [
+          "Takaya Natsuki"
+        ],
+        "identifier": "dd01b0e5-2fe2-4ca0-8ceb-ca69ecc9471d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsubasa o Motsu Mono",
+        "url": "https://mangadex.org/title/dd01b0e5-2fe2-4ca0-8ceb-ca69ecc9471d",
+        "image": "https://uploads.mangadex.org/covers/dd01b0e5-2fe2-4ca0-8ceb-ca69ecc9471d/f38bac79-5a4a-46cc-b06f-d3574e541c16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3113,
+        "aniId": 33113,
+        "createdAt": "2020-10-12T16:06:19.000Z",
+        "updatedAt": "2021-06-03T18:51:29.000Z",
+        "deletedAt": null
+      },
+      "ae708e4a-d9d1-4439-88ad-6c65d72be24c": {
+        "authors": [
+          "Nishida Higashi"
+        ],
+        "identifier": "ae708e4a-d9d1-4439-88ad-6c65d72be24c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsubasa naki Karera",
+        "url": "https://mangadex.org/title/ae708e4a-d9d1-4439-88ad-6c65d72be24c",
+        "image": "https://uploads.mangadex.org/covers/ae708e4a-d9d1-4439-88ad-6c65d72be24c/aa6ac8fb-880c-433a-9950-0ba88291642c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3113,
+        "aniId": 33113,
+        "createdAt": "2020-10-12T16:18:52.000Z",
+        "updatedAt": "2021-06-07T20:54:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

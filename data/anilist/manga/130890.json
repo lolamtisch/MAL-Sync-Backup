@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "猫の魔女",
+    "The Cat Witch"
+  ],
+  "authors": [
+    "Haruka Oomiya"
+  ],
+  "id": 130890,
+  "malId": null,
+  "type": "manga",
+  "title": "Neko no Majo",
+  "url": "https://anilist.co/manga/130890",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130890-tRpqbWvDqN3u.png",
+  "category": "one_shot",
+  "hentai": false,
+  "createdAt": "2021-06-08T07:56:23.000Z",
+  "updatedAt": "2021-06-08T07:56:23.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "4fb83ee0-e9c5-483b-882b-099389f648ba": {
+        "authors": [
+          "OOMIYA Haruka"
+        ],
+        "identifier": "4fb83ee0-e9c5-483b-882b-099389f648ba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Cat Witch",
+        "url": "https://mangadex.org/title/4fb83ee0-e9c5-483b-882b-099389f648ba",
+        "image": "https://uploads.mangadex.org/covers/4fb83ee0-e9c5-483b-882b-099389f648ba/3dfbd8af-82ea-4e29-9897-05d5899d0892.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 130890,
+        "createdAt": "2020-11-19T04:51:01.000Z",
+        "updatedAt": "2021-06-08T08:44:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

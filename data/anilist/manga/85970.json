@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "カゲヒナタ"
+  ],
+  "authors": [
+    "Ayaka Takeuchi",
+    "Mika Satonaka"
+  ],
+  "id": 85970,
+  "malId": 82005,
+  "type": "manga",
+  "title": "Kagehinata",
+  "url": "https://anilist.co/manga/85970",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55970-8EAQ0EKo1sPx.png",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:52:04.000Z",
+  "updatedAt": "2021-05-20T14:52:04.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "b5594eff-90e2-4e66-b328-c5c78ddd0637": {
+        "authors": [
+          "SATONAKA Mika",
+          "TAKEUCHI Ayaka"
+        ],
+        "identifier": "b5594eff-90e2-4e66-b328-c5c78ddd0637",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kagehinata",
+        "url": "https://mangadex.org/title/b5594eff-90e2-4e66-b328-c5c78ddd0637",
+        "image": "https://uploads.mangadex.org/covers/b5594eff-90e2-4e66-b328-c5c78ddd0637/5fc6b719-85e8-4188-89ae-008c766e2255.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82005,
+        "aniId": 85970,
+        "createdAt": "2020-10-12T16:08:02.000Z",
+        "updatedAt": "2021-06-04T07:05:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

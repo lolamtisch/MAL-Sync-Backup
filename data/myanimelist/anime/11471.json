@@ -1,0 +1,56 @@
+{
+  "altTitle": [
+    "Dororo (Pilot Film)",
+    "どろろ"
+  ],
+  "id": 11471,
+  "type": "anime",
+  "title": "Dororo Pilot",
+  "url": "https://myanimelist.net/anime/11471/Dororo_Pilot",
+  "image": "https://cdn.myanimelist.net/images/anime/5/74368.jpg",
+  "category": "Special",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:39:09.000Z",
+  "updatedAt": "2021-01-11T10:51:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "9anime": {
+      "58yj": {
+        "identifier": "58yj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dororo Pilot",
+        "url": "https://9anime.ru/watch/dororo-pilot.58yj",
+        "image": "https://static.akacdn.ru/files/images/2018/04/48b86681e66284487ddde838cce6a1ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11471,
+        "aniId": 11471,
+        "createdAt": "2020-10-12T15:50:26.000Z",
+        "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Crunchyroll": {
+      "dororo%20motion%20manga": {
+        "identifier": "dororo%20motion%20manga",
+        "type": "anime",
+        "page": "Crunchyroll",
+        "title": "Dororo Motion Manga",
+        "url": "https://www.crunchyroll.com/dororo-motion-magazine?media_id=537194",
+        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/54cf5303e798b8a5eb983faf936a940a1260012580_full.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 11471,
+        "aniId": 11471,
+        "createdAt": "2021-01-11T10:52:03.000Z",
+        "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "altTitle": [
+    "Parallel lines",
+    "パラレルライン",
+    "Parallel line"
+  ],
+  "authors": [
+    "Moegi Yukue"
+  ],
+  "id": 72365,
+  "malId": 42365,
+  "type": "manga",
+  "title": "Parallel lines",
+  "url": "https://anilist.co/manga/72365",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/42365.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:48:51.000Z",
+  "updatedAt": "2021-05-20T14:48:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "e96f6e90-8182-4de9-a242-58cc095fe9c8": {
+        "authors": [
+          "Yukue Moegi"
+        ],
+        "identifier": "e96f6e90-8182-4de9-a242-58cc095fe9c8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Parallel Lines",
+        "url": "https://mangadex.org/title/e96f6e90-8182-4de9-a242-58cc095fe9c8",
+        "image": "https://uploads.mangadex.org/covers/e96f6e90-8182-4de9-a242-58cc095fe9c8/42912cfd-c08f-4fdc-83fe-60b862590f6b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42365,
+        "aniId": 72365,
+        "createdAt": "2020-10-12T16:09:36.000Z",
+        "updatedAt": "2021-06-04T18:46:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

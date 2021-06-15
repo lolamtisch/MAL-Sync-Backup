@@ -1,0 +1,63 @@
+{
+  "altTitle": [
+    "Ichi",
+    "イチ"
+  ],
+  "authors": [
+    "Yamamoto, Hideo"
+  ],
+  "id": 58151,
+  "type": "manga",
+  "title": "1",
+  "url": "https://myanimelist.net/manga/58151/1",
+  "image": "https://cdn.myanimelist.net/images/manga/3/100697.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:44:53.000Z",
+  "updatedAt": "2021-05-08T19:17:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "9871c506-a187-4f26-aad4-f2770aa05b11": {
+        "authors": [
+          "Yamamoto Hideo"
+        ],
+        "identifier": "9871c506-a187-4f26-aad4-f2770aa05b11",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichi (Yamamoto Hideo)",
+        "url": "https://mangadex.org/title/9871c506-a187-4f26-aad4-f2770aa05b11",
+        "image": "https://uploads.mangadex.org/covers/9871c506-a187-4f26-aad4-f2770aa05b11/eb4483b2-1abb-4ef3-96f1-81bb0b1ec0ca.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58151,
+        "aniId": 88559,
+        "createdAt": "2020-10-12T16:06:43.000Z",
+        "updatedAt": "2021-06-03T21:37:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ichi_yamamoto_hideo": {
+        "authors": [],
+        "identifier": "ichi_yamamoto_hideo",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Ichi (Yamamoto Hideo)",
+        "url": "https://manganelo.com/manga/ichi_yamamoto_hideo",
+        "image": "https://avt.mkklcdnv6.com/22/i/9-1583480973.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58151,
+        "aniId": 88559,
+        "createdAt": "2020-10-12T16:23:29.000Z",
+        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

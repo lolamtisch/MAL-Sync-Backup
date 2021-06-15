@@ -1,0 +1,64 @@
+{
+  "altTitle": [
+    "Spotted Flower"
+  ],
+  "authors": [
+    "Kio, Shimoku"
+  ],
+  "id": 23346,
+  "type": "manga",
+  "title": "Spotted Flower",
+  "url": "https://myanimelist.net/manga/23346/Spotted_Flower",
+  "image": "https://cdn.myanimelist.net/images/manga/2/119485.jpg",
+  "category": "Manga",
+  "hentai": false,
+  "createdAt": "2020-10-12T15:43:09.000Z",
+  "updatedAt": "2021-03-13T16:09:43.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "7fd01936-334d-41a9-bf3e-2388aa7e514f": {
+        "authors": [
+          "Kio Shimoku"
+        ],
+        "identifier": "7fd01936-334d-41a9-bf3e-2388aa7e514f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spotted Flower",
+        "url": "https://mangadex.org/title/7fd01936-334d-41a9-bf3e-2388aa7e514f",
+        "image": "https://uploads.mangadex.org/covers/7fd01936-334d-41a9-bf3e-2388aa7e514f/13e10e11-5812-407d-bd44-f763b8168ba2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23346,
+        "aniId": 53346,
+        "createdAt": "2020-10-12T16:03:20.000Z",
+        "updatedAt": "2021-06-02T13:16:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "spotted-flower": {
+        "authors": [
+          "KIO Shimoku"
+        ],
+        "identifier": "spotted-flower",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Spotted Flower",
+        "url": "https://mangasee123.com/manga/Spotted-Flower",
+        "image": "https://cover.nep.li/cover/Spotted-Flower.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23346,
+        "aniId": 53346,
+        "createdAt": "2021-03-13T16:09:43.000Z",
+        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

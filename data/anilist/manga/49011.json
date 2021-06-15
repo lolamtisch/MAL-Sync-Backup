@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "ハートの王様",
+    "King of Hearts"
+  ],
+  "authors": [
+    "Aki Yoshino"
+  ],
+  "id": 49011,
+  "malId": 19011,
+  "type": "manga",
+  "title": "Heart no Ousama",
+  "url": "https://anilist.co/manga/49011",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b49011-lIJXDlTA3DkH.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:45:15.000Z",
+  "updatedAt": "2021-05-20T14:45:15.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "33a01d99-ce11-407b-9458-3fddc437ed81": {
+        "authors": [
+          "Yoshino Aki"
+        ],
+        "identifier": "33a01d99-ce11-407b-9458-3fddc437ed81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heart no Ousama",
+        "url": "https://mangadex.org/title/33a01d99-ce11-407b-9458-3fddc437ed81",
+        "image": "https://uploads.mangadex.org/covers/33a01d99-ce11-407b-9458-3fddc437ed81/fbb35dea-9420-47c2-9423-6605fa7dfef7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19011,
+        "aniId": 49011,
+        "createdAt": "2020-10-12T16:03:23.000Z",
+        "updatedAt": "2021-06-02T13:37:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

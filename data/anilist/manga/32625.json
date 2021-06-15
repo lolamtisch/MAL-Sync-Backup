@@ -1,0 +1,44 @@
+{
+  "altTitle": [
+    "Le Cocon",
+    "Material Flight"
+  ],
+  "authors": [
+    "Wren Tamaquis"
+  ],
+  "id": 32625,
+  "malId": 2625,
+  "type": "manga",
+  "title": "Mayu",
+  "url": "https://anilist.co/manga/32625",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/2625.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:37:13.000Z",
+  "updatedAt": "2021-05-20T14:37:13.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "24e30605-e305-4819-a1ff-63885896b465": {
+        "authors": [
+          "Tamaquis Wren"
+        ],
+        "identifier": "24e30605-e305-4819-a1ff-63885896b465",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mayu",
+        "url": "https://mangadex.org/title/24e30605-e305-4819-a1ff-63885896b465",
+        "image": "https://uploads.mangadex.org/covers/24e30605-e305-4819-a1ff-63885896b465/fe9d2cb5-167b-47e6-a091-5af2e5be4f7d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2625,
+        "aniId": 32625,
+        "createdAt": "2020-10-12T16:11:57.000Z",
+        "updatedAt": "2021-06-05T12:12:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}

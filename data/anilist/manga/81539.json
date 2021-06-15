@@ -1,0 +1,66 @@
+{
+  "altTitle": [
+    "ラストノーツ"
+  ],
+  "authors": [
+    "Kanoko Sakurakouji"
+  ],
+  "id": 81539,
+  "malId": 51539,
+  "type": "manga",
+  "title": "Last Notes",
+  "url": "https://anilist.co/manga/81539",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx81539-8hX78MtqUgg7.jpg",
+  "category": "manga",
+  "hentai": false,
+  "createdAt": "2021-05-20T14:49:51.000Z",
+  "updatedAt": "2021-05-20T14:49:51.000Z",
+  "deletedAt": null,
+  "Pages": {
+    "Mangadex": {
+      "f32c41ba-0102-45ad-a20b-f754b9e2ed54": {
+        "authors": [
+          "Sakurakouji Kanoko"
+        ],
+        "identifier": "f32c41ba-0102-45ad-a20b-f754b9e2ed54",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Last Notes",
+        "url": "https://mangadex.org/title/f32c41ba-0102-45ad-a20b-f754b9e2ed54",
+        "image": "https://uploads.mangadex.org/covers/f32c41ba-0102-45ad-a20b-f754b9e2ed54/dcdcf6f3-cbcf-444b-8bcf-a22405d4c2d6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51539,
+        "aniId": 81539,
+        "createdAt": "2020-10-12T16:06:26.000Z",
+        "updatedAt": "2021-06-03T19:37:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "last_notes": {
+        "authors": [
+          "Sakurakoji",
+          "Kanoko"
+        ],
+        "identifier": "last_notes",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Last Notes",
+        "url": "https://manganelo.com/manga/last_notes",
+        "image": "https://avt.mkklcdnv6.com/4/s/8-1583478354.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51539,
+        "aniId": 81539,
+        "createdAt": "2020-11-10T01:12:24.000Z",
+        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
+}
