@@ -5,25 +5,12 @@ The data is updated once a week. Wrong/missing mappings are not seldom, speciall
 ## Stats
 
 <!--statstable-->
-| Page      | Total | Malids | Empty |
-| --------- | ----- | ------ | ----- |
-| 9anime    | 12551 | 12377  | 174   |
-| Gogoanime | 7460  | 7351   | 109   |
-| Mangadex  | 45623 | 25349  | 20274 |
-| MangaNato | 4643  | 2580   | 2063  |
-| Twistmoe  | 1992  | 1971   | 21    |
-| animepahe | 3689  | 3687   | 2     |
-| MangaFox  | 6235  | 3875   | 2360  |
-| MangaSee  | 5362  | 4533   | 829   |
 <!--/statstable-->
 
 ## Structure
 
-| :warning: WARNING: firebase.json has been deprecated! |
-| --- |
-
 ### MAL -> Streaming Page Structure:
-`mal.json -> /(anime|manga)/[id]`  
+`data/myanimelist/(anime|manga)/[id].json`  
   
 anime/19815
 ```json
@@ -75,7 +62,7 @@ anime/19815
 ```
 
 ### Streaming Page -> MAL Structure:  
-`page.json -> [streaming page key]/[id]`  
+`data/pages/[streaming page key]/[id].json`  
   
 9anime/214
 ```json
