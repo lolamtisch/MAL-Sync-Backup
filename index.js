@@ -19,7 +19,7 @@ async function backup(url, name, type = 'anime', page = 0, ids = {}) {
 				ids[data.page ?? type] = [];
 			}
 			ids[data.page ?? type].push(data.identifier ?? data.id);
-			return fs.outputFile(`data/${name}/${data.page ?? type}/${data.identifier ?? data.id}.json`, JSON.stringify(data))
+			return fs.outputFile(`data/${name}/${data.page ?? type}/${data.identifier ?? data.id}.json`, JSON.stringify(data, null, 2))
 		})
 		await Promise.all(promises);
 
@@ -27,7 +27,7 @@ async function backup(url, name, type = 'anime', page = 0, ids = {}) {
 			return await backup(url, name, type, page + 1, ids);
 		} else {
 			for(item in ids) {
-				await fs.outputFile(`data/${name}/${item}/_index.json`, JSON.stringify(ids[item]))
+				await fs.outputFile(`data/${name}/${item}/_index.json`, JSON.stringify(ids[item].sort(), null, 2))
 			}
 			if(type === 'anime') {
 				return await backup(url, name, 'manga')
